@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Über Sprachverwandtschaft</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Siebenter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif0702humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1907">1907</date>
+                  </imprint>
+                  <biblScope unit="page" from="629" to="636"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="7.629" xml:id="pbVII629"/>
+            <head>
+               <title type="main">i6. Ueber Sprachverwandtschaft.</title>
+            </head>
+            <p>Die Bestimmung der Verwandtschaft der verschiedenen bekannten Sprachen, welche allein eine richtige Stammtafel der- selben begründen kann, ist eins der wesentlichsten Erfordernisse des allgemeinen Sprachstudiums. Sobald es nicht mehr bloss darauf ankommt, eine Sprache zu dem täglichen, oder wissen- schaftlichen Gebrauch zu erlernen, oder zu bearbeiten, sondern dieselbe zu zergliedern, ihren Bau zu ergründen, und ihre Eigen- thümlichkeit darzustellen, kann man sie nicht mehr einzeln, sondern nur im Zusammenhange mit Allem betrachten, was auf sie einen Einfluss ausgeübt hat.</p>
+
+            <p>Ebensowenig ist dieser Gegenstand für die Geschichte gleichgültig. Zwar wird es immer unmöglich bleiben, ihr Gebiet von dieser Seite aus wesentlich zu erweitern; und ich theile keines- weges die Meynung derer, welche auf diesem Wege zu grossen neuen Entdeckungen zu gelangen, und weit über alle schriftliche und mündliche Ueberlieferungen hinauszugehen hoffen. Auch die tiefsten und gelungensten Untersuchungen dieser Art können nie zu einzelnen bestimmten Thatsachen, die sonst unbekannt gewesen wären, führen, sondern nur schon bekannten mehr Gewicht leihen, gewisse Meynungen ausschliessen, und bisweilen gleichsam die Gränzen angeben, zwischen welchen dasjenige, was nicht auf uns gekommen ist, gelegen haben muss. Keine zer- gliedernde Vergleichung der Lateinischen und Griechischen Sprache wird jemals bestimmt zeigen können, wie die erstere aus Griechenland nach Italien herübergekommen ist; allein eine vielseitigere, als man bis jetzt vorgenommen hat, eine, welche den offenbar in</p>
+
+            <p>Handschrift (8 halbbeschriebene Folioseiten, ohne Titel) im Archiv in Tegel.<pb n="7.630" xml:id="pbVII630"/> der Lateinischen Sprache enthaltenen nicht Griechischen Stoff mehr zu achten, und richtiger zu beurtheilen versteht, wird überzeugend darthun, dass die Entstehung dieser Sprache weit über alle Nachrichten hinaufgeht, welche wir von Einwanderungen griechischer Stämme in Italien kennen, und dass zu ihrer Entstehung auch Sprachen mitgewirkt haben, die wir nur noch im äussersten Westen von Europa antreffen. Man wird auf diesem Wege dahin gelangen, wie in der Kunst (wenn man die Cyclopischen Mauern, die Etrus- kischen Denkmale, und die Werke der Römer zusammennimmt) so auch in der Sprache eine dreifache Periode zu unterscheiden: die der Urvölker; die der Etrusker, Oscer, u. s. f und die der Römer und Griechen. Legte man aber auch weniger Gewicht auf solchen, wirklich die Masse der Kenntnisse bereichernden Gewinn, so ist das Verwandtschaftsstudium der Sprachen immer nothwendig, eine Menge falscher Me3^nungen, Vermuthungen und Systeme mit einiger Gründlichkeit zu widerlegen. Ohne selbst von dem Misbrauch zu reden, welchen Valancey ^) und andre ihm ähnliche angebliche Sprachforscher mit diesem Studium getrieben haben, hat man sich in keinem andren wissenschaftlichen Gebiete so abentheuerliche Voraussetzungen erlaubt, und obgleich nur wenige grossen Eingang gefunden haben, so sind doch mehrere, auch der falschesten so stehen geblieben, dass ein hartnäckiger Verfechter derselben schwer würde zum Schweigen gebracht werden können. Die angebliche Bevölkerung Irrlands von dem Norden von Spanien aus, und die gemeinschaftliche Abstammung der Finnen und Ungarn können als Belege dieser Behauptung gelten. Allein auch den Nutzen für die Sprachkunde und Geschichte ganz ungerechnet, bleibt es eine höchst wichtige und der Auf merksamkeit würdige Erörterung: inwieweit die Verwandtschaft unter den Sprachen mit einiger Gewissheit bestimmt, und an welchen Kennzeichen dieselbe erkannt werden kann? Denn sie führt nicht bloss in fast alle tiefsten und feinsten Fragen des philosophischen Sprachstudiums, sondern klärt auch die Absonderung und Verzweigung des Menschengeschlechts mehr auf, und stellt das intellectuelle Leben der Nationen auf einem Punkte dar, wo es, unabhängig von der Eigenthümlichkeit und der Will- kühr der Individuen, einer höheren Ordnung der Dinge angehört.</p>
+
+            <p>Vgl. über Vallancey Dictionary of national biography §8, 82.</p>
+
+            <pb n="7.631" xml:id="pbVII631"/>
+            <p>Bisher aber sind die beiden hier aufgeworfenen Fragen noch auf eine sehr wenig befriedigende Weise beantwortet worden; ja man hat selbst nicht den Versuch sie zu beantworten auf rich- tige Grundsätze zurücl\;gebracht. Ich rede hier nicht einmal von der ganz und gar verwerflichen Methode (die noch immer zu sehr befolgt wird) eine Anzahl von Wörtern, nach der Aehnlich- keit ihres Schalls und ihrer Bedeutungen, mit einander zu vergleichen. Man erhält dadurch nicht bloss unvollständige, sondern oft auch durchaus unrichtige Resultate, und die letzteren oft in doppelter Art. Denn es wird nicht bloss leicht zusammengestellt, was nicht zusammengehört, sondern auch häutig das wirklich Ver- wandte getrennt. Das letztere ist vorzüglich dann der Fall, wenn dasselbe, eigentlich eine Eigenschaft bezeichnende Wort in zwei Sprachen der Ausdruck verschiedner, nur in dieser Eigenschaft mit einander übereinkommender Substantiva ist; wie man es in rtvgyog und Berg, ensis und Sense, corda und Horde, quee^t und kone findet. Da sehr viele Sprachen, nach dieser ganz rohen Vergleichung, Wörter mit einander gemein haben, so müsste man nun mechanisch abzählen, in welchen die meisten angetroffen werden, und die Verlegenheit wird noch dadurch vermehrt, dass an sich gar nicht verwandte Sprachen doch später gegenseitig von einander können Wörter aufgenommen haben. Dies zu unterscheiden, hat zwar schon Adelung die Regel angegeben, dass alle Ausdrücke solcher Gegenstände, welche auch die roheste Nation kennen und bezeichnen muss, gewiss der Sprache ursprünglich eigenthümlich sind;^) allein auch dies täuscht, da selbst bei diesen Gegenständen der fremde Ausdruck den alten einheimischen bis zur Vergessenheit verdrängt haben kann.</p>
+
+            <p>Allein wenn man auch neuerlich diesen Weg verlassen, und darauf gedrungen hat, einmal erst die Wörter der eignen Sprache auf ihre einfachsten Wurzellaute zurückzubringen, ehe man sie mit fremden vergleicht, und zweitens die Ver\vandtschaft der Sprachen mehr in ihrem Bau, als in ihren Bestandtheilen aufzusuchen; so ist man dadurch dem Ziele noch nicht um Vieles näher gerückt.</p>
+
+            <p>Die hier angegebene erste Methode, deren Ausführung schon in hohem Grade schwierig ist, führt darum nicht leicht zu irgend sichren Bestimmungen, weil, bei der Gleichmässigkeit der SinnV ygl- seinen Mithridates i, VII.<pb n="7.632" xml:id="pbVII632"/> Werkzeuge aller Nationen, auch fast bei allen, selbst ohne Verwandtschaft und geschichtlichen Zusammenhang, dieselben Wurzel- laute Symbole derselben Wahrnehmungen und Empfindungen sind. Wenn daher, wovor es, auch bei der grossesten Sorgfalt, unglaublich schwer ist, sich zu hüten, nur einige Willkühr in der Verwechslung der Buchstaben, und der Bestimmung des Ganges der bezeichnenden Einbildungskraft hinzukommt, so lässt sich fast jede Sprache in jeder andren wiederfinden, und die Begritfe werden eher verwirrt, als bestimmt. Immer kann daher dies Prüfungsmittel nur in Verbindung mit andern mit glücklichem Erfolge gebraucht werden.</p>
+
+            <p>Der zweite ist unstreitig wirksamer und entscheidender. Der Geist einer Nation, welcher doch der Sprache sein Gepräge er- theilt, und das ihrige empfängt, drückt sich allerdings bestimmter in ihrem Bau, ihrem Systeme, der Zusammenfügung ihrer Bestand- theile, als in diesen, immer mehr von zufälligen Umständen abhängigen aus. Allein man hat die Untersuchung bis jetzt höchstens auf die Grammatik ausgedehnt. Diese aber muss, da sie grossen- theils, ohne Antheil der Einbildungskraft, eine Anwendung logischer Gesetze auf die Sprache ist, überall eine gewisse Gleichheit bewahren, und wenn daher diese nicht auf Verwandtschaft schliessen lässt, so ist auf der andern Seite die Verschiedenheit der Grammatik bei weitem nicht immer auch ein Beweis der Verschiedenheit der Sprachen selbst. Denn sie bezeichnet sehr häufig nur denjenigen Bildungspunkt, auf welchem eine Sprache stehen geblieben ist, indess die andre Veränderungen erfahren hat, in welchen, durch den Untergang vieler Formen, Lücken entstanden, und andre durch das Erlöschen der Spuren ihrer Zusammensetzung unkenntlich geworden sind. Dann hat man auch in der Gram- matik mehr die einzelnen Bezeichnungsmittel der Verhältnisse der Begriffe aufgezählt, als mit Klarheit dargelegt auf welche eigen- thümliche Art in jeder Sprache der Bau der Rede aus den Be- standtheilen hervorgeht; und nun zeigt die Erfahrung, dass in jenen Bezeichnungsmitteln unläugbar und geschichtlich erweisbar verwandte Sprachen sehr verschieden seyn können, wie die Englische anders, als alle, aus denen sie entsprungen ist, kein Geschlecht hat, und die Dänische ein Passivum besitzt. Das Erstere kommt unstreitig von der, die Kennzeichen der Endungen so häufig verwischenden niederdeutschen Mundart her; dem letzteren aber liegt wohl ein verstecktes Impersonale zum Grunde.</p>
+
+            <pb n="7.633" xml:id="pbVII633"/>
+            <p>Sprachverwandtschaft. 6*?^</p>
+
+            <p>Ueberhaupt hat man, wenn die \"ergleichung vergönnt ist, wohl die Anatomie der Sprache vielfältig bearbeitet, allein die Physiologie derselben gänzlich liegen lassen ; und so wie die Zergliederungskunst sich Jahrhunderte lang ängstlich beschäftigte, einigen Theilen des Gehirns, welche eine eigenthümliche Form besitzen, Namen zu geben, ohne zu ahnden, dass die grosse ungeschiedene Masse eigentlich die wichtigsten Aufschlüsse über die geistige Organisation enthielte, so ist man in den Sprachen fast ausschliessend bei den grammatischen Formen, und der Bildung der abgeleiteten Wörter stehen geblieben, hat aber die der Stammwörter, und ihren Innern Zusammenhang, und den Gang der Einbildungskraft in der Bezeichnung der Begriffe entweder gar nicht, oder erst sehr spät beachtet. Allerdings ist auch das eine und das andre mit viel grösseren Schwierigkeiten verknüpft.</p>
+
+            <p>Um nun die hier gerügten Irrthümer, oder vielmehr Unvoll- ständigkeiten zu vermeiden, und die Untersuchung wenigstens so weit zu führen, als es der gegenwärtige Zustand des Sprachstudiums erlaubt, muss man einen doppelten Weg einschlagen, einen mehr philosophischen, und einen rein empirischen. Auf dem ersteren muss man der Entstehung verwandter Sprachen überhaupt, auf dem letzteren den Erscheinungen der einzelnen nachgehen, die allgemein dafür anerkannt sind.</p>
+
+            <p>Ehe man die \^erwandtschaft der Sprachen in Thatsachen aufsuchen kann, muss man die leitenden Grundsätze dazu in ihrer allgemeinen Form entdecken. Zu diesem Behuf muss man auf die Natur der Sprachen, und auf ihren Ursprung zurückgehen. Wer oft mehrere mit einander verglichen hat, dem wird es auch oft widerfahren seyn, zwar die ungeheure Verschiedenheit im Ganzen, in dem Aeussren der Erscheinung, und im Charakter und den Wirkungen, auch eine grosse Menge einzelner in dem Bau, und den Wörtern wahrzunehmen, allein schlechterdings in Verlegenheit zu gerathen, wenn er nun aus diesen jene zu er- klären versucht. Die erste Frage ist daher die: in welchen Stücken und wodurch sind eigentlich verschiedene Sprachen verschieden? die nächst darauffolgende: in welchen Ursachen können diese Verschiedenheiten gegründet seyn? die letzte endlich: in welchen der hier ausgemittelten Stellen liegt nun dasjenige, was von einander, oder gemeinschaftlich von einer dritten erzeugte Sprachen zugleich ähnlich und eigenthümlich macht? Die Beantwortung jeder dieser Fragen führt von den Sprachen zu den<pb n="7.634" xml:id="pbVII634"/> Nationen, und sie kann nicht erschöpfend ausfallen, wenn sie nicht bis zu dem Punkte gelangt, auf dem die Eigenthümlichkeit beider zusammentrifft, und sich wechselseitig aufklärt. Man darf freilich auf diesem Wege nicht hoffen zu praktisch anwendbaren Kennzeichen zu kommen; allein man wird dadurch sichrer, dieselben nicht auf eine unrichtige Weise aufzusuchen, und vorzüglich sich nicht in den Ursachen der gefundenen Aehnlichkeiten zu täuschen; indem man sich dahin zu stellen versucht, von wo die Verwandtschaft ausgehen muss, geräth man weniger in Gefahr, ihre Erscheinungen unvollständig zu erkennen, oder mit andren zu verwechslen. Es hiesse das feine und zarte, tief mit dem Geiste und dem Gefühle verwebte Wesen der Sprache verkennen, wenn man sich einbildete, dass sich das an ihr Charakteristische auf eine irgend erschöpfende Weise mathematisch bestimmen Hesse. Wie man in der physiognomischen Verwandt- schaft der Völker zwar allenfalls den Winkel der Gesichtslinie feststellen, aber übrigens auch nicht die Vielfachheit der übrigen Aehnlichkeiten nach dem Massstabe angeben kann; so erschöpft auch in der Sprache nicht das todte Gerippe von grammatikalischen Formen und Wörterfamilien das Wesen an welchem die Spur der Abstammung nur wie ein leiser Hauch haftet. Mehr daher, als trockne, mechanische Vergleichung, muss hier das geübte Gefühl entscheiden, das aber, um sicher zu urtheilen, von so klarer und bestimmter Einsicht unterstützt seyn muss, als man sich nur immer in die verschwisterte Natur des Menschen und der Sprache zu verschaffen vermag.</p>
+
+            <p>Merkwürdig ist es auch, der Entstehung verwandter Sprachen geschichtlich zu folgen, allein nur sehr selten sind hinlängliche Angaben dazu vorhanden. Selbst da, wo die Umwandlung in einer Zeit geschehen ist, welche ganz der Geschichte angehört, und wo die übriggebhebenen Spuren mit dem Fleiss und dem Scharfsinn eines Muratori gesammelt werden, ist die Ausbeute nur dürftig und wenig befriedigend.</p>
+
+            <p>Wie der hier beschriebene Weg S3^nthetisch ist, so ist der oben vorgeschlagene empirische durchaus analytisch. Man nimmt Sprachen deren Verwandtschaft bekannt, und nicht zu bezweifeln ist; man untersucht ihren Bau bis in seine kleinsten Theile, setzt ihre Aehnlichkeiten und ihre Eigenthümlichkeiten aus einander, und wendet nun die in ihnen entdeckten Kennzeichen auf solche Sprachen an, über deren Verwandtschaft man bisher nur Ver<pb n="7.635" xml:id="pbVII635"/>Sprachverwandtschaft. G'^K muthungen, oder auch nicht einmal diese hatte. Die Beziehungen, die wir mit historischer Gewissheit unter verschiedenen Sprachen kennen, sind mannigfaltig, und in Graden von einander entfernt; hier w^äre es nun gut, von den nahen zu den entfernten überzugehen, und etwa folgende Vergleichungen stufenweis anzustellen: 1. blosser verschiedener Mundarten: der griechischen unter einander; der Vaskischen; der ober- und niederdeutschen; der Kymrischen und Bas Bretonschen.</p>
+
+            <p>2. so nah verwandter Sprachen, dass sie beinahe für Mundarten gelten können: der dänischen und Schwedischen; beider mit der Deutschen; der Lateinischen und Griechischen.</p>
+
+            <p>3. solcher Sprachen, die aus Verderbung andrer entstanden sind: der alt- und neu-Griechischen; der Lateinischen Töchtersprachen mit der Lateinischen.</p>
+
+            <p>4. solcher, deren Abstammung unbekannt, deren Verwandtschaft aber in die Augen fallend ist: der Deutschen und Griechischen.</p>
+
+            <p>5. solcher, deren ^'e^wandtschaft w^ahrscheinlich, aber nicht gerade in die Augen fallend ist: der Griechischen mit der Hebräischen.</p>
+
+            <p>6. solcher, zwischen denen aus gar keinem besondren Grunde eine Verwandtschaft geahndet werden kann: der Mexicanischen, oder irgend einer andern Amerikanischen, mit den Europäischen Muttersprachen. Würde, was keine zu schwer zu übersehende Arbeit wäre, eine solche Reihe von Vergleichungen neben einander aufgestellt, und durch die drei Punkte durchgeführt, welche jeder Sprache ihre Eigenthümlichkeit geben :</p>
+
+            <p>1. den grammatikalischen und lexicalischen Bau; 2. die Familien der Wörter;</p>
+
+            <p>3. die Mittel (vorzüglich Flexionssilben) deren sich die Grammatik zur Bezeichnung der durch sie unterschiedenen Zustände der Wörter bedient; so würde man der Beantwortung der Frage, welche Sprachähnlichkeiten Kennzeichen gemeinschaftlicher Abstammung sind?<pb n="7.636" xml:id="pbVII636"/> und der Beurtheilung jetzt ganz zweifelhafter Sprachen bei weitem näher kommen.</p>
+
+            <p>Wasserseichen und äußerer Charakter der Handschrift verweisen ttnsern Aufsatz in die wiener Jahre, in denen die Abhandlungen über das Baskische für Vaters Mithridates und Schlegels Museum, der Versuch über die Sprachen des neuen Kontinents und die beiden dort folgenden kleineren Aufsätze entstanden sind; er dürfte also 1812 oder 1814 niedergeschrieben sein.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

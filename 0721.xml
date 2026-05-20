@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Über den Begriff imd die Vorteile und Nachteile der Preßfreiheit</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Siebenter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif0702humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1907">1907</date>
+                  </imprint>
+                  <biblScope unit="page" from="637" to="639"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="7.637" xml:id="pbVII637"/>
+            <head>
+               <title type="main">17. Ueber den Begriff, und die Vortheile und Nachtheile</title>
+            </head>
+            <div type="section" n="1">
+               <head>
+                  <title type="main">der Pressfreiheit.</title>
+               </head>
+               <p>Auf Veranlassung eines Aufsatzes in den Jahrbüchern der Literatur, ß. i. S. 210.</p>
+
+               <p>Das Wort Press fr eiheit wird in einem doppelten Sinne genommen, einem bedingten, und einem unbedingten. In der ersten Bedeutung, welche man die gesellschaftliche nennen könnte, versteht man darunter das Mass der Freiheit, dessen ein Schriftsteller in der That und Wirklichkeit, und abgesehen von den Formen, welchen sein Geschäft unterworfen ist, bei der Aeusse- rung seiner Gedanken geniesst; man redet daher von grosser und geringer, vernünftiger und ausschweifender Pressfreiheit, von Schranken und Erweiterungen derselben. In der zweiten, welche, als zur Bezeichnung bestimmter Unterschiede brauchbarer, die wissenschaftliche heissen könnte, versteht man darunter die Abwesenheit von Censurbehörden, oder andern dem Druck vorhergehenden polizeilichen Beschränkungen, nach dem buchstäbhchen Sinne des Wortes, die Freiheit der Presse, den Zustand wo sie drucken darf, was man ihr unterlegt, demjenigen entgegengesetzt, wo sie nur dasjenige drucken darf, was mit dem Imprimatur versehn ist. Die Möglichkeit, dass der Schriftsteller, Verleger oder Drucker, wegen der bereits erschienenen Schrift, vor Gericht gestellt werden, hebt die Unbedingtheit der Freiheit nicht auf. Unter Freiheit kann im Staate, und selbst im Naturzustande</p>
+
+               <p>Handschrift (2 halbbeschriebene Folioseiten) im Archiv in Tegel.<pb n="7.638" xml:id="pbVII638"/> (wenn man von diesem hier zu sprechen nöthig hätte) immer nur Freiheit unter nachheriger Verantwortlichlveit, im ersten Fall vor dem Gesetz, im zweiten vor den Ansprüchen des verletzten, sich selbst Recht schaffenden Theils verstanden werden. Eine Pressfreiheit, bei welcher der Staat sich gar nicht, weder vor, noch nachher, um Drucl^schriften bekümmerte, wäre eine Erklärung, entweder dass Jeder solle jeden Einzelnen, und den Staat selbst ungestraft beleidigen können, oder dass durch Schriften gar keine Beleidigung möglich sey. Beides ist widersinnig, und da eine solche Erweiterung der Freiheit also gänzlich aus dem Gebiete der, vorzüglich im Staat, denkbaren Freiheit hinausgehen würde, so kann sie nicht nothwendig seyn, um den Begriff der Freiheit unbedingt zu machen.</p>
+
+               <p>In England existirt daher unbedingte Pressfreiheit, wieviele Pamphletschreiber auch mögen in Anklagezustand gesetzt, oder bestraft werden. In Frankreich existirt die unbedingte Pressfreiheit nur für gewisse Schriften, für andre nicht ; man könnte dies zwar auch eine Bedingung und Einschränkung der Pressfreiheit nennen; doch drückt man sich richtiger aus, wenn man sagt, dass die Freiheit der Presse durch das Gesetz, nach Verschiedenheit der Fälle, erklärt, oder aufgehoben ist. Denn der wichtige Unterschied ist immer der, dass im strengen Sinne des Worts die Pressfreiheit keine Grade hat, sondern Zwang und Freiheit einander bestimmt entgegenstehen.</p>
+
+               <p>Man thäte besser, den Ausdruck der Pressfreiheit ausschliesslich von der unbedingten zu brauchen, und die bedingte schriftstellerische Freiheit zu nennen. Es wäre der Natur der Sache, und der Bedeutung der Wörter angemessener, und es würde sich dann auch zeigen, dass zu Zeiten mehr schriftstellerische Freiheit in einem Lande vorhanden seyn kann, das der Pressfreiheit entbehrt, als in einem, wo sie gesetzlich ist. Die Erörterung dieser Begriffe ist aber gewiss nicht bloss ein unnützer Wortstreit; die ganze Folge dieser Betrachtungen wird zeigen, dass ein strenges Raisonnement durchaus einer scharfen Bestimmung derselben bedarf, und dass bei Vergleichung der verschiedenen, von den Staaten über die Pressfreiheit beobachteten Systemen nicht bloss von einem höheren, oder geringeren Grade der Freiheit der Schriftsteller, sondern von einem ganz andren Zustande der Dinge, andern Vortheilen, andern Gefahren, einer andern Behandlung von Seiten der verwaltenden Behörden die Rede ist.</p>
+
+               <pb n="7.639" xml:id="pbVII639"/>
+               <p>Im ersten Quartalsheft der wiener Jahrbücher der Literatur vom Jahre iS:S (S. 210) erschien, anknüpfend an eine englische und vier französische Schriften über das gleiche Thema von Holt, Bergasse, Constant, Bailleul und Ricard, eine Abhandlung von Gent: über die Preßfreiheit in England fSchrißen 2, ^g), der eine die französischen Verhältnisse behandelnde Fortsetzung folgen sollte. Gentzens Artikel hat, wie Schlesier mit Recht hervorhebt, den ersten Grundstein für eine gründliche Theorie dieses staatswissenschaftlichen Problems gelegt, das er geist- voll, scharfsinnig und beredt behandelt wie niemand vor ihm. Diese Arbeit seines alten Freundes veranlaßte Humboldt, wohl noch während seines Aufenthalts in London und immittelbar unter dem Eindruck der Lektüre, zu eitrer eigenen Beleuchtimg des Problems, die leider nicht über den allerersten Anfang hinaus gediehen ist. Wir würden sonst eine Darstellung erhalten haben, die, weil auf einem philosophischeren Boden erwachsen und ohne Rücksicht auf praktische und Verwaltungsmaßregeln unternommen, seine auf uns gekommenen Denkschrißen von 180g (Band 10, ^i. ^s) "^^«^ ^^^^ (Forschungen zur brandenburgischen und preußischen Geschichte 7, 122; fehlt in unsrer Ausgabe) in sehr wertvoller Weise ergänzen würde. In bezug auf die Grundgedanken befand sich Humboldt mit Gentz nirgends im Widerspruch, wie Gebhardts Auszüge (Wilhelm von Humboldt als Staatsmann i, jji. 2, 221) bequem erkennen lassen. Da die intime Korrespondenz beider Freunde bedauerlfcherweise bis auf geringe Reste verschollen ist,, so ist nicht zu bestimmen, ob Gentzens Anonymität für Humboldt durchsichtig oder durch ihn selbst aufgeklärt war oder nicht.</p>
+
+               <p>Körners kritische Bemerkungen zu der ihm im Manuskript vorliegenden Abhandlung über das vergleichende Sprachstudium (Band 4, i. 4j6J habe ich inzwischen im Euphorion 12, 79J abdrucken lassen.</p>
+
+               <p>Die Abhandlung über die Aufgabe des Geschichtschreibers (Band 4, ^5. 457/ steht, wie Spranger (Historische Zeitschrift ioo,s4i) kürzlich nachgewiesen hat, in engstem Zusammenhange mit Schellings Philosophie, eine Beobachtung, die auch für die genauere historische Erkenntnis von Humboldts Sprachphilosophie noch von weittragenden Folgen sein dürfte. Körners kritische Bemerkungen sind jetzt im Euphorion 12, 795 abgedruckt.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

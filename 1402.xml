@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Göttingen</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Vierzehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif14humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1916">1916</date>
+                  </imprint>
+                  <biblScope unit="page" from="66" to="75"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1788">1788</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="14.66" xml:id="pbXIV66"/>
+            <head>
+               <title type="main">Göttingen.</title>
+            </head>
+            <p>1788. December.</p>
+
+            <p>8.</p>
+
+            <p>Therese ^) gab mir einen Brief an Mariane. ') Sie beschrieb sie mir als ein edles grosses, doch kaltes, nicht sanftes und unglük- liches Alädchen. Der Brief war so zugemacht, dass man ihn lesen konnte. Ich las und fand mich auf folgende Art empfohlen. Nimm ihn gnaedig auf, ich hoffe seine Bekanntschaft wird dir Freude machen. Das: gnaedig zeigt den Ton auf dem die Schwestern mit einander umgehen, und die Art, wie Mariane die Leute aufzunehmen pflegt. Ich gieng dreimal zu ihr, das erstemal mit Schlegel, ^) dann allein. Des Details des Gespraechs erinnere ich mich nicht mehr. Nur im Ganzen von dem Eindruk, den sie auf mich machte. Sie ist nicht schön, weder im Wuchs, noch Gesicht; aber sie hat etwas sanftes, gefälliges, liebenswürdiges in der Mine. Ihre Sprache ist nicht angenehm, nicht ihr Ton, nicht ihre Ausdrüke, die oft gemein, ja studentisch, wie prellen,"^) sind, nicht ihre Wortfügung, ^) die sehr fehlerhaft ist. Kenntnisse sagte Therese hätte sie wenig. Soviel ist gewiss, sie glaubt w^enig zu haben, und ist überhaupt sehr bescheiden. Eitelkeit bemerkte ich nicht eben an ihr. Doch sah ich sie auch immer allein und in Lagen, wo die Eitelkeit nicht ausbrechen konnte. Heftig scheint sie sehr, sie beklagte sich auch selbst gegen mich darüber. Mit</p>
+
+            <p>Handschrift (16 Oktavseiten) im Archiv in Tegel.</p>
+
+            <p>') Therese Forster; vgl. oben S. jg Anm. 4.</p>
+
+            <p>'^) Ihre Schwester Marianne Heyne; vgl. oben S. 42 Anm. ^. ') August Wilhelm Schlegel 'jyOy — 184^) studierte in Göttingen bei Heyne Philologie: über seine Beziehungen zu HutJiboldt vgl. Delbrücks Einleitung zu meiner Ausgabe des Briefwechsels beider Männer (Halle igo8) und ebenda S. 26z.<pb n="14.67" xml:id="pbXIV67"/> ihrer Stiefmutter^) vertraegt sie sich nicht gut, und spricht auch leicht gegen sie. Ich glaubte, ihr Stolz würde es nicht ertragen, wenn man damit einstimmte, doch scheint sies gut genug auf- zunehmen. Dennoch ist sie wieder auf der andren Seite mit ihr vertraut, und erzählt ihr alle ihre Besuche, die Hauptmomente des Gespraechs u. s. f. Sie scheint kalt, doch halte ich sie nicht dafür, sie ist wohl nur unrecht behandelt worden. Prinz August^) ist ihr gut gewesen und sie ihm. Doch, sagte Girtanner, ^) liebe sie nur den Prinzen, nicht August. Jenner*) hat ihr die (&gt;our gemacht, und ist gut aufgenommen worden. Beide Schwestern haben sogar in Girtanners Gegenwart Verabredungen gemacht, wie Mariane ihn irgendwo treffen könne. Jezt ist er auf ewig in der Gnade gesunken. Er soll eine Indiscretion bei den Prinzen begangen haben. Er schreibt iezt oft Briefe, die er aber unerbrochen wieder erhält. Diese Zudringlichkeiten müssen ihm offenbar schaden. Mariane ist stolz. Sie muss wieder mit Stolz behandelt werden. Für einen, der sich kriechend gegen sie betraegt, hat sie gewiss keine Achtung. Sie hatte mir vorige Woche einmal sagen lassen, sie sei nicht zu Hause. „Ich habe eine Sünde auf dem Gewissen", sagte sie mir als ich heute ins Zimmer trat, „die ich Ihnen ge- stehn muss. Ich habe mich gegen Sie verläugnen lassen, aber ich fürchtete mit oder nach Ihnen einen andren Besuch, den ich nicht annehmen wollte, und den ich Ihnen sagen werde, wenn wir vertrauter mit einander sind." Es währte kaum eine Viertelstunde, so sagte sie mir, der Besuch wäre Schlegel gewesen, und beklagte sich entsezlich über die Langeweile, die ihr seine Besuche machten. Sie wiederholte mir, dass sie mich deswegen nicht angenommen, und sezte hinzu: ich hielts für indiscret, meinem Mädchen zu sagen, den einen zu mir zu lassen, und den andren abzuweisen. Diese Vorsicht gefiel mir, und dass sie mir das Ganze sagte gefiel mir. Sie weiss doch dass ich Schlegel genau kenne, und muss<note type="footnote" n="*)" resp="gnd-116890657"><hi>Vgl. Kluge, Deutsche Studentensprache S. iis'•) Nach „Wortfügung" gestrichen: „nicht viel Kunst".</hi></note></p>
+
+            <p>') Georgine Heyne; vgl. oben S. 46 Antn. 5. ^) Augusl Friedrich Pririz von England (lyj!^ — iS4j), Sohn Georgs III., studierte mit seinen Brüdern Ernst August und AdolJ Friedrich seit dem Sommer i'j86 in Göttingen: vgl. Frensdorffs erschöpfenden Artikel in der Zeitschrift des historischen Vereins für Niedersachsen igo^ S. 421.</p>
+
+            <p>') Christoph Girtanner (lyöo—iSoo), Arzt und politischer Schriftsteller in Göttingen.</p>
+
+            <p>*■} Ludwig Rudolf von Jenner, ein Schweizer, studierte Jurisprudenz in Göttingen; einen Windbeutel, der jedem Weibe den Hof macht, nennt ihn Humboldt brieflich (an Henriette Herz, 11. November ijSSJ.<pb n="14.68" xml:id="pbXIV68"/> also das Vertrauen zu mir haben, dass ich nicht wiedersage, was bei ihr gesprochen wird. Sonst beweist es freilich weniger, dass sie mir es sagte, als wenn sies einem andren gethan hätte, weil ich immer an ihren Fenstern, ob sie zu Hause ist, sehn kann. Allein es zeigte doch, dass sie die Idee in mir nicht wollte, als sähe sie mich ungern. Ich sprach, vorzüglich im Anfang, von gleichgültigeren Dingen, zum Theil sogar von Stadtneuigkeiten, suchte aber doch an iede eine Bemerkung, oder ein Raisonnement zu knüpfen. Es ist freilich schwerer so gleichgültige Dinge zu reden, und sie doch interessant zu machen, als wenn man so gewisse schon an sich interessante Materien zum Gespraech wählt. Nicht zu gedenken dass man die leztere Methode sehr fein gebrauchen muss, um nicht ertappt zu werden, und dass man bei aller Fruchtbarkeit des Geistes doch am Ende Gefahr laeuft, sich zu wiederholen; so gewinnt man auch noch einen sehr wesentlichen Vortheil. Wenn das Mädchen mit andren spricht, so sind solche Dinge natürlich der Gegenstand des Gespraechs, und da werden denn Vergleichungen angestellt, die sehr vortheilhafte Wirkung thun. Vorzüglich aber hat es auch noch das Gute, dass man um durch das Gespraech zu interessiren, nicht gerade allein zu sein braucht. Soviel es mir möglich war suchte ich in das Gespraech ihre Individualitaet zu verwikeln. Ich leitete das Gespraech auf genirte, abhaengige Lagen. Ich sagte mit einiger Wärme, wie sehr ich mich darin befunden hätte. Ich beschrieb — ich wusste dass diess ihr Fall war, oder dass sie wenigstens glaubte, er seis — wie man darin Mistrauen auf seine Kräfte, Talente und Fähig- keiten bekäme, und nun eben dieses Mistrauens wegen wirklich auch weniger vermöchte. Sie stimmte in alles diess ein, und erzählte nun einen Theil ihrer Geschichte, und hierbei glaubte ich zu bemerken, dass sie in Wärme gerieth. Diess führte uns auf richtige Beurtheilung seiner selbst. Sie sagte, sie sei fast unmöglich. Ich wandte ein, sie sei es nicht mehr, wenn man einen Freund hätte, an dessen Worten und Betragen man sein Urtheil bemerken könne. Denn mehr müsse man nie fordern. Gesagte Urtheile wären immer partheiisch. Sie billigte das Mittel, nur könne sie nie zu iemand Vertrauen haben. Ich ergrifl begierig diese Gelegenheit über Vertrauen zu reden, und sagte: sich eigentliche Confidencen zu machen sei überaus schwach, und Abscheu davor nicht, wie mans nenne, kalt, sondern vernünftig und ein Beweis von Stärke. Wenn ich noch, sagte sie, Vertrauen<pb n="14.69" xml:id="pbXIV69"/> haben könnte, so wärs doch nur zu Einer Person. Ein schöner Zug, der wahre Mittelweg zwischen Kälte und Schwäche. Ueber das N'ertrauen von Männern zu Weibern erklärte sie sich undeutlich. Sie schien es zu misbilligen. Doch erfordert dieser Punkt nähere Aufklärung. Etwas, das sehr viel Güte des Charakters verrieth, sagte sie einmal. Sie liebe das Striken so, weil sie einmal bei dieser Arbeit mehr über sich nachgedacht, und gefühlt hätte, dass sie in ihrem Betragen (vielleicht gegen ihre Mutter) gefehlt habe, leberhaupt könne sie über so etwas sehr gut bei weib- lichen Arbeiten nachdenken, und die Arbeiten selbst hälfen ihr dazu. Das ist doch ein sehr liebenswürdiger Zug! Beim Weg- gehn machten wir aus, dass sie, so oft sie mich nicht gern sprechen wollte, sich verläugnen lassen sollte. Soviel von diesem Besuch. Im Ganzen geht mein Bestreben bei ihr iezt bloss dahin, zu machen, dass ich sie interessire, ohne doch merken zu lassen, dass ich darauf ausgehe. Mariane.</p>
+
+            <p>9Ich bekam einen Brief von Jette : <note type="footnote" n="^)" resp="gnd-116890657"><hi>Henriette Herz; vgl. oben S. i Anm. 2. ^) Sie ist nicht erhalten.</hi></note> nr. 83. Mir war der Ein- druk sehr merkwürdig, den er auf mich machte. Ich lachte, las ihn noch einmal, lachte wieder, erst beim dritten mal war ich ein wenig und nur ein wenig gerührt. So schrieb ich auch die Antwort^) bloss in erkünstelter Empfindung. Zwei Ursachen mögen Schuld sein. Ich liebe iezt sehr neue Lagen. Der Grundsaz dass man in vielen Lagen aller Art gewesen sein müsse, ist so fest in mir, dass mir jede, in der ich noch nicht war, schon darum angenehm ist. Dann sind mir ihre Briefe zu leer an Geist, sie gleichen Zukkerbrodten, denen es an Würze fehlt. So kommt mir die ganze Verbindung vor. Ob es anders werden wird, wenn ich wieder bei ihnen bin?</p>
+
+            <p>Verbindung.</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">II.</title>
+               </head>
+               <p>Seyffer ^) hatte eine Indiscretion begangen. Ich sagte bei der Gelegenheit- Girtanner fast alles, was ich böses von ihm wusste.</p>
+
+               <p>') Vgl. oben S. ^7 Anm. i.<pb n="14.70" xml:id="pbXIV70"/> Die Indiscretion betraf Stieglitz^) noch mehr. „Wenn er sich auch", sagte Stieglitz zu Girtanner, „gegen mich schlecht betragen hat, so berechtigt mich doch das nicht, es auch gegen ihn zu thun." Der Stich traf mich. Ich fühlte es tief und es war mir eine lehrreiche Warnung.</p>
+
+               <p>12.</p>
+
+               <p>Ich war bei Mariane. Ich wurde gütig empfangen. Mein Plan war, heute mehr als sonst, ihr Herz zu interessiren. Wir sprachen manches Nachtheilige von Schlegel. Ich ergriff die Gelegenheit, ihr mein Verhaeltniss mit Schlegel zu erklaeren, damit sie mich nicht für doppelzüngig hielt. Diess Gespraech half mir, manches zu meiner Absicht Dienende anzubringen. Dann w'ar wieder die Rede von Vertrauen. Sie sezte aus einander, wie sie nie Vertrauen in dem Sinn haben könne, dass sie dem Vertrauten alles sage. Was könne es helfen, ihm zu sagen, wenn man Kummer habe. Das sey Schwäche. Eher wollte sies dann entdekken, wenn es vorüber wäre. Die Aehnlichkeit in diesen Grundsäzen mit ihrer Schwester zeigt wohl, dass sie nach ihr sich bildete. Zulezt war von Umgang ueberhaupt die Rede, und ich hatte sehr gute Gelegenheit — die ich nicht unbenuzt Hess — ihr sehr viel Schmeichelhaftes über ihren Geist und die Art ihrer Unterhaltung zu sagen. Sie hatte gesagt, sie würde vielleicht morgen ins Concert gehn, ich redete ihr zu. Lange nachher, beim Weggehn, sagte ich: Vielleicht seh ich Sie morgen im Concert. Es frappirte sie, und sie fragte im Ton der Verwunderung: Wie kommts dass Sie morgen hinein gehn wollen?</p>
+
+               <p>Mariane.</p>
+
+               <p>13Girtanner hatte gestern Abend bei Heynes gegessen. Er hatte erzählt, dass er heute ins Concert gehn würde : Mariane hatte eben das von mir gesagt, und Schlegel hatte hinzugesezt: ia, das hat mir Humboldt schon angekündigt. Diese Zusammenkunft von Umständen war der alten Heyne so aufgefallen, dass sie gesagt hatte: dahinter muss etwas stekken, da muss ich auch hingehn. Girtanner begleitete mich ins Concert. Wir warteten und warteten. Weder meine noch seine Donna kam. Ich hatte Langeweile und</p>
+
+               <p>') Vgl. oben S. 8 Anm. i.<pb n="14.71" xml:id="pbXIV71"/> gieng zu Emilien.M Schon ein Paarmal war ich bei Emilien gewesen, und hatte andre da angetrotVen. Ich hatte dann, vorzüg- lich wenn diess uninteressante Leute waren, fast nichts gesprochen. Einmal gab sie ein Souper, lud Dohna-) ein, und mich nicht. Die Unhöflichkeit aergerte mich. Ich gieng in 14 Tagen nicht hin. Heute that ichs zum erstenmal wieder. „Ich dachte schon, Sie hätten mich ganz vergessen'' sagte sie mir, als ich hereintrat. Sie fuhr in dem Ton fort, war sehr gütig und sagte mir manches Schmeichelhafte. Es fiel mir ein zu versuchen, was ich in Einem Abend vermöchte. Ich nahm mich zusammen; ich redete von all den tausend Dingen, die Weiberchen, wie sie, bis auf den Grund des Herzens erschüttern. Das Mittel schlug nicht fehl. Wie ein Strom ergoss sich über mich — den sie 14 Tage vorher politisch genannt hatte — Vertraulichkeit auf Vertraulichkeit. Zuerst sprach sie von ihrem Mann,^) wie eine Frau doch nicht vor einem Fremden hätte reden sollen. Zwar zeigte sie viel Achtung, doch man weiss wohl, wieviel Weiber geben, bloss in der Absicht um noch einmal soviel nehmen zu können. Er habe kein Gefühl für ihr warmes empfindendes Herz, dulde kaum genaue Freundschaft zwischen ihr und einem dritten, erbreche aus blosser Indiscretion und Undelicatesse ihre Briefe u. s. f. Ich sagte bei Gelegenheit der Briefe : Aber Sie können sie durch eine Freundin bekommen. Sie können sich leicht vorstellen, antwortete sie mir, dass das auch geschah. Sie sprach von einer hohen, zum Entzükken beseligen- den Freundschaft — armer Xame, wie oft musst Du Deckmantel ganz andrer Empfindungen sein.^ — mit einem jungen Menschen, der aber, vorzüglich in ihrer Abwesenheit, andren die Cour gemacht hätte. Sie erzählte mir von Boutterwek,<note type="footnote" n="*)" resp="gnd-116890657"><hi>Emilie von Berlepsch, geb. von Oppel (i7S7 — ^^30), die spätere Freundin Jean Pauls; eine eingebildete, eitle, geschwätzige, nicht einmal sehr geistvolle Frau</hi></note> was sie für ihn gethan, und wie er durch plözliche Verlassung ihres Hauses sie grossem Gerede ausgesezt hätte. Endlich von Herder, jezt ihrem nennt sie Humboldt brieflich (an Karl Laroche, jo. November i-]88).</p>
+
+               <p>gesetzter während seiner Leitung der Unterrichtsverwaltung.</p>
+
+               <p>') Friedrich Ludwig Freiherr von Berlepsch (i-j4g—i8i8j, Hofrichter in Hannover, i-jg^ seiner Ämter entsetzt, später Staatsrat im Königreich Westfalen.</p>
+
+               <p><note type="footnote" n="*)" resp="gnd-116890657"><hi>Friedrich Ferdinand Alexander Graf Dohna (i-j-ji — 18^1), Humboldts Studienfreund schon von Frankfurt her, später als Minister des Inneren sein Vor-</hi></note> Friedrich Bouterwek (i-j66—i828}, Student in Göttingen, später Professor der Philosophie,<pb n="14.72" xml:id="pbXIV72"/> einzigen Freunde.<note type="footnote" n="^)" resp="gnd-116890657"><hi>Über Emilie von Berlepschs Beziehungen zu Herder vgl. Haym, Herder 2, 50.</hi></note> Sie hoffe, er werde herkommen, der Vorschlag sei schon nach England gegangen.-) Dann will sie gar nicht nach Hannover zurükkehren, sondern hier mit ihm in Einem Hause wohnen. Dass zum Eingang zu allen diesen Confidencen das Vorlesen einer ihrer Episteln ^) diente vergass ich zu sagen. Bisher hatte ich viel gesprochen. Um schnell, wie ichs wollte, zu wirken, glaubt ich zeigen zu müssen, dass sie auf mich stark gewirkt hätte. Ich schwieg viel, schien unruhig, zerstreut, sah sie oft an, wechselte dann den Blik, kurz trieb das ganze Spiel, wie ichs ungeschikt mache, und noch ungeschikter beschreibe. Durch diese Verstellung wurde ich wirklich, was ich bloss scheinen wollte — nicht verliebt, aber unruhig. Ob sies merkte w^eiss ich nicht. Wohl schien mir manches, was sie sagte, zur Absicht zu haben, mich zurükzuhalten und zurechtzuweisen. Wiederum aber wars mir, als umzöge ein Schleier von Eitelkeit ihre Seele so sehr, dass sie sich allein mit sich, nicht mit mir beschäftigte. Beim weggehn sagte sie, als ich schon der Thür nah war: „Ich weiss nicht, mich dünkt, ich war sehr offen gegen Sie." Ich war wirklich, wie ichs schon erzählte, aengstlich, ich antwortete mit halb stotternder Stimme, nahm ihre Hand, drükte sie und küsste sie mit Wärme. Sie gab sie mir willig — nicht wie Therese — aber sie erwiederte nicht den Druk. 0 1 ich muss Deiner hier gedenken, Therese ! Ich sass neben Dir auf dem Sofa, ich ergriff Deine Hand in der Fülle der Empfindung, ich küsste sie. Du gabst sie nicht, ich musste sie nehmen. Du sahst mich nicht an. Doch, doch wars als hessest Du sie nicht ungern nehmen,*) als wäre nur der Gedanke in Dir, ich traue ihm nicht, ich sollte sie ihm nicht geben. Zur Thüre war ich kaum hinaus, als alle Empfindung der Unruhe in mir verschwunden war, als die Herzensleere ^) wieder da war, ohne die ich nie solche Scenen suchen könnte. O ! wieviel mehr bist Du werth, Wärme, Du inniges Gefühl, das ich bei dem Gedanken an Dich, Jette, das ich in Deinen Armen, Brendel,^) ehmals empfand! Emilie.</p>
+
+               <p>'^) Herder sollte als Professor der Theologie und erster Universitätsprediger für Göttingen gewonnen werden: vgl. ebenda 2, 418.</p>
+
+               <p>*j Ihre Göttingen ijSy erschienene „Sammlung kleiner Schriften und Poesien'' enthält mehrere poetische Episteln. *) „Hessest . . . nehnen" verbessert aus „gaebst".</p>
+
+               <p>"*) „Herzensleere" verbessert aus „Seelenlee[re]"' •) Brendel Veit; vgl. oben S. i Anryi. j.</p>
+
+               <pb n="14.73" xml:id="pbXIV73"/>
+               <p>Eine lange Pause in diesen Blättern. Ich hole kurz das ge- schehene nach.</p>
+
+               <p>Ich war mehreremale bei Marianen; nur zweimal waren merkwürdig, obgleich in ganz verschiedener Art. Einmal kam ich hin, und fand sie in der Stube des Maedchens, als ich mich anmelden lassen wollte. Sie sagte mir, sie könne mich den Tag nicht sprechen. Sie schmiene eben Butterbrod für ihren Vater. Sie bot mir eins an, ich blieb solange bei ihr als ichs as. Wir sprachen noch von dem, was sie, einer Erzaehlung an einem andren Tage nach, dem Prinz Adolph ^) ins Stammbuch geschrieben hatte. Hierbei muss ich noch einen Augenblik dieser Erzaehlung gedenken. Sie hatte auf Theresens Rath dem Prinzen etwas eingeschrieben, das einen Doppelsinn hatte. Sie hatte ihn bemerkt, Therese ihn aber nicht finden wollen. Der Sinn war ohngefehr: Kein Mann ist so gross dass er sich nicht einmal vergessen koennte. Als sies mir erzaehlt hatte, fiels ihr selbst auf. Sie sagte : da habe ich Ihnen die erste Confidence gemacht. Ich wollte nach Gotha reisen und wünschte einen Empfehlungsbrief an Amalien.-) Ich bat Marianen darum, und sie versprach ihn mir. Den Tag vor meiner Abreise holte ich ihn ab. Mariane war launisch, ich hatte sie noch nie in dem Grade so gesehn. Sie erzaehlte mir dass Schlegel ihr habe vor- lesen wollen. Ich warnte sie vor einer Bürgerschen neuen Ballade, die eben keine Maedchenlectüre ist.^) Schlegel hatte mir gesagt, dass er sie ihr vorlesen wollte. Doch sagt ich das nicht, sondern warnte sie nur im Allgemeinen. Ferner hatte sie Schlegeln wieder absagen lassen, und Schlegel hatte darüber eine aeusserst laecher- liche Hypothese gemacht; diese Hypothese erzaehlte ich ihr. Nach dem allen war wieder von meinen Besuchen bei ihr die Rede, und sie bat mich nur des Freitags zu ihr zu kommen. Das frappirte mich erstaunlich, und noch seh ich den Zusammenhang nicht. Sie war immer vorher so freundlich gegen mich gewesen, hatte mir Vertrauen gezeigt, und nun auf einmal das! Wahrscheinlich war dran Schuld, was ich von Schlegel gesagt hatte. Ich hatte es theils wirklich aus guter Absicht für sie gesagt, aber theils<note type="footnote" n="*)" resp="gnd-116890657"><hi>Adolf Friedrich Prinz von England (i']']4 — iSßoJ; vgl. oben S. 6-] Anm. 2. 2) Amalie Reichard; vgl. oben S. 42 Anm. 4. Über Humboldts Reise nach Gotha vgl. oben S. 64.</hi></note></p>
+
+               <p>') „Graf Walter, nach dem Altenglischen", zuerst erschienen in der Ausgabe der Gedichte von ijSg (2, 20"]).<pb n="14.74" xml:id="pbXIV74"/> auch, und vorzüglich das von der Hypothese, aus Schwazhaftig- keit. Auch dacht ich gar nicht dass sie die Hypothese so ernst nehmen würde, als sie that. Kurz ich sah, dass ich mich noch im Charakter geirrt, zu frei und offen mit ihr gesprochen, weiter zu sein geglaubt hatte, als ich war. Es thut mir sehr leid, theils dieses Fehlers wegen, theils weil ich anfange dem Maedchen gut zu werden. Sie ist in der That ein interessantes Geschoepf, und wir hätten uns beide nüzlich werden können. Aber so hört wahrscheinlich alle meine Verbindung mit ihr auf. Denn entweder ich gehe sehr bald gar nicht mehr hin, oder das Freitagsgesez muss aufgehoben werden, und wie wird das geschehn?</p>
+
+               <p>Bei Emilien war ich zum zweitenmal. Die Vertraulichkeiten giengen fort und stiegen. Sie erzaehlte mir, wie ihr Mann mit ihrem Kammermaedchen liebe, doch verlange, dass sie sie bei sich haben sollte, und ihr darum hart begegne,^ so dass sie eigentlich deswegen in Göttingen sei. Sie fieng nun an mich zu dauren. Ich zeigte es ihr soviel ich konnte, aber wir wurden gestört. Ich nahm einmal bei einer guten Gelegenheit ihre Hand, und hielt sie ein Paar Minuten in der meinigen. Sie gab es zu und zog sie nur nachher sanft weg. Ich bat sie mir einen Tag zu sagen, wo ich sie noch eine Stunde vor meiner Abreise allein sehn koennte. Sie bestellte mich auf den folgenden Montag um 6 Uhr. Tags drauf war Assemblee. Ich gieng hin. Emilie sass von vielen iungen Leuten umringt. Ich gieng nicht zu ihr heran, weil ich auch den Anschein des Courmachens hasse. Sie sah mich oft an, und schien mir zu winken. Sie sezte sich zum Spiel mit Prinz Ernst. ^) Ich gieng zu ihr. „Ich habe Ihnen etwas zu sagen" zischelte sie mir zu. Ich trat näher. „Kommen Sie morgen um 5 Uhr." Die Be- stellung ueberraschte mich. Es war viel gewagt, das am Spieltisch zu sagen. Doch schien ich unbefangen, und schwerlich konnte ein andrer etwas merken. Ich verliess die Assemblee wieder, kam aber nach geendigtem Spiel zurük. Emilie war wieder mit andren in Unterredung, und ich sprach kaum Ein Wort mit ihr. Montag um 5 Uhr kam ich zu ihr. Kaum hatte ich mich gesezt, so Hess sich Launay^) anmelden. Emilie rathschlagte mit mir und ihrem Maedchen, ob sie ihm absagen könnte. Es war wahrscheinlich,</p>
+
+               <p>') Ernst August Prinz von England (i']']i — 1^51)1 vgl. oben S. 67 Anm. 2.</p>
+
+               <p>'^j Augustus von Launay de Tülieres, ein Belgier, Student in Göltingen: vgl. Briefe von und an Bürger 4,8 j. 132. IJ2; Karoline i, 2j2.<pb n="14.75" xml:id="pbXIV75"/> dass er Feder, M der eben weggegangen, gesehn hatte, und das Proiect gieng also nicht. Er blieb 2 Stunden. Die Unterredung war nicht ganz uninteressant. Dennoch sah mich Emilie oft an, und gab mir zu verstehn, sie sähe Launays Daseyn sehr ungern. Launay gieng, aber in eben dem Augenblik trat Ramdohr'') herein. Emilie fuhr mit ihren Blikken fort. Ramdohr schien es beinah zu bemerken. Seine Gegenwart war mir in mehr als Einer Rük- sicht unangenehm. Einmal störte er mich. Dann fürchtete ich, er könne die Achtung, die er für mich hatte, leicht verlieren. Ich musste so manches wegen Emilien sagen, und dazu hatte ich schon 2 Stunden lang viel gesprochen, war verdriesslich, müde, erschöpft. Ueberdiess merkte ich, dass Ramdohr Emilien allein sprechen wollte, und doch gieng ich nicht. Ich hatte mir vorge- nommen ieden auszusizen. Ramdohr stand auf, ich auch. Er wartete, ich auch. Er nahm den Hut, ich auch. Er stand wieder, ich auch. Er nahm Abschied, ich forderte von Emilien ienen mir versprochnen Brief. Emilie sagte sie hätte ihn noch nicht geschrieben, sie würde ihn mir um 10 Uhr schikken. Ramdohr gieng, ich auch. Ramdohr stand an der Thür in der Absicht mich voraus gehn zu lassen, und zu bleiben. Ich thats nicht. Er gieng voraus, aber kaum war er hinaus, so drehte er sich wieder um, gieng wieder herein, und Hess mich draussen stehn. Noch nie war ich so verwirrt. Emiliens Kammermaedchen, eine liederliche Dirne, gieng mir auf der Treppe nach, sagte mir gute Nacht. Ihre Mine heischte eine Liebkosung. Aber ich gieng, ohne ihr zu antworten. Ich muss sehr albern ausgesehn haben. Um 10 schikte Emilie. Es war ein Brief . . .<note type="footnote" n="*)" resp="gnd-116890657"><hi>Vgl. oben S. ^6 Anm. i. 2) Friedrich Wilhelm Basilius von Ramdohr (17^2—1822), Oberappellations- rat in Celle.</hi></note></p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

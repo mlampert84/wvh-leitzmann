@@ -1,0 +1,2213 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Namenregister zu Band 14 und 15</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Fünfzehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif15humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1918">1918</date>
+                  </imprint>
+                  <biblScope unit="page" from="551" to="585"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="15.551" xml:id="pbXV551"/>
+            <head>
+               <title type="main">Namenregister</title>
+            </head>
+            <p>Band 14 und 15.</p>
+
+            <p>(l = Band 14: 2 = Band 15. Abel I, I4S — 150. Äbella''2, 169. 171. 199. 310. 351. Abencerragen 2, 316. Aberdeen 2, 486. 514. Abraham 2, 242 — 244. Abul Hassan 2, 317. Accum 2, 496. 501. 505. 508. 515. Achard (Genf) 2, 235. 261. 270. — (Marseille) i, 427. Acourt 2, 463 — 465. 472. Adam 2, 33. Adams, Mrs. 2, 469. 474. Addington, Miss 2, 484. Addison i, 585. Adelung I, 243. Aduana 2, 246. Aeschylus i, 366. 370. 378. 2, 18. 27.</p>
+
+            <p>315. 451. 457. 525. 527. d'Aglie 2, 489. 512. 513. 515. Agote 2, 380. 382. 383. d'Aguesseau i, 367. 633. Aguila 2, 243. Aguirre 2, 375. Agustin 2, 230. 237. 244. 355. 262. 265. Ahlwardt l, 271. d'Aiguillon, Herzogin l, 104. Akerman l, 272. Alameda 2, 137. — , Frau 2, 137. Alba, Herzog 2, 205.</p>
+
+            <p>Alba, Herzogin 2, 205. 227. 237. 351.</p>
+
+            <p>d'Albret, Jeanne 2, 121. Aledimkey 2, 496.</p>
+
+            <p>d'Alembert i, 225. 473. 624. 633. 634. Alexander der Grosse i, 425. 427. 533. Alexander 2, 488. Alexandre 2, 78. Alfieri i, 547.</p>
+
+            <p>AUay I, 457.</p>
+
+            <p>Allen 2, 467. 471. 513. Alonso 2, 148. 320.</p>
+
+            <p>Alvanley 2, 467. 497. 515. Alvarez 2, 265. Amar i, 440.</p>
+
+            <p>Amaro 2, 183.</p>
+
+            <p>Ambrosius 2, 272.</p>
+
+            <p>Ameilhon i, 381. 382. 425. Amescua 2, 203. 204. Araherst 2, 478. 484. Ancillon i, 227.</p>
+
+            <p>— (Vater) l, 227. Andrieux 1, 372. 410. Angel 2, 233. Angelucci 2, 331. — , Frau 2, 331.</p>
+
+            <p>Angiolini l, 641.</p>
+
+            <p>Anglesey 2,475—477. 479—481. 485. 4S9</p>
+
+            <p>—491. 514.</p>
+
+            <p>Anhalt-Zerbst, Christian August von l, 267. Anquetil l, 366. 426.<pb n="15.552" xml:id="pbXV552"/> — , Lady 2, 4S8. Antolinez de Burgos 2, 149. Autonelle l, 392. 411. 431. 439. Antrim, Lady 2, 478. 480. d'Anville 2, 17. d'Appler i, 221. Apsley 2, 493. Apulcjus I, 357. Aquin i, 384. Arabet 2, 331. — (Neffe) 2, 309. 331. 341. Arago 2, 514. Aragonicn, Juan von 2, 126. Aranabarri 2, 136. Aranda 2, 187. 203. d'Araucour i, 215. Arbore 2, 255. Arbuthnot 2, 470. 471. 503. 513. 513. — , Mrs. 2, 470. 500. d'Arc, Jeanne i, 135. 2, 47. Arcbdeacon 2, 311. Archenholz i, 244. 340. Arenberg, Herzog von l, 160. Arfe 2, 230. Argensola 2, 189. 203. 204. d'Argenson l, 624. Argenteuil l, 160. — , Frau I, 160. Argote 2, 48. 233. Arguelles 2, 196. Argyll, Herzogin 2, 474. &gt;oo. Ariosl 2, 189. Arislophancs I, 427. 521. Aristoteles 1, 316. 322. Arjona 2, 260. Armand 1, 597. 610. Arnault I, 416. 527. 538. 579. &gt;86.</p>
+
+            <p>—613. 2, 22. 23. 31. Arriaga 2, 196. Artcaga 2, lo. 13. Asso 2, 151. 182. Astarloa, Josef 2, 394. — , Pedro 2, 392. 401. 402. 40S. 412.</p>
+
+            <p>429. 5*5AsÜcy 2, 507—509.</p>
+
+            <p>; d'Aubernat, Frau i, 210.</p>
+
+            <p>, Aubin (Defougerais) l, 416.</p>
+
+            <p>Aubry l, 407. 410. Audouin I, 369.</p>
+
+            <p>1 Augereau l, 628. 2, 50.</p>
+
+            <p>Augustin 2, 272. Augustus I, 427.</p>
+
+            <p>Aurclian I, 368.</p>
+
+            <p>Awning, Lady 2, 501. 502. Awnwilliara 2, 4S6. Axubr 2, 371.</p>
+
+            <p>Ayala 2, 131.</p>
+
+            <p>' Azara I, 566. 2, 13. 16. 17. — (Urudcr) 2, 17.</p>
+
+            <p>Baader, Franz i, 342 — 344. !— , Josef I, 238. 239. 241—243. 344 Babeuf I, 439.</p>
+
+            <p>Babo 2, 22.</p>
+
+            <p>{ Bachaumont l, 114.</p>
+
+            <p>I Backhoff 2, 10.</p>
+
+            <p>I Bacon l, 635. 2, 18S 193.</p>
+
+            <p>i Baggesen l, 327. 638 — 642. : Bahrdt i, 84.</p>
+
+            <p>Baif 1, 482.</p>
+
+            <p>Bailleul 1, 400—403. 405. 410 41 r Bailly l, 405. 426.</p>
+
+            <p>Balbuena 2, 183. 1S4. 189. 204.</p>
+
+            <p>Baldingcr i, 23. 25. Bales 2, 179.</p>
+
+            <p>Balthasar l, 175. 177.</p>
+
+            <p>Balzac l, 528.</p>
+
+            <p>Banks,' Joseph 2, 469. 474. — , Thomas Chrisloplier 2, 49;</p>
+
+            <p>Bausi I, 161. Bantry 2, 4S7.</p>
+
+            <p>j Baour l, 363. 611 1 Bapst, Fräulein 3, 59.</p>
+
+            <p>IBaptistc I, 516. 592. 593. 597 598. 0J5.</p>
+
+            <p>j 2, 11. 28— 30. — I. 346I Baraguay-d'Allicrs l, 5S6. Barandon 2, 469. 4S2. 485. 493. 515.</p>
+
+            <p>421. Barbic du Boccagc 2, 17. 33. 34</p>
+
+            <p>I — , Frau 2, 17.</p>
+
+            <p>Barbiero 2, 246.<pb n="15.553" xml:id="pbXV553"/> — , Frau 2, 124. Barela 2, 159. — , Frau 2, 159. Barere l, 375. 4S1. 493. 581. Barlow I, 420. 2, 206. — , Frau I, 420. Barnekow l, 296. Barozzi i, 240. 243. 252 — 255. Barras I, 368, 403. 406. 407. 4S1. 627. 628. Barre 2, l6. Barrow 2, 510. 516. Bartels i, 329. 2, 256. — (Bruder) 2, 256. Barthelemy, Frangois i, 406. 481. - — , Jean Jacques l, 132. 379. 388. 2, 17. Barthez 2, 69. Basabru 2, 229. 231. 233. 238. Basse l, 46S. 614. — , Frau I, 408. Bassewitz 2, 486. 489. 513. 515. Bassompierre r, 120. Basterreche 2, 123. 124. — (Bruder) 2, 124. de la Bastie 2, 59 — 61. Bates 2, 506. 511. Bath 2, 486. Bathurst 2, 474. 475. 483. 484. 486. 506.</p>
+
+            <p>508—512. 514. 516, Batsch I, 249. 255. Battifora 2, 337. Batz I, 419. Baude 2, 38. Baudin l, 424. 426. Bauer 2, 513. Baumann 2, 483. 515. Baxmüller i, a6o. 323. Bayer 2, 157. 171. 172. 336. 338. Bayle i, 481. 560. Beaufort, Herzog von 2, 487. 488. — , Herzogin von 2, 489. 495. Beauharnais i, 43S. Beaujolais l, 133. Beaumarchais I, 416. 610. 2, 190. Beaumont 2, 491. Beauvarez, Frau i, 346.</p>
+
+            <p>Becker 2, 543—547- Beffroy l, 372. 374. Beigang i, 354.</p>
+
+            <p>Beil 2, 486. 489. 513. 515, Beissenherz i, 15.</p>
+
+            <p>Bekker i, 228.</p>
+
+            <p>Belcombe i, 232.</p>
+
+            <p>— , Frau I, 232. Belgrave 2, 529.</p>
+
+            <p>i — , Lady 2, 529. ' Bell 2, 509.</p>
+
+            <p>Bellamie i, 347.</p>
+
+            <p>ßcllegarde i, 455.</p>
+
+            <p>Bellermann i, 255. Bellini i, 584.</p>
+
+            <p>Belviches 2, 310.</p>
+
+            <p>Benard-Lagrave l, 372. Benezech l, 546.</p>
+
+            <p>Benito y Nunez 2, 320. 326. Bennet 2, 487. 5 10. Benoit I, 478.</p>
+
+            <p>Bcramendi 2, 208. 238. 351.</p>
+
+            <p>— , Frau 2, 208. Berard 2, 247.</p>
+
+            <p>Beraud l, 405.</p>
+
+            <p>Beresford 2, 479.</p>
+
+            <p>Berg, Frau von 2, 462 — 495. 514. Bergier i, 372. 383.</p>
+
+            <p>ßerguiza 2, 1S2. 196. 351. Bering i, 25.</p>
+
+            <p>Berlepsch, Friedrich Ludwig von i, 71. 74I — , Emilie von i, 71. 74. 229. I— (Sohn) I, 175.</p>
+
+            <p>! Bernadotte 2, 162.</p>
+
+            <p>Bernai 2, 156.</p>
+
+            <p>Bernis I, 624.</p>
+
+            <p>Bernstein 2, 468. 469. 472. 474. 514.</p>
+
+            <p>Berquin i, 123. 124.</p>
+
+            <p>Berthier de Sauvigny l, 119. Berthollet l, 434. 435.</p>
+
+            <p>Besborough, Lady 2, 509. Besser l, 356.</p>
+
+            <p>Best 2, 474. 513. 514. Bcthencourt 2, 153. 204. 351. Bethmann l, 30.</p>
+
+            <p>Beulwitz, Friedrich Wilhelm von l, 228<pb n="15.554" xml:id="pbXV554"/>237—244. 247. 248. 250—254. 256.</p>
+
+            <p>355- 2, 536. 548. Beurnonville l, 421. 2, 40. Bicgas 2, 170. 188. 193. Bielcr, Fräulein l, 256. Bielfeld i, 370. Biclkc, Johann Achatz Keli.x i, 20u. — , Nathanael l, 269. Bierda 2, 467. 471. 497. 513. 515. Bierdiere l, 376. Biester 1, 32—34. 39. 145. 246. 24.S. 254 —256. Binning 2, 468. 469. ;i3. — , Lady 2, 478. Bion I, 402. Birkli i, 209. Bish 2, 476. 479. Bisognoso i, 38. Bissingen 2, 497. 49S. 515. — , Frau von 2, 498. 515. Bitaube i, 367. 37S. 457. 461. 539. 2, 45. Biu 2, 216. 21S. Blad I, 373. Blades 2, 505. Blasco 2, 157. 276. 277. 2IS4. 336. 337. Blayc 2, 264. Blödau I, 255. Blomberg 2, 503. 515. Blomefield 2, 472. 474. 480. 481. 4S5. 491. — , Mrs. 2, 472. Blooirifield 2, 492. 494. 495. 499. 500. 502</p>
+
+            <p>—504. 508. 510. 514. Bludoff 2, 503. 504. 516. Blumenbach 2, 232. Bobcrshcim l, 39=;. Bocancgra 2, 271. Bodmer i, 168. Boeck I, 143. Böttiger i, 246. 254. Bohl, Goltlieb 2, 252. 20 1. — , Frau 2, 253. — , Nicolas 2, 252. 261. — , Vraxx 2, 253. Bobn I, 310. Boijolois I, 410. Boilrau i, 500. ;02. 514.</p>
+
+            <p>507- 530. Bokelmann 2, 520.</p>
+
+            <p>Bollmann 2, 482. 514.</p>
+
+            <p>[ Bonafos 2, 343. Bonnard i, 497.</p>
+
+            <p>Bonnet 1, 228. 492. 635. Bonneuil I, 544.</p>
+
+            <p>Bonpland 2, 182. 1 Bonstetten l, 225. Boom 2, 256.</p>
+
+            <p>Bope 2, 78.</p>
+
+            <p>Bopp 2, 511. 510. Borch I, 254. 255.</p>
+
+            <p>— , Frau I, 244. 245.</p>
+
+            <p>— , Auguste I, 244. 245. 255. 257. — , Lotte I, 238. 240—249. 251 — 257. Borda i, 415.</p>
+
+            <p>Bordel 2, 490.</p>
+
+            <p>Borgclas 2, 99. — , Frau 2, 99.</p>
+
+            <p>Borli I, 272.</p>
+
+            <p>Boraemaun, Wilhelm 2, 506. ;oS. ^09. 511.</p>
+
+            <p>512. 516. — , Wilhelm (Sohn) 2, 506. 508. 509. 511.</p>
+
+            <p>512. 516. Bornstedt I, 253.</p>
+
+            <p>Bosarte 2, 311.</p>
+
+            <p>BoscaS I, 160. Böse I, 356.</p>
+
+            <p>— , Frau I, 356.</p>
+
+            <p>Bosset 2, 497. 513. 515. Bossut I, 473.</p>
+
+            <p>Boston 2, 485.</p>
+
+            <p>Bouchardon l, 109. 617. Bougainville l, 377. Bouillon I, 455.</p>
+
+            <p>Boulangcr i, 624. Boulay l, 507.</p>
+
+            <p>Boulay-Paty i, 403 — 405. 411. 520 Boulognc I, 104.</p>
+
+            <p>Bourbon, Conni'table von 2, 128. — , Maria Anna von l, I13. Bourcard 2, 465. 466. 469. 472. 476. 483.</p>
+
+            <p>485. 498. 502. 505. 506. 510 — 512.</p>
+
+            <p>5'4. Bourdoyc i, 347.</p>
+
+            <pb n="15.555" xml:id="pbXV555"/>
+            <p>292. 309. Bourke, Edmund von 2, 403. 465. 467.</p>
+
+            <p>468. 470. 471. 473. 476— 47S. 480. 482—485. 487. 488. 490. 496. 497.</p>
+
+            <p>501 — 504. 506. 508. 510—512. 514. — , Frau von 2, 470. 473. 478. 481. 484.</p>
+
+            <p>487. 488. 493. 496. 505. 506. mo. 511. Kourrit l, 193. Boutelou 2, 212 — 214. Bouterwek i, 71. Bowdwich 2, 510. Brahe i, 288. 296. 299. Brahl 2, 485. 486. 490. 493. 496. 498. 500.</p>
+
+            <p>502. 505. 515. Brandt i, 349. Braunschweig, Friedrich Wilhelm von 1, 02. Brea l, 438. 539. Breitenbach l, 30. Breitinger, David i, 166. 168. — , Johann Jakob l, 166. 168. Bremer 2, 467. 514. Bret I, 514. Bretzner l, 30. Brickets, Mrs. 2. 482. Bright I, 213. Brinckmann l, 239. 249. 251. 252. 254.</p>
+
+            <p>256. 483. 625. 631. Brindis 2, 245. Brismann l, 272. Brissot 1, 333. 465. 5S1. 613. 2, 96. Brizard 2, 31. de Broca, Frau i, 629. Broch 2, 305. 307. Brodhagen i, 340. Brodrick 2, 469. 470. Brogniard l, 590. Brougham l, 467. Broussonnet i, ?8. Brown 2, 33. — 2, 506. Brownlow 2, 493. Brüggemann i, 258. 262. 208. 269. Bnin I, 426. Bruna 2, 248. Bninck 2, 198. Bruno 2, 9.</p>
+
+            <p>Buckingham 2, 487.</p>
+
+            <p>Bülow 2, 464 — 512. 523. 528 — 53U. — , Karoline von 2, 530.</p>
+
+            <p>Bürger l, 49. 73. 84. 138. 630. Busch I, 335. 339. 340. 2, 309. Büsching l, 11. 34. 350. Buffault I, 546.</p>
+
+            <p>Buffon I, 562. 634. 634. 2, 44. 191.</p>
+
+            <p>Buonaparte (Napoleon) i, 364. 369. 376</p>
+
+            <p>—378. 381. 385. 387. 393- 434. 438.</p>
+
+            <p>527- 538. 586. 628. 2, 1. II. 22. 99. loi. 343. 525.</p>
+
+            <p>— , Josephiae l, 438. 509. — , Lucien 2, 22. Burghard i, 241. 245. 249.</p>
+
+            <p>Burghersh 2, 475. 477. 479. 514.</p>
+
+            <p>— , Lady 2, 463. 470. 473. 477.</p>
+
+            <p>Burgsdorff, Friedrich Wilhelm von 2, 38. — , Fräulein l, 238. 241. 243. Burke i, 464.</p>
+
+            <p>I ßurnand 2, 496. 503. 515.</p>
+
+            <p>|— , Mrs. 2, 503. 515. ; Buron 2, 79.</p>
+
+            <p>Burrell 2, 487. 497. 500. 515.</p>
+
+            <p>j— , Mrs. 2, 497. 515. j Burriel 2, 171. 183. I Busch I, 29. 31. 38.</p>
+
+            <p>Byern, Rudolf Georg Christoph von i, 89.</p>
+
+            <p>; — , Frau von I, 89.</p>
+
+            <p>Cabanis 1, 423. 462. 483. 486. 529. 530.</p>
+
+            <p>537- 561. : Cabarrus i, 396. 2, 164. 184. 208. 290.</p>
+
+            <p>351; — (Sohn) 2, 208. 231. 247. 285.</p>
+
+            <p>— , Frau 2, 285.</p>
+
+            <p>Cabrera, Paula 2, 239. — , Ramon 2, 205. Cadahalso 2, 195.</p>
+
+            <p>; Caesar i, 116. 2, 114.</p>
+
+            <p>'. Cafifarelli l, 462. \ Caffieri l, 536.</p>
+
+            <p>j Cailhava l, 416.</p>
+
+            <p>! Caillard i, 604. 620. 631. 2, 14. 43. 51. 52. Calas l, 632.</p>
+
+            <p>Calderon 2, 183. 188.<pb n="15.556" xml:id="pbXV556"/> Calvin 1, 227. Cambridge, Adolf Friedrich Herzog von</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">I. 67. 73. 230. 2, 493. 494- 504-</title>
+               </head>
+               <p>— , Herzogin von 2, 494. 504. Camden 2, 475. — , Lady 2, 471. 493. Camocns 2, 10. Campana 2, 238. Campbell 2, 472. — , Mrs. 2, 472. Campe, Joachim Heinrich 1, 53. 76. 77.</p>
+
+               <p>79. 81—86. 92. 93. 123. 124. 128. 133.</p>
+
+               <p>145. 163. 536. 2, 252. 253. 517. 524. — , Lotte 2, 253. — , Johann Gottlob l, 77. del Campo, Benito 2, 246. — (Paris) I, 396. Campomancs 2, 142. 164. 178. 186. Campotejar 2, 317. Campuzano 2, 465. 513. Camus I, 367. 371. 381. 4U— 413. 2, 34. CanasTcras 2, 224 — 227. Candamo 2, 187. 195. Candido 2, 419. Canillac I, 456. Canning 2, 495. 505. 510. 514. 510. Cano 2, 270. 271. Canseco 2, 198. Capellen 2, 486. Capmani 2, 163. 350. Caraman 2, 473. 489. 504. 514. Cardcnas 2, 147. Cardigan 2, 484. 485. Carlcton 2, 472. 475. 480. 485. 480. 513. | Carletli l, 628. Carmcr I, 19. CarmontcUe 2, 23. Carnol i, 406. 431. Carpcnlicr 2, 16. Carr 2, 470. Carrascal 2, 232. Carrier l, 338. Carritrre 2, loo. CaiValho 2, aio. 352. Carvallo 2, 383. Casanova l, 105.</p>
+
+               <p>j Casenave 2, 105. ; Cashe), Mrs. 2, 497.</p>
+
+               <p>Casparson l, 163. Cassaretz 2, 262.</p>
+
+               <p>' Cassini 2, 34. loi.</p>
+
+               <p>} Castan, Frau 2, 76. ; Castel i, 578. 624.</p>
+
+               <p>I Castillo (Cadiz) 2, 254.</p>
+
+               <p>— (Malaga) 2, 285.</p>
+
+               <p>Castlereagh 2, 461. 462. 464 — 467. 470</p>
+
+               <p>—473- 475- 477- 4S0. 481. 483—487- 491. 492. 494. 496. 498. 500—503. 505. 506. 514.</p>
+
+               <p>— , Lady 2, 465. 473—475- 479- 4^0- 483485. 487. 488. 491- 492. 494- 500- 505 Catinat l, 633.</p>
+
+               <p>Caumont i, 624. 628. 629. Cavaignac 2, 385.</p>
+
+               <p>Cavallos 2, 242. 248.</p>
+
+               <p>Cavanilles 2, 135. 152. I56— 158. Ibo. 231. 260. 276. 277. 285. 290. 350. Cawdor 2, 472.</p>
+
+               <p>Cazalct 2, 62. Cazol 2, 95.</p>
+
+               <p>Ccbcs I, 412.</p>
+
+               <p>Gera 1, 616. Gcrezo 2, 162.</p>
+
+               <p>Gerjat i, 222. Gerna 2, 183. 323. 351. Gers 2, 95Cervantes 2, 199. 219. 242. 250. 337 432</p>
+
+               <p>433Getto 2, 41.</p>
+
+               <p>Chabanon 2, 131.</p>
+
+               <p>Chaligny 2, 203. Gbambon 2, 56.</p>
+
+               <p>Ghamfort i, 482. 4S7. 2, 11. Ghamot i, 30.</p>
+
+               <p>Gbanoriez l, 523. 524.</p>
+
+               <p>Ghantrey 2, 466.</p>
+
+               <p>Ghapelain l, 383.</p>
+
+               <p>Chappe I, 601. Gharandon l, 493. Ghardia i, 375.</p>
+
+               <p>Charles I, 472.</p>
+
+               <p>Cbaricvilie 2, 469.</p>
+
+               <pb n="15.557" xml:id="pbXV557"/>
+               <p>478. 488. 500. $02. Chassin-Villers 2, 69. Chatelet i, 633. Chaudet I, 619. Chaulieu l, 633. Chaulnes 2, 33. Chazal I, 41 1. Chenier, Marie Joseph i, 363 — 365. 388.</p>
+
+               <p>390. 482. 538. 547. 2, 29—31. — (General) i, 482. Cheselden i, 502. ehester 2, 475. 494Chetwynd 2, 478. de Cheyreuse, Frau i, 453. — , Fräulein I, 455. Chiarry 2, 337. Chimeny, Fräulein l, 31. Chindret, Frau l, 546. Chinnery 2, 482. 501, 515. — , Mrs. 2, 487. 492. 493- 498. 499Chlapowski 2, 501. 505—507, 515. Choiseul l, 435. Choiseul-Gouffier 2, li. 32. ChoUet I, 374. 410. Cholmondeley 2, 472. 474. 479—481.486.</p>
+
+               <p>513- — , Lady 2, 472. 478. 483. 499. — (Vetter) 2, 480. Cicero 1, 167, 559. 2, 6. 17. 198. Cid 2, 144. Cienfuegos l, 397. 2, 185. 189. 195—197.</p>
+
+               <p>200 — 204. 232. 351. Ciscar 2, 255. 338. Clairon I, 616. 2, 36. ■Clanwilliam 2, 514. Clarence, Wilhelm Heinrich Herzog von</p>
+
+               <p>2, 472. 495. 497. 500. — , Herzogin von 2, 500. Claude Lorrain i, 617. Claudian l, 537. Claudius (Kaiser) 2, 3. — , Matthias I, 341. — , Rebekka i, 341. Clausewitz 2, 498. 513. 515. Claviere, Etienne l, 562. 620. — , Frau I, 562,</p>
+
+               <p>Clermont, Johann Arnold von l, 87. 88. 92. — , Christel von i, 87. 88. — , Fritz von I, 87 — 89. 92. Clermont-Tonnerre l, 465.</p>
+
+               <p>Cleve, van i, 108. Clüsener 2, 518. Cockburn 2, 508.</p>
+
+               <p>Cockerell 2, 489. 490. 495. 515. — , Lady 2, 503.</p>
+
+               <p>Cohen 2, 467. 469. 482. 515. Colardeau i, 567 — 569. Colbert l, I30.</p>
+
+               <p>Colchien l, 421.</p>
+
+               <p>Collet-Descotils I, 434.</p>
+
+               <p>Collin d'Harleville l, 458. CoUot d'Herbois I, 604. Colmenares 2, 152.</p>
+
+               <p>Colon, Christobal (Columbus) 1,617. 2, 194.</p>
+
+               <p>363. — , Fernando 2, 239.</p>
+
+               <p>Colonilla 2, 159. l6l. 170. 177. 187. 197.</p>
+
+               <p>207. 221, 251. 350.</p>
+
+               <p>Colquhoun 2, 465. 466. 482. 514. Combe 2, 514.</p>
+
+               <p>Cornelia 2, 185.</p>
+
+               <p>Comenye 2, 127. Conde 2, 196.</p>
+
+               <p>Conde i, 103. 105. 135. 454. 456.</p>
+
+               <p>Condillac i, 396. 397. 443—449. 468. 470.</p>
+
+               <p>479-481. 492. 502—505. 509—511. 524. 541. 551. 558. 624. 635. 2, 188. 211.</p>
+
+               <p>Condorcet, Marie Jean Antoine Nicolas von</p>
+
+               <p>1, 365- 429. 462. 469. 470- 473- 511528—530. 535. 541. 562. 577. 613—616. 631—634. 2, I. 96. — , Sophie von l, 429. 462. 511. 526. 529.</p>
+
+               <p>530. 541—543. 552. 561. 564. 578. 582. 613 — 616. 2, 1. II. 95. Congreve 2, 476. 478. 510, 514. 516. Conejares 2, 398. ,</p>
+
+               <p>Constant I, 374. 537. 625. 627. 631. 2, i. 2. 45.</p>
+
+               <p>Constantin 2, 136.<pb n="15.558" xml:id="pbXV558"/> Contat, Emilie i, 6jo. 624. 2, 10. — , Louise I, 458 — 460. 610. 2, 76. Convett 2, 487. 493. 513. Cook 2, 497. 513. 515. Cooke 2, 468. 469. Coquebert i, 590. 2, 17. Coral, Fausto 2, 379. 380. — (Sohn) 2, 379. — (Madrid) 2, 210. 352. Coray i, 512. 2, 23. Corday, CharioUe i, 338. Cordier 1, 434. Cordmann 2, 490. 515. Cork, Lady 2, 500. Corntille, Pierre i, 113. 395. 432.</p>
+
+               <p>2, 6. 18—21. 25. 27. 31. — , Thomas I, 62s. Cornejo 2, 183. Correa 2, 188. Correggio l, 62. 383. Corrodi i, 178—180. Cortez, Fernando 2, 171. — , Josef 2, 218. Cosle 1, 245. — I. 636. Cotau 2, 318. 319. Cotlon 2, 499. Couchery i, 371. 406. 407. Coupigny I, 500. Court de Gebelin 2, 96. Courte I, 434. Courtiau.x 2, 124. Couitois 2, 346. Coustou I, 104. 108. 112. Coutbon I, 414. Cowper 2, 474. Coxe I, 159. 178. Coysevox i, 108. Il8. Craraer l, 421. 431. 443. 462. Cranach l, 147. 161. Crebillon i, 52. 477. 633. 634. Crenicrcs 1, 373. Crcjjpi 2, 247. Creuze-Lalüuchc 1, 374. Crichlon i, l. i i. 18. 21. 23. 2S. Crokcr 2, 470.</p>
+
+               <p>de la Cruz 2, 183. 261.</p>
+
+               <p>. de la Cuesta 2, 162.</p>
+
+               <p>I Cuhn 1, 2—6. 13. 15. ; Cumberland, Ernst August Herzog \oa l, 67</p>
+
+               <p>74. 230. 2. 463—466. 468—470. 473</p>
+
+               <p>—475- 477- 479-481- 4^4— 487- 489. 492—501. 513. 515. 528. 529.</p>
+
+               <p>j — , Herzogin von 2, 461 — 466. 468 — 48s.</p>
+
+               <p>487. 489. 491. 492. 494—501. 5:3. 515. 538. 529.</p>
+
+               <p>i Curtis 2, 482. 484. 488. ;— , Mrs. 2, 482. 486.</p>
+
+               <p>j Cuvicr I, 368. 377. 380. 423. 2, 2&lt;ji. 494</p>
+
+               <p>I — 497. 500. 515. 448. i Czartoriska, Fürstin i, 225.</p>
+
+               <p>I Dacherüden, Karl Friedrich von ;, 2x7</p>
+
+               <p>! —257. 2, 521. 524. 532—535- 538; 540—543- 545- 547- ' — , Erncstine Friederike von 2. 532. 534.</p>
+
+               <p>! 535- I — , Ernst von i, 40. 237. 239 — 255. 257.</p>
+
+               <p>2, 521- 533—535- 543- Dacos 2, 361 — 363. Dänemark, Christian VII. von 1, 324.</p>
+
+               <p>i Dain, Lady 2, 498.</p>
+
+               <p>Dalberg, Karl Theodor Anton Maria von</p>
+
+               <p>I, 41. 47. 238 — 242. 244 — 246. 248 —250. 253-255. 324. 2, 547-549i — , Frau von I, 255.</p>
+
+               <p>' Dalwigk, Friedrich von i, 6. 9. 13 — 15. 40.</p>
+
+               <p>. — , Frau von l, 3. I3.</p>
+
+               <p>i — (Sohn) 1 , 40, — I. 14Damas i, 400. 592. 013. 2, 29.</p>
+
+               <p>I Dambaceres 2, 124. I Dambert I, 545. 1</p>
+
+               <p>I Dangos 2, loi. Daniels l, 56. Dante 2, 340.</p>
+
+               <p>Danton i, 392. 404. 422. 613. 615</p>
+
+               <p>Darman, F'ruu 2, 46S. Daschkow, Fürstin 3, 6. 8. Daubenton l, 380. Daunou l, 366. 469.</p>
+
+               <p>Davanhorkes 2, 291. 293.<pb n="15.559" xml:id="pbXV559"/> DuTid I, 38 1. 384. 386. 439. 441. 443. 614</p>
+
+               <p>2, 129. Davis 2, 492. Davy 2, 486. 489. 513- 515— , Lady 2, 462. 474. 476. 479. 480. 4S4. 4SS Daziucourt l, 458. 459. 598. 610. Dcbry i, 407, 410. Decamps 2, loo. 114 — 116. 124. — , Frau 2, 115. 116. — , Adele 2, 115. Decazes 2, 495. 513- 5 'S- Defermon l, 372. Dcgarien, Fräulein 2, 31. Degenfi-ld i, 24. Degerando 2, 35. 42. Deherain 1, 554. — , Frau I, 554. Delaborde 2, 359. Delanit i, 371. 407. Delaunay l, 119. 120. Delaware 2, 486. — , Lady 2, 4S6. Delessart 2, 96. Delgado (Pepcülo) 2, 418. 419. Delille i, 578. Delille de Sales l, 426. Delleville l, 493. Delmas l, 373. Delorme l, 114. Demosthenes 2, 32. Denis l, 412. Denner, Mrs. 2, 479Densch 2, 125. Dent 2, 480. — , Mrs. 2, 468. 475. 477. 480. 481—483.</p>
+
+               <p>485. 486. 488. 489. 491- 493- 494— , Miss 2, 462—491. 493- Depeyre l, 373. Derazo 2, 363. Derby, Mrs. 2, 490. Derche l, 420. Dereser i, 54 — 56. Descarles 1, 636. Deschamps I, 478. 500. 501. Deseze 2, 69. Desfontaines i, 577- 2, 16. Desforges l, 416.</p>
+
+               <p>Desliouliercs, Antoiaelte i, 113.</p>
+
+               <p>j Desincour i, 122. Desmarets i, 113. Desodoards i, 422.</p>
+
+               <p>I Despourriers 2, 116. j Desprds l, 478. j Dessault, Frau i, 244. 245. 249. 250. 254.</p>
+
+               <p>I 256. 2, 535. 538. Dessous I, 426.</p>
+
+               <p>^ Destouches 2, 28. I Devie 2, 340. Devienne 2, 29.</p>
+
+               <p>j Devonshirc, Herzog von 2, 464. 477. 478.</p>
+
+               <p>f 489. 4SO. 509. 510. 516.</p>
+
+               <p>. Dey 2, 466. ' Dezede i, 122.</p>
+
+               <p>Dianyere i, 424.</p>
+
+               <p>j Dickinsoa 2, 8.</p>
+
+               <p>I Diderot i, 225. 430. 505. 547. 559. 578- ' 621. 623. 624. 2, 3 — g. — , Frau I, 457.</p>
+
+               <p>j Didot I, 124. Diede l, 325.</p>
+
+               <p>I Dieffenbach, Johann Friedrich 2, 529.</p>
+
+               <p>— , Johanna 2, 530.</p>
+
+               <p>1 Diego de Alava 2, 137.</p>
+
+               <p>[Dietrich, Philipp Friedrich l, 159, 2, 441,</p>
+
+               <p>I — (Sohn) I, 159. Dietz I, 242. Diez I, 30.</p>
+
+               <p>Dieze, Johann Andreas l, 48. — , Sophie I, 48. 49. Dio Cassius 2, 4.</p>
+
+               <p>Diodor 2, 158.</p>
+
+               <p>Dioskorides 2, 191.</p>
+
+               <p>Dodun I, 620. 628, Dodwell 2, 483. 514.</p>
+
+               <p>Dörnberg, Wolfgang Ferdinand von i, II. — , Fräulein von I, II. 13. 19.</p>
+
+               <p>Dohm, Christian Wilhelm von i, 87 — 93.</p>
+
+               <p>240. 242. 253. 254.</p>
+
+               <p>— , Anna Henriette Elisabeth von l, 87 — 89- 93Dohna I, 71. 2, 526.</p>
+
+               <p>Dolce I, 140. 2, 261.</p>
+
+               <p>Dollond 2, 485. 507. 508. 510.<pb n="15.560" xml:id="pbXV560"/> Domerguc i, 364. 367. 378. 382. 426. 443- Dominicus l, 242 — 244. Dorman l, 210. — Frau I, 210. Dorner 2, 171. Dornfeld i, 56. Doukit I, 405. Doxat und Divet 2, 488. 507. 50S. 511. Drouct I, 439. Drück I, 148. Drusus 2, 64. 65. Dubarry, Frau l, 523. Dubois I, 371. 383. Dubrcuil l, 550. Duchalelet l, 529. 535. Ducis I, 366. 381. 420. 507. 539. 2, 172. Duclos I, 624. Ducos (Barcges) 2, 95. — (Paris) I, 411. Dürer l, 147. l6l. 2, 340. Dufau 2, 69. Dufourny 2, 32. Dufresny i, 501. 520. 592. Dugazon I, 390. 625. 2, 31. 32. Duguesclin l, 135. Duhot I, 368. 382. Dulaure l, 131. I32 Dumarsais l, 481. Dumas l, 407. Dumesüil 2, 32. Dumolard l, 371 Dumont 2, 493. Dumouriez i, 344 — 347. 412 Duncan, Kiiza 2, 501. 502. Duokcr I, 241—247. 254. 255. Duperrcux 2, 105. Dupetithouars, Aristidc i, 474. — , Fölicile I, 474. — , Louis Marie Auberl 1, 474. Dupont I, 374. Duponl de Nemours 1, 425. 2, 13 Duprat I, 372. 410. Uuprc 2, 310. Duprc de Sl. Maur 2, 361.</p>
+
+               <p>134- '35373- 374- 405. 410- 4"• 55535Duqucsnoy i, 610. Durand 2, 343.</p>
+
+               <p>Dureau I, 578.</p>
+
+               <p>- (Vater) i, 57».</p>
+
+               <p>Dussaulx 1,365.373. 381. 461. 470.516.2. 87. — , Frau I, 461. Dussek 2, 54S.</p>
+
+               <p>Dutheil I, 366. 378. 425. 427.</p>
+
+               <p>Duval 1 592. 598. 600.</p>
+
+               <p>Duval d'Epremesnil l, 544. van Dyk i, 393Eardley 2, 480. F.bel 1, 224. Ebeling l, 340.</p>
+
+               <p>Eberhard i, 6. ' Ebrington 2, 474. 475.</p>
+
+               <p>. Echavc 2, 381.</p>
+
+               <p>I Eckard 2, 502. 515. — (Sohn) 2, 502. 515. Eden, Miss 2, 470. Eguia 2, 375.</p>
+
+               <p>I Einicke i, 238. I Eisenbart 2, 497. 498. 515. ■ — Frau 2, 498. 515. Elbcuf I, 456.</p>
+
+               <p>Elcano 2, 380 — 383.</p>
+
+               <p>I Eldon 2, 466. 484. 513.</p>
+
+               <p>! Eli I, 119. Ellcnborough 2, 474. 475.</p>
+
+               <p>— , Lady 2, 475. 477. 494. Emcri I, 404.</p>
+
+               <p>Kmilie l, 399. 401. 2, 234. 236. 345.</p>
+
+               <p>\ Engel I, 12. 38. 122. I6l. 247. 443. 2, 459.</p>
+
+               <p>524.</p>
+
+               <p>Engclbach 1, 18. 24. Engelbrechtcn l, 300.</p>
+
+               <p>Engeström, Gustaf I, 293.</p>
+
+               <p>— , Lorenz 3, 476, 496. 513.</p>
+
+               <p>England, Georg III. von I, 229. — , Charlotte von 1, 23 1.</p>
+
+               <p>— , Georg IV. von 2, 402. 472. 474— 4S1.</p>
+
+               <p>483. 485—487. 490—504. 508. 510. 512. 514. 530.</p>
+
+               <p>-. I'.lisabclli von 2, 493.<pb n="15.561" xml:id="pbXV561"/> — (vgl. Cambridge, Clarence, Cuinbcrland</p>
+
+               <p>Gloucester, Kent, Sussex, York.) Englefield 2. 486. 490. 506, 512. 513. 515 Engst, Frau i, 143. Ennismorc 2, 482. 484. 487. 513. — , Lady 2, 482. 488. 489. 491. 493. Enston 2, 499.</p>
+
+               <p>, Lady 2, 499. Kutrecasteaux i, 474. Epiktet I, 412. Ercilla 2, 184. 189. Erdelyi i, 160. Ernesti 2, 198. Erxleben 1 , 20. Esbiha 2, 170. Eschasseriaux i, 405. 406. Escurriguela 2, 338. Espiuosa, Fraucisco 2, 246. — , Gonzale Gomez 2, 383. — 2, 207. Esquerra, Inigo 2, 432. — (Sohn) 2, 432. Essex 2, 498. Esslingcr l, 240. 242. Estala 2, 182. 197. 204. 216. 351. Esterhazy 2, 462 — 465. 467. 469 — 471. 473.</p>
+
+               <p>475—477- 479—483- 487- 489—492.</p>
+
+               <p>495- 497- 499-501- 514- Estor I, 25. d'Etillieres 2, 464. Eugen von Savoyeu i, 201. Euklid I, 610. Euler I, 473. 2, 193. Euripides l, 433. Eve-Maillot l, 478. Everelt 2, 482. 483. 487. 515. Evers l, 307. Eximeno 2, 275. Exmouth 2, 466. E^coiquiz 2, 196. Fabre d'Eglaiitine i, 404. 518. 522. Fabrice, Fräulein i, 12. 13. Fabricius 2, 326. Fagan i, 388. 3S9.</p>
+
+               <p>W. V. Humboldt, Werke. XV.</p>
+
+               <p>— (Bruder) 2, 466—468. 471. 476. 478, 481.</p>
+
+               <p>486. 492. 493. 499. 505. 508. 5 10. 5 1 2. 5 14. I'ahrenhcit i, 305.</p>
+
+               <p>Falckenstein, Frau von i, 252.</p>
+
+               <p>Fauchcr Cesar 2, l8. 72—74. 97.</p>
+
+               <p>— , Constantin 2, 18. 72 — 74. — (Schwester) 2, 73. 74. Faurie 2, 337.</p>
+
+               <p>Fauvel 2, 32.</p>
+
+               <p>Favard i, 372.</p>
+
+               <p>Febrer 2, 338.</p>
+
+               <p>Feder i, 56. 74. 149. 2, 336. Felix I, 393.</p>
+
+               <p>Felix-Faulcon i, 368.</p>
+
+               <p>Fcnelon i, 388. 582. 608. 627. 2, 148. 242. Feraud i, 467.</p>
+
+               <p>I Ferber, Johann Jakob i, 216.</p>
+
+               <p>i — , Frau I, 216.</p>
+
+               <p>i Fcrnandez 2, 169. 381.</p>
+
+               <p>\ — 2, 195. 203.</p>
+
+               <p>! Ferrand, Jean 2, 385.</p>
+
+               <p>! — , Fräulein i, 502. 503.</p>
+
+               <p>I Ferrer 2, 275.</p>
+
+               <p>1 Ferreras 2, 391.</p>
+
+               <p>j Ferraud i, 546. ' Feuillee i, 449.</p>
+
+               <p>Fichte I, 245. 246. 252. 342. 450—453.</p>
+
+               <p>485. 486. Fiessinger i, 642. 2, 42. 97. 99.</p>
+
+               <p>Filangieri 2, 180. 181, 188.</p>
+
+               <p>Fischer, Christian August 2, 125. 134. 380. — , Gotthelf I, 245. 246. 354. Fitzew 2, 478.</p>
+
+               <p>Flahault, Adele von i, 346.</p>
+
+               <p>— (Mann und Sohn) l, 347. Flamand 2, 95.</p>
+
+               <p>Flamen i, 108. Flechier l, 389. Flcmming 2, 530.</p>
+
+               <p>Fleury i, 122. 458 — 460. 2, 31, — , Frau 2, 18. 21. 25. 27. — , Fräulein i, 436. Floret 2, 465. 467.</p>
+
+               <p>Florcz 2, 153. 169. 423. Florian 2, 317.</p>
+
+               <p>Floridabianca 2, 184. 186. 187. 197. 214. 329.<pb n="15.562" xml:id="pbXV562"/> Fonseca 2, "Jl. Fontaine l, 528. Fontanes l, 425. Fontenelle i, 528. 530. 615. 624. Forcll 2, 209. 351. Forfait l, 423. Förster, Johann Georg l, 39-44- 47 — S^142. 145. 211. 2, 524. — , TUeresc i, 39—49- 66. 67. 70- 72- 7394- 2. 530. — , Therese (Tochter) l, 49. — , Johann Reinhold i, 211. — 2, 191. Fortescue 2, 486. Foscolo 2, 489. Fester 2, 488. Fougeres 2, 120. Fould I, 431. 566. Foulion I, 119Fourcroy i, 379- sSo.</p>
+
+               <p>119. 123. 126. 133. 408. 413.421.465.</p>
+
+               <p>473 474- 526. 577- 582. 613—617. 619. 2, 1. 12. 18. 178. 315. 320.</p>
+
+               <p>— , Marie Antoinette von 1, 436. 474- ^26.</p>
+
+               <p>543. 616. 617. — , Ludwig (XVII.) Dauphin von i, 11;.</p>
+
+               <p>436. 2, 18. — , Ludwig XVIII. von l, 347. 507.</p>
+
+               <p>Freiesicben I, 241. 242. F'reron 2, 125.</p>
+
+               <p>Freron l, 634.</p>
+
+               <p>Fresscnel l, 405.</p>
+
+               <p>Freville a, 162. 350.</p>
+
+               <p>— , Frau 2, 163. 166. Friedheim, Frau i , 239. 240.</p>
+
+               <p>Fricdländcr, David l, 238. 341—243.</p>
+
+               <p>249. 250. 253. 256. — , Michel I, 253.</p>
+
+               <p>— (Güttingeu) i, 175. Frommann I, 151:47, Fränkel l, 239. 241. 244—240. 248. 251. Fuchs 2, 15.</p>
+
+               <p>252. 255. Franck l, 259. 379. 282—285. 293. 298. Francke, Frau i, 254. 255. Franklin l, 617. 1 F"ulchiron l, 368. Frankreich, F"ranz I. von 1, in. Fulton i, 420. — , Heinrich II. von l, ui. 114. | Furtado 2, 70. — , Heinrich IV. ^n l, 9. 109. III. 1 18. '</p>
+
+               <p>135. 166. 455. 2, 48. 56. 66. 94- 120. j Gadebusch 1, 271</p>
+
+               <p>Fucrtcs 2, 133.</p>
+
+               <p>Füssli, Johann Heinrich i, 164. 180. — (Sohn) 1, 180.</p>
+
+               <p>121. 128. --, Karl VI. von 2, 50. — , Karl VII. von 2, 47. — , Karl VIII. von 2, 126. — , Karl X. von I, 115. 511. ,-^, Katbarina von 1, 114. — , Ludwig IX. von l, 118. — , Ludwig XU von I, 58S. 2, 50. 126. 368. — , Ludwig XIII. von I, 133. — , Ludwig XIV. von l, 103. 105. 106.</p>
+
+               <p>108. 109. I II - 113. 118. 134. 367. 388. ; Gambier 2, 483.</p>
+
+               <p>43'- 5»9— 521. 591. 617- 633. 2, 64. ' Garns i, 413. 414. 410. 430. 2, 2.</p>
+
+               <p>121. 361. 364. ! — , Frau l, 419. — , Maria Tlicresia von 1, 455. 2, 364. j Gara 2, 365. — , Ludwig Dauphin von I, 582. j Garat, Dominique 2, 65. — , Ludwig XV. von l, 103. 105. 107. 109. — , Dominique Joseph I, 396— 39S. 407.</p>
+
+               <p>114. 115. 133. 365. 582. 617. 422. 441—443? 462. 463. 537. 54'</p>
+
+               <p>Gail I, 600.</p>
+
+               <p>— , Frau I, 600. Galdona 2, 382. 3S4.</p>
+
+               <p>Galiani 2, 8.</p>
+
+               <p>Galinzoga 2, 160. Gall 2, 36. Gallalin 2, 505</p>
+
+               <p>Galliui I, 5.J9. Gallois I, 597.</p>
+
+               <p>Galvani i, 551. 5092. 35- 39-</p>
+
+               <pb n="15.563" xml:id="pbXV563"/>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">VK^</title>
+               </head>
+               <p>363- — , Frau I, 397. Garcia 2, 334. Gardoqui 2, 421. Garran de Coulon 1, 366. 400. 410.</p>
+
+               <p>2. 385. Garrard 2, 478. 480. 512. Garvc i, 38. 91. 146. Gaston von Bearn 2, 121. Gaudin 2, 192. Gautier 2, 309. 311. 341. — , Frau 2, 309. Gavazzi 2, 171. Gedike l, 33. 34. 145. 146. 148. Geisler 2, 476. 514. Geliert i, 315. Genlis, Gräfin von i, 544. Genovesi 2, 156. 181. 192. Gensonne i, 469. 2, 95. Gentz I, 242 — 245. 248. 250. 256. 334. Geoffroy I, 552. GeoftVoy St. Hilaire l, 380. 434. 435. Gerard, Frangois Pascal i, 618. — (Perigueux) 2, 55. Gerhard l, 238. 243. 244. 253—255. Gerken i, 48. Gerling i, 249. Gerraan y Ribon 2, 242. Germont, Frau l, 509. Geming, Johann Christian l, 142. — , Johann Isaak von 2, 482. 515. Gerstenberg i, 341. Gessler l, 238. 241. 243. 248. Gessner, Salomon i, 137. 164. 170. 2, 10.</p>
+
+               <p>190. 195— , Judith I, 164. — , Konrad l, 164. Gianini 2, 158. Gibbon l, 224. Gibert-Desmolieres i, 374. Giebelhausen i, 238. Gicch 2, 501. 515. Gicse 2, 464. 469. 472. 476. 479. 482. 483.</p>
+
+               <p>498. 510. 511. 514. Gifford, Miss 2, 493. 503. 515. Gilbert 2, 160.- l6r. 164. 351.</p>
+
+               <p>j Giuguene 1, 366. 398. 399. j Giordano 1, 140. Girardiu, Rene Louis von I, 222. 504. — , Cecile Stanislas Xavier von i, 564. Girardon l, 104. 112.</p>
+
+               <p>, Girtanner i, 67. 69. 70.</p>
+
+               <p>Gisekc i , 11. Giuliano 2, 465.</p>
+
+               <p>Gladthardt l, 194 — 19(3. j Gleichen i, 342. ' Glenbervie 2, 488,</p>
+
+               <p>! Glengall, Lady 2, 487. 501.</p>
+
+               <p>Gloucester, Wilhelm Friedrich Herzog von</p>
+
+               <p>2, 490. 495.</p>
+
+               <p>I — , Herzogin von 2, 490. ; Gobelin l, 130.</p>
+
+               <p>; Godaille 2, loo. ' Godefroy i, 352.</p>
+
+               <p>! Godoy 2, 169. 184. 277. 313. 314.</p>
+
+               <p>— , Frau 2, 169, 313. Godwin, William I, 488.</p>
+
+               <p>1 — , Mary i, 477. 619. I Göckingk 1, 15. 254. 255.</p>
+
+               <p>Göritz I, 28.</p>
+
+               <p>Goethe i, 161. 241. 246. 249. 251 — 255.</p>
+
+               <p>312. 313. 319. 320. 337- 348- 355- 357391. 442. 502. 533. 576. 639. 2, 44.</p>
+
+               <p>45. 96. 210. 226. 228. 286. 309. 525.</p>
+
+               <p>Götlling I, 245. 247 — 250. Goldoni i, 525. Goltz 2, 527,</p>
+
+               <p>— , Frau von dttr i, 244. 245. 247. Golzard l, 374.</p>
+
+               <p>Gomes 2, 237.</p>
+
+               <p>Gongora 2, 189. 232.</p>
+
+               <p>' Gonzaga, Prinz von l, 324.</p>
+
+               <p>Gonzalez, Fernan 2, 144.</p>
+
+               <p>— , Santos Dies 2, 200. Goom, Miss 2, 479.</p>
+
+               <p>Gorani i, 224. 225. Gordon 2, 472.</p>
+
+               <p>— , Lady 2, 478. Gore 2, 482.</p>
+
+               <p>— , Lady 2, 482.</p>
+
+               <p>Gosselin i, 425. 426. Gouly I, 373.</p>
+
+               <p>Goiitier i, 15g.</p>
+
+               <pb n="15.564" xml:id="pbXV564"/>
+               <p>515. — , Lady 2, 492. 513- S^S- Goya 2, 418. Graham i, 455. Grahl l, 275. Grammont I, 121. Grandchamp, Frau i, 457. Grantbam 2, 475. — , Lady 2, 475. 490. Granvillc 2, 480. — , Lady 2, 472. Grapengiesscr 2, 261. Grawert 2, 465. 469. 514. Gray, Johanna l, 166. Grecourt l, 138. Green i, 229. 231. Gregoire l, 369. 463. 464. 2, 13. Gregorius 2, 272. Gregory i, 163. Grenze 2, 7. Griesbach, Friederike Juliane l, 252. Grimaldi 2, 475. 505. 513. 516. Grimm I, 624. Gropius 2, 147. 234 — 236. 261. 317. Gros I, 242 — 256. 419. Groslcy i, loS. Grotius I, 302. Grouvellc i, 540. Gruter 2, 65. 13O. Guadet i, 616. 2, 95. Guarin 2, 300. 308. Guarini l, 491. Günther l, 240. 255. Guercino i, 383. Guerin I, 619. 642. Guerrciro 2, 467. 474. 482. 483. 4S9.</p>
+
+               <p>513. 516. Guichard l, 420. Guilford 2, 507. 509. 510. ;ic&lt;. Guilhc 2, 68. Guill 2, 299. 309. (luilleniardct l, 402. 405. 407. 410. 2, iGl. 182. 351. Guilty 2, 208. 290. — , Frau a, 285. Gujneau, Frau von l, 455.</p>
+
+               <p>Guyton de Morveau 1, 377. 481. 54S. 554.</p>
+
+               <p>581.</p>
+
+               <p>Guzman, Graf 2, 211. ^^2. I • - 03 1 — 2, 184.</p>
+
+               <p>I Gysc I, 269.</p>
+
+               <p>I Haacke, Frau von i, 244. 245. 247.</p>
+
+               <p>Haas, Karl Franz Lubcrl l, 25. — , Wilhelm l, 434. Ilackcrt I, 299.</p>
+
+               <p>ihidrian 2, Ib.</p>
+
+               <p>Haeften, Reinhard von i, 471. 509. — , Christiane von i, 471. 509. Ilühn 2, 132.</p>
+
+               <p>Hagemeister 1, 291.</p>
+
+               <p>Hagen-Möckern, Mimi von 1, 244. 247. Haiford 2, 484.</p>
+
+               <p>Haller i. 151.</p>
+
+               <p>— , Frau von i, 209.</p>
+
+               <p>Hamilton, William Richard 2, 463. 46t).</p>
+            </div>
+
+            <div type="section" n="3">
+               <head>
+                  <title type="main">471. 478. 482. 4S8. 492. 494. 496. 498.</title>
+               </head>
+               <p>507. 508. 510—512. 515. — , Mrs. 2, 493. 502. — (Hertford) 2, 469. 514. Hamond 2, 481. 484.</p>
+
+               <p>Ilumpdcn 2, 47S. 487.</p>
+
+               <p>— , Lady 2, 476. 478. Hannibal l, 494.</p>
+
+               <p>Hurambillet 2, 439. 440. Harcourt 2, 471.</p>
+
+               <p>-, Lady 2, 476. 477. 479. Hardenberg 2, 526. Harduin 2, 423.</p>
+
+               <p>Hardwick 2, 476. 478.</p>
+
+               <p>&gt;oe,. — , Lady 2, 510.</p>
+
+               <p>Hardy i, 411. 441. Harlem l, 240.</p>
+
+               <p>Harmand l, 511. Harrington 2, 484.</p>
+
+               <p>Harrowby 2, 474. 491. .513.</p>
+
+               <p>134. Hasscnfralz i, 5S1.</p>
+
+               <p>Hausen 2, 473. 510. 513. 51-. Hauy, Kcnc Just l, 590.</p>
+
+               <p>' — , Valentin l, 418.</p>
+
+               <p>Ha^^kins l, 239.<pb n="15.565" xml:id="pbXV565"/> Heathcote, Lady 2, 500. 501. Hebert i, 414. Hecker l, 255. Hedderich l, 56. Hedemann 2, 521 — 523. 530. — , Fräulein von 2, 504. Hedge i, 302. Heineccius 2, 192. Heineken, Mathilde von 2, 465. Heinse l, 40. 59. Heise i, 341. Hellfeld i, 247. 252. 253. Hellwag I, 322. Helvetius i, 492. 523. 536. 560. 634. — , Frau I, 536. 597. Helwing i, 79. Hemert, van 2, 70. Hemmerde i, 238. 239. 252. 256. Henao 2, 137. Henares i, 329. Henault i, 634. Henley 2, 469. 470. 513. — , Lady 2, 474. Henniker 2, 484. 485. 489. Hennings, August von i, 260. 323. 324. — , Eleonore von l, 324. Heraut de S^chelles i, 404. Herder i, 71. 214. 254. 255. 324. 385. Hermann, Jean Frederic l, 379. 405. — (Schönebeck) 2, 478. 514. Hermes i, 11. Hernandez 2, 147. 148. Herrera, Fernando de 2, 189. 204. — , Juan de 2, 146. 148. 245. Ilerrgen 2, 182. 191. 210. 351. Herrmann l, 3. 7. 8. — , Lotte 1, 7. 8. Hertford 2, 472. 474. 483. 485. 513. — , Lady 2, 472. 490. 499. 509. Hertzberg i, 19. 239 — 241. 2, 524. Hervas 2, 525. Herz, Markus 1, 228. — Henriette i, l. 23. 44. 49. 69. 72.</p>
+
+               <p>139. 244. 248. 250. 396. 2, 247. JIcss, Johann Jakob l, 166.</p>
+
+               <p>94,</p>
+
+               <p>Hesscn-Darmstadt, Charlotte von 1, 27. — , Karolinc Ton I, 37.</p>
+
+               <p>— , Ludwig IX. von l, 32. 37.</p>
+
+               <p>— , Ludwig X. von i, 36. 38. — , Luise Karoline Henriette von i, 37. 38.</p>
+
+               <p>Hesscn-IIomburg, Friedrich V. I&gt;udwig von</p>
+
+               <p>2. 493- 494- — , Friedrich VI. von 2, 468. 474. 480.</p>
+
+               <p>j 481. 486. 492. 494. 514. j — , Prinzen, von 2, 504. [Hessen-Kassel, Friedrich II. von i, 17. 22. i — , Wilhelm IX. von 1, 17. 24.</p>
+
+               <p>i Hessenstein, Graf von i, 270. ' Hevel I, 272.</p>
+
+               <p>Heyer 2, 504. 516.</p>
+
+               <p>I Heyne, Christian Gottlob i, 23. 40. 43. 46.</p>
+
+               <p>; 55. 73. 237. 240. 2, 524. i — , Therese i, 46.</p>
+
+               <p>j — , Georgine i, 46. 67. 69. 70.</p>
+
+               <p>i — , Marianne i, 42. 66 — 70. 73.</p>
+
+               <p>! Hientsche i, 299.</p>
+
+               <p>Hieronymus 2, 272. Hilliger 2, 309.</p>
+
+               <p>Hirni I, 184. 190. 193. I94- 198. 206. 208.</p>
+
+               <p>Hirzel i, 16S. 180. Hobbes l, 558. 560. Hoche I, 628.</p>
+
+               <p>Höpfner l, 36. Hoffmann i, 460. Holbach 2, 4. 9.</p>
+
+               <p>— (Sohn) 2, 9. 14. Holbein l, l6l. 585.</p>
+
+               <p>Holland 2, 466. 467. 471. 474. 496. 502.</p>
+
+               <p>509- 513- — , Lady 2, 477.</p>
+
+               <p>Holmer l, 311.</p>
+
+               <p>Holstein-Gottorp, Peter Friedrich Ludwig von I, 311. 324.</p>
+
+               <p>' Holwede, von l, 240. 244—246. 24S— 253.</p>
+
+               <p>255. 257. ' 2, 470. 517.</p>
+
+               <p>' — , Minette von l, 237. 238. 240. 250.</p>
+
+               <p>253—255.</p>
+
+               <p>Homer l, 141. 152. 162. 207. 226. 24S.</p>
+
+               <p>254. 266. 312. 313. 315—318. 336. 337.</p>
+
+               <p>427. 555. 576. 2, 196. 203. 226. 236. 439. 435.<pb n="15.566" xml:id="pbXV566"/> Hope 2, 503. Hopfgarten, Frau von i, 244. 24Ö. 247. Hopkins, Fräulein 1, 525. 2, 29. Horaz 1, 52. S9. 115. 136. 530. 597. 2, 8.</p>
+
+               <p>74- ^83. Hotlin^er i, 161. 1C5. 167. 171. 227. — , Frau I, 162. 167. Houdon 1, 121. liouldttch 2, 500. 501. 504. ;o6 — 509. &gt;12. Hügel, Susanne r, 48. Ililhncrbcin, Fräulein von i, 239. Huerta 2, 195. Huet 2, 9. Hufeland, Christoph Wilhelm i, 242. 245. 251- 253- 306. — , Goltlieb I, 242. 2;i. 253. — , Frau I, 252. Huguet 2, 310. 343. Hulthem, van l, 379. Humboldt, Wilhelm von: Aesthjtische Verbuche I, 378. 385. 388. 390. 396. 399- 401. 402. 408. 410. 411. 414. 417. 427</p>
+
+               <p>— 430- 437- 439- 441; Agamemui..n 1, 385. 388. 390. 391. 399. 2, 451. 457, 525. 527: Anthropologie i, 391; Das achtzehnte Jahrhundert i, 390. 391; Pindar i, 316. 390. 2, 519. 525; Cijcr das griechische Plusquamjjcrfektum usw.</p>
+
+               <p>-I 530; t'bcr die Bestimmung des Menschen I, 378; Übersetzung aus Mirabeau 1. 133- 162. — , Alexander Georg von l, 6. 7. 13. 154.</p>
+
+               <p>230. 2, 517. 518. 523. 524. — , Elisabeth von l, 30.'90. 239. 241 — 253.</p>
+
+               <p>390. 391. 2, 517. 519. 524. — , Karolinc von i, 38. 84. 04. 131. 240.</p>
+
+               <p>244. 246. 247. 232—255. 324. 348. 351. 369. 390. 417. 577. 2, 80. 105. 122.</p>
+
+               <p>233. 224. 234. 236. 238. 239. 252. 259.</p>
+
+               <p>279. 285. 28O. 289. 293. 3&gt;3-3i4-320.</p>
+
+               <p>341- 343—345- 455- 463- 4Ö5- 472- 485. 518—524. 530—549. — , Kuroline von ('J'ochler) i, 238. 43S.</p>
+
+               <p>2, 236. 252. 519. 520. 530. — , Wilhelm von (Sohn) i, 244. 245. 250. 251.257. (Ol. 4.18. 2,236. 252. 519. 520.</p>
+
+               <p>234. 236, 252. 465. 519. 520. 52a. — , Adelheid von 2, 472. 520. 521. 523.</p>
+
+               <p>529. 530. — , Gabriele von 2, 472. :;2o. 521. 528 —530.</p>
+
+               <p>— , Luise von 2, 520.</p>
+
+               <p>— , Gustaf von 2, 521.</p>
+
+               <p>— , Hermann von 2, 521.</p>
+
+               <p>— , Alexander von i, 228. 23'i — 257. 329.</p>
+
+               <p>342. 458. 460 — 462. 468. 481. 505. 506.</p>
+
+               <p>548. 551. 566. 610. 2, 97. 210. 295. 298. 299. 305. 309. 311. 339. 343. 459.</p>
+
+               <p>; 508—510. 514. 517. 518. 520. 521. 523.</p>
+
+               <p>j 525- 528. 530. I Hume 1, 492. 524. 2, 9. 192.</p>
+
+               <p>I Humphreys 2, 206. 351.</p>
+
+               <p>I Hutchcson 2, 192.</p>
+
+               <p>: Hutin, Fräulein 2, 104. I</p>
+
+               <p>I Ifllund I, 140. 331.</p>
+
+               <p>i llgcn, Karl David 1, 253. 250.</p>
+
+               <p>j — , Johanna 2, 463.</p>
+
+               <p>Imhoff, Christoph Adam Karl von 1, 12. — , Amalic von l, 246.</p>
+
+               <p>j Imlay i, 619. del Infantado, Herzog 2, 15S. 165. 202. 351. Ingenheim, Gräfin von i, 12. Isabey l, 619.</p>
+
+               <p>Ith I, 181. 210 — 214. 219. 22:. — . Frau I, 214. 219.</p>
+
+               <p>d'Iturbide 2, 337 — 350. 438. Iturriaga 2, 437.</p>
+
+               <p>Iznardy 2, 208. 237. 249. 26;. 351.</p>
+
+               <p>Izquicrdo 2, 17.</p>
+
+               <p>Jacülii, Friedrich Ileinricii 1, 35. 57 — 62.</p>
+
+               <p>226. 241. 243. 250 — 252. 255. 312. 322.</p>
+
+               <p>327- 344- 345- 347- 376. 326—528. 634 2, 211, 255. 380. 524.</p>
+
+               <p>— , Helene Elisabeth l, 348.</p>
+
+               <p>— , Charlotte l, 59. 349. — , Helene l, 59. 349.</p>
+
+               <p>— , Friedrich l, 87 — 90. 92. 241. 243. 34s. — , Luise I, 87. 88. 348.</p>
+
+               <p>— , Georg Arnold i, 348. — . l.uise I, 348. 331.</p>
+
+               <pb n="15.567" xml:id="pbXV567"/>
+               <p>254. 256. 348. Jacqucmont l, 441. 471. 483. 485. 486.</p>
+
+               <p>516. 579. 581. 585. 620. — , Frau I, 620. Jacquicr 2, 188. 192. Jacquin l, 357. Jadelot 2, 1S2. Jakob 1, 148. 254 — 256. Jard-Panvillier r, 383. Jardin i, 386. Jaromar I. von Rügen i, 277. Jarry l, 439. Jaucourt i, 564. Jauregui 2, 183. 198. 331. — 2, 204. Jean 2, 332. Jenisch i, 228. Jenner i, 67. Jersey 2, 474. 497. 499. 502. 513. 515. — , Lady 2, 485— 48S, 491 — 495. 497. 498.</p>
+            </div>
+
+            <div type="section" n="4">
+               <head>
+                  <title type="main">500- 5 IS-</title>
+               </head>
+               <p>Jesus Christus I, 579. 580. Johann i, 18. Johnson 2, 463. Joly r, 429. Jordaens 2, 379. Jordan !, 405. Jorrand i, 3S3. Jorry l, 439. Josef II. 2, 363. Josephi I, 303. Jouffe 2, 116. Jourdan, Andre Joseph l, 372. 383. — , Jean Baptiste i, 405. — I, 407. 450. Joumu-Auber 2, 66. — (Vater) 2, 67. — (Tochter) 2, 67. Jovellanos 2, 159, 184. 190. Juan 2, 314. J«anillo 2, 182. Julien, Pierre i, 457. 617. — 2, 16. Jung-Stilling ), 20. Juni 2, 147. 152. Juriiaga 2, 13:2.</p>
+
+               <p>Juvenal l, 516.</p>
+
+               <p>Kallimachos 3, 3.</p>
+
+               <p>Kambli l, 172.</p>
+
+               <p>Kant I, 25. 54. 58. 60. 61. 93. 142. 149.</p>
+
+               <p>161. 163. 171. 179. 227. 321. 322. 326.</p>
+
+               <p>342—344. 348. 366. 395- 398. 450—453- 466. 483. 485—487. 491. 493- 516. 524.</p>
+
+               <p>535- 549- 2, 4. ICD. Kapf I, 243.</p>
+
+               <p>Kapp I, 354.</p>
+
+               <p>Karl der Grosse i, 17.</p>
+
+               <p>Karl V. 2, 144. 148. 194. 271. 272. 274.</p>
+
+               <p>301. 314—317- 3Ö4- Karl VI. 2, 301.</p>
+
+               <p>Karl von Lothringen i, 99. ico. Karsch l, 270.</p>
+
+               <p>— , Frau I, 270. Karsten l, 24.</p>
+
+               <p>Kastilien, Alfons V. von 2, 340.</p>
+
+               <p>— , Alfons VIII. von 2, 174. 37 1.</p>
+
+               <p>— , Alfons X. von 2, 152. 171. — , Ferdinand III. von 2, 142. 226. 240. 242.</p>
+
+               <p>— , Heinrich IV. von 2, 126. 152. 368—371. — , Johann I. von 2, 243. — , Leonore von 2, 243.</p>
+
+               <p>— , Johann II. von 2, 144. — , Johann III. von 2, 152. — , Johann Infant von 2, 273, — , Karl III. von 2, 144.</p>
+
+               <p>— , Manuel Infant von 2, 171. — , Pedro der Grausame von 2, 24c. 241.</p>
+
+               <p>243. 244. — , Maria Padilla von 2, 244. — , Pedro Infant von 2, 273. — , Sancho von 2, 138.</p>
+
+               <p>Kauffmann, Juliane i, 151. Kauhlen i, 50. 53. 56. Keith 2, 484. 497.</p>
+
+               <p>Keller, Johann Balthasar i, 112. — , Frau von I, 223. — (Paris) I, 405.</p>
+
+               <p>Kent, Eduard August Herzog von i, 229.</p>
+
+               <p>231. 2, 481. 482. Keppel 2, 472. 480. 503. 515. Ketelhodt i, 228. 229.<pb n="15.568" xml:id="pbXV568"/> Kleemann i, 240. 256. Klein, Anton von i, 140 — J43. — , Ernst Ferdinand i, 250 — 253. 256. Klopstock 1, 145. 162.260.315.336—339. — , Johanna Elisabeth 1, 339. Knight 2, 462. 46S. 474. 4S7. 490. 491.</p>
+
+               <p>494- 5'3- S^':'- — , Miss 2, 507. Knorr i, 240. — , Frau von i, 239. 240. 25 j. K ober wein i, 219. Koblanck 2, :iS. Koch, Erduiu Julius i, 246. — , Johann Christoph i, 26. Köhler i, 303. Köln, Ma.\imilian Kranz von l, 52 — &gt;4.</p>
+
+               <p>, Maximilian Friedrich von 1, 51. 54. Kölpin, Alexander Bernhard l, 269. — , Ernst Heinrich Karl i, 269. Koen I, 512. König, Fruu von 1, 237. 242. — (London) 2, 510. 510. Körner i, 238. 241 — 245. 250—255. 354.</p>
+
+               <p>391- Konopack i, 2;2. Koolcn, van 2, 209. 352. Kosciuszko 2, 12. Kosegarten, Gotthard Ludwig 1, 259. 277.</p>
+
+               <p>282. 290 — 292. 298. 310. - , Katharina 1, 291. Kotzcbue 2, 10. Krauel i, 303. Kraus 1, 3. Krcbel i, 2. 18. 27. 78. 103. Kronstern i , 323. Krosigk, Frau von 1, 238. 244. 247. Küster I, 87. 90. Kunlh I, 237 — 243. 245—257. 2, 51S. 524. Kunze i, 354. Kurland, Tcler lÜron Herzog von 1, 3;. Labat 2, 105. Labicuus 2, loi. Labordc 2, 4SS. Lacaze a, 125. I ar.|,^(lr |, 37O. 377.</p>
+
+               <p>— , Frau 2, I. Lachambre 1, 52S.</p>
+
+               <p>Lachassaignc, Fräulein i, ^97. Lackington 2, 503.</p>
+
+               <p>Lacombe St. Michel i, 401. 406. Lacondaminc i, 528.</p>
+
+               <p>Lacoste i, 409. 419. 420. — , Frau I, 409. 419.</p>
+
+               <p>Lafayette 1, 118. 132. 404. 555. 615. Laffon de Ladebat i, 411.</p>
+
+               <p>Lafontaine i, 367. 44S. 482. Lagarde l, 431.</p>
+
+               <p>Laghezza l, 2i&gt;. 216. Lagrange 2, 4.</p>
+
+               <p>Lagrave, Frau 2, 29.</p>
+
+               <p>Lagravcrc 2, 125. J3S.</p>
+
+               <p>Laguila 2, 246.</p>
+
+               <p>Laguna 2, 191.</p>
+
+               <p>Laharpe i, 547. 559. 2, 14S.</p>
+
+               <p>Lajeunessc l, 128. Lakanal l, 462. 2, 73. Lalande l, 423.</p>
+
+               <p>Laloy I, 402. Lamarck i, 427. Lamare i, 478,</p>
+
+               <p>Lamarque i, 373. 402. 405. 40&gt;. 411. 450.</p>
+
+               <p>2. 40- 55- — (Bruder) 2, 55.</p>
+
+               <p>Laiub 2, 497. 500. 515. — , Lady 2, 509.</p>
+
+               <p>Lambesc i, 103. 109. Lamenel 2, 4S1.</p>
+
+               <p>de Lametherie i, 460. 481. 549. ;5i. ;52. 567. — (Brüder) i, 552.</p>
+
+               <p>de Lamcttrie i, 624. 634. 2, 6.</p>
+
+               <p>Laniey i, 142.</p>
+
+               <p>de Lamothe Lcvaycr 2, 9.</p>
+
+               <p>de Lamoltc, .\nloine lloudart 1, 034. — 2. 376.</p>
+
+               <p>Lancaster 2, 509.</p>
+
+               <p>Landazuri 2, 391. 400. 414.</p>
+
+               <p>Landsberg 2, 487. 489. 515. Lauge I, 85.</p>
+
+               <p>LaugcnhütTcl i, 140.</p>
+
+               <p>Langlcs i, 426.</p>
+
+               <p>l.ungsdorlV 2, 470. 474. 4S2. 512. 515.<pb n="15.569" xml:id="pbXV569"/> lanjuinais l, 469. Kankcn i, 296. !,anonc i, 624. Lansdovvn 2, 474. 477. 4S0. 494. 497.</p>
+
+               <p>513. 5 15' — , Marquise 2, 465. 406. 460. 474. 4S4.</p>
+
+               <p>486. 487. 493. 503. 516. — , Marquise (Wiltwe) 2, 4S^. 480. 493.</p>
+
+               <p>496'. 499. Lantier i, 387. Lapasse 2, 495. 515. Laperouse i, 376. 474. Laplace l, 385. 423. de Larbe 2, 65. Larcher i, 366. 512. 634. Lardizabal 2, 396. I-areveillcre Lcpeurret i, 420. Lariviere i, 406. 407. 330. Larnac 1, 436. Laroche, Frangois 2, 38. — , Pierre Louis Lcfevre de i, 597. — , Sophie I, 38. — , Franz i, 18. 29. 30. — , Fritz I, 30. — , Karl I, 18. 23. 30. 44. 94. 139. 244. 246. de Laroche foucault, Frangois I, 604. — . Frani.;ois Alexandre Frederic i, 475. — , Louis Alexandre i, 435. — I, 592. Larochelle i, 458. 459. 597. Larochette l, 511. 512. F.aromiguiere l, 426. 441. 471. 483, 485</p>
+
+               <p>524- 550- Larralde 2, 360. 363. Larramendi 2, 138. 362. Larrard 2, 305. 309. Larrien 2, 120. de Lascasas, Domingo 2, 285. — 2, 254. 288. — (Bruder) 2, 254. Lasi 2, 191. Laso 2, 247. Lasteyric 2, 18. Latapie 2, 71. Latour r, 527. — , Frau I, 527. 2, 22.</p>
+
+               <p>Latour d'Auvergne 2, 371.</p>
+
+               <p>, Latreille 2, 494. 495. 515, de Latremouille, Gräfin i, 494.</p>
+
+               <p>— (Sohn) 2, 17. Latrcnncs 2, 44.</p>
+
+               <p>Lauderdale i,39ü. 2, 474. ^76. 485. 4(17 515. Laudon i, 231.</p>
+
+               <p>I-aujac&lt;i l&gt; 402.</p>
+
+               <p>Luunay de Tillicres 1, 74.</p>
+
+               <p>Laurens 2, loi.</p>
+
+               <p>Laussat i, 407. 411.</p>
+
+               <p>Lavalliere, Frau i, loü.</p>
+
+               <p>Lavater, Diethclni 1, 164.</p>
+
+               <p>— , Johann Kaspar i, 60. [55 — ]&lt;&gt;\. idb. 172. 182. 231.</p>
+
+               <p>— (Sohn) I, 180. Lavictoire 2, 443.</p>
+
+               <p>Lavoisier l, 438. 481. 577. 581. 2, 196. Law 2, 475.</p>
+
+               <p>Lawrence 2, 469. 481. 490. 507. 513. 515.</p>
+
+               <p>530.</p>
+
+               <p>Laya 1, 488—490. 507. Lazcano 2, 365. Leach 2, 510. 516. Leake 2, 462. 463. 490. 513. 15 1^.</p>
+
+               <p>Lebauld i, 501. Leblanc de Guillet i, 416. Leblond i, 425. 427. 434. 579. 581.</p>
+
+               <p>Leben i, 498. Lebreton i, 462. 483. Lebrun i, 106.</p>
+
+               <p>Lebrun-Pindare i, 363. 364. 449.</p>
+
+               <p>Lebzelteru 2, 496. 509.</p>
+
+               <p>i Leclerc i, 401. 407.</p>
+
+               <p>^ Lecointre i, 439.</p>
+
+               <p>I Lecointre-Puyraveaux 1, 545.</p>
+
+               <p>1 Lecöuteulx i, 373. 411. 416. 417.</p>
+
+               <p>! Lecouvreur, Adrienne i, 634.</p>
+
+               <p>Leeds, Herzog von 2, 468. 469. 47S. 513.</p>
+
+               <p>— , Herzogin von 2, 475.'</p>
+
+               <p>■ -^, Herzogin von (Wiltwe) 2, 478.</p>
+
+               <p>1 Legat 2, 15.</p>
+
+               <p>1 Leger 2, 15.</p>
+
+               <p>|Legouve i, 370. 537. 546—548. 2, 30. j Legrand, Jacques Guillaume 2, 32. 33.</p>
+
+               <p>1 — , Pierre Germain l, 114.<pb n="15.570" xml:id="pbXV570"/> Legres 1, 108. Lehmann 2, 264. — , Frau 1, 248. 251 254. Leibniz i, 492. 633. 2, 9. Lekaia l, 634. 2, 31. 32. Lcmercicr i, 370. 389. 516. 53S. 547. Lemonnier i, 427. Lemoyne 2, 63. i^engcfcld, Christian August von 1, 29. — . Luise Juliane Klconore Friederike \on</p>
+
+               <p>1, 244—246. 249. Lcnnep i, 317. Lcnölrc i, loS. 113. 1-enz 2, 96. Leonardo da Vinci 2, 143. Leoni 2, 147. LcjJaon i, lot;. Lcpelleticr, Felix i, 402. 411. — , Louis Michel l. 402. Lerena 2, 186. Leroy i, 425. 427. 527. — , Frau I, 527. 528. Lcsage, Alain Rene 2, 359. — , Georges Louis l, 22!;- 227. Lcsagc-Stnaull i, 371. Lcske I, 24. Lesseps 2, 161. 250. Lessing l, 143. 165. 315. 640. 2, 27. Lcsueur, Jacques Philippe l, 139. 617. — I, 405. 410. Lclourneur, Charles Louis l'ranrt&gt;is llcmorc</p>
+
+               <p>I. 547- 565- — , Pierre 2, 172. Lcttrell 2, 514. Lcuchsenring l, 21. 35. de Lcuzc, Frau 1, 578. Levaillant 1, 368, 569. Levesquc i, 427. Lewis I, 478. Leycn, von der i, Si. 82. S4— 8(&gt;. Leyva 2, 144. Lichtenberg, Friedrich .\ugu&gt;t i, \. S. 31.</p>
+
+               <p>36- 37- — , Frau I, 8. — , Georg ClirisU);)h 1, 3''' ^&lt; ^-*Lichlrn^ti-in i, ^40.</p>
+
+               <p>Liegnitz, Fürstin von 2, ^29.</p>
+
+               <p>Lieven, Christoph Andrejewitsch Fürst von</p>
+
+               <p>2, 462—464. 466—473. 476. 477. 47V. 4S1— 4S3. 485. 486. 4S9. 490. 492. 493. 495—506. 508. 509, 514. — , Dorothea Fürstin von 2, 463. 465. 4O7 —474. 476—478. 480—485. 487— 4S9.</p>
+
+               <p>492—494. 496— 49S. 500. ;o2 — 506. 508. 509. 515. Lignercs l, 565.</p>
+
+               <p>Lili 2, 131.</p>
+
+               <p>Limerick 2, 500.</p>
+
+               <p>Lindct I, 431. 493.</p>
+
+               <p>Linguet l, 119. Link I, 303.</p>
+
+               <p>Linne l, 231. 2, 72. Liustau 1, 30.</p>
+
+               <p>' Linz 2, 504. 516.</p>
+
+               <p>Lippe, Paul Alexander Leopold Fürst von</p>
+
+               <p>2, 486. 487. 4S0. 402. 495. 515, , Lipsius 2, 9.</p>
+
+               <p>I Lisle, Miss 2, 4S0. Little 2, 472.</p>
+
+               <p>Littleton, Mrs. 2, 4^3. 4Sb«. 4S9.</p>
+
+               <p>; Liverati 2, 4S3. 515.</p>
+
+               <p>Liverpool 2, 469. 472. 475. 481. 485. 512.</p>
+
+               <p>514— , Lady 2, 476.</p>
+
+               <p>i Livius 2, 169. 323. ■ Llano 2, 337.</p>
+
+               <p>i Loaysa 2, 3S3.</p>
+
+               <p>Lock, Mrs. 2, 4S7.</p>
+
+               <p>Locke 1, 445. 492. 551. 558. 5Ö0. 635.</p>
+
+               <p>Leder i, 245. 249. 253. 255. 25Ö. ! Löfller i, 355.</p>
+
+               <p>I Löwen I, 299.</p>
+
+               <p>i Löwcnhjelm 2, 503. 505. 510.</p>
+
+               <p>Lnniberg l, 50.</p>
+
+               <p>Lomm I, 87 — 89. i»2. 347.</p>
+
+               <p>Long 2, 4&lt;)8. 469. 497. 498. 503. 515. Longchamps 2, 16. Longden 2, 331. 337. Lonsdalc 2, 491.</p>
+
+               <p>Lopc de Vcga 2, 1S3. iSy. J02. 304. Lopez 2, 267.</p>
+
+               <pb n="15.571" xml:id="pbXV571"/>
+               <p>37' Lothar II. i, 325. Lottrel 2, 480. Louis I, 428. 619. 2, ü2. 66. Louvois I, III. 482. ^ Loyola 2, 436. Lucan l, 643. Lucius I, 49. Ludolf, Graf i, 30. — (London) 2, 474. 475. 482. 503 — 505.</p>
+
+               <p>507- 509. 512. 515. Luhe, von der i, 229. — , Frau von der l, 229. Lugo 2, 162 — 164. 175. iSo — 182. iS6. 193.</p>
+
+               <p>200. 350. Lukas von Leiden 2, 272. LuUy I, 482. Luna, Andrea 2, 166. 168. — , Rita 2, 166. 168. Lusi, Wilhelm 2, 462. 470. 47o.48l.482. 490.</p>
+
+               <p>492. 493. 497- 498. 501- 503- 505- 512. — , Maria 2, 493. 496. 503. 515. Luther l, 315. Luzan 2, 195. 197. 204. Mably l, 559. 560. 624. 2, 25. Macaya 2, 116. Macchiavelli i, 454. 558. 396. Macclesfield 2, 493. Mac Daniel 2, 507. 510. Macdonald, Lady 2, 470. Macip 2, 244. 333. 338. Mackenzie 2, 508 — 510. 516. Mackintosh 2, 476. 478. 514. Macot I, 419. Madier l, 410. Mandeln 2, 59. Magellan 2, 380, 383. Maintenon, Frau von 2, 94. Mainz, Friedrich Karl Josef von i, 40.41. Malebranche l, 481. Mallet 2, 125. 156. 337. 346. Mallot 2, 191. Malmesbury i, 421. Malortie l, 18. Malouin I, 530. Manrique 2, 142'.</p>
+
+               <p>Manteuffel i, 122. Manuel i, 586.</p>
+
+               <p>Marat i, 469. 472.</p>
+
+               <p>Marcct 2, 465. 469. March 2, 499.</p>
+
+               <p>— , Lady 2, 499. Marec 2, 42.</p>
+
+               <p>Maresch i, 387.</p>
+
+               <p>Maria 2, 482. 483. Maria Theresia 2, 301. Marigni l, 456. Marin i, 383.</p>
+
+               <p>Marivaux i, 624.</p>
+
+               <p>Mark, von der l, 12. Marmontel i, 152. 430. 547. t)24.</p>
+
+               <p>Marokko, Kaiser von 2, 256. Marot I, 449. 481.</p>
+
+               <p>Marquant 2, 71. Marron 2, 3.</p>
+
+               <p>Mars, Frau i, 597. 624.</p>
+
+               <p>Martens 2, 507 — 510. 514. Martinez, Sebastian 2, 255.</p>
+
+               <p>j — (Granada) 2, 272. I Mason i, 414.</p>
+
+               <p>I Massillon l, 634.</p>
+
+               <p>j Massow 2, 337. Mastiaux, Johann Gottfried von l , 51.</p>
+
+               <p>j — , Kaspar Anton von i , 31. 55.</p>
+
+               <p>j Matos Fragoso 2, 189. ! Maucault 2, 124.</p>
+
+               <p>Maugis I, 620. Maupertuis i, 113, 634.</p>
+
+               <p>Maupoint l, 511. Maurepas i, 483.</p>
+
+               <p>Maury 2, IQ. 115. Mazarin l, 590. 391.</p>
+
+               <p>Mazarredc 2, 255. 259. 420. 426. Mechain 2, 309.</p>
+
+               <p>Meckel, Philipp Friedrich Theodor i, 2^7</p>
+
+               <p>—239.</p>
+
+               <p>— , Johann Friedrich 2, 508. 516.</p>
+
+               <p>Mecklenburg, Franz Philipp Christian i, 2J^.</p>
+
+               <p>244. — , Ludwig Hermann von i, 30 ^ — (Bützow) I, 306.</p>
+
+               <pb n="15.572" xml:id="pbXV572"/>
+               <p>von I, 304. — , Alexandrinc von 2, 529. Mecklenburg-Strelitz, Georg von 2, 52S. — , Karl von 2, 529. Medicus i, 141. — , Frau I, 141. Medina Ccli, Herzog von -', i4v i''5. Mcicr I, l8i. — (Sohn^ I, 22. 181. — , Frau I, 392. Mcilliragc i, 592. Meiners i, 172. 177. 17.S. 182. 184 — iSS.</p>
+
+               <p>190. 191. 193. 194. 19!) — 198. 211. 214. 216. 21S— 220. Meissner i, 52. Meister, Johann Heinrich 1, 132. 163. — , Leonhard i, 162. i6&gt;. l6S. 172. 173. 177. — , Frau I, 163. Mejorada de Pedrosu 2, 244. Melanchthon i, 226. Melbourne, Lady 2, 471. 47'i. Melendez 2, 172. 184 195. Melvillc 2, 468. 514. — , Lady 2, 469. Melzi d'Eril 1, 640. Mcna 2, 189. rgO. Mendelssohn i, 7. 9. 21. ;4. Mcndez 2, 169. 351. Mendoza, Pedro Gonzalez de 2, 149. 203. — 2, 202. Mengden, Grätin 2, 500. Mengs 2, 16. 237. Menson 2, 441. Mcnlelle 2, 2Ü7. Mercicr l, lio. 12b — 129. 131. 132. 421.</p>
+
+               <p>427. 430. 431. 523. 633. - (Vater) i, 431. Mercau i, 242. Merlin de Thionvillc i, 404. 411. Mcschkcr i, 238. 239. Mcscoso, Marquis 2, 247. — , Marquisc 2, 247. Mesnier 2, 12. Mcssalina 2, 3. Messer und Paget 2, 467. Mctastaftio 2, 14. 172.</p>
+
+               <p>Metzger 2, 55. 262.</p>
+
+               <p>Meuscbug (Meysenbugy 1, 2.</p>
+
+               <p>Mey 2, 162. Meyer, Christian Dietrich i, 140. — , Friedrich Ludwig Wilhelm l, 41. 49. sc».</p>
+
+               <p>— , Johann Heinrich l, 253 — 255. — (Holzminden) i, 77.</p>
+
+               <p>— ; Kappcl) I, 171 — 173. — (Paris) 2, 3.</p>
+
+               <p>Mezcrai, Josephine 1, 458. 525. 598. 2, 2.^. 29. Michaelis, Johann David l, 11. 330.</p>
+
+               <p>— , Christian Friedrich i, 21. 25. — , Gottfried Philipp i, 330.</p>
+
+               <p>— (Berlin) 2, 5II. 512. 510. — (Neustrelitz) 1, 249 — 252. Michelangelo 2, 17. 143. 271.</p>
+
+               <p>Middletou, John 2, 17. — 2, 409- 512.</p>
+
+               <p>Mieg, Abraham Jakob Wilhelm i, 144 — , Frau I, 144.</p>
+
+               <p>— , Johann Friedrich i. 144 — 140. Mildahn 1, 285.</p>
+
+               <p>Miles, Mrs. 2, 464. 504.</p>
+
+               <p>Miliin i, 378. 552. 563. 5Ö0. O-'o. 2, 2-. .Millingcn 2, 483. 498. 515. Milton I, 448.</p>
+
+               <p>Miltsch, Frau i, 243.</p>
+
+               <p>Minutolo, Mathilde 2, 171.</p>
+
+               <p>■ Mirabeau i, 162. 222. 392. 494. 582.</p>
+
+               <p>— 589. 592. Ö16. 619. 620. 628. : — (Vater) l , 58O. 588. 5S9. — (Mutter) I, 589.</p>
+
+               <p>Möller, Johann Georg Pcler 1, 272.</p>
+
+               <p>— (London) 2,498. 303. 505. 512. 51 3 ;i;. Moct 2, 468.</p>
+
+               <p>Moguel 2, 31)4. 31)5. Mole 1, 123. 432. 45S. 459. 490. 525. 010.</p>
+
+               <p>2, 3&gt;- Mülicre 1, 367. 448. 449. 5OO — 502. 514.</p>
+
+               <p>517 — 522. 592. 604. 624. 2, 8. 67. 24H. .Molino 2, 32. Molius 2, 309.</p>
+
+               <p>Mnnballon 2, 05.</p>
+
+               <p>Moucey 2, 359. 371. Monconill 2, 202. Moiicr, Lady 2, 505.</p>
+
+               <p>475,8(»</p>
+
+               <p>, 10.<pb n="15.573" xml:id="pbXV573"/> Monfortc 2, 251. 254. Monge I, 581. 2, 160. MoDgez I, 365. 381. 420. 427. 44,v -Monnicr, Marquise von l, 586. Monnot I, 36g. Monroy 2, 17S. Montague 2, 485. Montaigne l, 136. O36. 643. 2, 5. 03. 70. Montana 2, 310. Montansct 2, 186. -Montehermoso, Marquis von 2, 13S. 396.</p>
+
+               <p>398. 399- Montengon 2, 208. Montesquieu l, 388. 560. 596. 634. Montfcrat i, 222. Montiano 2, 195. Montmayon i, 383. 410. Montmorency, Anne von i, 135. — . Matthieu Jean Felicite von i, 435. 465. Montrose, Murquis von l, 455. — 2, 470. 471. 475. 481. 485. 491. 514. — , Lady 2, 490. Monvel l, 389. 487. 489. 592. 613. 614.</p>
+
+               <p>2, 27. Moore 2, 470. — , Lady 2, 478. Morales, Francisco 2, 323. — , Jose Isidoro i, 415. — (Cadiz) 2, 233. Moralin, Nicolas f ernandez de 2, 195. — , Leandro Fernandez de i, 397. 2, 172.</p>
+
+               <p>183. 195. 201. 351. Morelly i, 559. Moreno, Kamon 2, 200. — (Cadiz) 2, 236. Morelo 2, 188. Morgan, Mrs. 2, 469. Morgana I, 432. Morgenstern, Karl i, 246. — (Kopenhagen) 2, 465. Morites 2, 131. 132. 137. 141. 396. Moritz I, 92. 145. 290. Morpeth 2, 477. 478. — , Lady 2, 477. Moulines i, 114. Mounier l, 440/</p>
+
+               <p>Mousquitz 2, 170. Mülincn 1, l8l. 209. 219.</p>
+
+               <p>Müller, Johannes l, 164. 225. — , Karl I, 143.</p>
+
+               <p>— (Zeitz) I, 356.</p>
+
+               <p>' Münster, Ernst Friedrich Herbert Graf zu</p>
+
+               <p>2, 462. 463. 465—467. 470. 471- 474-</p>
+            </div>
+
+            <div type="section" n="5">
+               <head>
+                  <title type="main">475- 477- 478. 480—482. 487—489. 4Q2.</title>
+               </head>
+               <p>495 — 498. 300—502. — , Gräfin zu 2, 486. 498. 502. 314.</p>
+
+               <p>1 Mulgrave 2, 470. 474. 513.</p>
+
+               <p>] de Mun i, 523. 625.</p>
+
+               <p>■ Muüoz 2, 156. 157. 160.</p>
+
+               <p>Murga 2, 385. 386. 38S. 389. 426. 429. — (Vater) 2, 386. 418. 432. Murillo 2, 232. 237. 238. 240. 241. 244</p>
+
+               <p>—247. 265. 271. 492. Murphie 2, 472.</p>
+
+               <p>[ Murray, James 2, 480. 484.</p>
+
+               <p>— , Johann Andreas I, 166. — , John 2, 479. 480. 494. 507. S'O- 512.</p>
+
+               <p>513. 316. — , Lady 2, 482. 492. 493. 500. 502. — 2, 463.</p>
+
+               <p>Musschenbroek 2, 156. Muzell 2, 518.</p>
+
+               <p>Nadasdy I, ibo. Näf I, 172.</p>
+
+               <p>I Nägeli I, 200 — 202. 205. Nahl 1 , 4.</p>
+
+               <p>I Naigeon 2, 4. 6. 8.</p>
+
+               <p>Narbonne l, 562. 2, i. 2. 10. — , Frau 2, 10. Narros, Marquis von 2, 395. Natterbusch i, 175. Naude l, 477.</p>
+
+               <p>Nava I, 347. 2, 255. 259.</p>
+
+               <p>Navarra, Margarete von 2, 94. Navarrete 2, 322.</p>
+
+               <p>Navarro 2, 191. 193. 351.</p>
+
+               <p>Necker, Jacques i, 131. 533- 5öi. 57^ 2,35. — , Susanne i, 553. 561. Nera, Frau von l, 494. Ncrli 2, 203.</p>
+
+               <p>Nero 2, 3. 4.<pb n="15.574" xml:id="pbXV574"/> -, von I, 56. Neufchatcau i, 419. ^Sj. 610. N'cumann 2, 464. 477. 481. 482. 484. 486.</p>
+
+               <p>489. 490. 494- 495- 499- 500- 503— 505- 507. 509. 511. 514. jNewton l, 343. 633. 2, 192. Nicolai, Christoph Friedrich l, 32. 33. 35. 39. — (London) 2, 495. 496. 50S. Nicolas I, 440. Nicole 1, 492. 2, 163. Nicolovius I, 321. 322. Niederlande, Luise Prinzessin der 2, ^29. Niemcycr, August Hermann 1, 249. — , Frau I, 249. Nieuwenkirk 2, 162. 169. 350. Nina 2, 464. Ninon de Lenclos i, 589. Noailles i, 372. Nointel 2, 32. Norofia 2, 195. Xorrmann i, 2. 17. 18. 27. North 2, 497. Nossc 2, 465. 475. 476. 483. 514. Notario 2, 274. Nourissart 2. 52. Nüscheler i, 166. Nufifz 2, .^37. Xurrit 2, 491. OberthUr i, 56. Ocainpo 2, 201. Ochs I, 409. (J'Crouley 2, 255. «:)clsncr I, 224. 395. 420. 449. 401. 462. 4S7. Oemlcr l, 245. Österreich, Maximilian von 2, 511. Oheim, Kräulein l, 25. Oibenart 2, 368. 371. 444. Ojea 2, 133. Olaldc 2, 421. • )lavidcs 2, 221. 23.4. Oldenburg, Pclcr Friedrich Wilhelm von</p>
+            </div>
+
+            <div type="section" n="6">
+               <head>
+                  <title type="main">I. 324-</title>
+               </head>
+               <p>— , I'aul Friedrich August von l, 324. Olivarcz 2, 205. Olivct 2, 19.S.</p>
+
+               <p>I O'Naylhon 2, 490. 1 Ord, Mrs. 2, 479.</p>
+
+               <p>O'Reilly, Alexander 2, 263. — , Andreas 2, 185. — , Frau 2, 185. 351. — (Tochter) 2, 185.</p>
+
+               <p>Orleans, Ludwig Philipp Joseph (Egalite) von I, 115. 131. 404 428. 454. 469.</p>
+
+               <p>473- 544- ÖI9- 02S. — , Herzog von i, 455. 591. 592. d'Orville i, 28.</p>
+
+               <p>Osann 2, 501.</p>
+
+               <p>Osmond, Marquis 2, 4Ö4 — 468. 472. 473.</p>
+
+               <p>479— 4S1. 485- 489- 497- 499. 502. 504 —506. 511. 512. 514.</p>
+
+               <p>— , Marquise 2, 473. 481. 491. 500. 504. 505. — (Kinder) 2, 464.</p>
+
+               <p>Ossian l, 207. 364. 420. 538. 2, 444.</p>
+
+               <p>Ossuna, Herzog von 3, 165. 202. 203. 351. Osterloh, Frau i, 76.</p>
+
+               <p>Otfried i, 208.</p>
+
+               <p>Otto 2, 496. 498. 500. 515.</p>
+
+               <p>Ouseley 2, 475. 478. 482. 497. 513. 515. — , Lady 2, 485. 497.</p>
+
+               <p>Overbeck l, 309.</p>
+
+               <p>Ovid I, 52. 643.</p>
+
+               <p>Ozarowski 2, 468.</p>
+
+               <p>Fache 1, 604.</p>
+
+               <p>I Pachcco 2, 247. i Padilla 2, 194.</p>
+
+               <p>Pagancl I, 419.</p>
+
+               <p>Pagazauatundua 2, 13S. Paine l, 615.</p>
+
+               <p>Pajou I, 457. 45S. 2, 214. ' Palcl 2, t)7.</p>
+
+               <p>i Palissot I, 410. 624. 634. I Pallas 2, 325.</p>
+
+               <p>' Palmella, Gral" 2, 4Ö5. 470 — 475. 490. 491.</p>
+
+               <p>493 504- 5M- i — , Gräfin 2, 4O5. 468. 495. 502. 505. 509. I Palmcrslon a, 468. 474. 476. 484. 505.</p>
+
+               <p>513. 51t). l'aloiiiarcs 2, 183. 193, 200. Pttlos 2, 277 — 279.</p>
+
+               <p>Pai'on 2, 14.<pb n="15.573" xml:id="pbXV573"/> l'araval 1, 399. — , Frau I, 399. Parma, Gabriel von 2, 157. 211. 324. 336, Parny i, 416. Pascal I, 514. I^askewitscli 2, 496. 510. 516. l'astoret i, 405. 406. Pauli, Magdalena l, 343. 2, 125. de Paulo, Jules 2, iii. 112. — (Mutter) 2, III. Paulus I, 241. 245. 253. 333. Pausanias l, 368. Pavie X, 410. Pavor de Sala 2, 338. Pechler, Frau i, 244, 250. 252. Pedrajes 2, 12. Pedroso 2, 244. Pclham 2, 472. 475. 490. — , Lady 2, 472. 490. 498. Pelletier i, 215. Pcllicer 2, 174. 351. PcSaflorida, Graf von 2, 375. 370. 387. 389. — , Gräfin von 2, 387. — (Söhne) 2, 375, 387, Penalvcr 3, 191. 193. 351. Pensei 2, 421. 423 — 425. Pepe 2, 2S6 — 290. Pepliers i, 420. Percy 2, 481. Peres l, 405. Peres-Lagesse l, 408. Perigord 2, 347, Perregaux 2, 502. — (Sohn) 2, 502. Perret l, 483. 485. 486. Perrin l, 371. Perthes I, 351. 2, 366. Perugino l, 585. Pery 2, 70. Petersen l, 36. 37. Pelion I, 436. Peliscus 2, 174. Petrarca 2, 182. 204. Pfeffcl 2, 467. 480. 482. 483. 4S9. 496.</p>
+
+               <p>SOI- 515. Pfürdt, Frau von.i, 241. 242.</p>
+
+               <p>Phipps 2, 470. — (Bruder) 2, 470.</p>
+
+               <p>Picard 2, 125. 126.</p>
+
+               <p>Pichegru l, 407. 431. 628.</p>
+
+               <p>Pictct i, 567. 590. 641. 2, 331. 332. 494</p>
+
+               <p>Pierre i, 112. Pigalle I, 109. 458. Pigcon I, 395.</p>
+
+               <p>Pilatus 2, 284.</p>
+
+               <p>Pindar i, 164. 239. 243. 313. 316. 390.</p>
+
+               <p>2, 36. 182. 190. 196. 351. 519. 525. Pinet 2, 385. 386.</p>
+
+               <p>Pipelet, Frau 2, 25.</p>
+
+               <p>I Piper I, 296. E'ipin 2, 64.</p>
+
+               <p>Piquer 2, 157. 193.</p>
+
+               <p>j— (Sohn) 2, 157. i Piron I, 136. 420. 512 — 514. 518. 522.</p>
+
+               <p>569, 633. 634. Pisistratideu I, 336.</p>
+
+               <p>! Pistorius I, 294.</p>
+
+               <p>jPi" I. 555- ! Pius VI. 2, 216.</p>
+
+               <p>I Planck I, 56.</p>
+
+               <p>Planta 2, 466—469. 471. 477. 478. 482.</p>
+
+               <p>483. 485. 488—490. 492. 494. 496—498. 500—502. 504—507. 514. Platen l, 296. 300. Platner l, 294.</p>
+
+               <p>Plato, von I, 229 — 231. Piaton I, 158. 213. 341. 596.</p>
+
+               <p>Plautus I, 519. 520. Plauzole 2, 34.</p>
+
+               <p>Pleraor 2, 4S4.</p>
+
+               <p>Plinius I, 368. 559. 2, 423. 424.</p>
+
+               <p>Plüer 2, 135. 146. 149. 151. 152.</p>
+
+               <p>Plutarch l, 601. 621. Pobecheim i, 471.</p>
+
+               <p>Poi'kels I, 145.</p>
+
+               <p>Poel, Piter l, i6o. 335. 342. 353. — , Friederike l, 336. P..evie I, 405.</p>
+
+               <p>Poinsinet I, 416.</p>
+
+               <p>Politica 2, 468. 504. 510. 516. Pomfret 2, 489.</p>
+
+               <pb n="15.576" xml:id="pbXV576"/>
+               <p>2, 66. 120. Pommcr-Esche, Johann Christian von l, 273.</p>
+
+               <p>285. 292. 299, 300. — , Johann Arnold Joachim von i, 300. Pommern, Barnim III. von l, 263. — , Barnim IX. von l, 263. Pompadour, Marquisc von l, 112. Pompejus 2, 17. Pompignan 1, 634. Poncc 2, 51. Pens 2, 272. Pont, Frau 2, 262. Ponz 2, 142 — 149. 151 — 154. 212. 230. 232.</p>
+
+               <p>237. 240. 246. 265. 267. 271. 325. I'ope I, 7. 568. 576. Poppenpohl 2, 503. 513. 516. Portalis i, 374. 406. de la Porte i, 405. Porlillo 2, 320. Poten 2, 492. 513. 515. Polier 2, 115. 116. Pougens I, 389. Poullin-Grandprey i, 411. Pound 2, 508. 516. Poussardine, Fräulein i, 240. l'oussin I, 441. 4S7. 617. Power 2, 251. Pozzo di Borgo 2, 503. !;i6. Prasca 2, 2^5. Prcedhoe 2, 485. Prchn, Frau von l, 12. Prrstamero 2, 134 — 137. 141. 371. Prcussen, Friedrich II. voa i, 9. 22. 34.</p>
+
+               <p>84. 89. 113, 122. 129. 200. 258. 262.</p>
+
+               <p>367- 633- 634. 2, 6. 518. — , Heinrich von i, 122. 222. — , Friedrich Wilhelm II. von i, 12. 19,</p>
+
+               <p>29. 153. 200. 2, 520. - , Friedrich Wilh.lm !!!. von 2, 522. 520,</p>
+
+               <p>527. 529. — , Friedrich Williclm I\'. von 2, 528 — 530 — , Khiabcih von 2, 52S. 529. — , Albreclit von 2, 529. ^30. — , Karl von 2, 528—530. — , Marie von 2, 529. — , VV'iliiclni von 2, 529. 530.</p>
+
+               <p>Prcvost d'Exiles l, 624. Pricc, Miss 2, 500. 501.</p>
+
+               <p>Prigueros 2, 242.</p>
+
+               <p>Prony I, 377. 423.</p>
+
+               <p>Protogcnes 1, 427.</p>
+
+               <p>Proust 2, 131. 152. 158. 165. 191, &lt;;o. Ptolemacus 2, 149. Pütter I, 19.</p>
+
+               <p>Pulger 2, 127. 368.</p>
+
+               <p>Purgold I, 24.</p>
+
+               <p>Putbus, Sophie Charlotte Wilhclmine von</p>
+            </div>
+
+            <div type="section" n="7">
+               <head>
+                  <title type="main">I, 278. 294. 296.</title>
+               </head>
+               <p>— , Wilhelm Malte von 2, 4 85. 480. 4S9.</p>
+
+               <p>490. 492. 495- 497. 513- ?&gt;?•</p>
+
+               <p>Querfurt I, 10. Qucrol 2, 166. 187. Quevcdo 2, 146. 189.</p>
+
+               <p>Quinault l, 448. 481. 490. 508. 514. ^20.</p>
+
+               <p>Quintana 2, 188 — 190. 194 — 197. 203. 232.</p>
+
+               <p>237- 351- Quintilian l, 165. 2, 340.</p>
+
+               <p>Rabelais 2, 105. 429.</p>
+
+               <p>Rachel 2, 116.</p>
+
+               <p>Racine l, 121. 123. 3S6. 3S7. 395. 433.</p>
+
+               <p>500. ^02. 620. 2, 6. II. 21. 31. 32. 45. Radet 2, i6. Radstock 2, 499.</p>
+
+               <p>Radziwill 2, 529.</p>
+
+               <p>Rafacl Sanzio l, 140. 383. 5S4. 2, 67. I43.</p>
+
+               <p>146. 147. 154. 205. 237. 323.338.343- Ramadani 2, 466. 482. 51;. Rauibach l, 351.</p>
+
+               <p>Kanibaud i, 405. 410.</p>
+
+               <p>[ Ramdohr 1, 75.</p>
+
+               <p>I Kamcau l, 624.</p>
+
+               <p>Ramel de N'ogarct i, 431. Rainers l, 383.</p>
+
+               <p>Ramire/ 2, 132. 133.</p>
+
+               <p>I — (Bruder) 2, 133. Kamlcr l, 12. 38.</p>
+
+               <p>Ramend de Carbounicres 2, 84. ^0. 92.</p>
+
+               <p>95 — 102. 104. 112. 113. 116. 119. Rampillon i, 405.</p>
+
+               <p>Ramsay. Mrs. 2, 491.<pb n="15.577" xml:id="pbXV577"/> Kantzau, Christian Detlef von i, 2()0. 325. 1</p>
+
+               <p>326. — , Charlotte Henriette Susanne von i, 325 Rauch 2, 52S. Raucourt, Frau i, 121. 393. 432.462.477.</p>
+
+               <p>489. 2, 18. 21. Raynal i, 624. 2, 141. 146. 149. 150. P^al 1, 372. 373. 439. Rebeur 2, 288. 1 Reck, von der i, 19. j Recke, Georg Peter Magnus von der i, 34. 1 — , Charlotte Elisabeth Konstantia von der</p>
+
+               <p>I. 34- ! Regato 2, 308. Regnard i, 501. 502. 525. 592. 597. Regnault l, 601. 617. , Rchberg i, 149. 251. Keichard, Heinrich August Ottokar i, 42. — -, Amalie l, 42. 73. Reichardt i, 335. 353. Reid i, 58. 2, 192. Reimarus, Hermann Samuel i, 331. — , Johann Albert Heinrich i, 260. 331.</p>
+
+               <p>334- 350- 351- — , Sophie I, 323. 332. — , Christine l, 332—334- — , Elise I, 332. Reinesius i, 356. Reinhard I, 333. 438. 486. 528. Reinhoid I, 148. 327. 329. 450 — 453. Reiteineier i, 20. 2, 524. Rembrandt l, 140. Remilly 2, 465. 513. Kenaud i, 443. £27. — , Frau I, 527. 543. 546. 579. 586. Rengger I, i8i. Rengifo 2, 197. Rani i, 584. Rennschüb I, 143. — , Frau I, 143. Rentzsch 2, 473. 475. 478—480. 483. 485.</p>
+
+               <p>486. 488. 489. 491. 492. 494—496. 499.</p>
+
+               <p>500. 502—504. 506. 508. 510-512. Resnier i, 395- 47°. 539- 579—582. Ketif de la Bretonne i, 443. 2, 54. Ketz I, 424. 453— 457- 459- 5^8. 590—592.</p>
+
+               <p>W. V. Humboldt, Werke. XV.</p>
+
+               <p>— , Johann August l, 148. Rcventlow l, 326. de los Reyes 2, 367. Ribalta 2, 335.</p>
+
+               <p>Richardson 2, 6.</p>
+
+               <p>Richelieu, Armand Jean Duplessis Herzog von I, 104. 134.</p>
+
+               <p>— , Louis Frangois Armand Duplessis Herzog von I, 592. 593. 633. 634. 2, 59 Richmond, Herzogin von 2, 490.</p>
+
+               <p>Richter (Jean Paul) l, 291, Rieke l, 253. 256. Rigal 2, 285.</p>
+
+               <p>Rigaud I, 232. Right, Mrs. 2, 504. del Rio 2, 214.</p>
+
+               <p>Rioja 2, 189. 204. Riou-Kersalaun i, 403.</p>
+
+               <p>Riouffe 2, 11.</p>
+
+               <p>Risco 2, 169. 351. Rittmann I, 30. Rivarol 2, 45.</p>
+
+               <p>Rivers l, 347. 2, 492. Robert, Hubert l, 139.</p>
+
+               <p>— (Marburg) i, 22. — (Brüder) i, 473.</p>
+
+               <p>Robertson 2, 303. 383.</p>
+
+               <p>Robfespierre i, 333. 392. 409. 414. 431.</p>
+
+               <p>440. 472, 493. 537- 5S2. 604. 2, iS. Robinson 2, 476. 479. 496. 505. 514. 516. Rochecote l, 570.</p>
+
+               <p>Rochegude 2, 13. 36.</p>
+
+               <p>Roda 2, 178. 206. Rodde, Dorothea von i, 310. Rode 1, 357.</p>
+
+               <p>Rodenas 2, .170. 351. Rodrigo 2, 174.</p>
+
+               <p>Rodriguez 2, 246.</p>
+
+               <p>Röderer l, 424. 426. 427. 507. 517. 526.</p>
+
+               <p>527- 552- 556—561. 563. 585- 631.</p>
+
+               <p>2, 35- 40. 43- Roel I, 300, de las Roelas 2, 238.</p>
+
+               <p>Rohan l, 618. Roland, Philipp Laurent i, 457. — ^Malaga) 2, 292.</p>
+
+               <p>37<pb n="15.578" xml:id="pbXV578"/> Roneali 2, 231. 232. Ronda 2, 193. Ronsard l, 4S1. Roose 2, 285. — (Neffe) 2, 285. — , Frau 2, 285. Ros 2, 276. Rose 2, 464. — 2, 473. 475- 482. 483- 5 '5- — (Sohn) 2, 482. 515. Roseley 2, 474. Ross 2, 500. — , Mrs. 2, 488. 491. Rossec I, 373. Rossillac I, 456.</p>
+
+               <p>— , Ludwig Eberhard Gotllob l, 327. de Rueda 2, 202. Ruhüken 2, 209.</p>
+
+               <p>Rulhiere i, 520. 2, 7. 8. Ruraford 2, 211. 416.</p>
+
+               <p>Ruppel 2, 469. 472. 476. 489. 514. — (Sohn) 2, 489.</p>
+
+               <p>Rusb 2, 474 — 476. 505. 507. 509.</p>
+
+               <p>—514. 516. — , Mrs. 2, 476.</p>
+
+               <p>Russland, Alexander I. von 2, 528.</p>
+
+               <p>— , Katharina 11. von i, 4. 50. 267. 324.</p>
+
+               <p>2, 167.</p>
+
+               <p>— , Miciiael von 2, 495. 490. 500. 50S</p>
+
+               <p>—510. 516. — , Peter I. von l, 9.</p>
+
+               <p>51^ Rother 3, 481—483. 515. Rothschild, Nathan 2, 463. 466. 469. 470. Saavedra 2, 169. 2</p>
+
+               <p>473—475- 479- 482. 483- 485- 489- 493- Sachs 2, 338.</p>
+
+               <p>500. 502. 503. 505. 506. 508. 509. 511.</p>
+
+               <p>512. 515. — , Frau 2, 466. — , Samuel 2, 4S2. 515. — (Bruder) 2, 467. 493- Rouchon I, 450. RoucUe I, 623. Rougemont, Georges i, 47. — , Joseph Claude de i, 50. 56. Rousseau, Jean Baplisle l, 634. — , Jean Jacques i, 45. 47. 138. 139- 152.</p>
+
+               <p>225. 365. 3^1- 385- 449- 543- 547- 557559. 560.570-576. 593 — 610. 620—624.</p>
+
+               <p>626. 627. 632. 634. 2, 5. 9. 98. 122.</p>
+
+               <p>138. 182. 208. 320.</p>
+
+               <p>596.</p>
+
+               <p>255. 310. 320. — , Theresc l, 622. 2, 12. Rovira 2, 255. 259. Rowe 1, 567. 568. Roxas 2, 183. 195. Royer 2, 112. Royi-r-Collard i, 405. Roycr-Marlin I, 537. 2, 38. Rozc J, 410. Ruhens I, 98. 102. I40. 2, 21;</p>
+
+               <p>301. Rudolph I, 251. — Krau I, 249. 250.</p>
+
+               <p>233- 247.</p>
+
+               <p>Sachsen-Gotha, August von 1, 229. 230.</p>
+
+               <p>— , Ernst II. von i, 44.</p>
+
+               <p>— , Friedrich IV. von 1, 229. 230. Sachsen-Koburg, Leopold von 2, 491.</p>
+
+               <p>Sachsen-Weimar, Krnst August Konstantin von I, 224.</p>
+
+               <p>— , Karl August von I, 224. 247. 254. de Sacy 2, 4.</p>
+
+               <p>Sagan, Wilhelminc von 2, 522.</p>
+
+               <p>Saint-Amand 2, 83, 84. 94. 95. ICO. loi. II 3. Saint- Auge 1, 416.</p>
+
+               <p>.Saint-Aubin 2, 2.</p>
+
+               <p>Sainte-Croix 2, 14. 17. 25.</p>
+
+               <p>S.iint Helens 2, 471. 472.</p>
+
+               <p>Siint-Just I, 493.</p>
+
+               <p>Saint-Lambert 2, 14.</p>
+
+               <p>1 Sainl-Marliu I, 342. I Saint- Fhal I, 432. 437. 477. 2, 31.</p>
+
+               <p>j Saint-Pierrc, Hernardin de l, 367. 3S4. 385.</p>
+
+               <p>j — , Charles Iren6e Casicl de l, 623. 624.</p>
+
+               <p>j Saint-Prix l, 432. 436. 477.</p>
+
+               <p>I Sahngnac 2, III. I Salazar, Lopc Ciarcia de 2, 420.</p>
+
+               <p>— (Sohn) 2, 426.</p>
+
+               <p>Salrnavc I, 544. 540. 549. 2, izo — , l'rau 2, 120.</p>
+
+               <p>Saiitigcr j, 263.<pb n="15.579" xml:id="pbXV579"/> — , Lady 2, 474. 476. 486—488. 491 . 492. 498. Sallust 2, 336. Salomon 2, 242. Salverte 2, 37. Sambat i, 392. San Carlos, Herzog von 2, 467. 46^. 471.</p>
+
+               <p>475. 480. 481. 493. 494. 496. 499- 503506. 509—512. 514. — , Herzogin von 2, 503. 51b. Sancha 2, 126. 207. 351. Sanchez 2, 201. de Sanctis 2, 462. 465. 469. 471. 483. 487.</p>
+
+               <p>495- 505- 510- 511- 514- Sandoz i, 378. 481. 640. Sangros, Prinzessin 2, 171. 351. Sänne i, 259. 265. Santa Cruz, Marquis von 2, 165. 323. — , Marquisin von 2, 211. 352. Santiago, Marquisin von 2, 212. Santillana 2, 202. Santo Domingo 2, 386. Santos 2, 323. Santo Teodoro, Herzog 2, 209. 352. — , Herzogin 2, 210. Sapte 2, 475. 481. 513. Sara, Fräulein 2, 16. Saul 2, 505. Saurin I, 121. de Saussurc i, 176. Sautereau i, 371. Sauvage l, 375. 384, 395. Savary l, 374. Saxo Grammaticus l, 295. Say and Seal 2, 480. — , Lady 2, 472. 480. Scarron 2, 16. Schauber 2, 493. 515. Schede i, 252. Scheel l, 85. Scheibe, Frau i, 250. Schenk i, 57. Schenkendorf 2, 468. Schcuchzer 1, 165. Schiller, Friedrich l, 244 — 253. 255. 291.</p>
+
+               <p>312—315. 333. 337. 391. 491. 512.</p>
+
+               <p>514. 626. -640. 2, 45. 279. 518. 525.</p>
+
+               <p>Schiramclmann, Christian Karl i, 260. 327.</p>
+
+               <p>349— , Frangoise Marguerile Adelaide i, 327, Schinas 2, 469. 482. 503. 514. Schinkel 2, 528.</p>
+
+               <p>Sciiinz, Anna I, 166.</p>
+
+               <p>— , Christoph Salomon i, 166. 167. 180. Schlabrendorf, Gustaf von i, 369. 395. 449.</p>
+
+               <p>475—477- 511- 529. 535- ÖS2. 640—642. 2, 15— , Karoline von 2, 504 — 508. 5x6. — , Virginia von 2, 505. 506. 516.</p>
+
+               <p>Schlegel, August Wilhelm l, 49. 66. 67.</p>
+
+               <p>70. 72. — , Friedrich i, 249. 253 — 25b. Schleusner l, 253.</p>
+
+               <p>Schlichtegroll, Adolf Heinrich Friedrich</p>
+
+               <p>1, 246. — (London) 2, 465 — 467. 490. 495. 50 1.</p>
+
+               <p>507. 508. 511. 514. Schlözer 2, 524.</p>
+
+               <p>Schlosser, Johann Georg i, 311. 320 — 322.</p>
+
+               <p>2, 96. — , Johanna 2, 322. Schmeisser i, 329.</p>
+
+               <p>Schmid, Christian Heinrich i, 25. — , Karl Christian Erhard i, 25. Schmidlin i, 33.</p>
+
+               <p>Schmidt l, 224.</p>
+
+               <p>Schmitt 2, 224. 225.</p>
+
+               <p>Schneider, Auguste l, 44. — , Eulogius I, 379.</p>
+
+               <p>— , Johann Gottlob l, 238. 242. 243. 345.</p>
+
+               <p>249. 252. Schönborn 2, 489. 515. Schönfeld 2, 475.</p>
+
+               <p>Schöning l, 269. Schott I, 148.</p>
+
+               <p>Schröder 2, 286. 290. 310. 311.^ Schuback i, 260. 330. 340.</p>
+
+               <p>Schubart, Christian Friedrich Daniel l, 150.</p>
+
+               <p>151. 153- — , Helene l, 153.</p>
+
+               <p>— , Hermann 2, 155. igi- Schücking i, 56.<pb n="15.580" xml:id="pbXV580"/> — (Mutter) I, 37. — (Bruder) i, 37. Schüren, vaa der i, 56. Schütz 1, 241. 245. 253. Scbulenburg-Burgscheidungcn, Gräfin 2, 501.</p>
+
+               <p>515- Schulthess, Johann Georg i, 168. — , Johann Georg 1, 163. 164. 169. — , Frau I, 164. Schulze I. 29;. Schumacher i, 237 — 239. 255. Schwab 1, 152. Schwarz I, 29 1. Schwarzburg-Rudolstadt, Friedrich Karl von</p>
+            </div>
+
+            <div type="section" n="8">
+               <head>
+                  <title type="main">I, 228. 229.</title>
+               </head>
+               <p>— , Karl Günther von i, 228. 229. — , Ludwig Friedrich von i, 228. 229. Schweden, Christine von 1, i6i. Schweighäuser i, 427. 2, 37. Schweizer, Johann Konrad i, 163. 164. — , Magdalene i, 463. 474. 494. 490. öl 9. — I, 172. Schwetschke i, 250. Scio 2, 174. Scott 2, 4S4. Scotus 2, IUI. Sfgalas 2, 255. 2S5. 310. 337. S(;gner, Fräulein i, 237. 241 — 245. 249. Seignitte 2, 182. Selchow 1, 18 — 20. 25. Seil I, 269. Solle I, 127. 493. 2, 59. Senebicr i, 226. Sencca i, 547. 2, 3. 4. Sennt 2, 121. Serangcli i, 6i'i Scrassi i, 436. Servet i , 22O. Seyfter i, 37. 09. 333. Seyniour, Miss 2, 485. Shalicshury l, 7. 2, 192. Shakespeare l, 507. 626. 632. 2, 31. 50.</p>
+
+               <p>172. J84. 188. 1X9. 225. Shawe 2, 482. Shelley, Lady 2, 484. 480. 4^0 — 41(2. Sheridan i, 519.</p>
+
+               <p>Siddons, Mrs. 2, 478. 480 Sidmouth 2, 474. 513.</p>
+
+               <p>Siegling 2, 507. 516. Sierra, Frau 2, 159. SicrstorlT l, 77.</p>
+
+               <p>Sit^cking, Georg Heinrich l, 200. 329. 334.</p>
+            </div>
+
+            <div type="section" n="9">
+               <head>
+                  <title type="main">340. 350. 352. 429. 5S3.</title>
+               </head>
+               <p>— , Johanna Margarete l, 334. 335.</p>
+
+               <p>Sicyes 1, 403. 404. 408. 411. 421. 422.</p>
+
+               <p>435. 438. 449. 401. 462. 465. 468—472.</p>
+            </div>
+
+            <div type="section" n="10">
+               <head>
+                  <title type="main">475. 4S2— 486. 488. 491—493- 5"- 524-</title>
+               </head>
+               <p>52t). 530. 540. 360. 613. 620. 62S. 2, I. 10. 331Sigueul 2, 2. 3. Silius 2, 217.</p>
+
+               <p>Siloe 2, 271.</p>
+
+               <p>Silva 2, 202.</p>
+
+               <p>Silvestre i, 600,</p>
+
+               <p>— , Frau I, 600.</p>
+
+               <p>Simcon i, 405. 4II. 627. Simon 2, 254.</p>
+
+               <p>— , Frau 2, 254.</p>
+
+               <p>— , Frau (^Paris) l, 394. 509. Simplicius i, 427. Siaglcton 2, 476.</p>
+
+               <p>, Sinner, Frau l, 216.</p>
+
+               <p>Sligo 2, 482. — , Frau 2, 482.</p>
+
+               <p>Smith, Adam i, 541.</p>
+
+               <p>] — , Lady 2, 480. '— I, 88.</p>
+
+               <p>Smith und Taylor 2, 475.</p>
+
+               <p>Snyders l, 383.</p>
+
+               <p>Sömmerring l, 36. 39. 177. 343.</p>
+
+               <p>[ Sokraics l, 9.</p>
+
+               <p>' Solani 2, 466. 482. 514.</p>
+
+               <p>Solcr, Antonio 2, 231.</p>
+
+               <p>— 2, 177. 212. 352.</p>
+
+               <p>de Solis y Kibadcneira 2, 1S3. 253.</p>
+
+               <p>|Solly 2, 472. 514. Somerset 2, 500.</p>
+
+               <p>Sophokles 1, 164. 165. 2, 3. Sothcby 2, 4O9. 4SO. 491. 514.</p>
+
+               <p>— , Mrs. 2, 486.</p>
+
+               <p>Sotin ilc la (i^oindiere i, 6J7. Souza I, 346.</p>
+
+               <pb n="15.581" xml:id="pbXV581"/>
+               <p>sS. — , Georg Ludwig i, 239. 244. 414. Spanien, Carlos von 2, 322. — , Ferdinand der Katholische von 2, 271.</p>
+
+               <p>272. 431. — , Isabella von 2, 271. 272. 429. 431. — , Ferdinand VII. von 2, 133. 322. — , Karl III. von 2, 144. 193. 419. — . Karl iV. von 2, 154. 155. 158. 160.</p>
+
+               <p>161. 164. 165. 167. 172. 173. 175. 191.</p>
+
+               <p>200. 204. 206. 213—215. 227. 233. 240.</p>
+
+               <p>314. 323. 324. 375. 397. 419. 423. 425.</p>
+
+               <p>429. 432. — , Maria Luise von 2, 170. 323. 324. — , Luis von 2, 313. — , Philipp I. von 2, 271. 272. — , Johanna von 2, 271. 272. 316. — , Philipp II. von 2, 148. 271. 322. — , Philipp III. von 2, 146. 148. 193. — , Philipp V. von i, 512. 2, 154. Spazier i, 204. Specht I, 30. Spencer 2, 462. 486. 514. Spiegel zum Desenberg i, ^4. Spinola l, 58S. Spinoza l, 214. 479. 480. 492. Spitz 2, 308. Splittgerber 2. 405. 469. 475. 479. 483.</p>
+
+               <p>510. 514. Sprüngli i, 215. Stael-Holstein, Erik Magnus von i, 413. 616. — Anne Germaine von l, 413. 526. 530</p>
+
+               <p>—535- 537. 552- 553- 555- S^i. 57o — 577. 625 — 628. 631. 640. 641. 2, I.</p>
+
+               <p>2. 44. 45. 520. Stafford 2, 467. 468. 471. 479. 492. 494.</p>
+
+               <p>497- 5«3- 515— , Lady 2, 46?. 46S. 469. 471. 475. 477.</p>
+
+               <p>485. 491. 492. 497. 499- 513- 515Stair 2, 484. 485. Stanhope 2, 480. — -, Miss 2, 484. Stanyan i, 219. Stapfer l, 440. 4S3. 480. Stark, Johann August i, 11.31 — 37. 142. 146. — , Johann Christian l, 240. 241. 243 — 245.</p>
+
+               <p>253Stegemann i, 255. 256.</p>
+
+               <p>Stein, Charlotte von i. 246. 2:^4. Steinbrüchel i, 164. Steinmetz l, 9.</p>
+
+               <p>Stephanie i, 150. Stepney 2, 469. — , Lady 2, 469. 487.</p>
+
+               <p>Stewart, Dugald 1, 328.</p>
+
+               <p>— 2, 469. 474. 477. 480. 481. 487. 500. 514. Stieglitz, Israel (Johann) i, 8. 18. 70. So.</p>
+
+               <p>91. 94.</p>
+
+               <p>— (Vater) 1,6. 7. 11. — (Mutter) I, 8.</p>
+
+               <p>Stjernild 2, 464. 467. 468. 475. 489. 503.</p>
+
+               <p>505- 509. 512. 515. Stolberg, Christian i, 260. 322. 326. — , Friederike Luise i, 326. — , Friedrich Leopold i, 310. 322. 348. — , Katharina l, 322. Strachan, Lady 2, 487.</p>
+
+               <p>Stürmer, Frau von 2, i;o6. Stuart 2, 32.</p>
+
+               <p>— , Lady 2, 488. Stuck 2, 162. Stuve I, 88. 90. 91. Suard 2, 14.</p>
+
+               <p>Suckow I, 144.</p>
+
+               <p>Suin, Fräulein l, 592.</p>
+
+               <p>Surrey, Lady 2, 468. 471.</p>
+
+               <p>Süsses, August Friedrich Herzog von i, 67.</p>
+
+               <p>230. 2, 473.</p>
+
+               <p>Svarez i, 87.</p>
+
+               <p>Swift I, 521. Swinburne 2, 333.</p>
+
+               <p>Sylingk 2, 252.</p>
+
+               <p>Tabor I, 30.</p>
+
+               <p>Tacitus I, 285. 388. 558. 578.</p>
+
+               <p>Talleyrand i, 426. 435. 439. 4Ö2. 473. 2, i.</p>
+
+               <p>Tallien, Jean Lambert i, 369. 403. 406.</p>
+
+               <p>407. 409. 411. 422. — , Therese i, 396. 2, 2. Talma l, 490. 516. 592. 593. 613. 2. 11.</p>
+
+               <p>25. 27. 29—31. — , Frau I, 616. 2, 10. II. 31. Talot 1, 407.<pb n="15.582" xml:id="pbXV582"/> Tr.ssin 2, 506. 'l'asso I, 363. 436. 2, 204. M'uuchgut I, 491. 'l'uvari 2, 13. Tiivira 2, 170. 195. Teller i, 92. lenoii I, 423. 427. Tcrenr 2, 6, 8. 164. Tcrray l, 523. 625. 627. Terroba 2, 274. 337, Terry 2, 265. Tcstaferrata 2, 500. Tetens i, 54. TetzlafT i, 300. Theis 2, 25. Theokrit l, 317. 2, 196. 363. I'heotokopuli {El Greco) 2, 301. J'hibaudeau i, 406. 408. 411. Thibault i, 371. 372. Thiebault 1, 367. 416. Thiemet l, 394. Thomas 2, 6. 9. Thomas von Aquino 2, iSi. Thourel i, 469. Thun, Nikolaus Philipp von 1, 300. — (London) 2, 501. Tirri y Lasi 2, 168. 218. 232. 239.</p>
+
+               <p>264. Tischbein i, 3. 9. 15. 274. 2. 532. Tisdale, Miss 2, 468. 'Tissot I, 224. 2, 197. I izian 2, 137. 164. Tobler l, 166. Todi, Lui.sa Rosa 2, 190. Töpcl I, 247. Törring l, 625. Toledo 2, 202. Tome 2, 144. Tonne, Fräulein 1, 11. 'I'organis i, 2(1 1. Torn 2, 482. 515. Toro 2, 200. lorrcns 2, 481. Torres 2, 310. Torrescabrera 2, J30. 231. 1 orrißiani 2, 271.</p>
+
+               <p>2«;:</p>
+
+               <p>Tracy l, 424. 426, 462. 464 — 4fiS. 47:'</p>
+
+               <p>483. 486. 535. 541. 61S. 63?. — , Krau I, 536. — (Mutter) I, 536.</p>
+
+               <p>Iralles l, 181. Trapp I, 93.</p>
+
+               <p>Trede i, 322.</p>
+
+               <p>Treilhard I, 488.</p>
+
+               <p>I'renck, Franz von der i, 10. — , Friedricli von der i, 202.</p>
+
+               <p>Trendclcnburg, Johann Georg l, 310. — , Theodor Friedrich 1, 310. Trengrousc 2, 506.</p>
+
+               <p>Treuttel und Wtirtz 2, 469. Trcvour 2, 4S7.</p>
+
+               <p>Tribolet-Hardy 2, 350.</p>
+
+               <p>— , Frau 2, 159. I05. Troost I, 140.</p>
+
+               <p>Tnichsess, Gräfin 2, 529. Trudaine i, 529.</p>
+
+               <p>Tscharner i, 215. 225. Tumbor 2, 131. Turbot, Frau i, 597.</p>
+
+               <p>Turenne I, 135. 456.</p>
+
+               <p>Turgol 1, 425. 034. 2, 13. 14. 35. 50-52.. 55.</p>
+
+               <p>Turpin 2, U2. Twisleton, Miss 2, 472. 4S0.</p>
+
+               <p>Twiss 2. 148. 149. 151 — 154. Tychsen I, 304.</p>
+
+               <p>Tzschoppe 2, 482. 483. 491. 403. 515.</p>
+
+               <p>Uhdcn 1, 242. 247.</p>
+
+               <p>UUoa 2, 177. 178. 1S7.</p>
+
+               <p>Unger i, 411. Unzer, Johann August i, 341.</p>
+
+               <p>— , Johann Christoph i, 341. 0-5. Urbina 2, 138.</p>
+
+               <p>I Urena 2, 264. j Urquijo 2, 161. 162. 164. 170. 184. U&gt;5.</p>
+
+               <p>' 198. 210. 212. 255. iy2. 397 — 300,</p>
+
+               <p>421 ?</p>
+
+               <p>Uslar I, 329.</p>
+
+               <p>Ustrri l, 166.</p>
+
+               <p>VtAc, Frau 2, i lo.<pb n="15.583" xml:id="pbXV583"/> Valcarzona 2, 421. Valcazar, Marquis 2, 233. — , Marquisin 2, 233. Valckenaer, Louis Kaspar 2, ?. — , Jan 2, 3. 209. 320. 323. 351. Valdes y Vazau, Antonio 2, 239. 259. — , Francisco 2, 238. 255. — , Rafaela 2, 238. 247. Valdez 1, 397. Valdinoti 2, 192. Valencienncs, Achille ;:, 508 — 510. 516. 528. — , Pierre Henri 2, io6. Valentin l, 4. Valerius Flaccus i, ^J^. Vallejo 2, 114. 141. Vallieres, Herzogin von I, II3. Vanderbourg 2, 45. Vaudermonde 1, 581. Vandeul i, 428. 494. — , ÄDgeliquc I, 403. 421. 428. 440. 459.</p>
+
+               <p>493- 550- 553- 565- 619- 2, 9. Vanhove 1, 394. 432. 436. 5 16. 2, 1 1 . 25. 28. 29. — , Fräulein l, 592. 613. Vansittart 2, 474. 499. 513. 514. Vany, Gräfin von i, 222. Vargas 2, 240. Vargas y Ponce 2, 310. Vasse, Frau von i, 502. Vater 2, 527. Vauban 2, 361. Vaublanc l, 373. 400. 408. Vaucanson l, 464. Vauvenargues i, 542. Veit, Brendel I, I. 23. 44. 49. 72. 94. 245.</p>
+
+               <p>250. 255. — , David 1, 243. 244. 247. 252—255. 516. Velasco, Luis de 2, 379. — ■, Pedro Ilcraandez de 2, 143. 144. — , Frau 2, 143. Velazquez 2, 205. 244. 24O. Vclletard 1, 403. Veitheim 2, 500—502. 504. 515. — , Frau 2, 501. 502. 504. 515. — , Fräulein 2, 501. 502. 504. 515. Veitbusen i, 263. Venuti 2, 59. 6.3 — 65.</p>
+
+               <p>Vergil I, 52. 55. 167. 529. 643. 2, [4.</p>
+
+               <p>30. 200. 259. 340. 410. Vergniaud i, 581. 2, 95.</p>
+
+               <p>Vernet, Antoine Charles llorace i, 577.</p>
+
+               <p>619. 2, 7. 66. — , Claude Joseph 1, 140. 617. — , Frau I, 577. 578. Veruon 2, 471. 472.</p>
+
+               <p>— , Lady 2, 471. 491. 494. 495. Vertot I, 403.</p>
+
+               <p>Verulam 2, 492. 493.</p>
+
+               <p>Vestris, Marie Frangoise Rose i, 390. Ol 3.</p>
+
+               <p>6:4. 2, 29. Vicufia 2, 387.</p>
+
+               <p>Vieweg i, 245. 248. 429. 430. Villafranca 2, 205.</p>
+
+               <p>Villanueva, Marquisin 2, 255. Villar I, 427.</p>
+
+               <p>Villars, Herzogin von i, 633.</p>
+
+               <p>Villegas 2, 172. 195.</p>
+
+               <p>Villena 2, 126. 127.</p>
+
+               <p>Villers, Frangois Toussaint i, 405. 411. — (London) 2, 503. — , Mrs. 2, 503.</p>
+
+               <p>Villeterque i, 471.</p>
+
+               <p>Villodres 2, 231.</p>
+
+               <p>Villoison l, 226. 2, 23. 25. Vinnius 2, 338.</p>
+
+               <p>Visconti 2, 5.</p>
+
+               <p>Vitruv I, 357.</p>
+
+               <p>Vives 2, 193.</p>
+
+               <p>Vogel, Samuel Gottlieb von 1, 304 — 30 j. — I, 249.</p>
+
+               <p>Voght I, 260. 327—329. 350. 352. Voigt I, 240 — 243. 245. 253. — I. 244.</p>
+
+               <p>Volney i, 551. 552.</p>
+
+               <p>Voltaire i, 52. 121. 138. 153. 225. 462.</p>
+
+               <p>50S. 533- 540. 543- 560. 581. 609. 624. 631—634. 637. 640. 2, 6—8. n. 14. 30. 45. 164. 182. 189. Vopel I, 243. 246.</p>
+
+               <p>Voss, Johann Heinrich I, 38. 309. 3 II— 320.</p>
+
+               <p>322. 337. 388. 638—640. 2, 44. — , Ernestine i, 320. — (Söhne) i, 320.<pb n="15.584" xml:id="pbXV584"/> Wagner (Bern) i, 214. — (London) 2, 465. 498. 505. 515. I, 247. Waifre von Aquitanien 2, 04. de Wailly I, 366. Waldeck, Karl August von i, 4. 5. — , Christiane von l, 4. 5. 8. 10 — 12. — , Friedrich von i, 2 — 12. 14. — , Christian August von I, 5. Waldcck-Fyrniont-Limpurg, Georg Friedrich</p>
+
+               <p>Ludwig von i, 5. Walpole 2, 474. Waltier 2, 472. Wangenheim l, 229. 230. Warens, Israel i, 475. — , Frau von i, 138. 603. 604. 609. Oio. VVarrender 2, 469. 476. 513. — , Lady 2, 478. Watson 2, 512. VVedell, Fräulein 1, 238. Wedgwood l, 544. Weigel, Bernhard Nikolaus l, 300. - , Christian Ehrenfried von i, 272. Weiss I, 224. Welleslcy 2, 493. ■- (Sohn) 2, 493. VVellesKy-Pole 2, 474. Wellington 2, 471. 4S9. 503. 514. 515. Welther 2, 331. Wenk I, 36. 37. Werff, van der i, 140. Werhahn l. 240. 247. Werner i, 243. West I, y. Weslmacott 2, 466. 499. 512. s'v'cstmoreland 2, 466. 474. 476. 4S4. 497.</p>
+
+               <p>498. 514. Westmouth 2, 486. 487. - , Lady 2, 476. Weyhe i, 240. 241. 243 — 245. 247. White, Mrs. 2, 465. 512. Whilwortli 2, 476. 492. 513. Wielaiid i, 52. 145. 163. 183. 337. 2, 533. Wiesel i, 86. 90 — 93. Wilhelm], S;imuil Anton I, iSl. - (Grcifswald) i, 273.</p>
+
+               <p>1 Williams, Mrs. 2, 507. 512.</p>
+
+               <p>1 Willot I, 406. 407.</p>
+
+               <p>, Winchester 2, 492.</p>
+
+               <p>Winchilsca 2, 475.</p>
+
+               <p>i Winckclmann, Johann Joachim i, 421. 443</p>
+
+               <p>, — (Braunscbweig) 2, 124.</p>
+
+               <p>Windischgriitz l, 160.</p>
+
+               <p>i Winthem, Meta von l, 339.</p>
+
+               <p>Wissmann i, 267. Wittgenstein 2, 529.</p>
+
+               <p>Witthöft, Christiane Henriette i, 143.</p>
+
+               <p>j Wöllner l, 19. 32. 35.</p>
+
+               <p>I Wolf I, 237 — 249. 252. 256. 311. 31b. 330.</p>
+
+               <p>! 2, 524. Wolfe I, 9.</p>
+
+               <p>Wolff I, 150. 179. 211. 2, 275.</p>
+
+               <p>Wollaston 2, 496. 497. 515.</p>
+
+               <p>j Woltmann i, 243. 246. 253. 255. z^h.</p>
+
+               <p>: Wolzogen 1, 24S. 250. 251. 335.</p>
+
+               <p>Worccster 2, 469.</p>
+
+               <p>— , Lady 2, 472. 514. Woronzow 2, 490.</p>
+
+               <p>i Woussen i, 369.</p>
+
+               <p>W'ürtemberg, Eberhard Ludwig von 1, 147. — , Friedrich I. von i, 41g.</p>
+
+               <p>— , Karl Eugen von l, 147. 148. 151. 152. Wunderlich I, 237 — 239.</p>
+
+               <p>Wyllich, Moritz von l, 276.</p>
+
+               <p>I — , von I, 259. 276. 2S1. 284. 283. 2g3. I 298.</p>
+
+               <p>1 Xenophon l, 410. 427. 2, 3.</p>
+
+               <p>I Ximenez 2, 149. ! Xiphilinus 2, 4.</p>
+
+               <p>[ Yarmouth 2, 470. 478.</p>
+
+               <p>1 York, Friedrich August Herzog von l. 19.</p>
+
+               <p>2, 468. 470. 471. 478. 479. 485 — 487." 494. 495. 497. 499- 504. 510. 512. 513.</p>
+
+               <p>5 '5— , Friederike Herzogin von 2, 464. 477.</p>
+
+               <p>4S3. 485. 486. 489. 497. 499. 513. 515. Voung, Edward I, 34. 568. 2, 196. — , Thomas a, 462. 463. 465. 473. 474479. 480. 490. 495. 496. 5«3— 5»5. — , M(s. 2, 496.<pb n="15.585" xml:id="pbXV585"/> Zedlitz I, 32 /eltncr 2, 1;</p>
+            </div>
+
+            <div type="section" n="11">
+               <head>
+                  <title type="main">I, 329-</title>
+               </head>
+               <p>_, Johann (icorp 1, 324. Zöllner i, 273.</p>
+
+               <p>jZoraide 2, 316. 31 7I Zurbaran 2, 247. IZurlauben I, 173jzwingli I, 171-</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

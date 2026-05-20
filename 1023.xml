@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Über die Patronatsrechte</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif10humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1903">1903</date>
+                  </imprint>
+                  <biblScope unit="page" from="176" to="178"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="10.176" xml:id="pbX176"/>
+            <p>sich auszusprechen und zu entwickeln, als in den Gewerbs-Schulen, die eigne Specialschulen sind, und in denen der allgemeine Zeichen- Unterricht durch die künftige Bestimmung des Schülers bedingt, und also auf diese Rücksicht genommen wird, und endlich auf der Akademie, der wahren Schule der Kunst, die ausschliessend für den angehenden Künstler bestimmt ist, mitgetheilt zu erhalten. Da dies indess kein Gegenstand gemeinschaftlicher Berathung seyn kann, so wird es nothwendig se3'n, dass die Akademie diejenigen ihrer Mitglieder, welche hierüber vorzüglich schon jetzt nachgedacht haben möchten, auffordere, ihre Gedanken aufzusetzen, und solche alsdann, wenn auch die ^Meinungen Mehrerer weit auseinandergehen sollten, vollständig, allenfalls von allgemeinen Bemerkungen der Mitglieder begleitet, der Section einsende.</p>
+
+            <p>Königsberg, den ig. October 1809.</p>
+
+            <p>Section etc. f. d. öfif. Unterricht. Humboldt.</p>
+
+            <head>
+               <title type="main">XXXV. über die Patronatsrechte.</title>
+            </head>
+            <p>20. Oktober 1809.</p>
+
+            <p>(Eigenhändiges Konzept in den Akten des Kultusministeriums.)</p>
+
+            <p>Mißliche Vorkommnisse bei höheren Schulen städtischen Patronats in Frankfuit a. O. und Breslau veranlaßien Humboldt an eine Neuordnung dieser Angelegenheit zu gehen. Süvern verfaßte den grundlegenden Gesetzentwurf, und nachdem er den Voten Humboldts, Uhdens und Wolfs gemäß umgearbeitet war, ging er an die Sektion für die allgemeine Gesetzgebung. Das Gutachten dieser Behörde vom 2j. September i8og lautete stark ablehnend, und gegen dieses ist der folgende Aufsatz Humboldts gerichtet.</p>
+
+            <p>Der Entwurf zu einer neuen ^^erordnung über die Patronats- Rechte ändert in der bisherigen Verfassung zweierlei ab, nemüch<note type="footnote" n="2)" resp="gnd-118554727"><hi>dass im Falle alle drei untüchtig befunden würden, die Behörde selbst ernennen kann.</hi></note></p>
+
+            <pb n="10.177" xml:id="pbX177"/>
+            <p>Beide Einrichtungen können auch von einander getrennt werden, und hängen nicht nothwendig miteinander zusammen.</p>
+
+            <p>Es ist auffallend, dass sich die Gesetzgebungs-Section über die ersteren gar nicht erklärt. Es bleibt jetzt zweifelhaft, ob sie den Vorschlag von 3 Subjecten, statt eines Einzigen billigt, oder nicht. Allein die Section muss auf demselben beharren. Sie kann um so weniger eine Aufhebung des Patronats-Rechts genannt werden, als sie seit einer langen Reihe von Jahren bei einigen magistra- tischen Wahlen schon gesetzlich feststeht. Sie ist offener, besser und einem frommen Sinn angemessener, als wenn man, wo nur Einer vorgeschlagen werden darf, den Patron durch Staatsbehörden auf diesen oder jenen Mann zu lenken versucht. Die wichtigste, ja fast einzige Schwierigkeit ist dabei bloss, dass in sehr kleinen Orten und für sehr unbedeutende Stellen es schwer, ja manchmal unmöglich seyn kann, 3 Subjecte ausfindig zu machen, weshalb ich auch anheimstelle, ob nicht der Vorschlag von drei Gandidaten nur bei Stellen, die 300 Thlr. jährlich und darüber tragen, anzuordnen, bei den andern aber es beim Alten zu lassen sey. Ein bedeutender Nutzen der Verpflichtung, drei Subjecte vorzuschlagen, ist es ferner, dass sodann das so schädliche ascendiren nur da statt finden kann, wo es durch die Fähigkeit des Subjects gerechtfertigt wird. Die andere Einrichtung beurtheilt die Gesetzgebungs-Section sehr ungünstig. Wenn die Unterrichts-Section nur von wichtigen Verw^erfungsgründen spricht, wenn sie sich selbst auferlegt diese Gründe den Patronen anzuzeigen, wenn den Regierungen ausdrücklich benommen wird, hierin je für sich, und ohne die Oberbehörde zu entscheiden, wenn endlich die Section sich in ihrer eigenen Verordnung anweisen lässt, immer behutsam und nur aus Rücksichten für das Beste der Sache zu handeln; so konnte sie wohl hoffen vom Vorwurf der Anmassung frei zu bleiben, so durfte sie voraussetzen, dass ein solcher Verwerfungsfall nur äusserst selten eintreten konnte, und so musste sie glauben, dass in dem Ausdruck: das Wahlrecht bleibe den Patronen unbenommen, kein Widerspruch angetroffen werden, und dasselbe nicht der Willkühr durchaus Preis gegeben scheinen würde. Indess<pb n="10.178" xml:id="pbX178"/> Standen, dass, wenn drei Subjecte verworfen sind, nur an wenigen Orten drei andere aufzufinden seyn dürften. Um nun auch dieser Schwierigkeit zu begegnen, könnte jetzt festgesetzt werden: dass, wenn die Oberbehörden keinen der drei Candidaten bestätigen können, es von den Patronen abhänge, entweder drei andere vorzuschlagen, oder die Oberbehörde um die eigene Ernennung zu ersuchen. Dies findet alsdann auch natürlich nur bei denjenigen Stellen statt, wo es drei Subjecte vorzuschlagen, zur Pflicht ge- macht wird.</p>
+
+            <p>Die Behörde verbindlich machen zu wollen, jeden zu bestätigen, der einmal ein günstiges Zeugniss der wissenschaftlichen Deputationen hat, dürfte wohl nicht angehen, und es lässt sich wohl eben so wenig sagen, dass, wenn ein solcher verworfen wird, der Patron die Schuld der Nachlässigkeit dieser trägt. Denn der Candidat kann ja seit seinem Examen an Kenntnissen und Fähig- keiten abgenommen haben, und dann weiss auch jeder, dass selbst das beste Examen immer kein ganz zuverlässiger Massstab der Fähigkeiten ist. Wäre aber endlich auch Schuld der Deputationen dabei, so dürfte es immer besser seyn, diese die Patrone durch Verwerfung, als die Jugend durch Bestätigung der Wahl büssen zu lassen.</p>
+
+            <p>Die Wahl von Personen, die bei den wissenschaftlichen Deputationen examinirt sind, bloss anzurathen, würde die Absicht, diese Prüfungen ganz allgemein zu machen, und zu verhindern, dass sich irgend einer, der sich der Erziehung widmet, davon aus- schliesse, entgegenlaufen. Allein allerdings müsste man solche, die aus dem Auslande her berufen werden oder schon vor dieser Einrichtung ins Schulamt getreten sind, ausnehmen. Doch ist das erst dann nöthig, wenn die Verpflichtung, bloss Geprüfte vorzuschlagen, wirklich eintritt.</p>
+
+            <p>Die Bekanntmachung der Gründe, warum vorgeschlagene Candidaten nicht bestätigt würden, könnte als Regel allerdings unterbleiben. Meistentheils aber liegen dieselben in dem Ausfall der Prüfungen, und dann sind sie von selbst sichtbar. Wo das nicht wäre, müsste doch wohl wenigstens der Patron, die Behörde darum zu befragen, das Recht haben.</p>
+
+            <p>20. October 1809.</p>
+
+            <p>Humboldt.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

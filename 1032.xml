@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Über Prüfungen für das höhere Schulfach</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif10humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1903">1903</date>
+                  </imprint>
+                  <biblScope unit="page" from="239" to="241"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="10.239" xml:id="pbX239"/>
+            <head>
+               <title type="main">XLVII. Über Prüfungen für das höhere Schulfach.</title>
+            </head>
+            <p>1 1. April 1810.</p>
+
+            <p>(Eigenhändiger Entwurf in den Akteji des Ktillusininisteriiniis.J</p>
+
+            <p>Wenn es auch in Preußen längst üblich war, Prüfungen für das höhere Schulfach abzuhalten, so wurden doch die darüber ergangenen Bestimmungen, trotz mehrfacher Erneuerung, nicht allseitig beobachtet, und zahlreiche Theologen und ungeprüfte Kandidaten walteten in Schidämtern, stiegen auch ohne weiteres bei Erledigung i&gt;on Stellen in die höheren auf, ohne dass ihre Qualifikation besonders geprüft wurde. Diese der Verbesse)-ung der Schiden hinderlichen Um- stände wollte Humboldt beseitigen: er führte einerseits für die Ascension ein Kolloquium ein, und folgte anderseits der Anregung Wolfs, die Anstellung im höheren Schulfach durchaus von einer Staatsprüfung abhängig zu machen. Süvern entwarf (27. Februar 1810J ein Reglement dafür, und nachdem die Voten der Sektionsmitglieder, unter denen besonders Schmedding Bedenken laut werden ließ, eingegangen waren, schrieb Humboldt das folgende Gutachten.</p>
+
+            <p>Ich muss in meiner bisherigen Meynung beharren, dass ich die Verordnung heilsam und sogar nothwendig finde. Die blossen Prüfungen zu einer bestimmten Stelle sind ein viel zu geringes Sicherungsmittel gegen das Einschleichen mittelmässiger oder schlechter Lehrer, und es ist sowohl für die anstellende Behörde selbst, als für die Schulpatrone, die nur Vorschlags-Recht haben, äusserst wichtig, schon im Voraus einen bestimmteren Begriff von dem Subjecte fassen zu können. Eine solche Einrichtung ist ferner der einzige Damm, den man dem Missbrauch der Patronats- rechte entgegen setzen kann, da die bestätigende Behörde nun schon, ohne noch den Vorgeschlagenen weiter selbst geprüft zu haben, in seinem mehr oder minder guten Zeugniss ein, wenn nicht unfehlbares, doch ziemlich sicheres Mittel in Händen hat, auch die Güte der Wahl des Patrons zu beurtheilen, und ihm gegen eine unangemessene sogleich Vorstellungen zu machen. Endlich ehrt es das Bildungsgeschäft im Staate selbst, wenn jeder, welcher sich damit befasst, vorher Beweise seiner Tüchtigkeit dazu geben muss und mit der Zeit bildet sich auch unter denen, die sich diesem Geschäfte widmen, und durch die öffentliche Approbation gleichsam einen geschlossenen Kreis ausmachen, ein Geist, der ohne Zunftgeist zu seyn, eine feste und sicher zum ge<pb n="10.240" xml:id="pbX240"/>sichten zu verhüten, so ist es ebenso wichtig, durch eine gewisse Gemeinschaft (die nie ohne eine Absonderung des nicht zu ihr Gehörenden denkbar ist) eine Kraft und einen Enthusiasmus hervorzubringen, welche dem einzelnen und zerstreuten Wirken immer fehlen, welche den Schlechten von selbst entfernen, den Mittelmässigen heben und leiten, und die Fortschritte auch der Besten noch befestigen und beflügeln. Dieser letzte und wichtigste Zweck kann aber nur erreicht werden, wenn es dahin kommt, dass man die Prüfungen mit einer gewissen Freudigkeit ergreift, und sie als eine Gelegenheit, seine Kräfte zu üben und zu be- weisen ansieht. Um dies zu erreichen, wäre es vielleicht gut, der Verordnung zugleich einen befehlenden und einen bloss auffordernden und einladenden Theil zu geben; den Befehl auf die Anstellungen in öffentlichen Schulen zu beschränken, die blosse Aufforderung aber an diejenigen ergehen zu lassen, die Privat-Erziehungsanstalten anlegen, oder Hauslehrer werden wollen.</p>
+
+            <p>Zugleich halte ich es für gut, die schon in Absicht der Ascension ergangene A'erfügung in diese allgemeine noch einmal mit aufzunehmen, und nun zugleich näher zu bestimmen.</p>
+
+            <p>Hiernach w^ürden die einzelnen Bestimmungen der Verordnung also folgendergestalt theils nach dem ersten Project unverändert bleiben, theils anders bestimmt werden:</p>
+
+            <p>Es wird bei den wissenschaftlichen Deputationen gesetzlich eine Prüfung für alle, die sich dem Erziehungs- oder Lehrerfach widmen, festgesetzt, die, ohne Rücksicht auf eine besondere Stelle, nur um ihre Tauglichkeit zu den verschiedenen Arten von Lehr- und Erziehungsämtern im Allgemeinen zu bekunden bestimmt ist.</p>
+
+            <p>Von diesen Prüfungen sind nur diejenigen ausgeschlossen, welche sich einzig und allein dem Elementarunterricht widmen, es sey denn, dass sie in diesem mit neuer oder doch veränderter Methode auftreten wollten.</p>
+
+            <p>Unter Elementarunterricht wird Unterricht im Lesen, Schreiben, den einfachsten Zahl- und Massverhältnissen und den Grundregeln der ^Muttersprache verstanden.<pb n="10.241" xml:id="pbX241"/> den übrigen Fächern, und welchen.-* fremd gewesen ist.</p>
+
+            <p>Die Zeugnisse der Deputationen könnten von dreifacher Art seyn.</p>
+
+            <p>Die erste bekundete einen gewissen Grad der Vollendung in der Wissenschaft; es würde dazu alles dasjenige zu leisten erfordert, was ein auf Universitäten rechtmässig erworbener Doctor- titel voraussetzen sollte.</p>
+
+            <p>Die zweite spräche die Tauglichkeit zum Unterricht auf den oberen Klassen, die dritte die zum Unterricht auf den unteren Klassen ge- lehrter Schulen aus.</p>
+
+            <p>Die verschiedenen Nuancen würden besonders angegeben. Von Fähigkeit zum Directorate kann bei denen, die erst ins Erziehungsfach eintreten, nicht die Rede seyn.</p>
+
+            <p>Wer auf einer Universität nach vorhergängigem Examen eine akademische W^ürde erlangt hätte, würde mit allem mündlichen Examen verschont, und bedürfte zur Erlangung des Zeugnisses nur der Ausarbeitung schriftlicher Arbeiten und der Haltung von Probelectionen.</p>
+
+            <p>Gezwungen sich einer solchen Prüfung zu unterwerfen wären nur alle, die an öffentlichen Schul- oder Erziehungsanstalten angestellt sein wollten, und hier träten die Bestimmungen des Pro- jects ein.</p>
+
+            <p>Hien-on dispensiren könnte bloss die Section. Wer nur mit einem Zeugniss eines Unterlehrers angestellt worden wäre, müsste, wenn er zu obern Ivlassen gesetzt würde, aufs neue geprüft werden.</p>
+
+            <p>Wer von der Stelle eines Oberlehrers zu einem Rectorat erhoben würde, unterzöge sich bloss einem Gespräch über rein pädagogische Gegenstände, keiner Prüfung von Kenntnissen, und einer schriftlichen Arbeit über einen ähnlichen Gegenstand.</p>
+
+            <p>So hätte jeder immer nur aufs höchste und wenn er auch ganz stufenweise ginge, zwei Prüfungen und ein Colloquium zu bestehen.</p>
+
+            <p>Die Prediger, als solche, glaube ich, kann man nicht, wie das Projekt der Verordnung zu wollen scheint, zu einer Prüfung ver-</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Anträge für F. A. Wolf</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif10humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1903">1903</date>
+                  </imprint>
+                  <biblScope unit="page" from="16" to="21"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="10.16" xml:id="pbX16"/>
+            <head>
+               <title type="main">IL An der Spitze der preufsischenUnter- richtsverwaitung, 1809 und 1810.</title>
+            </head>
+            <p>Am 14. Oktober 1808 trat Humboldt seine Reise nach Deutschland an, um dort einen 77iehr-monatlichen Urlaub zur Ordnung persönlicher Verhältnisse zu verbringen. Kaum hatte er den deutschen Boden betreten, da erfuhr er, daß Vnn ein heimischer Posten zugedacht war, und eine Kabinetsordre vom 15. Dezember 1808 bot ihjn die Stellung als Geheimer Staatsrat imd Direktor der Sektion für Kultus und Unterricht im Ministerium des Innern an. Er lehnte sie zuerst ab, gab aber schließlich dem Drängen der Minister voyi Altenstein und Graf Dohna nach und erhielt durch Kabinetsordre vom 20. Februar i8og seine Ernennung. Ihm zur Seite standen als Staatsräte Nicolovius, besonders für die Kultusabteilung, Süvom, Uhden und etwas später Schmedding für die katholischen Angelegenheiten. Die folgenden Arbeiten Humboldts gehören dieser Periode an.</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">I., II. Anträge für F. A. Wolf.</title>
+               </head>
+               <pb n="10.17" xml:id="pbX17"/>
+               <p>I. An Dohna über F. A. Wolf. 6. Februar 1809.</p>
+
+               <p>Eigenhändiges Schreiben im Geh. Staatsarchiv ; gedruckt bei Köpke, Die Gründimg der K. Friedrich -Wilhelms-Universität zu Berlin, S. 186 Nr. ly.</p>
+
+               <p>Ew. Excellenz haben die Güte gehabt, den Geheimen Rath Wolf zu veranlassen, mit mir über seine künftige, hiesige Anstellung und den von dem Könige von Baiern erhaltnen Ruf nach Landshut, zu reden, und ich habe die Ehre, Ihnen in der Anlage den Brief zu übermachen, den er mir in dieser Angelegenheit geschrieben hat. Ew. Excellenz werden daraus sowohl seine Wünsche, als die Art ersehen, wie er glaubt, hier auf eine nützliche Weise gebraucht werden zu können, und wenn es möglich wäre, diesen Wünschen, vorzüglich in der äussern, pecuniären Lage, Genüge zu leisten, so könnte dem Staate ein Mann erhalten werden, der unstreitig für das Wiederaufblühen und Gedeihen unserer gelehrten Anstalten und vorzüglich für die Errichtung einer Universität in Berlin, wenn dieser Plan noch durchgesetzt werden soll, von der äussersten Wichtig- keit ist.</p>
+
+               <p>Die ausgebreitete Gelehrsamkeit und der schriftstellerische Ruf des Geheimen Raths Wolf bedürfen keiner Erwähnung. Gewiss giebt es unter den sachkundigen und unpartheiischen Be- urtheilern nur Wenige, welche ihm nicht einmüthig einräumen würden, der erste der jetzt lebenden Philologen zu seyn. Doch dies halte ich hier bei weitem noch nicht für den wichtigsten Gesichtspunkt. Auf einer Universität und bei der Bildung einer ganzen Nation kommt es nicht so sehr auf die blosse Masse angesammelter und vielleicht todt daliegender Kenntnisse, als auf den Geist an, mit welchem ein ganzes Fach überschaut, und das Studium desselben dergestalt geleitet wird, dass es sich an die allgemeine Bildung und die allgemeine Aufklärung anschliesst und für Kopf und Charakter fruchtbar wird. Gerade dies aber besitzt Wolf in hohem Grade, und hat es noch neuerlich in seiner Ueber- sicht der philologischen Wissenschaften im i Stücke seines Museums auf eine in der That unübertreffliche Art bewiesen. Mit diesem Geiste und mit einer grossen Vielseitigkeit und Gewandtheit hat<pb n="10.18" xml:id="pbX18"/> aus, dass sie sich nicht an schwankenden oder halbwahren Be- griifen, wie sonst so häutig der Fall ist, begnügen. Fine solche Einwirkung auf den gelehrten Ton in einem äusserst bedeutenden, und mehr oder w^eniger auf alle andern Einfluss habenden Fache aber kann einer Universität nicht anders, als höchst wichtig seyn, und wer da weiss, wieviel dazu gehört, sie auszuüben, wird nicht wähnen, hierin ein Subjekt leicht durch ein anderes ersetzen zu können.</p>
+
+               <p>Ehe Wolf die akademische Laufbahn betrat, dirigirte er ein Paar Jahre hindurch ein nicht unbedeutendes Gymnasium. Die Bedürfnisse einer Schulanstalt, und die Mittel ihr aufzuhelfen, sind ihm daher auch aus Erfahrung bekannt. Er nimmt überdies an Allem, w^as sich auf den Unterricht im Allgemeinen, selbst auf den, welcher sich am meisten von dem eigentlich gelehrten ent fernt, bezieht, lebhaften Antheil, und er wird dadurch und durch die Unpartheilichkeit seiner Beurtheilung der älteren und neueren Lehrmethoden blos nach der Wirkung, die sie auf den Kopf und die Erwerbung gründlicher Kenntnisse ausüben, auch zur Oberaufsicht über Schulanstalten und zur Revision derselben vorzüg- Hch brauchbar. Der Bericht, den er in Kurzem über die ihm aufgetragene Re\dsion des Joachimsthalschen Gymnasiums abstatten wird, kann Ew. Excellenz übrigens in Stand setzen, sich hien'on selbst vollständig zu überzeugen.</p>
+
+               <p>Endlich kann ich meine Furcht nicht bergen, dass es eine sehr nachtheilige Wirkung im hiesigen und deutschen Publikum überhaupt hen^orbringen könnte, wenn Wolf, nachdem er zwei Jahre lang unter sehr misslichen Umständen hier ausgeharrt hat, Beriin in dem Augenblicke verliesse, in welchem die neue Organi- sation unserer Lehranstalten ihren Anfang nehmen soll. Aus diesen Gründen nun — weil man sich sonst in der That eines wahren, gründlichen und geistvollen Gelehrten (aufs mindeste gesagt, eines der ersten die wir noch besitzen), eines Lehrers, der<pb n="10.19" xml:id="pbX19"/> beschäftigen, sehr geachteten Namens beraubt — sehe ich seine Erhaltung für dringend und nothwendig an.</p>
+
+               <p>Dass Ew. Excellenz Vorgänger ebenso geurtheilt hat, wird Ihnen nicht unbekannt seyn.</p>
+
+               <p>Die Art der Geschäftigkeit, welche der Geheimrath Wolf sich erbittet, scheint mir diejenige, welche man selbst von ihm wünschen müsste: Thätigkeit bei der Akademie, Lesen auf der Universität und einige Oberaufsicht auf höhere Schulen.</p>
+
+               <p>Dass er in Absicht des zweiten Punktes sagt, sich nicht ent- schliessen zu können, eigentlich Mitglied der Universität zu werden, dürfte Ew. Excellenz vielleicht auffallend scheinen. Wie ich mich aber mündlich mit ihm darüber erklärt habe, so geht seine Absicht dabei blos dahin, von den sogenannten Eakultätsgeschäften, und allem was die Corporation, als solche, angeht, dispensirt zu seyn, und da ihn dies nur von demjenigen, wozu er allein vor- zugsweise brauchbar ist, von den gelehrten Arbeiten abziehen könnte, so sehe ich hierbei, da er regelmässig zu lesen verspricht, keine Schwierigkeit ein.</p>
+
+               <p>Was er in Absicht des philologischen Seminarii und eines demselben zu gebenden Inspectors wünscht, scheint mir gleichfalls zweckmässig.</p>
+
+               <p>Indess dürfte es wohl gut seyn, sowohl hierüber als über die Frage ob man dem Geheimen Rath Wolf die Oberaufsicht über alle Berlinische gelehrte Schulen in x\bsicht des Unterrichts und der Methoden, Visitationen u. s. f. anvertrauen möchte, erst dann endlich zu entscheiden, wenn alle übrigen mit dieser Frage zusammenhängenden Punkte erörtert werden, weil eine einzeln stehende Bestimmung leicht Nachtheile hervorbringen kann. Sonst aber kann ich diese Idee nichts anders, als wünschenswerth halten, und käme sie zur Ausführung, so würde mir auch der in dem Briefe angedeutete Einfluss auf die Besetzung der Stellen der Sache angemessen scheinen. Denn ohne einen solchen Einfluss lässt sich kaum eine wahre d. i. nothwendig mit Verantwortlichkeit für die Güte des Instituts verbundne Oberaufsicht denken.</p>
+
+               <p>Sollte es nothwendig seyn, jetzt in Betrachtung zu ziehen, ob dem Geheimen Rath Wolf eine Stelle in den zu errichtenden Collegien anzuweisen seyn würde f so schiene er mir in der wissen<pb n="10.20" xml:id="pbX20"/>genommen, gleich zweckwidrig für die Gelehrsamkeit und die Geschäfte halte.</p>
+
+               <p>Ueber den Punkt des Gehalts erlauben mir Ew. Excellenz nun folgende Bemerkungen.</p>
+
+               <p>Der Geheime Rath Wolf hat in Halle 2150 Thlr. genossen. Da er zugleich bei der Akademie und einem der neu zu errichtenden Collegien angestellt, und daneben für die Universität und wenigstens Ein Gymnasium, nemlich das ihm schon jetzt zur Revision übertragne Joachimsthalsche, thätig wäre, so Hesse sich seine Besoldung wohl auf mehr als Eine Kasse vertheilen.</p>
+
+               <p>Aus dem gleichen Grunde und weil er nicht einmal ordentliches und eigentliches Mitglied der Universität zu seyn wünscht, dürfte nicht zu befürchten stehen, dass das von ihm erbetne Gehalt, das freilich höher ist, als man es den Professoren allgemein einräumen kann, als ein Massstab für andre angesehen würde, oder Neid und Unzufriedenheit erregte.</p>
+
+               <p>Indem ich Ew. Excellenz um Verzeihung bitte, dass ich Ihnen meine Gedanken über diesen Gegenstand, den ich von der erheb- lichsten Wichtigkeit halte, so ausführlich und freimüthig geäussert habe, gebe ich mir die Ehre, mit der hochachtungsvollsten Ergebenheit zu verbleiben</p>
+
+               <p>Ew. Excellenz</p>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">gehorsamster Berlin, d. 6. Februar 1809. Humboldt.</title>
+               </head>
+               <p>IL An den König über F. A. Wolf. 18. März 1809. (Original im Geh. Staatsarchiv.)</p>
+
+               <p>Ehe ich den mir von Ew. Königlichen Majestät allergnädigst anvertrauten Posten angetreten hatte, that ich auf Veranlassung eines dem Geheimen Rath Wolf geschehenen Rufes nach Landshut Vorschläge, diesen Mann Ew. Königlichen Majestät Staaten zu erhalten. Ich sehe es jetzt als meine Pflicht an, wieder auf diese Vorschläge zurüclvzukommen, und Ew. Königliche Majestät um huldreiche Genehmigung derselben allerunterthänigst zu bitten.<pb n="10.21" xml:id="pbX21"/> gehegten Erwartungen vollkommen erfüllen wird. Es ist dem Geiste der neuen Organisation angemessen, einzelne Geschäfte der Aufsicht einzelner Männer anzuvertrauen, und wenn ich die Fächer des mir anvertrauten Departements durchgehe, w^eiss ich, aller übrigen Rücksichten nicht zu erwähnen, keinen Mann, ausser dem Geheimen Rath Wolf, welcher der Ober-Aufsicht auf alle Berlinischen Gymnasien vollkommen gewachsen wäre.</p>
+
+               <p>Für die hier zu errichtende Universität habe ich Hoffnung, einige der bedeutendsten Männer Deutschlands zu erhalten, aber wenn jetzt der Geheime Rath Wolf uns verlässt, so wird daraus unausbleiblich Misstrauen und Ungewissheit entstehen. Er ist der ausgezeichnetste Gelehrte, den Ew\ Königliche Majestät Staaten gegenwärtig besitzen, und wenn eine wirkliche Regeneration und Verbesserung der gelehrten Anstalten vorgenommen werden soll, so ist seine Erhaltung schlechterdings nothwendig.</p>
+
+               <p>Ich würde durchaus pflichtwidrig handeln, wenn ich Ew. Königlichen Majestät dies nicht unpartheyisch und freimüthig darstellte.</p>
+
+               <p>Der Geheime Rath Wolf wünscht übrigens nichts mehr als in Ew. Königlichen Majestät Dienste zu bleiben und sich der bisher genossenen Gnade ferner würdig zu machen. Nur Rücksichten auf seine Familie und in den letzten beiden unglücklichen Jahren gemachte Verluste verhindern ihn, einen auswärtigen Ruf sogleich auszuschlagen.</p>
+
+               <p>Ew. Königliche Majestät haben neuerlich den Professor Buttmann*) mit einer von ihm gewünschten Gehaltszulage hier zu erhalten geruht. Ich darf mir daher gewiss mit der Hoffnung schmeicheln, dass ein Mann, dessen Verlust ohne allen Vergleich schwerer zu ersetzen wäre, sich der gleichen landesväterlichen Huld zu erfreuen haben wird.</p>
+
+               <p>Berlin, den i8ten Maerz 1809.</p>
+
+               <p>An Seine Majestät den König.</p>
+
+               <p>Humboldt.</p>
+
+               <p>y Der Antrag für Buttmann vom 16. März (Köpke S. 64) ist noch von Nicolovius gezeichnet.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Programm des Vereins der Kunstfreunde im preußischen Staate</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Fünfter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif05humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1906">1906</date>
+                  </imprint>
+                  <biblScope unit="page" from="232" to="236"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1825">1825</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="5.232" xml:id="pbV232"/>
+            <p>nur gefühlt und gefordert, nicht in der Erfahrung nachgewiesen, nur als der erste Grund an die Spitze des Naturganges gestellt, nicht in der Mitte desselben aufgesucht werden. Auf diese Weise muss man auch in unsrem Gedicht die miteinander in Widerspruch stehenden Stellen betrachten. An sich wird die sittliche Freiheit vollkommen gerettet. Die Gottheit ist an keiner menschlichen Handlung, weder einer guten, noch bösen, Ursach, sie entstehen aus dem Charakter eines jeden. Leidenschaft und Irrthum verhüllen die Erkenntniss, darum sündigt das Menschengeschlecht. Aber diese Feinde können und müssen besiegt, der Erkenntniss die Herrschaft gesichert werden. (III. 37 — 43. Y. 14. 15.) Wenn oben (S. 194.219.) im Gegentheil der Mensch einerseits als Werkzeug der eigentlich handelnden Gottheit, andrerseits als fortgerissen von dem Wirken der Natur geschildert wird, so ist dort von der Naturverkettung im Ganzen die Rede, hier von einzelnen Handlungen und der Gesinnung der Handelnden bei denselben. Die Yoga -Lehre ist sogar in ihrem innersten Wesen und mehr, als jede andre Philosophie, auf die Nothwendigkeit sittlicher Freiheit gegründet, da die wesenverändernde Festigkeit und Beharrlichkeit des Willens, welche ihr letztes Ziel ist, nur aus absoluter Freiheit, die sich allen endhchen Regungen entgegensetzt, entspringen kann.</p>
+
+            <p>Krischnas empfiehlt, ihn allein zu ehren und alle andren für heilig geachteten Satzungen zu verlassen. (XVIII. 66.) Er erhebt daher seine Lehre zu der allein wahren, und allein zur Voll- endung führenden. Er verwirft es aber darum nicht ganz, andren und den niedrigeren Göttern zu opfern. Die es thun, opfern doch eigentlich auch zugleich ihm, nur nicht auf die rechte Weise. Er bleibt der Herr und Geniesser aller Opfer, sie nur erkennen ihn nicht in der Wahrheit. (IX. 23. 24.) Er urtheilt auch über verschiedne philosophische Systeme nicht immer mit abschneidender Strenge, sondern lässt sie neben einander bestehen (V. 2.), aber nicht auf auswählende oder vermittelnde Weise, welche dem unabweichlich auf Elin Ziel gerichteten Wesen der Vertiefung durchaus entgegenstehen würde, sondern weil die Gottheit, das letzte Ziel seiner Lehre, von allen Seiten her und auf allen Wegen erreicht werden kann. So ist über das ganze Gedicht ein sanfter und wohlthätiger Geist der Duldung verbreitet.</p>
+
+            <pb n="5.233" xml:id="pbV233"/>
+            <head>
+               <title type="main">Programm des Vereins der Kunstfreunde im Preussischen Staate.</title>
+            </head>
+            <p>Vor länger als einem Jahre traten mehrere hiesige Künstler und Kunstfreunde, die ehemals in Italien gewesen waren, zusammen, um durch jährliche Beiträge den in Rom studirenden vaterländischen Künstlern Gelegenheit zu Arbeiten zu eröfnen, welche bloss ihr Fortschreiten in der Kunst zur Absicht haben sollten. Der Gedanke erhielt Beifall, das Unternehmen gewann, auch ausser dem ursprünglichen Kreise, Theilnehmer, es schien angemessen, die erste Anlage zu erweitern, und so bildete sich der Plan zu einem Verein der Kunstfreunde in dem Preussischen Staate. Mehrere Städte in und ausser Deutschland besitzen Vereine dieser Art, der unsrigen fehlte ein solcher bisher, und demnach scheint er doppeltes Bedürfniss in einem Augenblick, wo, wie man mit Wahrheit behaupten kann, das Streben der Künstler nach Vollendung und der rege und einsichts- volle Antheil des Publicums an ihren Werken mit einander wetteifern, der Kunst ein noch schöneres Emporblühen zuzusichern. Es gehört zu den erfreulichsten Erscheinungen unsrer Zeit, dass die bildende Kunst seit etwa 30. bis 40. Jahren einen Aufschwung gewonnen hat, den zu hoffen die unmittelbar vorhergehende Epoche kaum berechtigte. Sie dankt dies, ausser andren zusammentreffenden Ursachen, offenbar dem richtigen Wege, den sie genommen hat, indem sie, sich von der Herrschaft einseitiger Manier befreiend, zu einem ernsteren und strengeren Studium der Natur zurückErster Druck: Doppelblatt in Quart (4 Seiten ohne Überschrift).<pb n="5.234" xml:id="pbV234"/> gekehrt ist, und das Alterthum und die grossen Wiederhersteller der Malerei zu Vorbildern gewählt hat. Auf diesem Standpunkte spricht die Kunst jedes unverstimmte Gemüth an, sagt jedes Unbefangnen Sinn zu, und erweckt allgemeine Theilnahme, da sie, frei von Prunk und Ueberladung, sich leicht und einfach mit Allem verbindet, was ihre Form anzunehmen fähig ist, und das ganze Leben mit Schönheit und gefälliger Anmuth begleitet. Diese, nicht bloss der Kunst, sondern allen sich mit ihr ver- bindenden menschlichen Bestrebungen wohlthätige Stimmung zu erhalten und zu befördern, scheint nichts so geeignet, als die Hervorbringung bedeutender Kunstwerke zu erleichtern, und eine grössere Anzahl derselben zu verbreiten, und beides macht den Zvi^eck des sich bildenden Vereins aus, nur mit der Beschränkung, dass er bloss für die vaterländische Kunst, das heisst für Preussische Künstler wirksam seyn wird.</p>
+
+            <p>Auch dem Künstler von Talent fehlt es nicht selten an Bestellungen grösserer Arbeiten, und er sieht sich alsdann längere Zeit hindurch auf solche beschränkt, die weder der Kunst, noch ihm die eigentliche Befriedigung gewähren.</p>
+
+            <p>Noch leichter und bei weitem verderblicher aber tritt derselbe Umstand dem Studium des sich bildenden Künstlers in den Weg. Die kostbarste, ihm (wie z. B. bei Bildungsreisen ins Ausland) bestimmt und eng zugemessene Zeit sieht er sich genöthigt, mit Beschäftigungen zu zersplittern, die ihn seinem wahren Ziele nicht näher führen, wenn nicht gar davon entfernen. Gleich gross ist auf der andren Seite für diejenigen, welche die Kunst, ohne sie selbst zu üben, kennen, und mit Geschmack lieben, die Schwierigkeit, sich den Besitz wahrhaft guter Kunstwerke zu verschaffen. Zwar giebt es in den grössern Städten der Monarchie, und namentlich in Berlin grössere und kleinere Privatsammlungen, und was die einsichtsvolle Beförderung der Thätigkeit der vater- ländischen Künstler betrift, so verdankt die Kunst hierin dem huldreichen Schutze Sr. Majestät des Königs und des Königlichen Hauses so viel, dass es kaum der einfachen Erinnerung daran bedarf. Manches ist auch von Kirchen und andren Instituten und von Privatleuten geschehen. Alles dies aber scheint nur um so mehr zu beweisen, dass es gerade jetzt der angemessene Zeitpunkt ist, eine noch allgemeinere Theilnahme anzuregen und möglich zu machen.</p>
+
+            <p>Die Absicht des Vereins ist nun, Preisbewerbungen für an<pb n="5.235" xml:id="pbV235"/>zufertigende Kunstwerke anzustellen, die Ausführung entworfner, und die Vollendung angefangner zu erleichtern, schon fertige an sich zu kaufen und diejenigen, welche auf diesem Wege an ihn übergehen, unter seine Mitglieder zu verloosen. Auf diese Weise bleibt dem Künstler mit der Freiheit der Wahl seines Gegenstandes die Sicherheit, seine Zeit, ohne Gefahr, einem grössern Werke widmen zu können. Die Verloosung der Kunstwerke aber schien den Stiftern des Vereins besser und der Kunst förderlicher, als wenn man sie hätte verkaufen, oder aus ihnen eine Sammlung des Vereins bilden wollen. Sie werden auf diesem Wege in alle Provinzen der Monarchie verbreitet und kommen auch in den Besitz derer, die sie sich sonst nicht hätten verschaffen können.</p>
+
+            <p>Auch ist wohl nicht zu verkennen, dass ein gutes Kunstwerk in einer Privatwohnung, als Familienbesitz, wo es einzeln, oft, in verschiednen Stimmungen, und nach und nach doch von sehr Vielen betrachtet wird, einen tieferen und richtigeren Eindruck auf das Gemüth hervorbringt, als wenn man es in öffentlichen x\usstellungen und Sammlungen jedesmal absichtlich aufsuchen muss. Die Preisbewerbungen hat der neue Verein für den Augenblick nur für diejenigen Preussischen Künstler bestimmt, die sich, zum Behuf ihrer Studien, in Italien aufhalten. Diese Beschränkung hört aber sogleich auf, als dem Vereine seine Mittel weiter zu gehen erlauben, auch ist dieselbe schon vor dieser Zeit dem höhern Gesetz untergeordnet, dass der Verein seine Unterstützungen immer nur auf wirklich ausgezeichnete Kunstwerke verwendet.</p>
+
+            <p>Um sich die nothwendigen Mittel zur Erreichung seines Zwecks zu sichern, bestimmt der Verein den jährlichen Beitrag seiner Mitglieder auf fünf Thaler. Dafür nimmt jedes mit Einem Loose an den Verloosungen der Kunstwerke Theil. Es steht indess Jedem frei, sich mit einem höhern Beitrag einzuzeichnen, und er empfängt alsdann für jede fünf Thaler, die er über den gewöhnlichen Bei- trag zahlt, ein Loos mehr. Da die Bestimmung der Preisaufgaben, und die Beurtheilung der einkommenden, oder sonst anzuschaffender Kunstwerke nur von Künstlern ausgehen kann, so ist festgesetzt worden, dass, ausser dem Directorium des Vereins, von welchem die Hälfte der Mitglieder auch aus Künstlern bestehen muss, noch ein eigner Ausschuss aus den vier im Directorium sitzenden, und drei andren Künstlern gebildet werde, welcher allein über alle Gegenstände<pb n="5.236" xml:id="pbV236"/> entscheidet, die künstlerische Beurtheilung erfordern. Es hat nicht zweckmässig geschienen, diesem Ausschuss in dem Statut genaue Anweisungen über die Bestimmung der Preisaufgaben, die Zuerkennung der Preise, die Auswahl der zu befördernden oder anzukaufenden Kunstwerke zu geben. Man hat vielmehr die Ueberzeugung gehegt, dass es besser se}^, wenn die Mitglieder des Vereins die Künstler, w^elche den Ausschuss bilden sollen, nach Stimmenmehrheit wählen, allein alsdann demselben die Besorgung des ihm übergebenen Geschäfts, mit vollem Vertrauen auf die Richtigkeit ihres Kunstgefühls und die Unpartheilichkeit ihrer Entscheidungen, in völliger und unumschränkter Freiheit überlassen.</p>
+
+            <p>Um die Begründung des Vereins keiner Zögerung auszusetzen, haben die Unterzeichneten für jetzt die Geschäfte des Directoriums und des Ausschusses übernommen. Künftig werden sowohl das Directorium als der Ausschuss von den Mitgliedern des Vereins in den öffentlichen Versammlungen von zwei zu zwei Jahren gewählt werden. Die näheren Bestimmungen hierüber, so w^ie über alle andren Punkte, welche es nöthig schien, gleich Anfangs festzusetzen, sind in dem Statut enthalten. Dies Statut ist von den Unterzeichneten Sr. Majestät dem Könige vorgelegt worden, und Se. Majestät haben nicht nur das- selbe allergnädigst zu genehmigen, sondern auch das Patronat des Vereins anzunehmen geruht.</p>
+
+            <p>Der Verein wird sich am i. Januar 1826. als in Wirksamkeit tretend ansehen. Wer bis zu diesem Zeitpunkt Mitglied desselben zu werden wünscht, wird ersucht, bei dem Secretair des Vereins Herrn Dr. Jüngken (unter den Linden 56.) seinen Namen und Beitrag in die Liste der jetzigen Mitglieder einzuzeichnen, und dagegen ein Exemplar des Statuts in Empfang zu nehmen. Nach diesem Zeitpunkte muss jeder Neubeitretende von zwei Mitgliedern vorgeschlagen se3'n.</p>
+
+            <p>Berlin, den 23. August 1825.</p>
+
+            <p>W. V. Humboldt, Beuth, Jüngken, Friebe, Rauch, Tieck, Schinkel, Wach, W. Schadow, Begas, Kolbe.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Über die mit den deutschen Fürsten über die Führung des gegenwärtigen Krieges zu treffende Übereinkunft</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Elfter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif11humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1904">1904</date>
+                  </imprint>
+                  <biblScope unit="page" from="327" to="331"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="11.327" xml:id="pbXI327"/>
+            <p>des Kimigs an/uülhrcn, und das X'crsprcchcn zu machen, dass, wenn der Kurfürst seine Truppen bei den IVeussischen Hesse, auch der KiMiig die mr)glichste Sorgfalt anwenden werde, ihm Subsidicn zu verschallen.</p>
+
+            <p>Ks muss jedoch noch einmal wiederholt werden, dass dieser ganze Punkt i-'nglands und der Subsidien schlechterdings nur dann zu berühren ist, wenn der Kurfürst schon davon imierrichtet seyn, und sich darauf Rechnung machen sollte.</p>
+
+            <p>Dies wird hinreichend seyn, des Herrn (Icncral Lieutenant von /astrow l-Acellenz vorläufig bei Ihren ersten Schritten zu leiten. Bei der dargestellten Lage der Sache lässt sich voraussehen, dass Sie schwerlich dahin gelangen werden, ehe hier die Sachen mehr entschieden sind, bestimmte Aeusserungen des Kurfürsten zu erhalten; allein die Sendung wird schon einen sehr grossen Nutzen gewähren, wenn dadurch das gute und freundschaftliche Hinver- ständniss beider Höfe recht befestigt wird. Dies muss daher das Hauptaugenmerk seyn, da es im höchsten Grade compromittirend für das Preussische (^abinet se3'n würde, wenn es schiene, als wolle es, indess man hier allgemeine L'nterhandlungen anknüpft, die Fürsten einzeln gewissermassen nöthigen, seinen besondern Absichten zu folgen.</p>
+
+            <p>Der hiesigen Hessischen Gesandtschaft wird von der Sendung des Herrn General-Lieutenant von Zastrow Kxcellenz gelegentlich Nachricht gegeben, und dieser in genauer Kenntniss aller Fortschritte der hiesigen Unterhandlungen erhalten werden.</p>
+
+            <head>
+               <title type="main">LXIII. Über die mit den deutschen Fürsten über die</title>
+            </head>
+            <div type="section" n="1">
+               <head>
+                  <title type="main">Führung des gegenwärtigen Krieges zu treffende</title>
+               </head>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">Übereinkunft.</title>
+               </head>
+               <p>April \Xi'^.</p>
+
+               <p>I Eigei\händit:cr i'.iiuviirj o. I). im (ich. SuiMsarchiv.)<pb n="11.328" xml:id="pbXI328"/> muni;cn der r&gt;ankl"urter \'crträgc*) zu nehmen. Dadurch ist mithin ;^ugleich ausgesprochen, dass die für diesen Krieg aufzustellende Kriegsverfassung von derjenigen unabhängig se3^n soll, welche der Hund für immer aufstellen könnte. Auch wird dies von selbst nicht anders möglich seyn. Denn obgleich wahrscheinlich noch ein Bund wenigstens durch die l^^eststellung seiner Grundsätze zu Stande kommt; so dürfte es alle Schwierigkeiten verdoppeln, wenn man, was jezt eingerichtet w^erden muss, auch zugleich zur Fortdauer für die Zukunft bestimmen wollte.</p>
+
+               <p>Es wird daher ausser dem Bundesvertrag, ein Allianztractat der deutschen Fürsten auf der einen, und der vier grossen Mächte auf der andern Seite geschlossen, und letzterer wieder von einer (Convention begleitet seyn müssen, welche alle einzelnen Dinge feststellt, die zur Kriegführung gehören, ohne jedoch die einzelnen Kriegsoperationen anzugehen.</p>
+
+               <p>In diesem tractat, oder in der ihm angehängten Convention werden folgende Punkte festgesetzt werden müssen.</p>
+
+               <p>Die Bestimmung des Contingents jedes Fürsten. Wenn man sich hier an die Frankfurter Verträge hält, so würde das l^oppelte wie beim Rheinbunde gestellt.</p>
+
+               <p>A^ertheilung der nicht so starken Truppen, dass sie ein eignes Armeecorps bilden können, in Armee- orps.</p>
+
+               <p>Könnte man bei der \'crtheilung der Frankfurter Verträge bleiben.</p>
+
+               <p>3-</p>
+            </div>
+
+            <div type="section" n="3">
+               <head>
+                  <title type="main">Bestimmung des Orts, wo? und des Oberbefehls, unter wem? die Armeecorps dienen sollen.</title>
+               </head>
+               <p>Hierüber könnte in dem tractat bloss stehen, dass es den Beschlüssen der Mililairconseils anheim gestellt bleibe. Diese drei I^unkte nebst einigen andern zur Organisation der Armeecorps gehörigen waren in den TYankfurter Verträgen in der dem in<pb n="11.329" xml:id="pbXI329"/>liegenden Badischen iractat beigefügten l'icce, welche mit den Worten pour assurer Tindcpcndance anfangt, und in der gleich- falls beigefügten Armceeintheilung regulirt, und es müsste also durch Militärs bestimmt werden, was von diesen Pieccn noch iet/t verwendbar ist?</p>
+
+               <p>4( ) rgan i sat io n der jetzt schon zu Bundesfestungen bestimmten Plätze.</p>
+
+               <p>Die Klugheit erfordert allerdings, in diesen l\mkt nicht tiefer einzugehen, als unumgänglich nothwendig ist. Allein die Punkte, über welche man bei der Kriegführung Streit zu befürchten hätte, erforderten doch nothwendig eine b'estset^ung.</p>
+
+               <p>5-</p>
+            </div>
+
+            <div type="section" n="4">
+               <head>
+                  <title type="main">Durchmärsche. Subsistenz und Haltung der</title>
+               </head>
+               <p>T r u p p e n - M a g a z i n e. L a z a r e t h e.</p>
+
+               <p>Hierüber enthielten die Frankfurter \'erträge eine Beilage, die gleichfalls jetzt aufs Neue untersucht werden müsste. Sie ist dem Badenschcn \'ertrage angeschlossen und fängt mit den Worten an: in Ansehung der (.'oncurrenz.</p>
+
+               <p>6. Festsetzung, wie jedes mit Oberbelehl \- ersehene Armeecorps in seinem Bezirke die zur\'erihcidigung nöthigen Anstalten (Ap pro vi si onement, Befestigungen u. s, f.) soll treffen können, und Bestimmung der Bezirke.</p>
+
+               <p>Der Zweck des Krieges erfordert hier schlechterdings, dass nur Requisitionen an die Behörden nothwendig sey, und jede Weitläufigkeit ausgeschlossen bleibe. Bei Bestimmung der Bezirke könnte die des provisorischen 13esitzes nach der zu Paris ge- trotienen Icbereinkunft wenigstens zur Anleitung dienen.</p>
+
+               <pb n="11.330" xml:id="pbXI330"/>
+               <p>Bestellung einer Heb in- de, welche die Dispositionen dieser (&gt;)nvention thcils in den cin;^elnen näher zu bestimmenden l-'üHen anwendet, theils als vermittlende. schlichtende und ent- scheidende aufrecht erhält.</p>
+
+               <p>Eine solche Behörde, welche an die Stelle der (]entral- verwaltung träte, die im vorigen Kriege bestand, ist unumgänglich nothwendig. \\'enn man ihr jetzt eine, den Fürsten gefällige und doch der Kriegführung unschädliche Gestalt giebt, so thut man, was Billigkeit und Politik zugleich erfordern.</p>
+
+               <p>Diese Behörde müsste den cioppelten Zweck haben:<note type="footnote" n="i)" resp="gnd-116890657"><hi>Das ganze Ausgleichungsgeschäft nach 5 7 zu leiten und zu führen, also erstlich den Grundsatz, so wie es seyn muss, zu specificiren und das Verhältniss jedes Staats zu den Beiträgen festzusetzen. untersuchen, und nach Befinden der Umstände zu vermitteln, oder entscheiden; ohne dass jedoch durch diese letzte Attribution (ive) jemals der Ausführung einer nothwendig geachteten Kriegsmassregel eine Schwierigkeit gelegt, oder durch sie ein Aufschub be- wirkt werden könne. Käme man, v/ie ich nicht glaube, in der Schliessung des Bundesantrags so weit, dass man die Bundesversammlung und ihren Ausschuss selbst festsetzte, so würde der letztere diese Behörde seyn. Im entgegengesetzten Falle würde ich vorschlagen unter dem Namen des: Deutschen Bundesraths fünf Personen in (&gt;assel (als dem schicklichsten Orte) zusammenzusetzen, an deren Ernennung sämmtliche Fürsten dergestalt Theil nähmen, dass immer einige sich zur Ernennung eines Mitglieds vereinigten. Es könnten sich z. B. vereinigen</hi></note><note type="footnote" n="1)" resp="gnd-118554727"><hi>Preussen mit Sachsen, <note>Streitigkeiten, die über die ^'ollziehung dieser Kriegs- convention sowohl zwischen den Fürsten entgegenstehen könnten, als zwischen ihnen und dem Oberkommando der Armeen zu</note> Oesterreich mit Baiern,</hi></note><note type="footnote" n="3)" resp="gnd-118554727"><hi>Hannover mit Mecklenburg, Braunschweig und Olden- burg,</hi></note></p>
+
+               <pb n="11.331" xml:id="pbXI331"/>
+               <p>Diese X'crbiiulungcn kcmntcn aber ohne Nacluhcil auch auf vielerlei andere Weise i^eniaclu werden.</p>
+
+               <p>Diese Dunkle enthalten, meines llrachtens, alle durch den 'l'ractat festzusetzende (iegenstände, und nach dem, was über jeden einzelnen bestimmt würde, müsste der ausführliche Mniwurf des Tractats abgefasst werden.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

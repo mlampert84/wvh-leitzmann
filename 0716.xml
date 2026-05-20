@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Über den französischen Nationalcharakter</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Siebenter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif0702humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1907">1907</date>
+                  </imprint>
+                  <biblScope unit="page" from="587" to="592"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="7.587" xml:id="pbVII587"/>
+            <head>
+               <title type="main">12. Über den französischen Nationalcharakter.</title>
+            </head>
+            <p>Um die charakteristische Eigenthümlichkeit der Französischen Empfindungsweise genau zu verstehen, muss man vorzüglich das- jenige Studiren, was sich in ihnen als Leidenschaft ankündigt. Genau analysirt kann dieser Begriff zum Schlüssel nicht nur ihrer wirklichen Charaktere, sondern auch ihrer psychologischen Schriften, vorzüglich aber ihres tragischen Theaters und ihrer Mimik dienen. Der hiebei aufzulösenden Fragen sind mehrere: inwiefern ist der Französische Xationalcharakter leidenschaftlich ? Welchen Leidenschaften ist er am meisten unterworfen? Wie ist die Leidenschaft überhaupt in ihm modificirt? Wie verhält sie sich zum Ganzen der Seele, zu dem Gemüth? Der Begrifft, der dabei vorzüglich mit zu bestimmen ist, ist was sie ame nennen. Dies scheint sich zur einzelnen Leidenschaft zu verhalten, wie die Fähigkeit überhaupt zu einer ein- zelnen Aeusserung. Die Schriftsteller, die man hier am meisten studiren muss, sind: Rousseau, Mirabeau, die Stael. In diesen späteren scheint etwas Eignes, eine Verbindung von Empfindung mit Geist zu liegen, die den früheren fremd ist. In Racine ist die Leidenschaft mehr weichlich und mehr blosse Natur; in Corneille riesenhaft und phantastisch. Der Leidenschaft ist entgegengesetzt die Kälte. Ausser den kalten und den leidenschaftlichen Naturen giebt es in unsrem Sinne noch andre, bessere als beide, die wir seelenvolle nennen wollen, die uns häufig die Einbildungskraft des Dichters, seltner Handschrift (4 halbbeschriebene Quartseiten, ohne Titel) im Archiv in Tegel.<pb n="7.588" xml:id="pbVII588"/> 588 das Leben, aber dies mehr in weiblichen, als in männlichen Charakteren zeigt. Unter den Leidenschaften giebt es heftige und tiefe, an Raserei ^) und an Schwermuth gränzende.</p>
+
+            <p>Wenn die Naturen, die wir eben seelenvolle nannten, aus ihrem Gleichgewichte heraus, in Leidenschaft gerathen, sind ihnen die letzteren gewöhnlicher, als die ersteren.</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">I.</title>
+               </head>
+               <p>Der Französische Nationalcharakter neigt sich mehr zur leidenschaftlichen, als zur seelenvollen Natur hin.</p>
+
+               <p>2.</p>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">Er ist nicht sowohl tiefer, als heftiger Leiden-</title>
+               </head>
+               <p>schaften fähig. Der Unterschied einer leidenschaftlichen und einer seelenvollen Natur ist fein und schwer zu fassen, sobald man nemlich beide einander so nah, als möglich bringt, in der letztern den Grad der Energie annimmt, der sie gleichfalls der höchsten Leidenschaft fähig macht, und der ersteren soviel sittliche Grösse beilegt, als nur immer geschehen kann. Der Unterschied läuft dann nur auf mehr Einseitigkeit in der einen und mehr Allgemeinheit in der andern hinaus. Aber aus dieser einen Verschiedenheit entspringen andre und andre, die nur zusammengenommen das ganze Gemälde beider vollenden.</p>
+
+               <p>Der Zustand der Leidenschaft ist das Unterliegen der Vernunft unter der Begierde.</p>
+
+               <p>Das Eigenthümliche einer seelenvollen Natur ist die Herrschaft der Seele, d. h. des empfindenden und zwar des geistig empfin- denden Theiles des Menschen.</p>
+
+               <p>In beiden verliert also die Vernunft von ihrem gesetzgebenden Ansehn; ihre Aussprüche bleiben kraftlos und unbefolgt, oder sie verschaffen sich nur unter fremder Sanction Gehorsam.</p>
+
+               <p>Was nemlich die Menschen beherrscht, ist entweder der sinnliche Eindruck der Gegenwart und die alltägliche</p>
+
+               <p>Gewohnheit des Lebens, oder die trockne Ueberlegung der Pflicht oder des Vortheils, oder<pb n="7.589" xml:id="pbVII589"/> die Laune der Einbildungskraft, oder die Heftiglveit der Begierde, oder die Macht des allgemeinen Empfindungszustandes, oder die Erhabenheit des Vernunftgesetzes, oder die Begeisterung, zu welcher den Geist die Betrachtung des Menschen und der Natur erhebt, oder endlich das kraftvolle Gefühl der nächsten Beziehungen ihrer wirk- lichen Verhältnisse auf Recht und auf Glück. Je nachdem sie die eine oder die andre dieser Triebfedern bewegt, sind sie: rohe und träge, moralisch oder politisch kalte, phantastische, leidenschaftliche, seelenvolle, rein philosophische (von Ideen begeisterte), idealische, oder pragmatische Naturen.<note type="footnote" n="*)" resp="gnd-116890657"><hi>V „Raserei" verbessert aus „Schwärmerei".</hi></note></p>
+
+               <p>Eine seelenvolle Natur, ist nicht minder, als eine eigentlich leidenschaftliche der höchsten Leidenschaft fähig. Von cdel- müthiger Freundschaft durchdrungen wird sie sich eben so rücksichtslos aufopfern; liebend und mit dem Verlust des Geliebten bedroht, sich mit gleich banger Angst an ihn anklammern, unvermögend ihn festzuhalten, gleich verzweiflungsvoll den Faden ihres Daseyns abschneiden. Aber es wird niemanden einfallen, sie gerade leidenschaftlich zu nennen; die Leidenschaft wird nur als eine Folge, nicht als das Wesen ihres Charakters erscheinen. Weder die Begierde, noch die Heftigkeit, noch das Unterliegen der Vernunft werden in ihnen so stark und so isolirt sichtbar seyn ; und dadurch wird die Leidenschaft selbst in ihnen einen positiveren und höheren Charakter gewinnen.</p>
+
+               <p>In dem leidenschaftlichen Menschen ist die Begierde auf etwas Aeusseres gerichtet, das er erringen muss, wenn er fortdauern soll; in dem andern ist es mehr ein schon vorhandener Zustand seiner Seele, den er nicht anders, als nur zugleich mit seinem Daseyn aufgeben kann.</p>
+
+               <p>Zwar kommt beides zum Theil auf Eins und ebendasselbe hinaus. Aber der wahre und fühlbare Unterschied beruht darauf, dass in dem leidenschaftlichen Menschen mehr und ein lebhafteres<pb n="7.590" xml:id="pbVII590"/> 590 Streben nach aussen ist, in ihm überhaupt mehr nur dies blosse und leere Streben ins Auge fällt, da man in dem andern die Gedanken und Empfindungen sieht, in welche das, was ihm noch fehlt, unauflösbar verwebt ist.</p>
+
+               <p>In dem eigentlich leidenschaftlichen Menschen geht die Leiden- schaft mehr bloss von ihrer Bewegung aus, in dem andern hat der Stoff, ihr Gegenstand, mehr Gewicht, und lindert das Verzehrende ihres Feuers. Jener stellt sich den Gegenstand selbst mehr isolirt, und ausser sich dar; dieser fühlt mehr in sich selbst einen disharm^onischen Zustand, der Auflösung und Befriedigung sucht. Beide sind vorzüglich in der Art verschieden, in der die Seele sich gleichsam das Bild vorstellt, das sie beschäftigt. Der eine wirft es aus sich heraus ; der andre reflectirt es in sich zurück.</p>
+
+               <p>Daher erscheint jener heftiger und gewaltsamer, als dieser.</p>
+
+               <p>Dieser wohl fragmentarische Versuch einer eingehenden psychologischen Besprechung des französischen Nationalcharakters gehört in den Studien- und Ideenkreis, den ich Band 2, 406 besprochen habe und aus dem im Sommer lygg auch die Sendschreiben an Goethe über das Museum der kleinen Augustiner und über die französische tragische Bühne erwuchsen. Auch seine Abfassung dürfte in die eben angegebene Zeit fallen.</p>
+
+               <p>Zu dem physiognomischen Aufsatz über das Museum der kleinen Augustiner (Band 2, j4s- 4^6) sind ein paar Blätter mit Materialien erhalten, die als die neueren Jahrhunderte und das Zeitalter der Bourbonen betreffend in jener init Heinrich IV. schließenden Übersicht über die französischen Könige noch nicht verwertet sind und wohl für eine nicht zustande gekommene Fortsetzung bestimmt waren. Sie führen den Titel: „Physiognomische Studien nach Abbildungen und Kunstwerken imd allgemeine Betrachtungen. Paris, im Jidiiis 179g-" Es sind kurze physiognomische Beschreibimgen von Köpfen, meist nach Porträts des pariser Kupfer stichkabinets. Ich hebe die Bemerkungen über die französischen Könige hier aus.</p>
+
+               <p>Ludwig IX: „Sur sa figure an or du tresor de la sainte chapelle : Sehr charakteristisch. Langes, breites Gesicht, gerade Nase, gutmütig, schwach, ein mönchisches Ansehen. Sehr charakteristisch im ganzen. Du cabinet du roi: Am meisten wie die Statue in den petits augustins, doch mehr schwach als gut." — Karl VII: „Eine ähnliche, nur bei weitem nicht so starke imd häßliche Nase, ein langes und spitziges Gesicht, ein Ausdruck der Schwäche." — Ludwig XL- „Kürzeres Gesicht, große, tiefe, scharfblickende Augen, vorstehende dicke Nase, nur kürzer und nicht so herunterhängend, auch mit kleinerem Höcker als im Großvater, aber ebenfalls ein so aufgeworfener Mund. Dicke Backenzüge. Nach einem Bilde</p>
+
+               <pb n="7.591" xml:id="pbVII591"/>
+               <p>591 tn Fontainebleau." — Karl VIII: „Hübsches Gesicht, kurz und ziemlich starke kurze Stirn, kurze gebogene Nase, kräftig um Mund und Kinn." — Franz Ilr „Ein kurzes, kleines, angenehm volles Gesicht. Die Nase gerade an die Stirn angesetzt, der Mund klein, alle Züge regelmäßig und schön und ein vollkommenes Frauensgesicht." — Karl IX: „Dieselbe Gesichtsform, kurz und klein. Eine ziemlich hohe Stirn, lebhafte Augen, eine kurze und gerade Nase, ein mäßig spitziges Kinn. Der Ausdruck wohl lebhaft und verständig, aber das Ganze unbedeutend. Talma ähnlich." — Heinrich III: „Im ganzen wohl dieselbe Gesichtsform als die Brüder. Aber eine höhere Stirn, ein spitzigeres Kinn und darin und in der Nase einige Ähnlichkeit mit seinem Vater Heinrich IL Der Mund ziemlich stark aufgeworfen und darin etwas Südliches." — Maria Medicis, Hein- richs IV. Gemahlin: „Volles Gesicht, Augen ä fleur, eine ziemlich kurze, gerade, auch von der Stirn gerad abgehende Nase. Der Ausdruck und die Form ziemlich unbedeutend und gemein. Doch ist sie auf einigen Kupfern mit einer edeln, mehr gebogenen Nase. Rubens hat sie nach Art seiner Frauen gemacht und die Nase an der Stirn mehr eingebogen." — Ludwig XIV: „Die göttlichsten Kupferstiche von Nanteuil, Masson, van Schuppen, nach Lebi-un usf. Fast alle dasselbe Gesicht. Nur in der früheren Jugena weniger gebogene Nase und ßachere Züge,. in dem mittleren Alter voller, zuletzt schwach und weibisch. Die Kupfer nach Lebrun haben eine eigene Furcht, die von Nanteuil mehr Fröhlichkeit. Auf einer Tafel ist er in mehreren Medaillen nach verschiedenen Altern dargestellt. Die gebogene Nase fängt erst mit dem 22. Jahre, recht merklich sogar erst mit dem 28. an. — Er war ein einziger Mensch, nicht durch sich, aber durch Umstände. Keiner hat so das Königsein in aller Pracht, allem Glück, unter einer gebildeten Natur und ausgebildeten Kunst genossen." — Ludwig XVI: „Breites, stark gewölbtes Gesicht; hohe Stirn; kurze, dicke Vogelnase; dicke Backen; unverhältnismäßig lang vom Munde zum Kinn; dickes Kinn. Ausdruck: leer, glatt, vornehm, gut, schwach, selbstgefällig." — „In allen Bourbonen ein nicht abzuleug- nendes Familiengesicht. Ziemlich schmale Gesichter, mehr oder minder gewölbt; hohe Stirnen; tiefliegende große Augen; spitzige Kinne. Nur geht dieselbe Physiognomie manchmal mehr ins Breite und wird wie Heinrichs IL Gesicht und in neuereyi Zeiten wird sie minder spitz, aber schöner gewölbt von Ludwig XIV. an, von da weiter glatter, minder kraftvoll und bedeutend."</p>
+
+               <p>Interessant sind noch folgende allgemeine Beobachtungen : „Ich habe in dem Kupferstichkabinet unter den Kriegern die Physiognomien nach den Zeitaltern verglichen und im ganzen große Nuancen unter den verschiedenen Jahrhunderten angetroffen. Zuerst die des 14. und i^- Meist eingebogene oder gerade, viereckte Physiognomien, gewöhnlich stark in den Backenknochen, so daß dieser Teil des Gesichts der herrschende ist. Der Ausdruck gewöhnlich, ohne Geist, höchstens mit Mut, Festigkeit und Gutmütigkeit .... Ferner das 16. Jahrhundert. Ob es gleich Ausnahmen gibt, so ist nicht zu leugnen, daß die Gesichter länger^ schmaler, spitziger werden, daß der Hauptsitz der Physiognomie von den Backen- knochen wegweicht, die Stirn bedeutend wird und die Nasen meist gebogen sind, auch die Au^^en an Feuer ffewinnen. Es sind in diesen diesem Jahrhimdert eigenen Physiognomieen teils spitzigere wie Heinrich IV., teils breitere wie Franz I. und Heinrich IL Vorzüglich ist in diesen Gesichtern mehr Verstandesausdruck y selbst in den kleinen, fast eingebogenen wie Karl IX. eine muntere Feinheit ....<pb n="7.592" xml:id="pbVII592"/> 592 Im ij. Jahrhundert habe ich hier einige neue Entdeckungen gemacht, i) sind Gesichter, die noch lang, schmal und mitunter spitzig sind, aber durch eine weniger ausgezeichnete Stirn und schlaffere Backen yveniger geistreichen und starken Ausdruck haben. Sie gleichen mehr oder weniger Ludwig XIII. und erklären sein Gesicht. 2) sind kleine mit sehr mäßig gehaltenen Zügen, voll Verstand, Geist und Feinheit, j) endlich die königsmäßig hohen imd würdigen wie Ludwig XIV. und seine Familie."</p>
+
+               <p>Für das Museum der kleinen Augustiner selbst ist außer auf Solger imd Matthisson auch auf Kotzebues Bericht (Ausgewählte prosaische Schrißen 40, i4") hinzuweisen.</p>
+
+               <p>Was die Cantabrica (Band j, 114. jjij angeht, so bleibt mir in bezug auf ihre Abfassungszeit ein Irrtum zu verbessern, der sich aus dem damaligen Mangel ■an positiven Zeugnissen begreift, sich aber nun aus dem Briefwechsel Humboldts mit seiner Frau hat erkennen lassen (vgl. Euphorion 14, 6^5). Die längere Betrachtung Über die Erhabenheit der Eindrücke von Meer und Gebirge in ihrem gegensätzlichen Charakter, die die erste jener Skizzen beschließt (Band j, 116J, stimmt nahezu wörtlich zu einer Stelle in einem Briefe Humboldts an seine Frau von der zweiten spanischen Reise, der am jo. April 1801 geschrieben ist (Wilhelm imd Karoline von Humboldt 2, 86). Die Stelle in der Skizze muß notwendig eine Überarbeitung der Briefstelle sein: es kann also die Abfassung der Cantabrica erst in den letzten pariser Sommer von 1801 fallen. Obwohl diese Skizzen also sich inhaltlich auf den Verlauf der ersten spanischen Reise beziehen, worin ich schon damals Schlesier und Farinelli beigestimynt habe, sind sie doch erst nach der zweiten Reise ins Baskenland, deren Verlauf wir überhaupt erst jetzt aus den Briefen an Karoline deutlich übersehen können (Euphorion 14, 6^4), entstanden und verwerten teilweise auch Eindrücke und Stimmungen von dieser. Band ß, 128 in der dritten Skizze der Cantabrica ist ein Zitat wierledigt geblieben. R. A. Fritzsche in Gießen teilt mir freundlichst mit, daß Humboldt bei der „unseligen Arbeit" wohl Vergils Worte „Labor omnia vicit improbus" (Georgica i, 145; zu dem von Macj'obius zuerst gebrauchten Präsens vgl. Büch- ynann, Geflügelte Worte ^^ S. 4sg) vorgeschwebt haben dürften, da auch an einer andern Stelle (Band j, 112) eine Schilderung aus den Georgica im Hintergrund stehe. Daß beide Beobachtungen das Richtige treffen, bedarf keines Beweises.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Kleinigkeiten</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Achter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif08humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1909">1909</date>
+                  </imprint>
+                  <biblScope unit="page" from="270" to="272"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="8.270" xml:id="pbVIII270"/>
+            <p>g. Kleinigkeiten. a. Rom von Hildebert, Erzbischof von Tours, iioö.^) Da die Gebilde mir noch, und die Götter des Wahnes gefielen,</p>
+
+            <p>War ich in Volksschaar gross, Waffen und hohem Gebäu. Doch da, die Götzen ich, und des Aberglaubens Altäre</p>
+
+            <p>Nieder stürzend zum Grund, diente dem einzigen Gott, Sanken in Trümmer die Mauern, der Götter Palläste verschwanden,</p>
+
+            <p>Knechtisch diente das Volk; feige der Ritter Geschlecht. Kaum wer ich war, noch weiss ich, erinnre mich, Roma, noch Roms kaum;</p>
+
+            <p>Denn es tilgte der Sturz jeglich Gedenken in mir. b. Delphisches Orakel, als die Athener sich über zu grosse Hitze beklagten.-)</p>
+
+            <p>Zwanzig Tag' eh Sirius glüht und zwanzig nachher brauch' Sitzend im schattigen Haus nur Dionysos zum Arzt.</p>
+
+            <p>a. Handschrift (i Quartseite) im Besitz des Herrn Friedrich Broicher in London; sie wurde mir durch Albrecht Wagner zugänglich.</p>
+
+            <p>V Das etwas längere Originalgedicht Hildeberts „De Roma" findet sich in Mignes Patrologia latina /y/, 140g.</p>
+
+            <p>b. Handschrift (i Oktavseite) in Partheys Nachlaß in der Königlichen Bibliothek in Berlin.</p>
+
+            <p>2j Das Original weist mir Rudolf Hirzel bei Athenaeus i, 41 nach.</p>
+
+            <pb n="8.271" xml:id="pbVIII271"/>
+            <p>Die kleineren Stücke aus der griechischen und römischen Dichtung, die Humboldt übersetzt hat, entstammen verschiedenen Epochen seines Lebens und zeigen, wie der Trieb, die Antike dichtei'isch nachzuschaffen , seine nie lange imterbrochenen Altertumsstudien dauernd begleitet hat. Aber auch in diesen Teil seiner Schriftstellerei hinein verfolgte ihn das Mißgeschick seiner gesamten produktiven Arbeit, immer anzufangen und selten zu vollenden. Die Bruchstücke aus den griechischen Lyrikern (i), denen Bruncks Texte zugrunde liegen, gehören, wie die Handschrift ausweist, in die erfurter Maitage von 7792, die auch den ersten Versuch einer Verdeutschung einer pindari- schen Ode (oben S. loj) entstehen sahen; die produktive Stimmung des kleinen Freundeskreises konnte sich damals nicht genugtun und suchte Lösung nach allen möglichen Seiten (Humboldt an Schiller, 8. Mai /792J. Humboldt beschreitet hier die Wege Herders, der zuerst in den beiden ersten Sammlungen seiner Zerstreuten Blätter die schönsten Gedichte aus der griechischen Anthologie in strengerer metrischer Übersetzimg vorgelegt hatte; kurz darauf war auch Voß mit einigen in seinem Musenalmanach erschienenen Stücken gefolgt.</p>
+
+            <p>In die Zeit des ältesten Aeschylusstudiums (vgl. oben S. 22j), in den November 7792 gehört der Chor aus den Eumeniden (2), der bald darauf Biester zum Abdruck in der Berliner Monatsschrift überlassen wurde (Humboldt an Brinkmann, jo. November 7792; an Wolf, i. Dezember 1792 und Ende Sep- tem.ber ijg^J. Vor dem Druck lag er Wolf und Heyne zur Beurteilung vor, zugleich als Probe der Ausführung eines umfassendei-en Gedankens, alle Chöre der griechischen Bühne zu sammeln und zu übersetzen, der aber über diesen einen Ansatz nicht hinausgekommen ist (Humboldt an Wolf, September 1792 imd 6. Februar ijg^; an Heyne, 8. Juli ijgj). Es sei daran erinnert, daß Wendungen der Humboldtschen Übersetzung in Schillers Kranichen des Ibykiis wörtlich nachklingen. — Der Anfang der Choep hören (^) ist Jedenfalls der Orthographie der Handschrift wegen nicht älter als der Herbst ijgj (vgl. Band i, 4^4) und gehört also entweder in den burgörnerschen Winter i'jgjlg4 oder in die Zeit des ersten jenaischen Aufenthalts ; das erste ist mir wahrscheinlicher, da in Jena die philosophische Arbeit mehr in den Vordergrund tritt. Im Jahre 1816 nach der Vollendung des Agamemnon taucht dann der Plan einer Übersetzung des Dramas noch einmal flüchtig auf (Humboldt an Wolf, 7. Februar j8i6).</p>
+
+            <p>Die Übersetzung des Simonides (4) ist in Dresden im Herbst i-jg^ entstanden und im Winter von Bur görner aus an Wolf geschickt worden (Humboldt an Wolf, Ende September und 5. Dezember i'jgßl Den ersten Druck in der Flora, der auch Rosenbaum (Goedekes Grundi-iß ^ 7, ^g8) entgangen ist, habe ich zufällig entdeckt. Schiller, von Cotta häufig um Beiträge für die in seinem Verlage erscheinende Flora angegangen, wird das Gedicht bei Humboldt in Jena gesehen und sich zur Druckvermittlung ausgebeten haben ; wunderbar ist nur, daß er die Verse nicht lieber in seinem eisrenen Musenalmanach unter^rebracht hat.</p>
+
+            <pb n="8.272" xml:id="pbVIII272"/>
+            <p>Die Handschrifi der Lys ist rata (^) trägt das Datum des 22. Juli i-jg^. Humboldt gedenkt in Briefen der nächsten Wochen der seiner Ansicht nach nicht unglücklichen Übersetzung, der ersten Frucht eingehender Ai-istophanes Studien : das Ding habe viel echten Witz imd gehöre freilich eher in die Hosen als in die Hören, sei aber auch nur zur eigenen und einiger nicht Griechisch verstehender Freunde Erlustigung gemacht (an Schiller, 4. August i'jQSJ ^« Wolf, i. Sep- tember lygsJ- Solchen Freunden hat er die Szenen pour la bonne bouche gern mitcreteilt: so fand sie Schiller, dem sie Humboldt i-jgj beim Abschied zurückliess, allerliebst und köstlich (Briefe ^, 16S); auch Schlabrendorf hat sie zeitweilig besessen (Karoline von Humboldt an Schlabrendorf, 28. Februar iSo^)- — In dieselbe Zeit der Vertiefung in die aristophanische Komödie darf man wohl das Fragment aus den Ekklesiazusen (6) setzen, das uns Brinkmanns Nachlaß erhalten hat.</p>
+
+            <p>Leider nicht genauer bestimmbar ist die Abfassungszeit der Fragmente aus Aratos (jj imd Lukrez (8): der Handschrift nach gehören beide aufs engste zusammen ; die Papiergattung weist auf die frankfurter oder londoner Zeit, also die Jahre 1816 — ig, woneben allerdings auch der erste Anfang der zwanziger Jahre nicht ausgeschlossen ist. Für Aratos könnte Matthiaes i8ij erschienene Ausgabe des Dichters den Anstoß zu dem Übersetzungsplan gegeben haben, der schon so früh aufgegeben wurde. Während das Interesse für den Sänger des Sternenhimmels sich aus Humboldts bekannten Neigungen genügend erklärt, karm man nicht ahnen, was ihn antrieb, Knebels Bemühungen um die Verdeutschung des Lukrez Konkurrenz zu maclien.</p>
+
+            <p>Von den Kleinigkeiten (g) gehören Hildeberts Distichen sicher in die römische Zeit, die Verse aus Athenaeus in die zwanziger Jalire.</p>
+
+            <p>Ich gedenke nocli zweier nicht ausgeführter Übersetzungspläne, die beide in den aulebener Winter i'jg2lgj^ fallen. Piatons Menexenos, der sehr glückliche Stellen eines feinen und wahrhaft attischen Witzes enthalte, sollte trotz der Schwierigkeiten, die die halb ernste lialb ironische Figur des Sokrates darbot, verdeutscht imd mit einer Einleitung über die Frage, was Übersetzen sei, versehen werden (Humboldt an Wolf, 2^. Januar imd 5/. März i"gg)- Nebenher ging der Plan, den Tiiukydides klassisch zu übertragen: ohne die Schwierigkeiten zu übersehen, die besonders bei den Reden sich ergeben würden, plante Humboldt sogar schon eine öffentliche Ankündigimg seiner Absicht und wollte Proben aus den rednerischen Stücken seinem damals vorbereiteten Journal Hellas einverleiben (an Brinkmann, 2j. Oktober und ßO. November 1792 und 8. Februar i~gj; an Wolf, 29. Januar, ji. März imd 22. Mai i'jgjj.</p>
+
+            <p>Die Übersetzung ausgewählter Stücke aus Xenophons Memorabilien und Piatons Gesetzen ist bereits Band i, i gedruckt. Ein paar Verse aus Hesiods Werken imd Tagen in eitlem Briefe vom 5. Juli ijg^ mochte ich nicht aus dem Zusammenhang lösen. Was Humboldt endlich im Frühjahr i-j88 in Göttingen für Henriette Herz übersetzt hat (an Henriette Herz, 25. Mai ijSS), ist nicht genauer zu bestimmen und war vielleicht überhaupt nicht dem Kreise der antiken Literatur entnommen.</p>
+
+            <p>Jena, 24. Juni igog. Albert Leitzmann</p>
+
+            <p>Lippeit iN: Co. (G. Pätz'sche ßuchdr.), Naumburg a. S.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

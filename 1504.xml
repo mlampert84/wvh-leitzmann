@@ -1,0 +1,204 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bruchstück einer Selbstbiographie</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Fünfzehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif15humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1918">1918</date>
+                  </imprint>
+                  <biblScope unit="page" from="459" to="466"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1816">1816</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="15.459" xml:id="pbXV459"/>
+            <p>und Leichtigkeit, die verschiedenen Beziehungen der Dinge und Ideen auf einander zu fassen, es mögen ausgelassene Mittelbegriffe, oder auch sehr unmittelbare Folgerungen seyn. Hei Ge- schäften verbessre ich diesen Fehler nur durch Fleiss, Nachforschen und Berathschlagung mit andren, und darin ist mir die grosseste Aufmerksamkeit zur andern Natur geworden. Ich habe gleich wenig den Geist des Rathens, Verbindens, Vermuthens, habe nie ein einziges Kartenspiel nur leidlich gelernt, und nie in der Philologie zur Kritik getaugt. ^) Dieser Mangel schadet mir beim Gesandtenleben erstaunlich, er lässt sich durch nichts ersetzen, nur mehr, oder minder verstecken. Ich bin gar nicht erfinderisch, es stellt sich mir Alles mehr, als Ordnung, denn als Mannigfaltig- keit dar; daher habe ich selbst im Schreiben und Reden eine gewisse Einförmigkeit, die mir sogar oft dieselben Worte wiederbringt: eine gewisse Fülle der Gedanken reiht sich höchstens schlagweise auf witzige Art in mir an einander, aber Üiesst nicht mit^) Leichtigkeit aus einander her. Ich habe viel zu selten die eigentliche Sicherheit der Wahrheit, und schwanke sehr leicht zwischen zwei Reihen von Ideen, so dass ich immer die andre für vorzüglicher halte, wenn ich im Begriff bin, die eine anzunehmen. Ich habe nie von mir selbst die Ueberzeugung gehabt, und habe sie auch an andren über mich nicht bemerkt, dass ich die wahre Fähigkeit hätte in die eigentliche synthetische Metaphysik einzugehen. Ich bin entschieden nicht zum Dichter ge- bohren, und meine Einbildungskraft wird bald von der Trockenheit des Verstandes, bald von dem Stoff der Empfindung überwältigt. Ich habe auch in meiner Kindheit, und bis ich bei Engel ein philosophisches Collegium hörte, ^) und selbst da noch im Anfang für einen langsamen, wenig von der Natur begünstigten Kopf ge- golten, vorzüglich verglichen mit meinem Bruder Alexander. Ich habe noch manchmal, nur dass es glücklicherweise nicht bemerkt, oder der Zerstreuung, oder andren Ursachen zugeschrieben wird. in Gesellschaft und in Geschäften einfältige, alberne, gehaltleere Momente, und zwar solche, die für diese Art von Momenten bei weitem zu lang sind. Ich kann indess nicht sagen, dass meine Geisteskraft mit dem Zunehmen der Jahre gesunken wäre; sie ist viel mehr gewachsen, und gestiegen. Aber wahr bleibt es ge<pb n="15.460" xml:id="pbXV460"/> wiss, dass sowohP) ehemals, als '^j jetzt, mein Kopf ursprünglich langsam, dürftig an Mannigfaltigkeit, und zu wenig lebendig ist. Dazu kommt nun, dass ich ihm wenig Stoft von aussen mittheile. Denn ich habe unglaublich wenig gelesen, und finde noch keine Freude daran, weiss sehr wenig Dinge, viel weniger, als die Welt meynt, mit Gewissheit, und habe sehr viel Zeit mit zu sehr mechanischem, dem Kopf wenig fruchtbarem Studium zugebracht. Soweit die Anklagen und die Mängel.<note type="footnote" n="*)" resp="gnd-116890657"><hi>„getaugt" verbessert aus „gedient". ^) Nach „mit" gestrichen: „Fülle und". =•) Vgl. Band j, 465.</hi></note></p>
+
+            <p>Dieser Anfang einer Selbstbiographie, über deren Verhältnis zu der oben S. 4^0 besprochenen man keine Vermutungen haben kann, ist bald liegen geblieben und nicht wieder aufgenommen worden. Noch im August jSij hatte Humboldt die ernstliche Absicht, sein Leben, nicht gerade das äussere, handelnde, wozu es ihm an Materialsammlungen fehle, aber das innere, eine Darstellung der Menschen, der Zeit und der Welt, wie er sie aufgefasst habe, zu schreiben; doch verlange das Stimmung, Ruhe und Müsse und man müsse oft lange über der Vergangenheit brüten, ehe im Gedächtnis nach und nach die Erscheinungen hervorkämen und sich zum Ganzen gestalteten (Wilhelm und Karoline von Humboldt 5, 386). Aber auch in der langen tegeler Mussezeit seit 1820 hat der massgebende Antrieb zur Ausführung des Planes sich nicht eingestellt.</p>
+
+            <p>') „sowohl" verbessert aus „weder".</p>
+
+            <p>'^) „als" verbessert aus „noch".</p>
+
+            <pb n="15.461" xml:id="pbXV461"/>
+            <p>5-</p>
+
+            <head>
+               <title type="main">Londoner</title>
+            </head>
+            <div type="section" n="1">
+               <head>
+                  <title type="main">Tagebuch.</title>
+               </head>
+               <p>December 1817.<note type="footnote" n="^)" resp="gnd-116890657"><hi>Humboldts Ankunft in London erfolgte am 5. Oktober i8i'j: vgl. Wilhelm und Karoline von Humboldt 6, i. Aus den ersten beiden Monaten Oktober und November sind keine Aujzeichnungen erhalten und wohl auch nicht vorhanden gewesen, da die regelmässigen Notizen erst mit dem 10. Dezember einsetzen.</hi></note></p>
+
+               <p>3 (Mittwoch). Mittag: Herzogin von Cumberland. ^) 4 (Donnerstag). Conferenz bei Lord Castlereagh ^) um 2. Uhr in Downing sireei.</p>
+
+               <p>5 (Freitag). \ 5. Conferenz bei Gastlereagh.</p>
+
+               <p>Handschrift (go Quartseiten, ohne Titel) im Archiv in Tegel. Jeder Monat des Tagebuchs ist für sich geheftet und umfasst 8 Seiten, von denen wieder jede in vier (im Februar drei) gleiche Teile geteilt und mit im voraus eingetragenen Datenvermerken von Schreiberhand versehen ist, so dass das letzte Heft, das grösstenteils leer ist, noch bis zum ßo. November 18 iS reicht. Einladungen, Konferenzen, sonstige Verabredungen usn: sind gewöhnlich voraus notiert und der eigentliche Tagesvermerk folgt dann erst : beide Gruppen von Einträgen sind wie im Original immer durch einen Absatz getrennt. i'jo. i'jß. 2^1. Doch hatten seine Bemühungen keitien Erfolg und das herzogliche Paar siedelte im Somiiier 1818 nach Berlin über.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Henry Robert Stewart Castlereagh, Marquis von Londonderry (i']6g — 182<note>Friederike Prinzessin von Mecklenburg-Strelitz (ij-]8—i84i&gt;, seit 1815 Gemahlin des Prinzen Ernst August, Herzogs von Cumberland, des späteren Königs von Hamiover, Schwester der Königin Luise von Preussen. Die Heirat war vom englischen Hofe, besonders von der Königin Sophie Charlotte nicht gern gesehen und Friedrich Wilhelm IIL sah es als Humboldts wichtigste Aufgabe in London an, diese Missstimmurigen zu zerstreuen und bessere Beziehungen für das jungvermählte Paar anzubahnen: vgl. ebenda 5, 540. ^48. 6, 10. 15. 72. 79. 116.</note>, seit 1812 Minister des Auswärtigen. Die Konferenz betraf die gegen die Übergriffe der Barbaresken zu ergreifenden Massregeln : vgl. Gebhardt, Wilhelm von Humboldt als Staatsmann 2, 292.</hi></note></p>
+
+               <pb n="15.462" xml:id="pbXV462"/>
+               <p>V22. <note type="footnote" n="^)" resp="gnd-116890657"><hi>».7*2." verbessert ans „Vs^-"</hi></note> Ca rUon/io2is(^ Audienz beim Prinz Regenten.') Abend bei Lady Davy ") and Mstr. Spencer <note type="footnote" n="*)" resp="gnd-116890657"><hi>Georg IV. (ifj2—i8ßo), seit 1820 Köni^ von England, führte seit 1811 die Regentschaft für seinen unheilbar erkrankten Vater Georg III. Es handelt</hi></note> gebeten. G (Sonnabend). Nach Oatlands <note type="footnote" n="^)" resp="gnd-116890657"><hi>Die Frau des bekannten Chemikers Humphrey Davy ; Karoline von Hum-</hi></note> eingeladen.</p>
+
+               <p>7 (Sonntag). In Oatlands zu seyn. 8 (Montag). Nach London zurückzukommen.</p>
+
+               <p>10 (Mittwoch). Aufgestanden 8. Uhr — Sprachmeister<note type="footnote" n="*)" resp="gnd-116890657"><hi>William Robert Spencer (i-j6()—i8j4), Dichter: vgl. ebenda 6, j4. *) Zur Herzogin von York (vgl. unten S. 464 Anm. 2): vgl. ebenda 6, 332. •) Vgl. ebenda 6, 78. 88.</hi></note> — bei der Dent — (Konferenz über die Barbaresken — bei der Berg ") — zu Hause mit Lusi •*) gegessen — vergeblicher Besuch bei Münster ") — an (^astlereagh das neue Memoire über die Reclama- tionen von Berlin geschickt.</p>
+
+               <p>11 (Donnerstag), bestimmt Conferenz \m. forcign officc um V2 5- Uhr. '»)</p>
+
+               <p>Aufgestanden 8. Uhr. — i3esuch bei Young^') und Leake. ^^) — E^sterhazy '^) und Lieven^*) kamen, sich mit mir über die Barbaresken zu besprechen. — (Konferenz. — De Sanctis ^^) ass hier — (Konferenz mit Castlereagh über die Reclamationen, und die Herzogin Cumberlan'd. Bett V* 3« sich um Humboldts offizielle Antrittsaudienz, bei der er sein Beglaubigungsschreiben überreichte.</p>
+
+               <p>boldt hatte sie in Coppet bei Erau von Stael kennen gelernt: vgl. Wilhelm und Karoline von Humboldt 4, .97^. ij8^. 6, 60.</p>
+
+               <p>') Karoline Friederike von Berg, geborene von Haeseler fi~6o—r826j, Hof' dame der Königin Luise, dann der Herzogin von Cumberland.</p>
+
+               <p>") Friedrich Wilhelm Graf Lusi (tjg2—i84j), Legationssekretdr bei Hum- boldt.</p>
+
+               <p>•) Ernst Friedrich Herbert Graf zu Münster (i-]66—i8^()), Kabinettsminister des Königs.</p>
+
+               <p>'") Vgl. Band 12, 202. 20Ü und Gebhardt, ]\'Uhelm von Humboldt als StaaU- mann 2, 2f)j.</p>
+
+               <p>'•) Thomas Young (iyjjf—i82g\ Arzt und Professor der S'aturwissen- Schäften, auch Hieroglypheyifor scher.</p>
+
+               <p>'*) William Martin Leake (iyyy—1860), Forschungsreisender und S'umis- matiker.</p>
+
+               <p>'') Fürst Paul Antvn Ester hazy ( 1-86—1866), österreichischer Gesandter.</p>
+
+               <p>'*) (Ihristoph Andrcjewitsch Fürst von Lieven iyj4—i8j()\ russischer Ge- sandter.</p>
+
+               <p>"*) Humboldts Arzt: vgl. Wilhelm und Karotinc von Humboldt 6, 226.<pb n="15.463" xml:id="pbXV463"/> 12 (Freitag). Aufgestanden 8. Uhr. — Ganzen Vormittag allein zu Hause. Bericht über die Reclamationen — Mittag bei Esterhazy mit Münster u. s. w. — Abends bei der Lieven. ^) Gespräch mit der Berg über die (Jumberland. 13 (Sonnabend). Mittag ()V2 bei Bourke. '^) Aufgestanden 8. Uhr. — meiner Frau geschrieben. "') — Sprachstunde. — bei der Dent. — Langes Gespräch mit der Berg. — Abend mit der Lieven im Schauspiel. 14 (Sonntag). Um 12. Uhr zu Young. — Mittag bei Hamilton. <note type="footnote" n="*)" resp="gnd-116890657"><hi>Johanna Ilgen, die Frau des Rektors der Landesschule Pforta: vgl. Band 14, 253 Anm. 5.</hi></note> Aufgestanden 8. Uhr. — Vergeblich bei der Dent und zu zwei andren Mädchen. — Besuch mit der Berg bei Young, seine Ideen über die Hieroglyphen zu hören. — Besuch bei der Lieven. — Abmachung meiner Novemberrechnungen. — Brief über die glückliche Niederkunft der Ilgen. ^) — Mittagessen bei Hamilton, Acourt, Leake. — Dort in den Finger geschnitten. 15 (Montag). Bis i. Uhr Rothschild^) zu erwarten bei mir. Aufgestanden 8. Uhr — Besuch von Bourke — von Rothschild über die Preussische Anleihe ') — bei Lady Burghersh <note type="footnote" n="*)" resp="gnd-116890657"><hi>Lord Burghersh war englischer Gesandter in Florenz : vgl. ebenda 6, 8.</hi></note> — bei dem Buchhändler Murray, ^} wo ich die neue Ausgabe Johnsons ^") kaufte — bei der Dent — Mittag bei dem Herzog von Cumberland — Gespräch über seine und ihre Angelegenheit nach Tische — Besuch bei Bourke. 16 (Dienstag). Aufgestanden 8. Uhr. — Bis 6. Uhr am Me-- moire über die Barbaresken gearbeitet und bloss bei Lieven ge'j Dorothea Fürstin von Lieven, geborene von Benkendorf (i']S4 — iS^j). '^] Edmund Graf von Bourke (1J61—1821J, dänischer Gesandter. ^) Vgl. Wilhelm und Karoline von Humboldt 6, -ji. <note type="footnote" n="*)" resp="gnd-116890657"><hi>John Murray (17-18—1843}, Verlagsbuchhändler, der Verleger Lord Byrons, Scotts, Irvings.</hi></note> William Richard Hamilton (iTJl—iSsg), Unterstaatssekretär: vgl. ebenda 5, 78. 6, gi. 144^j Nathan Rothschild (1JJ7 — 1S36), Bankier. ') Preussen nahm im Herbst 1818 eine Anleihe im Betrage von 5 Millionen Pfund in London auf; Humboldt führte zusammen mit Rothschild die vorbe- reitenden Verhandlungen: vgl. Wilhelm und Karoline von Humboldt 6, 165. 186. igg. '") Gesamtausgaben der Werke Johnsons waren London 17S7 und i7g6 erschienen ; als nächste ßnde ich erst die oxforder von 1825 erwähnt.<pb n="15.464" xml:id="pbXV464"/> wesen, und Esterhazy und Neumann angenommen. — Giese') zum Mittag bei mir gehabt. — Abend die Dent nicht gefunden, mit Nina zur Miles gegangen.</p>
+
+               <p>17 (Mittwoch). 3. Uhr Conferenz mit Castlereagh \m foreign office.</p>
+
+               <p>Aufgestanden 8. Uhr. — Sprachmeister. — Besuch bei Lieven, Esterhazy, Acourt, der Herzogin von York, '■') letztere beide vergeblich — Conferenz bei (Castlereagh über die Barbaresken, Verlesen seines und meines Memoires — V^ergeblicher Besuch bei der Berg — Essen zu Hause mit Bülovv') — Besuch bei Osmond, <note type="footnote" n="*)" resp="gnd-116890657"><hi>Rene Eustache Marquis d'Osmond (ijs^ — 'AjAV, französischer Gesandter. 'j Vgl. Wilhelm und Karoline von Humboldt 6, 76.</hi></note> seine Tochter, Sohn, Schwiegertochter, d'Etillieres.</p>
+
+               <p>18 (Donnerstag). Mittag bei dem Herzog von Cumberland.</p>
+
+               <p>12. Uhr bei Castlereagh St. James' s Square. Aufgestanden 8. Uhr. — Brief an meine Frau. ^) — Sprachstunde. — Zusammenkunft mit Castlereagh über die Herzogin von Cumberland, und die Reclamationen. — Bei der Dent. — Mittag bei dem Herzog von (Cumberland.</p>
+
+               <p>19 (Freitag). 4. Uhr (Conferenz bei Castlereagh im foreigu Office. — Mittag bei Graf Lieven. ")</p>
+
+               <p>Aufgestanden 8. Uhr. — Bericht über die Reclamationen gemacht. — (Conferenz mit (Castlereagh über den Sklavenhandel. — Dann Unterredung mit ihm über Rose's ') Brief wegen des Herzogs von Cumberland. — Mittag bei Lieven. Herr von Stiernild aus Schweden zum Condoliren **) geschickt. Herzog Devonshire. •) — Besuch bei der Berg und Herzogin von Cumberland.</p>
+
+               <p>20 (Sonnabend). Aufgestanden 8. Uhr. Den ganzen \'or- mittag, ausser der Sprachstunde, in Geschäften gearbeitet. — Zu</p>
+
+               <p>') Andreas Kaspar Giese, preussischer Konsul.</p>
+
+               <p>') Friederike Herzogin «von York, geborene Prinzessin von Preussen (i'jdj — 1820), eine Schwester Friedrich Wilhelms III.</p>
+
+               <p>') Heinrich von liulow (fjg-J — i^'4(Ji, Legationssekretdr bei Humboldt, der Bräuliaam seiner Tochter Gabriele</p>
+
+               <p>") „Graf Lieven" verbessert aus „dem Herzog (lumberland".</p>
+
+               <p>'j George Henry Rose (il'ji — i&lt;^S^)&gt; englischer Gesandter in Berlin.</p>
+
+               <p>•) Am 5. November war Prinzessin Charlotte von Koburg-Gotha, das ein- iige Kind des Prinzregenten, im Alter von 2/ Jahren im Kindbett gestorben.</p>
+
+               <p>•j William George Cavendi.sh, Herzog von Devonshire (fjgo—ii!^Sj.<pb n="15.465" xml:id="pbXV465"/> Hause mit Bülow gegessen. — Zu Palmella <note type="footnote" n="^)" resp="gnd-116890657"><hi>Mathilde von Humboldt, geborene von Heineken (1800—8<note>Pedro de Sousa, Herzog von Palmella fij8i — 1850), portugiesischer Ge- sandter.</note>, die Braut von Humboldts Sohn Theodor, mit der er sich 1816 ohne Wissen der Eltern ver-</hi></note> gefahren, um ihm meine Briefe für Paris zu geben.</p>
+
+               <p>21 (Sonntag). Mittag beim Herzog von Cumberland. Aufgestanden 8. Uhr — Besuch bei Nosse, Marcet, Remilly, Campuzano — bei der Dent — Besuch von Young — Mittag bei dem Herzog von Cumberland — Abend Besuch bei der Marquise Lansdovi'n.</p>
+
+               <p>22 (Montag). Mittag V2 7- bei Bourke. Aufgestanden 8. Uhr — Besuch von Wagner, Münster — vergeblicher bei der Dent und White — Mittag bei Bourke, Bekanntschaft gemacht von Marquis Giuliano, Morgenstern der als Secretaire zur Dänischen Gesandtschaft in Madrid geht — Besuch bei Münster — Floret kam heute an — Brief von Mathilden zur Versöhnung mit Theodor. ^)</p>
+
+               <p>23 (Dienstag). Aufgestanden 8. Uhr — Besuch von Floret, Acourt, Co[l]quhoun — bei Castlereagh und der Berg — mit Bülow zu Hause gegessen — vergeblich bei der Dent — meine Frankfurter Sachen kommen an. ^)</p>
+
+               <p>24 (Mittwoch). Aufgestanden 8. Uhr. Besuch von de Sanctis *) — bei der Dent — Besuch bei der Berg — Bei mir zum Mittag : Splittgerber, Nosse, Boufcard, Schlichtegroll — Meiner Frau Bild ausgepackt. ^)</p>
+
+               <p>25 (Donnerstag). Aufgestanden 8. Uhr. Bei der Dent — Besuch bei Floret — vergeblicher bei Osmond, Lady Castlereagh und Lady Staiford — Besuch bei der Herzogin von Cumberland; Spatzierfarth mit ihr, wo sie mich zu Hause brachte — Essen zu Hause mit Bülow allein — vergeblicher Besuch bei der Gräfin Palmella — Besuch bei Bourke.</p>
+
+               <p>26 (Freitag). Mittag beim Herzog von Cumberland. Besuch von Herrn von Grawert — bei der Gräfin Lieven — bei der Dent — bei Fürst Esterhazy — Mittag beim Herzog von Cumberland.</p>
+
+               <p>lobt hatte (vgl. Wilhelm und Karoline von Humboldt 6, ibg Am?!.) ; die Ehe wurde nicht glücklich.</p>
+
+               <p>») Vgl. ebenda 6, 83. 88.</p>
+
+               <pb n="15.466" xml:id="pbXV466"/>
+               <p>27 (Sonnabend). Besuch bei Lieven — Lord Holland <note type="footnote" n="^)" resp="gnd-116890657"><hi>Vielleicht der Nationalökonom Patrick Colquhoun (1745 — 1820).</hi></note> — bei der Dent — mit Bülow zu Hause gegessen — Besuch bei Osmond — der Wein aus Frankfurt wurde ausgepackt.</p>
+
+               <p>28 (Sonntag). ^/^ 6 Mittag bei Colquhoun.-)</p>
+
+               <p>Abend q. bei der Marquise Lansdown.</p>
+
+               <p>Vergeblicher Besuch bei Lord Westraoreland <note type="footnote" n="^)" resp="gnd-116890657"><hi>John Fane Graf von Westmoreland (i-;^()~-i84iJ, Grosssiegelbewahrer. *) Josef Planta (1787—1847), Castlcreaghs Privatsekretär. ') Niederländischer Gesandter. "j John Scott Lord Fldon Ci75i—i8j8j, Lordkanzler.</hi></note> — Planta <note type="footnote" n="*)" resp="gnd-116890657"><hi>Vgl. Wilhelm tmd Karoline von Humboldt 6, 86. ') Richard Westmacott (17^5—1856), Bildhauer, von Canova becinßusst, Schöpfer zahlreicher Monumente in der Abtei vvti Wcsttninster und in London: vgl. ebenda 6, qi. 92.</hi></note> — Hamilton — der Berg — Fagel •^) — Lord Eldon ^) — vergeblich bei der Dent — Besuch bei der Berg — Mittag bei Colquhoun mit Ramadani, dem Türkischen Geschäftsträger. Solani einem in Eg)'pten Gehörnen, der mit Lord Exmouth vor Algier war ') — Ich sagte den Abend bei der Lansdown ab.</p>
+
+               <p>29 (Montag). Um 1 1. bei Schlichtegroll im Brittischen Museum. Von II. Uhr an im Brittischen Museum in der Bibliothek — Besuch bei der Berg, wo die Herzogin von Cumberland hinkam*) — zu Hause gegessen mit Bülow.</p>
+
+               <p>30 (Dienstag). Vergeblicher Besuch bei Castlereagh und Planta — Besuch bei Hamilton, der mir wichtige Papiere gab, und der Berg. — Mittag mit Bülow zu Hause — Besuch bei Münster.</p>
+
+               <p>31 (Mittwoch). Mittag beim Herzog von (Cumberland. Besuch von Bourcard — Besuch bei Hamilton — mit ihm bei dem Bildhauer Westmacott, *) und in dessen Giesswerkstatt — dem Bildhauer Chantrie ^") — und bei Dey in der Ausstellung in den Royal Meivs ^^) — Besuch bei Planta — \'ergebl icher bei Rothschild, wo ich die Frau sah — Mittag beim Herzog von</p>
+
+               <p>') Henry Richard Vassall Fox Lord Holland (ij-j^—i84o). Sein Haus war ein beliebter Sammelplatz der Gelehrten und Künstler.</p>
+
+               <p>') Edward Pcllew Viscount Exmouth (17^7— iSjj), Admiral, hatte im August 1816 eine Flottendemonstration vor Algier geleitet.</p>
+
+               <p>'**) Francis Chantrey (1781 — 184-2), Bildhauer, auch er Schopfer vieler lon- doner Denkmäler: vgl. ebenda.</p>
+
+               <p>") Hier befand sich unter andern ein Abguss des antiken Rossebändigers vom Quirinal in Rom, der in Erz als Monument für Wellington bestimmt war: vgl. ebenda 6, 65. gi. &gt;jj.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

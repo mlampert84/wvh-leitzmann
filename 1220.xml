@@ -1,0 +1,309 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Schön über Verwaltungsreformen</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zwölfter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif1202humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1904">1904</date>
+                  </imprint>
+                  <biblScope unit="page" from="492" to="514"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="12.492" xml:id="pbXII492"/>
+            <head>
+               <title type="main">LI. An Schön über Verwaltungsreformen.</title>
+            </head>
+            <p>I. Februar 1825. (Eigenhändiges Konzept in Tegel; gedruckt in „Weitere Beiträge und Nachträge zu den Papieren Schöns" S. iSjff.J</p>
+
+            <p>Nach dem Ausscheiden des Finanzministers Klewiz war auch Schön für die Besetzung des Postens in Frage gekommen. Er benützte die Gelegenheit, eine Änderung der gesamteyi Staatsverwaltung zu fordern: er wollte acht Provinzial- minister neben sechs Fachministern einsetzen. Gegen die Denkschrift, in der er seine Ideen dargelegt, und die er Humboldt übersandt hatte (gedruckt in „ Weitere Beiträge" usw. S. i'jöff.) wandte sich dieser in den folgenden Ausführungen.</p>
+
+            <p>Ich bin beschämt, Ew. Excellenz Aufsatz so lange behalten zu haben, und schicke ihn heute noch ohne meine Antwort zurück, um meine Schuld nicht grösser zu machen. Meine Antwort, die ausführlicher geworden ist, als ich es Anfangs dachte, wird eben abgeschrieben und ich bin so frei, Ihnen dieselbe in einigen Tagen zu schicken. Nehmen Sie indess meinen herzlichsten Dank für die freundschaftliche Mittheilung und die interessante Beschäftigung an, die sie mir verschaft hat. Humboldt.</p>
+
+            <p>Ew. Excellenz Aufsatz hat mich auf das lebhafteste interessirt. Er schlägt eine ganz neue, und soviel mir bekannt ist, noch nie versuchte Vertheilung der obersten \^erwaltungsbehörden vor; theilt die Geschäfte und Behörden in grosse Massen; stellt die Verwaltung als sehr vereinfacht, und in jedem Theile auf den ihm bestimmten Punkt kräftig wirkend dar; geht überall von der Idee aus dass die Verwaltung kein todtes Geschäft treiben, sondern ein lebendiges Wirken sein muss, und hat immer das wahre und letzte Ziel alles Verwaltens, das Wohl und die Bildung des Volkes zum Zweck.</p>
+
+            <p>Wenn die Idee einer Arbeit so gerechte Achtung einflösst, so gewinnt der Zweifel schwerer Raum, und ich gestehe gern, dass, obgleich gerade die Basis Ihres Planes mir bei mehrmaligem Erwägen immer mehr Zweifel erregte , ich doch eine gewisse Scheu empfand, mich entschieden gegen ihn auszusprechen, eine Scheu die Ihnen um so natürlicher vorkommen wird, wenn Sie bedenken, dass ich nie an einer Provinzialverwaltung Theil nahm,<pb n="12.493" xml:id="pbXII493"/> und doch der BegritV niemals ein so richtiges Bild gewährt, als die lebendige Anschauung und das eigene Handeln.</p>
+
+            <p>Dennoch ist die hier behandelte Aufgabe von der Art, dass sie. schon als eine der wichtigsten politischen Fragen, denjenigen, der, wie ich, ausschliessend mit Gegenständen des Denkens beschäftigt ist, zu dem Versuch sie zu lösen, reizen muss; und da Sie gütiger Weise meine Meinung zu erfahren wünschen, so werde ich versuchen, die Prüfung, die ich mir mit Ihren Ideen erlaubt habe, hier wieder vor Ihnen anzustellen. Ich bitte Sie nur, dann zu glauben, dass die Schlusssätze, zu denen ich kommen werde, von aller Anmassung frei sind, dass meine Ansicht die richtigere sei.</p>
+
+            <p>Zuerst muss ich es entschuldigen, wenn ich vielleicht in einigen Punkten Ew. Excellenz Meinung nicht sollte richtig getroffen haben. Ich habe bedauert, dass Sie bei Aufstellung Ihres Plans, in dem Aufsatz, dessen ganze Hälfte historisch ist, nicht in ein grösseres Detail eingegangen sind. Es sind nun, wenigstens für mich, einige Lücken geblieben, und ich bin nicht immer gewiss gewesen, welchen umfang Sie den aufgestellten Begriffen beilegten. *) Ich bin bei der Prüfung Ihrer Ideen einer zwiefachen Methode gefolgt, einmal dieselben mit der allgemeinen Theorie einer rich- tigen Staatsverwaltung zu vergleichen, weil, wie auch eine Idee auf das Besondere gerichtet sein mag, sie doch immer erst im Allgemeinen ihre Gültigkeit bewähren muss; dann indem ich ver- sucht habe, mir ein anschauliches Bild des Zustandes zu machen, den die Realisirung Ihres Planes hervorbringen würde. Auf diesem doppelten Wege glaube ich zu den gleichen Folgerungen zu kommen.</p>
+
+            <p>Ich werde Ew. Excellenz Ober-Präsidenten immer Provinzial- Minister nennen, weil sie es mir, Ihrer Idee nach, wirklich zu sein scheinen. Ex. Excellenz nennen nämlich gewiss mit mir ^linister denjenigen Verwaltungs-Chef, welchem kein höherer Chef, sondern nur der König so befehlen kann, dass er unmittel*J Im Konzept folgt hier die folgende gestrichene Stelle : „So, gestehe ich, hat es mich überrascht, dass Sie (S. 9. 10) die Anstellung der Mitglieder der Landes-Collegien den Realministern einräumen. Ich habe Ihre Eintheilung des Ministerii so verstanden, dass diese hätte Attribut der Provinzialminister seyn müssen. Den Punkt der gegen diese zu führenden Beschwerden haben Sie ganz übergangen, was doch in einem Lande, wo das Volk so sehr, wie bei uns, an beständiges Erledigen von Beschwerden gewöhnt ist, nicht füglich angeht."<pb n="12.494" xml:id="pbXII494"/> bar, und ehe er contestirt, handeln, oder die getroffenen Massregeln inhibiren muss. Daher hatten die Minister unter dem Staatslvanzler in der That nicht ^Yah^e Ministerialmacht, und daher sind die jetzt allein unter des Königs ]Majestät stehenden Chefs der Post, der Staatsschulden-Tilgungs-Verwaltung, der Bank, der Oberrechnungskammer, wirklich Minister. Nun scheint mir Ew. Excellenz ^Meinung, dass der Realminister dem Provinzialminister nicht solle befehlen können , und dass dieser nicht gehalten sein solle, wenn jener ihn beschuldigt, von einer VerAvaltungsnorm abgewichen zu sein, seine Massregel sogleich und ehe er König- liche Entscheidung nachsucht, zu inhibiren. Es ist zwar, und hierin finde ich eine der im Vorigen beklagten Lücken, nirgends geradzu ausgesprochen, ob diese beiden Gattungen der Minister bloss coordinirt, oder in gewissen Punkten doch auch subordinirt, sind; allein aus der ganzen gegenseitigen Stellung schliesse ich das Erstere. Es geht auch aus den Worten (p. 183) „nur nach geschehener Verhandlung zwischen beiden ist u. s. w." hervor. Yer- handlung lässt sich nur unter Autoritäten denken.</p>
+
+            <p>Ich gehe jetzt zuerst zur allgemeinen Verwaltungstheorie über.</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">I.</title>
+               </head>
+               <p>Ew. Excellenz Provinzial-Minister vereinigen, wenn man die Begriffe genau sondert, zwei nicht nothwendig mit einander ver- bundene Qualitäten in sich. Sie sind:</p>
+
+               <p>1. wirkliche Verwalter gegen solche die bloss Verwaltungs- normen angeben (die Realminister). 2. Verwalter von Provinzen gegen Verwalter (wenn man die Realminister so nennen könnte) im Allgemeinen.</p>
+
+               <p>Man könnte sich nach Nr. i , auch in einem Lande ohne Provinzen eine solche Abtheilung, als möglich, denken, und nach 2, in einem Lande mit Provinzen wirkliche Administratoren des Ganzen und der Theile.</p>
+
+               <p>Um also vor aller Vermengung der Begriffe sicher zu sein, muss man diese beiden Qualitäten jede einzeln, und hernach in ihrer Verbindung betrachten.</p>
+
+               <p>Bei zwei coordinirten Behörden, die beide die Verwaltung zum Gegenstande ihrer Funktion haben, entsteht zuerst die Frage nach dem Theilungsgrundsatz ihrer Gewalt. Es ist otfenbar, dass die scharfe Bestimmung desselben doppelt nothwendig wird, wo, wie bei coordinirten Behörden, jede Unbestimmtheit zu Streitig<pb n="12.495" xml:id="pbXII495"/>keiten führt, die allemal das Geschäft hemmen, und was bei einer wahrhaft guten \''erwaltungsorganisation nur höchst selten der Fall sein muss, Se. Majestät den König nöthigen, einzelne Knt- scheidungen zu fällen.</p>
+
+               <p>Nun gestehe ich frei, dass ich über diesen Theilungsgrundsatz in Ew. Excellenz Aufsatz nicht gleich recht klar geworden bin. Die Hauptstelle ist (p. 182 Nr. 2, 3):</p>
+
+               <p>„Die Realminister", heisst es daselbst, „führen die allgemeine Verwaltung," und ferner, „sie bleiben als unmittelbare Rathgeber Sr. Majestät," einen Punkt, den ich hier übergehe, weil er nicht zu dem, was ich hier sagen wäll, gehört, „als Depositarien und Wächter der leitenden Grundsätze der gesammten Staatsverwaltung in beständiger Uebersicht der Resultate der Administration, leiten solche, insofern von der Administration im Allgemeinen die Rede ist, Sanktioniren jede Abweichung von der bestehenden Norm, und bereiten vor und stellen die etwa erforderlichen neuen Regeln der Administration." Hierauf folgt der Gegensatz der Provinzialminister. Wenn ich aus diesen, theils bildlichen Ausdrücken, theils mehr als Einen Umfang zulassenden, wie Verwaltung und zwar im Allgemeinen leiten, und aus dem ganzen Aufsatz dasjenige herausnehme, was sich mit nichts Anderem mehr verwechseln lässt, so wird es mir evident, dass insofern sie handeln, nicht bloss in Uebersicht bleiben, und die speziellen Resultate zusammen- stellen sollen, die Realminister bestimmt sind die Normen der Verwaltung, sowohl im Allgemeinen, als für jede Provinz anzugeben und über deren Haltung zu machen, die Provinzialminister aber nach diesen Normen zu verwalten. Dass dem Realminister kein anderer Antheil an der Verwaltung bleiben soll, wird mir auch daraus klar, dass an einer anderen Stelle (p. 180) gesagt ist, dass die Ministerien nicht ad- ministriren sollen, und dass alles Verwalten ein Befehlen voraussetzt, die Realminister aber, so viel ich sehen kann, Niemanden, als ihrem Rath, befehlen können, indem die Provinzialminister ihnen coordinirt sind, so dass sie mit ihnen verhandeln müssen, und die anderen Provinzialbehörden diesen und nicht ihnen sub- ordinirt.<pb n="12.496" xml:id="pbXII496"/> 490</p>
+
+               <p>Der Punkt, auf dem sich also diese beiden höchsten Gewalten scheiden, ist der: Normen festzustellen, und nach denselben zu handeln.</p>
+
+               <p>Es ist zwar eine Stelle in Ew. Excellenz Aufsatz, die auf «twas Anderes führen könnte, doch ist sie so beiläufig, und so mancher Deutung fähig, dass mich ihre Auslegung in Verlegen- heit setzt.</p>
+
+               <p>Es heisst nämlich (p. 184) „alle Angelegenheiten, Bewilligungen und Ernennungen aber, bei denen die Verhältnisse einer Provinz nicht allein in Betracht kommen, und welche Fälle näher zu bezeichnen sein würden, z. B. Anstellung von Mitgliedern eines Landes-Kollegii, Bewilligung zur Anlegung einer Strasse, welche sich an andern Strassen einer Provinz anschliessen soll pp. gehören zur Bestimmung des Realministers."</p>
+
+               <p>Man bleibt hier zweifelhaft, ob der Gegensatz der unter- strichenen Worte sein soll: Bei denen die Verhältnisse einer andern Provinz oder die des Ganzen u. s. f. und in welchem Grade und Umfang das: in Betracht kommen genommen ist.</p>
+
+               <p>Wäre mit dem Gegensatz das Ganze gemeint, so kenne ich eigentlich keine Provinzialangelegenheit, bei der nicht das Staats- Ganze in Betracht käme, und so stürzte diese Bestimmung die ganze Idee des übrigen Planes um. Ich verstehe also hier den Gegensatz auf die beschränktere Weise, und nehme an, dass die Anlegung einer in einer Provinz endenden und anfangenden Strasse zur Bestimmung des Provinzial-Ministers nach den vom Realminister aufzustellenden Normen, die einer in eine andere Provinz übergehenden zur Bestimmung des Realministers gehöx'en soll. Von den Ernennungen werde ich weiter unten reden.</p>
+
+               <p>Ist diese Stelle wirklich so zu verstehen, so ändert sie in dem Ganzen des Verhältnisses der beiden Ministergattungen nichts ab.</p>
+
+               <p>Denkt man sich nun eine Vertheilung eines Verwaltungs- zweiges zwischen verschiedenen Behörden, so muss dieselbe so sein, dass das Attribut der einen gänzlich vom Attribut der andern getrennt ist, und dass die Verantwortlichkeit für den ganzen Verwaltungszweig auf Einem Haupte ruht. Beides fehlt, meines Erachtens, hier, da der BegriiT einer Verwaltung nach Normen nicht von der Natur ist, dass er eine reine Theilung in die Norm, und die Verwaltung erlaubte.</p>
+
+               <p>Eine Verwaltungsnorm aufstellen heisst:<pb n="12.497" xml:id="pbXII497"/> i. den Zweck der Massregel bestimmen;</p>
+
+               <p>■2. die Grundsätze, welche dabei nicht verletzt werden sollen, wenn auch der Zweck leiden müsste; 3. die Mittel angeben. Es ist ortenbar, dass zwischen der allgemeinsten Art, diese drei Punkte zu bestimmen, und der so speciellen, dass, ohne alles Denken, nur zu handeln ist, eine unbestimmbare Menge von Mittellällen liegt. Wo man also nun einschneide, um den Real- und Pro\inzial-Mi nister zu scheiden, ward der Frovinzial-Minister immer wieder auch nur speciellere Normen aufzustellen haben, was auch in einem System der Subordination natürlich und ganz unschädlich, dagegen in einem System der Coordination, wie ich gleich zeigen werde, wahrhaft verderblich ist.</p>
+
+               <p>Die ^"erantwortlichkeit für die Provinzial -Verwaltung kann nun zwar von dem Pro vinzialmi nister mit der Beschränkung der ihm einmal hingegebenen Normen übernommen werden. Allein kein mit der Natur der Verwaltung theoretisch oder praktisch ^&gt;rtrauter dürfte wohl die Verantwortung für den ganzen Ver- waltungszweig übernehmen. Denn die von ihm vorgeschriebenen Normen können ja durch die Art der iVusführung, d. h. die vom Provinzial-Minister hinzugefügten specielleren Normen so verändert werden, und dies kann in den verschiedenen Provinzen so ungleich geschehen, dass er nicht mehr für den endlichen Ausfall einstehen kann. Denn dass dieser immer in der Hand des Ausführenden liegt, hat wohl jeder gefühlt, der je nach Instructionen und allge- meinen Vorschriften zu handeln im Fall gewesen ist. Ew. Excellenz werden sagen, dass der Real-Minister die Befolgung der Normen kontrolliren kann. Aber welche schwerfälligen Mittel bleiben ihm dazu? Verhandlung mit einem Coordi- nirten, Provocation einer Königlichen Entscheidung, oder Gewärti- gung einer solchen von der andern Seite? Welche Mittel hat er nur, die Abw^eichung zu erfahren? Nur wieder den Bericht desselben, den er kontrolliren soll. Das Recht, auch ausserordentlich Bericht zu fordern, wird er wohl haben sollen, gesagt aber ist es nicht, und bei der Coordination versteht es sich nicht von selbst. Ob der Real-Minister unmittelbar Berichte von den Regierungen solle fordern können, und diesen erlaubt sein solle, sie geradezu zu erstatten, ist auch nicht gesagt, und wenn der Provinzial- Minister, als coordinirter Minister, die Administration wahrhaft haben soll, kann eine unmittelbare Communication seiner UnterHumboldt, Politische Denkschriften III. 3^<pb n="12.498" xml:id="pbXII498"/> behörden mit dem Real -Minister, auch meinen Begriffen nach, nicht stattfinden.</p>
+
+               <p>Gerade also die höchste Verantwortlichkeit ist bei diesem S3'stem gelähmt. Denn gewiss stimmen mir Ew. Excellenz bei, dass die Verantwortlichkeit der gesammten Provinzial-Minister für alle einzelnen Provinzen darum keine für den Staat ist. Die politische Einheit des Staats ist ganz etwas anderes, als der Com- plexus aller seiner Theile.</p>
+
+               <p>Ich gehe aber noch weiter, und behaupte, dass die ganze Abtheilung des Verwaltungsgeschäfts in Normenaufstellung und Ausführung, insofern sie zw^ischen coordinirten Behörden geschehen soll (denn bei subordinirten ist es ganz anders, so wäe aber Ew. Excellenz in ihrem Plan Subordination der Minister annehmen, wird er durchaus zu einem andern), dem Begriff der Verwaltung, vorzüglich praktisch genommen, widerspricht.</p>
+
+               <p>Eine Verwaltungsnorm kann auf keinerlei Weise mit einem Gesetz verglichen werden, bei welchem Aufstellung und Ausführung wirklich rein und scharf getheilt sein können. Sie kann ihrer Natur nach nicht rein in Begriffen bestehen.</p>
+
+               <p>Die Verwaltung hat allemal einen praktischen Zweck, den man in der höchsten Idee (welche festzuhalten immer noth wendig ist) zwar nur als einen unendlichen ansehen kann, der aber in der Gestalt, in welcher die Staatsorganisation des Begriffes bedarf, Grade der Erreichung, ja sogar der Wünschenswürdigkeit zulässt, sie wendet Mittel an, die gleichfalls verschieden sein können, und bezieht sich auf V^erhältnisse und Individuen, bei welchen die Er- reichung des Zweckes und die Anwendung der Mittel sich nicht mathematisch berechnen, sondern grösstentheils nur versuchend erprüfen lässt. Sie ist eine edle Kunst, nicht bloss am Lebendigen, sondern am Intellektuellen und Moralischen. Sie fordert daher einen, sich durch beständige Verbindung ihrer Endpunkte unauf- hörlich übenden Takt, und die gewählte Norm und das erfolgte Resultat müssen beständig mit einander verglichen werden. Da- durch entstehen natürlich Modifikationen der Verwaltungsnormen, die sich aber nicht einmal immer geradezu aussprechen lassen, sondern nur in der Ausübung, wenn sie mit mehr oder minder Schärfe, mit grösserem Gewicht auf dieser oder jener Seite ge- schieht, erkennen lassen. Daraus nun folgt, was ich für den ersten aller Verwaltungsgrundsätze ansehe, dass die Verwaltung von ihrem höchsten Punkt<pb n="12.499" xml:id="pbXII499"/> bis zum untersten Eine ununterbrochene Reihe bilden, und die oberste Hand noch in dem untersten Druck fühlbar sein muss.</p>
+
+               <p>Wo das nicht ist, kann man weder für die Güte der Normen, noch für die der Ausführung einstehen. Der politische Ausdruck der Einheit aber ist die Subordination, wo in eine Reihe Coordi- nation eintritt, da sind zwei und nicht mehr eins.</p>
+
+               <p>Niemals also würde, meinen Begriffen nach, eine Theorie der Verwaltung die Theilung eines Verwaltungszweiges auf dem Punkte machen, welcher die Basis in dem Vorschlage Ew. Excellenz ist. Wenn sich aber diese Basis wirklich so sehr von der Theorie entfernt, und ich hierin nicht Unrecht habe, so kann ich dies unmöglich für eine der Abweichungen von der Theorie halten, die sich in der Praxis wieder von selbst ausgleichen. Denn eine nicht richtig gestellte Coordination ist in der Theorie viel geduldiger als in der Praxis, wo sie nur zu oft und zu leicht in laute Miss- helHgkeiten ausbricht.</p>
+
+               <p>Die Real-Minister würden wirklich von der Verwaltung ganz abgeschieden sein, und auch nicht einmal den Theil an derselben nehmen können, den Ew. Excellenz ihnen noch einräumen. Denn sie hängen in der Kenntniss, die sie von der Verwaltung erhalten, \'iel zu sehr von den Berichten der Provinzial-Minister ab, die ihnen, so wie sie sich freier in die Provinzialverwaltung mischen wollen, immer entgegensetzen können, dass sie ausschliesslich all- gemein verwalten sollen. Aber ausschliesslich allgemein verwalten, heisst wirklich gar nicht verwalten. Ew. Excellenz werden mir darum nicht die Folgerung aufbürden, dass die Ministerien speciell verwalten sollen.</p>
+
+               <p>Die Ministerien müssen, meines Erachtens, verwalten, aber als Ministerien, und nicht als Regierungen, so wie diese als Regierungen und nicht als landräthliche Ofticien, aber es muss ihrer Beurtheilung und ihrem Takt überlassen sein, ob und auf welchem Punkt sie auch einmal in's Spezielle übergehen, und welchen Weg sie wählen wollen, die Verbindung von den untersten Punkten zu ihnen auf lebendig zu erhalten.</p>
+
+               <p>Was mir in Ew. Excellenz Idee nur hemmend scheint, ist die eherne Alauer, welche die Provinzial-Minister um die Real-Minister ziehen, und wo diese nur durch Verhandlungen und KönigHche Befehle sich die Thore öffnen können.</p>
+
+               <p>Ich gehe jetzt zu der Qualität der Provinzial-Administra- toren über.</p>
+
+               <pb n="12.500" xml:id="pbXII500"/>
+               <p>In Ew. Excellenz Plan ist die ^&gt;rwaltung nach einem, doppelten Prinzip getheilt, nach dem der A'erwaltungszweige und dem der Provinzen, und zwar sind beide Prinzipien einander nicht untergeordnet, sondern die Aufstellung der Verwaltungsnormen geht nach Sach-Abtheilungen , die der Ausführung nach Provinzial- Abtheilungen, wo wieder alle Zweige in die Hand Eines Admini- strators kommen. Da ausserdem im Vorigen gezeigt worden ist, dass die Verwaltung des ganzen Staats im Grunde in den Händen der Provinzial-Minister ist, so wird in Ew. Excellenz Plan die Eintheilung in Sachverwaltungszweige, so weit es das Handeln betrifft, ganz in den Schatten gestellt. Sollte es das aber wohl bei aller Achtung, die ich für die Provinzen hege, und aller Wichtigkeit, die man ihnen einräumen muss?</p>
+
+               <p>Zuerst muss man doch immer den Staat als eine Einheit und alle seine Bewohner als ein abgeschlossenes Ganze ansehen. In dieser Betrachtung fordert die Verwaltung die Absonderung in ihre einzelnen Geschäfte. Die Sachabtheilung ist daher der Natur der Sache nach unläugbar diejenige, die vorherrschend bleiben muss. Ihr untergeordnet ist die Abtheilung nach Distrikten, die bei uns dadurch noch besonders mit ihr in Einklang gesetzt ist, dass sie auch eine Sachorganisation in sich trägt.</p>
+
+               <p>Nun kommt ein dritter Begriff hinzu, der der Provinzen (da Ew. Excellenz mich gewiss in dem Unterschiede zwischen Distrikt und Provinz, ohne Erklärung verstehen). Dieser liegt nicht in der allgemeinen Theorie, da nicht jeder Staat die Provinzial- eigenthümlichkeit politisch anerkennt, er kommt daher nur hypothetisch in dieselbe. Er kann aber und muss, wie auch meine Meinung ist, bei uns nicht zurückgewiesen werden.</p>
+
+               <p>Was folgt also hieraus für die Verwaltung? Meines Erachtens nicht, dass, wie in Ew. Excellenz Plan, die Provinzialabtheilung eine selbständige und hauptsächliche Abtheilung der ganzen Verwaltung bilden muss, sondern nur, dass man Vorkehrungen treffen muss, dass die den Staat als Einheit behandelnde Verwaltung nicht die Provinzialeigenthümlichkeit vernichte oder übersehe. Die Regel muss Regel bleiben, aber dasjenige, dem sie verderb- lich werden könnte, muss beschränkend auf sie einwirken. Die praktischen hierbei eintretenden Folgen liegen am Tage. Jeder Beamte hat für einen der verschiedenen Verwaltungszweige vorzügliche Neigung und Geschicklichkeit. Allseitigkeit ist nicht zu erwarten, und kaum zu wünschen. Danach wird er daher die</p>
+
+               <pb n="12.501" xml:id="pbXII501"/>
+               <p>501 Provinz, die ihm zufällt, behandeln, und die Behandlung aller wird dem zuliilligen Umstand unterworfen sein, welcher Verwaltungszweig in der Gesammthcit der Provinzialminister vorherrscht. Man sage nicht, dass dagegen die Realministcr schützen können. Sie sind offenbar zu ohnmächtig. Eher können und werden es die Unterbehörden. Aber auch sie werden bei ihrem Provinzialminister einseitig Unterstützung finden und Hemmung antreffen.</p>
+
+               <p>Ein zweiter wichtiger Verwaltungsgrundsatz ist es, dass die obersten Verwaltungs-Ghefs ein Collegium bilden müssen. Denn da sie eine grosse Gewalt nach unten besitzen, und eine grosse Freiheit von oben her geniessen müssen, so wird sich gegenseitig beschränkende Berathung ein fast nothwendiges Gorrectiv der Alleingewalt. Auch müssen alle Verwaltungszweige wieder in Einen \'erband gebracht werden. Daher sind Minister und Ge- sammtministerien im Grunde Gorrelata, und Verwaltungen, die ministerartig und vom Ministerium unabhängig dastehen, Anomalien, deren Nachtheile man abhelfen, oder sie ertragen muss.</p>
+
+               <p>Die Provinzialminister des neuen Plans bilden nun zwar ein Ministerium mit den Realministern, aber nur in einem Theile des Jahres, und einem Theile ihres Geschäft, nämlich in Verabredung der A'erwaltungsnormen; wo ihr eigentliches Geschäft angeht, stehen sie abgeschieden und es giebt keine gegenseitige Einwirkung mehr unter ihnen. Dies kann unmöglich genügen.</p>
+
+               <p>Wie viel heilsamer war dagegen das gemeinschaftliche Handeln der Provinzialminister im General-Direktorium, oder wie viel wäre es vielmehr so gewesen, wenn nicht auch da nur das Unbedeutende wäre in pleno abgemacht worden. Gerade das General- Direktorium, besonders in den letzten Jahren seines Bestehens, hat bewiesen, wie geneigt jede Provinzial-Administration ist, sich zu isoliren. Es liegt dies auch in der Natur der Sache. Die Realministerien fühlen ihre Abhängigkeit von einander, und empfinden, dass sie nur zusammen der Staat sind, von selbst und durch ihr Geschäft. Die Provinz kann, je mehr es ihr gelingt, sich Unabhängigkeit zu verschaffen, sich als einen eignen, in sich vollendeten Staat ansehen, und es bedarf in ihr erst des Nachdenkens und des Patriotismus, um sich immer gegenwärtig zu erhalten, dass sie nur ein dem Ganzen untergeordneter Theil ist. Daher wirkt die gleiche, der Sach- und Provinzialabtheilung gegebene Masse des Ueber- gewichts in der Verwaltung viel mächtiger bei dieser als bei jener.</p>
+
+               <pb n="12.502" xml:id="pbXII502"/>
+               <p>Irre ich darin nicht, dass die beiden Eigenschaften der Pro- vinzialminister, jede einzeln, mit der natürlichen und anerkannten Ven\"altungstheorie der Staaten unverträglich sind; so muss ihre Vereinigung doppelt schlimm wirken. Der Provinzialgesichtspunkt muss ein vollkommenes Uebergewicht haben, und die Stellung des Theils zum Ganzen umgekehrt werden. Nach den allgemeinen Begriffen sollte die Administration mit ungestörter Einheit und Kraft auf das Staatsganze, Hauptsächliche, auf die Provinzen nur verwahrende Rücksicht nehmen; bei der Stellung des neuen Plans wird die verwahrende Rücksicht den Staat, die hauptsächliche die Provinzen treffen. Der einzige nach diesem Plan wirklich Admini- strirende wird die Provinz zum Hauptaugenmerk haben, und sie so verwalten, dass der Staat als Ganzes nicht leide; und dies ist noch der günstigste Fall. Dennoch ist es ein verkehrter, denn der Staat, als Ganzes, soll verwaltet werden, nur so, dass man die Provinzialeigenthümlichkeit nicht nur nicht verletzt, sondern benutzt.</p>
+
+               <p>2.</p>
+
+               <p>Abstrahire ich von aller Theorie, und sehe ich bloss auf den Zustand, den ich Ausführung dieses Plans hervorbringen würde, so kann ich mich eben so wenig von dessen Haltbarkeit überzeugen.</p>
+
+               <p>Die Realminister hätten, wie man offen gestehen muss, auf die Verwaltung einen so kleinen und schwachen Einfiuss, dass sie von derselben im Grunde als ausgeschlossen anzusehen wären. Ew. Excellenz scheinen dies selbst gefühlt zu haben, da Sie dieselben auch Konferenz-, die Provinzialminister Administrationsminister nennen (p. 182). Die Ohnmacht ihrer Einwirkung auf die \^erwaltung geht schon aus dem oben Gesagten hervor, es kommt aber noch praktisch hinzu, dass überall derjenige den wahren Einfluss hat, der ausführen soll, der die ganz speciellen Mittel wählen, sie anwenden, und die Hindernisse beseitigen muss. Selbst wenn Ew. Excellenz nicht zugeben wollten, dass die Provinzialminister ihnen bloss coordinirt wären, oder wenn Sie hierin etwas änderten, bliebe die Sache dieselbe. Die Realminister sind in solche Entfernung von dem wirklichen Geschäft gestellt, dass in Rücksicht auf dieses ihre Stellung im Grunde zu einer leeren wird.</p>
+
+               <p>Man muss sich also an ihre Lage als Konferenzministcr halten. Ich will hier nicht dabei verweilen, auf welche Weise diese Kategorie von Ministern in einzelnen Staaten vorhanden ist. Gut aber<pb n="12.503" xml:id="pbXII503"/> kann sie nur dann sein, wenn die Administrationsminister, als Sachminister, ein Ministerium bilden, über dessen an den König gelangende Beschlüsse nun die Konferenzminister ihrem Souverain Rath ertheilen.</p>
+
+               <p>In Ew. Excellenz Plan wird die Stellung dadurch, wenn ich mir erlauben darf, es zu sagen, schief, dass</p>
+
+               <p>1. die Administrationsminister unter sich allein gar nicht, und mit den Konferenzministern nur höchst unvollkommen, ein Kollegium bilden, sondern eigentlich geschiedene Wege gehen; 2. dass die Konferenzminister auch dies wieder nicht bloss und rein, sondern dem Namen, und dem Anspruch nach, da sie Ven\'altungsnormen aufstellen sollen, wieder zugleich Administrationsminister und sogar kontrollirende der Provinzialminister sind. Dadurch entsteht, aufs leiseste ausgedrückt, die Möglichkeit der Reibung z\\'ischen beiden, und der mögliche Konflikt, den nur Se. Majestät der König schlichten kann, ist eröffnet. Der Konferenzminister ist, als solcher, nicht mehr unpartheiisch, er trägt nicht mehr eine ihm persönlich fremde, sondern eine eigne Sache vor.*)</p>
+
+               <p>Allein auch beim Vortrag beim Könige würde leicht das Gut- achten des entfernten Provinzialministers entscheidend sein müssen. Denn derjenige, welcher vorstellt, dass er nicht anders handeln kann, und den Umständen nach so handeln muss, hat nothwTndig und um so mehr ein Uebergewicht, als der Realminister, hauptsächlich nur durch seine Berichte unterrichtet, und von der wahren Verwaltung geschieden, ihm nicht den Ungrund seiner Behauptung zu beweisen im Stande ist.</p>
+
+               <p>Die Realministerien könnten dann freilich sehr vereinfacht w^erden, aber die \^erwaltung des Ganzen mit Kraft zusammen- halten und leiten könnten sie nicht, nicht in ihrer selbständigen Stellung, nicht als Rathgeber des Königs. Wohl aber könnten sie in dieser letzten Eigenschaft die Administration bisweilen hemmen, was wieder nicht gut wäre, da ihre Stellung gar nicht</p>
+
+               <p>*J Hier ist im Entwurf folgende Stelle gestrichen: „Hier könnte man nun vielleicht sagen, dass Ew. Excellenz Plan ein Gegengewicht gegen die grosse Gewalt der Provinzialminister darin enthielte, dass die Realminister immittelbar das Ohr des Königs haben. — Aber es kommt hier nicht darauf an, wer mehr oder minder Gewalt hat, und die Gewalt der Provinzialminister gerade würde mir nicht so bedenklich erscheinen. Allein es ist richtig, dass jeder die Gewalt hat, die er haben soll, imd niemand mehr."<pb n="12.504" xml:id="pbXII504"/> SO ist, dass sie für sich ein gegründetes Urtheil über einen speciellen Punkt zu fällen im Stande sind.</p>
+
+               <p>In den Provinzialministern läge die eigentliche Verwaltung des Staats, sie wären oifenbar die wichtigsten Personen, von ihnen hinge zunächst das Gedeihen oder Verkommen der Provinzen ab, und davon und von der unter ihnen herrschenden Gleichheit oder Ungleichheit auch das Gedeihen des ganzen Staats.</p>
+
+               <p>Der Mann, der dieser Stelle vorstände, müsste ausser allen andern Eigenschaften, welche zu einem obersten Beamten gehören, noch zwei andere besitzen, die seine neue Stellung nothwendig machte. Er müsste nämlich nicht nur mit allen Verwaltungszweigen gleich genau vertraut sein, sondern auch seine Thätigkeit und seinen Eifer allen in der nothwendigen Gleichheit widmen. Er müsste ferner das noch viel zartere Gleichgewicht des Pro- vinzial-Interesses und der Staatseinheit, welcher jenes weichen muss, nicht nur genau kennen, sondern bei seiner Verwaltung beobachten.</p>
+
+               <p>Denn man muss sich nicht verhehlen, sondern geradezu aussprechen, was wirklich der Fall ist, dass nach dem neuen Plan niemand wahrhaft verwaltet, als die Provinzialminister, und dass also in diesem Plan die Verv^^altung des Staats von dem Standpunkte der Provinzen aus geschieht. In einer wahrhaft angemessenen Organisation ferner muss die Stellung der Behörden von der Art sein, dass das geringere Talent in seinem Standpunkt allein Erleichterung findet. Denn die allen Staatsformen zum Grunde liegende Idee ist: durch die Vertheilung der Gewalt und die Richtung der Kraft gerade auf den ihr bestimmten Zielpunkt die Ungleichheit und den Wechsel der Talente unschädlich zu machen, und dem Individuum durch das, was grösser, weiser und dauernder ist, als ein Einzelner Mensch, durch die politische Organisation eine höhere Kraft und eine zuversichtlichere Regung in seinem Wirkungskreis zu geben.</p>
+
+               <p>Bei der Verwaltung des Staatsganzen von den Provinzen aus aber muss im Gcgentheil überschiessendes Talent, ungewöhnlicher Patriotismus und Selbstverläugnung das Fehlerhafte der Stellung überwinden.</p>
+
+               <p>Der preussische Staat weicht, wie ich immer zu behaupten wagen werde, keinem andern in der nothv^'endigen Anzahl intelligenter, und allgemeine Rücksichten mit specieller Geschäftsführung verbindender Beamten, er ist reicher daran, als andere, aber ich<pb n="12.505" xml:id="pbXII505"/> halte es dennoch geradezu für unmöglich, acht Personen zu finden, welchen man nach diesen Bestimmungen die Provinzialministerien anzuvertrauen im Stande wäre.</p>
+
+               <p>Auf keinen F"all könnten aber acht verschiedene Individuen, auch alle richtig wirkend, gleich wirken, indem sie einzeln an verschiedenen Punkten mit verschiedenen, noch so grossen, Ein- sichten und Talenten daständen. Ew. Excellenz werden sagen, dass dies leere Einwendungen sind, weil auf der einen Seite die Realminister, auf der andern die Regierungen den Nachtheil der möglichen Einseitigkeit der Provinzialminister aufheben oder vermindern können.</p>
+
+               <p>Aber die Lage Ihrer Provinzialminister zwischen den Realministern und den Regierungen ist der Concentration des Ueber- gewichts so günstig, dass man von diesen Correctiven wohl wenig zu erwarten haben wird. Den Realminister entfernen sie gänzlich von dem Geschäft und der speciellen Verwaltung, und den Regierungen stehen sie so nahe, dass ihre Einwirkung wohl erfolgreich sein muss.</p>
+
+               <p>Ew. Excellenz selbst werden mir schwerlich läugnen, dass ein heutiger Oberpräsident mehr im Stande ist, seine Meinung gegen einen heutigen ^Minister durchzusetzen, als ein Realminister in Ihrem Plan es gegen einen Provinzialminister sein würde, und dass eine heutige Regierung weniger von einem heutigen Ministe- rium gehemmt werden kann, als künftig von einem Provinzial- minister.</p>
+
+               <p>Ueber das Verhältniss der Regierungen zu den Provinzialministerien sprechen Sich Ew. Excellenz nur kurz aus, aber es ist (p. 182) klar, dass Sie dieselben selbständig haben w^ollen. Das eben Gesagte beweist indess, dass, wenn diese Selbständigkeit einmal gefährdet wäre, dem Uebel schwer abzuhelfen sein würde. Ob und wie die Regierungen unmittelbar mit den Realministern in Berührung treten sollen, haben Ew. Excellenz gar nicht berührt. Versteht man indess Ihren Plan, wie man doch muss, auf eine konsequente Weise, so kann eine solche Berührung nicht stattfinden, sondern die Mittheilung muss durch den Administrations- Chef gehen. Dies isolirt die Provinzen noch mehr.</p>
+
+               <p>Sollte es nun aber auch gut sein, die Administration ganz innerhalb der Grenzen einer Provinz zu betreiben? sie gar nicht auf den Punkt hinausgehen zu lassen, wo schon die Concentration der mehrern Verwaltungen allgemeinere Ideen giebt? kann diesem<pb n="12.506" xml:id="pbXII506"/> Mangel das Aussprechen allgemeiner Verwaitungsnormen abhelfen ? Ich glaube es nicht. Ich halte es für das intelligente Leben eines Staats (und ohne ein solches wird keiner, am wenigsten der unsrige, lange bestehen) nothwendig, dass die Verv^'^altung einen freien und ungehemmten Ivreislauf von den äussersten Enden zum Mittelpunkt und zurück habe. Ich beschuldige Ew. Excellenz Plan nicht, dass dieser in demselben ganz versperrt sei. Aber grosse Hemmungen erleidet seine Freiheit allerdings. Vielleicht hätten indess Ew. Excellenz bei speciellerer Ausarbeitung des Plans einzelne Gegenmittel angebracht. Eins ist gelegentlich erwähnt, nämlich die den Realministern eingeräumte Anstellung der Mitglieder der Landes-Collegien. Viel jedoch dürfte diese Freiheit den Realministern nicht helfen. Sie selbst sollen nur jeder einen Rath haben. Die Pro- vinzialbeamten können sie, von der speziellen Administration getrennt, nicht anders, als nach den Berichten der Provinzialminister, und wenn sie etwa einen oder den andern (p. i86) zu sich be- rufen, kennen lernen. Sie müssen also den Vorschlägen der Provinzialminister folgen, und dies erscheint mir auch im neuen Plan so nothwendig, dass ich Ew. Excellenz gestehe, dass ich diese Bestimmung darin nicht für konsequent halte.</p>
+
+               <p>Die Anstellungsvorschläge müssten, wenn man dieselben folgerecht ausführen will, von dem Provinzial-Minister aus an den König gelangen. Der Grund (p. 184), dass hiebei nicht die Verhältnisse einer Provinz allein in Betracht kommen, leuchtet mir bei diesem Punkte gerade nicht recht ein.</p>
+
+               <p>Habe ich mir von der Lage und Wirksamkeit der hauptsäch- lichsten Behörden in dem durch den neuen Plan herbeizuführenden Zustand kein unrichtiges Bild gemacht, so würde die Verwaltung des Staats, nicht zwar ganz, da ich auf keine Weise übertreiben möchte, aber hauptsächlich auf den Ansichten beruhen, welche die acht Provinzialminister, jeder über seine Provinz in sich und im Verhältniss mit dem Ganzen hätten. Ein grosser Theil der Geschäftsführung würde in Bestreitung von Massregeln bestehen, welche nach der Meinung der Real Minister einseitig und nur dem Provinzialinteresse angemessen wäre, das Uebergewicht in diesem Kampfe würde aber den Provinzial-Ministern bleiben. Se. Majestät der König würde unzählige Male in einzelnen Fällen einschreiten müssen, um die einzelnen Streitigkeiten durch sein Machtwort zu entscheiden.</p>
+
+               <pb n="12.507" xml:id="pbXII507"/>
+               <p>Ew. Excellenz werden sagen, dass bei dem gewöhnlichen und jetzigen \'erwaltungsystem</p>
+
+               <p>I. die Verwaltung des Staats auf den Ansichten der Central- Minister beruht;</p>
+
+               <p>•2. dass ein Kampf zwischen den ihr Interesse verwahrenden Provinzen und den dies Interesse nicht richtig beachtenden Ministern entsteht, und dieser Kampf für das Provinzialinteresse ungleich ist.</p>
+
+               <p>Darauf antworte ich:</p>
+
+               <p>1. dass die Central-Minister wenigstens in dem richtigen Standpunkt sind, den Staat zu verwalten, indem sie die Provinzen von dem Gesichtspunkte des Staats aus, nicht umgekehrt, betrachten, und dass, wenn sie das Interesse der Provinzen nicht kennen oder beachten sollten, dies individuelle Schuld, nicht Fehler der gewählten ^'erwaltungsform ist;</p>
+
+               <p>2. dass der Kampf zwischen dem Provinzial- und Einheitsinteresse des Staats ungleich sein muss, und ja nicht zum Vor- theil des ersteren gleich, weil sonst zuerst der Staat und mit ihm nachher die Provinz aufgeopfert wird; dass aber dieser Kampf so sehr ungleich gar nicht ist, da die Provinzial-Behörden gegen die obersten die Kraft der Nähe bei dem Geschäft besitzen.</p>
+
+               <p>So gestehe ich Ew. Excellenz unumwunden, dass ich dem neuen Plan, wie ich ihn prüfen mag, meine Zustimmung auf keine Weise ertheilen kann. Ich kann ihn nicht mit der Theorie der Verwaltung vereinigen, er erscheint mir in der Ausübung unzweckmässig und gefährlich, ich halte ihn für vorzüglich bedenklich bei uns, da kein Staat mehr, als der Preussische nöthig hat, die ihm geographisch fehlende Einheit durch Einheit des Geistes und der A^ervv^altung zu ersetzen. Ew. Excellenz sind davon, wie ich, überzeugt, Sie halten durch diesen Plan diese Einheit nicht verletzt. Es ist aber dies das Wenigste, sie glauben erst durch ihn sie wahrhaft zu befestigen. Sie haben das nicht in Ihrem Aufsatz ausgeführt, aber wer Sie kennt, weiss es. Sie denken und empfinden : der Mensch schliesst sich zuerst an das ihm nächste an, seine unmittelbaren Verhältnisse geben ihm Muth und Kraft; nur wer ihm nahe steht, wer ihn kennt, übt Einfluss auf ihn aus, die Verwaltung der Provinz muss also nahe sein, und die nahe muss Kraft haben, nicht gelähmt werden können durch einen entfernten, den Gegen- stand nicht kennenden Einfluss. Die Einheit des Staats ist nicht die dynamische einer Maschine, und nicht die papierne eines<pb n="12.508" xml:id="pbXII508"/> Systems, die ächte liegt in dem Geist und dem Herzen des Vollvs, seiner Treue und Festigkeit, seiner Anhänglichkeit an den König und seiner Vaterlandsliebe. Wenn die Provinzen im Wohlstande sind, wenn sie sich nicht verletzt fühlen in ihrer Eigenthümlich- keit, wenn ihre Bewohner durch Beamte, die sie kennen und ihr Vertrauen besitzen, in dem Sinne guter und patriotischer Unter- thanen erhalten sind, so tritt in ihnen ein ungleich festeres Preussen zusammen, als man je durch Administrations-Einheit schaffen wird.</p>
+
+               <p>In dieser wahrhaft edlen Ansicht theile ich vollkommen die Ueberzeugung, dass die Verwaltung und die Anordnung ihrer Form sich nie auch nur einen Augenblick scheiden darf von der Rücksicht auf die im Volke zu bewirkende Gesinnung, und dass diese von den engeren zu den weiteren Kreisen, nicht umgekehrt, aufsteigt.</p>
+
+               <p>Aber damit kann ich nicht übereinstimmen, dass es gut sei, bei Anordnung der Verwaltungsform diesen Gesichtspunkt ausschliesslich, oder auch nur geradezu zu fassen, und in der Wirkung aufs Volk demselben Wege zu folgen, den es von selbst nimmt.</p>
+
+               <p>Thut man das eine und das andere, so wird man bei günstigen Umständen und gerade angemessen in diesem Sinn wirkenden Beamten allerdings einzelne befriedigende Resultate erhalten, aber das Wohl des Staats, das auf sichern Basen ruhen soll, diesen Zufälligkeiten aussetzen, und wo man nicht nützt, wird man be- deutend schaden.</p>
+
+               <p>Formen der Verfassung und der Verwaltung gehören zu den kräftigsten und sichersten Bildungsmitteln des Volks, da sie die beständigen unabweichbaren Gleise der Volksthätigkeit sind. Man braucht sich daher nicht zu fürchten, Formen aufzustellen, die nicht mit der unmittelbaren Volksgesinnung übereinstimmen, sie dringen dennoch durch, und man muss nur theils durch in sie gelegte Modifikationen, theils durch daneben angewandte Mittel verhindern, dass sie nicht als Fesseln die natürliche Entwickelung der Individualität hemmen.</p>
+
+               <p>Dass Jeder Theil des ganzen Staats sein, und mithin das spezielle Ortsinteresse dem des Ganzen weichen muss, nicht als einzelnes heroisches Opfer, sondern als ganz gewöhnliche Uebung der pflichtmässigen Selbstverleugnung muss die nicht geschriebene, aber höchst verständlich aus der ganzen Staatsform hervorgehende Lehre sein. Aber es muss freilich in dieser Form auch zugleich<pb n="12.509" xml:id="pbXII509"/> liegen, dass das Gesammtwohl die unumgängliche Bedingung des einzelnen ist, der Einzelne muss sich, wo keine Collision denkbar ist, in seinen Eigenthümlichkeiten erkannt und geachtet wissen, der Xame des Staatsbürgers muss nicht zu einem leeren werden. Dies lässt sich erreichen, indem man sich um keinen Schritt von der allgemeinen längst und richtig anerkannten Verwaltungs- theorie entfernt, und indem man alle Verhältnisse schont. In Ew. Excellenz Plan wird diese Lehre nicht durch die Form ausgesprochen, die Form kann vielmehr das Volk irre führen, und muss es beinahe. Es muss beinahe denken, da den Behörden der Provinz die Hauptkraft beigelegt ist, so muss ja wohl die Provinz das Erste und der Staat das Zweite sein. Ich verkenne nicht, dass der gute Sinn des Volks und der Geist der Behörden hier zu Hülfe kommen können. Aber schwerlich wird man alsdann die Unterordnung unter das Ganze als Pflicht, nur zu leicht als Heroismus ansehen, und auch in der moralisch politischen Gesinnung ist die richtige Unterordnung der sittlichen Prinzipe das Erste und Hauptsächlichste.</p>
+
+               <p>Der neue Plan w-ürde unmittelbar auf den Provinzialsinn wirken, um aus guten Provinzial-Einsassen gute Staats-Einsassen zu bilden. Der Provinzialsinn ist eine nicht zu verkennende Tugend, aber auch eine freiwillige Neigung, und wie ich politisch auf eine Neigung wirke, wirke ich auch auf die in ihr liegende Negation, hier die Absonderung vom Ganzen und den andern Provinzen.</p>
+
+               <p>Geht aber meine Wirkung, indem ich den Provinzialsinn ehre, auf die Unterordnung des Theils unter das Ganze, so arbeite ich auf eine Pflicht hin, nicht auf eine Neigung, und habe keine Negation zu befürchten.</p>
+
+               <p>Wäre von augenblicklichen Bedürfnissen und Forderungen die Rede, so würde ich Ew. Excellenz Plan, wenn die Ausführung in die rechten Hände fiele, für sehr erfolgreich halten. Für das gewöhnliche Staatsleben aber würde er mir, wenn man, wie man in der Theorie und Kritik muss, jeder Ursache eine volle und reine Wirkung zuschreibt, untergrabend scheinen.</p>
+
+               <p>Ich gestehe auch, dass ich gar nicht die Nothwendigkeit einsehe, gerade diese neue Verw^altungsform einzuführen. Ew. Excellenz scheinen dieselbe aus dem speziellen Verwalten der heutigen Ministerien herzuleiten. Aber folgen daraus Pro<pb n="12.510" xml:id="pbXII510"/>viazialminister } Meinem Ermessen nach, nur in ihrem Wirkungs- kreis selbständig gelassene Regierungen. Sie sagen von ihrem Plan, dass er ohne Umwälzung der be- stehenden Verhältnisse auszuführen sei. Ich kenne kaum eine grössere, ich mag den Plan mit der heutigen Verfassung, oder mit der vor 1806 vergleichen. Gegen die heutige bedarf es keines Beweises. Wer wäirde die heutigen Oberpräsidenten mit den neuen Provinzialministern , wer die heutigen Minister mit den neuen Realministern, die, ohne Macht, nur auf einigen Einfluss beschränkt sind, vergleichen wollen.^ Aber es ist auch nicht anders mit dem Zustande vor 1806. Damals bildeten die Pro- vinzialminister ein fortdauerndes, in seiner gemeinschaftlichen Wirksamkeit nur gewissermassen durch ihre einzelnen Reisen unterbrochenes Gesammtministerium , hatten keine Realminister neben sich, hielten sich, wenn man sich die Sache klar denkt, gar nicht ausschliesslich für Provinzialminister, sondern für Minister des Ganzen, von denen jeder nur zugleich die besondere Sorgfalt und Aufsicht über eine Provinz führte. Ich bin gewiss weit entfernt, jene Verfassung zurückzuwünschen, aber ich läugne nicht, dass ich sie dem neuen Plan vorziehen würde. Es ist schon das ein sehr wesentlicher Punkt, dass die eigentliche Resi- denz jener Minister Berlin, der Aufenthalt in der Provinz die Ausnahme war, und dass sie die einzige Ministergattung waren. Beides verallgemeinerte ihren Gesichtspunkt, da der Gegensatz wegfiel, der den neuen Plan so sehr charakterisirt.</p>
+
+               <p>Wünschen Ew. Excellenz nun meine Meinung zu wissen, so kann ich sie ganz kurz in Folgendem abgeben. Sie enthält aber wenig Neues, da mir die Formen, wie sie jetzt gesetzlich bestehen, nicht so fehlerhaft scheinen. 1. Ich könnte nie davon abgehen, dass die Abtheilung der Verv/altung nach den verschiedenen Zweigen die herrschende wäre, und dass ihr Typus von oben bis unten, so viel als möglich ist, durchginge.</p>
+
+               <p>2. Die Ministerien müssen verwalten, aber als Ministerien. Was ich darunter verstehe, brauche ich Ew. Excellcnz nicht zu sagen. Sie würden es in der Ausführung zu zeigen wissen.</p>
+
+               <p>3. Von den Ministerien bis zu den untersten Behörden muss die \^erwaltung in einer langen Kette gehen, in welcher das Ministerium das oberste Glied ist. Es muss zwischen Leitung der Verwaltung und Verwaltung, zwischen Aufstellung der Normen<pb n="12.511" xml:id="pbXII511"/> und Handeln, nirgend eine störende Unterbrechung sein, die Ausführung muss frei zurüclvwirlKen auf die Aufstellung der Normen, wie diese herunterwirkt. Jede Ikhörde muss in ihrem Wirkungs- kreis selbständig sein, und diese Selbständigkeit muss gehörig nach den einzelnen Geschäften und Fällen ausgesprochen sein. Allein niemals wird man hierin durch Formeln die Sache erschöpfen. Das ^'erwalten ist einmal eine Kunst, bei welcher dem Talent und dem Takt dessen, der sie ausübt, immer vieles überlassen bleibt. Mängel, selbst Missbräuche sind darin nie ganz zu vermeiden. In dem neuen Plan könnten auch die Provinzialminister, wie die Central-Ministerien, zu speziell administriren.</p>
+
+               <p>Ein Ministerium, welches weiss, dass es leitend, nicht speziell ausführend verwalten<note type="footnote" n="*)" resp="gnd-116890657"><hi>Hier steht im Entwurf: „dass es den Staat, nicht einen Kreis verwalten".</hi></note> soll, wird keiner grossen x\nzahl von Käthen bedürfen, aber jeden Minister auf Einen Rath zu beschränken, würde mir höchst verderblich erscheinen. Die Entscheidung in dejr höchsten Verwaltungsinstanz muss, da das ^"er- walten, als ein Handeln, zuletzt Einheit der Verantv/ortlichkeit erfordert, in dem Willen des Ministers liegen, und kann nicht kollegialisch sein. Will man aber darum ein Ministerium des Vortheils berauben, durch ein Kollegium intelligenter Räthe, in denen sich Grundsätze und Maximen bilden, von dem Einfluss des Wechsels der Aufmerksamkeit und der Person seines Chefs unabhängiger zu sein? Wird nicht jeder tüchtige Minister lieber mit seinen Räthen, als in seinem Kabinet arbeiten? Wird nicht sein Zweck bei seinen Vorträgen sein, sich und sie durch die fonlaufende Debatte gemeinschaftlich auf solche Grundsätze und Maximen zu bringen, dass nun der Fall, wo er sich gegen sie bestimmen müsste, selten oder gar nicht vorkommt? Es muss in einem gut verwalteten Staate eine Tradition der Verwaltungs- Intelligenz vorhanden sein oder geschaffen werden, und diese kann bei uns, wo die Verwaltungs-Angelegenheiten nicht, wie in England, öffentliche werden, nur auf den Kollegien der Räthe beruhen. Darum scheint mir das von Ew. Excellenz angeführte Beispiel Englands nicht passend. Das Beispiel Frankreichs muss ich aus anderen Gründen zurückweisen. W'^enn man bei uns Regierungen Präfekten vorzieht, würd man auch die Ministerien nicht auf zwei Personen zurückführen wollen. Bei dem Einen Rath der Provinzialminister Ew. Excellenz würde es auch schwer<pb n="12.512" xml:id="pbXII512"/>lieh bleiben. Früh oder spät würde zwischen diesen Ministerien und den Regierungen die Lage so sein, wie Sie sie zwischen den jetzigen schildern, etwas weniger bei der Nähe, aber achtfach wiederholt. Dies ist der Welt Gang.</p>
+
+               <p>4. So wie ich bei der allgemeinen Verwaltungstheorie zu zeigen gesucht habe, dass der Begriff der Provinzen nur hypothetisch in sie eintritt, und die Provinzen nur darin einer verwahrenden Rücksicht bedürfen, so könnte ich auch die Oberpräsi- denten (wesentlich) nicht in, sondern nur zur Seite den wahren Verwaltungsbehörden stellen.</p>
+
+               <p>Einige ihnen übertragene allgemeine Provinzialangelegenheiten abgerechnet, müssen und können die Oberpräsidenten, meines Erachtens, nicht verwalten, ohne ihren wahren Standpunkt, den von Provinzialbehörden, aufzugeben. Denn die ^^erwaltung erhält durch diesen Standpunkt eine schiefe Richtung.</p>
+
+               <p>Es ist daher theils aus diesem Grunde, theils weil es ihren Gesichtskreis beschränkt und herabzieht, nie zu billigen, wenn sie selbst Chefs einer Regierung sind.</p>
+
+               <p>Ihre eigentliche Bestimmung ist, die ganze Verwaltung von dem Standpunkte ihrer Provinz aus zu betrachten und zu be- urtheilen, und die Resultate dieser Beurtheilung auf dem ihnen angewiesenen Weg zur Verbesserung der Mängel anzuwenden.</p>
+
+               <p>Ihre Funktionen bestehen daher in Folgendem:</p>
+
+               <p>1. die ihnen übertragenen allgemeinen Provinzial-Angelegen- heiten zu besorgen;</p>
+
+               <p>2. die Verwaltungsbedürfnisse und Mittel der Provinz mit der bestehenden Verv^^altung zu vergleichen, und nachzudenken, was darin zu ändern sein möchte;</p>
+
+               <p>3. die Behörden der Provinz ohne Ausnahme in ihrer Verwaltung zu kontrolliren, vorzüglich durch ihre oft wiederkehrende Gegenwart, nicht auf das Spezielle einwirkend, die einzelnen Ver- fügungen abändernd, aber aus dem Einzelnen die Art, das Ganze zu behandeln, beurtheilend, und auf sie einwirkend;</p>
+
+               <p>4. in jedem Jahre nach Berlin zu kommen, um, insofern es nicht schon durch Schriftwechsel geschehen ist, ihre Vorschläge, gegründet auf die Thätigkeit ad 2 und 3 mit den Ministern zu berathschlagen, und die fernere Behandlung der Provinz zu ver- abreden.</p>
+
+               <p>Ew. Excellenz sagen einmal in Ihrem Aufsatz, man habe mehr auf die moralische Kraft der Oberpräsidenten gerechnet, als dass<pb n="12.513" xml:id="pbXII513"/> man ihnen habe eine amtHche Wirksamkeit beilegen wollen, und beziehen dies auf die Zeit des Staatskanzlers, in der wirklich einzelne glückliche und tiefer geschöpfte Ideen leicht und eminent zu Tage kamen. Ich möchte dies nicht missbilligen. Der Oberpräsident muss wenigstens mehr auf seine moralische Kraft selbst halten, als auf seine amtliche Wirksamkeit, weil jene sich weiter erstreckt. Das ist die schöne Seite seiner Stellung. Er ist der Mann des individuellen ^'ertrauens der Provinz, er ist sehr frei von mechanischen Geschäften, er hält die Alassregeln der Verwaltung gegen ihre letzten, unmittelbar anschaulichen Erfolge. Aber es darf ihm auch nicht an Macht fehlen, er muss vielmehr eine bedeutende haben.</p>
+
+               <p>In der Provinz müssen ihm:</p>
+
+               <p>1. alle Wege der Kenntnissforderung offen stehen; er muss 2. so wie er einen Fall bemerkt, der keinen Verzug leidet, und dessen Folgen schwer oder gar nicht wieder gut zu machen sein würden, auf der Stelle Anordnungen auf Antrag der Regierungen oder ohne denselben treffen, und ebenso die Verfügungen der Provinzialbehörden suspendiren und annulliren können, indem er augenblicklich an die Ministerien berichtet; er muss ebenso Beamte suspendiren können; er muss</p>
+
+               <p>^. auch das Recht haben, Verfügungen der Ministerien bis auf seinen Bericht, wenn sie an ihn ergehen, nicht zu erfüllen, wenn sie an die Regierungen ergehen, zu sistiren; er muss</p>
+
+               <p>4. bei seiner Anwesenheit in der Hauptstadt nur mit den Ministern selbst berathschlagen, und in vollkommener Gleichheit. Die Verschiedenheit der Meinungen unter ihnen muss dann nur von Sr. Majestät dem Könige geschlichtet werden können.</p>
+
+               <p>Dadurch ist er</p>
+
+               <p>1. nicht Chef, aber Oberbehörde aller Provinzialbehörden ohne Ausnahme, in der so eben geschilderten Art und Absicht;</p>
+
+               <p>2. den Ministern ist er subordinirt, wird aber als amtlicher Repräsentant derselben in der Provinz angesehen. Daher stammt sein oben ausgesprochenes Recht, zu verfügen und Verfügungen zu annulliren und zu suspendiren, indem amtlich vorausgesetzt wird, dass sie, an Ort und Stelle, wie er, es eben so gethan haben würden. Sowie sie, auf seinen Bericht, bei ihrer Massregel beharren, oder ih m im Voraus anzeigen, dass sie dieselbe auf jeden Fall ausgeführt wissen wollen, muss er gehorchen, denn an sich ist er ihnen subordinirt. Er kann aber in diesen Fällen, wie jeder</p>
+
+               <p>Humboldt, Politische Denkschriften III. 33<pb n="12.514" xml:id="pbXII514"/> Untergeordnete, nachdem er gehorcht hat, sich beschwerend an den König, und zwar geradezu, wenden.</p>
+
+               <p>Zwischen dieser Subordination, jener Gewah, und der Gleichstellung bei der Berathschlagung kann man nicht einmal bei dem ersten Anblick einen Widerspruch finden. Die Subordination stammt aus der Ordnung der Verwaltung; die Gewalt ist nur augenblicklich und entsteht aus der Entfernung der Provinz von dem Orte des Ministeriums; die Gleichstellung gilt nur im Angesicht der Königlichen Entscheidung. Dies wäre das Bild, was ich mir von dem herbeizuführenden Zustand mache, und Ew. Excellenz sehen, dass das weniger gesetz- licher Bestimmungen bedürfte, obgleich vieler anderer, vielleicht schwierigerer Dinge. Auf die Wahl der Persönlichkeit kommt auch nach meiner Idee viel an, da. Gottlob ! das Verwalten nicht mechanisch ist, wie ein Rechenexempel. Allein ich glaube, dass in meiner Idee die Form die Persönlichkeit tragen, unterstützen und ergänzen würde. In politischen, wie in mechanischen Dingen kommt Alles auf den Punkt an, wo die hebende Kraft ange- bracht wird. Das meinen auch Sie, wollen aber eben darum die Minister in die Provinz versetzen, wie ich in die Hauptstadt. So wunderbar ist das Raisonnement, dass, von denselben Grundsätzen zu demselben Zweck gehen, man doch entgegengesetzte Wege ein- schlägt.</p>
+
+               <p>Schon der selige Engel verglich darum die Philosophie mit einer Reitbahn, in der man sein Pferd zu allerlei Künsten herumtummeln kann. Mögen Ew. Excellenz mein Raisonnement auch so ansehen.</p>
+
+               <p>Allein wie in den Naturwissenschaften eine Beobachtung, so giebt es in den moralischen und den politischen ein Gefühl und einen Takt, die bestimmen und entscheiden.</p>
+
+               <p>Das Raisonnement dient nur zur Verständigung. Von inniger Seele wünsche ich nun für das Wohl, die Ehre und den Glanz unseres Staates, dass, wenn Ew. Excellenz Plan angenommen wird, und man, wohin seit einigen Jahren die Neigung geht, Provinzial- ministcr schallt, Ihr Gefühl Sie hierin nicht getäuscht haben möge.</p>
+
+               <p>Leben Sie herzlich wohl!</p>
+
+               <p>Beriin, den i. Februar 182:</p>
+
+               <p>Humboldt.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

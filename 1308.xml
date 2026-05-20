@@ -1,0 +1,485 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Verschiedenes</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Dreizehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif13humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1920">1920</date>
+                  </imprint>
+                  <biblScope unit="page" from="290" to="319"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="13.290" xml:id="pbXIII290"/>
+            <p>E. Verschiedenes.</p>
+
+            <p>a. Amtsantritt.</p>
+
+            <p>I. Dohna an Humboldt. ^) Mit sehnsuchtsvoller Erwartung und mit der innigsten Freude sehe ich dem Augenblick entgegen, in welchem Ew. Hochwohl- geboren den wichtigen Posten, zu welchem Dieselben durch das ausgezeichnete Vertrauen des Königs Majestät berufen worden sind, antreten und dadurch zugleich dem Wunsch des theuern deutschen Vaterlandes und aller derer, welche sich auch im fernen Auslande mit heiliger Wärme und Gründlichkeit für die höhere Bildung der Menschheit, für Wissenschaft und Kunst interessiren, erfüllen werden.</p>
+
+            <p>Bis zu diesem ersehnten Augenblick, in welchem Ew. Hoch- wohlgeboren die specielle Leitung der Geschäfte der Ihnen an- vertraueten Section übernehmen, dürften Dieselben wahrscheinlich geneigt seyn. Sich von dem Zustande der Geistlichen und Schul- Angelegenheiten, den darüber obwaltenden Bedürfnissen und vor- handenen Hülfsmitteln, gehörig zu unterrichten. In der abschriftlichen Anlage beehre ich mich, Ew. Hoch- wohlgeboren dasjenige mitzutheilen , was in dieser Hinsicht an sämmtliche Consistoria und an die vorzüglichsten wissenschaftlichen Behörden in Preussen, Pommern, den Marken und Schlesien, auch gleichlautend an das evangelisch Lutherische, imgleichen an das französische OberConsistorium zu Berlin heute erlassen worden ist, und bemerke dabei, dass bis jetzt die Consistoria (mit Ausnahme des Kurmärkischen, welches für sich bestehet, und des Ostpreussischen und Litthauischen, die schon mit den Kammern rathschlagen, 77iüsse jedoch bevorworten, wenn er wünsche, vorerst festgestellt zu sehen, was der Staat zu diesem Behuf aus seinen Fonds leisten könne, solches das Resultat ergäbe, dass garnichts dazu übrig sey , indem, wie ihm bekannt seyn würde, die gefahrvolle politische Lage des Staats es zur dringendsten aller Verpflichtungen mache, die Staatsfonds zu Abtragung der grossen Schuld an Franckreich zu verwenden, insofern solche nicht zur Erhaltung des Innern noth- wendig absorbirt werden. Es komme also in Absicht des Schulwesens immer wiederum auf die Nothwendigkeit einer überzeugenden Darstellung von den wahren und unumgänglichen Bedürfnissen dieses Zweigs an, und nach dieser würden sich die Leistungen abmessen lassen, welche der Staat dafür auf seine Fonds übernehmen könne.<pb n="13.291" xml:id="pbXIII291"/> hieselbst und in Gumbinnen vereinigt worden) noch mit den Provincial-Justiz-Collegien vereinigt sind.</p>
+
+            <p>Die Verbindung des Westpreussischen Consistorii mit der p. Kammer zu Marienwerder soll jedoch in kurzem geschehen und in den übrigen Provinzen wird solche gleichfalls eintreten, sobald die von des Königs Majestät bereits vollzogene und im Druck befindliche Verordnung wegen verbesserter Einrichtung der ProvinzialPolizei und FinanzBehörden <note type="footnote" n="^)" resp="gnd-116890657"><hi>Vgl. Heilbaum, Die Geschichte des ersten preussischen Schulgesetzentwurfs (i'jgS — 180-]) in der Monatsschrift für höhere Schulen i. Humboldt hat das Ma- terial tatsächlich erhalten. Von Scheve war Präsident im Oberschulkollegium, im Lutherischen Oberkonsistorium und Mitglied zahlreicher andrer Kollegien; vgl. oben S. 255 und Spranger S. j4.</hi></note> zur Ausführung kommt.</p>
+
+            <p>Dem Vernehmen nach, soll der ehemalige Chef des Geist- lichen Departements, Herr StaatsMinister von Massow Excellenz, bereits eine sehr ausgebreitete Sammlung von gar mannigfaltigen Materialien zur Reform und Verbesserung der Geistlichen und SchulAngelegenheiten veranstaltet haben, welche Ew. Hochwohl- geboren auf Dero Aufforderung durch das OberSchulCollegium oder durch den Herrn Präsidenten von Scheve werden vorgelegt werden können. ^)</p>
+
+            <p>Auch sind während der interimistischen Verwaltung der Geistlichen und Schul-Sachen von Ost- und VVestpreussen im vormaligen Preussischen Provincial-Depanement, mehrere Nachrichten über das Schulwesen nach der abschriftlichen Anlage erfordert, jedoch noch nicht eingekommen. ^) Sobald dieses geschiehet, werde ich nicht ermangeln, Ew. Hochwohlgeboren davon Mittheilung zu machen. Es ist jetzt die Absicht, ähnliche Nachrichten aus den übrigen Provinzen zu erfordern.</p>
+
+            <p>Ich werde, wie es sich ganz von selbst versteht, bis zu dem Augeijblicke, in welchem Ew. Hochwohlgeboren ganz die Ge- schäfte übernehmen. Denselben von den vorkommenden erheblichen Gegenständen Kenntniss geben, vorzüglich keine irgend wichtige Stelle ohne Ihre Zuziehung besetzen und überhaupt alles beizutragen mich beeifern, um Ihr künftiges Verhältniss zu Ihrer Zufriedenheit einzurichten.<pb n="13.292" xml:id="pbXIII292"/> oQo 3. Amtliche Arbeiten aus den Jahren 1809 und 1810.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Vom 26. Dezember 1808; vgl. Preussische Gesetzsammlung 1806— 1810 S. 404') Gemeint ist eine Verfügung von Schroetters vom 27. September 1808, der 4 Umfrageformulare beiliegen mit Bezug auf i) Landschulen, 2) Stadtschulen, j^) Erziehungsanstalten. 4) Lehrer seminarien.</hi></note></p>
+
+            <p>Da Ihnen auch ein Expedient und Kanzelist bei Ihren vorläufigen Arbeiten nöthig seyn wird; so überlasse ich Ew. Hoch- wohlgeboren, Sich dieserhalb an den Herrn Geheimen StaatsRath und OberPräsidenten Sack beliebigst zu wenden, welcher beauftragt ist, Ihnen hiezu zwei brauchbare Subjecte anzuweisen, oder für deren Remuneration zu sorgen, im Fall Ew. Hoch wohlgeboren vorziehen sollten, selbige unter den dortigen Officianten des vormaligen General-Directorii Selbst zu wählen. Königsberg, den 24ten Januar 1809.</p>
+
+            <p>Dohna.</p>
+
+            <p>2. Humboldt an Dohna. ^)</p>
+
+            <p>Berlin, den 4. Februar, 1809.</p>
+
+            <p>Ew. Excellenz zwei geehrteste Schreiben vom 24. und 27. pr. sind richtig vor einigen Tagen bei mir eingegangen, und je aufrichtiger ich Denselben für die mir geäusserten schmeichelhaften Gesinnungen verbunden bin, desto lebhafter ist mein Wunsch, wenigstens einigermassen den Erwartungen zu entsprechen, welche Sie darauf zu gründen die Güte haben. Mein neuliches Schreiben an des Herrn Staats und CabinetsMinisters Grafen von Goltz Excellenz^) wird Ew. Excellenz ein überzeugender Beweis gewesen seyn, welchen Begriff ich von der Wichtigkeit des mir von des Königs Majestät allergnädigst angetragenen neuen Berufs hege, und wie unangemessen ich meine Kräfte dem Umfange und den Schwierigkeiten desselben finde. Indem ich mich nun hierin, so wie in Absicht meines ganzen künftigen Schicksals, allein der Entscheidung Sr. Königlichen Majestät unterwerfe, werde ich mit ausnehmendem Vergnügen die Gelegenheit, schon in der Zwischenzeit und wie auch jene Angelegenheit entschieden werden möge, thätig zu seyn, ergreifen, welche Ew. Excellenz mir darzubieten die Gewogenheit haben, und die ich mit herzlichem Danke für einen neuen Beweis Ihres gütigen Vertrauens erkenne.</p>
+
+            <p>Ich werde nemlich sogleich, von Anfang der künftigen Woche an, mich bemühen, die zu den bei der Section des Cultus und öffentlichen Unterrichts vorzunehmenden Einrichtungen nöthi- gen Materialien über den Zustand der Geistlichen und Schul- Angelegenheiten, die Bedürfnisse derselben, und die dabei vor') Eigenhändiges Konzept.<pb n="13.293" xml:id="pbXIII293"/> handenen Hülfsmittel einzusammeln. Ich werde dabei die Befehle benutzen, welche Ew. Excellenz an die Consistoria und Universitäten des Landes haben ergehen lassen, und nehme mir nur die Freiheit, Denselben gehorsamst anheimzustellen, ob nicht ähnliche auch an die Akademieen der Wissenschaften und Künste allhier zu erlassen seyn dürften? Meine erste Sorge wird natürlich die seyn, mich hier durch die Vermittlung des Herrn Praesidenten von Scheve aus den Registraturen des geistlichen Departements, des OberConsistorii und des Ober- Schul-Collegii zu unterrichten, um unnütze Anfragen zu vermeiden, und ich werde dort unstreitig das schon von dem Herrn Staats Minister von Masso w Excellenz zweckmässig Vorgearbeitete antreffen.</p>
+
+            <p>Ueberaus wichtig und schätzbar werden gleichfalls diejenigen Nachrichten über das Schulwesen in Ost- und Westpreussen seyn, für deren Einziehung man bereits Sorge getragen hat, da schon die mir von Ew. Excellenz gewogenst mitgetheilten Fragen den Umfang und die wohl überlegte Anordnung der beabsichteten Erkundigungen beweisen.</p>
+
+            <p>Indess ist in dieser Rücksicht, meines Erachtens, im jetzigen Augenblick ein doppeltes Geschäft zu unterscheiden.</p>
+
+            <p>Es giebt bei der jetzt vorzunehmenden Organisation des Schulwesens einige Punkte, welche die Wiederherstellung in Ver- fall gerathener, oder die Errichtung neuer Institute an der Stelle verloren gegangener betreifen, und da eine zu lang fortgesetzte Ungewissheit über dieselben von nachtheiligen Folgen seyn könnte, sobald als möglich entschieden werden müssen. Diejenigen Data zu sammeln, welche zur vollständigen Uebersicht und sicheren Entscheidung dieser Punkte dienen können, wird daher mein erstes und angelegentlichstes Geschäft seyn.</p>
+
+            <p>Etwas Andres ist es nachher zur Uebung der erforderlichen Aufsicht und Beurtheilung der nöthigen Verbesserungen Nachrichten über die Beschaffenheit aller Schulanstalten überhaupt einzuziehen. Dies Geschäft, das einer vollständigen Prüfung und Revision dieser Anstalten gleichkommt, erfordert nicht nur in der Ausführung nothwendig Zeit, sondern auch in der Anordnung selbst, ausser der Bestimmung der Fragen, oder der Angabe der Methode der zu erstattenden Berichte, wenn sich vielleicht nicht alles bequem unter Fragen fassen Hesse, noch eine vorzügliche Sorgfalt in der Auswahl solcher Personen, welche diese Prüfung vorzunehmen im Stande sind.</p>
+
+            <pb n="13.294" xml:id="pbXIII294"/>
+            <p>Da dies nun in Ost- und Westpreussen bereits zweckmässig eingeleitet ist, so werde ich mir angelegen seyn lassen, dasselbe auch in den übrigen Provinzen vorzubereiten, indess nicht verfehlen, meine Gedanken darüber erst Ew. Excellenz zur gefälligen Beurtheilung und Entscheidung vorzulegen.</p>
+
+            <p>Was Ew. Excellenz übrigens die Gewogenheit haben, mir von dem Antheil zu sagen, welchen Sie mir schon jetzt an den Geschäften der Section des Cultus und öffentlichen Unterrichts gütigst erlauben wollen, ist mir ein neuer Beweis Ihrer gütigen Gesinnungen gegen mich und des Vertrauens gewesen, welchem zu entsprechen ich ununterbrochen eifrigst bemüht seyn werde.</p>
+
+            <p>Berlin, den 4. Februar, 1809. H.</p>
+
+            <p>3. Humboldt an Dohna. <note type="footnote" n="^)" resp="gnd-116890657"><hi>Eigenhändiges Konzept.</hi></note></p>
+
+            <p>Berlin, den 28. Februar, 1809. Da Se. Majestät der König allergnädigst geruhet haben, mich durch die von Allerhöchstdemselben empfangene CabinetsOrdre vom 20. huj. in Stand zu setzen, den mir mit so vieler Huld anvertrauten Posten wirklich anzutreten, und auch Ew. Excellenz in dem mir mitgetheilten Schreiben an den Herrn Geheimen StaatsRath und OberPraesidenten Sack bereits, dass dies geschehen ist, voraussetzen, so eile ich Ew. Excellenz die Versicherung der Verehrung und der Ergebenheit zu wiederholen, welche mich immer für Sie beseelt haben. Ich bitte Ew. Excellenz, überzeugt zu seyn, dass ich mir aus innigem Herzen Glück wünsche, der Section des Cultus und öffentlichen Unterrichts in dem Ministerium eines Mannes vorzustehen, welchen der wärmste und lebendigste Eifer für alles Grosse, Gute und Schöne belebt, und bei dem jedes auf Gründung und Befestigung aufgeklärter und edler Grundsätze ^) gerichtete Unternehmen der günstigsten Aufnahme und der thätigsten Mitwirkung gewiss ist. Mein eignes Bestreben, Ew. Excellenz gütigen Erwartungen in meinem Fache, nach allen meinen Kräften, zu entsprechen, wird Ihnen, wie ich mir zu schmeicheln wage, ein überzeugender Beweis der Wahrheit und Aufrichtigkeit dieser Gesinnungen seyn.</p>
+
+            <p>Um sogleich die volle Wirksamkeit meines neuen Postens anzufangen , habe ich den beiden hiesigen Akademien und dem Herrn Praesidenten von Scheve und durch ihn den unter seinem</p>
+
+            <p>'•') „Grundsätze" verbessert aus „Gesinnungen".<pb n="13.295" xml:id="pbXIII295"/> Vorsitz arbeitenden Käthen angezeigt, dass ich jetzt in die Thätig- keit meines Amtes eingetreten sey, und ich werde nicht versäumen, soviel es schon jetzt möglich seyn wird, alles dasjenige wahrzunehmen, was zu meinem Geschäftskreis gehört. Nur muss ich Ew. Excellenz gehorsamst bitten, mir gütigst zu erlauben, da ich mich hier noch bis jetzt ganz allein befinde, mich öfter um Zustimmung und Befehl an Ew. Excellenz zu wenden, als ich sonst bei den wichtigern und ausgebreiteten Geschäften Ihres Ministeriums zu thun wagen würde.</p>
+
+            <p>Im gegenwärtigen Augenblick bleibt mir weiter nichts übrig, als mich Ew. Excellenz nachsichtsvollem Wohlwollen und der Fortdauer der Gesinnungen zu empfehlen, die in jeder Rücksicht einen so grossen und unschätzbaren Werth für mich haben.</p>
+
+            <p>Berlin, den 28. Februar, 1809.</p>
+
+            <p>Humboldt. b. Humboldt an Nicolovius über die geistlichen und Schuldeputationen. ^)</p>
+
+            <p>Berlin, den 4ten März 1809.</p>
+
+            <p>Extract.</p>
+
+            <p>Der Herr StaatsMinister Graf von Dohna Excellenz hat mir unterm 18. praet. Abschriften einiger Verfügungen zugesendet, welche die Zuziehung würdiger Geistlichen zur MitDirection der zw. bildenden Geistlichen und SchulDeputationen betreffen.</p>
+
+            <p>Nichts könnte mehr mit meinen Gesinnungen und innersten Ueberzeugungen übereinstimmen, als die Absicht, welche durch diese Anordnungen erreicht werden soll, und der ganze Inhalt derselben scheint mir in so hohem Grade zweckmässig, dass ich selbst schon gleich nach Empfang der Instruction für die Regierungen dem Herrn Grafen Dohna meine Besorgniss äusserte, dass die Verbindung der Kirchen- und Schul-Deputationen mit den ehemaligen Kammern leicht den Nachtheil haben könnte, dass die Reinheit der Grundsätze, welche die höchste, und am meisten von allen kleinlichen politischen und oeconomischen oder sonst beschränkten Rücksichten entfernte ^Angelegenheit des Staats noth- wendig leiten müssen, durch den zu grossen Einfluss von Personen, die mit ganz verschiedenem Interesse umzugehen gewohnt</p>
+
+            <p>'1 Von Schreiberhand.<pb n="13.296" xml:id="pbXIII296"/> sind, gedrückt werden könne. Wissenschaftlich gebildeten, prac- tisch erfahrenen, und durch ihr Amt selbst bei ihren Mitbürgern angesehenen Geistlichen bedeutende Mitwirkung und entscheidenden Einfluss bei allen auf Kirchen und Schulen Bezug habenden Verfügungen der Regierung zu verschaffen, ist nun gewiss das beste Mittel jenem nur zu sehr zu befürchtenden Nachtheil wirksam zu- vorzukommen.</p>
+
+            <p>Nur erscheint mir die getroffene Verfügung, so wie dieselbe in dem Schreiben an die OberPräsidenten und dem Rescript an die Consistorien ausgedrückt ist, noch einige Erläuterungen zu erfordern, welche ihr erst die nothwendige, meines Erachtens ihr jetzt noch mangelnde, Klarheit und Bestimmtheit geben.</p>
+
+            <p>In der CabinetsOrdre vom 1 3 i£5 praef. wird nemlich gesagt^ dass es rathsam seyn werde</p>
+
+            <p>„dem Praesidium einer jeden Kammer einen angesehenen</p>
+
+            <p>Geistlichen als Mitglied zuzuordnen" und in dem Schreiben an die OberPräsidenten heisst es, dass der Geistliche MitDirector nicht als eigentlicher Geschäftsmann ge- braucht werden solle. Es wird also dort von ihm als einem MitDirector, der einen weltlichen Vorsitzenden Rath, den Präsidenten oder Director, welcher die specielle MitDirection der Geistlichea und SchulDeputation führt, zur Seite hat, gesprochen.</p>
+
+            <p>Hierin scheint mir nun eine Dunkelheit zu liegen, welche nothwendig aufgeklärt werden muss, wenn die OberPräsidenten im Stande seyn sollen die Verfügung zu einer den wohlthätigen Absichten des Ministeriums gemässen Ausführung zu bringen.</p>
+
+            <p>Denn wenn man die neuen, die Organisation der Regierungen betreffenden Verordnungen mit Aufmerksamkeit durchliest, so scheint es klar, dass jede RegierungsDeputation ihren eigenen Director haben und also das Praesidium aus 5 Personen, nemlich dem Präsidenten und 4 Directoren bestehen soll.</p>
+
+            <p>Zwar heisst es in der Verordnung wegen der ProvincialBe* hörden^) § 17.</p>
+
+            <p>ausser demx Praesidium, welches aus dem Präsidenten und zweien bis dreien RegierungsDirectoren besteht u. s. f. Allein diese Stelle hat mich auch gleich befremdet, man müsste denn annehmen, dass bei schwach besetzten Regierungen Ein und derselbe Director mehreren Deputationen vorstehen sollte.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Preussische Gesetzsammlung 1806— 1810 S. 46g.</hi></note></p>
+
+            <pb n="13.297" xml:id="pbXIII297"/>
+            <p>Nach der neuen Verfügung muss nun jede Kirchen- und SchulDeputation einen Geistlichen zum Director haben und dieser muss alle DirectorialGeschäfte besorgen, oder es muss, wie das Schreiben an die OberPräsidenten besagt, zwei Directoren, einen geistlichen und einen weltlichen geben, so dass das Praesidium eine Person mehr dadurch erhält.</p>
+
+            <p>Wie aber der weltliche mit Vorsitzende Rath jemals der Präsident selbst seyn könne, ist mir nicht klar, denn nach dem Inhalte der Instruction für die Regierungen^) soll, soviel ich absehe, der Präsident nie einer einzelnen Deputation, als ihr Director vorstehen. Dass nun eine solche gemeinschaftliche Direction, wenn dieselbe wirklich überall eingeführt werden soll, ihre Schwierigkeiten und Nachtheile hat und die Maschine verwickelter macht, ist wohl keinem Zweifel unterworfen.</p>
+
+            <p>Könnte man (und am Ende ist doch die Zahl der Regierungen nicht so gross) jeder geistlichen Deputation einen Mann zum Director geben, der keinen der Nachtheile befürchten Hesse, zu deren Vermeidung man die geistlichen MitDirectoren bestimmt, so wäre dies unstreitig besser.</p>
+
+            <p>Wo ein Geistlicher Neigung und Müsse genug hätte (und wenigstens hier und da trifft dies gewiss ein) sich der ganzen Geschäftsführung der Deputation als Director zu unterziehen, könnte auch er genommen werden und so wäre allerdings alles einfacher.</p>
+
+            <p>Jetzt dürfte es aber wohl nothwendig seyn, die Verhältnisse der beiden Directoren zu einander, zum Praesidio und den Räthen noch genau und bestimmt festzusetzen. Der Gedanke, Räthen der ProvincialBehörden zugleich wie bei Herrn Borowski ^) geschehen ist, Titel zu geben, die nur für die obern Behörden passen, um ihnen dadurch die Pflicht aufzuerlegen, der Section des Cultus auf Erfordern in wichtigen Angelegenheiten ihr Gutachten abzugeben, ist, da darunter natürlich über die einzelne Provinz herausgehende allgemeine Angelegenheiten verstanden werden, sehr glücklich, da er gleichsam der Section auswärtige Mitglieder verschafft. Ich war gerade, als ich dies empfing, im Begriff etwas Aehnliches vorzuschlagen.</p>
+
+            <p>Ew. Hochwohlgeboren ersuche ich gegenwärtig, mir gefälligst anzuzeigen, ob die oft erwähnte Verfügung in dem Sinne genom') Vgl. ebenda S. 481, besonders § gi. *) Vgl. oben S. 211.<pb n="13.298" xml:id="pbXIII298"/> men worden ist, welchen ich ihr beilege, vorher aber die von mir geäusserten Bedenken Sr. Excellenz dem Herrn Minister vorzutragen und mir das Weitere darüber mitzutheilen. Auch wünsche ich Mittheilung des ganzen Berichts vom 24. Januar ^., von welchem der Verfügung nur ein Extract beigefügt ist, in sofern nemlich der ganze Bericht von der Section herrührt, wie ich voraussetzen muss.</p>
+
+            <p>p. ich verharre p. Ew. p.</p>
+
+            <p>Berlin, 4. März 09.</p>
+
+            <p>ergebenster V. Humboldt.</p>
+
+            <p>c. Berufung des Predigers Natorp.^)</p>
+
+            <p>Berlin, den 14. März, 1809.</p>
+
+            <p>Eins der dringendsten Bedürfnisse bei der Organisation der meiner Leitung anvertrauten Behörden ist unstreitig, Personen zu besitzen, welchen mit Sicherheit die speciellere Aufsicht auf die Land- und niederen Bürgerschulen anvertraut werden kann, und von welchen sich heilsame Verbesserungen in diesem wichtigen Theile der Nationalerziehung erwarten lassen, und ich freue mich, Ew. Excellenz hierzu einen Mann vorschlagen zu können, der sich vorzugsweise diesem Fache gewidmet und sich einen entschiedenen Ruf darin erworben hat, den Prediger Natorp in Essen. Ew. Excellenz sind vermuthlich Selbst schon näher mit den Verdiensten und den Schriften dieses Mannes bekannt, und ich darf mir daher mit der Hoffnung schmeicheln, dass auch Sie schon ein günstiges Vor- urtheil für ihn besitzen.</p>
+
+            <p>Soviel sich aus seinen Schriften urtheilen lässt (denn persönlich ist er mir nicht bekannt) hat er in der That mehr, als sonst andre, den wahren Gesichtspunkt gefasst, der bei der Bildung der untern Volksklassen nicht verlassen werden darf. Denn er geht überall auf die Begründung eines festen, bestimmten, durch Moralität und Religion zugleich gestärkten und erwärmten Charakters aus;- hängt nirgend am Buchstaben; und ist immer bemüht, den gesunden und schlichten Sinn, und die reine und natürliche Empfindung zu wecken, aus welcher jener Charakter gleichsam von selbst ent') Eigenhändiges Konzept.<pb n="13.299" xml:id="pbXIII299"/> springt. Man darf daher von ihm licinen der verderblichen Mis- bräuche, dem Volke bloss auf das Bedürfniss des Lebens berechnete mechanische Fertigkeiten beibringen, oder dasselbe mit Fleiss innerhalb der Schranken gewisser Begriffe halten, oder endlich den Kreis seiner Kenntnisse auf eine zweckwidrige Weise erweitern zu wollen, befürchten.</p>
+
+            <p>Allein was ihn noch ausserdem vorzüglich schätzbar macht, ist, dass er mit der Theorie auch Erfahrung verbindet, und wie seine Schriften häufig beweisen, oft und reiflich über die Möglich- keit nachgedacht hat, die Schwierigkeiten, welche der Verbesserung der unteren Schulen im Wege stehen, hinwegzuräumen. Die Mittel, sowohl Einrichtungen dieser Art ohne zu grossen Aufwand machen, als das Volk selbst bewegen zu können, zu dem nun einmal unvermeidlichen nach Vermögen mit beizutragen, werden ihm daher w^eniger fremd seyn.</p>
+
+            <p>Und dieser Punkt verdient auf alle Weise beherzigt zu werden. Ungeachtet der Grossmuth, mit welcher Se. Majestät der König sehr bedeutende Summen zur Verbesserung der Land- und niederen Bürgerschulen hergeschossen hat, war es doch bisher immer unmöglich, eine wesentliche und bedeutende Verbesserung zu bewirken, und es ist allgemein anerkannt, dass, auch in Rücksicht des Aufwandes, eine solche Verbesserung schwerer zu bewirken ist, als die Einrichtung der glänzendsten gelehrten Anstalten. Man muss also schlechterdings darauf denken, einen andern Weg einzuschlagen, und nicht vom Staate allein zu fordern, was der Staat allein nicht zu leisten vermag, sondern, da die Erziehung überhaupt, vorzüglich aber dieser Theil derselben, im eigentlichsten Verstände Sache der Nation ist, auch die Nation unmittelbar, nur auf eine zweckmässige, und in die bisherige Staatsverwaltung eingreifende Weise, dazu mitwirken und beitragen zu lassen.^) An dem Willen dazu wird es ihr nicht mangeln, sobald nur das rechte Interesse in ihr geweckt wird, allein dazu w^erden in den leitenden Behörden Männer erfordert, die mit Erfolge auf sie einwirken können.</p>
+
+            <p>Dass aber für diesen Theil der Erziehung besonders alles geschehen, ja selbst das unmöglich scheinende versucht werden muss, davon sind Ew. Excellenz gewiss auch mit mir überzeugt, sowie auch davon, dass es damit bei w^eitem anders werden muss, als ij Vgl. oben S. 288.<pb n="13.300" xml:id="pbXIII300"/> 300 es bisher gewesen ist. Die Volksbildung ist die Basis aller Bildung überhaupt. Sie macht nicht nur (so segensvoll auch dies allein schon ist) glücklichere Menschen und gehorsamere Unterthanen; sondern aus ihr entspringt auch allein die ächte Vaterlandsliebe, und sie wirkt selbst in der höheren Bildung mit fort, welche sogleich anfängt, in Spitzfindigkeit und Tändelei auszuarten, und bis auf den Gehalt ihrer eignen Sprache verliert, wenn das Volk einen festen, geraden, durch natürliches, aber wahres Gefühl gehobenen Charakter zu besitzen aufhört. Wirklich zehrt dieselbe in den meisten Ländern nur noch von dem Fonds, der den Nationen in ehemaligen Zeiten eigen war.</p>
+
+            <p>In den Preussischen Staaten kann auch hierin der Grund zu einer heilsamen Verbesserung gelegt werden. Die Aufmerksamkeit des Publikums ist seit einigen Jahren gar sehr auf diesen Punkt gerichtet, und man hat Lehrmethoden erfunden, die Prüfung und Verbesserung erheischen, aber die es unverzeihlich wäre, unversucht und unbenutzt liegen zu lassen. Der erste Schritt hierzu thätig zu seyn ist, Leute zu versammeln, die diesem Geschäfte gewachsen sind, und als einen Mann, zu dem man das Vertrauen hegen kann, dass er nicht nur dies selbst seyn, sondern auch Andre fähige 'bilden und heranziehen werde, schlage ich den Prediger Natorp vor.</p>
+
+            <p>Ich werde jetzt nur ein Paar Worte über die Stelle hinzu- zusetzen brauchen, die man ihm, meines Erachtens, anweisen müsste.</p>
+
+            <p>Da es dem beabsichteten Zweck am meisten entsprechen würde, ihm einen allgemeinen Einfluss zu verschaffen, so würde er natürlicherweise seinen Platz in der Section des öffentlichen Unterrichts finden und zu seinem besonders abgegränzten Departement die Land- und niedern Bürgerschulen erhalten. Allein folgende Gründe lassen mich wünschen, ihn auch zugleich bei der hiesigen KurMärkischen geistlichen Regierungs- Deputation angestellt zu sehen.</p>
+
+            <p>1. Die wichtigsten und unentbehrlichsten Werkzeuge zur Verbesserung der Land- und Bürgerschulen sind die Prediger, die sogar noch bei weitem mehr, als bis jetzt der Fall ist, thätige Mitarbeiter an denselben werden müssen. Nun heisst es zwar durchaus den neuen Organisationsplan verkennen, wenn man die Unterabtheilung für den öffentlichen Unterricht als eigentlich ge- trennt von der für den Cultus ansehen wollte; allein zu läugnen</p>
+
+            <pb n="13.301" xml:id="pbXIII301"/>
+            <p>301 ist dennoch nicht, dass in der RegierungsDeputation Schul- und Kirchenwesen noch bei weitem enger verbunden sind. Die Arbeit in derselben muss daher noch eine andre und demjenigen, der thätig auf die Schulverbesserung einwirken soll, unentbehrliche Ansicht gewähren.</p>
+
+            <p>2. Die RegierungsDeputation wirkt zwar nur auf Eine Provinz, aber praktisch und unmittelbar, und wer an allgemeinen Planen zu arbeiten bestimmt ist, verfährt zweckmässiger, wenn er auch selbst mit den Schwierigkeiten der Ausführung zu kämpfen hat, und den" Erfolg zu prüfen im Stande ist.</p>
+
+            <p>3. Da die Prüfung der Schullehrer und vielleicht selbst der Prediger, und wenigstens die Ernennung der letzteren künftig bei der Deputation verbleibt, so ist es nothwendig, sich da, wo Regierung und Section an demselben Ort vereinigt sind, nicht des Vortheils zu berauben, demjenigen, welcher das Fach der Landschulen bearbeitet, auch Einfluss auf die Besetzung der Predigerstellen zu verschaffen.</p>
+
+            <p>4. Bisher bestanden das Kur-Märkische, das OberConsistorium und das OberSchulCollegium fast ganz aus denselben Mitgliedern,^ und dies brachte unstreitig Einseitigkeit hervor. Allein jetzt muss auf der andern Seite auch alles Mögliche geschehen, um die Verbindung der an ihre Stelle tretenden Behörden zu erleichtern, und da können Mitglieder, welche regelmässig in beiden Sitz und Stimme haben, ausserdem dass sie die Gleichförmigkeit der Grundsätze befördern, und die Ansichten des einen Collegii durch die des andern berichtigen helfen, oft in wenigen Worten Aufklärungen geben, die sonst nicht ohne grössere Weitläuftigkeit zu erhalten seyn würden.</p>
+
+            <p>Sollten Ew. Excellenz in diesen, sich auf die Organisation im Ganzen beziehenden Ideen mit mir übereinstimmen, so ersuche ich Sie gehorsamst, Sr. Majestät dem Könige vorzuschlagen:</p>
+
+            <p>1. den Prediger Natorp zum Mitgliede der geistlichen Deputation in der KurMärkischen Regierung zu ernennen, und ihm vielleicht auch in derselben denjenigen Antheil an der Direction selbst zu verleihen, welchen Ew. Excellenz, nach vielleicht mit dem Praesidio zu nehmender Rücksprache, für gut finden werden,</p>
+
+            <p>2. denselben aber zugleich zum Assessor der Section des öffent- lichen Unterrichts zu bestimmen.</p>
+
+            <p>Die Beifügung von Assessoren zu den StaatsRäthen würde der Section des Cultus und öffentlichen Unterrichts überhaupt noch<pb n="13.302" xml:id="pbXIII302"/> den Vortheil gewähren, was bei einer Oberbehörde so nothwendig ist, aus einer grösseren Anzahl stimmführender Mitglieder zu bestehen, ohne dass dadurch die Zahl der höheren Staatsämter, und der Besoldungsetat zu beträchtlich vermehrt würde. Berlin, den 14. März, 1809.</p>
+
+            <p>Humboldt. An des Herrn StaatsMinister des Innern, Grafen zu Dohna, Excellenz.</p>
+
+            <p>d. Vokation der Prediger. ^) (An Dohna.)</p>
+
+            <p>' Berhn, den 25. März 1809. Ew. Excellenz werden aus der abschriftlich inliegenden Eingabe des Herrn OberConsistorialPräsidentenvonSchevezu ersehen die Güte haben, dass derselbe mich um die Ausfertigung der Vocation für den Feldprediger Kegler, welcher als Adjunctus des Predigers Weisser zu Königshorst aim spe succedendi angestellt werden soll, ersucht. Zugleich fragt er an, wie es künftig in ähnlichen Fällen gehalten werden soll?</p>
+
+            <p>Da hier ein wichtiger und, wie es mir scheint, durch die neueren Organisationsverordnungen noch nicht gehörig bestimmter Punkt in Frage kommt, so halte ich es für meine Pflicht, mich deshalb unmittelbar an Ew. Excellenz zu wenden.</p>
+
+            <p>Die Geschäftslnstruction für die Regierungen vom 26t£5 December praet. 2) bestimmt, daß die Besetzung der dem Königlichen PatronatRechte unterworfenen Geistlichen und SchulStellen der geistlichen und SchulDeputation der Regierungen zustehen soll. Ich kann indess nicht glauben, dass dadurch die ehemals schlechterdings immer nothwendige Bestätigung dieser Ernennungen durch die OberBehörde, die damals das lutherisch geistliche Departement war, und jetzt die Section des Cultus und öffentlichen Unterrichts ist, aufgehoben seyn sollte.</p>
+
+            <p>Es kann der Section auf keine Weise gleichgültig seyn, aut die Besetzung der Pfarrstellen auch nicht den mindesten Einfluss zu haben, sondern höchstens nachher Anzeige zu erhalten, dass dieses oder jenes Subject ernannt sey. Nach § 39 der erwähnten Geschäftslnstruction soll jede Stellen-Besetzung allemal im Plenum<pb n="13.303" xml:id="pbXIII303"/> der Regierung zur Sprache gebracht werden, um zu erfahren, ob den anderen Mitgliedern Umstände, welche die Anstellung des gewählten Subjects wiederriethen, bekannt sind? Wieviel mehr nun wäre es zwecl^mässig, eben dies bei der Section zu thun, da diese ein noch viel näheres Interesse bei der Besetzung der Pfarrstellen, als die übrigen Deputationen der Regierung, hat, und da vorauszusetzen ist, dass sie nie versäumen wird, sich schon von den Universitäten her und auch sonst Kenntniss von den zu Predigerstellen aspirierenden Candidaten zu verschaffen?</p>
+
+            <p>Auf der anderen Seite ist es nothwendig, den Regierungen, da sie für die Besetzung der Predigerstellen verantwortlich seyn sollen, alle erforderliche Freiheit in dieser Rücksicht zu lassen, und es schiene mir daher folgender Mittelweg rathsam:</p>
+
+            <p>Die Regierungen wählten und ernennten die, dem Königlichen Patronat unterworfenen Prediger, zeigten aber die geschehene Wahl allemal zur Bestätigung der Section des Cultus und öffentlichen Unterrichts an; in dieser würde die Sache und zwar im Plenum beider Unter-Abtheilungen, da jeden Prediger, als natürlichen Aufseher der Schule seiner Gemeine, das Schulfach mit angeht, vorgetragen, und die geschehene Wahl entweder bestätigt oder verworfen. Dies letztere müsste aber nur dann geschehen können, wenn sich erhebliche Gründe gegen das gewählte Subject zeigten, nicht wenn bloss ein anderes vorzüglicher schiene, damit die Bestätigung nicht in wahre Besetzung ausartete. Die Section ge- wönne durch diese Einrichtung ausserdem, dass sie untaugliche Subjecte zurückweisen könnte, noch den Vortheil, auch da, wo sie die Bestätigung nicht wirklich verweigerte, doch aber die Wahl nicht recht zweckmässig fände, die RegierungsDeputation darüber zurechtweisen und ihr an dem einzelnen Beispiel, wie sie künftig besser zu verfahren habe, zeigen zu können.</p>
+
+            <p>Wirklich scheint mir nur auf diese Weise eine gehörige Con- trolle der Section über die Regierungen in diesem wichtigen Punkte möglich.</p>
+
+            <p>Die V^ocation müsste alsdann von der Section ausgehen, aber von dem Praesidio der Regierung oder dem Director der geist- lichen Deputation (wie dies nun beliebt werden würde) mit unterschrieben seyn. Durch diese Unterschrift, die bei den Vocationen der allein von der Section zu ernennenden Superintendenten weg- fiele, würde die Regierung und ihre Deputation für die Ernennung verantwortlich. In der Section selbst geschähe die Unterschrift<pb n="13.304" xml:id="pbXIII304"/> der Vocationen von dem Chef der beiden Unterabtheilungen derselben, sowohl wegen des Interesses, das die Section des öffentlichen Unterrichts an der Besetzung jeder Predigerstelle nimmt, als auch deswegen, weil diese Angelegenheit in der That von allgemeiner Wichtigkeit ist.</p>
+
+            <p>Die für die Ausfertigung der Vocationen zu zahlenden Gebühren flössen in die Kanzlei der Section, welche, so viel ich absehe, an die Stelle der Geheimen StaatsKanzlei des Geistlichen. Departements treten muss.</p>
+
+            <p>Der einzelne Fall wegen des Feldpredigers Kegler würde nun sogleich nach der hierüber zu nehmenden allgemeinen Entschei- dung, welche ich den höheren Einsichten Ew. Excellenz anheimstelle, zu bestimmen seyn.</p>
+
+            <p>Berlin den 25^ März i8oq.</p>
+
+            <p>Humboldt. An des Königlichen StaatsMinisters Herrn Grafen zu Dohna</p>
+
+            <p>Excellenz. ^) e. Humboldt an Nicolovius. '^)</p>
+
+            <p>Königsberg, den 3. December 1809. Meine jetzt so nah bevorstehende Abreise veranlasst mich Ew. Hoch wohlgeboren über die Führung der Geschäfte der Section während meiner Abwesenheit folgendes zu eröffnen.</p>
+
+            <p>Ich ersuche Ew. p. von Morgen an, wo es mir unmöglich seyn wird, noch selbst der Session beizuwohnen, das Praesidium sowohl hier als in Berlin zu führen, und es theils hiermit, theils mit der Unterzeichnung der Reinschriften, die sonst von mir voll- zogen werden, eben so zu halten, als es während meiner Reise nach Litthauen geschehen ist.</p>
+
+            <p>Bei Ew. p. Ankunft in Berlin scheint es mir zweckmässig, dass Ew. p. die Sessionen der Section noch so. wie bisher ungetheilt und bloss mit Zuziehung des Herrn StaatsRath Uhden abhalten, und nur da wo einzelne Fälle es Ihnen nöthig zu machen scheinen,</p>
+
+            <p>') Aus der AnWort vom Ö. April i8og: „Den Vorschlag, bei Besetzimg der Predigerstellen die Regierungen zu beschränken, finde ich aus denselben Gründen bedenklich, aus welchen ich mich nicht für die vorgeschlagenen Modifikationen bei Besetzung der Rektorstellen an untern und der untern Lehrerstellen an höheren Schulen habe erklären können" ; im übrigen empfehle sich Vorsicht bei der Wahl der Regierungsmitglieder und ihre Beaufsichtigung dw-ch die Oberpräsidenten.</p>
+
+            <pb n="13.305" xml:id="pbXIII305"/>
+            <p>305 die deutschen Geistlichen und die französischen Mitglieder ein- laden.</p>
+
+            <p>Da. es indess möglich wäre, dass dennoch Umstände einträten, welche dies nicht rathsam machten <note type="footnote" n="^)" resp="gnd-116890657"><hi>Nach „machten" gestrichen: „oder dass ein längerer Aufschub ihrer regel-</hi></note>, so wird es von Ew. p. Ermessen abhängen, dies auch früher abzuändern, alle Mitglieder zuzuziehen und beide Abtheilungen der Section einzeln arbeiten zu lassen.</p>
+
+            <p>Ew. p. werden auch alsdann die Gefälligkeit haben, den Vorsitz in der einen und der andern zu übernehmen, und die fernere Einrichtung muss künftig, wie Ew. p. schon mündlich mit mir übereinstimmten, aut folgenden Grundsätzen beruhen.</p>
+
+            <p>Die Section des Cultus und öffentlichen Unterrichts ist eine und eben dieselbe, und ihre beiden Abtheilungen müssen auf das engste zusammenwirken.</p>
+
+            <p>Ihre beiden Abtheilungen haben jedoch besondere Sessionen in welchen der jeder besonders bestimmte Chef den Vorsitz führt.</p>
+
+            <p>Eine Session wöchentlich für jede wird in der Regel zur Abmachung der Geschäfte hinreichen. Von beiden Chefs wird erwartet, dass sie soviel als möglich den beiderseitigen Sessionen beiwohnen, welche daher nie zu gleicher Zeit gehalten w^erden können. Allein die Anwesenheit des Sectionschefs in den Vorträgen für den Cultus bringt keine xVenderung im Praesidium hervor, und der besondere Chef des Cultus übernimmt für den Unterricht keine ^^ortragsSachen, es sey denn, dass er aus eigner Wahl es wünsche. Die Reinschriften für den Cultus unterzeichnet der besondere Chef desselben allein, die Concepte aber zeichnet der SectionsChef zugleich mit, um, da er die Sachen erbrechen soll, und doch nicht unausgesetzt wird den Vorträgen beiwohnen können, den Faden der Geschäfte nicht zu verlieren. Er erlaubt sich aber in den Concepten keine Aenderungen, ohne sich darüber mit dem besondern Chef für den Cultus vorher zu vereinigen.</p>
+
+            <p>Es freut mich ungemein im voraus überzeugt seyn zu können, dass Sie mit mir darin übereinstimmen, dass auf diese Weise die uns gemeinschaftlich übertragenen Geschäfte werden auf eine dem wichtigen Zweck, der uns beiden so sehr am Herzen liegt, entsprechende Weise geführt werden können.</p>
+
+            <p>mässigen Geschäftsthätigkeit von den Geistlichen übel empfunden würde". \V. V. Humboldt, Werke. XUI. 20</p>
+
+            <pb n="13.306" xml:id="pbXIII306"/>
+            <p>Herrn Staatsrath Schmedding und die beiden französischen Mitglieder ^) bitte ich Ew. p. auf jeden Fall so anzusehen, als gehörten sie der Section des Cultus und öffentlichen Unterrichts gemeinschaftlich an, wogegen diese Herren, wie ich im voraus überzeugt bin, keine Schwierigkeit machen werden. Den Geheimen Secretair Felgentreff habe ich angewiesen, sich sogleich nach meiner Abreise bei Ew. Hochwohlgeboren zu melden und von Ihnen die weitere Verfügung über seine Beschäftigung und eigenen Abgang zu empfangen.</p>
+
+            <p>f. Berufung von Klaproth.^)</p>
+
+            <p>Berlin, den 9. März 1810.</p>
+
+            <p>Der OberMedicinalRath Klaproth ^) ist durch die unglücklichen Ereignisse der letzt verflossenen Jahre in eine Lage versetzt worden, welche mich um so mehr veranlasst, Ew. Königlichen Majestät allerunterthänigst Vorschläge zur Verbesserung derselben zu machen, als dieser Mann den hiesigen gelehrten Instituten bereits wichtige Dienste geleistet hat, und auch die hier zu errichtende Universität sich mit Recht gleich grosse von ihm versprechen kann.</p>
+
+            <p>Das Gehalt, welches der OberMedicinalRath Klaproth vor dem Kriege genoss, floss zum grossesten Theile aus der ArtillerieAcademie- Casse. Denn ausser den 600 Rth. aus dieser Gasse bezog er nur noch 200 von der Academie der Wissenschaften, 160 als Mitglied der HofapothekenGommission, und 165 Rth. als Mitglied des OhcivCollegü media et sanitatis. Das Gehalt aus der Artillerie- AcademieCasse wurde seit dem Anfange des Krieges nicht mehr gezahlt; für das letzte Vierteljahr ist zwar die Zahlung einstweilen geleistet worden, und dasselbe wird auch nach der Äusserung des GeneralMajor von Scharnhorst tür das nächste Vierteljahr der Fall seyn; allein da die ArtillerieAcademie seit dem Jahre 1806 aufgehört hat, so finden diese interimistischen Zahlungen nur bis zur Einrichtung der allgemeinen MilitärAcademie statt. Das Gehalt von der Hofx'Xpo- thekenCommission kann sehr leicht, da das Schicksal der Hofapotheke noch nicht entschieden ist, gleichfalls authören; das bei<note type="footnote" n="*)" resp="gnd-116890657"><hi>Ancillon und von Lancizolle; vgl. Gebhardt i, 282. ') Konzept von Schreiberhand mit eigenhändigen Verbesserungen. *) Martin Heinrich Klaproth (ij4_3—i8iyj, Chemiker, seit ij82 Mitglied des CoUcgium medicum et sanitatis, seit ij8j Mitglied der Akademie der Künste, ij88 der der Wissenschaßen ; vgl. Lenz, Geschichte der Universität Berlin i, 207.</hi></note></p>
+
+            <pb n="13.307" xml:id="pbXIII307"/>
+            <p>:^o7 dem OhtTCollegio rnedico ist in ein Wartegeld von i6o Rth. verwandelt worden, und wenn gleich der OberMedicinalRath Klap- roth gegenwärtig 300 Rth. als Mitglied der wissenschaftlichen Deputation für das Medicinalwesen geniesst, so ist auch diese Anstellung ihrer Natur nach nur temporell. Dauernd kann derselbe also jetzt nur auf das geringe Gehalt bei der Academie der Wissenschaften rechnen.</p>
+
+            <p>Der OberMedicinalRath Klaproth gehört unleugbar z\x den ersten jetzt lebenden Chemikern. Er hat seine Wissenschaft durch wahre Entdeckungen bereichert und sich dadurch auch im Auslande einen Namen erworben, in dem sich nur sehr wenige Gelehrte Ew. König liehen Majestät Staaten mit ihm vergleichen können. Er hat ausserdem durch seine Lehrvorträge und vorzüglich durch die damit verbundenen genauen Experimente sehr viele trefliche Schüler gebildet, und auch bei Ew. p. p. ArtillerieCorps allgemein anerkannte Dienste geleistet.</p>
+
+            <p>Ich würde geglaubt haben, eine meiner ersten Pflichten zu versäumen, wenn ich nicht gesucht hätte, einen solchen Mann auf eine Weise hier zu fixiren, die ihm eine sorgenfreie Beschäftigung mit seiner Wissenschaft verstattete. Wirklich hatte der p. Klaproth im Anfang dieses Jahres einen ungemein vortheil- haften Ruf nach Russland erhalten ; er hat aber denselben sogleich und ohne Ew. pp. mit Bitten beschwerlich zu werden, auf meine ihm nur im allgemeinen gemachte Hofnung, dass auch hier werde für ihn gesorgt werden, abgelehnt.</p>
+
+            <p>So wie dies seinen uneigennützigen Patriotismus und seine Anhänglichkeit an Ew. p. p. beweist, so freue ich mich, ihm auch überhaupt in Absicht seiner patriotischen Gesinnung das vortheil- hafteste Zeugniss geben zu können. So hat er, um nur dies eine anzuführen, im letzten Kriege von der ihm von Frankreich aus wegen seiner wissenschaftlichen Verdienste unaufgefordert ertheilten Einquartirungsfreiheit keinen Gebrauch gemacht.</p>
+
+            <p>Die hier zu errichtende Universität könnte keinen berühmteren Lehrer der Chemie erhalten, und ich wage daher bei Ew. p. p. allerunterthänigst dahin anzutragen den OberMedicinalRath Klaproth mit einem vom i^ Januar c. ab zu zahlenden Gehalte von 1200 Rth. zum Professor der Chemie bei der hiesigen Universität aller- gnädigst zu ernennen, ihm aber dabei aufzugeben, seine jetzigen Vorlesungen beim ArtillerieCorps dafür fortzusetzen,<pb n="13.308" xml:id="pbXIII308"/> auch allerhöchst Sich vorzubehalten bei der künftigen Bildung der MilitärAcademie ihn vielleicht gleichfalls in Thätigkeit zu setzen.</p>
+
+            <p>Dies letztere glaube ich hinzufügen zu müssen, weil der Gene- ralMajor von Scharnhorst sich zweifelhaft gegen mich geäussert hat, ob es nicht nothwendig seyn dürfte, den OberMedicinalRath Klaproth bei der Militär-Academie anzustellen. Wann dieser Punkt entschieden seyn wird, dürfte auch erst bestimmt werden können, ob die ganzen 1200 Rth. oder welcher Theil davon wird auf die Fonds der hiesigen Universität angewiesen werden müssen.</p>
+
+            <p>Schliesslich kann ich mich nicht der ehrfurchtsvollen Aeusserung des dringenden Wunsches enthalten, dass, wenn Ew. p. p. vielleicht wieder einmal Gelehrten ehrenvolle Auszeichnungen zu er- theilen allergnädigst geruhen sollten, Allerhöchstdieselben die Gnade haben möchten, dabei auf den OberMedicinalRath Klaproth Rücksicht zu nehmen, welcher in der That vorzügliche Ansprüche darauf hat.</p>
+
+            <p>Beriin, den 9^ März 1810.</p>
+
+            <p>Humboldt. An des Königs Majestät.</p>
+
+            <head>
+               <title type="main">g. Votum über die wissenschaftlichen Deputationen und wissenschaftlich-technischen Kommissionen bei</title>
+            </head>
+            <div type="section" n="1">
+               <head>
+                  <title type="main">den Regierungen.)</title>
+               </head>
+               <p>Bemerkungen der GesetzgebungsSection und eigne noch reifere Ueberlegung haben bei der Section des öffentlichen Unterrichts Zweifel ge cn die Zweckmässigkeit einiger Punkte in der ent- worfenen Instruction für die wissenschaftlichen Deputationen (nach welcher Herr StaatsRath Köhler auch die anliegende ausgearbeitet hat) erregt.^) Vorzüglich hat es geschienen: dass man die wissenschaftlichen Deputationen gar nicht mit dem Publicum und andern Behörden in Berührung bringen ; dass man ihnen das Nachdenken über Verbesserungsvorschläge nicht zu einer gleichsam fortdauernden Pflicht</p>
+
+               <p>') Eigenhändiger Entwurf.</p>
+
+               <p>'•') Die Instruktion für die wissenschaftliche Deputation der Sektion des öffent- lichen Unterrichts findet sich Band 10, iq6. Das Konzept von Koehler umfasst 40 Paragraphen und trägt das Datum des ry. Februar 1810.</p>
+
+               <pb n="13.309" xml:id="pbXIII309"/>
+               <p>machen müsse, indem hieraus leicht für die Section selbst mehr Unannehmlichkeit, als Vortheil für die Sache entstehen könne. Aus diesem Grunde hat die Section des öffentlichen Unterrichts statt dieser Instruction bloss die anliegende Verfügung an die wissenschaftliche Deputation erlassen, und die eigentliche Instruction noch hinausgesetzt.^)</p>
+
+               <p>Ich wünschte nun, dass dieselbe auch mtdatis niutandis für die wissenschaftliche Deputation bei der MedicinalSection geschehen möchte. Es würde aber die Verfügung bloss an die Berliner Deputation zu richten seyn, und dieser würde man nicht zu sagen brauchen, wie die ProvincialDeputationen und Commissionen eingerichtet wären. Es würde also aus dieser Verfügung Alles wegbleiben, was sich in der Anlage auf die Breslauer und Königs- bergische Deputation bezieht. Auch würde der Punkt des Gehalts nicht zu berühren seyn.</p>
+
+               <p>Um nun gleich den Standpunkt der Berliner Deputation recht zu fixiren, so muss dieselbe, meines Erachtens, ganz und gar füi sich, bloss unter der Section, und ausser aller Verbindung mit der KurMärkischen Regierung stehen.</p>
+
+               <p>Sollte sie zugleich Commission für die Regierung se3'n, so wird sie nicht nur zwei Behörden untergeordnet (da die Regierung ihre Commissionen so nothwendig braucht, dass sie ihr unbedingt zu Gebote stehen muss) sondern auch mit detail überladen, was sehr zu vermeiden ist, weil sie die wichtigsten Prüfungen hat, und auch oft über wichtige Dinge befragt werden kann.</p>
+
+               <p>Die Commissionen in Breslau und Königsberg müssen wissen schaftliche Deputationen für diese beiden OberPraesidialDeparte- ments seyn. Sie stehen also wirklich unter der Section und Regierung zugleich, was aber auch, da die Section wenig mit ihnen unmittelbar zu thun haben wird, gut angeht; sie haben auch, wie gleich unten folgen soll, mehr Arbeiten, als die blossen Com- missionen.</p>
+
+               <p>Die blossen RegierungsCommissionenin Berlin (fürPotsdamm)^ Königsberg Neumark, Stargard, Marienwerder und Liegnitz bilden die letzte, in ihrem Wirkungskreis am meisten beschränkte Classe.</p>
+
+               <p>Um nun auf die hiesige wissenschaftliche Deputation zurückzukommen, so finde ich in Absicht der schon entworfenen Instruc') Vgl. über die vorläufige Instruktion für die n-issenscfmftlichen Depu tationen vom 25. Februar 1810 Gebhardt i, 226.<pb n="13.310" xml:id="pbXIII310"/> tion nur noch, ausser dem schon durch das Vorige Abgeänderten, Folgendes zu bemerken.</p>
+
+               <p>Die Prüfungen bei der UnterrichtsSection sind zwar unent- geldlich angeordnet worden. Im MedicinalWesen wäre indess für jetzt noch die Sache beim Alten zu lassen. Auch könnte ebenso die Vertheilung noch wie bisher, und also dieser Punkt aus der Verfügung ganz wegbleiben.</p>
+
+               <p>Bei Erwähnung der Arbeiten der Deputation dürfte der § 7 der von Herrn p. Köhler entworfenen Instruction nach der Anlage zu modificiren seyn. Von besondern Arbeiten müsste man einige, etwa so, wie ich bei § 8 in margine gethan, specificiren.</p>
+
+               <p>Bei der Eintheilung in Fächer § -15. nach Herrn p. Hufeland ist CS auffallend Anatomie, Phj'^sik u. s. f. aufgeführt, die andern Wissenschaften, wie Pathologie u. s. f. fehlen zu sehen. Es ist also wohl besser, die drei Classen nur so zu bestimmen:</p>
+
+               <p>Gegenstände, zu deren Beurtheilung eigentliche Arzneikunde, mit Inbegriff der Thierarzeneikunde, zu deren Beurtheilung Kenntniss der Wundarznei und Geburts- hülfe und zu deren Beurtheilung pharmaceutische auf Chemie und Naturgeschichte beruhende Kenntniss gehört.</p>
+
+               <p>Bildung der ProvincialMedicinalBehörden.</p>
+
+               <p>Die Verordnung vom 24. November 1808 verordnet wissenschaftliche Deputationen in den Provinzen, die Regierungslnstruc- tion wissenschaftlich technische Commissionen n bei jeder Regierung. Ob beide darunter dasselbe verstehen? ist nicht klar.</p>
+
+               <p>Ich glaube man kann die wissenschaftlichen Deputationen von den Commissionen unterscheiden durch zwei nur den erstem zu übertragende Geschäfte : die Abfassung von Gutachten in Criminalfällen ; die höheren Prüfungen, d. h. derer, die sich zu solchen Stellen widmen, zu denen man nur Personen, die studirt haben, zulassen kann. Der letzte Punkt aber müsste für jetzt noch nicht gesagt werden, da bis jetzt noch alle diese Prüfungen hier in Berlin geschehen.</p>
+
+               <p>Die wissenschafthchen ProvincialDeputationen bestünden nur aus 8 Mitgliedern, vier Aerzten, zwei Wundaerzten, und zwei</p>
+
+               <p>•) ? 22.<pb n="13.311" xml:id="pbXIII311"/> Apothekern. Unter den erstem müsste ein der Thierarznei Kundiger seyn. Die Commissionen hätten mit 6 Mitgliedern genug. Beide wären auf 3 Jahre, da kleinere Städte nicht so viel Wechsel erlauben.</p>
+
+               <p>Die Regierungen könnten sich, jede ausser ihrer Commission auch der wissenschaftlichen Deputation ihres OberPraesidialDepar- tements bedienen, nur mit dem Unterschiede, dass sie hierzu nur autorisirt nicht verpflichtet wären, und dass sie nicht befehlsweise an die wissenschaftlichen Deputationen schreiben, sondern sie nur durch die Section in Berlin, und in Breslau und Königsberg durch die dortigen Regierungen ersuchen könnten. Dies könnte geschehen bei Anfragen über wichtige Gegenstände, bei wichtigeren Prüfungen.</p>
+
+               <p>In den wissenschaftlichen Provincial Deputationen und den Commissionen hätte der MedicinalRath der Regierung den Vorsitz.</p>
+
+               <p>Diese Deputationen und Commissionen bloss ihren eignen Sportein, ohne feste Bestimmung zu überlassen,^) scheint mir nicht zweckmässig. Es müsste festgesetzt werden, dass jede wissenschaftliche Deputation 1800 Rth., jede Commission 1200 Rth. jährlich erhielte, allein den Regierungen bei den jedesmaligen Ernennungen der Mitglieder überlassen bliebe. Vertheilungsvorschläge über diese Summen zu machen, die sich nach den Bedürfnissen der einzelnen Personen richteten.</p>
+
+               <p>Diese Summe könnte folgendergestalt zusammengebracht werden :</p>
+
+               <p>1 . würde dazu genommen, was schon für das MedicinalWesen auf einigen RegierungsEtats steht;</p>
+
+               <p>2. was z. B. in Schlesien die MedicinalCasse oss. fonds besitzt 3. die Sportein, die gesammelt würden, 4. das alsdann Fehlende schösse die Regierung aus ihren Extraordinarienfonds zu.</p>
+
+               <p>Machten aber die Sportein eine grössere Summe, als die erforderte, so würde der Ueberschuss unter die Mitglieder vertheilt.</p>
+
+               <p>Hiernach wäre nun das Folgende zu thun:</p>
+
+               <p>I. die als Instruktion dienende Verfügung an die hiesige wissen* schaftliche Deputation zu entwerfen,^)</p>
+
+               <p>') So war es beim Collegium medico-chirurgicum et sanitatis gewesen. , -) Konzipiert von Koehler am 2g. März 1810.</p>
+
+               <pb n="13.312" xml:id="pbXIII312"/>
+               <p>2. sich mit dem FinanzMinisterio über den Modus der Bezahlung der ProvincialDeputationen und der Commissionen zu einigen,</p>
+
+               <p>3. die Litthauische Regierung zu befragen, ob sie wirklich eine eigne Commission entbehren will ? Auf gleiche Weise könnte es auch Königsberg Neumark in Rücksicht auf Potsdamm oderStar- gard. Allein man braucht doch Leute an Ort und Stelle. Kann man nicht viele Gute haben, nimmt man nur Einige, erspart an fonds^ und gibt mehr Aufträge an die nächste wissenschaftliche Deputation,</p>
+
+               <p>4. von der Neumärkischen und Pommerschen Regierung Bericht über die Organisation ihrer Commission, das Personal und die fonds zu fordern,</p>
+
+               <p>5. alle Mitglieder zu ernennen, jedoch immer mit vorgängiger Rücksprache mit den Regierungen,</p>
+
+               <p>6. der Instruction der Section ähnliche Verfügungen für die wissenschaftlichen Provincial Deputationen und Commissionen zu entwerfen.</p>
+
+               <p>17. März, 1810.</p>
+
+               <p>s. m. Humboldt. h. Beschwierde Humboldts über verfassungswidrigen Geschäftsgang.^) An des Königlichen Geheimen Staatsminister Herrn Grafen zu</p>
+
+               <p>Dohna Excellenz.</p>
+
+               <p>Das Königliche Staatsministerium hat der Section für den Cultus unterm 3. d. eröfnet, dass der Immediat-Bericht derselben wegen Verlegung des Busstages bey ihm zum Vortrage gekonimen sey, es aber diesen Antrag jetzt nicht gerathen finde, die Section daher die Sache wenigstens ein Jahr ruhen lassen, alsdann aber auch auf die vom Staatsministerio sehr zweckmässig gefundene Abschaffung des Himmelfahrtstages antragen möge.</p>
+
+               <p>Dieses der Section gewordene Schreiben sezt Verhältnisse voraus, die ihr ganz fremd sind, und die mir nicht nur der ihr ursprünglich gegebenen Stellung, worüber ich jetzt schweifen würde, sondern auch der, wegen der Geschäftsführung des Königlichen Staatsministerii unterm 31. Maerz ergangenen Cabinets Ordre, der man doch wenigstens keine^ durchaus über ihren klaren Inhalt gehende ausdehnende Erklärung ^eben darf, zu widersprechen scheinen,</p>
+
+               <p>') Der Haupttext ist von Nicolovius konzipiert, das kursiv Gedruckte von Humboldt eingeschaltet. ,</p>
+
+               <pb n="13.313" xml:id="pbXIII313"/>
+               <p>Die Sectionen sind ihrer Bestimmung und wesentlichen Einrichtung nach keine irgend untergeordnete Behörden , sie sind Theile des Ministeriums, führen die ihnen anvertrauten Geschäftszweige als höchste Landesbehörden, stehen blos unter Aufsicht ') des DepartementsMinisters, welcher die von den Sectionen an des Königs Majestät unmittelbar zu erstattenden Berichte zwar mit seinem Voto begleiten, nicht aber dem Könige vorenthalten darf. Durch das m dem gegenwärtigen Fall beobacJdete Verfahren ivird vermittelst des Staats Ministerii eine wahre Zivischen-Instanz zwischen den Sectionen 7ind dem Thro7i gebildet, welche ohne alle Anfiihnmg von Gründen, ja, wenn auch mit gelinderen Ausdrücken, ihnen Anweisungen zu ertheilen unternimmt. Eine solche Zwischenbehörde kannten die Sectionen bis jetzt nicht ; sie verwalteten, in einzelnen Fällen nicht ohne besondere Zustimmung des Departements xMinister, sonst aber selbständig^mit voller Autorität und Verantwortung die ihnen anvertrauten Geschäfte und hingen 7iie von der Meynung der übrigen Minister, als nur insofer^i ab, als diese Meynu7ig beim Cabinets-' Vortrag auf die Ent Schliessung S. Majestät des Königs Einfluss haben konnte.</p>
+
+               <p>Es ist ihnen nicht bekannt geworden, dass diese ihre Bestimmung verändert sey; die Cabinetsordre vom 31. Maerz d. J. will, dass diejenigen Sections Chefs, welche bey den im Staats- ministerio vorkommenden Gegenständen concurriren, gegenwärtig seyn und ein volles \'^otum haben sollen. Nirgends aber gehet aus der Cabittets Ordre hervor, dass in der Berichterstattung der Sections Chefs an den König eine Veränderung Statt finden solle, und dass dem Staatsministerium mehr zustände, als im Falle die Section einer verschiedenen Meynu?ig ist, seine abweichende Sr. Königlichen Majestät mit vorzulegen. Die von dem Staatsministerio unterm 17. V. M. an die Provinzial-CoUegien erlassene Bekanntmachung er- klärt ausdrücklich, dass in dem Ressort der Sectionen nichts geändert worden.</p>
+
+               <p>Das gedachte Schreiben sezt dagegen ganz andere Verhält nisse voraus. Es wehrt der Section den Zugang zu des Königs Majestät, es entscheidet in einer durchaus zur Entscheidung der Section und noch dazu vorzüglich der geistlichen Mitglieder in derselben ge* eigneten Sache, ohne mich und den in der Cultus-Section Vorsitzenden Staatsrath gehört zu haben. Die Section soll hienach nicht länger</p>
+
+               <p>Nach „Aufsicht'' gestrichen: „doch nicht unter I^itung".<pb n="13.314" xml:id="pbXIII314"/> selbst integrirender Theil des Ministerii seyn, sie soll nicht länger nach ihrer Ueberzeugung administriren, Vorschläge die sie ine- stimmig, wie die Ahschaffitng des Himmelf ahristag es, unzweckmässig befunden hat, soll sie, ihrer Meynung darüber ungeachtet, an des Königs Majestät bringen, sich also in den Fall setzen, Anordnungen zu bewirken und zur Ausführung zu bringen, welche sie selbst nicht billigt sondern nachtheilig findet.</p>
+
+               <p>Ew. Excellenz stimmen gewiss mit mir überein, dass') die heiligste Amtspflicht mir nicht gestattet, bey solchem Verfahren gegen die Section zu schweigen, ich würde noch hinzusetzen, dass mich auch gekränktes Ehrgefühl zu redefi Z7uingt, wenn ich nicht in dieser Hinsicht mich gegen ?nehr als diesen Punkt allein erheben müsste, und 7ucn?i Ew. p. nicht bekafifit wärc^ dass ich deshalb unmittelbar einen Schritt bei Sr. Majestät dem König gethan habe, den mich der fetzige Vorfall veranlasst hat, heute noch einmal zu "wiederholen. Allein wenn ich mich persönlich zurückziehe, darf ich das Interesse der Section und die Rechte, die ihr, auch nach der Cabinets Ordre vom ji. März, c. noch übrig bleiben, darum nicht verabsäumen tmd unter Umständen, wie die durch jenes il/wü/mfy/ Schreiben angedeuteten, hört alle zweckmässige Geschäftsverwaltung, aller Muth zu neuen, wichtigern Operationen, alle Hofnung auf Erfolg auf. Die Sectionen, die nach der Bestimmung der Verordnung vom 24. November t8o8.</p>
+
+               <p>mit voller Verantwortung selbständige, selbstthätige Behörden sind, werden in eine Abhängigkeit versezt, die den freyern Wirkungskreis der ihnen untergeordneten Provinzialbehörden beneidenswerth macht, und das todte Formenwesen, welches die neue Organisation zu vertilgen beabsichtigte, mit allen seinen Folgen und mit vermehrtem Unmuth jedes, von Liebe für den Staat und für sein Amt erfüllten Staatsdieners herbey geführt.</p>
+
+               <p>Ew. Excellenz mufsich daher gehorsamst, aber auch dringendst pflichtmässig ersuchen, die mir anvertrauten Sectionen vor Beeinträchtigungen zu schützen, welche die Bestimmung derselben zerstören, und keine kräftige, freudige und erfolgreiche Geschäftsführung derselben ferner gestatten. Doppelt treifen alle angeführten Nachteile meine Parthie, da die Überzeugungen von den in sie einschlagenden Gegenständen nur bey anhaltender Beschäftigung mit denselben richtig entstehen und sich abändern können, und</p>
+
+               <p>') "Nach „dass" gestrichen „nicht allein gekränktes Ehrgefühl, sondern".<pb n="13.315" xml:id="pbXIII315"/> da es nicht immer möglich ist, sich mit Personen, die einmal von Grund aus andere Ansichten hegen, darüber durch blosse Gründe zu verständigen; eine Ansicht, worüber Ew. Excellenz bisher ganz mit mir einverstanden gewesen sind und die Sie, wenn sie angefochten wurde, mit Überzeugung und Nachdruck unterstüzt haben.</p>
+
+               <p>Von der vorliegenden einzelnen Sache, die nur durch die Behandlung, die ihr widerfahren, wichtig wird, sonst aber geringfügig und auf Verlangen der Kurmärkischen Regierung, nicht aus eignem Antrieb der Section Sr. Majestät vorgetragen werden sollte, mag immerhin nicht weiter die Rede seyn. Das aber mufs ich Ew. Excellenz dringend und bestimmt bitten, einen gleichen Geschäftsgang ferner nicht zu gestatten, den ich nicht ohne völlige Vernachlässigung meiner Pflicht ertragen kann und der mich nöthi- gen würde, um die Bestimmung der mir anvertrauten Sectionen zu erhalten, die lezten mir noch übrigen Schritte zu thun.</p>
+
+               <p>Berlin, 23. Mai, 1810.</p>
+
+               <p>Humboldt.</p>
+
+               <p>i. Humboldts Verabschiedung an Dohna.<note type="footnote" n="^)" resp="gnd-116890657"><hi>Eigenhändiger Entwurf.</hi></note></p>
+
+               <p>Berlin, den 19. Junius, 1810.</p>
+
+               <p>Nichts hätte mir gleich schmeichelhaft seyn können, als das Bedauern, welches Ew. Excellenz mir in dem geehrtesten Schreiben von heute über meinen Abgang zu erkennen zu geben die Gewogenheit haben, und der Wunsch, dass ich die Geschäfte der mir anvertrauet gewesenen Sectionen noch so lange als möglich fortführen möchte. Ich schmeichle mir, dass Ew. p. bemerkt haben werden, dass es immer mein Ziel war, mir Ihre Zufriedenheit zu erwerben, und Ihnen auch dadurch zu beweisen, wie lebhaft ich die mir von Ew. p. bewiesene Güte und Freundschaft empfand, für die ich Ew. p. nochmals bei dieser Gelegenheit meinen aufrichtigsten und herzlichsten Dank wiederhole.</p>
+
+               <p>So gern ich mich aber auch noch ferner meinen bisherigen Geschäften widmen möchte, so macht mir dies doch die Vorbereitung zu meiner neuen Stelle und die nothwendige Besorgung vieler Privatgeschäfte unmöglich. Ich werde daher mit Ew. p. Erlaubniss, so wie mich die Königliche CabinetsOrdre ausdrück<pb n="13.316" xml:id="pbXIII316"/> lieh anweist, meine Geschäftsführung mit dem Ende dieser Woche in Ew. p. Hände niederlegen, und in der MedicinalSection übermorgen, 21. /mj.^ in der des Cultus und öffentlichen Unterrichts Sonnabend, 23. /mj. meine letzte Sitzung halten, und alsdann die Geschäfte der ersten, nach Ew. p. Befehl, Ihnen selbst, die der letztern dem Herrn StaatsRath Nicolovius übergeben.</p>
+
+               <p>An der Organisation der Universität hingegen werde ich sehr gern noch so lange ich hier bin fortwährend Antheil nehmen; den Sitzungen der von mir errichteten Commission, sofern Ew. p. solche bestehen lassen, beiwohnen, und auf jede, von mir abhängende Weise zum Besten eines so wichtigen Instituts angelegentlichst mitwirlven.^) In der Voraussetzung, dass Ew. p. diese ergebensten Anträge zu genehmigen die Güte haben werden, empfehle ich mich Ihrem ferneren echt freundschaftlichen Wohlwollen.</p>
+
+               <p>Berlin, den 19. Junius, 1810</p>
+
+               <p>Humboldt.</p>
+
+               <p>Berlin, den 23. Juni 1810. An des Königlichen Ministers pp. Herrn Grafen zu Dohna, Excellenz.')</p>
+
+               <p>Ew. Excellenz habe ich die Ehre gehorsamst anzuzeigen, dass ich heute die letzte Sitzung der Section des Cultus und öffentlichen Unterrichts unter meinem Vorsitze gehalten und, Ew. Excellenz geneigten Anweisung zufolge, die Leitung dieser Partie dem Herrn StaatsRath Nicolovius übergeben habe.</p>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">H.</title>
+               </head>
+               <p>k. Berufung von Thaer.')</p>
+
+               <p>Berlin, den 20. Junius, 1810.</p>
+
+               <p>An den Königlichen StaatsRath, Herrn Thaer,</p>
+
+               <p>Hochwohlgeboren.</p>
+
+               <p>Zu den wichtigsten, bis jetzt noch unbesetzten Lehrstellen an der hiesigen Universität, welche, Sr. Majestät des Königs neuesten Befehlen gemäss, um Michaelis eröfnet werden soll, gehört die Professur des Ackerbaus. Ich brauche Ew. Hochwohlgeboren nicht</p>
+
+               <p>•) Vgl. Lenz, Geschichte der Universität Berlin i, 21g. ') Von Schreiberhand.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Eigenhändiges Konzept.</hi></note></p>
+
+               <pb n="13.317" xml:id="pbXIII317"/>
+               <p>317 ZU sagen, wen ich am liebsten mit derselben bekleidet sehen möchte. Gewiss würde es in ganz Deutschland zu den wichtigsten Vorzügen der Universität hier gerechnet werden, wenn Ew. p. Sich entschliessen könnten, einen Ruf hierher anzunehmen. Ich fühle aber, dass dies unmöglich ist. Ihr Institut in Mögelin und die Annehmlichkeit, unabhängig und auf dem Lande zu leben, werden natürlich der Ausführung eines solchen Plans immer im Wege stehen. Dennoch kann ich den Gedanken nicht ganz aufgeben, dass gerade Sie und selbst Ihr Institut der hiesigen Universität von dem wichtigsten und erspriesslichsten Nutzen seyn könnten, und ich wünschte nur, Ihre eignen Ideen über die Ausführbarkeit hievon zu vernehmen. Mir scheint ein doppelter Weg möglich.</p>
+
+               <p>Der erste wäre der, dem ich in ieder Rücksicht den Vorzug ertheilen würde. Er bestände darin, dass Ew. p. sich entschlössen, wenigstens den Winter immer hier zuzubringen, und alsdann ordentliche ^"orlesungen zu halten. Der Sommer könnte, da ich so in diesen alle Ferien beider Semester fallen zu lassen denke, in Rücksicht auf das Studium des Ackerbaus dem eignen Studium und Besuchen in Mögelin gewidmet seyn. Glaubten Ew. p., dass die Ausführung einer solchen Idee nicht unmöglich wäre, so würde ich Sie, Sich näher mit mir über die Art und die Bedingungen zu erklären, ergebenst einladen.</p>
+
+               <p>Der zweite Weg wäre allerdings viel weniger wohlthätig für die Universität. Es wäre der, dass Ew. p. mir jemanden vorschlügen, der die Vorlesungen hier hielte, aber so, dass Ew. p. dieselben aus der Ferne dirigirten, manchmal selbst die Zuhörer zu prüfen und kennen zu lernen herkämen, und bestimmten, welche davon nach und nach durch das theoretische Studium zum praktischen in Mögelin reif geworden wären. Auch hierüber er- bitte ich mir Ihren Rath. Im Fall Ew. p. Sich leider nicht im Stande sehen sollten, meinen ersten Vorschlag anzunehmen, und der zweite Ihnen für das Studium selbst nicht hinlänglich schiene, so bliebe nichts andres übrig, als dass man einen andern Gelehrten zum Professor des Ackerbaus wählte. Je schwieriger hier die Wahl seyn dürfte, desto mehr muss ich Ew. p. ergebenst ersuchen, mir auch deshalb in diesem Fall Ihre Gedanken zu eröffnen, und mir überhaupt und ganz nach Ihren eignen Erfahrungen zu sagen, was Sie überhaupt von der Einrichtung des Studiums der Sie interessiren den Wissenschaft auf der hiesigen Universität gerade halten. Die<pb n="13.318" xml:id="pbXIII318"/> Wichtigkeit des Gegenstandes wird, wie ich mir schmeichle, mich der Nothwendigkeit überheben, die Unbescheidenheit dieser Bitte zu entschuldigen.</p>
+
+               <p>Ew. p. werden zwar vermuthlich gehört haben, dass ich seit kurzem zum Gesandten in Wien bestimmt bin. Auch lege ich wirklich meinen jetzigen Posten mit dieser Woche nieder, und verlasse Berlin mit Ende künftigen Monats. Allein des Herrn Staats Ministers Grafen zu Dohna Excellenz wünschen, dass ich während meiner Anwesenheit hier noch die auf die (Jrganisation der hiesigen Universität Bezug habenden Geschäfte führen möge, und auf diese Weise werde ich noch immer im Stande seyn, Ew. p. zu beweisen wie gern ich Ihren Rathschlägen Folge leiste.</p>
+
+               <p>Berlin, den 20. Junius, [810.</p>
+
+               <p>Humboldt.</p>
+
+               <p>1. Antrag auf Anstellung Schleiermachers in der</p>
+
+               <p>Sektion.^)</p>
+
+               <p>Berlin, den 22. Junius, 1810. An des Königs Majestät.</p>
+
+               <p>Ew. Königlichen Majestät sehe ich mich genöthigt, ehe ich die mir bisher anvertraut gewesene Führung der Section des Cultus und öffentlichen Unterrichts niederlege, noch einen allerunterthänig- sten Antrag in Ansehung derselben zu machen.</p>
+
+               <p>Obgleich die Organisation der Section im Ganzen als vollendet angesehen werden kann, so hat dieselbe doch noch immer drei Räthe weniger, als ihr die Verordnung vom 24. November, 1808 bestimmt. Die Anstrengung, mit welcher alle Mitglieder, wie ich ihnen dies ehrenvolle Zeugniss pflichtmässig ablegen muss, unausgesetzt gearbeitet haben, hat zwar verhindert, dass dieser Mangel in den Geschäften der Section fühlbar geworden ist. Allein es ist auch bei jeder, auch nur augenblicklichen Abwesenheit oder Verhinderung eines Raths immer eine sichtbare Verlegenheit entstanden, und wenn ein solcher Zufall, wie doch so leicht geschehen kann, einmal zwei Mitglieder zugleich getroffen hätte, wäre eine Stockung unvermeidlich gewesen. Im gegenwärtigen Augenblick bringt nun mein Abgang, da wenigstens für jetzt niemand an meine Stelle tritt, eine neue Lücke hervor.</p>
+
+               <p>') Eigenhändiger Entwurf.</p>
+
+               <pb n="13.319" xml:id="pbXIII319"/>
+               <p>Um diese, aui eine den Geschäften höchst zweckmässige, und zugleich für Ew. Königlichen Majestät Gassen weniger lästige Weise auszuiüllen, hielte ich es für gut, den Professor und Prediger Schleiermacher zum Mitglied der Section des öÜ'entlichen Unter- richts zu ernennen. Dieser Mann ist als Gelehrter hinlänglich bekannt, um von dieser Seite mit Recht der obersten wissenschaftlichen Behörde beigesellt zu werden. Ich habe mich aber auch dadurch, dass er, als Director der wissenschaftlichen Deputation, den Sitzungen der Section seit einiger Zeit beigewohnt, und an ihren Arbeiten thätigen Antheil genommen hat, überzeugt, dass es ihm, was nicht immer bei Gelehrten der Fall ist, sehr gut gelingt, sich in den formellen Geschäftsgang zu linden, und mit Leichtigkeit und Fertigkeit darin zu arbeiten. Er würde sich zugleich mit einem Gehalte, das geringer als das StaatsrathsGehalt wäre, begnügen, und ich wüsste auf diese Weise keinen Weg vorzuschlagen, auf dem es möglich wäre, der Section ein so ausgezeichnetes Mitglied mit gleich geringem Aufwände zu verschaffen.</p>
+
+               <p>Aus diesen Gründen wage ich, bei Ew. Königlichen Majestät ehrfurchtsvoll dahin anzutragen, den Professor und Prediger Schleiermacher zum Mitgliede der Section des öffentlichen Unterrichts mit einem vom</p>
+
+               <p>I. Julius c. ab zahlbaren Jahrgehalte von 2000 Rth. huldreichst zu ernennen, zugleich aber zu gestatten, dass er» wenigstens für dies Jahr, und wenn im künftigen kein gleich taugliches Subject dazu gefunden werden sollte, auch Director der wissenschaftlichen Deputation bleiben könne. Der p. Schleiermacher würde neben dieser seiner Stelle in der Section sein Predigeramt an der Dreifaltigkeitskirche beibehalten können, wenn ihm nur mit Ew. Königlichen Majestät huldreicher Erlaubniss nachgelassen würde, die kleinen Amtsverrichtungen dabei durch einen ordinirten Candidaten verrichten lassen zu dürfen.</p>
+
+               <p>Geruheten Ew. Königliche Majestät allergnädigst, diesen Antrag zu genehmigen, so würde in der Folge nur noch ein zur Bearbeitung finanzieller und ökonomischer Gegenstände geeignetes Mitglied in der Section nothwendig seyn, und auch dazu dürfte sich vermuthlich ein nicht sehr kostbarer Weg auffinden lassea</p>
+
+               <p>Berlin, den 22. Junius, 1810. Humboldt.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

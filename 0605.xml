@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Kunstvereinsbericht vom i. Februar 1828</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Sechster Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif0601humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1907">1907</date>
+                  </imprint>
+                  <biblScope unit="page" from="52" to="57"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1828">1828</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="6.52" xml:id="pbVI52"/>
+            <p>5-</p>
+
+            <head>
+               <title type="main">Kunstvereinsbericht</title>
+            </head>
+            <div type="section" n="1">
+               <head>
+                  <title type="main">vom</title>
+               </head>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">i. Februar</title>
+               </head>
+            </div>
+
+            <div type="section" n="3">
+               <head>
+                  <title type="main">1828.</title>
+               </head>
+               <p>Nachdem die Skizen zu der ersten für die Preussischen Maler in Rom veranstalteten Preisbevverbung eingegangen waren, ertheilte der Künstlerausschuss des Vereins den Preis einstimmig der des Herrn von Klöber ^) aus Schlesien. Eine hochgeehrte Versammlung erinnert sich, dass der Gegenstand dieser Preisbevverbung die Befreiung der Andromeda durch den Perseus war. Diesen nach der gekrönten Skize im Grossen auszuführen ist also Herrn von Klöber aufgetragen worden, und der Verein sieht in den nächsten Monaten der Ankunft dieser Arbeit entgegen. Der Preis des vollendeten Gemaides war anfänglich auf 600 bis 650 Thaler festgesetzt ; da sich das Directorium jedoch überzeugt hat, dass derselbe nach der Zeit, welche der Künstler diesem Werke widmen muss, nicht ausreichend seyn würde, so hat es keinen Anstand genommen, denselben auf 900. Thaler zu erhöhen, wie die geehrten Mitglieder aus der heute abzulegenden Rechnung ersehen werden. Von den andren, zugleich mit der gekrönten eingegangenen Skizen sind zw^ei, die eine von Herrn Gral aus Berlin,^) die andre von Herrn Temmel aus Schlesien,-') jede für 50. Thaler, angekauft worden. Eine solche Berücksichtigung derjenigen Arbeiten, welche für die besten nach der gekrönten erklärt werden, scheint nothwendig,</p>
+
+               <p>Handschrift (i^ halbbeschriebene Folioseiten) im Archiv in Tegel. — Erster Druck: Verhandlung der am i. Februar 182H gehaltenen Versammlung des Vereins der Kunstfreunde im preußischen Staate S. q—15 (1828).</p>
+
+               <p>V August von Kloeber (i']rjj—i804), Historienmaler, wurde später Professor an der berliner Akademie der Künste.<pb n="6.53" xml:id="pbVI53"/> einer grösseren Anzahl angehender Künstler dem I^ublicum be- kannt werden, und selbst llüchtig hingeworfene Skizen sind vorzüglich geeignet, Talent und Künstlerberuf danach zu beurtheilen. Unmittelbar nach der in der ersten Preisbewerbung gefällten Entscheidung wurde eine zweite eröllnet, und von den l'reussischen Künstlern in Rom mit noch lebendigerem Antheil, als die erste, aufgenommen. Der Gegenstand war aus dem alten Testament*) gewählt, Moses, wie er die Töchter Reguels, des Priesters in Midian, am Ikunnen gegen die Hirten beschützt. Zwei der eingegangenen Skizen waren so gut gelungen, dass es angemessen schien, beide im Grossen ausführen zu lassen. Die eine rührte von Herrn Draeger aus Trier,') die andre von Herrn Temmel aus Schlesien, dem nämlichen her, dessen Skize bei der ersten Preisbewerbung angekauft worden ist. Beide erhielten daher die nöthigen Aufträge und die Skize des Herrn von Klöber, der sich auch wieder unter den Preisbewerbern befand, wurde vom Vereine für 50. Thaler gekauft.</p>
+
+               <p>Es waren nun nach einander zwei einzelne Gegenstände, ein mythologischer und ein biblischer, zu Preisbewerbungen hingegeben worden. Es schien jetzt angemessen, auch einmal zu versuchen, die Wahl des Gegenstandes den Künstlern selbst zu überlassen. Wenn die \'erschiedenheit der Gegenstände bei der Zuerkennung des Preises die Schwierigkeit der Beurthcilung vermehrt, so arbeitet dagegen der Künstler mit mehr Liebe und Freiheit an einem selbstgewählten StolV. Er bewegt sich in einem Kreise, in dem seine Phantasie schon einheimisch ist. und fühlt sich des Erfolges gewisser, wenn er ausführen kann, wozu sein Talent sich von selbst hinneigt. Zwar ist bei dieser Preisbewerbung die Bedingung hinzugefügt worden, den (Gegenstand aus der (Griechi- schen Mythologie, dem alten Testament, oder den drei grossen Italicnischen Dichtern, Dante, Ariost und Tasso herzunehmen. Den Künstler durch diese Andeutung auf eine reiche Mannigfaltigkeit naiver und lieblicher, grosser und erhabner Gestalten aus dem ehrwürdigsten und aus dem reizendsten Altcrthum, aus grossanig<pb n="6.54" xml:id="pbVI54"/> des eigentlich künstlerisch Darstellbaren zu bleiben, und die Natur, die er wiederzugeben bestimmt ist, in der vollen und sinnlichen Wahrheit ihres Lebens und ihrer Bewegung anzutreffen. Es war vorauszusehen, dass die Künstler die Lösung einer so frei und weit gestellten Aufgabe mit doppelter Bereitwilligkeit übernehmen würden, und die Nachrichten, welche dem Verein bereits darüber zugekommen sind, bestätigen diese Erwartung, lis lässt sich daher einem besonders erfreulichen Erfolg dieser Preisbewerbung entgegensehen.</p>
+
+               <p>Die vorzügliche Rücksicht, welche unser Verein nach §. 5. des Statuts auf die in Italien studirenden Künstler, als auf diejenigen nimmt, welche ihre höhere Ausbildung in dem Lande suchen, dem die alte Kunst ihre Erhaltung und die neuere grösstentheils ihr Daseyn verdankt, schliesst eine gleiche Sorgfalt für die im Inlande Wohnenden nicht aus. Es wurde daher auch für sie eine Preisbewerbung veranstaltet. Der Ausschuss der Künstler hatte die bekannte Erzählung von Hero und Leander zum Gegenstande gewählt, und für die Darstellung den Augen- blick bezeichnet, wo die Wellen den Leichnam des Leander ans Ufer geworfen haben, die Meeresnymphen sich klagend um ihn versammeln, und Hero sich bei diesem Anblick vom Thurme herabstürzt. Von den neun eingegangenen Skizen wurde der des Herrn Wolff in Berlin einstimmig der Preis zuerkannt, und ihm die Ausführung derselben im Grossen, w^elche im Frühjahr vollendet seyn wnrd, aufgetragen. Zugleich wurden, als die zu- nächst gelungenen, die der gleichfalls hier wohnenden Herren Butterw^eck ^) und Schoppe, -) jede zu 50. Thalern, angekauft.</p>
+
+               <p>Nicht gleich glücklich, als in diesen Bemühungen, war der Verein in einer andren, auch auf die Maler im Inlande gerichteten. Sie wurden durch die ölfentlichen Blätter aufgefordert, bis zum 20. December des vorigen Jahres Bilder zum Ankauf des Vereines einzusenden. Der Gegenstand war ihrer Wahl überlassen worden, und nur die Bedingung hinzugefügt, dass er der Geschichtsmalerei</p>
+
+               <p>V Friedrich Bouterweck (1800—186-]), Historienmaler, war ein Schüler Kolbes und Delaroches.</p>
+
+               <pb n="6.55" xml:id="pbVI55"/>
+               <p>messen, dass nur sehr wenige Hilder einliefen, und keines die Bedingungen der Aufgabe in dem Grade erfüllte, dass sich der Künstlerausschuss des \'ereins hiitte zu einem Ankauf entschliessen können. Der \'erein wird aber fortfahren, von Zeit zu Zeit ahn- liche Aufforderungen ergehen zu lassen, und holft künftig darin glücklicher zu seyn. Bei der Unmöglichkeit, alle Bilder, vorzüglich in der Provinz, selbst zu kennen, welche der Aufmerksamkeit der Kunstfreunde würdig seyn dürften, scheinen solche Aufforderungen allein geeignet, zu bewirken, dass keines dieser Art übersehen bleibt. Der \'erein darf auch hoffen, dass die Künstler, welche seinem Unternehmen ihren Beifall schenken, sich auf diese Weise eher veranlasst fühlen werden, sich grösseren, längere Zeit er- fordernden xVrbeiten zu überlassen. Nur wenn die den Verein leitenden Personen und die Künstler ihr gemeinschaftliches Streben recht innig zu vereinigen suchen, können die Anforderungen, welche das Publikum nach dem lebendigen, noch immer wachsenden Antheil, den es an dem \^erein nimmt, mit Recht macht, immer mehr und mehr befriedigt werden.</p>
+
+               <p>\'on den beiden Bildern, deren Bestellung in der am 2X. De- cember, 1826. gehaltenen Versammlung erwähnt wurde, ist erst eines vollendet, das des Herrn Professors Begas, ^) w^elches den (iegenstand der heutigen Verloosung ausmacht, und den Tobias vorstellt, wie er an der Seite des ihn begleitenden Kngels vor dem grossen Fische im Tigris erschrickt. Es würde überflüssig seyn, über einen längst rühmlichst bekannten Meister, den wir uns freuen seit Jahren zu unsren Mitbürgern zu zählen, und über ein Bild, das vor einer hochgeehrten Versammlung selbst hier aufgestellt ist, weiter etwas hinzuzufügen.</p>
+
+               <p>Zwei neue Bestelhmgen sind bei Preussischen Künstlern in Rom gemacht worden. Dem einen hat man zwei Zeichnungen, die eine aus dem alten Testament, die andre aus dem Kreise der Griechischen Mythologie aufgetragen, dem andren ein ( )elgemälde von vier Fuss Länge imd verhaltnissmässiger Breite. Dies letztere soll eine (&gt;omposition von zwei bis drei Personen enthalten, im Uebrigen aber ist die Wahl des (iegenstandes dem Künstler ohne alle Beschränkung freigestellt.<pb n="6.56" xml:id="pbVI56"/> ^'erbreitung ihrer Werke, zur Beförderung des Geschmacks und der Kunstliebe beiträgt. Schon bei der Anordnung, die verloosten Bilder radiren zu lassen, hatte der Verein hierauf Rücksicht genommen. Das Directorium hat aber gegenwärtig die Bestellung eines grossen, vollständig ausgeführten Kupferstiches gemacht. Die nähere Veranlassung dazu bot das schöne Gemälde Raphaels aus dem Pallast Colonna in Rom dar, mit welchem die unermüdliche Sorgfalt Sr. Majestät des Königs für die Beförderung der Kunst die hiesigen öftentlichen Sammlungen bereichert hat. Dies Bild, die Jungfrau mit dem Kinde vorstellend, ist allen Freunden der Kunst, vorzüglich denen, w^elche selbst Rom besuchten, zu bekannt, als dass es nöthig seyn sollte, etwas über seine hohe Schönheit und die darin herrschende unnachahmliche Grazie hinzuzusetzen. Dadurch, dass es jetzt zu den Königlichen Sammlungen gehört, erhält es für die Mitglieder des Vereins noch einen besondren localen Werth. Eine ausgezeichnet trelTliche Zeichnung dieses schönen Gemäldes, die von dem verstorbenen Kupferstecher Rist herrührt, befindet sich im Besitz des Prinzen Wilhelm, Sohns Sr. Majestät des Königs, und Seine Königliche Hoheit haben mit der den Mitgliedern des Königlichen Hauses so eignen Bereitwilligkeit, die Bemühungen der Künstler zu unterstützen, die Benutzung dieser Zeichnung für den Stich bis zur Vollendung der Platte zu gestatten geruht. Der Auftrag des Stiches ist Herrn (Caspar gemacht worden, der hier studirt, nachher vermittelst einer Unterstützung des Königlichen Ministerium des Innern Italien be<pb n="6.57" xml:id="pbVI57"/> bei Bildhauern zu machen, oder eine lYeisbewerbung zu veranstalten, die man ohnehin nicht, wie bei den Malern, würde auf Rom beschränken können, da die Zahl der Preussischen Bildhauer dort zu gering ist. Das Directorium wird indess bemüht seyn, auch diesem Zweige der Kunst nach Möglichkeit förderlich zu werden, und die \'en'ollkommnung, welche das Giessen in I&gt;z immer mehr unter uns erhält, dürfte dazu in Kurzem behülf- lich seyn.</p>
+
+               <p>Am Schlüsse dieses Vortrags nehme ich mir die Freiheit noch eines Gegenstandes zu erwähnen, der zwar den unmittelbaren Zwecken unsres \'ereins fremd, aber dem allgemeinen Antheil an der Kunst und dem Gefühle, welches alle Deutsche verbindet, auf das engste verwandt ist. Die Königliche Baierische Akademie der bildenden Künste in München hat sich nämlich an unsren Verein mit der Bitte gewandt, in seinem Kreise Beiträge für das Denkmal zu sammlen, welches die Stadt Nürnberg für Albrecht Dürer errichtet, und ich glaube am besten zu thun, wenn ich Einer hochgeehrten \'ersammlung das Schreiben, seinem ganzen Inhalte nach, vorlese. Der edle und schöne Sinn, in welchem Se. Majestät der König von Baiern die Errichtung dieses Denkmals als eine gemeinsame Sache Deutschlands ansehen, zeigt sich auch darin, dass die Ausführung unsrem Mitbürger Herrn Professor Rauch aufgetragen worden ist, den wir heute unter uns vermissen, weil er sich auf der Reise nach Nürnberg befindet, um über die Wahl des Ortes des Denkmals zu Rathe gezogen zu werden.') Die tiefe und dankbare Anerkennung des grossen Deutschen Künstlers, welcher der Kunst zur gleichen Zeit in seinem X'aterlande, als Raphael der Italienischen neues Leben einhauchte, hat sich auch gerade jetzt, wo am 8. April seine hundertjährige Todtenfeier wiederkehrt, laut und lebhaft ausgesprochen.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

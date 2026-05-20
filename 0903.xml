@@ -1,0 +1,338 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gedichte der römischen Zeit</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Neunter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif09humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1912">1912</date>
+                  </imprint>
+                  <biblScope unit="page" from="15" to="22"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1804">1804</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="9.15" xml:id="pbIX15"/>
+            <p>3-</p>
+
+            <head>
+               <title type="main">Gedichte</title>
+            </head>
+            <div type="section" n="1">
+               <head>
+                  <title type="main">der römischen</title>
+               </head>
+               <p>Zeit.</p>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">Die Rossebändiger.-)</title>
+               </head>
+               <p>Euch begrüss' ich zuerst in des Morgens rosiger Frühe,</p>
+
+               <p>Die ihr den Flammenmuth bändigt der schnaubenden Ross'. Blass sinkt Luna hinab, Pamphilis Pinien'^) suchend,</p>
+
+               <p>Aber ihr strahlet in Glanz, Licht zu dem Lichte gesellt. Glücklich der Bildner! er kann mit wenigen Schlägen des</p>
+
+               <p>Meisseis</p>
+
+               <p>Heften das Göttergebild, das ihm den Busen entflammt! Tempel stürzen in Schutt; hinwelken der Menschen Ge- schlechter;</p>
+
+               <p>Doch der gerettete Stein führet die Gottheit zurück. Gottheit ja stralet aus Euch, Quirinalische Heldenkolosse,</p>
+
+               <p>Und in schönere Zeit führt ihr den staunenden Blick! War denn nur ihnen vergönnt, den glücklichen Alten, nicht rückwärts</p>
+
+               <p>Bloss auf das Hohe zu schaun, selbst ihm zu leihen Gestalt?</p>
+
+               <p>V Handschrift (4 halbbeschriebene Folioseiten) im Archiv in Tegel. — Erster Druck: Deutsche Rundschau 144, 331^33^ (Septemberheft igio).</p>
+
+               <p>y Die wahrscheinlich nach griechischen Originalen der nachly sippischen Zeit gearbeiteten, sechs Meter hohen Marmorstatuen der Dioskuren mit ihren Rossen stehen auf der jetzigen Piazza del Quirinale, früher nach ihnen Monte Cavallo genannt. Auch Goethe gedenkt ihrer in der Italienischen Reise mit den Worten f Werke 30, 200 weimarische Ausgabe) : „ Weder Auge noch Geist sind hinreichend, sie zu fassen." y Die Villa Pamfili liegt westlich von Rom außerhalb der Porta di San Pancrazio an der Via Aurelia: ihr großer Park ist besonders reich an hohen Pinienstämmen.</p>
+
+               <pb n="9.16" xml:id="pbIX16"/>
+            </div>
+
+            <div type="section" n="3">
+               <head>
+                  <title type="main">Der Publicische Weg.^)</title>
+               </head>
+               <p>Wo zum Junonischen Tempel der Zug der Gläubigen aufstieg,</p>
+
+               <p>Als sie der Göttin Bild brachten, mit Waffen erkämpft;</p>
+
+               <p>Da besteig' ich die Höhn Aventinus, des einsamumwohnten,</p>
+
+               <p>Wohl ein Gläubiger auch, herrschet auch Juno nicht mehr. 5 Denn wann der zögernde Schritt durchirret die Traubengeländer</p>
+
+               <p>Wo jetzt epheuumrankt Trümmer nur heben ihr Haupt; Wann die Glöcklein erschallen der sparsambesucheten Klöster,</p>
+
+               <p>Welchen der Göttinnen Schaar wich von den gipfligen Höhn;</p>
+
+               <p>O ! dann versenkt sich der Geist, wo, zückend in flammenden Blitzen,</p>
+            </div>
+
+            <div type="section" n="4">
+               <head>
+                  <title type="main">10 Redet ein einsamer Gott, hörbar dem Gläubigen nur!</title>
+               </head>
+            </div>
+
+            <div type="section" n="5">
+               <head>
+                  <title type="main">Das Haus des Sura.-)</title>
+               </head>
+               <p>Die du, Sura, ersahst vom säulengetragnen Gemache,</p>
+
+               <p>Hier wo das Murcische Thal willig zum Circus sich bog, Spiele der Rennbahn! oft vergleicht man dem Drange des</p>
+
+               <p>Lebens</p>
+
+               <p>Euch, wann schäumend die Kraft ringt mit der streben- den Kraft. 5 Stürmen ja seh' ich sie wohl, sich vorzukommen in Eile,</p>
+
+               <p>Höre der Rosse Gewieh'r; mancher auch küsset den Staub; Aber wo winket das Ziel? und wo der Geber des Kranzes?</p>
+
+               <p>Endlos schlingt sich verwirrt, nie in sich kehrend, die</p>
+
+               <p>Bahn. — Plötzlich drum hemmet den Lauf der Weise; es riss ihn der</p>
+
+               <p>Strom fort; 10 Aber er merkt den Betrug ; lacht des vergeblichen Spiels.</p>
+
+               <p>V Von Norden nach Süden führt auf die Höhe des aventinischen Hügels der steile clivus publicius, heute Via dt Santa Sabina. An der Nordspitze krönte den Hügel ein Tempel der Juno Regina, den Furius Camilliis erbaute, um ein den Vejentern abgenommenes Götterbild darin aufzustellen; in der Nähe stehen jetzt die Kirchen der heiligen Sabina und Anna.</p>
+
+               <p>y Die domus Surae (auch balnea Surae genannt) lag am Nordostabhang des aventinischen Hügels; von den Gemächern des Hauses aus hatte man den ganzen circus maximus, die große unter Caesar und Augustus ausgebaute Rennbahn, vor Augen.</p>
+
+               <p>g „riss" verbessert aus „reisst'\</p>
+
+               <pb n="9.17" xml:id="pbIX17"/>
+            </div>
+
+            <div type="section" n="6">
+               <head>
+                  <title type="main">Der Lorbeer.</title>
+               </head>
+               <p>Ha! ich ersehe den Sprössling, dem Weithintreffer geheiligt^</p>
+
+               <p>Welcher von fernher schon zeigt mir der Schwester Altar. Herrlich grünst du empor ! den schönren erblickte ich niemals,</p>
+
+               <p>Nicht in Hesperiens Flur, nicht wo Iberia thront. Grüne ferner auch so ! — Auch mir, ach ! blühte der Sohn einst,</p>
+
+               <p>Herrlich an Wüchse wie du, lieblich, wie Tauben, an Sinn. Und er schied mir dahin ! ich find' ihn bei Lebenden nimmer,</p>
+
+               <p>Darum senkt sich so gern jetzt zu dem Staube mein Blick. ^)</p>
+            </div>
+
+            <div type="section" n="7">
+               <head>
+                  <title type="main">Rom.</title>
+               </head>
+               <p>Nichts geht über die Einsamkeit, Freund, die im Busen geniesset,</p>
+
+               <p>Wer in der heiligen Rom steht auf den Gipfeln Quirins. Nichts vermisset sein Herz, auch die Nähe nicht der Geliebten;</p>
+
+               <p>Alles was schön ist und gross, stehet lebendig vor ihm. Und aus der Grösse Gefühl spriesst Ruh des beschwichtigten Busens,</p>
+
+               <p>Die nach tieferer Ruh drunten im Grabe sich sehnt.</p>
+
+               <p>Ein Pfad führet allein zum sternumglänzten Olympus,</p>
+
+               <p>Tief durch der Erde Geklüft geht er in Schatten der Nacht. Furchtbar wol mag er erscheinen, wer einsamen Fusses ihn wandelt,</p>
+
+               <p>Mein, ach ! harret des Sohns freundlich geleitende Hand.</p>
+
+               <p>b. Antwort.^)</p>
+
+               <p>An Graf Moltke.</p>
+
+               <p>Gern lauscht das Ohr des Wohllauts Silberwogen, wann reich entströmt Hesperiens Gesang, zu hoher bald, zu sanfter Töne Klang der Sänger spannt Apollons goldnen Bogen. Doch raschren Flugs zum Aether fortgezogen, der Quelle nah, die Dirce's Schwan einst trank, schwingt sich der sinnbegabten Sprache Gang, die mit der Muttermilch wir eingesogen. / „ich ersehe" verbessert aus „schon erseh' ich''. V Humboldts ältester begabter Sohn Wilhelm war am 75. August i8oj im zehnten Lebensjahre in Ariccia am Fieber gestorben. 10 „freundlich" verbessert aus „liebreich". ^) Handschrift (i Quartseite) im Archiv in Tegel. — Erster Druck : Deutsche Rundschau 144, jjj (Septemberheft igioj. W. V. Humboldt, Werke. IX. 2</p>
+
+               <pb n="9.18" xml:id="pbIX18"/>
+               <p>Drum ist kein Spiel den Sängern Teuts die Kunst. 10 Sie fühlen nur der Dichtung heil'ges Quellen, wo tief der Geist die innren Kräfte spüret. Schwer giebt Begeisterung der Muse Gunst. —</p>
+
+               <p>Stumm lang, fühlt' ich erst heut die Brust sie schwellen, da Freundeshand sie mir herbeigeführet.</p>
+
+               <p>Wer weint nicht, wenn bei Romas Siegesgrüssen, wann auf zum Capitol die Heerschaar zeucht, gefesselt zu des Triumphirers Füssen, knirschend der Krieger, bang sein Weib erbleicht, 5 wenn von des Rheines heimischen Gestaden der Enkel Romuls den Germanen scheucht, um, folgend ihm auf nie betretnen Pfaden, der Knechtschaft und der Arbeit schnöde Last auf des Barbaren freies Haupt zu laden? 10 Barbaren! — Ja, den Wald, den Windsbraut fasst, die von des Nordens eisgem Pole stürmet, durchwandernd hordenweis ohn Ruh noch Rast, ward nicht von milder Götter Hand beschirmet der Arme, dem im Busen Schmerz und Lust 15 sich stark, doch rauh, wie Meeresbrandung, thürmet.</p>
+
+               <p>Fern fiel von da, wo kaum sich selbst bewusst leicht sich und zart des Lebens Knosp' erschliesset, wo gleich dem Schwan, wenn um die Silberbrust die klare Flut der Bach ihm kosend giesset, 20 im Einklang mit der Sphären weitem Kreis, hin der Gesang in stolzen Weisen fliesset, sein ernstes Loos ihm ; Bahnen, die das Gleis rückkehrend niemals in sich selbst verschlingen, wies an ihm des Geschickes Machtgeheiss, 25 um durch der Kräfte allgewaltges Ringen, wie Funken sprühen aus dem harten Stein, Unendlichkeit dem Irrdschen abzuzwingen.</p>
+
+               <p>V Handschrifi (i Folioseite) im Archiv in Tegel. — Erster Druck : Deutsche Rundschau 144, 333—334 (Septemberheft igio).</p>
+
+               <p>4 „bang" verbessert aus „thränenvoll". — 8 „Knechtschaß" verbessert aus „Diens[tbarkeit]". — 14 „im — Lust" verbessert aus „Gefühl sich in der Brust". — 75 „sich stark" verbessert aus „mächtig". — ig „ihm" verbessert aus „hold". — 20 „weitem" verbessert aus „ernste[m]".</p>
+
+               <pb n="9.19" xml:id="pbIX19"/>
+               <p>Aus tiefen unerforschten Quellen Quillt ewger Hofnung Strom daher; Der Himmel ruht auf ihren Wellen, Ist selber dieses Stromes Meer. 5 Unendlich ist der Liebe Sehnen,</p>
+
+               <p>Unendlich ist der Wahrheit Trieb; Was fliesset denn ihr, meine Thränen, Als war die Erde mir so lieb ?</p>
+            </div>
+
+            <div type="section" n="8">
+               <head>
+                  <title type="main">e. Übersetzung des römischen Volkslieds</title>
+               </head>
+               <p>„Bellezza mia cara".^)</p>
+            </div>
+
+            <div type="section" n="9">
+               <head>
+                  <title type="main">Jüngling.</title>
+               </head>
+               <p>Lieb Mädel, du meines, nie sah ich mein Tage ein zärtliches, feines, schöns Liebchen, wie dich! 5 Bist schön du, bist gut du, von Lieb ganz umglänzet, scheinst Braut mir, bekränzet, ich sterbe für dich. Mädchen.</p>
+            </div>
+
+            <div type="section" n="10">
+               <head>
+                  <title type="main">Mein holdes Verlangen, »o mein Herzenserwählter,</title>
+               </head>
+               <p>nun bald, mein Vermählter, umfangest du mich. Mein inniges Kleinod,</p>
+            </div>
+
+            <div type="section" n="11">
+               <head>
+                  <title type="main">mein Reichthum, mein Leben, IS die Wunde gegeben</title>
+               </head>
+               <p>mir hast du ins Herz,</p>
+
+               <p>Jüngling. Ein Sternlein am Himmel du scheinst meinen Blicken, V Handschrift (i Oktavseite) im Archiv in Tegel. *j Handschrift (2 Quartseiten, ohne Titel) im Archiv in Tegel. I ,^Iädel" verbessert aus „Schätzchen". — 5 „du" verbessert aus „mir". — 6 „Lieb" verbessert aus „Liebe". — 9 „holdes" verbessert aus „liebstes". — // „mein" verbessert aus „ein". — 16 zuerst: „ins Herz du mir hast". — 18 ,4u scheinst" verbessert aus „scheinst du".</p>
+
+               <pb n="9.20" xml:id="pbIX20"/>
+            </div>
+
+            <div type="section" n="12">
+               <head>
+                  <title type="main">ein Weib zum Entzücken 20 die Welt so nicht hat.</title>
+               </head>
+               <p>Bist schön in den Augen, bist schön in dem Herzen; es drängt mich mit Schmerzen zu sterben für dich.</p>
+            </div>
+
+            <div type="section" n="13">
+               <head>
+                  <title type="main">Mädchen. 25 Die Flamme der Liebe</title>
+               </head>
+               <p>mir hast du geschüret, mich einst, wies gebühret, zu trösten, als Mann. O seliger Tag, wo 30 die Hand wir uns reichen: wie Lust, sonder Gleichen, gemessen wir dann!</p>
+            </div>
+
+            <div type="section" n="14">
+               <head>
+                  <title type="main">Jüngling.</title>
+               </head>
+            </div>
+
+            <div type="section" n="15">
+               <head>
+                  <title type="main">Die Augen, der Mund hier von Liebe süss thauen, 35 ein Nagel beim Schauen</title>
+               </head>
+            </div>
+
+            <div type="section" n="16">
+               <head>
+                  <title type="main">durchbohrt mir die Brust. Mein Schönstes, mein Liebstes, du Seelenerwarmen, o ! schenk aus Erbarmen 40 ein Pfand mir der Treu!</title>
+               </head>
+            </div>
+
+            <div type="section" n="17">
+               <head>
+                  <title type="main">Mädchen.</title>
+               </head>
+               <p>Auf! gieb nun, als Gatte, die Hand mir verbunden; denn nimmer erfunden</p>
+            </div>
+
+            <div type="section" n="18">
+               <head>
+                  <title type="main">ein Mann wird, wie du. 45 Bist schön und bist lieblich,</title>
+               </head>
+               <p>bist Trost mir und Wonne, und mehr, als die Sonne, mir leuchtest du hell! 20 „so nicht" verbessert aus „nicht so". — 41 „nun, als Gatte" verbessert aus „mir die Hand nun". — 45 „und bist" verbessert aus „mir und". — 48 „leuchtest" verbessen aus „scheinest"; „hell" verbessert aus „klar".</p>
+
+               <pb n="9.21" xml:id="pbIX21"/>
+            </div>
+
+            <div type="section" n="19">
+               <head>
+                  <title type="main">Jüngling.</title>
+               </head>
+            </div>
+
+            <div type="section" n="20">
+               <head>
+                  <title type="main">Mein Mond, der du stralest 50 im Sternengepränge,</title>
+               </head>
+               <p>ach ! Wunden in Menge mir schlugst du ins Herz! Nicht schlaf ich die Nacht mehr, kann Ruhe nicht kennen. 55 Dich Braut mir zu nennen, schon sterb ich vor Lust.</p>
+            </div>
+
+            <div type="section" n="21">
+               <head>
+                  <title type="main">Mädchen.</title>
+               </head>
+            </div>
+
+            <div type="section" n="22">
+               <head>
+                  <title type="main">Vom Worte, das herrlich du sagest, gesunden wohl mögen die Wunden 60 mir tief in der Brust.</title>
+               </head>
+               <p>Wie fühl' ich dir nahe mich Wollust umschweben; von Seufzern macht beben, arm Herzchen, er Dich. 4g „stralest" verbessert aus „glänzest" aus „leuchtest". — 5^ zuerst: „Ich schlafe des Nachts nicht". — 62 „Wollust umschweben" verbessert aus „Freude durch . . . ."</p>
+
+               <pb n="9.22" xml:id="pbIX22"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

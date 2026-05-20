@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Über die Königliche Bibliothek zu Berlin</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif10humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1903">1903</date>
+                  </imprint>
+                  <biblScope unit="page" from="77" to="79"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="10.77" xml:id="pbX77"/>
+            <p>Ich wage es daher, bei Ew. Königlichen Majestät allerunter- thänigst darauf anzutragen:</p>
+
+            <p>1. eine eigene Musik-Behörde durch Errichtung einer Pro- feßur der Musik bei der Akademie der Künste zu stiften,</p>
+
+            <p>2. diese Profeßur und die Aufsicht über die gesammte öffent- Hche Musik, jedoch fürs erste nur in Berlin, dem p. Zelter mit einem angemessenen Gehalte zu verleihen, 3. mir aber Auftrag zu ertheilen, dies bei der unter der Section des öffentlichen Unterrichts stehenden Akademie der Künste einzurichten und mit nothwendiger Schonung aller übrigen dabei eintretenden \^erhältniße, alles bald möglichst in Gang zu setzen, um dieser Musik-Behörde die gehörige Wirksamkeit zu verschallen. Ich bemerke nur noch, dass der Zelter, welcher von wahrem und lebendigem Eifer für sein Fach beseelt ist, es sich gern gefallen lassen wird, wenn ihm auch sein Gehalt für jetzt nur bestimmt, aber erst in 3 bis 6 Monaten wirklich angewiesen werden könnte, und dass ich indess auf Mittel denken würde, daßelbe wo möglich auf eine Ew. Königlichen Majestät Kassen nicht zur Last fallende Weise auszumitteln.</p>
+
+            <head>
+               <title type="main">Königsberg, den 14. Mai iSoq. Humboldt.</title>
+            </head>
+            <div type="section" n="1">
+               <head>
+                  <title type="main">XVII. Über die Königliche Bibliothek zu Berlin.</title>
+               </head>
+               <p>10. Juni 1809.</p>
+
+               <p>(Eigenhändiges Konzept in den Akten des Kultusministeriums.)</p>
+
+               <p>Die Königliche Bibliothek stand in engster Verbindung mit der Akademie der Wissenschaßen ; ihr Direktorium führte die Aufsicht darüber und erteilte die Erlaubnis zur Benutzung. Während der Verhandlungen über die Reorganisation der Akademie forderte das für diesen Zweck eingesetzte Comite im Februar 1808 den Bibliothekar Biester auf, eine Instruktion für den Vorsteher der Bibliothek zu entwerfen, und dieser ließ durch seinen Kollegen Buttmann ein neues Reglement ausarbeiten. Humboldt forderte dies ein, gab sein VotU7n über einige Punkte desselben, und erließ als vorläufige Maßregel die folgende Verfügung.</p>
+
+               <p>Königsberg, den lo^en Juny 1809. An den Königl. Staatsrath Herrn Uhden Hochwohlgeboren zu Berlin. Die Section des öffentlichen Unterrichts hat den von Ew.<pb n="10.78" xml:id="pbX78"/> ZU einem neuen Bibliothelo-eglement mit Vergnügen gelesen, und findet, da sich mehrere Unordnungen bei der Bibliothek, wie die Bibliothekarien selbst klagen, und die von ihnen in die öffentlichen Blätter eingerückten Bekanntmachungen beweisen, eingeschlichen haben, für nöthig, noch vor der Prüfung und der Königl. Genehmigung des ganzen von dem Comite der Akademie entworfenen Plans, welcher bis jetzt ja noch nicht einmal vorgelegt ist, einige Verfügungen deshalb zu treffen. Freilich kann jetzt, wo die unterzeichnete Section noch nicht weiss, über w^elche Summen sie für die Bibliothek wird disponiren können, kein definitives Reglement gemacht werden; allein zwei Dinge nemlich</p>
+
+               <p>1. bestimmtere und die Integrität der Bibliothek mehr als die bisher hierin üblich gewesene Methode sichernde Regeln wegen des dem Publikum zu gestattenden Ge- brauchs der Bibliothek und</p>
+
+               <p>2. an die Buchhändler zu erlassende Verfügungen, um zu bewürken, dass dieselben die Akademie nicht der ihr zukommenden Werke berauben, scheint es gut festzusetzen und anzuordnen.</p>
+
+               <p>Ew. Hochwohlgeboren werden daher beauftragt, hierüber zuerst mit den Bibliothekarien zu konferiren, alsdann aber die Akademie der Wissenschaften aufzufordern, ein solches von jenen aufgesetztes intermistisches Reglement der Section zur Bestätigung vorzulegen. In Absicht des ersten Punktes scheint es nicht rath- sam, dass die Akademie selbst denjenigen Personen, welche Bücher in ihre Wohnung geliehen zu bekommen wünschen, die Erlaubniss dazu ertheile. Eine Korporation ist hierzu am wenigsten geeignet, und der Bibliothekar kann nicht verantwortlich gemacht werden, wenn nicht diese Erlaubniss allein von ihm abhängt. Entstehen zwischen ihm und demjenigen, welcher die Erlaubniss nachsucht, Streitigkeiten, so ist die Section des öffentlichen Unterrichts, als Oberbehörde, natürlich Richter darin. Der Akademie allein kann die Kognition hierüber um so weniger überlassen werden, als sie die Bibliothek nie als ihr Privateigenthum behandeln kann, und nie vergessen darf, dass dieselbe zum Nutzen des ganzen Publikums bestimmt ist, — eine Betrachtung, die noch wichtiger wird, wenn würklich eine Universität in Berlin errichtet werden sollte. — Bei dem zweiten Punkt müssen zwar die Buchhändler streng zur Er<pb n="10.79" xml:id="pbX79"/>lassen, oder denselben, wenn es nöthig ist, wenigstens durch neue gesetzliche bei des Königs Majestät in Antrag zu bringende Maass- regeln vorbeugen zu können. Ausser diesem Reglement wünscht die Section noch, dass Evv\ Hochwohlgeboren zugleich bei der Akademie auf eine entweder jährlich oder halbjährlich anzustellende Revision der Bibliothek dringen. Diese kann durch zw^ei dazu besonders zu deputirende Mitglieder, welchen ein Rath der Section zugeordnet werden soll, vorgenommen werden. Den Bibliothekarien muss eine solche Revision, da sie ihre Verantwortlichkeit vermindert, angenehm seyn, und gehörig eingerichtet, ist ihr Nutzen unbezv/eifelt. Zwar kann natürlich nicht jedes Buch controUirt werden, aber die Revision der Listen, die Prüfung der dabei vorgeschriebenen Formalien, die Durchsicht einiger Fächer, endlich gelegentliche an die Bibliothekarien zu machende Fragen, erhalten immer gegenseitig die Wachsamkeit und Aufmerksamkeit, und zugleich können diese Revisionen zu gemeinschaftlichen Berathschlagungen über Bedürfnisse der Bibliothek, Mängel im Reglement, die Aufführung der Unterbedienten pp. benutzt werden.</p>
+
+               <p>Endlich ist freilich vorauszusehen, dass jede auch nur interimistisch zu treffende bessere Einrichtung eine kleine Ausgabe mehr verursachen wird. Die unterzeichnete Section wird sich aber bemühen, sobald nur Vorschläge deshalb eingehen, das dazu nöthige Geld unabhängig von den Akademiefonds herbeizuschaffen.</p>
+
+               <p>Die Art, in welcher Ew. Hochwohlgeboren sich dieses ganzen Auftrags entledigen wollen, ob mehr durch mündliche Konferenzen, oder durch schriftliche Verfügungen, bleibt denenselben überlassen ; nur setzt die Section das Vertrauen in Sie, dass Sie diejenige Einleitung wählen werden, welche sowohl der Akademie als den Bibliothekarien die am wenigsten auffallende und unangenehme sein wird, da die Section überzeugt ist, dass die Unregelmässigkeiten, welche sie bei der Bibliothek freilich bemerkt hat, weniger durch die Schuld der Aufseher, als durch den Mangel eines guten Reglements, durch ein zu geringes Personale, und durch den Um- stand entstanden sind, dass die Bibliothekarien sich bisher in einer Lage befunden haben, welche ihnen nur den geringsten Theil ihrer Zeit der Bibliothek zu vv^idmen, erlaubte.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

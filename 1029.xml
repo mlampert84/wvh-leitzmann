@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Über die Berufung Reils etc</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif10humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1903">1903</date>
+                  </imprint>
+                  <biblScope unit="page" from="229" to="232"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="10.229" xml:id="pbX229"/>
+            <p>eine durchaus zweckmässigere und bessere Gestalt zu geben, ist der von Savigny vorzugsweise geeignet. Sein Gehalt bei der Universität dürfte, da er auch in Landshut, wo er mit ausgezeichnetem Beifall liest, ein beträchtliches Einkommen geniesst, auf 2500 Thlr. jährlich zu bestimmen sein, und zum Reisegelde würden ihm 500 Thlr. bewilligt werden können.</p>
+
+            <p>Auf diese Bedingungen hat sich der von Savign}^ bereits vorläufig und, wie ich pflichtmässig gestehen muss, da seine Lage in Landshut sehr gut ist, vorzüglich aus Neigung, sich in Ew. Königl. Majestät Staaten niederzulassen und bei einer Anstalt thätig zu sein, von welcher er sich bedeutenden Nutzen für die Wissen - Schäften verspricht, bereit erklärt, die Stelle anzunehmen, und er erwartet nur den officiellen Ruf, um seine Entlassung in München ZU fordern.</p>
+
+            <p>Bloss in Absicht des Reisegeldes hätte er es vorgezogen, statt einer bestimmten Summe die Erstattung der Kosten zu erhalten. Da jedoch dies nicht füglich geschehen kann, so trage ich bei Ew. Königl. Majestät allerunterthänigst darauf an:</p>
+
+            <p>Den Rath und Professor von Savigny in Landshut zum Professor des römischen Rechts und Director der juristischen Facultät allhier mit einem jährlichen Gehalte von 2500 Thlr. und 500 Thlr. Reisegeld allergnädigst zu berufen und huldreichst zu verstatten, dass ihm sein Gehalt drei Monate vor seiner wirklichen Ankunft hieher ausgezahlet werde.</p>
+
+            <p>Berlin, den i. März 18 10.</p>
+
+            <p>An des Königs Majestät.</p>
+
+            <p>Humboldt.</p>
+
+            <head>
+               <title type="main">XLIV. Über die Berufung Reils, Rudolphis, Horkels, Illigers und den Erwerb einiger naturgeschichtlicher</title>
+            </head>
+            <div type="section" n="1">
+               <head>
+                  <title type="main">Sammlungen.</title>
+               </head>
+               <p>31. März 1810.</p>
+
+               <p>(Eigenhändiges Konzept in den Akten des Kidtusministeriums, Abschrift im</p>
+
+               <p>Geh. Staatsarchiv.)<pb n="10.230" xml:id="pbX230"/> dessen Berufung Allerhöchstdieselben durch die Cabinets-Ordre vom IS- pr. zu genehmigen geruhet hatten, nicht nur diesen Ruf angenommen, sondern auch bereits seine Entlassung von der Westphälischen Regierung erhalten hat, und fügt eine Abschrift des Entlassungs-Decrets diesem Berichte ehrfurchtsvoll bei. Der Ober-Bergrath Reil wäre nun zwar hiernach im Stande, schon im nächsten Sommer seine Vorlesungen hier anzufangen, und dies würde in vieler Rücksicht wünschenswerth sein; er hat auch die Absicht, wirklich schon in wenig Wochen hier einzutreffen. Aber seine Regierung hat ihm den dringenden Wunsch geäussert, dass er noch im nächsten Sommerhalbenjahre dort lesen möchte. Die von ihm in Halle angelegte Badeanstalt fordert seine Gegenwart noch in diesem Jahr auf längere Zeit, und der Kanzler der Universität Dr. Niemeyer ersucht den unterzeichneten Sections-Chef in seinem und der Universität Namen, dem Ober-Bergrath Reil bei Ew. König]. Majestät die Erlaubniss auszuwirken, sein hiesiges Amt erst im Herbst anzutreten. Da nun dies Gesuch billig scheint, die ^"o^lesungen des p. Reil hier, wo bis jetzt noch keine voll- ständige Einrichtung der Universität Statt finden kann, zu entbehren sind und das Westphälische Gouvernement der Verpflanzung dieses Mannes hierher, dessen fast unersetzlichen Werth für die Universität es doch lebhaft anerkennt, ob er gleich dort ansässig ist und seine Kinder der Conscription unterworfen bleiben, so wenig Schwierigkeiten in den Weg gestellt, dass es auch von hiesiger Seite einige Gefälligkeit verdient, so trägt die unterzeichnete Section bei Ew. Königl. Majestät allerunterthänigst dahin an: dem Ober-Bergrath Reil die Erlaubniss, sein Amt erst um Michaehs antreten zu dürfen, allergnädigst zu ertheilen, zugleich aber, da gar kein Reisegeld für ihn ausgesetzt ist, ihm seine Besoldung vom i. August curr. an anweisen zu lassen.</p>
+
+               <p>Sie wird nach Genehmigung dieses x\ntrags zugleich die Bestallung für denselben zur allerhöchsten Vollziehung einreichen. Die unterzeichnete Section muss übrigens noch hinzufügen, dass der Ober-Bergrath Reil durch die Annahme des an ihn er<pb n="10.231" xml:id="pbX231"/>interessirt ist, Eintrag thut und endlich in einem Augenblick ging, wo er Zulage und Auszeichnung von seiner Regierung zu erw^arten berechtigt war, indem er wirklich schon auf der Liste der zu Rittern des neuen Ordens bestimmten Personen stand. Er hat durchaus nicht versucht, seinen Ruf zu Sicherung dieser und anderer Vortheile zu benutzen, sondern hat gleich unbedingt seine Entlassung gefordert und ist allen Versprechungen und Vorstellungen ungeachtet fest dabei geblieben. Die unterzeichnete Section darf daher diesen Mann Ew. Königl. Majestät auch von Seiten seiner Denkungsart und seines Patriotismus vertrauensvoll empfehlen.</p>
+
+               <p>Sie wagt es, mit dieser Angelegenheit noch zwei andre, die hiesigen höhern gelehrten Anstalten betreffende Anträge zu ver- binden.</p>
+
+               <p>Zunächst glaubt sie Ew. Königl. Majestät noch zwei Männer zu ordentlichen Professoren der hiesigen Universität vorschlagen zu müssen, von deren Annahme sie schon im Voraus gewiss ist, den Professor Rudolphi in Greifswalde zum Professor der vergleichenden Anatomie (oder Zootomie) und den Professor Horkel in Halle zum Professor der vergleichenden Physiologie. Beide sind verdiente Gelehrte, der erste durch Schriften bekannt, die allgemeinen Beifall erhalten haben, und wenn der letztere bisher wenig geschrieben hat, so verbindet er dennoch gründliche und ausgebreitete Kenntnisse mit einer umfassenden und philosophischen Ansicht seines Fachs. Den Rudolphi hatte der unterzeichnete Sections-Chef gedacht, vorzüglich auch bei der neuen Organisation der Thierarznei-Schule benutzen zu können, welche er in diesem Augenblick mit dem Oberstallmeister von Jagow bearbeitet, und Ew. Königl. Majestät ehrfurchtsvoll vorzulegen nicht verfehlen wird. Professor Rudolphi würde i50oThlr. jähr- liche Besoldung erhalten müssen, Professor Horkel hingegen, da er auch in Halle geringer besoldet war, mit 800 Thlr. zufrieden sein. Ebenso könnten dem erstem 300 Thlr., dem letztern 150 Thaler Reisegelder bewilligt werden. Die unterzeichnete Section trägt daher auf die allerhöchste Genehmigung der Berufung dieser beiden Gelehrten unter den angegebenen Bedingungen ehrfurchts- voll an.<pb n="10.232" xml:id="pbX232"/> Gebrauch hierher zu erhalten. Der Graf Hofmannsegg, der sich nicht bloss durch seine eigene gelehrten Bemühungen, sondern auch durch die Aufopferung eines grossen Theils seines Vermögens, das er auf die Herausgabe seines botanischen Werkes, seiner Portugiesischen Flora, wendet, bei dem er es wirklich dahin gebracht hat, dass hiesige Künstler mit den Parisern wetteifern, ohne ihnen nachzustehen, ein grosses Verdienst um die Wissenschaften erwirbt, besitzt diese beiden Sammlungen, und will sie beide dem öffentlichen Gebrauch hier widmen; er wünscht nur, dass der Professor Illiger in Braunschweig, der Aufseher der Insecten- sammlung ist, als Aufseher des hiesigen zoologischen Museums hierher berufen würde, und die unterzeichnete Section müsste auch ohne dies selbst den Wunsch hegen, diesen in diesem seinem Fache äusserst schätzbaren Gelehrten hier zu besitzen. Mit 1500 Thaler Gehalt, die er aber bitten würde, um auch eine kurze wissenschaftliche Reise nach Paris machen zu können, ihm vom I. Juli c. ab anweisen zu lassen, würde er sich hierher verpflanzen und um Michaelis hier eintreffen. Was nun die Sammlungen betrifft, so will der Graf Hofmannsegg die zoologische, die mit vielen Doubletten, die verkauft und vertauscht werden könnten, aus einigen 40 Arten von Säugethieren, etwa 300 Arten ^^ögeln und einigen Amphibien, meist aus America, zusammen beinahe aus 1000 Stücken, besteht, ganz und gar und ohne allen Ersatz den hiesigen Anstalten schenken. Nur da die meisten dieser Thiere noch nicht ausgestopft sind, so würden diese Kosten von den An- stalten getragen werden müssen. Die Insectensammlung, die aus 19 bis 20000 Arten besteht, kann der Graf Hoffmannsegg nicht ganz überlassen, da sie dem schon siebzigjährigen Dr. Hellwig in Braunschweig gemeinschaftlich mit ihm gehört, und erst nach dessen Tode ganz an ihn fällt, er sie auch sonst gern als Privat- eigenthum erhalten möchte. Allein er will, wenn Ew. Königl. Majestät gestatten, sie im jetzigen Universitäts-Gebäude aufzustellen, sie mit zum öffentlichen Gebrauche lassen, und denkt sogar, sie durch eine fideicommissarische Einrichtung an Berlin für immer zu binden. Er bittet dabei allein, dass ihm die Transport-Kosten von Braunschweig bis hieher ersetzt werden möchten. Diese beiden Sammlungen, verbunden mit der Blochischen Fischsamm-</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

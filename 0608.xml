@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Kunstvereinsbericht vom 30. Dezember 1828</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Sechster Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif0601humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1907">1907</date>
+                  </imprint>
+                  <biblScope unit="page" from="85" to="93"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1828">1828</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="6.85" xml:id="pbVI85"/>
+            <head>
+               <title type="main">Kunstvereinsbericht vom 30. Dezember 1828.</title>
+            </head>
+            <p>Die \'orziiglichkeit der diesjährigen Ausstellung, die unge- theilte Anerkennung, die sie im Publicum gefunden, und der gesteigerte Antheil, der in diesem Jahre auch unsrem \'erein ge- schenkt worden ist, sind ein höchst erfreulicher Beweis, dass die Bemühungen der Künstler und ihre Aufnahme im Publicum in einem schönen, zu noch grösseren Hoifnungen berechtigenden Bunde mit einander stehen. Es giebt kaum eine Gattung der Plastik und Malerei von dem Bildniss und dem aus dem gewöhnlichen Lebenskreise') entnommenen (jenrebild an bis zur Darstellung malerischer Xaturansichten, geschichtlicher Scenen, roman- tischer Dichtung und religiöser Gegenstände, von welcher die Ausstellung nicht einzelne gelungene Werke aufzuweisen gehabt hätte; die Theilnahme verbreitete sich über alle diese Gattungen, und beides zeigt den richtigen Weg, welchen die Kunst und ihre Beurthcilung genommen hat. Ks ist nicht eine Gattung von Gegenständen, an welche sich die Hinbildungskraft einseitig hängt, es ist der rege und lebendige, Alles in charakteristische und idealische Form verwandelnde Kunstsinn, welcher die Stille der Natur und die Bewegung des Lebens, die Vor- und Mitwelt, die Wirklichkeit und Dichtung in sein Gebiet schöpferisch hinüberzieht.</p>
+
+            <p>Handschrift (i-; lulbbeschriebene Folioseiten} im Archiv in Tegel. - Erster Druck: Verhandlung der am jo. Dezember ifijS gehaltenen Versammlutig des Vereins der Kunstfreunde im preujiischen Staate S. j—t&lt;S (/«i'-'g/</p>
+
+            <pb n="6.86" xml:id="pbVI86"/>
+            <p>haft ins Leben einführt, und ein gegenseitig verknüpfendes Band zwischen dem Künstler und seiner Nation schlingt. Die volle Wahrheit der Naturanschauung mit der rein künstlerischen Idee vermählend, regt er dasjenige im Menschen an, woraus die Kunst selbst nur als die zarteste und bewundernswürdigste Blüthe emporspriesst, das ^'erlangen nach dem Höheren, Geistigen, das Streben, die Erhabenheit und Anmuth, welche erst dann aufstrahlt, wann die Phantasie sich der Wirklichkeit bemeistert, in die, ohne jenen begeisternden Einlluss, engen und dunkeln Verhältnisse des Lebens zu bringen. Wo die Kunst aus dieser Mitte des menschlichen Gemüthes entspringt, da schreitet sie, vor jedem Irrwege sicher, ewig jugendlich, auf einer Bahn fort, die ihr erlaubt, sich nach allen Seiten hin in unbeschränkter Freiheit zu bewegen. Wo sie eine andre, mehr äusserliche Richtung nimmt oder nicht einzig der Fülle der Empfindung und der Phantasie entströmt, da dreht sie sich, selbst bei bedeutender technischer Vollkommenheit, bald in einem ewig in sich zurückkehrenden Kreise herum, und wirkt nicht wohlthätig auf das Gemüth und das Innere des Menschen zurück.</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">Man hat oft mehrere Beförderungs- und Erweckungsmittel der Kunst namhaft gemacht, in verschiednen Epochen haben ver- schiedne gewirkt. Wir sehen mehrere, deren belebenden Ein- tiusses die Kunst sich unter uns erfreut: schützende Gunst des</title>
+               </head>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">erhabenen Monarchen, der die Hauptstadt mit glänzenden Ge- bäuden verschönert, die vorhandenen Kunstschätze durch Ankäufe bereichen, und jedes Talent aufmunternd, Werke der Künstler Seiner Zeit um Sich versammelt; religiösen Sinn; edles Streben der Bürger, ihre Städte mit Denkmälern zu schmücken; mannig-</title>
+               </head>
+               <p>faltige Befreundung mit der Kunst im häuslichen Kreise des Privat- lebens: geläuterter Geschmack, der, zur Anmuth des Alterthums zurückkehrend, sinnige Kunstform an die Stelle leerer Pracht und<pb n="6.87" xml:id="pbVI87"/> schallt. Indem sie die ernste I^'orderung enlhcilt, jede geistige Thc'itigkeit in ihrer wahren und vollen Natur zu verfolgen, und durch die reine Stimmung der einzelnen alle in den harmonischsten lünklang zu bringen, lenkt sie die Kunst zu ihrem wahren Ziele und setzt sie mit Allem in Wechselwirkung, was das Gemüth von der Welt erfasst und ihr aus seinen Tiefen zurückgiebt. Die Behauptung scheint nicht zu kühn, dass die Kunst sich jetzt unter uns in dieser Bahn befmdet, und es wird doppelt unsre Pllicht, ihr auf derselben unsre befördernde Theilnahme zu widmen.</p>
+
+               <p>Ich habe jedoch nur darum gewagt, dieser allein zum Ziele führenden künstlerischen Richtung zu gedenken, w^il von ihr auch die wohlthätige Rückwirkung der Kunst auf diejenigen abhängt, für welche der Künstler arbeitet, und weil unser V^erein dergestalt in die Mitte zwischen dem Künstler und dem Publicum gestellt ist, dass diese Rückwirkung hauptsächlich unsre Aufmerksamkeit auf sich ziehen muss. Ja, es lässt sich nicht läugnen, dass dieselbe sogar höher als die Kunst selbst steht, da diese, wenn man einen Augenblick vergisst, dass alles Geistige seinen Zweck nur in sich trägt, ihren Werth erst durch ihren Einfluss auf den Menschen und seine allgemeine Bildung erhält.</p>
+
+               <p>Ks hat mir sogar geschienen, dass diese Beziehung unsres N'ereines nicht immer gehörig erkannt und gewürdigt, und der- selbe oft zu einseitig als ein bloss für den Künstler bestimmtes Beförderungsmittel der Kunst angesehen wird. In sich und zuletzt ist dies zwar auch vollkommen wahr, da auch die im Publicum geweckte und unterhaltene Kunstliebe wieder wohlthätig auf den Künsder zurückwirkt. Aber in seiner unmittelbaren Bestimmung ist der Verein recht eigendich, und seinem ursprünglichsten Zwecke nach, auch eine von I'Yeunden der Kunst, wie er<pb n="6.88" xml:id="pbVI88"/> deutenden damit verbundenen Aufopferungen , sorgfältig darin fort, damit jedes Mitglied, da die Kunst nichts ohne Anschauung ist, etwas Anschauliches über die Unternehmungen des Vereines zur Erhaltung und Beschäftigung seiner Theilnahme in die Hände bekomme.</p>
+
+               <p>Diese Rücksichten haben nun auch das Directorium und den Künstler-Ausschuss bei den diesjährigen Ankäufen geleitet. Man hat geeilt, sich solcher Bilder zu versichern, welche die würdigsten schienen, unter die Mitglieder des Vereins verbreitet zu werden. Man hat bei der Auswahl selbst so streng, als es thunlich war, neben den technischen Forderungen, auf den wahren Begrill ächter Kunst, die Arbeit der Einbildungskraft, die Wärme der Empfindung gesehen, die, wenn sie sich durch alle Theile eines Kunst- werks hindurch ungeschwächt gleich bleibt, immer den ächten Künstlerberuf beurkundet. Wenn ich hier in flüchtigen Worten andeute, was der Künstler-Ausschuss zu erreichen gesucht hat, so werden die hier anwesenden geehrten Mitglieder des Vereins um so unpartheiischer, was er geleistet, beurtheilen, da wohl den Meisten der Kreis bekannt ist, in welchem die Auswahl allein möglich blieb.</p>
+
+               <p>Auf diesen beschränkt hat der Verein nur drei grössere historische Bilder ankaufen können, obgleich er gerade aus dieser Gattung gern den an sich gebrachten andre beigefügt hätte. Ausser diesen sind zwei allegorische Gemälde, fünf Landschaften und fünf Genrebilder ausgewählt worden. Unter den letzteren befindet sich aber eines, das Erhardische, das, indem es einen Moment ernster und tiefer Gemüthsbewegung schildert, etwas Höheres erreicht, und über den Kreis blosser Behaglichkeit, Naturwahrheit und Anmuth herausgeht, in dem sich sonst diese Gattung von Bildern vorzugsweise zu gefallen pflegt. Eine ausführlichere Angabe dieser vierzehn, auf der Ausstellung angekauften Bilder würde unnütz seyn. Die hier anwesenden Mitglieder sehen sie hier aufgestellt, und für die entfernten würde jede Schilderung dennoch ungenügend bleiben.</p>
+
+               <p>Das Ankaufen von Bildern, welche fertig vor der kunstverständigen Beurtheilung da liegen, hat so entschiedne Vorzüge vor dem blossen Bestellen mit oder ohne Angabe des Gegen<pb n="6.89" xml:id="pbVI89"/>kauf aber hiingt vom Zulall ab, imd da die Künstler ihre nicht bestellten Werke lieber der (^oncurrenz der akademischen Kunst- ausstellimg überlassen, so lindet sich, ausser den Ausstellungen, jetzt selten (ielegenheit dazu. Ks liegt aber auch wesentlich im Zwecke des Vereins, gerade durch Bestellungen den Künstler in den Stand zu setzen. Bedeutenderes zu unternehmen. Die Preisbewerbungen in Rom, die, bei der so sehr verschiednen Natur der Skizze und der Ausführung, wirkliche Bestellungen sind, machen einen 'J^heil unsres Statuts aus. Die Sorge für die im Auslande sich der höheren Kunstausbildung Widmenden ist ein Theil seines ursprünglichen Zwecks. Gerade die Bestellung, die es ihm mt)glich macht, mit Sicherheit an die Ausführung einer Idee zu gehen, hat für den Künstler eine grössere Wichtigkeit, als das Kaufen des Fertigen, das, wenn es sich auszeichnet, bei der Kunstliebe und dem Geschmack des Publicums, schon von selbst seinen Käufer tindet. Es ist daher die oft börathene und wohlgeprüfte Meinung des Directoriums, dass der N'erein auch künftig beide Wege, den des Ankaufs des Fertigen und den, in Absicht des Erfolges ungewisseren der Bestellung, mit einander verbinden, und indem er der statutarischen Vorschrift der Preisbewerbungen, ohne Ausnahme, getreu bleibt, wie es die Gelegen- heit giebt, bald diesen, bald jenen einschlagen muss. Bei der unpanheiischen Sorgfalt, welche das erste Gesetz des Künstlcraus- schusses ausmacht, ist das Gelingen der Bestellungen immer mit hoher Wahrscheinlichkeit zu erwarten, und was darin Ungewisses oder Unentschiednes zurückbleibt, hat den unläugbaren N'ortheil, dass das Publicum die Künstler und die Künstler das Publicum kennen lernen.</p>
+
+               <p>Ich habe jetzt einer hochgeehrten \'ersammlung von dem Er- folge der in unsren drei letzten Zusammenkünften angekündigten l^reisbewerbungen und Bestellungen Bericht zu erstatten.</p>
+
+               <p>Um zunächst von den ersteren zu reden, so sind die beiden, welche Perseus und Andromeda und Hero und Leander zum (Gegenstände hatten, nunmehr erledigt. Die Bilder des Herrn von Klöber, der vor kurzem, nach \'ollendung seiner dortigen Studien, von Rom zurückgekommen ist, und des Herrn Wolf<pb n="6.90" xml:id="pbVI90"/> mälde noch nicht eingesendet. Sie sind aber so weit mit ihrer Arbeit vorgerückt, dass dieselben gewiss mit dem nächsten Frühjahr hier eintreiben werden, ^'on einer vierten Preisbewerbung für die in Rom studirenden Künstler, bei welcher die Wahl des Gegenstandes den Künstlern selbst überlassen war, hatte sich das Directorium und der Künstlerausschuss ein besondres glückliches Gelingen versprochen. Allein unsre Erwartungen sind fehlgeschlagen. Es sind acht Skizzen eingegangen, von welchen einer der Preis zuerkannt, und eine zweite für 50. Thaler angekauft worden ist. Die erstere hat Moses, wie er Wasser aus dem Felsen schlägt, und das Volk, das in mannigfaltigen Gruppen mit dem Schöpfen desselben beschäftigt ist, zum Gegenstande, die zweite die Ver- stossung der Hagar. Von wem diese beiden Bilder herrühren, ist uns bis jetzt unbekannt.</p>
+            </div>
+
+            <div type="section" n="3">
+               <head>
+                  <title type="main">Die in Rom bestellten beiden Zeichnungen sind eingegangen, und werden heute mit verloost werden. Sie sind von Herrn</title>
+               </head>
+            </div>
+
+            <div type="section" n="4">
+               <head>
+                  <title type="main">Genelli, dem Sohn des geschätzten Landschaftsmalers, dessen sich gewiss mehrere in dieser hochgeehrten Versammlung erinnern werden. Die Gegenstände hatte der Verein freigelassen. Der Künstler hat Perseus und Andromeda und das Ringen Jacobs mit dem Engel gewählt.</title>
+               </head>
+               <p>Zwei noch in Rom bestellte Gemälde sind zur diesjährigen Verloosung nicht fertig geworden. Das eine ist Herrn Catell aufgetragen. Er hat eine Scene aus dem Römischen Alterthum behandelt, die sich glücklich einer landschaftlichen Darstellung an- schliessen lässt. Herr Philipp Veit, der das zweite dieser Bilder verfertigt, malt die Aussetzung des Moses.</p>
+
+               <p>Der Kupferstich nach der im Besitze Sr. Majestät des Königs befindlichen Raphaelischen Madonna durch Herrn Caspar ist bereits weit vorgerückt, und verspricht in jeder Art vorzüglich zu werden. Die Gewandparthieen sind, wie man aus einem von Herrn Caspar mitgetheilten Probeabdruck sieht, schon völlig beendigt.</p>
+
+               <p>Der gerechte und ungetheilte Beifall, welchen die Bilder des Herrn Hübner und Herrn Sohn auf der akademischen Kunstausstellung gefunden haben, sind uns eine erfreuliche Veranlassung geworden, bei jedem ein Bild von 4 Fuss Länge und 3 Fuss Höhe zu bestellen. Indem sich von diesen beiden Künstlern sehr vor<pb n="6.91" xml:id="pbVI91"/>Düsseldorf durch diese liestellunfr öllentlich anzuerkennen, da wir bedauern mussten, keines ihrer fertigen liilder ankaufen zu können.</p>
+
+               <p>Auch Herrn Meister, der durch seine Bilder auf der Ausstellung ein so entschicdncs Talent in seinem b'ache bewiesen, ist ein Bild von gleicher Höhe, da die auf der Ausstellung den Masstab des Vereins für das Aufbewahren in Privatwohnungen überstiegen, aufgetragen.</p>
+
+               <p>Die \\'ahl der Gegenstände hat man bei diesen Bestellungen lediglich den Künstlern überlassen.</p>
+
+               <p>Ich hatte schon in der letzten Zusammenkunft Gelegenheit, des Planes des Directoriums zu erwähnen, es durch einen Krz- abguss möglich zu machen, dass unser Verein auch anfangen könnte, für die Sculptur thätig zu seyn. Herrn Wredows schöne Statue des Ganymed, deren sich gewiss alle hier anwesende Mitglieder von der Kunstausstellung her erinnern, bot hierzu eine glücklichere Gelegenheit dar, als man sich leicht hätte zu linden schmeicheln dürfen. Der Gyps ist dem Künstler für 200. Thaler abgekauft worden, um dadurch zugleich das Recht zu erlangen, ihn in Erz giessen zu lassen. Herr Geheimer OberFinanzRath Beuth will die Geneigtheit haben, den Guss, bloss gegen Erstattung der Kosten des Erzes und des Feuermaterials, auf dem Königlichen Gewerbeinstitut zu besorgen, einer Anstalt, die durch sinnreiche und zweckmässige \'erHechtung des (Gewerbes mit der Kunst beiden einen nicht zu berechnenden Gewinn zusichert. Auf diese Weise wird der Ausguss in der \'ersammlung des nächsten Jahres zur \'er- loosung kommen können, und in dauernder und schönerer Gestalt ein Bildwerk wiedergeben, das diese Verewigung verdient, da nur ein sehr ausgezeichnetes Talent mit so glücklicher Individualität so treu und rein von allem modernen (Charakter zu den allge- meinen classischen Formen des Alterthums zurückzukehren vermag. Wenn ich mich hier des Ausdrucks der Rückkehr zum Alier- thum bediene, und von einem Gegensatze mit dem Modernen rede, so behaupte ich darum keinesweges, dass gerade die Plastik bloss zu einem unfruchtbaren Ringen mit der Antike verurtheilt sey. Der Lauf der Jahrhunderte hat Gedanken und Gefühle ent<pb n="6.92" xml:id="pbVI92"/>erwähnen, das erst vor kurzem unsre Bewundrung um so lebhafter an sich zog, als sein Gegenstand eine durch alle Gefühle tiefer und innig empfundner Ehrfurcht geheiligte Erinnerung zurückrief. ^)</p>
+
+               <p>Der Zuwachs, welchen die Kunst, als solche, gegen das Griechische und Römische Alterthum gehalten, der neueren Zeit schuldig ist, liegt, wenn man es mit einem kurzen Gegensatz ausdrücken soll, in der vorzüglicheren und ausschliesslicheren Entwicklung dessen, was gestaltlos durch blosse Nuancirung und Gradation, gehalten von den Gesetzen des Rh3ahmus und der Harmonie, auf die Einbildungskraft zu wirken vermag, und also in letzter Beziehung unmittelbarer die Empfindung berührt. Hierin allein bewegt sich und herrscht die in ihrer höheren Bedeutung ganz der neueren Zeit angehörende Musik, darauf beruht die Wirkung der in diesem Umfange dem Alterthum auch unbekannt gebliebenen F'arbenbehandlung in der Malerei, durch welche, so wie durch andere Mittel, ein Ganzes der Darstellung in verschiedenen Plänen in Einheit aus der Fläche emporsteigen zu lassen, die Malerei zu einer ganz neuen Kunst geworden ist. Durch dies, der starren Gestalt entgegengesetzte Gestaltlose wird das Leben in der Kunst hervorgebracht, da auch das wirkliche Leben nur in einer Folge sich gegenseitig bedingender Gefühle besteht, und dies Leben muss der Bildhauer, was die Alten so meisterhaft verstanden, mühevoll dem Stein einhauchen, da es dem Maler, dessen erste Schwierigkeit das Plastische auf der Fläche ist, in der Frische und dem Reize der Farbe freiwilliger<pb n="6.93" xml:id="pbVI93"/> in welchen es den Vorzug geniesst, den Mitgliedern gegenüberzustehen, zur \'erständigung über gewisse leitende Grundsätze zu benutzen. Man hat in unsrem Vereine bald mythologische, bald biblische, bald romantische Gegenstände zu Aufgaben gewählt, man hat dabei allerdings der \^erschiedenheit des Geschmacks zu huldigen, und der Verschiedenheit des Talents zu Hülfe zu kommen gesucht, man ist aber von der \'oraussetzung ausgegangen, dass der sinnige und geniale Künstler keinen dieser Gegenstände in einer gleichsam auf ihn beschränkten Manier, sondern jeden in dem allgemeinen Sinne behandeln w'ürde, welcher die Kunst aller Zeiten verbindet. Dieser Wink liegt schon in der, von keiner Vorliebe geleiteten Zusammenstellung aller jener Gegenstände. Wenn auch mythologische an sich das Gefühl minder anregen,') so soll ja das Kunstwerk nur die Wärme und das Leben in sich tragen, das der Künstler ihm einhaucht, und biblische Gegen- stande verlieren darum nicht an Tiefe und Innigkeit des (lelühls, so wenig, als romantische an Kühnheit und Fülle der Kinbildungskraft, wenn der Künsder sich an die ernsten l'^orderungen des Alterthums an Gorrectheit, Wahrheit und Grazie der (iestali hält.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

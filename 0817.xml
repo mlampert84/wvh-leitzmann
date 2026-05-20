@@ -1,0 +1,220 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Kleinere Bruchstücke</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Achter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif08humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1909">1909</date>
+                  </imprint>
+                  <biblScope unit="page" from="104" to="116"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="8.104" xml:id="pbVIII104"/>
+            <head>
+               <title type="main">15. Kleinere Bruchstücke.</title>
+            </head>
+            <div type="section" n="1">
+               <head>
+                  <title type="main">a. Anfang der vierten Nemeischen Ode.<note type="footnote" n="^)" resp="gnd-116890657"><hi>mit ihr vereint, ihr süssen Zauber bei. So umschmeichelt mit Labung nicht</hi></note></title>
+               </head>
+               <p>Der beste Arzt durchkämpfter,^) erprüfter Arbeit ist die Freude. Der Musen weise</p>
+
+               <p>Tochter, des Gesanges Stimme, mischt die müden Glieder des Bades laue Flut, als der Rede</p>
+
+               <p>Einklang, der Gefährte der Leyer.*)</p>
+
+               <p>Länger lebt, als Thaten, das Wort zur späteren Nachwelt, das mit der Charitinnen Gunst die Zunge dem tiefen Sinn entnimmt.</p>
+
+               <p>b. Nem. VL i — 13.^)</p>
+
+               <p>Eins ist der Menschen, eins der Götter Geschlecht, und von Einer Mutter y Handschrift: i Quartseite, ohne Titel. Damit gleichlautend ist der Text in Humboldts Brief an Wolf vom 5. Dezember i']g^. — Erster Druck: Wilhelm von Humboldts Gesammelte Werke 2, ^41 (1841).</p>
+
+               <p>"^j „durchkämpfter" verbessert aus „bestandner". y Vor „mit" gestrichen: „vereint". y „Gefährte der Leyer" verbessert aus „Leyer Freund". ^) Handschriß: i Quartseite. — Erster Druck: Wilhelm von Humboldts Gesammelte Werke 2, j42 (1841).</p>
+
+               <pb n="8.105" xml:id="pbVIII105"/>
+               <p>athmen wir beide.</p>
+
+               <p>Aber mächtig ^) geschieden trennt uns der Kräfte Vermögen, dass das Eine nichts ist. Aber der eherne Himmel ein ewig sicherer Sitz bleibt. Dennoch gleichen in etwas, in des Geistes Adel, und der Natur, wir den Unsterblichen; wissen wir gleich nicht welchem Ziel, weder bei Tage, noch bei Nacht, das Schiksal uns entgegen zu laufen gebeut. c. Anfang der fünften Nemeischen Ode.^)</p>
+
+               <p>Kein Bildner bin ich! Nicht ruhet zögernd mein Werk auf weilendem Fussgestell; nein! mit vollen Segeln, auf eilendem Nachen wallet mein Lied dahin! y „Aber mächtig" verbessert aus „Doch gänzlich". 2; Aus dem 61. Abschnitt der Schrifi über Goethes Hermann und Dorothea (Band 2, 240).</p>
+
+               <pb n="8.106" xml:id="pbVIII106"/>
+               <p>Die Begeisterung für Pindar und seine volltönende Lyrik um die Wende des i8. und ig. Jahrhunderts ist ein Erbe der Sturm- und Drangperiode. Herder pries in der zweiten Sammlung der Fragnrente über die neuere deutsche Literatur (Sämmtliche Werke i, 925J mit beredten Worten den Schritt seiner begeisterten Einbildungskraft, den majestätisch brausenden Strom seiner Sprache, den gewaltigen Adlerzug seiner Gedanken. Den strengen, künstlichen Bau seiner Strophen- gebilde verkennend, den erst spätere Zeit verstehen lernte, sali man damals in seinen Versmaßen mit Herder gesetzlose dithyrambische Formen, die wie die ganze von ihm gepflegte poetische Gattung Ursprung und Leben aus den Zeiten der Wildheit und Trunkenheit zögen. Durch Herder wurde der junge Goethe für den thebanischen Lyriker gewonnen (das Beste darüber bietet noch immer Herbst, Goethe in Wetzlar S. 160) und versuchte sich in einer freien Übertragung der fünften olympischen Ode (Werke 4, jisJ- Für die, die das griechische Original eingehender studieren wollten, schuf zuerst Heynes Ausgabe (Göttingen 177^— 74;^ eine sicherere Grundlage.</p>
+
+               <p>Schon die Fi'ankfurter gelehrten Anzeigen von 7772 riefen in einer Rezension der Dammschen Prosaübersetzung, die Herder zum Verfasser hat (Sämmtliche Werke 5, 427; vgl. Steig in der Vierteljahrsschrift für Literaturgeschichte 5, 228), einen poetischen Übersetzer auf den Plan. Er hatte selbst einzelne Oden Pindars verdeutscht, dachte aber wohl schwerlich an sich bei diesen Worten. Unter Heynes Augen strebte Voß energisch nach der Palme des deutschen Pindar, hielt aber seine Versuche meist zurück (Herbst, Johann Heinrich Voß i, -jg). Eine Zeitlang hat auch Humboldt den ernstlichen Gedanken gehabt, diese Lücke auszufüllen, ohne sich selbst und dem eigenen Ideal genugtun zu können. Beide wie alle späteren Übersetzer dieser schwerflüssigen Dichtungen mußten es an sich erfahren, wie bei aller Treue in der Wiedergabe der Gedanken jeder Versuch, den komplizierten Versmaßen gerecht zu werden, der rhythmischen Bewegung der deutschen Worte und Sätze zur he^nmenden Fessel wurde. Die Übertragungen der Zeitgenossen verzeichyiet Rosenbaums fleißiger Artikel in Goedekes Grundriß (^ j, sgg). Noch heute besitzet! wir keine kongeniale Verdeutschung.</p>
+
+               <p>Was Humboldt speziell zum Studium Pindars und zu seinen Übertragungen angeregt hat, ist nicht bekannt. Daß er in Göttingen Mitscherlichs Vorlesung gehört habe, der im Wintersemester lySSISg Gedichte Pindars nach Gedikes Auswahl (Berlin i']86) erklärte, ist sehr unwahrscheinlich, obwohl ich die Möglichkeit nicht bestreiten will. Was seine Zeit an philologischen Hilfsmitteln bot, hat er<pb n="8.107" xml:id="pbVIII107"/> natürlich zur Hand gehabt: er erwähnt Beck, Gedike, Heyne, Pauiv, Schmid, Schneider (Versuch über Pindars Leben und Schriften, Straßburg i'j']4), Schütz, Sudorius, von Übersetzungen, die allerdings mehr freie Nachdichtungen sind, die englischen von Cowley und West. Wolfs Teilnahme imd Kritik hat, wie alle seine philologischen Studien, so auch diese Bemühungen um Pindar unermüdlich begleitet. In Stil- utid Sprachbehandlung ist das rjiächtige Beispiel Klopstocks, in dessen Oden man früh etwas mit dem Thebaner Wesensverwandtes zu erkennen glaubte (vgl. z. B. Herbst, Johann Heinrich Voß i, -jS. 150), und der Odysseeübersetzung Vossens (vgl. S. 41) bei aller Eigentümlichkeit nicht zu verkennen. Adeine Anordnung der Oden ist chronologisch. Im allgemeinen weise ich noch auf die Ausführungen Hayms (Wilhelm von Humboldt S. 2^4) hin.</p>
+
+               <p>1. Zweite olympische Ode. Sie entstand Anfang Mai Z792 in Erfurt. Humboldt berichtet, wie er damals, mit Pindar beschäftigt, dessen wunderbar einfache Größe ihn tief ergriff, fast absichtslos die Übersetzung begonnen imd, durch den lebhaften Beifall seiner Frau und Karolinens von Beuhvitz ermuntert, rasch vollendet habe; dabei sei genauste Treue und das Bestreben, nirgends undeutsch zu werden, sein Hauptziel gewesen (an Schiller, 8. Mai 1792]. Das fertige Produkt wurde sogleich in einer Abschrift Schillers Urteil unterbreitet, von dessen Lob oder Tadel weitere Versuche abhängig gemacht werden sollten, da die eigene Kritik naturgemäß sehr schwankend war, und zugleich für die Thalia angetragen. Schillers Antwort ist nicht erhalten : sie wird, zumal er Pindar selbst nicht mochte (Briefe 4, 4s), nicht allzu ermutigend ausgefallen sein; jedenfalls erschien die Ode nicht in der Thalia. Trotzdem kam sie als Privatdruck für Freunde noch im Sommer des Jahres unter die Presse, vor allem um Karoline eine Freude zu machen, die „ihre Kinderei damit" hatte (Humboldt an Brinkmann, ig. Juli Z792 ; vgl. Wilhelm und Karoline von Humboldt 2, i-j). Die Bemerkungen über das gewählte Silbenmaß, die der an Schiller gesandten Abschrift beilagen, sind uns leider verloren: Humboldt selbst sprach später in bezug auf die Form dieser ersten Ode von seiner glücklichen Unwissenheit (an Wolf, 2j. Januar i'jgß). Im Urentwurf vorhandene starke Anklänge an die elegischen Versmaße der Alten (vgl. die Hexameter S. 7 Anm. i. 2) verschwinden dann ebenso wie die Nivellierung der Verslängen (S. 6 Anm. 4): aber der im Original nicht vorhandene Pentameter der Epode wurde nicht beseitigt. Den Abdruck hat Humboldt später als übereilt bereut (an Wolf, 11. Januar i']g4)Die von Beck redigierten Literarischen Denkwürdigkeiten brachten am II. November ijgj (S. ji6) eine kurze Notiz über den Abdruck: auf die Ode selbst wird mit keinem Wo7'te einsegangen, aber eine Übersetzung des ganzen Pindar von Humboldt in einigen Jahren in Aussicht gestellt imd seiner metrischen Untersuchungen gedacht. Woher Beck oder wer sonst die Notiz verfaßt hat, von diesen Studien wußte, ist mir imbekannt. Humboldt belustigte die Ankündigung sehr (an Wolf, 11. Januar i'jg4).</p>
+
+               <p>2. Über Olympia 2, g^ — 102. Zur Entstekungszeit dieses kleinen Ex<pb n="8.108" xml:id="pbVIII108"/>j. Zwölfte olympische Ode. Das Pindarstudium setzt Humboldt während des Aufenthalts in Rudolstadt im Sommer i~g-2 fort. Im Juli verhandelt er in Berlin init Brinkmann, im August in Halle mit dem neugewonnenen Freunde Wolf Theorie und Praxis seiner Übersetzungsversuche. In der Einsamkeit von Aulebe7i entstehen dann seit dem Ende des August die nächsten Oden. Von diesen ist die vorliegende die älteste: wenn sie nicht etwa schon in Berlin oder Erfurt niedergeschrieben ist, dürfte sie in das Ende des August ijq2 zu setzen sein (Humboldt an Wolf, Mitte September 1792,- an Brinkmann, etwa 8. Ok- tober Jjg2).</p>
+
+               <p>4. Erste olympische Ode. Die „Wasserode" war Anfang September i-g2 fertig, während der Anfang schon der voraulebener Zeit angehört (Humboldt an Brinkmann, j. September i']g2; an Wolf, Mitte September 1792; an Welcker, q. August i8w). Mitte September wurde sie Wolf, der das Original nicht sehr liebte, zusammen mit der vorigen, etwa 8. Oktober Brinkmann mit der Bitte um Bemerkungen übersandt. Auf Wolfs mündlichen Rat versuchte Humboldt hier durch öftere Wiederkehr derselben Versart das Silbenmaß und die Gleichförmigkeit der Strophen hör'barer zu machen, vermied auch am Ende der Zeilen abgebrochene Worte, abgesehen von dem älteren Anfang (an Wolf, Mitte Sep- tember /792J.</p>
+
+               <p>5. 6. Dritte, vierte olympische Ode. Am 11. Oktober i']g2 berichtet Hu?7iboldt an Brinkmann, daß er wieder zwei Oden „wahrlich wie Friedrich Wilhelm I. in doloribus" übersetzt habe: es sind die genannten beiden. Wenn ein späterer Brief (an Brinkmann, jo. November ijg2) von drei kleinen Oden spricht, die dem Fj-eunde noch imbekannt seien, so kann meines Erachtens, weyin es sich nicht vielleicht um eine verlorene Übersetzung handelt, mit der dritten kaum etwas andres als das Fragment der sechsten nemeischen (S. 104) gemeint sein, gegen dessen Verweisung in so frühe Zeit, soviel ich sehe, nichts einzuwenden ist.</p>
+
+               <p>7. Vierte pythische Ode. Wie die dem ersten Entwurf beigefügten Daten beweisen, ist diese Ode in der zweiten Hälfte des November i'jg2 entstanden, in einer „unglücklichen Periode der Produktion" (Humboldt an Brinkmann, 50. No- vember ijg2; an Wolf, i. Dezember 1792^. Mit ihr trat zimächst eine Pause in der Übersetzungstätigkeit ein, über die gleich zu sprechen sein wird. Zugleich ist sie die erste, die als eine größere Probe der von Humboldt zcilweilig immer näher ins Auge gefaßten Übertragung des ganzen Pindar an die Öffentlichkeit trat. Schon im Frühjahr i-jg4 war die Herausgabe geplant (Humboldt an Wolf, 8. März ijg4), wurde aber erst im Novemberheft ijgj^ von Gentzens Neuer deutscher Monatsschrift ausgeführt. Während die erklärenden Anmerkungen teilweise aus der Zeit der ersten Niederschrift stammen, wurde die längere Einführung erst damals hinzugefügt; im Texte selbst waren natürlich eine Reihe von Stellen gebessert, auf eine völlige Umarbeitung jedoch absichtlich trotz des Wandels der metrischen Grundsätze Humboldts verzichtet worden. Gentz hatte ihm die Ode förmlich abgenötigt und die gegebene Zustimmung schien Humboldt, als es zu spät war, eine Sünde und Übereilung, die er Wolf gegenüber ausführ<pb n="8.109" xml:id="pbVIII109"/>lieh entschuldigen zu müssen glaubte (an Schiller, i^. November ijgs; an Wolf, 29. November ijg^ und 5. Januar lygö). Aus den zuletzt genannten Briefen erfahren wir auch, daß er den polemische)! Schluß der Einleitung auf Heyne gemünzt hatte, aber schon bald als „in einem imglücklichen Momeyit des Dünkels hingeschrieben" um alles in der Welt zurückkaufen moclite.</p>
+
+               <p>Die meisten Schtvierigkeiten bereitete Humboldt während dieser ersten Versuche das Problem der metrischen Gestaltung seiner Texte. Die philologische Wissenschaft seiner Zeit war sich bis auf die grundlegenden A?'beiten Böckhs, die im zweiten Dezennium des :g. Jahrhunderts veröffentlicht wurden, nicht im klar-en, wie die Pindarischen Metra im ganzen und einzelnen aufzufassen seien. Wir sahen oben, daß von manchen Seiten als das Prinzip seines Versbaus direkt die Gesetzlosigkeit hingestellt wurde. Was feststand, war einzig die Wiederkehr der Strophenformen, während über Länge und Skatision der einzelnen Verse die Meinungen auseinandergingen. Im Anfange seiner Übersetzertätigkeit sehen wir daher Humboldt den Weg beschreiten, der bei dieser Lage der Dinge der gewiesene und den auch Voß bereits gegangen war: er baut regelmäßig sich wiederholende strophische Formen, deren einzelne Verse sich zwar der Zahl nach mit denen der damaligen Ausgaben decken, aber mit freier Willkür gebaut sind. Je verschiedener imter sich die einzelnen Verse einer Strophe nach Länge und Aufbau sind, um so mehr entschwindet die Möglichkeit, die strophische Wiederholung als solche noch zu erkennen, und der gesamte Bau der Ode fällt damit auseinander. Schon bei der zweiten imd dritten Ode sahen wir daher Humboldt zur Wiederholimg ähnlicher Versgebilde innerhalb der Strophe übergehen, um dadurch die Gedächtnisbilder zu stärken. Zur völligen Aufgabe der strophischen Gleichförmigkeit, die Schütz und andre ihm angeraten halten, konnte er sich nicht entschließen, da dann ja, wie Wolf treffend bemerkte, allein der Setzer den Unterschied zwischen einer poetischen und einer prosaischen Übei-tragung mache (an Wolf, Mitte September J792J. Nach diesen Prinzipien strophischer Gebundenheit, aber freier Gliederung sind alle bisher besprochenen Oden gebaut (vgl. auch oben S. 42).</p>
+
+               <p>In der allmählich erlangten Sicherheit wurde Humboldt zu Beginn des Jahres i'jgj durch die Lektüre einer älteren Schrift Schneiders (vgl. oben S. loj) irre gemacht, obwohl sie ihm zunächst eher eine Bestätigung seiner Meinungen hätte bringen müssen. Schneider behauptete, man müsse die Texte Pindars nach ihren natürlichen, nicht aber nach den künstlichen Gliedern ordnen, in Vielehe sie alte Philologen hineingezwängt hätten; diese seien eine pedantische Grille, die ebenso den rhythmischen Wohlklang zerstöre, wie sie den Begriffen eines gesunden Menschenverstandes zuwiderlaufe; sollte jene künstliche Gliederung etwa musikalisch begründet gewesen sein, so sei das für ims, die wir von der griechischen Musik nichts wüßten, belanglos. Das schien Humboldt entschieden zu weit zu gehen, der über die ohrenfältige Tatsache nicht hinwegkonnte, daß ein bestimmter Silbenfall offenbar im Pindar sei und daß dieser natürlich auch seine Glieder haben müsse. Er sah demgemäß ein, daß er mit der Übersetzung nicht eher fortfahren könne, ehe nicht das metrische Problem gelöst sei und er sich durch eigene Untersuchung eine möglichst klare Vorstellung von Pindars Musik und Versbau verschafft habe (an Wolf, 2j. Januar ijgj).</p>
+
+               <pb n="8.110" xml:id="pbVIII110"/>
+               <p>Zunächst wurde, allerdings ohne nennenswerteri Erfolg für den erstrebten Zweck, die musikalische Seite der Sache in Angriff genommen, wozu sich im Frühjahr i']g^ in Erfurt vortreffliche Gelegenheit bot. Humboldt nahm bei Kittel, einem der letzten Schüler Sebastian Bachs und ausgezeichneten Theoretiker (vgl. über ihn Burgsdorffs Briefe S. §3 "«^ Jahn, Gesammelte Aufsätze über Musik S. 2), Unterricht in musikalischer Theorie imd Generalbaß. Er hörte die damals noch für echt gehaltenen spärlichen Reste Pindarischer Musik durch Kittel auf der Orgel spielen, der die Melodien in üblicher Weise mit Bässen versah, aber es kam nichts Wesentliches dabei heraus (an Wolf, 27. April ijqj; an Heyne, 8. Juli i'gs). Auch daß später der musikalische Körner einige über- setzte Oden streng rhythmisch zu komponieren versuchte, half der Erkenntnis nicht weiter (Humboldt an Brinkmann, 10. Juli i-jQ"]). Noch heute ist uns ja diese Seite der Pindarischen Lyrik, die bei ihrer Wirkung sicherlich ebenso wesentlich ins Gewicht fiel, wie bei imsern höfischen Minnesingern Wesen und Charakter ihrer Melodien, völlig dunkel.</p>
+
+               <p>Mehr Ertrag versprach die genaue Untersuchimg der Pindarischen Versmaße selbst an Hand der überlieferten Texte: fast ein Jahr hat sie Humboldt in Anspruch genommen. Schon im Anfang dieser Studien erkannte er, daß er seine deutschen Silbeyimaße bei weitem hätte Pindarischer machen können und sollen, beklagte aber zugleich die dornenvolle Aufgabe, die eine Geduld erfordere, wie er sie aus der Zeit seiner früheren juristischen Arbeiten glücklicherweise besitze (an Wolf, 22. Mai ijgj). Auf rein empirische}?! Wege hoffte er durch ein Durchskandieren des ganzen Pindar und nachfolgendes Klassifizieren der einzehien Glieder zu einem sicheren Ergebnis über seine Gesetzmäßigkeiten imd Freiheiten gelangen und die bisher begangenen Inkonsequenzen dadurch ausschalten zu können; an die Betrachtung der Glieder sollte sich dann die der Strophen und ihrer Arten anschließen und dabei zugleich die Frage der Zäsuren, Endsilben usw. untersucht werden (an Heyne, 8. Juli /7515J. Diese metiHsche Statistik rückte langsam vorwärts imd win-de zu lebhafter Freude des Verfassers, der sich zuschwor, nie wieder etwas Ähnliches zu unternehmen, im Frühjahr iyg4 beendet (Humboldt an Wolf, 5. August ijgj, 2/. Januar und 8. März I7g4; &lt;^n Brinkmann, 14. September i']''j4). Im Sommer i-jgs faßte Humboldt dann den festen Entschluß, seine Resultate über Pindar s Me.rik öffentlich vollständig vorzulegen und eine Erörterung der daraus sich ergebenden textkritischen Grund- sätze beizufügen, ein Plan, dessen Ausführung, abgesehen von Humboldts bekannter Scheu, mit etwas völlig abzuschließen, auch durch die Ankündigung der metrischen Untersuchungen Gottfried Hermami:, über die Chöre der Tragiker im Keim erstickt wurde (an Wolf, 26. Juni i'jgs; vgl. auch oben S. 4ß). Ganz eingehend setzt Humboldt seine Pindarpläne seinem alten Lehrer Heyne in dem Briefe vom 8. Juli i-jgß auseinander. Er spricht hier ausführlich von der geplanten metrischen Untersuchung, stellt sie aber nur als Vorarbeit zu einem großen Werke über Pindar hin, das nicht nur eine vollständige Übersetzung mit nebengedrucktem griechischem Text, sondern auch einen fortlaufenden Sachkommentar, eine Einleitung über des Dichters Leben und Schriften und den Geist seiner Gedichte, endlich eine Darstellung seines Versbaus enthalten sollte. Heynes etwas unzufriedene Antwort, die das bis dahin Geleistete kurz abfertigte, dem Erwarteten aber große Lobsprüche erteilte, enttäuschte Humboldt (an Wolf,<pb n="8.111" xml:id="pbVIII111"/> //. Januar i']g4). Jener mochte wohl ahnen, daß dieser riesenhafte Plan ein frommer Wunsch bleiben würde: erst Böckh hat die Aufgabe in dem umfassenden Sinne, wie sie Humboldt hier umschrieb, und in wahrhaft glänzender Weise gelöst. Die ßüchtige, in der Mitte Dezember i'jg^ niedergeschriebene Skizze über Pindar (Band i, 411) kann uns tnit ihren knappen Ausführungen natürlich nicht entschädigen für das, was das beabsichtigte größere Werk gewesen wäre.</p>
+
+               <p>8. Erste pythische Ode. Diese Ode wurde, wie eine Bemerkung auf dem ersten Entwurf beweist, am 16. März i']g4 in Jena vollendet. Es ist die erste, die nach Beendigung der metrischen Studien Humboldts und mit Rücksicht auf die dabei gewonnenen Einsichten entstand, und sie schließt sich in der Gliederung der Strophen weit enger als alle vorhergehenden an das Original an. Eine Woche nach dem raschen Abschluß sandte Humboldt die Übersetzung an Wolf zur Beurteilung, indem er zugleich ihm seine Absicht aussprach, sie als Probe der geplanten Übertragung des ganzen Dichters drucken zu lassen (an Wolf, 25. März ijg4). Damit wollte er also in bewußten Wettkampf zu Voß treten, der seine von Heyne gebilligte Übersetzimg derselben Ode gleichfalls als Probe veröffentlicht hatte (Deutsches Museum ij-j~ i,'j8): da Voß, wie Humboldt selbst bis dahin auch, sich größerer rhythmischer Freiheit bedient hatte, so mußte ein Vergleich auch die prinzipielle Frage zur Lösung bringen. Wolfs Brief vom Anfang April ist erhalten und sei hier als Beleg mitgeteilt, wie er Humboldts Pindarbestrebungen kritisch gegenüberstand.</p>
+
+               <p>„Seit etlichen Wochen, mein innigst geliebter Freund, lebe ich nun vollends wie ein Sklav meiner Vorsätze und erlebe daneben sicher auch noch den Verdruß, daß ich sie doch um die vorgesetzte Zeit nicht ausgeführt haben kann. Die Arbeit am Homer ist alle Wochen etlichemal durch specimina von Studenten unterbrochen worden, die ich doch gern in ihrer Freude fördern wollte. Für mich entsteht aber daraus ein Mißmut, den ich mit meinem bischen Philosophie nicht besiegen kann imd der mich sogar itzt stumpf macht. Dieser Lage schreiben Sie, ich bitte Sie, die Blätter allein zu, die ich hier über Ihre herrliche Ode beilege. Ich konnte erst gestern abends daran kommen und in einer Stunde, wo ich alles in der Welt, auch das Schönste, mit Spleen angesehen hätte. — Aber auch itzt, wo ich diese Blätter zerreißen würde, wenn ich meiner Stimme allein hören wollte, möchte ich doch offenherzig sagen, daß unter Ihren älteren Übersetzungen vorzüglichere Stücke waren. — Aber das werden Sie besser beurteilen köntien als ich alles Beekelnder.</p>
+
+               <p>Vor allen Dingen sagen Sie mir bald doch ein Wörtchen von dem glücklichen Fortgange Ihi-er dortigen Lage und der Gesundheit Ihrer Frau Gemahlin. Ich empfehle mich ihr mit der wahrsten Verehrung. Ihr W."</p>
+
+               <p>„2. schwärzliche W.[ellen?J finde ich doch nicht recht im Griechischen. — Wird den Musen irgendwo die Harfe so beigelegt, daß sie spielen?</p>
+
+               <p>4. gebietest. Im Homer merken die Alten immer an, daß ay.ovco nur gehorchen sei, nicht eigentlich hören. Dies ist kaum vom Homer ganz wahr. Und im Pindar? Hier nimmt sich der Tanz, der dem Instrumente horcht, trefflich aus. Aber machen Sie sich gefaßt, bester Freund: so werde ich weiter rado<pb n="8.112" xml:id="pbVIII112"/>iieren, quicquid in buccam, und iwi Ihr schönes Silbenmaß kümmere ich afiovaoi mich gar nicht.</p>
+
+               <p>Beginner. In welchem Sinn ? Die Frage hat tnich ofi geplagt, auch wegen dieser Stelle, ob der Tanz damals den Takt oder Rhythmus voraus angab oder die Musik es tat. Ich bin fürs erste und billige Ihr Beginner sehr.</p>
+
+               <p>g. spitzige Flamme. Licet rideas. Das aiyuaiav ist das trisuicura fulmen.</p>
+
+               <p>5. Unterscheiden Sie nicht wenn, si — wann, quando ? Dies dünkt mich sehr gut und eingeführt genug.</p>
+
+               <p>[6.J Liedes Erstlingstöne las ich anfangs. Auch itzt ists mir hier etwas hart.</p>
+
+               <p>[11.] Adler, herab zu beiden Seiten senkend — Dergleichen Partizipien könnten Sie durch den Pindar wohl in den Kurs helfen. Hier stieß ich an und es — , und. At video Vers 27.</p>
+
+               <p>14. finstere Wolke?</p>
+
+               <p>17. Töne — Wenns nur so was wie Schwingungen sein könnte, ich tneine ein solch deutsch Wort, was dem Poetischen des griechische)! Bilds etwas näher träte. Wogend wünschte ich weg, auch wegen wiegt, so nahe. — Schön! Wechselfall der Töne.</p>
+
+               <p>[18.] ßtarag Ao?]s muß sein tHera.t\is, ferox. Stark ist vielleicht ZU wenig.</p>
+
+               <p>[24.J Weisheit. Kunde ?</p>
+
+               <p>20. Vortrefflich. — y.cofiari muß nolens volens 50 etwas sein, nicht Schlaf. latvM y.aoSiav vTtvcp halte ich nicht für Griechisch — und der ganze Satz von nai yaQ — wäre dann ein wenig mehr als fade.</p>
+
+               <p>5. der Sänger. Durch den Plural wird doch die Idee stärker, feierlicher, da man einen größeren Chor von Sängern denkt. So würde ich auch lieber reigenlenkenden lesen. Bei aller Simplizität Pindars ?nacht doch sein so gar nicht gewöhnlicher Gebrauch von Wöi-tern (wenn ich an den Xoyos Tte^og der Griechen immer denke, wie ich muß), daß viel Feierlichkeit sich über seine Sprache verbreitet.</p>
+
+               <p>[14J ßt^e&lt;faQcav — der Wimper?</p>
+
+               <p>26. fliehen mit Schauer der —? So würde ich hundert haupt ige [^i] vorziehen. Der Unterschied ist ganz wie mit y.efalr. und y.aor,i^ov, wenn ich mir einen griechischen Leser denke.</p>
+
+               <p>^8. schneidenden? Nescio quomodo, animum hoc nou cxplet.</p>
+
+               <p>4ß. die purpurne Glut ? — Ridebis.</p>
+
+               <p>[4S.] sQTierov. An den Begriff des Kriechens dachte, denk" ich, Pindar nicht (ungefähr wäre meine, wo nicht seine Idee: das scheußliche Untier), ob Typhos gleich auf dem Bauche liegt.</p>
+
+               <p>56. Dir — ach — dir seis zu gefallen hat vielleicht einige Dunkelheit, die im Griechischen nicht ist. Utinam tibi placere liceretl —</p>
+
+               <p>6j. Hierons glänzenden Sieg im — Wagen. So etwas erwartete ich.</p>
+
+               <p>66. Beginnen. Als Infinitiv, wozu es doch das n macht, dünkt mich der Genitiv etwas hart? Beginne als Substantiv hat dagegen ein ander gramma- tisches Übel.</p>
+
+               <pb n="8.113" xml:id="pbVIII113"/>
+               <p>Die Pindarischen Ellipsen gehen mir seltnem Gaste bei ihm itzt sehr schwer ein. So einen Akkusativ rarSs ttoLp Vers 72 wegzulassen! da so der Überschritt aus de7Ti Gleichnis hart wird. Ttocoia [65] las auch der Scholiast. Verwerfen kann ichs wenigstens nicht; aber dann muß freilich auch soyousvois stehen.</p>
+
+               <p>[jo.] Vielleicht jenes Glückes.</p>
+
+               <p>75. Fluten — nicht zu viel? yS. Wiege schien mir zu wenig: schon itzt stolziert die Stadt mit braven Männern. Wiege scheint sie erst zu versprechen.</p>
+
+               <p>8ß. und nicht irrt — hätte ich wohl gewünscht. — Daß Sie aber ehern- wangigt wagten, wundert mich — bei dem. übrigen Tone. Vielleicht müßte es auch erzwangigt sein.</p>
+
+               <p>g4. Schön, daß Sie die schreckliche Ellipse übergetragen haben, evoio- ■AovTo Tiulaficui ist gegen die ersten Elemente der Grammatik gewürfelt.</p>
+
+               <p>Nach den curis secundis war also Hiero gar nicht krank gewesen. Ob der Gedike v. c. das Stroh dazu bewilligen wird?</p>
+
+               <p>log. Hieron also — ein Retter, dünkt mich et)vas hart der Ideenverbindung wegen: da ich die Heynische Parenthese nicht eher, als wenn Sie es so wollen, annehmen kann. Ich nehme es für simpeln Wu7isch : Gott segne alle seine Unternehmungen, ('w eoarai.</p>
+
+               <p>ijo. Wo hat schon Pindar so eine Versetzung des äe, als Heyne würfelt? — Vor seiner Gelehrsamkeit bewahre uns vollends der Himmel! Da er den Apostroph für gelehrter hält, macht er uns vielleicht dann lauter Apostrophe. Doch vielleicht verstehe ich die Finesse nicht.</p>
+
+               <p>i^j. Sprichst nur — ziehst du — folget — dünkt mich eine zu fremde Struktur.</p>
+
+               <p>Weiter hin lese ich, ohne eben Anstoß zu finden; und zu dem Vorsatz kann ich mich nicht bringen, dergleichen zu suchen. Halle."</p>
+
+               <p>Damit, daß Wolf ältere Oden für besser erklärte und so den Plan, gerade diese letzte als Probestück drucken zu lassen, stillschweigend mißbilligte, war Humboldt zwar durchaus nicht einverstanden, ließ sich aber doch dadurch bewegen, den Druck aufzuschieben (an Wolf, 28. April ijg4)- Mit der Zeit näherte er sich aber Wolfs Ansicht und die Ode blieb ungedruckt (an Wolf, 2j. November i-jgs). Wer heute beide Übersetzungen auf ihre poetische Wirkimg hin vergleicht, kann nicht anstehen, Voß und damit zugleich den freieren rhythmischen Gebilden den Preis zuzuerkennen. Auch Humboldt sah das allmählich ein und erklärte, als er nach längerer Pause zum Pindar zurückkehrte, daß er in gebundenem Metrum gewiß keine einzige Ode mehr zustande bringen werde (an Wolf, 2j. Dezember /796'j.</p>
+
+               <p>9. Vierzehnte olympische Ode. Die chronologische Stellung dieser Ode, die in den Briefen Humboldts nirgends erwähnt wird, erschließe ich aus der Reinschrift. Der Rhythmik nach wird sie nicht allzu lange nach der vorigen entstanden sein.</p>
+
+               <pb n="8.114" xml:id="pbVIII114"/>
+               <p>10. Neunte pythische Ode. Diese Ode, die merkwürdigerweise in der Reinschrifi fehlt, entstand nach längerer Pause in der Übersetzertätigkeit im Winter lygö in Jena. Humboldt kehrt darin wieder zu seiner früJieren Methode der freieren rhythmischen Bewegung zurück und verzichtet sogar auf genaue Gleichförmigkeit der Strophenformen: er nennt seine Manier, an Wolfs früheren Scherz erinnernd, eine solche, die allenfalls auch der Setzer durch willkürliche Einschnitte in eine poetische Prosa machen könne, tmd glaubte so den ganzen Pindar in einem Jahre übertragen zu können (an Wolf, 2j. Dezember ijgö). Schiller erbat sich das Manuskript dringend für seine Hören (Humboldt an Wolf, j. Febj-uar i'jgj) und sandte es am i. Februar zum Druck an Coita (Schillers Kalender S. ß8). Knebel, damals an seiner Übersetzung des Properz arbeitend, war von dieser Ode ganz entzückt (Wilhelm imd Karoline von Humboldt 2, 40).</p>
+
+               <p>II. Zehnte nemeische Ode. Diese Übersetzung ist im Juni ijgj in Dresden verfaßt (Humboldt an Wolf 2. Oktober i^gy). Das Manuskript des im Musenalmanach für lygS abgedruckten Stücks, zu dem nach Humboldts Tagebuch der fehlende Anfang erst später hinzugefügt worden sein muß ging a7Ji 5. Juli bei Schiller ein (Schillers Kalender S. 4s). Körners eingehende Kritik (Schillers Briefwechsel mit Körner 4, gg) nennt die Übersetzung schätzbar, tadelt den Gebrauch der präsentischen Partizipien, die Wolf in dem oben abgedruckten Briefe gerade in Schutz nahm, gilt aber im übrigen mehr dem Original und dem Dichter, dem Körner nicht besonders gewogen war (vgl. ebenda j, 20']).</p>
+
+               <p>12. Pythia 2. Erst nach einer Pause von fast sieben Jahren ist Humboldt als Übersetzer zu Pindar zurückgekehrt. Auf rötnischem Boden, wo ihm ja alle klassische Dichtung besonders nahetreten mußte, ist auch die Lust an der Nachbildung der „Pferdeoden" wieder erwacht (Humboldt an Brinkmann, 18. August 1804). Die vorliegende Ode, eine der schönsten und eigenartigsten nach Humboldts Urteil und zugleich die schwerste von allen, voller Unebenheiten imd Unterbrechungen des Sinns, entstand Mitte März 1804 und wurde sogleich der Gattin, die immer die Vollendimg des ganzen Pindar gewünscht und dazu getrieben hatte, nach Deutschland geschickt (Wilhelm und Karoline von Humboldt 2, iß2. 145. 164). Sie hat sie Goethe und Wolf vorgelegt (ebenda 2, 224): Wolfs Urteil ist nicht bekannt; Goethes kühle Bemerkung, die Ode habe ihm und Riemer eine angenehme Stunde der Unterhaltung verschafft (Briefe i'j, ij^), wird den Übersetzer nicht sonderlich erbaut haben. Die Behandlung des Versmaßes in dieser wie in den beiden andern in Rom verdeutschten Oden kehrt wieder zu genau gleichförmigen Strophen zurück, ohne in den einzelnen Gliedern allzu ängstlich den Anschluß an das Original zu erstreben.</p>
+
+               <p>ij. Olympia 5. Diese Ode, deren Übersetzung durch das Warten auf den Scholiasten, der in Rom nicht aufzutreiben war imd eigens aus Deutschland<pb n="8.115" xml:id="pbVIII115"/> bestellt werden mußte, eine Unterbrechung von zwei Monaten erlitt, ist im Sommer 1804, wahrscheinlich während des Landaufenthalts Humboldts in Marino entstanden (Wilhelm und Karoline von Humboldt 2, 224; Humboldt an Wolf, 16. Juni und 29. September 1804).</p>
+
+               <p>14. Sechste olympische Ode. Dies Fragment, dessen Entstehungszeit nicht genauer bestimmt werden kann, dürfte die jüngste der Übertragungen Humboldts sein, der seit dem Frühjahr 1804 für einige Zeit wieder eine vollständige Übersetzung ins Auge gefaßt hatte (Wilhelm und Karoline von Humboldt 2, i6s). Aus einer späteren Stelle dieser Ode (Vers wo) stammt das Wort von den zwei Ankern, das Humboldt zweimal in Briefen zitiert (an Schweighäuser, 4. November 180-j ; an Nicolovius, i-j. Dezember i8og).</p>
+
+               <p>15. Kleinere Bruchstücke. Alle drei sind Gelegenheitsarbeiten. Der Anfang der vierten nemeischen Ode dürfte nicht lange vor Humboldts Brief an Wolf votn 5. Dezember ijgj, in dem er mitgeteilt imd für eine schöne Schilderung des Pindarischen Geistes erklärt wird, übersetzt sein. Über den Anfang der sechsten nemeischen Ode habe ich oben bei Gelegenheit der dritte)! imd vierten olympischen eine chronologische Vermutung geäußert. Der Anfang der fünften nemeischen Ode endlich ist sicherlich zum Zweck des Zitats im 61. Abschnitt der Schrift über Hermann imd Dorothea eigens übertragen worden.</p>
+
+               <p>Seit dem Sommer 1804 hat Humboldt endgültig von Pindar imd dem Ge- danken, seine Übertragung jemals zu vollenden und öffentlich erscheinen zu lassen, Abschied genommen. Stimmung und Motive, aus denen dieser Verzicht hervorging, lassen uns einige Briefe aus dieser Zeit klar erkennen, die zugleich zeigen, wie Humboldt seine eigene Leistung beurteilt wissen wollte. Eine selbst auch nur metrische Überarbeitung seiner älteren Übersetzungen lehnte er ab, zumal er in den meisten Oden Pindars echten Ton nicht verfehlt zu haben glaubte; jedenfalls könne seine Übersetzung , wenn sie je gedruckt erschiene, keinen andern Wert beanspruchen als den, bis eine eigentlich gute komme, einen Begriff von Pindar zu geben (an Wolf, 16. Juni 1804). Das metrische Problem war es, das Humboldt immer wieder zum Pindar zurückführte : imd gerade dies mußte er, den auch Gottfried Hermanns Darlegungen nicht überzeugt hatten, ungelöst zurücklassen. Nur wer dies Problem löse, meinte er, da man ja nicht blind und ohne Einsicht der Gründe die Strophen Pindars nachmachen dürfe, dessen Übersetzung werde bleiben, solange überhaupt einer Übersetzung zu bleiben beschieden sei; er selbst habe immer nur den Periodenbau und die Einschnitte in den Versen nachgeahmt, das sonstige Metrum aber dem Zufall überlassen, was unmöglich der rechte Weg sein könne; „Warum aber auch übersetzen? Das ist schon wieder eine der Tätigkeiten, die man verachten sollte; der Genuß ist Lesen und Studieren" (an Wolf, 29. September 1804).</p>
+
+               <p>Sicherlich mit wehmütigen Empfindungen hat Humboldt später noch einmal seine Pindarversuche hervorgeholt und durchgeblättert, als ihn Böckh, dem die<pb n="8.116" xml:id="pbVIII116"/> Wissenschaft eine glänzende Edition des thebanischen Sängers und besonders, was Humboldt immer ersehnt hatte, eine einleuchtende Analyse seiner Verskunst verdankte, unter Belobigung einer der gedruckten Oden um Einsicht in seine Manuskripte bat. Indem er bescheiden ihren Wei't für den jüngeren Forscher völlig verneint, betont er, wie teuer sie ihm als Erinnerungen an glückliche Zeiten der Vergangenheit seien; die Fortsetzung der Übersetzung, die ein sehr schwieriges und doch undankbares Geschäft sei, habe er ganz aufgegeben (an Böckh, 28. April 1820).</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

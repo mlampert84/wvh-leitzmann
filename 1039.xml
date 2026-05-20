@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Über Reformen im Unterrichtswesen</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif10humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1903">1903</date>
+                  </imprint>
+                  <biblScope unit="page" from="299" to="302"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="10.299" xml:id="pbX299"/>
+            <p>bessern dieser Unvollkommenheiten in dem bisherigen Geschäftsgange, sondern nur durch eine in die Augen fallende Umänderung dieses Ganges selbst aufgehoben.</p>
+
+            <head>
+               <title type="main">LX. Über Reformen im Unterrichtswesen.</title>
+            </head>
+            <p>22. Juni 1810.</p>
+
+            <p>(Gedrucitt Historische Zeitschrift Bd. 6^.)</p>
+
+            <p>An Hardenberg. Wenn ich es wage, Ew. Excellenz im Augenblicke meines Abganges noch einen, auf die mir anvertraut gewesenen Geschäfte Bezug habenden Antrag zu machen, so hoffe ich dafür theils in dem Antheil, welchen Ew. Excellenz immer an Wissenschaft und Kunst genommen haben, theils in der Wärme Entschuldigung zu finden, mit welcher ich für die meiner Sorgfalt übergebenen Anstalten zu arbeiten bemüht gewesen bin, und mit der ich auch gewiss künftig immer auf sie zurückblicken werde.</p>
+
+            <p>Ew. Excellenz ist bereits bekannt, dass in den anderthalb Jahren, seitdem die neue Organisation besteht, viele Dinge begonnen sind, von denen man sich mit Recht einen ungemein wohlthätigen Einfluss auf die Nationalbildung versprechen darf.</p>
+
+            <p>Für den Volksunterricht sind Anstalten gegründet und Massregeln getroffen, die nothwendig eine grosse und durchgreifende Reform desselben bewirken müssen, von welchen schon jetzt heilsame Folgen sichtbar sind und die, wenn sie auch jetzt nur erst in Preussen existiren, auch in die übrigen Provinzen übergehen sollen. Die gelehrten Schulen haben an einigen Orten, namentlich in Königsberg, wirkliche Verbesserungen erhalten. Es ist allen Regierungen aufgetragen worden, Pläne zur Verbesserung der- selben einzureichen , und von einigen Provinzen sind dieselben bereits eingelaufen.</p>
+
+            <p>Die beiden Universitäten Königsberg und Frankfurt haben Vermehrung an Einkünften und dadurch neue geschickte Lehrer erhalten.</p>
+
+            <pb n="10.300" xml:id="pbX300"/>
+            <p>Man darf mit gleicher Wahrheit hinzufügen, dass der Ruf hiervon auch auf die Meinung Einfluss gehabt hat, die man auswärts vom preussischen Staate hegt. Man hat es vielfältig mit dem unzweideutigsten Tone wahrer Achtung ausgesprochen, dass er durch innere Regeneration sich für den Verlust an äusserer Macht zu entschädigen mit Glück bemüht sei; man hat ihn in einem Augenblicke, wo der deutschen Literatur und selbst der deutschen Sprache sehr viel Gefahr droht, als einen Erhalter von beiden betrachtet.</p>
+
+            <p>Es ist gewiss Ew. Excellenz Meinung und Willen durchaus zuwider, dass hierin ein Rückschritt geschehen solle. Allein Ew. Excellenz fühlen auch, dass hierin jeder Stillstand schon Rückschritt ist, und ich muss noch einmal wiederholen, dass Alles erst begonnen ist und sorgfältiger Pflege, auch kräftiger Unterstützung bedarf, um auf der angefangenen Bahn fortzugehen.</p>
+
+            <p>Aus diesem Grunde nehme ich mir die Freiheit, Ew. Excellenz über die Zuschüsse zu reden, welche die Section zur Fortsetzung ihrer Bemühungen nothwendig bedürfen wird. Vor einigen Monaten, als das Finanzministerium mit der allgemeinen Regulirung aller Etats beschäftigt war, forderte das- selbe auch die Section des Cultus und öffentlichen Unterrichts zu Conferenzen darüber auf. Es wurde darin für's erste beschlossen: i. dass alle Schul-Etats, so wie sie bisher gewesen waren, auch künftig bleiben sollten; 2. dass ausser den schon gemachten Bewilligungen auf den General-Etat der Staats-Ausgaben eine ungefähre Summe gesetzt werden solle, auf deren Bewilligung, wenn die einzelnen Anträge zur Verwendung derselben von des Königs Majestät genehmigt würden, die Section sollte rechnen können, mit welcher sie sich jedoch auch begnügen müsste.</p>
+
+            <p>Ueber die Bestimmung dieser Summe sollte eine neue Con- ferenz stattfinden, die aber durch die eingetretene Ministerial- veränderung verhindert wurde.</p>
+
+            <p>Mein gegenwärtiger gehorsamster Antrag ginge nun dahin: dass Ew. Excellenz sich auf ähnliche Weise hierin den Unterrichts<pb n="10.301" xml:id="pbX301"/>tualiter zu bringende Quantum auf 40- bis 50000 Thaler festzu- setzen geruhen möchten. Diese Summe wird Ew. Excellenz vielleicht sehr beträchtlich scheinen.</p>
+
+            <p>Allein um nur einige der wichtigsten Punkte anzuführen, so ist eine durchgängige Schulverbesserung in Westpreussen und dem Ermlande ungemein dringend. Schon vor dem Kriege war der Zustand des Schulwesens dort w^nig erfreulich. Allein der Krieg und die Folgen, welche derselbe auf den, noch überdies vielleicht nicht mit der nothwendigen Sorgfalt administrirten Jesuitenfonds gehabt hat, haben dasselbe dergestalt zerrüttet, dass man es ohne alle Uebertreibung als ganz zerstört ansehen kann. Die Hülfe in dieser Provinz ist aber um so nothwendiger, als wegen der Mischung deutscher und polnischer Einwohner in derselben die National- Bildung schwieriger ist und die Folgen des Mangels an derselben so leicht auch politisch bedenklich werden.</p>
+
+            <p>In Litthauen bedürfen die gelehrten Schulen einer ansehnlichen Unterstützung, die um so besser angewandt sein dürfte, als gerade die litthauische Regierung auf eine vorzüglich einsichtsvolle und eifrige Weise für das Schulwesen thätig ist.</p>
+
+            <p>In Schlesien bleibt sehr viel zu thun übrig, ob man sich gleich dort dadurch helfen kann, dass man Gelder, welche die schlesischen Stifter für fremde Institute ausser der Provinz zahlen, der Provinz wieder zuwendet und jene Institute au? königlichen Kassen ent- schädigt.</p>
+
+            <p>In allen übrigen Provinzen endlich ist bald mehr, bald weniger Hülfe unumgänglich erforderlich, da in der That ehemals unbegreiflich wenig auf Kirchen und Schul-Institute gewendet war. Bemerken muss ich auch noch, dass das vorige Finanzministerium, aller dringender Vorstellungen der Section ungeachtet, nie hat den ehemaligen, von des Königs Majestät bereits dem Schulwesen wirklich bewilligten Tabacks-Offizianten-Pensionsfonds, wieder herstellen wollen.</p>
+
+            <p>Ew. Excellenz haben in Ihrer ganzen ehemaligen Geschäftsführung einen so lebendigen Eifer für alle wissenschaftlichen An- stalten bewiesen, dass ich überzeugt bin, dass Sie den Wunsch hegen. Alles für dieselben zu thun, was nur irgend die gegen- w^ärtige Lage des Staats erlaubt.</p>
+
+            <p>Diese ist nun allerdings einer Vermehrung der Staatsausgaben<pb n="10.302" xml:id="pbX302"/> fertigen Hesse. Uebcr die Nothw^endigkeit und Nützlichkeit von Schulverbesserungen im allgemeinen zu reden, würde durchaus überflüssig sein. Allein nicht ganz so dürfte es die Versicherung sein, die ich jetzt, da ich abtrete, ohne Unbescheidenheit machen kann, dass die Section des öffentlichen Unterrichts gewiss jede ihr bewilligte Summe zweckmässig verwendet und durchaus von dem Geiste geleitet ist, mit dem man die wesentlichsten Zwecke mit dem möglichst geringen Aufwände erreicht. Wenn ein Staat, wie der preussische, unglücklicherweise in eine von seiner bisherigen sehr verschiedene Lage versetzt wird, so scheint es nur nothwendig, dass er wieder auf irgend eine Art die Aufmerksamkeit auf sich zu ziehen und sich von irgend einer Seite noch mehr auszuzeichnen bemühe. Beförderung von Aufklärung und Wissenschaft hat ihm immer Achtung erworben; es wird ihm leicht sein, diese zu vermehren, die Stimme des Auslands zu gewinnen und auf eine politisch durchaus harmlose Weise eine moralische Macht in Deutschland zu erlangen, die in vielerlei Beziehungen ungemein wichtig werden kann. Endlich wenn, wie im jetzigen Augenblick, so grosse Geldbedürfnisse befriedigt w^erden müssen, sollten da einige Tausend Thaler mehr einen so bedeutenden Unterschied hervorbringen? Ich bitte Ew. Excellenz, diese Betrachtungen, sowie obigen Antrag als eine Folge meines lebhaften Eifers für die mir anver- traut gewesene Parthie anzusehen, und bemerke zugleich ganz ergebenst, dass ich die Führung derselben morgen niederlegen und die Direction der Section des Cultus und öffentlichen Unterrichts Herrn Staatsrath Nicolovius übergeben werde. Berlin, den 22. Juni 1810.</p>
+
+            <p>Humboldt.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

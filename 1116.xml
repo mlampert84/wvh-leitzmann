@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Eine Note an Lord Castlereagh</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Elfter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif11humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1904">1904</date>
+                  </imprint>
+                  <biblScope unit="page" from="199" to="200"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="fr">Français</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="11.199" xml:id="pbXI199"/>
+            <p>s'en remettre au jiigement de ses Allids et de l'ennemi si eile a contribud puissamment, ou non, au rdsultat de la guerre? qui, encore avant la paix, a tdmoignd son vif ddsir de voir renaitre une Constitution<note type="footnote" n="*)" resp="gnd-116890657"><hi>Gestrichen justc et equitable.</hi></note> en Allemagne,") qui dans cet important travail n'a Jamals d^vid du Systeme de subordonner les intdrets personnels aux principes d'une justice et dquite generales, et qui est la pre- miere i\ se soumettre a tous les arrangements communs; que ce n'est pas de cette puissance que l'Allemagne et l'Europe suppose- ront jamais que la crainte ou Tambition la portent ä favoriser des plans qui menaceroient leur independance, plans dont tout homme qui aime la paix, doit desirer qu'un article du Moniteur se plüt moins ä parier;</p>
+
+            <p>7, qu'enfin il ne viendra jamais en idee ä la Prusse qu'a3'ant cu depuis longtemps des provinces limitrophes de l'Autriche, son Union et son amitid avec cette Puissance puisse ddpendre de tel ou tel nombre de lieues de frontiere de plus ou de moins.*<note type="footnote" n="**)" resp="gnd-116890657"><hi>Gestrichen qui protege journcllemcnt tous ceux qui sans avoir demerite de la commune patrie, ont souffert de grandes injustices.</hi></note></p>
+
+            <head>
+               <title type="main">XLI. Eine Note an Lord Castlereagh.</title>
+            </head>
+            <p>30. Januar 1S15. {Eigenhändiger Entwurf im Geh. StaMsar-chiv ; gedruckt bei Angeberg, Le congres de Vienne, S. 801.) bn Laufe der Konferenzen über Polen-Sachsen erließ Lord Castlereagh am 12. Januar iSi$ eine Note an Preußen, Rußland und Österreich, worin er empfahl, den polnischen Provinzen der einzelnen Staaten un Systeme d' Administration dont les formes soient ä la fois conciliantes et en rapport avec le genie de ce peuple zu geben und sich gegenseitig zu verpßichten de traiter comme Polonais la partie de ce peuple qui pourra se trouver placce sous leur dominatiun rcspective quelles<pb n="11.200" xml:id="pbXI200"/> I an Hardenberg, 17. Januar) selbst darauf hin, daß er sie ans Ende gesetzt hat, damit sie, wenn der Staatskanzler nichts von der preußischen Konstitution erwähnen wolle, leicht gestrichen %verdcn könne.</p>
+
+            <p>Le soussignc? avant pris les ordres du roi son auguste maitre sur la note de S. E. milord Castlereagh concernant les arrangements des atVaires de Pologne, s'empresse de temoigner ä Son Kminence que les principes qui y sont ddveloppes sur la maniere d'admi- nistrer les provinces polonaises plac^es sous la domination des dilferentes Puissances sont entierement conformes aux sentiments de Sa Majeste.</p>
+
+            <p>Assurer la tranquillite de ces provinces par un mode d'admi- nistration adapte aux habitudes et au genie de leurs habitants, c'est lä reellement Fetablir sur la base solide et liberale d'un interet commun. C'est en agissant ainsi qu'on montre aux peuples que leur existence nationale peut rester libre de toute atteinte, quel que soll le Systeme politique auquel le sort les a lies; qu'on leur apprend a ne pas confondre des idees qui, lorsqu'elles ne sont pas Separees, ne cessent de faire naitre, dans le repos meme de la vie privee, des voeux et des esperances vagues de changements futurs; qu'on rattache fortement les sujets de nations differentes ä un meme gouvernement et qu'on les reunit dans une meme famille.</p>
+
+            <p>Guidee par ces maximes que Sa Majeste Prussienne partage entierement avec S. M. l'Empereur de Russie et S. A. R. le prince regent d'Angleterre, eile aura constamment ä coeur de procurer ä ses sujets polonais de nation tous les avantages qui pourront former un objet de leurs voeux legitimes et qui seront compatibles avec les rapports de sa monarchie, et le premier but de chaque Etat de former un ensemble solide des differentes parties qui le composent.')</p>
+
+            <p>Le soussigne eprouve une vive satisfaction d'avoir pu exposer,</p>
+
+            <p>*J Ursprünglich stand noch folgender Absatz da: Le Roi ayant l'intention de donner ä Ses Etats une nouvelle Constitution fondee sur les principes d'une justice egale pour tous ses sujets, il entre essentiellement dans les vues de Sa Majeste d'y unir aussi les interets de Ses Provinces Polonaises de maniere ä les y ratlacher pour toujours, en faisant trouver ä leurs institutions particulieres</p>
+         </div>
+      </body>
+   </text>
+</TEI>

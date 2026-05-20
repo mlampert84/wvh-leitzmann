@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Über die Ehrlosigkeit (Infamie) als eine Kriminalstrafe</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Siebenter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif0702humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1907">1907</date>
+                  </imprint>
+                  <biblScope unit="page" from="567" to="570"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="7.567" xml:id="pbVII567"/>
+            <head>
+               <title type="main">8. Bemerkungen zu Kömers Aufsatz über Charakter-</title>
+            </head>
+            <p>darstellung in der Musik.</p>
+
+            <p>S. 29. „nicht ebensowenig erdacht, und folglich ebenso sinnlich." Ich glaube, es müsste heissen: gedacht oder „eben- sowohl empfunden". Dem Erdachten steht das Wirkliche entgegen.</p>
+
+            <p>Von S. 29 — 35. und noch mehr von da bis S. 40. ist mir unverständlich gewesen. Um mich genauer zu prüfen, setze ich die Art, wie ich die vorgetragnen Ideen gefasst habe, her.</p>
+
+            <p>1. Das Ganze der Veränderungen einer selbstständigen Kraft nennen wir Leben.</p>
+
+            <p>2. In diesem unterscheidet man einzelne Theile und Zustände.</p>
+
+            <p>3. Das Maass der lebendigen Kraft ist der Grad des Lebens.</p>
+
+            <p>4. Dieser äussert sich in einer Reihe von Zeitmomenten ; aber ausserdem wird in diesen etwas Beharrliches, der Charakter, wahr- genommen.</p>
+
+            <p>5. Um einen bestimmten Grad des Lebens zu schildern, bleibt, nach Absonderung der äussren Bestimmungen, nichts übrig, als die innren Gränzen der Selbstthätigkeit und Empfänglichkeit.</p>
+
+            <p>6. Es kommt daher alles darauf an, ob es für diese Gränzen bestimmte Zeichen giebt, die dem Tonkünstler zu Gebote stehn?</p>
+
+            <p>7. Selbstthätigkeit und Empfänglichkeit können zwar für sich nicht ohne ihre Gegenstände versinnlicht werden.</p>
+
+            <p>8. Werden sie aber in ihrer wechselseitigen Beziehung versinnlicht, so entsteht schon dadurch eine Bestimmtheit.</p>
+
+            <p>Handschrifi (4 Quartseiten, ohne Titel) im Archiv in Tegel.</p>
+
+            <pb n="7.568" xml:id="pbVII568"/>
+            <p>9. Wenigstens wenn es eines äussren Verhältnisses bedarf, so bedarf es keines zu einem bestimmten äussren Gegenstande, sondern nur des lebenden Wesens zu seiner Welt überhaupt. 10. Diess aber wird mit einem, hier hinlänglichen Grade der Bestimmtheit versinnlicht , wenn bloss die Verknüpfung beider versinnlicht wird.</p>
+
+            <p>1 1 . Diese nun endlich wird versinnlicht durch Darstellung von Bewegungen, und zwar von solchen, die in dem lebenden Wesen anfangen.</p>
+
+            <p>12. Solche entstehen durch die Stimme. In dem Ganzen dieses Raisonnements, insofern es beweisen soll, dass der Tonkünstler durch blosse Begränzung der Zeit eine Bestimmtheit hervorbringen kann, welche der der plastischen Kunst ähnlich ist, vermisse ich noch etwas an der Strenge des Beweises. Denn, wenn sich auch alles in der Darstellung der Bewegungen concentrirt, welche, von dem lebendigen Wesen ausgehend, die Welt mit demselben verknüpfen, so fragt sich, ob sich die ganze <note type="footnote" n="^)" resp="gnd-116890657"><hi>Nach „ganze" gestrichen: „hier nothwendige". y Nach „beruht" gestrichen: „und wenn diess letztere".</hi></note> Eigenthümlichkeit dieser Bewegungen, insofern sie hier dargestellt werden muss, durch blosse Zeit Verhältnisse versinnlichen lässt, ob sie bloss auf der Folge und Weile, oder auch auf einer materiellen Beschaffenheit beruht? -) Dann scheint mir auch von diesen Bewegungen überhaupt auf die einzelne der Stimme ein Sprung gemacht zu seyn. Sollten indess diess beides auch wirkHche Lücken seyn, so Hessen sie sich, wie ich glaube, leicht ausfüllen.</p>
+
+            <p>Ueber einzelne Stellen:</p>
+
+            <p>S. 30. „Eine Reihe von (innren) Veränderungen u. s. w." S. 33. „Aber in dieser Reihe u. s. w." Hier stösst mich das oft an. Das Beharrliche des Charakters muss allemal bemerkbar seyn, und wo er es nicht ist, kanns nur an den Umständen der Beobachtung liegen, die mir hier nicht wesentlich scheinen.</p>
+
+            <p>16. „Diess Beharrliche — ist." Dieser ganze Satz ist mir nicht recht verständlich, und vorzüglich kann ich mir unter der besondren Kraft, welche den Charakter dauernd erhalten soll, nichts recht Bestimmtes denken. Mir scheint die Sache so: Das Wesen eines Dinges an sich ist Eins mit dem ganzen Inbegriff seiner Kräfte. Da es aber nur in der Zeit erscheinen kann, so äussert es seine Wirksamkeit in verschiednen Momenten. Es<pb n="7.569" xml:id="pbVII569"/> erscheint also als etwas Wechselndes. Jedes Glied dieser wechselnden Reihe ist indess in der Beschaffenheit des Wesens selbst gegründet, und so zeigt sich in diesen Veränderungen etwas Beharrliches. Diess nennen wir den Charakter, den ich als die dauernde Form der Einheit in dem veränderlichen Stoff definiren würde. Dieser ist eigentlich nichts Vorübergehendes, überhaupt nicht einmal ein Merkmal, sondern das lebende Wesen selbst in seiner ganzen Eigenthümlichkeit. Er erscheint aber freilich an demjenigen, worin die wechselnden Wirkungen einander ähnlich sind. Ihn zu erhalten bedarf keiner eignen Kraft. Er ist mit dem Wesen selbst unmittelbar gegeben. Sonst wird der iVusdruck (wie in der Phrase „Der Mensch hat keinen Charakter") schon uneigentlich gebraucht.</p>
+
+            <p>S. 39. „Von dem Verhältnisse — Künstlers." Hier glaube ich wäre es nöthig noch ein wenig zu verweilen, und zu beweisen, dass die Phantasie durch die blosse Darstellung der Verknüpfung des lebenden Wesens mit seiner Welt auch noch hinlänglich beschränkt wird.</p>
+
+            <p>S. 40. „Diese Verknüpfung — anfangen." Auch hier möchte ich dasselbe bemerken. Wenn auch die Erscheinungen, von welchen die Rede ist, darin übereinkommen, dass sie Bewegungen sind, so fragt sich noch, ob sie auch durch die Versinnlichung dieser Bewegungen allein erschöpfend oder wenigstens hinlänglich charakterisirt w^erden können?</p>
+
+            <p>Nachdem Körner sich auf der weißenfelser Zusammenkunß mit Schiller und Humboldt Ende August i']g4 dahin entschieden hatte, als ersten Beitrag für die neubegründeten Hören einen Aufsatz über die Musik zu liefern (Schillers Briefe 4, i), dauerte es doch noch einige Zeit, bis seine schwerflüssige Feder in Gang kam. Anfang Januar ijg^ begann er die Arbeit, die Ende des Monats an Schiller abging (Schillers Briefwechsel mit Körner j, 2jj. 24jJ. Dieser begrüßte sie mit großer Freude, da er sich überhaupt von Körners Teilnahme an den Haren sehr viel versprach, gestand aber gleich, daß in der begrifflichen Entwicklung für ihn wie für Humboldt mancherlei Dunkelheiten geblieben seien, die beseitigt werden müßten (Briefe 4, iig). Körner versprach gern Abhilfe (Briefwechsel ß, 245). Durch seine eigene Arbeit an den ästhetischen Briefen abgehalten, kam Schiller erst Anfang März dazu, seine Gegenbemerkungen schriftlich aufzusetzen, während Körners Manuskript bei den Redaktoren Goethe, Herder, Humboldt zirkulierte (Briefe 4, ij4. 141. 146). In diesen Bemerkungen, die erhalten sind (Sämtliche Schriften iß, i, ^jSJ, beruft sich Schiller (S. j8i)<pb n="7.570" xml:id="pbVII570"/> 570 auf ähnliche Bedenken Humboldts, die uns in den oben abgedruckten Blättern vorliegen; diese sind also wohl gleichfalls in den Februar oder März ijg^ zu setzen. Da die handschriftliche Fassung von Körners Aufsatz, auf die sich Schiller und Humboldt nicht nur in der Paginierung, sondern auch in dem zitierten Wortlaut beziehen, nicht auf uns gekommen ist, so fehlt uns leider zum vollen Verständnis ihrer Ausführungen die genauere Anknüpfimg an Körners Text. Den Hauptanstoß nahm Humboldt an derselben Stelle wie Schiller (Sämtliche Schriften /j, /, ß8o; Briefe 4, i4ß), an der Entwicklung des Begriffs des Charakters, die beiden dunkel erschien. Als Schiller am 10. März seine Be- merkimgen an Körner sandte, lagen wohl auch Humboldts Blätter bei, denn Körners Antwort nimmt ausdrücklich auch auf diese Bezug und verspricht nach Möglichkeit von beiden Gebrauch zu machen (Briefwechsel j, 25 ly'. Er hat dann im Laufe des April den Aufsatz in wesentlichen Teilen völlig neu gestaltet und in der veränderten Form Ende April an Schiller zurückgesandt (ebenda j, 254- 2^8), der ihn wegen Manuskriptmayigels ohne nochmalige Durchsicht gleich zum Druck gab. So erschien er imter dem Titel „Über Charakterdarstellung in der Musik" im Juni im fünften Stück der Hören (Gesammelte Schrißen S. 8j). Ein ausführlicher Brief an Körner vom 7. Mai i'jgs, in dem Humboldt die erste handschriftliche Fassung des Aufsatzes rückschauend bespricht, geht auf die einzelnen Punkte seiner früheren Bemerkungen, die ihm aus dem Gedächtnis ge- kommen waren, nicht wieder näher ein und gibt mehr eine Entwicklung seiner eigenen musikästhetischen Ansichten als eine Kritik derjenigen Körners. Über die Gestalt der Arbeit in den Hören, die auch er vor dem Druck nicht gelesen hatte, spricht er sich in einem Briefe vom i. August lyg^ an den Verfasser aus und bekennt sich noch immer nicht ganz befriedigt. Tatsächlich haben Körners Ideen trotz allein Ringen nach Klarheit und Bestimmtheit das eigentümlich Verschwommene behalten, was jeder musikalischen Gefühlsästhetik notgedrungen und bis auf den heutigen Tag anhaftet.</p>
+
+            <p>Goethe gedenkt in einem Brief an Schiller aus dem Herbst 1800 eines älteren Humboldtschen Aufsatzes über den Trimeter (Briefe zj, i2j}, der sich in seinem Nachlaß nicht vorgefunden hat imd vielleicht in dem Schillers 7nit inanchem andern verloren gegangen ist. Er wird in den jenaischen Jahren i'jg4lgs oder ijg6lgy geschrieben sein, wo Goethe, mit seinem befreiten Prometheus beschäftigt, sich angelegen sein ließ, Flumboldts Kenntnis der griechischen Dichter und ihrer metrischen Formen für sich ßnichtbar zu machen (Wilhehn und Karoline von Humboldt 2, 2g). Aus derselben Zeit stammen sicher die drei Manuskripte Humboldts, die Goethes Nachlaß noch jetzt enthält: ein Aufsatz „Von den verschiedenen Gattungen der Chöre in Rücksicht auf die Stellung und Atiordnung der verschiedenen Strophen", ein zweiter „Vom anapästischen Silbenmaße" und einige Blätter zur Kenntnis der Versformen in den lyrischen Metren. Da diese Arbeiten yiur trockene Darlegungen faktischer metrischer Verhältnisse mit Musterbeispielen ent- halten, konnte ich von einem Abdruck absehen.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

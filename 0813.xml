@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pythia II</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Achter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif08humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1909">1909</date>
+                  </imprint>
+                  <biblScope unit="page" from="92" to="98"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1804">1804</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="8.92" xml:id="pbVIII92"/>
+            <p>12. Pyth. II.</p>
+
+            <p>Weitummauerte Syrakusa, du, des kämpfeschnaubenden Ares Heiligthum, der waffenfrohen Männer und Rosse 5 göttliche Nährerin.</p>
+
+            <p>Dir von der glänzenden Thebe Fluren tragend ^) komm' ich dies Lied, des erderschütternden Viergespanns heilbringende^) Botschaft; auf^) welchem, ein Sieger im Prachtgeschirr, lo Hiero mit weitstralender Kränze Schmuck</p>
+
+            <p>Ortygia umwand, der Flüssebeschützerin Artemis Sitz.</p>
+
+            <p>Denn sonder diese ^) nicht bezwang er mit ruhigen Händen 15 die buntgezügelten Füllen.^)</p>
+
+            <p>Denn der bogenerfreuten Jungfrau, und des Wettkampflenkenden</p>
+
+            <p>Handschrift: 12 Quartseiten. — Erster Druck: Wilhelm i'on Humboldts Gesammelte Werke 2, 2gi — 296' (1841)'^J „auf verbessert aus „mit". *■) „diese" verbessert aus ,Jene". *) „Füllen" verbessert aus „Rosse".<note type="footnote" n="*)" resp="gnd-116890657"><hi>V „tragend" verbessert aus „bringend". . ^) „heilbringende" verbessert aus „lautschallende" aus „weitschallende".</hi></note></p>
+
+            <pb n="8.93" xml:id="pbVIII93"/>
+            <p>Hermes Zwillingshand legt ehrend selbst den stralenden Schmuck auf, 20 wann er der Rosse Kraft jetzt an die zügelgehorchenden Räder und den leuchtenden Wagen spannt, laut rufend zum hehren Dreizackschwinger Poseidon. Für andre der Herrscher ertönte einst 25 andrer Sänger weithallender <note type="footnote" n="^)" resp="gnd-116890657"><hi>„Sohn — Lehrerin" verbessert aus „Deinomenes Sohn, verherrlicht der Zephyrischen Lokrischen Jungfrau Gesang".</hi></note> Preisgesang, unsterblicher Tugend Lohn. Erhebend rauscht oft noch der Kyprier Lied um-) Kinyras, ihn den wohlwollend einst der Latoide, 30 der lockenstrahlende, liebte.</p>
+
+            <p>Aphroditens heimischen Priester. Für empfangener Wohlthat Reiz führt des Herzens ehrender Dank zum Preis. Dich, o Sohn des Deinomenes, singt 35 rühmend die Jungfrau, die Zephyrische</p>
+
+            <p>Lokrerin^) vor dem Hause, aus unseligen Schlachtengewühles Drangsal sicher entronnen durch deine rettende Macht. Auf der Götter Geheiss 40 verkündet, sagt man, Ixion den Sterblichen, im geflügelten Rade ewig herumgewälzt: dem^) Wohlthäter, entgegnend wieder süsse Vergeltung, zu lohnen.^)</p>
+
+            <p>B. 45 Klar hat er es erprüft. Ein süsses</p>
+
+            <p>Leben pflückend hoch in der<note type="footnote" n="*)" resp="gnd-116890657"><hi>V „weithallender" verbessert aus „lauthallender". y „Erhebend — um" verbessert aus „Noch oft umrauscht preisend der Kyprier Lied den".</hi></note><note type="footnote" n="*)" resp="gnd-116890657"><hi>„dem" verbessert aus „den". *) „lohnen" verbessert aus „ehren".</hi></note></p>
+
+            <pb n="8.94" xml:id="pbVIII94"/>
+            <p>mildgesinnten Götter Rath, ertrug er nicht das erhabne</p>
+
+            <p>Glück, als in Liebeslust, 50 rasenden Sinns, er für Here brannte, Zeus wonnumstraletem Lager hochvermählete.</p>
+
+            <p>Doch in grundlos gähnend Verderben stürzt da ihn des Stolzes Vermessenheit, und gerechtes bald leidend, erseufzet er 55 in auserwählter Pein^) unseiger Müh. Zwiefacher Frevel verhängt ihm Büssung, dass verwandtes Blut zuerst, nicht ohne tückische Kunst, er den Erdgebohrnen verspritzte; ß-</p>
+
+            <head>
+               <title type="main">60</title>
+            </head>
+            <p>und Zeus Gattin versuchte in des hohen weit geöfneten</p>
+
+            <p>Brautgemachs unendlichen Räumen.^) Klüglich schaue ein jeder immer das eigne Maass. 65 Frevelnde Liebesgemeinschaft stürzt' oft auch gelingend ins Elend. Denn nach schmeichelnder Täuschung Trugbild haschend umarmte ein nichtiges Wolkengebild der Thor.</p>
+
+            <p>Aehnlich an Gestalt^) glich sie der himmlischen 70 erhabnen Tochter Kronos, allein zum Trug hatte mit künstlicher Hand</p>
+
+            <p>Zeus sie — ein strahlend Unglück*) — ihm gesetzt. Selber bereitet' er ^) die vierspeichige Fessel ") b. 75 sich nun, sein Verderben; von deren unentrinnbarer Schling' umfasst<note type="footnote" n="*)" resp="gnd-116890657"><hi>V „Pein" verbessert aus „Arbeit". ^J „unendlichen Räumen" verbessert aus „unendlichem Räume". ^) Vor „Aehnlich" und nach „Gestalt" gestrichen: „zwar".</hi></note></p>
+
+            <p>*J „strahlend Unglück" verbessert aus „strahlendes Verderben". "V „er" verbessert aus „sich". V Nach „Fessel" gestrichen: „er".</p>
+
+            <pb n="8.95" xml:id="pbVIII95"/>
+            <p>laut den allverbreiteten</p>
+
+            <p>Spruch er ruft. Von den Chariten fern da gebahr einsam den einsam übermüthigen 80 Sohn sie ihm, — in der Menschen</p>
+
+            <p>Kreis ^) ein Fremdling und fremd in der Götter Sitzen. Aber sie nährt ihn und nennt Kentauros ihn, und er vermischet sich wild an Pelions waldigter Ferse 85 mit ^) Stuten Magnesiens, da entsteht — ein</p>
+
+            <p>Wunder zu schaun — ein Volk der Abkunft gleich,^) von unten der Mutter, aber dem Vater von oben.</p>
+
+            <p>Gott führt jegliches Hoffen leicht zum 90 Ziel, dem schnellvollendenden.</p>
+
+            <p>Gott, der hoch des Adlers Schwing' ereilet, und den Delfin, den Flutendurchschneidenden schnell überflügelt, in Staub oft beugte, 95 wer der Sterblichen hochgesinnt war, anderen aber niemals alternden Ruhm gab. Verläumdung das mächtige Ungeheuer flieh' ich. Denn*) von fern sah' ich Archilochus, des bittren Tadels Freund, 100 so oft, an schmähsüchtiger Feindschaft sein Herz er weidete, von Noth umdränget. Reich seyn mit der Weisheit bescheidnem Theil, ist das beste.</p>
+
+            <p>yDir, o Waltender, ward diess herrlich 105 in der freiheitathmenden</p>
+
+            <p>Seele zu verleihn, du König vieler mächtig umkränzten y „Kreis" verbessert aus „Kreisen", y Nach „mit" gestrichen: „den". ^) „gleich" verbessert aus „ähnlich". *J Nach „Denn" gestrichen: „ich sah".</p>
+
+            <pb n="8.96" xml:id="pbVIII96"/>
+            <p>Strassen und Volks. Denn wenn einer der frühergebohrnen <note type="footnote" n="^)" resp="gnd-116890657"><hi>„der Affe" verbessert aus „immer", y „theilt" verbessert aus „fand".</hi></note> einen HO mehr als dich in der Ehren ^j Glanz und Reichthums in</p>
+
+            <p>Hellas gross nennt, ringet umsonst er in eitel von Prahlsucht geblähtem Sinn. Deine Tugend laut schallend verkündend werd ich festlich den Blumen- 115 geschmückten Schiffszug Dir besteigen. Es hilft der wilden Schlachten Muth der Jugend. Darum sag ich, erwarbst du des Ruhms unsterblichen Preis dir, gbald den rossetummelnden Männern "o dich gesellend im Kampf, bald des</p>
+
+            <p>Fussvolks Reihen. Aber des</p>
+
+            <p>Alters weiserer Rathschluss zeigt überall frei und gefahrlos stets des preisenden</p>
+
+            <p>Liedes Pfade mir. Heil dir! "5 Gleich Phoenikischer Waare wird auf des Meeres graulichen Fluten dir dieser Hymnos gesandt. Mit gefälligem Blick empfange dann das ^) Kastorische Lied, Aeoliens Saiten begegnend, der sieben- 130 tönigen Leier Geschenk.</p>
+
+            <p>Sei stets wie du gelernt zu seyn. Immer*) heisset bei Kindern der Affe^)</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">J.</title>
+               </head>
+               <p>schön. Allein Rhadamanthys theilt") der Seelgen Loos weil tief er des 13s Sinnes tadellose Frucht brach, nie von thörichtem Truge eitel das Herz geschwellt;<pb n="8.97" xml:id="pbVIII97"/> wie er verläumderisch stets der Schmeichler<note type="footnote" n="*)" resp="gnd-116890657"><hi>V „frühergebohrnen^'' verbessert aus „Erdgeb . . .' ^) „der Ehren" verbessert aus „des Ruhmes". V „das" verbessert aus „dieses". *J „Immer" verbessert aus „Stets" aus „Der Affe".</hi></note></p>
+
+               <p>Zung' enttrieft. Ein Verderben, nie zu besiegen, sind 140 der Verläumdung Priester für beide, der Füchse betrüglicher Art verwandt. Aber Frommen? Was frommete ihnen nun der Ränke Hinterlist?</p>
+
+               <p>Wann <note type="footnote" n="^)" resp="gnd-116890657"><hi>„Fläche" verbessert aus „Lippe" aus „Rande" aus „Rücken" aus „Busen". ^) „resiert" verbessert aus „herrscht".</hi></note> tief im Grund mühsam der Wogen Gedräng 145 das Netz durchkämpft, schwimm' ich uneingetaucht, ähnhch dem Korke, hoch auf der Fläche ^) der Salzfluth. d.</p>
+
+               <p>Nie kann frei in der Edlen Kreis' ein starkes Wort des trügrischen 150 Bürgers Brust entströmen. Gleich stets jeden kosend umschmeichelnd wirret er all' in Eins. Fern sey sein Frevel von mir. Den Freund zu loben währ ich mir; doch dem Feinde kämpf ich nach »55 Wolfes Art feindselig entgegen, betretend bald hier den gekrümmten Pfad, bald dort. Stets gewinnt ein gradzüngiger Mann den Preis in jeder Satzung Recht; bei Herrschersmacht, da wo das stürmende Volk 160 regiert^) und wo der Weisen Rath die Stadt schützt. Doch mit Gotte muss nie vermessen man streiten, d.</p>
+
+               <p>welcher bald erhebet die einen, bald mit stralendem Ruhm wechselnd 165 andre hoch umkränzt. Allein ^) dies auch gnüget erfreuend der Neidischen Herz nicht, und an ungleichschwankender Wage Schaalen ziehen sie, heftend y „Wann" verbessert aus „Wie".<pb n="8.98" xml:id="pbVIII98"/> tief die schmerzende Wunde der eignen Brust ein, 170 eh' was im Busen sie heimlich brüten gelingt. Mit zufriedenem Sinn des Nackens schicksalbeschiednes Joch tragen, ist besser. Gegen den Stachel lecken ist schlüpfriger 175 Pfad. Mir se}^ es vergönnt mich preisend unter die Guten zu mischen.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gutachten über die Organisation der Ober-Examinations-Kommimssion</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif10humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1903">1903</date>
+                  </imprint>
+                  <biblScope unit="page" from="81" to="92"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="10.81" xml:id="pbX81"/>
+            <p>Ein SO ehrenvolles Zeugniss könnte sich aber auch nur gründen</p>
+
+            <p>1. entweder auf besonders angefertigte schriftliche Aufsätze, in welchem Fall also nur von der mündlichen Prüfung dispensirt würde ;</p>
+
+            <p>2. oder auf gedruckte Werke, einen ötFentlichen Ruf, oder zwar nicht geflissentlich zur Prüfung, aber sonst gemachte, der Behörde mitgetheilte Arbeiten.</p>
+
+            <p>Allein auch so wäre die Dispensation immer nur seltene Ausnahme, und vom König selbst auf Vorschlag des Staatsraths zu verfügende Gnadensache.</p>
+
+            <p>Für die Mitglieder der geistlichen und Schuldeputationen und der Section des Cultus und öilentlichen Unterrichts gehören die Kenntnisse, welche bei andern Gegenstände der allgemeinen Prüfung sind, zugleich zur besondern, und diese muss daher eigen beurkunden, inwiefern sie mit Philosophie, Pädogogik, Philologie u. s. f. vertraut sind.</p>
+
+            <p>Bei den Mitgliedern der Section des Unterrichts, diejenigen ausgenommen, die nur juristische und tinanzielle Gegenstände bearbeiten sollen, und bei denjenigen Käthen der Regierungen, denen die gelehrten Schulen zum Departement angewiesen worden, muss man noch w^eiter gehen. Sie müssen hinreichend genaue und gründliche Kenntniss der griechischen und lateinischen Sprache besitzen; die gesammte Litteratur muss ihnen bekannt sein, und mit irgend einem Zweige müssen sie sich näher beschäftigt haben. Man wird daher von ihnen verlangen, dass sie ausser dem Referendariatsexamen sich auch einem der wissenschaftlichen Depu- tation unterziehen, und nur auf die Zeugnisse beider können sie von der obern Prüiungsbehörde zur Prüfung für diese Stellen zugelassen werden.</p>
+
+            <p>3Dass auf einer gut und vollständig besetzten</p>
+
+            <p>Universität alle Haupt-Hülfsdisciplinen im Laufe jedes</p>
+
+            <p>Jahres gelesen werden müssen, ist einleuclitend, und die Section wird</p>
+
+            <p>Sorge tragen, etwaige</p>
+
+            <p>Lücken hierin nach</p>
+
+            <p>Möglichkeit auszufüllen.</p>
+
+            <p>Sehr beifallswürdig scheinen mir auch die übrigen im Gutachten des Herrn Staats-Raths</p>
+
+            <p>Hoffmann*) in Beziehung auf die Universitäten gemachten Bestimmungen.<pb n="10.82" xml:id="pbX82"/> Collegien giebt, und wohl auch selten ein Professor einem Studi- renden mündlich seinen Rath versagt; so ist der Fehler, den junge Leute hierin begehen, wohl fast nie mit Unkunde, der nicht sehr leicht hätte abgeholfen werden können, zu entschuldigen. Sollte je eine solche Anweisung Statt linden, würde ich sie lieber dem Abiturienten von seinem Rector geben lassen.</p>
+
+            <p>Man wird vielleicht diesem ganzen Prüfungsplane, wie die Gesetzgebungs-Section ihn entworfen hat, den Vorwurf machen, dass er die Forderungen zu hoch spannt. Allein, wenn diejenigen, welche in höhern Staatsbedienungen stehen, sich als eine Corporation ansehen sollen, zu der nur Geist und Bildung den Weg bahnen können, so darf dies nicht anders sein. Auch treffen alle diese Prüfungen doch immer nur jüngere Leute, unter diesen aber ist überall jetzt ein lebendigerer Geist rege geworden, und man braucht nicht zu fürchten, dass sie vor strengen Forderungen erschrecken, oder rein wissenschaftliche zurückweisen werden. Wenn die Gesetzgebungs-Section auf diese nach den gemeinschaftlichen Ansichten der Section zu moditicirenden Ideen geantwortet haben wird, kann mit den Regierungen das Referendariats- examen durch die geistlichen und Schuldeputationen angeordnet aj dass auf den Universitäten alle Haupt- und Hülfsdisciplinen wenigstens im Laufe jedes Jahres einmal gelesen werden; b) dass jedem Studirenden bei der Immatricidation eine gedruckte Anweisung, wie am zweckmässigsten die Folge des Unterrichts für jedes Hauptfach zu ordnen sey, gegeben werde; c) dass eine theologische, eine juristische, eine kameralistische Encyclopädie halbjährig als ein stehendes Publicum gelesen werde; zwey Stunden wöchentlich sind dazu hinreichend; dj dass kein Jüngling vor vollendetem 18. Jahre bei der Akademie ■aufge- nommen werde; e) dass man das Unwesen, welches jetzt mit dem Zeugniss der Reife getrieben wird, abschaßY; f) dass in der Regel auf Nachweisung eines wenigstens dreijäJirigen ununterbrochenen Besuchs der akademischen Vorlesungen gehalten werde;<pb n="10.83" xml:id="pbX83"/> und mit dem Justiz-Departement eine Correspondenz über die Zuordnung eines Raths aus diesen Deputationen zu dem juristischen Referendariatsexamen bei den Ober -Landes -Gerichten eröffnet werden, wenn es nicht überhaupt vielleicht gut sein dürfte, zu den Referendariatsprüfungen ebenso die Ober-Landes -Gerichte und Regierungen, als zu den höhern alle Sectionen und Ministerien zu vereinigen.</p>
+
+            <p>Diese Idee über das Referendariatsexamen könnte der Gesetzgebungssection gleich jetzt vorläufig mitgetheilt werden.</p>
+
+            <p>Den 8. Julius 1809.</p>
+
+            <p>Humboldt.</p>
+
+            <head>
+               <title type="main">XX. Über Kadettenhäuser.</title>
+            </head>
+            <p>(). Juli 180C).</p>
+
+            <p>(Konzept in den Akten des Kiiltitsniinisteriians.)</p>
+
+            <p>Scharnhorst hatte umfassende Pläne zur Errichtung einer Militärakademie entworfen und überreichte seinen Entwurf vom 75. Mai auf Befehl des Königs der Unterrichtssektion zur Begutachtung (8. Juni 180g). In das Kadettenkorps, über dessen Gestaltung allein die Sektion urteilte, wollte er nur Offizierssöhne aufnehmen, deren Väter im Kriege gefallen waren, vermögenslose Waisen, Söhne von armen Offizieren und solche, deren Aufnahme durch die Gnade des Königs befohlen wurde. Das ganze Korps sollte aus 4 Kompagnien, jede zu 65 Enteroffizieren und Kadetten, bestellen; die ersteren müssen durch ein Examen die Kenntnisse eines Portepeefähnrichs nachweisen und empfangen den Unterricht in der ersten Klasse der Militärakadeinie. Mit Benutzimg eines Gutachtens von Süvern (durch kleinen Druck bezeichnet] schrieb Humboldt sein Gutachten.</p>
+
+            <p>Der Gedanke einer höheren Militair- Akademie, die ihren Hauptsitz in Berlin hat, mit der aber zur Nachbildung schwächerer Subjecte noch eine untere Klasse, auch in Königsberg und Breslau verbunden seyn soll, ist sehr glücklich gefasst.</p>
+
+            <p>Sie wird eine Special-Schule seyn, welche die vollkommene Ausbildung zu einem bestimmten einzelnen Fache bezweckt, und da sie, als solche nur für das reifere Alter, in welchem Neigung und Beruf sich schon entschieden hat, bestimmt ist, nicht ein früheres in Anspruch nimmt, bevor in ihm die Anlage sich entwickelt hat, so kann die Section des öffentlichen Unterrichts dieselbe niclit anders als höchst zweckmässig finden.</p>
+
+            <pb n="10.84" xml:id="pbX84"/>
+            <p>Treten auf diese Weise allgemeine Gründe gegen die Cadetten- Häuser ein, so ist die Frage, ob auch nur der Armee selbst mit ihnen gedient ist. Wenn sie eine ansehnliche Zahl junger Leute enthalten sollen — und nur in diesem Fall wird die wohlthätige Absicht Sr. Majestät für Söhne bedürftiger Offizieren in einem weiten Wirkungskreise erfüllt — so liefern sie bei weitem den grössten Theil, ja bei der jetzigen Reduction der Armee, fast alle Offiziere derselben. Nun aber ist die Bildung in ihnen nothwendig einseitig; gewiße Lehrgegenstände, wie zum. Beispiel alte Sprachen, w^erden, da der ganze Zuschnitt nach demjenigen gemacht wird, v/as ein Offizier nothw^endig braucht, ganz ausgeschloßen, und wenn die Regimenter, welche Subjecte aus derselben bekommen, ungewiss sind, ob diese diejenigen Kenntniße besitzen, welche wirklich in den Lehrplan aufgenommen sind, so sind sie gewiss, dass keines sich solche erworben hat, die darüber hinausgehen. Daraus vermuthlich ist die Idee der Academie militaire (deren Aufhebung allein eine überaus wohlthätige Folge des neuen Plans ist) entstanden, um doch gewiss auf einige Offiziere rechnen zu können, die, auch abgesehen von eigentlich militairischen Kenntnissen, in den allgemeinen nach einem ausgedehnteren Lehrplane unterrichtet würden. Jetzt scheint es aber, da die Regimenter niemanden aufnehmen, der nicht ein gewisses Alter erreicht hat, und nicht eine vorgängige Prüfung besteht, da auch so noch durch die neue Militaire Academie Gelegenheit zur Fortbildung eröffnet ist, bei weitem beßer für die Armee, wenn sie, wie jeder andere Stand, ihre Zöglinge aus der ganzen Nation und aus allen Anstalten des Staats bekommt. Sie empfängt auf diese Weise junge Leute von mannigfaltigen Kenntnissen und vielseitiger Bildung, die, weil sie den Kriegsstand nicht als immer dazu be- stimmt, sondern aus freyem Entschluss wählen, die militairische selbständiger und besser in sich aufnehmen. In seinem jetzigen Geiste sucht aber das Militaire vielmehr Kenntnisse und Bildung, als es, wie wohl sonst geschah, dieselben, als seiner eigentlichen Bestimmung entgegenlaufend, zurückstossen sollte.</p>
+
+            <p>Endlich ist wohl nicht mit Unrecht zu überlegen, ob durch</p>
+
+            <pb n="10.85" xml:id="pbX85"/>
+            <p>Auf diese Weise scheinen die Cadettenhäuser nunmehr be}'- zweckmässiger Organisation des öffentlichen IJnterrichtswesens überflüßig. Denn wenn die Klasse von Schulen, welche die allgemeine, jedem Menschen und Staatsbürger nothwendige Bildung bezweckt, gehörig eingerichtet ist, so ist durch sie für das allgemeine Bedürfniss aller Stände gesorgt, imd die Cadettenhäuser werden für den Militairstand gar nichts besonderes mehr leisten können, was jene nicht in um so höherem Grade leisteten, auf je höherem Standpunkt sie beruhten.</p>
+
+            <p>Envägt man auch wodurch sich das Berlinische Cadettenhaus von andern niedern und höheren Schulen unterschied, so war es zwar negativ durch Ausschliessung mancher Lehrgegenstände, allein positiv bloss durch eine nähere Anwendung der Mathematik und des Zeichnens auf die Kriegswissenschaft, einen encyklopädischen Unterricht über das, was man zum künftigen Offizier-Dienst am nöthigsten braucht, und die wirkliche Exercierübungen, und die militairische Disciplin.</p>
+
+            <p>In den beiden ersten Punkten herrschte eine gewiss nachtheilige Vermischung der Praxis mit der Theorie, und es ist unstreitig besser, wie es der neue Plan verlangt, mit gründlichem Studium allgemeiner Mathematik zur Taktik überzugchen, als in einem früheren i\lter und bei noch schwachen Kenntnissen beide gleich zu verbinden. Das Zeichnen von Plänen, zweckmässig und nicht als Spielerei getrieben, ist gewiss auch früh nützlich, wird aber auf die allgemeinen Schulen übergetragen werden können und müßen, da es die ganz allgemeine nothwendige Kunst sich leicht und schnell in einem Hause, einer Stadt, einer Gegend orientiren zu können, so sehr befördert, und nur ein Theil des geographischen Unterrichts ist. Die Vorbereitung zum Offizierdienst konnte nur in einem sehr unvollkommenen Institut nützlich seyn. Denn sonst ist es gewiss hinreichend, nur überhaupt deutsch schreiben zu können, um einen Thorzettel oder Wachrapport zu machen, wozu<pb n="10.86" xml:id="pbX86"/> was ein Militair-Institut vorzüglich auszeichnen sollte, müssten, wie man denken sollte, Leibesübungen seyn, um Stärke und Gewandtheit zu erlangen. Nun aber ist es ordentlich wunderbar, dass dazu bei dem Berlinischen Kadettenhause auch nicht einmal, den stäubigen, schattenlosen und gar nicht grossen Hof abgerechnet, der nöthige Raum vorhanden ist. Die einzigen Leibesübungen waren Exercieren und für Einige Reiten, also zwei, welche den Körper höchst einseitig ausbilden.*)</p>
+
+            <p>Es scheint daher unumgänglich nöthig, dass so wie Special-Schulen für das unreife Alter in keinem Fache Statt finden dürfen, so auch die Cadettenhäuser aufhören. Sie können mit allgemeinen Scinilen verbunden (welches in Stolp sehr wohlthäiig seyn würde) oder in solche verwandelt werden.</p>
+
+            <p>Es könnte vielleicht die dazu bestimmte Sum.me auf mehr als Eine Art verwendet werden. Allein sollte Eine grosse und eigne zugleich zur Erziehung und zum Unterricht bestimmte Anstalt davon unterhalten werden, so müsste, wenn die im vorigen ge- machten Bemerkungen richtig sind,</p>
+
+            <p>1. die ganze militairische Gestalt, die Direction durch Offiziere u. s. f. wegfallen und die Anstalt bloss eine bürgerliche werden;</p>
+
+            <p>2. Unterricht und Erziehung ganz allgemein seyn, und jeder eine Bestimmung wählen können, welche er wollte.</p>
+
+            <p>Um nicht die Unterrichtsanstalten unnützer Weise zu häufen, und die Einkünfte der Anstalt nicht zugleich auf grosse Lehrerbesoldungen und Unterhaltung der jungen Leute zu zersplittern, könnte die Anstalt auch blos dazu dienen, dass die Pensionairs darin wohnten, ässen, Gymnastik übten und für sich arbeiteten. Zum Unterricht könnte man sie, wie so viele Kinder von Privatleuten thun, in die vier grossen Gymnasien Berlins gegen einfache Bezahlung des Schulgeldes vertheilen, und ihnen im Hause nur Inspectoren zur Aufsicht, und zur Leitung der eigenen Arbeiten halten. Eben diese könnten die neuen Ankömmlinge, die vielleicht noch sehr weit zurück wären, so weit bringen, dass sie nunmehr Gymnasien besuchen könnten. Auf diese Weise könnte die Königliche Milde mehreren Familien zur Unterstützung ge'') Hier fügte Humboldt eine von Süvern verfaßte Stelle ein: „aber auch selbst die Gymnastik als einen allgemein-nothwendigcn tmd i^isonderheit bei Ein<pb n="10.87" xml:id="pbX87"/>Alles Uebrige liegt, als der Kriegskunst besonders angehörend, ausser der Competenz der Section, und selbst insofern es allgemeine, aber tiefere mathematische Kenntnisse zur Beurtheilung erfordert, ausser der der hier gegenw^ärtigen Mitglieder derselben.</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">XXI. über den Entwurf zu einer neuen Konstitution</title>
+               </head>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">für die Juden.</title>
+               </head>
+               <p>17. Juli 1809.</p>
+
+               <p>(Eigenhändiges Konzept in Tegel und Abschrift im Geh. Staatsarchiv.)</p>
+
+               <p>Seitdem Dohm seine Schrift „Über die bürgerliche Verfassung der Juden" fijSiJ vei-öffentlicht hatte, war die ganze Frage in Fluß geraten. Schon Fried- rich Wilhelm IL hatte eine königliche Kommission zur Beratung der Reform (i'jS-j) eingesetzt und den Juden mancherlei Erleichterimgen gewährt. Die Städteordnung bot ihnen insoweit einen Vorteil, als sie ihnen die Möglichkeit, städtische Ämter zu bekleiden, öffnete. Aber der Anstoß, von neuem an die Frage heranzutreten, erfolgte aus den mißlichen Verhältnissen, die sich seit dem Kriege herausgebildet hatten. Damals strömten zahlreiche fremde Juden in Preußen zusammen, darunter viele unlautere Elemente, weil sie in den Rheinbundsländern zwar bürgerliche Rechte erhielten, aber auch der militärischen Konskription imterworfen wurden. Dieser Sachlage gegenüber beantragte Minister v. Schrötter 1808, daß eine neue Konstitution entworfen werde, um „die Juden mit der Zeit zu nützlichen Staatsbürgern zu machen". Unter Benutzung eines Entwurfs des Kriminalrates Brand arbeitete Schrötter ein Gesetz aus, das nach seinem Ausscheiden durch Dohna den verschiedenen Behörden zur Begutachtung vorgelegt wurde. Wir geben zum Verständnis von Humboldts Votum die entsprechenden Paragraphen des Schrötterschen Entwurfs in den Anmerkungen.</p>
+
+               <p>Die gegenwärtige Lage der Juden unter uns, welche aufzuheben das grosse Problem jeder Gesetzgebung über diese Nation ist, gründet sich auf Ursachen und steht mit Umständen in Verbindung, auf welche wesentlich und radical zu wirken ausser der Macht jedes einzelnen Staats liegt. Drei Merkmale zeichnen, vor<pb n="10.88" xml:id="pbX88"/>eine kirchlich politische ^^erfassung, in welcher die Religion [in ihrer reinen Beschaffenheit] fast ganz als Null aufging, und ein System der durch ein äusseres und zwar (wodurch sich die religiöse Verfassung als politisch charakterisirt) nur beim männlichen Geschlecht anzubringendes Zeichen be- urkundeten Absonderung selbst von denjenigen, in deren Mitte sie lebten.</p>
+
+               <p>Diese drei Eigenschaften, verschmolzen in den, eigentlich alle Weltbegebenheiten leitenden und in sich nie ganz zu entziffernden Nationalcharakter, der bei den Juden vorzüglich in altväterlicher Beharrlichkeit an der Ursitte und merkwürdiger Ivraft passiven Widerstandes besteht, und verbunden mit den christlichen Ideen, nach denen Judenthum und Christenthum von der einen Seite als zu Einer Klasse gehörig, von der andern als in zwei entgegengesetzte gespalten angesehen werden und wodurch das damals schon sehr unbedeutende Jüdische Volk eine unverhältnissmässige Wichtigkeit erhielt, haben die Juden zu dem gemacht, was sie noch jetzt unter uns sind. Ihre Lage ist daher eine kirchlich welthistorische und so merkwürdige Erscheinung, dass bereits von gewiss nicht schlechten Köpfen gezweifelt worden ist, ob sie sich überhaupt auf bloss menschliche Weise erklären lasse.</p>
+
+               <p>Die Mittel zu der Umwandlung dieser Lage sind nun freilich, wie man leicht einsieht, in Beziehung auf jene drei Hauptursachen : Verschmelzung, Zertrümmerung ihrer kirchlichen Form und Ansiedelung ; allein so lange diese Mittel nur in einem einzelnen Staate ver- sucht werden, wirkt die Verschmelzung nie kräftig genug, und in den religiösen Ideen Vvird der Contrast zwischen Christen und Juden nothwendig fortdauern, bis man überall aufhört, sich das Christenthum auf der untergeordneten Stufe des Gegensatzes zum Judenthum zu denken.</p>
+
+               <p>Hier sind also Schwierigkeiten, die keine Gesetzgebung, am wenigsten eine einzelne, ganz zu beseitigen im Stande ist.</p>
+
+               <p>Es bleibt jedoch immer klar und unleugbar, dass jede Gesetz<pb n="10.89" xml:id="pbX89"/>Allein hier gehen wieder zwei Systeme aus einander, das eine, das die Absonderung auf Einmal, das andre, das sie allmählig aufheben will.</p>
+
+               <p>Betrachtet man diese an sich, und ich möchte sagen rein logisch, so ist wohl nicht zu bestreiten, dass nur eine plötzliche Gleichstellung aller Rechte gerecht, politisch und consequent ist.</p>
+
+               <p>Gerecht; denn es lässt sich kein möglicher Rechtsgrund denken, warum der Jude, der alle Pflichten des Christen erfüllen will, nicht auch der Rechte theilhaftig sein soll.^ es müsste denn in einem Lande erweisbar sein, dass alle Juden darin nur gegen gewisse Concessionen hereingekommen, nicht, wie sie schon darin waren, bloss mit solchen Concessionen darin geduldet wären. Allein alsdann ist die politische Frage : ob man so geringer Rechte geniessende Fremde in einem Staate fortdauernd dulden soll.'^ da- gegen um so wichtiger.</p>
+
+               <p>Politisch; denn diejenigen, die nicht viritim und persönlich, sondern aus Vorurtheil und weil sie, als zu einer Kaste gehörig, die Schuld ihrer Mitbrüder tragen müssen, verachtet werden, zu der, selbst zur Moralität nöthigen Achtung zu bringen, ist ein Sprung, eine plötzliche Erklärung nöthig. Mag das Volk auch noch so viele gutgeartete Juden sehen ; es wird nie leicht dadurch zu andern Meinungen über die Juden, als solche, selbst kommen, sondern die Einzelnen immer nur als Ausnahmen betrachten. Auch soll der Staat nicht gerade die Juden zu achten lehren, aber*) die inhumane und vorurtheilsvolle Denkungsart soll er aufheben, die einen Menschen nicht nach seinen eigenthümlichen Eigenschaften, sondern nach seiner Abstammung und Religion beurtheilt und ihn, gegen allen wahren Begriff von Menschenwürde, nicht wie ein Individuum, sondern wie zu einer Race gehörig und ge- wisse Eigenschaften gleichsam nothwendig mit ihr theilend ansieht. Dies aber kann der Staat nur, indem er laut und deutlich y Im Konzept steht noch folgende Stelle : „Das sollte er und nicht der Juden, sondern der Moralität der Christen wegen lehren, dass es nie erlaubt ist, von einem Menschen, dem Gott Vernunft und ein Herz und einen freien Willen gab, wie von einem mit Instinkt begabten Thiergeschlecht zu sprechen und zu sagen:</p>
+
+               <pb n="10.90" xml:id="pbX90"/>
+               <p>Endhch consequent; denn eine allmahlige Aufhebung bestätigt die Absonderung, die sie vernichten will, in allen nicht mit aufgehobenen Punkten, verdoppelt, gerade durch die neue grössere Freiheit, die Aufmerksamkeit auf die doch noch bestehende Beschränkung und arbeitet dadurch sich selbst entgegen.</p>
+
+               <p>Allein der ganze Grund, auf welchem das System der all- mähligen Aufhebung beruht, ist, meines Erachtens, aus einer zwar ehemals angenommenen, aber auch schon längst mit Recht verworfenen Theorie der Gesetzgebung geschöpft. Es ist nämlich dies diejenige, welche die Gesetzgebung zu einer Art Erziehung des Staatsbürgers macht; wo sie nur immer die Mittel in Händen hat, positiv wirken will und, von einem bestimmten Begriff des Charakters und der Cultur der Nation ausgehend, im Stande zu sein wähnt, den Fortschritt und sogar die Richtung zu einer andern Stufe leiten zu können: da, wie es mir scheint, der Staat nur durch Ertheilung und Beschränkung der Freiheit und dadurch her\'orgebrachtes Gleichgewicht der Rechte die Bürger in Stand setzen muss, sich selbst zu erziehen; nur dahin zu streben hat, bloss negativ zu wirken und das positive Wirken der freien Thätigkeit der Nation zu überlassen und die Menschheit genug achten muss, um zu wissen, dass der moralische Standpunkt einer Nation sich nie genau berechnen, noch weniger aber die Entwickelung derselben sich mechanisch voraussehen lässt, indem sie vielmehr, und ganz aus innerer Ivraft, wäe die ganze Geschichte lehrt, oft plötzliche Impulse erhält, die, w^it entfernt, sich durch die Gesetzgebung leiten zu lassen, die- selbe ihnen zu folgen zwingen; kurz, da der Staat kein Erziehungs-, sondern ein Rechtsinstitut ist. Um auf die Juden zurückzukommen, so geht man von einem gewissen Begriff" von ihrem Charakter, in dem nun aber, genau genommen und dem Grade nach (und auf Genauigkeit und Gradbestimmung kommt es doch hier an) fast kein Staatsmann mit dem andern übereinkommt, aus ; diesen Charakter will man durch künstliche Mittel verändern und, so wie man ihn nach und nach<pb n="10.91" xml:id="pbX91"/> räumen, die sonst jeder, der sich im Staate niedergelassen hat, geniesst.</p>
+
+               <p>Wer nun je mit Ernst über Nationalcharalitere nachgedacht hat, der wird wissen, wie w^enig bei ihrer Beurtheilung diejenige Erfahrung leistet, auf die man sich gewöhnlich beruft, und welch eine seltene Vereinigung von acht philosophischem Sinn und schneller und feiner Beobachtungsgabe dazu gehört, wie aber, fast in gleichem Schritt mit der Grösse dieser Fähigkeiten, die Sicherheit der Ueberzeugung abnimmt, und wie endlich die Resultate so werden, dass ein vorsichtiger Mann selten allein danach Handlungsweisen bestimmen, ein gewissenhafter aber nie Ertheilung oder Verweigerung von Rechten daran knüpfen wird.</p>
+
+               <p>In die höchsten Schwierigkeiten verwickelt man sich nun aber gar, wenn man nun die Fortschritte der Nation zum Bessern be- urtheilen will. Woran soll z. B. erkannt werden, dass die Juden der öffentlichen Achtung würdiger sind.^ Etwa an gesammelten einzelnen Handlungen.' oder durch offizielle Rapporte von gewiss zu tausend Dingen, aber nur nicht zur Menschenbeobachtung tüchtigen Offizianten über einen Gegenstand, über den selbst das einsame Gespräch sich schwer verständigt } oder gar durch Tabellen, wie viele Juden dieses oder jenes Handwerk erlernt haben, Ackerbauer oder Soldaten geworden sind.^ Wenn nach solchen Aeusser- lichkeiten die allgemeine Achtung einer ganzen, nur unglücklichen Nation abgewogen, nach ihnen bestimmt werden soll, ob der unbescholtenste Jude nun ein eben so gültiger Zeuge sein kann als der erste beste Christ.' so ist das, glaube ich, auch mit den schlichtesten Gefühlen von Menschenwürde unverträglich.</p>
+
+               <p>Wollte ein Staat in diesem Punkt consequent sein, so müsste seine Gesetzgebung auch unter den Christen nach Massgabe der Cultur die Bürgerrechte ungleich vertheilen, was doch glücklicherweise noch niemand eingefallen ist. Unstreitig würde man hierauf antworten, dass es nicht ein Unterschied in Cultur, nicht einmal in dem, was man Sitten nennt, sondern recht eigentlich in dem Punkte der Redlichkeit, dessen, was den Menschen zum Menschen macht, ist, was den Juden vom Christen auszeichnet. Allein reicht irgend eine Erfahrung hin, einer ganzen Nation ein solches Zeichen der Verwerfung aufzu<pb n="10.92" xml:id="pbX92"/>achtete nothwendig auch verachtungswürdig bleibt? und muss nicht eine Regierung, die ein solches Anathem bei einer neuen Gesetzgebung*) ausspricht, nothwendig selbst bewirken, dass die Bessern der Nation auswandern, und nur der Abschaum zurück- bleibt?</p>
+
+               <p>Der Punkt, wo die bei der Gesetzgebung gewiss äusserst nothwendige Kenntniss der Nation eintritt, ist, so viel ich einsehe, nicht bei dem Endzweck des Staats selbst, der Bestimmung der Rechte der Bürger, und der Grenzen seiner Wirksamkeit, sondern bei der Wahl der Mittel zur Ausführung seiner nach allgemeinen Begriffen entvvorfenen Pläne. Dazu reicht auch eine unvoll- kommene Charakterkenntniss (und eine andere ist nie möglich) hin. Denn mit den ^Mitteln kann man ohne Nachtheil wechseln und ihre Zweckmässigkeit nach ihrem Erfolge prüfen.</p>
+
+               <p>Meiner üeberzeugung nach wird daher keine Gesetzgebung über die Juden ihren Endzv/eck erreichen, als nur diejenige, welche das Wort Jude in keiner andern Beziehung mehr auszusprechen nöthigt, als in der religiösen, und ich würde daher allein dafür stimmen, Juden und Christen vollkommen gleich zu stellen. Wollten die ersteren nicht zugleich die Pflichten, die alle Bürger tragen, übernehmen, so würde ich, wenn man alle &gt;,Iittel, sie dazu zu bewegen, erschöpft hätte, sie lieber aus dem Lande verbannen. Denn Menschen im Staate zu dulden, die sich gefallen lassen, dass man ihnen wenig genug traut, um ihnen, auch bei höherer Cultur, die sonst gemeinsten Bürgerrechte zu versagen, ist für die Moralität der ganzen Nation im höchsten Grade be- denklich.</p>
+
+               <p>Was man einer völligen und plötzlichen Gleichstellung entgegensetzt, ist, dass dies ein Sprung von einem Extrem in ein anderes sein würde, und die Gefahr, die daraus für den Staat entstünde. In dem Erstem liegt offenbar ein ]\Iissverständniss. Wenn ein widernatürlicher Zustand in einen naturgemässen übergeht, so ist kein Sprung, wenigstens gewiss kein bedenklicher vorhanden ; diesen kann man nur da finden, wo ein widernatürlicher mit wirk- licher Ueberspringung des natürlichen in einen widernatürlichen</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

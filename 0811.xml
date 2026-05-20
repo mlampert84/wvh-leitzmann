@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pindars neunte pythische Ode</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Achter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif08humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1909">1909</date>
+                  </imprint>
+                  <biblScope unit="page" from="75" to="85"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1796">1796</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="8.75" xml:id="pbVIII75"/>
+            <head>
+               <title type="main">lo. Pindars neunte Pythische Ode.</title>
+            </head>
+            <p>An Telesikrates, aus Kyrene, der im bewafneten Laufe gesiegt hatte.</p>
+
+            <p>Der Kyrenäer Telesikrates, dessen Sieg in dieser Ode gefeiert wird, ist sonst aus der Geschichte nicht bekannt. Nur dass er noch einmal später in den Pythischen Spielen siegte, und dass seine Bildsäule, mit einem Helme versehen, in Delphi aufgerichtet war, erzählt uns der Scholiast. Auch erwähnt der Dichter keines andern Umstandes seines Lebens, sondern beschäftigt sich bloss mit der Vaterstadt desselben, Kyrene, und einem seiner Vorfahren, Alexidamos.</p>
+
+            <p>Die Nymphe Kyrene war die Tochter des Hypseus, des Königs der Lapithen, und der Kreusa, der Tochter der Erde. Sie lebte in der Nachbarschaft des Chiron, und liebte vorzüglich die Jagd. Ihrer Gefechte mit Löwen gedenken, ausser dem Pindar, noch mehrere Dichter. In einem solchen Kampfe ^) sah sie Apollon, entbrannte vor Liebe zu ihr , ^) und entführte sie nach Libyen (Afrika), wo sie der später durch Pflanzvölker aus der Insel Thera erbauten Stad Kyrene den Namen gab. Der junge Apollon an der Seite des weisen Chiron ist eine überaus^) schöne, und vielleicht in der ganzen Griechischen Dichterwelt einzige Gestalt. Seine alles durchdringende Schicksalskunde und seine GötterHandschriß: eigenhändig sind nur Einleitung und Anmerkungen (6 Quartseiten) erhalten, vom Text nur Vers 1—65 von Schreiberhand, eigenhändig durchkorrigiert (4 Quartseiten). Dazu kommt ein Entwurf (8 Quartseiten, von denen S. 1—2 fehlen). — Erster Druck: Schillers Hören i-jg-j 2, 61 — "4. Hier fehlen die Strophenüberschriften.</p>
+
+            <pb n="8.76" xml:id="pbVIII76"/>
+            <p>76 Weisheit liegen gleichsam noch verhüllt in ihm; und sich ihrer selbst nicht bewusst, sucht er mit jugendlicher Schüchternheit Rath bei dem erfahrnen Kentauren. Dieser, von Ehrfurcht für seine höhere Natur durchdrungen, ertheilt dem Jüngling seine Lehre und zügelt seine stürmische Leidenschaft, aber er fühlt, dass der Gott dieser Lehre nicht bedarf. Nachdem der Dichter diese grossen und reizenden Bilder verlassen hat , streut er (v. 133. u. f.) ein Lob auf seine Vaterstadt Theben, und einige ihrer einheimischen Heroen, den Amphitryon, Herkules und Jolaos ein, und kehrt dann zu einem der Vorfahren des Siegers, dem Alexidamos zurück. Dieser hatte sich nemlich um die Tochter des Antäos beworben, und sie im Wettlauf, durch den ihr Vater, nach dem Beispiel des Danaos, die Wahl eines Eidams zu ent- scheiden beschlossen hatte, seinen Mitbewerbern abgewonnen. Die gegenwärtige Ode gehört, nicht zwar gerade durch die Composition des Ganzen, aber durch ihre einzelnen Schilderungen zu den schönsten, von Pindar auf uns gekommnen Stücken. Pindar übt darin in bewundernswürdigem ^) Grade die Kunst aus, deren er selbst z&gt;. 134. gedenkt, grosse Bilder durch wenige, aber mit Kühnheit und Bestimmtheit gezeichnete Züge vor das Auge des Lesers zu stellen. Ueberhaupt gehört sie ganz und gar^) zu den schildernden, nicht zu den spruchreichen Hymnen. Die Verbindungen ihrer einzelnen Theile sind fast noch mehr, als in irgend einer der übrigen, lose und mit einer gewissen Nach- lässigkeit geknüpft. Das blosse Nennen der Stadt Kyrene reicht dem Dichter hin, auf die Nymphe gleiches Namens überzugehen; mit einer absichtlichen Wendung ruft er sich, wie gewöhnlich, von der Erzählung ihrer Schicksale zurück, geräth, bloss um ein Beispiel zu einer Sentenz anzuführen, auf den Jolaos und Theben, und kehrt von da ohne allen künstlichen Uebergang geradezu zu dem Sieger zurück. Es ist nicht seine Absicht in dem Gemüth des Hörers durch Ein durchgeführtes Thema ein bestimmtes Gefühl rege zu machen, es ist ihm genug, ihn durch mehrere einzelne grosse und glänzende Bilder, durch tiefe und gedankenreiche Sprüche zu den Empfindungen der Grösse und Erhaben- heit überhaupt zu stimmen, welche die Feier eines Sieges in den grossen Spielen foderte, und die durch den Beifall der zuV In der Handschrift: „seltnem". *j „und gar" fehlt in der Handschrift.<pb n="8.77" xml:id="pbVIII77"/> jauchzenden Menge, durch das ehrwürdige Alter der Feier, endlich durch Musik und Tanz so mächtig unterstützt wurden. Eine solche musikalische Einheit aber ist in allen Pindarischen Hymnen, und ^) offenbart sich sehr deutlich in den verschiednen Stimmungen, welche jede einzelne hervorbringt. Bald schreitet ein abgemessener und volltönender Rh^^thmus langsam und feierlich einher, bald tanzt ein lachender und hüpfender gefälliger dahin, bald führt ein rauherer und mehr-) abgebrochner den Ernst des Schicksals und die Macht der Götter in gediegnen und warnenden Sprüchen vor das bewegte Gemüth, bald endlich reisst ein rascher und feuriger es in einem leichteren und minder gehemmten ^) Schwünge mit sich fort. Diess letztere ist in der folgenden Ode vorzüglich der Fall, und wird selbst durch die raschen und unvorbereiteten *) Uebergänge noch vermehrt. Der Wirkung des Ganzen nachtheilig ist es, dass die schöne und charakteristische Schilderung des Apollon und der Kyrene im Anfang sich des Lesers zu sehr bemächtigt, als dass der Ueberrest noch grosse Aufmerksamkeit erregen könnte. Doch lässt der Wettlauf des Alexidamos am Schluss ein lebendiges und gefälliges Bild in der Phantasie zurück.</p>
+
+            <p>I. Strophe.</p>
+
+            <p>Den schildbewafneten Sieger im Pythischen Kampf, Telesikrates, will ich singen, verkünden mit der tiefgegüneten Charitinnen Gunst, ihn, den dreimalbeglückten Mann, der rossetummelnden Kyrene Schmuck; die aus des Pelios winddurchbrausten Tiefen einst der lockenumwallte Latoide raubte, die Freundin der Jagd, und, sie auf goldnem Wagen entführend, - zu des heerdenreichen, fruchtbaren Landes Herrscherin machte.</p>
+
+            <p>V In der Handschrift : „und vorzüglich auch in dem gegenwärtigen. Bald". ^) „mehr" fehlt in der Handschrift. 'j In der Handschrift: „ungehemmteren". *J In der Handschrift: „plötzlichen und abgebrochnen".<pb n="8.78" xml:id="pbVIII78"/> 78 dass sie glücklich des Erdkreises dritte, liebliche Wurzel bewohne.</p>
+
+            <p>I. Antistrophe.</p>
+
+            <p>Da empfieng den Delischen Fremdling die silberfüssige Aphrodite, und enthub mit leichtberührenden Händen beide dem Götterwagen. Ueber das süsse Lager 20 goss sie ihnen erröthende Scheu, und gesellte in heiiger Vermählung dem Gotte das Mädchen bei,</p>
+
+            <p>Hypseus, des weitwaltenden, Tochter. Der übermüthigen Lapithen König, 25 herrschte damals der Held, der zweite von Okeanos Abkunft.</p>
+
+            <p>Ihn gebahr einst in des Pindos herrlichen Thälern, sich des Peneus Umarmung erfreuend, 30 die Najade Kreusa,</p>
+
+            <p>I. Epode.</p>
+
+            <p>der Erde Tochter. Er aber erzeugte die schönarmige Jungfrau Kyrene. Nimmer liebte sie des Gewebes ewig wiederkehrende Wege, 35 nicht, an der Gespielinnen Seite, des häuslichen Mahles Ergötzung. Aber mit ehernem Wurfspiess und mit dem Schwerte kämpfend, verscheuchte sie die Thiere des Waldes, 40 sichre, friedliche Ruhe den väterlichen Heerden bereitend.</p>
+
+            <p>Wenig kostete sie des süssen Schlafes, des Lagergenossen, wenn er entgegen der dämmernden Frühe die Augenwimpern ihr senkte.</p>
+
+            <p>2. Strophe. 45 Und es fand sie mit dem furchtbaren Leuen einsam und unbewafnet ringen einst — auf der Schulter den mächtigen Köcher —<pb n="8.79" xml:id="pbVIII79"/> der Fernhintreffer Apollon. Plötzlich rief er den Chiron 50 aus dem Gemach, und sprach: „Bewundre des Weibes Muth, lind ihre mächtige Kraft, wie sie mit furchtlosschauendem Haupte den Kampf vollbringt. Warlich ein Herz, 55 über die Arbeit erhaben, trägt die Jungfrau. Keine Furcht umstürmt ihren Busen. Wer der Menschen gebahr sie? Von welchem Stamm entsprossen,</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">2. Antistrophe. 60 bewohnt sie des Waldgebirgs schattige Tiefen.^</title>
+               </head>
+               <p>Unendlicher Kraft geniesst sie. Erlaubt es die Sitte, die Götterhand ihr zu nahen, die honigsüsse Frucht 65 ihrer Umarmung zu pflücken?" Da erwiederte, sanftlächelnd unter den milden Augenbraunen, ihm, nach seines Rathschlusses Tiefe, der ernste Kentaure: „Heimliche Schlüssel giebt es 70 weiser Ueberredung zur heiligen Liebe, o Phöbos, und unter der Menschen und der Götter Geschlechte zugleich verbeut die Schaam, ohne verhüllenden Schleier, zuerst das süsse Lager zu kosten.</p>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">2. Epode. 75 Denn auch Dich, den die Lüge nimmer berühret,</title>
+               </head>
+               <p>trieb die verführende Sehnsucht, diese Rede zu wagen. Aber der Jungfrau Abkunft, warum erkundest Du sie, o Herrscher? 80 der Du aller Dinge schicksalbestimmtes Ende weissest, und jegliche Pfade; wieviele Blätter des Frühlings die Erde hervorsprosst,<pb n="8.80" xml:id="pbVIII80"/> wieviel Körner des Sands im Meer und den Strömen 85 der Wogen Sturz und der Winde wälzt, der Du, was zu werden bestimmt ist, und, wann es geschehen wird, kennst. • — Aber ziemt es sich dennoch, sich mit dem Weisen zu messen,</p>
+
+               <p>3. Strophe. so will ich es sagen. Der Gatte dieser 90 kamst Du in dieses Thal, sie jenseits des Meers in Zeus auserwählten Garten zu führen.</p>
+
+               <p>Dort wirst Du zur Königin von Städten sie machen, auf den ringsumschauenden Hügel 95 versammelnd das Inselvolk.</p>
+
+               <p>Im goldnen Gemache wird die triftenreiche erhabne Libya die herrliche Braut Dir gütig empfangen, und alsbald 100 — dass sie gesetzlich mit ihr ihn beherrsche — einen Theil des Landes ihr schenken, der nicht arm an früchtereichen Gewächsen, noch fremd den Thieren des Feldes sey.</p>
+
+               <p>3. Antistrophe. Dort wird einen Sohn sie gebähren, 105 den der erhabene Hermes, von der geliebten Mutter ihn nehmend, den goldenthronenden Hören und der Erde bringt. Sie, den Knaben auf die Knie sich setzend, werden Nektar ihm in die Lippen, "o und Ambrosia träufeln, und zum unsterblichen Zeus ihn erheben, und zum reinen Apollon, dass er die Freude der Menschen, der treuste Begleiter der Heerden, 115 der Jagd und der Triften Beschützer, aber Aristäos bei anderen heisse." Also redend trieb er den Gott der Vermählung liebliches Band zu knüpfen.^) V Im Entwurf: „zu der Vermählung süsser Vollendung", aus obigem verbessert.</p>
+
+               <pb n="8.81" xml:id="pbVIII81"/>
+               <p>3. Epode. Schnell ist der eilenden Götter i2o Vollbringung und kurz ihre Pfade.</p>
+
+               <p>Jenes entschied jener Tag. In Libyens goldumschimmertem Brautgemach umarmten sie sich, da, wo sie die schönste der Städte, «35 die hochberühmte in Kämpfen, umwaltet.</p>
+
+               <p>Und auch nun in der göttlichen Pytho gesellte Karneades Sohn einem herrlich blühenden Glücke sie bei, als er siegend Kyrene verkündete. 430 Wohlwollend empfängt sie ihn nun, wenn er seinem reich mit schönen Weibern prangenden Vaterland lieblichen Ruhm von Delphi entgegenführt.</p>
+
+               <p>4. Strophe. Lang zu verkünden sind erhabene Tugenden. Aber in Grossem Weniges glänzend bezeichnen ist Genuss 135 dem Weisen. Doch überall herrscht der Gelegenheit schicklicher Augenblick. Diesen nicht sorglos verachten sähe den Jolaos einst die siebenthorige Thebe, J40 den sie, als er Eurystheus Haupt nieder mit des Schwertes Schärfe gemäht, in des wagentummelnden Amphitryons Grabmal unter der Erde verbarg, da wo des Vaters Vater ihm ruhte, HS der Gastfreund der drachengesäeten Männer, der der rosseprangenden Kadmeer Strassen einst sich zum Wohnsitz gewählet.</p>
+
+               <p>4. Antistrophe. Von seiner und Kronions Umarmung gebahr in Einem Geburtsschmerz die kluge Alkmene «50 der Zwillingssöhne kampfausharrende Stärke.</p>
+
+               <p>Stumm wäre der Mann, der dem Herakles nicht stets seine Stimme weihte, nicht der Dirkeischen Gewässer<pb n="8.82" xml:id="pbVIII82"/> immer gedächte, die ihn 155 erzogen und Iphikles.</p>
+
+               <p>Reichliche Wohlthat von ihnen empfangend, will ich, dem Gelübde folgsam, sie feiern. Möge nur nie der weitschallenden Charitinnen reines Licht mich verlassen. »6o Denn in Aegina, sag' ich, und auf dem Hügel des Nisos verherriichte dreimal diese Stadt Telesikrates,</p>
+
+               <p>4. Epode. sprachloser Veriegenheit durch Thaten entfliehend. Darum, wenn einer der Bürger ihm Freund, J65 wenn einer ihm Gegner ist, so müss' er doch nie, des Meergreises Spruch verletzend, ihm das herrlich Gelungne verhüllen. Denn auch den Feind gebot jener 170 mit herzlichem Sinn, und nach dem Rechte, wenn er etwas Schönes vollbracht, zu preisen. Und ich sah Dich auch in der Pallas jährlich wiederkehrender Feier mächtig siegen — dass jegliche Jungfrau 175 heimlich sich Dich zum geliebten Gatten, o Telesikrates, oder zum Sohn ersehnte —</p>
+
+               <p>5. Strophe. und in ülympias und der tiefbusigten Erde Kämpfen und in den einheimischen allen. Aber mich, der ich den Durst »8o nach Gesängen heile, fodert jetzt einer, dass ich der Väter alten Ruhm ihm erwecke, wie um die Libysche Jungfrau zur Stadt Irasa einst 185 die Freier kamen zu Antäos lockenumwallter, herrlicher Tochter. Viele der ersten der Männer warben um sie, viele verwandten Stamms,<pb n="8.83" xml:id="pbVIII83"/> ^9° viel auch der Fremden; denn staunenswürdig war ihre Gestalt.</p>
+
+               <p>5. Antistrophe.</p>
+
+               <p>Es gelüstete sie der goldumkränzten Jugend blühende Frucht zu pflücken. Aber der Vater, eine herrlichere Vermählung »95 der Tochter bereitend, hörte von dem Argivischen Danaos, wie seinen acht und vierzig Töchtern, eh' noch der Tag die Mitte seines Laufes ereilte, aoo eine schnelle Hochzeit er fand.</p>
+
+               <p>Er stellte den ganzen Reigen alsbald an das Ende der Rennbahn. Dann gebot er, mit der Füsse Wettstreit zu entscheiden, 205 welche jeder der Helden nähme, soviel ihm der Eidame kamen.</p>
+
+               <p>5. Epode. So auch gab der Libyer einen Gatten der Tochter.</p>
+
+               <p>Geschmückt stellt' er sie an das Ziel, 210 der letzte Lohn zu seyn.</p>
+
+               <p>Dann sprach er zu allen: „es führe sie hin, wer, vorüber den andern eilend, zuerst ihr Gewand berührt." Da ergriff Alexidamos, 2»5 hinfliegend im leichten Lauf, der edlen Jungfrau Hand mit der seinen, und führte sie durch der rossezähmenden Nomaden Haufen. Dicht bewarfen sie ihn mit Laub und mit Kränzen. 220 Viele Flügel des Siegs hatt' er schon vormals empfangen.</p>
+
+               <pb n="8.84" xml:id="pbVIII84"/>
+               <p>x\ n m e r k u n g e n. V. I. Den schildbewafneten Sieger) Es war eine eigne Art des Wettlaufs, in welchem die Läufer mit Helm, Schild und Beinschienen bewafnet liefen, und in diesem hatte Telesikrates gesiegt. V. 5. K3Tene — die u. s. f.) Die Städte und die Nymphen, die sie beschützten, und ihnen den Namen gegeben hatten, werden von Pindar oft verwechselt. V. 8. Latoide) Apollon, Sohn der Leto (Latona). V. 14. 15. dritte — Wurzel) Afrika. Die Welttheile gleichsam die Wurzeln der Erde. ^'- 33- 34- ^^'^ Gewebes ewig wiederkehrende Wege) Der Webstuhl der Alten war perpendikulair, nicht, wie bei uns, horizontal. Die Weberin stand davor, und wenn das Gewebe gross war, musste sie von einer Seite zur andern, hin und wieder gehen. V. 92. Zeus Garten) Die Gegend um Kyrene heisst Zeus Garten wegen der Nähe des Tempels des Jupiter Ammon. V. 95. Inselvoik) die Bewohner von Thera, einer kleinen Insel im Aegäischen Meer, von welcher aus die Kolonie in Kyrene gestiftet worden war. V. 116. Aristäos) Aristäos wurde zu den frühesten Wohlthätern des menschlichen Geschlechts gezählt, der zuerst die Regeln der Viehzucht und der Jagd, das Auspressen des Oels, die Bienenzucht und den Gebrauch der Laserpflanze aus Kyrene [süphium) lehrte. Zur Dankbarkeit wurde er an mehreren Orten göttlich verehrt. Seine gewöhnlichsten Beinamen sind: Agreus, der Jagd-, und Nomios, der Heerden-Beschützer. Man rief ihn aber auch unter dem Namen des Jupiter Aristäos und des Apollon Nomios an. Sein eigentlicher Name Aristäos deutet, der griechischen Etymologie nach, zugleich auf seinen wohlthätigen Charakter, und wird daher hier von Pindar mit einem gewissen Nachdruck gebraucht. V. 127. Karneades Sohn) der Sieger Telesikrates. V. 13S. Jolaos) Alkmene gebahr zugleich dem Jupiter den Herkules, und dem Amphitryon den Iphikles. Dieser erzeugte den Jolaos, der seinen Oheim bei mehreren seiner ^)</p>
+
+               <p>'j In der Handschrift: „bei seinen".</p>
+
+               <pb n="8.85" xml:id="pbVIII85"/>
+               <p>Arbeiten begleitete. Als nach seinem und des Herkules Tode Eurystheus die Herakliden verfolgte, und von den Athenern, zu denen sie sich geflüchtet hatten, ihre Auslieferung foderte, soll er von den Göttern erlangt haben, wieder ins Leben zurückzukehren, um dem Eurystheus Einhalt zu thun, und nach dessen Ermordung wieder gestorben seyn. Nach einer andern Erzählung aber, der Euripides in den Herakliden (v. 844. u. f.) folgt, lebte er damals noch, und bat die Götter nur wieder jung zu werden, um die Söhne seines Wohlthäters von ihrem Verfolger zu befreien. Auf diese Fabel spielt Pindar hier an. Auch noch in der Unterwelt versäumte</p>
+
+               <p>Jolaos nicht den Moment, eine grosse und edle That zu vollführen. 1) v. 145. Gastfreund — erwählt) Amphitryon wurde, weil er seinen Schwiegervater Elektryon unvorsichtigerweise ermordet hatte, aus seinem Vaterlande Argos vertrieben, und zog nach Theben. Drachengesäete Männer heissen die Thebaner nach der bekannten Fabel des Kadmos. V. 153. Der Dirkeischen Gewässer) der Quell Dirke in -) Theben. V. 161. dem Hügel des Nisos) in Megara, wo Nisos ein durch die Verrätherei seiner Tochter bekannter König war. V. 163. sprachloser Verlegenheit — entfliehend) Pindar schildert an mehreren Stellen seiner Gedichte, wie die in Kämpfen Besiegten stumm umhergiengen, und den Anblick ihrer Mitbürger vermieden. Dieser Verlegenheit war Telesi- krates durch seinen Sieg entgangen. V. 167. des Meergreises) Nereus, dem die Gabe der Weissagung vorzüglich eigen war. V. 184. Irasa) eine Stadt in Afrika, in der Gegend von Kyrene. V. 196. Danaos) Diess geschah nemlich, als er sie zum zweiten- male, nachdem sie ihre ersten Männer, die Söhne des Aegyptos, getödtet hatten, verheirathete. Pindar nennt nur acht und vierzig, weil Hypermnestra des Lynkeus verschont hatte, und Amymone von Poseidon entführt worden war.</p>
+
+               <p>V In der Handschrift folgt noch: „Man zeigte in Theben sein Grabmal neben dem seines Großvaters Amphitryon." y In der Handschrift: „bei".</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

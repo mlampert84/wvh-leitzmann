@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An der Spitze der preußischen Unterrichtsverwaltung, 1809 u. 1810</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif10humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1903">1903</date>
+                  </imprint>
+                  <biblScope unit="page" from="16" to="16"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1809">1809</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="10.16" xml:id="pbX16"/>
+            <head>
+               <title type="main">IL An der Spitze der preufsischenUnter- richtsverwaitung, 1809 und 1810.</title>
+            </head>
+            <p>Am 14. Oktober 1808 trat Humboldt seine Reise nach Deutschland an, um dort einen 77iehr-monatlichen Urlaub zur Ordnung persönlicher Verhältnisse zu verbringen. Kaum hatte er den deutschen Boden betreten, da erfuhr er, daß Vnn ein heimischer Posten zugedacht war, und eine Kabinetsordre vom 15. Dezember 1808 bot ihjn die Stellung als Geheimer Staatsrat imd Direktor der Sektion für Kultus und Unterricht im Ministerium des Innern an. Er lehnte sie zuerst ab, gab aber schließlich dem Drängen der Minister voyi Altenstein und Graf Dohna nach und erhielt durch Kabinetsordre vom 20. Februar i8og seine Ernennung. Ihm zur Seite standen als Staatsräte Nicolovius, besonders für die Kultusabteilung, Süvom, Uhden und etwas später Schmedding für die katholischen Angelegenheiten. Die folgenden Arbeiten Humboldts gehören dieser Periode an.</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">I., II. Anträge für F. A. Wolf.</title>
+               </head>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Über die Zustände in der Verwaltung und die Minister</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zwölfter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif1201humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1904">1904</date>
+                  </imprint>
+                  <biblScope unit="page" from="196" to="201"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="12.196" xml:id="pbXII196"/>
+            <head>
+               <title type="main">XXX. über die Zustände in der Verwaltung und die Minister.</title>
+            </head>
+            <p>14. Juli 1817. (Eigenhändiger Entwurf in Tegel; Reinschriß im Geh. Staatsarchiv; gedruckt in Forschungen zur brandenburgischen und preußischeyi Geschichte. XII, S. 241 ff.)</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">An Hardenberg.</title>
+               </head>
+               <p>Berlin, den 14. Juli 1817. Ew. Durchlaucht haben mir wahrend der Monate meines hiesigen Aufenthalts aufs neue die überzeugendsten Beweise Ihres gütigen Wohlwollens, und ich kann es sagen, Ihrer festen und unverbrüchlichen *) Freundschaft gegeben ; wir haben uns in dieser Zeit in sehr unangenehmen und wahrhaft traurigen Geschäften befunden, aber es gereicht mir zu einer grösseren Befriedigung, als ich es ausdrücken kann, dass wir, ob wir gleich jeder dem einfachen Weg unserer Ueberzeugung**) folgten, gleich enge ver- bunden geblieben sind. Meine innige Dankbarkeit dafür, meine unveränderliche Anhänglichkeit an Ew. Durchlaucht, mein stetes Bemühen, Ihnen mit Freimüthigkeit zu sagen, was ich zur Erhaltung Ihrer Ruhe und Ihres so wohl erworbenen Ruhms für nothwendig halte, und zu diesem Allem mitzuwirken, werden, ohne Unterschied, immer dieselben bleiben. Erlauben Sie mir aber, diesen Versicherungen noch in dem Augenblicke, wo wir einer längeren Trennung entgegengehen, einige Eröffnungen hinzuzufügen, welche zwar unangenehme Verhältnisse berühren, allein nothwendig und unvermeidlich sind.</p>
+
+               <p>Ew. Durchlaucht haben mich während meines Hierseyns in Geschäfte gesetzt, die mir eine vollständige Kenntniss der äusseren und inneren Lage des Staats verschafft haben. Zu Nichts ist mir der Zugang versagt, nichts ist mir geheim gehalten worden ; wenn ich mir also überhaupt ein Urtheil zutrauen darf, so kann ich ein richtiges und vollständiges über diese Lage fällen.</p>
+
+               <p>Ich kann mir nun nicht verhehlen, und Ew. Durchlaucht fühlen es selbst, dass sie, im Innern wenigstens, nicht befriedigend<pb n="12.197" xml:id="pbXII197"/> genannt werden kann. Der Zustand der Finanzen ist zwar, meiner Ueberzeugung nach , nicht an sich schlecht , aber doch unsicher und precaire, und durch die bisherige Verwaltung, wenn nicht schleunig geholfen wird, sogar höchst gefährlich geworden; die Kräfte der Nation sind angespannt, und werden doch bloss zur einfachen Erhaltung des Vorhandenen verwendet, ohne dass grosse wohlthätige Landesanstalten gemacht, oder Hülfsmittel für ausserordentliche Ereignisse gesammelt werden ; eine Menge von Verhältnissen sind und bleiben unbestimmt; in der Nation herrscht in mehreren Orten Unzufriedenheit, und nirgend und am wenigsten im Ganzen, die lebendige Bereitwilligkeit, mit der ein Volk, nach so glorreichen Begebenheiten, seiner Regierung folgen, und mit ihr fortstreben müsste. Man hat deshalb neue Einrichtungen gemacht, und bereitet andre vor ; der Staatsrath ist gestiftet ; Stände sollen versammelt, den Provinzen eine zweckmässigere Verwaltung gegeben, eine neue Steuerverfassung angeordnet werden. Allein alle diese Mittel können nicht wirken, diese Einrichtungen selbst müssen gelähmt werden, ja sogar eine schiefe und nachtheilige Richtung nehmen, wenn nicht das Grundübel geheilt wird, und dieses Grundübel ist nach meiner festen Ueberzeugung: dass die Verwaltung in fast allen ihren Theilen fehlerhaft ist. Dies ist nicht Ew. Durchlaucht Schuld. Vielmehr, was noch an Geist, an liberalen Grundsätzen, an edlen Gesinnungen in der Verwaltung einzeln sich findet, gehört einzig und allein Ihnen an, und wenn der König und der Staat einmal das Unglück haben, Ew. Durchlaucht zu verlieren, und das Uebrige bleibt, wie es ist, so ist aller dieser Geist, diese Liberalität, diese Gesinnung für den Augenblick, und vielleicht für lange dahin.</p>
+
+               <p>Die Schuld liegt*) in den Ministerien, unter denen ich nur das Kriegsministerium**), aber dies auf alle Weise ausnehme, da es mit Ernst, Ordnung, Zweckmässigkeit und mit Streben nach Erhaltung lebendig vaterländischer und energischer Gesinnung geführt wird. In den Ministerien der Justiz und des Innern***) sind blosser und reiner Mechanismus und Ertödtung alles Geistes an der Tagesordnung; in dem wichtigen geistlichen Departement f)<pb n="12.198" xml:id="pbXII198"/> ist, wie die eigenen Räthe leicht bezeugen würden, seit dem Abgange des Grafen Dohna, ausser der sehr überflüssigen Stiftung der Universität zu Breslau, nichts geschehen, was nur einiger- maassen der Reihe der seitdem verflossenen Jahre und dem Wiederaufblühen des Staats entspräche, dagegen manches untergegangen. Das Finanzministerium <note type="footnote" n="*)" resp="gnd-116890657"><hi>unter Bülow.</hi></note> ist Ew. Durchlaucht und allen Mitgliedern der Commission über den Haushalt in seiner Führung bel^annt; ich darf mich bloss auf Ew. Durchlaucht beziehen, ob Sie richtige Uebersicht, solide und feste Grundsätze, sichere Geschäftsleitung (um gar nicht die höheren Forderungen zu erwähnen, die man an einen Einander machen kann) darin angetroffen haben, ob Sie nicht**) über die Dreistigkeit in gewagten Operationen, die Kühn- heit ganz unrichtiger, oder halb wahrer Darstellungen erstaunt sind, und ob man es nicht schwer zu entschuldigende Anmassung nennen muss, dass alle Schriften, die jetzt von da ausgegangen sind, das Bestreben in sich tragen, zu zeigen, dass alles Gute und Richtige nur dort vorhanden ist, alle Fehler aber auf fremde Rechnung kommen. Von dem Polizeiministerium ***) bin ich nicht im Stande etwas zu sagen ; es ist im Frieden zu unbedeutend, und wäre viel besser ein blosser Theil des Ministeriums des Innern. Die traurige, aber natürliche Folge hiervon ist nun, dass dies gesammte Ministe- rium (immer das des Krieges ausgenommen) schlechterdings keines Vertrauens weder in den Provinzen, noch bei den Regierungen, noch endlich bei den Centralbehörden der Hauptstadt geniesst. Hien^on liegen Ew. Durchlaucht, dasjenige ungerechnet, was Sie auch hier von den Provinzen erfahren, die unwiderleglichsten Beweise in den Erklärungen der Ober-Präsidenten f), den Verhandlungen der Steuer-Commission, den Abstimmungen des Staatsraths vor. In der letzten hat sich, wenn es auch nicht in Worten ge- sagt wurde, deutlich die Ueberzeugung ausgesprochen, dass von einem Finanzministerium ohne Vertrauen keine Reform der Abgabengesetze ausgehen, und eine dennoch mit einem solchen Ministerio vorgenommene nicht wohlthätig bleiben kann.</p>
+
+               <p>**j Statt des folgenden schrieb er zuerst: „mit wahrhaft unglaublicher Dreistigkeit in gewagten Operationen, einer Gottlob nur selten zu findenden Anmassung,</p>
+
+               <pb n="12.199" xml:id="pbXII199"/>
+               <p>Ew. Durchlaucht haben mir manchmal geschienen zu glauben, dass man diesen Uebeln durch geschärfte Gontrolle, durch andere Abtheilung und Stellung der Ministerien, oder der Minister ab- helfen könne. Ich vermag diese Meynung nicht zu theilen, und halte eine Verbesserung nur durch eine gänzliche Veränderung in den Personen für möglich. Diese aber kann, wenn sie glücklich ist, Alles und leicht wiederherstellen. Denn wenn ich vorher die innere Lage des Staats wenig beruhigend nannte, so ist doch noch vollkommene Zeit zu helfen, die Sache befindet sich noch gleichsam auf dem Scheidewege ; es ist noch ein entschiedenes Vertrauen zu Ew. Durchlaucht vorhanden; treten andere zweckmässig ge- wählte Minister in enger Verbindung mit Ew. Durchlaucht auf, so erwacht wieder das Vertrauen und mit ihm alles Gute.</p>
+
+               <p>Es gehört aber allerdings dazu, dass das Ministerium einig unter sich, und einig mit Ew. Durchlaucht sey. Beides ist jetzt nicht der Fall. Die Minister untereinander stimmen zwar wohl gewissermassen überein, allein es ist nicht die belebende Einigkeit, vermöge deren jeder zu bewirken strebt, dass sein Departement harmonisch mit den übrigen zum Ganzen passe. Von der Einigkeit mit Ew. Durchlaucht würde es unbescheiden von mir seyn reden zu wollen, Ew. Durchlaucht können dies am besten selbst.<pb n="12.200" xml:id="pbXII200"/> dass Ew. Durchlaucht allein bei dieser Einrichtung die Müsse, Ruhe und Befriedigung finden würden, die Sie jetzt zum tiefen Schmerz aller derer, die Ihnen anhängen, doch nicht selten in Ihrer mühevollen Geschäftsführung entbehren.</p>
+
+               <p>Dies ist meine Meynung über die höchsten Beziehungen unserer jetzigen Verwaltung, und diese meine Meynung schliesst sich insofern an mein in der Steuer-Commission, und mein in der Commission über den Haushalt abgelegtes Gutachten *) an. Ich würde es, ohne einen besonderen Grund, nicht gewagt haben, Ew. Durchlaucht diese vielleicht zu freimüthig geäusserte Meynung zu sagen;**) aber die besondere Beziehung, in der ich das Gesagte, Ew. Durch- laucht vorzutragen für meine Pflicht hielt, ist folgende: Ew. Durchlaucht haben die Güte gehabt, mir zu äussern, dass Sie dem Könige vorschlagen wollten, mich in einiger Zeit zum zweiten Cabinetsminister zu machen. Ew. Durchlaucht fühlten, dass ich dies nur annehmen könnte, wenn ich zugleich Mitglied des gesammten Staatsministeriums wäre ; es war also meine Pflicht, mich zu prüfen, ob ich in das Staatsministerium, wie es jetzt ist, eintreten könnte, oder nicht.'' und ich bitte Ew. Durchlaucht, in dem vorhin Gesagten die Resultate dieser Prüfung zu finden. Wo ich einen eignen Entschluss nehmen soll, da kann ich nur meiner eigenen, wenn gleich vielleicht, wie ich mich gern bescheide, irrigen Ueberzeugung folgen; und ich muss daher Ew. Durchlaucht, damit ich auf keine Weise falsche Erwartungen in Ihnen errege, be- stimmt erklären, dass ich, so lange der jetzige Finanzminister und Minister des Innern Mitglieder des Ministeriums sind, nicht jenen sonst so gütigen Antrag annehmen, und nicht in das Ministerium eintreten könnte. Es ist meine tiefe Ueberzeugung, dass durch den einen die materiellen, durch den andern die moralischen Kräfte des Staates gefährdet werden, und dass, wenn die Verwaltung, wie jetzt, fortgeht, das Verderben des Staats unvermeidlich ist; ich weiss auf das bestimmteste, dass ich mit diesen beiden Männern***) niemals in Grundsätzen, Gesinnungen und Geschäftsführung übereinstimmen, ja mich nicht einmal mit ihnen darüber verständigen</p>
+
+               <p>»*) *) S. o. S. 162 ff. Nr. XXV u. XXVI. *) Gestrichen ist folgende Stelle: „ich will keineswegs als Ankläger, nicht einmal als Tadler eines der Minister aufireten, ich kann mich irren und sie<pb n="12.201" xml:id="pbXII201"/> kann; und es liegt am Tage; dass es den Geschäften, und dem Dienste des Königs nur nachtheilig seyn müsste, einen solchen Widerstreit der Meynungen und Ueberzeugungen in dem Ministe- rium einheimisch zu machen. Um vor Ew. Durchlaucht diese meine Erklärung zu rechtfertigen, v^ar es nothwendig, in meine Ansichten des Ministeriums überhaupt einzugehen, und sie Ew. Durchlaucht freimüthig darzulegen.</p>
+
+               <p>Ich halte meine Sendung nach London für nicht unwichtig, theils weil sehr lange keine eigentlich thätige Gesandschaft von unserer Seite dort gewesen ist, theils weil man auf den Englischen Hof auf eine , unserm Interesse gemässe Weise in Absicht aller grossen politischen Combinationen, die jetzt zur Sprache kommen, einwirken kann. Ich werde in dieser doppelten Rücksicht alle meine Kräfte anstrengen, um des Königs und Ew. Durchlaucht Erwartungen zu entsprechen. Ich würde indess auch in jedem AugenbHck mit Freuden zurückkommen, um, wie Herr von Altenstein und Herr von Beyme, bloss Mitglied des Staatsraths zu seyn. *) Ich bitte jetzt Ew. Durchlaucht inständigst, diese meine offene Erklärung gütigst aufzunehmen. Es liegt ihr schlechterdings nichts Persönliches zum Grunde. Persönlich kann ich nur verlieren, wenn ich an einem theuren Ort, in der Entfernung von meinem Vaterlande, von einem Theil meiner Familie, und von meinem Vermögen, in einer Stadt lebe, die denjenigen der Meinigen, die mir dahin folgen, gewiss nicht zusagt; wenn ich die Hofnung des Verhältnisses aufgebe, das Ew. Durchlaucht mir immer so angenehm gemacht haben, neben Ihnen zu arbeiten ; es ist endlich ein natürliches Streben, das Ziel seiner Laufbahn, was für einen Gesandten immer die Rückkehr ins Vaterland ist,**) nicht zu spät zu erreichen. Allein da ich ohne Amt meinen Bedürfnissen angemessen leben kann, und da ich selbstgewählte Studien bei weitem den Geschäften vorziehe, so habe ich bei dem Königlichen Dienst keine andere Befriedigung, als die, nützlich zu seyn, meine Kräfte auf eine mir selbst genügende Weise zu entwickeln, und die Mey- nung der Bessern, die jedem Staatsdiener zur Richtschnur dienen muss, mir zu gewinnen oder zu erhalten, und diese Rücksichten sind es, die mich bei meiner gegenwärtigen Erklärung entschieden</p>
+
+               <p>*J Gestrichen: „Allein ich glaube, dass meine Stellung in London nützlicher ist."</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

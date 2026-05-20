@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Übersetzungen aus dem Pindar</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Achter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif08humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1909">1909</date>
+                  </imprint>
+                  <biblScope unit="page" from="1" to="2"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="8.1" xml:id="pbVIII1"/>
+            <head>
+               <title type="main">I.</title>
+            </head>
+            <div type="section" n="1">
+               <head>
+                  <title type="main">Uebersetzungen aus dem Pindar.</title>
+               </head>
+               <p>In den Jahren 1791 — 1804.</p>
+
+               <pb n="8.2" xml:id="pbVIII2"/>
+               <p>y4lle Pindarhandschrißen befinden sich, außer wo das Gegenteil ausdrücklich bemerkt ist, im Archiv in Tegel und sind in eiyiem Konvolut vereinigt, dessen Umschlag umstehenden Titel von Humboldts Hand trägt. Für die Übersetzungen der neunziger Jahre ist eine chronologisch geordnete, sehr sorgfältig mit lateini- schen Buchstaben geschriebene Reinschriß vorhanden (g4 Qitartseiten, von denen S. jg — 7j fehlen ; Genaueres unten bei den einzelnen Oden). Nur die letzte, in den Hören erschienene Ode dieser Gruppe ist nicht mehr aufgenommen. Sie wie die Nachzügler der römischen Zeit stehen auf besonders paginierten Blättern. Auf die Textabweichungen der den Reinschriften vorhergehenden Entwürfe nehme ich nur in ausgewählten Fällen Rücksicht. Ihr Hauptunterschied von den endgültigen Fassungen liegt in der Wortstellung und der vielfach abweichenden Bestimmung der Versgrenzen: hier ist die durchgehende Tendenz, von freieren, mehr mit den Bedürfnissen der deutschen Sätze und Satzglieder übereinstimmenden metrischen Gebilden der Odenform zu strengeren, den griechischen Vorbildern sowohl im einzelnen Bau als im Parallelismus mehr oder weniger nahestehenden Strophen überzugehen. Um von diesen verworfenen Vorstufen einen Begriff zu geben, habe ich drei Strophen der ältesten Ode als Beispiel amnerkungsweise unten mitgeteilt. ^</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Als Gesandter in Wien</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Elfter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif11humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1904">1904</date>
+                  </imprint>
+                  <biblScope unit="page" from="1" to="1"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="11.1" xml:id="pbXI1"/>
+            <head>
+               <title type="main">I. Als Gesandter in Wien.</title>
+            </head>
+            <div type="section" n="1">
+               <head>
+                  <title type="main">I.— XVII. Aus den Wiener Berichten.</title>
+               </head>
+               <p>.1;» 14. Juni iSio wurde Huinbuldt zum preußischen Gesandten in Wien ernannt und traf am 2:2. September an seinem Bestimtnungsort ein. Er weilte, einen mehrwöchentlichen Urlaub im Jahre iSij abgerechnet, bis zum 7. Juni 181 j dort. Aus den ungemein zahlreichen und umfangreichen Berichten, die er während dieser Jahre seinem Hofe abstattete, teilen wir einige Stellen mit, die seine Auffassung der Politik Preußens und Österreichs in dieser kritischen Zeit, der inneren Zustände dieses Landes, der leitenden Persönlichkeiten beleuchten, auch seine Anschauungen von der Politik Frankreichs und Rußlands und von den Vorgängen in Spanien wiedergeben.</p>
+
+               <p>I. Aus den Wiener Berichten.</p>
+
+               <p>(Dechiffrierte Abschriften im Geh. Staatsarchiv.)</p>
+
+               <p>Gegen ein preufsiscli-französischcs Bündnis.</p>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">No. 7. \'icnne cc 2-^ .hinvicr iNii. V. M. a daigne me faire connoitrc par Son tres-gracieux Re-</title>
+               </head>
+               <p>script du 12 de ce mois qu'FJle fait connoitre ii rKmpereur Napoleon son desir d'unir la Prusse dtroitement avec la France. Je ne sais si une pareille union renfermeroit une veritable alliancc Offensive et defensive avec ia P&gt;ance; mais il est certain que dans ce cas le Systeme politique actuel de la Prusse seroit certainement changd et deviendra tout i\ fait dilVerent de celui dans lequel i'dcrivis mon rapport du 2. Janvier*) oü je supposois quc \'. M.</p>
+
+               <p>*,' Dort heißt es: Quelque determination que V. M. prcnne, je trouvcrois</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Antrag auf Berufung von J. Becker</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif10humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1903">1903</date>
+                  </imprint>
+                  <biblScope unit="page" from="226" to="227"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="10.226" xml:id="pbX226"/>
+            <p>mit 500 Rthlr. Gehalt jährlich zu berufen. Die Erfüllung des mir vom Professor Reil geäusserten Wunsches, den ihm von Ew. Königl. Majestät früher ertheilten Titel eines Ober-Bergraths beibehalten zu können, dürfte wohl, da der p. Reil auf diese Sache Werth zu setzen scheint, keiner Schwierigkeit unterliegen.</p>
+
+            <p>Sobald alsdann die definitive Annahme des Professor Reil erfolgt sein wird, werde ich Ew. Königl. Majestät die für ihn auszufertigende Bestallung zur allerhöchsten Vollziehung vorzulegen nicht verfehlen.</p>
+
+            <p>Berlin, den 5. Februar 1810.</p>
+
+            <p>Humboldt. An Seine Majestät den König.</p>
+
+            <head>
+               <title type="main">XLII. Antrag auf Berufung von J. Becker.</title>
+            </head>
+            <p>22. Februar 1810. (Konzept in den Akten des Kultusministeriums, Abschriß im Geh. Staatsarchiv; auf Grund eines Entwurfs von Süvern von Humboldt überarbeitet.)</p>
+
+            <p>Unter den jungen Gelehrten des Preussischen Staats, von denen die Section des öifentlichen Unterrichts vorzügliche Wirksamkeit für ihre Zwecke erwarten darf, zeichnet sich ganz besonders der D. Becker aus, welcher in Halle studirt hat, Mitglied des dortigen philologischen Seminarii war, noch im Jahre 1806 von dem aufgelöseten Ober-Schulcollegio zum Inspicienten und Gehülfen an demselben auf sehr vortheilhafte Empfehlung des Directors dieses Instituts, Geheimen Raths Wolf, ernannt wurde und sich jetzt auf einem adelichen Landsitze unweit Berlin aufhält, wo er der Erziehung der Kinder des Gutsherrn und den Wissenschaften lebt. Er vereinigt eine für seine Jahre höchst seltene wissenschaftliche Tiefe mit aller Kunst und Gewandtheit<pb n="10.227" xml:id="pbX227"/> Allg. Litteratur-Zeitung sich einen bedeutenden Namen und Achtung in der gelehrten Welt erworben. Die Section des öffentlichen Unterrichts rechnet auf ihn als einen der geistreichsten und thätigsten Mitarbeiter zur Bildung tüchtiger Schulmänner an der hier zu errichtenden Universität und wagt es, ihn Ew. Königl. Majestät zum ausserordentlichen Professor an derselben vorzuschlagen. Da er aber hier doch nicht unmittelbar in Thätigkeit kommen kann, so wünschte sie, dass er für jetzt auf einige Zeit ins Ausland und namentlich nach Paris reisen dürfte, um die dort vorhandenen Schätze der Litteratur und Kunst und vorzüglich die Handschriften der grossen Kaiserlichen Bibliothek benutzen zu können. Ausserdem, dass dieser Mann durch eine solche Reise seine eigne ge- lehrte Bildung vollendete, dürfte man sich von seinem Aufenthalte dort eine sehr reiche Ausbeute für das philologische Fach versprechen, und um seine Thätigkeit desto nützlicher zu machen, müsste er bestimmte Aufträge von der philologischen Klasse der Akademie der Wissenschaften erhalten und so lange als ihr Ad» junct angesehen werden. Er würde auf diese Weise sich künftig für die Universität ungleich nutzbarer machen und jetzt der Akademie sehr erspriessliche Dienste leisten, da Akademien, wenn sie wahrhaft nützlich sein sollen, solcher jüngeren Männer bedürfen, um die Materialien zu sammeln, welche die eigentlichen Mitglieder nachher auf vielfache Weise bearbeiten. Gewiss aber würden nur sehr wenige im Stande sein, von den Handschriften der Pariser Bibliothek einen so zweckmässigen Gebrauch zu machen als der p. Becker.</p>
+
+            <p>Indem daher die Section des öffentlichen Unterrichts bei Ew. Königl. Majestät devotest darauf anträgt: den D. Becker zum ausserordentlichen Professor für die hiesige Universität mit einem Jahrgehalte von 500 Thlr. gnädigst zu ernennen, bittet sie zugleich ehrfurchtsvoll: ihm die huldreiche Erlaubniss zu einem anderthalbjährigen Aufenthalte in Paris, wozu ihn das vorgeschlagene Gehalt in den Stand setzen würde, zu ertheilen, mit der Verbindlichkeit, die Aufträge der Section des öffentlichen Unterrichts und der philologischen Klasse der Akademie der Wissenschaften als einer von den Adjuncten der letztern auszurichten.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

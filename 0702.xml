@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Anhang. Alexander von Humboldts Vorwort zum Kawiwerk</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Siebenter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif0701humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1907">1907</date>
+                  </imprint>
+                  <biblScope unit="page" from="345" to="349"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="7.345" xml:id="pbVII345"/>
+            <head>
+               <title type="main">Anhang.</title>
+            </head>
+            <div type="section" n="1">
+               <head>
+                  <title type="main">Alexander von Humboldts Vorwort zum Kawiwerk.</title>
+               </head>
+               <p>Ich erfülle eine ernste und traurige Pflicht. Indem aus dem literarischen Nachlasse meines Bruders kaum ein Jahr nach seinem Hinscheiden dieses Werk der Oeftentlichkeit übergeben wird, habe ich einige Worte über die Einrichtung und Abtheilung desselben zu sagen. Es würde bei der individuellen Richtung meiner Studien eine leichtsinnige Zuversicht verrathen, wenn ich hier mehr, als die äussere Form berührte und es wagte, dem Verewigten auf der von ihm durchlaufenen Bahn in das unermessene Reich der Sprache zu folgen.</p>
+
+               <p>Die Arbeit erscheint zwar in einer in sich abgeschlossenen Gestalt, doch würde sie gewiss in einzelnen Theilen von der eignen Hand des Verfassers noch manche Umwandlung und grössere Vollendung erfahren haben. Der Einleitung, welche den Einfluss der Sprache auf die geistige Entwicklung der Menschheit darstellt, waren manche Zusätze vorbehalten, die in belebenden Gesprächen angedeutet, aber nicht niedergeschrieben wurden. Nur der Druck des ganzen ersten Buches ist von meinem Bruder selbst besorgt worden; die genaueste Durchsicht des Manuscripts aber und die Herausgabe des ganzen Werkes in seiner gegenwärtigen Gestalt verdanken wir dem Fleisse und der wissenschaftlichen Bildung eines jungen Gelehrten, der viele Jahre lang einem ehrenvollen Vertrauen durch die treueste Anhänglichkeit entsprochen</p>
+
+               <p>Erster Druck: Wilhelm von Humboldt, Über die Kawisprache auf der Insel Java i, III—X (1836).<pb n="7.346" xml:id="pbVII346"/> hat. Herr Dr. Buschmann, Gustos bei der Königlichen Bibliothek, dem Verewigten durch einen ihm theuren Freund, Professor Bopp, empfohlen, war durch die Mannigfaltigkeit seiner Kenntnisse und seinen Eifer für die Sprachen des südöstlichen Asiens besonders geeignet, eine solche Hülfe darzubieten.</p>
+
+               <p>Das zweite Buch, mit welchem der folgende Theil beginnen wird, stellt den grammatischen Bau der Kawisprache, aus dem Heldengedichte Brata Yuddha entwickelt, in fortwährender Ver- gleichung mit allen übrigen bekannten Malayischen und Südsee- Sprachen dar. In dem dritten Buche ist der Charakter jedes dieser Idiome einzeln bestimmt, besonders der des Madecassischen, Tagalischen, Tongischen, Tahitischen und Neu-Seeländischen. Die Völkerverhältnisse jener grossen Inselwelt und ihre gemeinsamen, durch so vielartige Analogien verkündigten Ausstrahlungen führen merkwürdigerweise, aber nur in wenigen Einzelheiten den Forscher auf den festgegründeten Boden des Sanskrit zurück. Da mein Bruder kurz vor seinem Tode neue und wichtige Mittheilungen von Herrn Crawfurd in London empfing, so hat er Nachträge zu einigen, die Sprache betreffenden Stellen des ersten Buches den folgenden Büchern einverleibt.</p>
+
+               <p>Unter den auswärtigen Gelehrten, deren Mittheilungen dieses Werk besonders bereichert haben, verdient den ersten Rang der talentvolle Verfasser der History of the Indiajt Archipelago und der Embassy to the Court of Ava, Herr John Grawfurd, welcher aus dem grossen Schatze seiner Sammlung von Schriften in Malayischen Sprachen drei handschriftliche Javanische Wörterbücher und eine handschriftliche Javanische Grammatik, wie auch eine Abschrift des oben erwähnten Kawi-Gedichtes dem Verewigten zu freiestem Gebrauche überlassen hatte. Bei der Unzulänglichkeit aller öffentlichen Hülfsmittel wäre es ohne jene Mittheilung unmöglich gewesen, sich der Javanischen und Kawi-Sprache in ihren Eigen- thümlichkeiten ganz zu bemeistern. Herr Crawfurd, dessen per- sönlichen Umganges ich mich am frühesten in Paris zu erfreuen gehabt habe, wird den Ausdruck der Dankbarkeit beider Brüder gewiss mit demselben Wohlwollen aufnehmen, mit dem er so wichtige, ganz durch eigenen Fleiss gesammelte Materialien zu erfolgreicher Benutzung dargeboten hat.</p>
+
+               <p>In allem, was die Philosophie der Sprachkunde oder den Organismus der Sanskritsprache insbesondere betrifft, hat sich mein Bruder immerfort bis zu seinem Tode vertrauungsvoll mit<pb n="7.347" xml:id="pbVII347"/> einem Manne berathen, welcher durch die Bande einer langbewährten Freundschaft und gegenseitigen Achtung mit ihm ver- bunden war und durch seinen Scharfsinn und seine unermüdete Thätigkeit einen stets wachsenden Einfluss auf die Richtung des vergleichenden, allgemeinen Sprachstudiums ausübt. Herr Professor Bopp empfing von dem Verewigten jeden vollendeten Bogen des ersten Buches mit Aufforderung zu strenger Kritik. Dem geistig belebenden Einflüsse eines solchen Freundes gebührt hier eine öftentHche, dankbare Anerkennung.</p>
+
+               <p>Wenn es dem, dessen ^^erlust wir betrauern, vergönnt war, durch die Macht seiner Intelligenz und die nicht geringere Macht seines Willens, durch Begünstigung äusserer Verhältnisse und durch Studien, welche der häufige Wechsel des Aufenthalts und sein öffentliches Leben nicht zu unterbrechen vermochten, tiefer in den Bau einer grösseren Menge von Sprachen einzudringen, als wohl noch je von einem Geiste umfasst worden sind, so dürfen wir uns doppelt freuen, die letzten, ich darf wohl hinzusetzen, die höchsten Resultate dieser, das ganze Sprachgebiet berührenden Forschungen in der Einleitung dieses Werkes entwickelt zu finden. Ich müsste fast den ganzen Kreis der wissen- schaftlichen Verbindungen meines Bruders durchlaufen, die er auf seinen Reisen in Deutschland, England, Frankreich, Italien und Spanien angeknüpft hatte, wenn ich die einzelnen Personen nennen sollte , die ihm in jenen allgemeinen Untersuchungen und bei Gründung der grossen linguistischen Sammlung nützlich gewesen sind, welche nach seinem letzten Willen der Königlichen Bibliothek einverleibt wurde. Geistreichen und sprachgelehrten Männern, mit denen der Verewigte durch Briefe in literarischem Verkehre stand, Aug. Wilh. von Schlegel, Gottfr. Hermann, dem ihn die Uebersetzung des Aeschyleischen Agamemnon (mitten unter den Stürmen des Krieges) genähert hatte, Silvestre de Sacy, Gesenius, Burnouf, Thiersch, Lassen, Du Ponceau in Philadelphia, John Pickering in Salem, Rosen in London, P. von Bohlen in Königsberg, Stenzler in Breslau, Pott in Halle, Lepsius in Rom, Neumann in München, Kosegarten, dem Aegyptischen Reisenden G. Parthey, Champollion, Abel-Remusat, Klaproth und Friedrich Ed. Schulz, welcher in einem ruhmvollen Unternehmen den Tod im Orient fand, sind viele seiner allgemeinen Ansichten, wie sie sich ihm allmählich darboten, zur Prüfung vorgelegt worden. Was mein Bruder dem tiefen Kenner des gesammten classischen Alter<pb n="7.348" xml:id="pbVII348"/>348 thums, unserem Freunde August Böckh und besonders dessen glücklichen Forschungen über allgemeine Metrik und den vielartigen Einfluss Hellenischer Stammverschiedenheit schuldig war, davon zeugen die nachfolgenden Blätter.</p>
+
+               <p>Auf den engeren Cyclus der Sprachen mich beschränkend, welche in dem Werke selbst einzeln zergliedert sind, erwähne ich dankbar für das Javanische den Baron van der Capellen, ehe- maligen General-Gouverneur der Holländischen Besitzungen in Indien, den Grafen von Minto, von welchem mein Bruder den Abguss der grossen, durch Raffles berühmt gewordenen Javani- schen Inschrift erhielt, den sprachkundigen Roorda van Eysinga und Herrn Gericke zu Batavia; für das Malayische den belehrenden Briefwechsel mit Sir Alexander Johnston, Dr. William Marsden und dem kenntnissvollen Herrn Jacquet zu Paris; für das Made- cassische und die Sprachen der Südsee-Inseln Herrn Freeman, Missionar zu Tananarivo auf Madagascar, Professor Meyen in Berlin, den Dr. Meinicke zu Prenzlow, Lesson in Paris und Adalbert von Chamisso, der mit verjüngtem Eifer die Sprache der Sandwich- Inseln erforscht, welche er selbst früher zu besuchen das Glück gehabt hat.</p>
+
+               <p>Wie in dem Werke, das wir jetzt mittheilen, die Sprachen der Asiatischen Inselwelt behandelt worden sind, so hat der Verewigte nach gleichen Ansichten und im Einzelnen noch ausführlicher die Amerikanischen Sprachen bearbeitet, deren Studium ihn viele Jahre lang auf das ernsteste beschäftigte. Ein grosser Theil dieser Vorarbeiten ist zur Herausgabe geeignet und ich hoffe, dass Herr Buschmann, der selbst in einem wenig bekaijnten Theile Neuspaniens gelebt hat und mit dem mein Bruder die Absicht hatte gemeinschaftlich eine Reihe von Schriften über die Sprachen dieses Welttheils herauszugeben, bald Müsse finden werde, mit Hülfe der bereits angesammelten Materialien jenen vielumfassenden Plan auszuführen. Was in dem vorliegenden Südasiatischen Werke auf die Amerikanische Sprachfülle hindeutet, erregt den lebhaf- testen Wunsch, so wichtige Hülfsmittel zur Kenntniss der Idiome des Neuen Continents von den Freunden einer allgemeinen philosophischen Linguistik benutzt zu sehen. Dem Plane des Hingeschiedenen gemäss wird ein Mexicanisch-Lateinisches Wörter- buch sammt einer Grammatik das neue Unternehmen beginnen. Ich kann der, durch die Huld des Monarchen in neuerer Zeit so bereicherten Königlichen Bibliothek, in welcher die eben erwähnten<pb n="7.349" xml:id="pbVII349"/> Manuscripte zu öffentlichem Gebrauch niedergelegt sind, nicht gedenken, ohne nicht zugleich, wie aus einer Vermächtniss-Schuld, dem als Sprach- und Geschichtsforscher gleich hochgeachteten Oberbibliothekar, Herrn Geheimen Regierungsrath Wilken, den innigsten Dank für die zuvorkommende Güte zu zollen, mit der er alles dargeboten hat, was der Ausarbeitung und Herausgabe dieses Sprachwerkes förderlich seyn konnte. Die leichte und stete Benutzung einer öffentlichen Sammlung wurde durch die geringe Entfernung des freundlichen Landsitzes begünstigt, wo der Verewigte, einsam^ in der Nähe eines Grabes, von dem Hauche alter Kunst umweht, seinen ernsten Studien, grossen Erinnerungen an eine vielbewegte Zeit und einer Familie lebte, an der er bis zur Todesstunde mit weichem, liebendem Herzen hing.</p>
+
+               <p>„Es ist," nach dem Ausspruch eines der Edelsten unseres Zeitalters,<note type="footnote" n="*)" resp="gnd-116890657"><hi>Schiller in den philosophischen Briefen. (Werke. XL 336.) ^) V Vgl. Sämmtliche Schriften 4, ^8.</hi></note> „ein gewöhnliches Vorurtheil, den Werth des Menschen nach dem Stoffe zu schätzen, mit dem er sich beschäftigt, nicht nach der Art, wie er ihn bearbeite t." Wo aber der Stoff gleichsam die Form beherrscht und herv^orruft, wo Anmuth der Sprache sich aus dem Gedanken, wie aus des Geistes zartester Blüthe entfaltet, da wird die Trennung, welche jenes Vorunheil bezeichnet, leicht gehoben. Wenn nicht alle meine Hoffnungen mich täuschen, so muss das vorliegende Werk, indem es den Ideenkreis so mächtig erweitert und in dem Organism.us der Sprache gleichsam das geistige Geschick der Völker deuten lehrt, den Leser mit einem aufrichtenden, die Menschheit ehrenden Glauben durchdringen. Es muss die Ueberzeugung darbieten, dass eine gewisse Grösse in der Behandlung eines Gegenstandes nicht aus intellectuellen Anlagen allein, sondern vorzugsweise aus der Grösse des Charakters, aus einem freien, von der Gegenwart nie beschränkten Sinne und den unergründeten Tiefen der Gefühle entspringt.</p>
+
+               <p>Berlin, im März 1836.</p>
+
+               <p>Alexander v. Humboldt.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

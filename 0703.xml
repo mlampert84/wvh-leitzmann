@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bemerkungen zur Entstehungsgeschichte des Aufsatzes</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Siebenter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif0701humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1907">1907</date>
+                  </imprint>
+                  <biblScope unit="page" from="350" to="351"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="7.350" xml:id="pbVII350"/>
+            <head>
+               <title type="main">Bemerkungen zur Entstehungsgeschichte des Aufsatzes.</title>
+            </head>
+            <p>/. über die Verschiedenheit des menschlichen Sprachbaues und ihren Einfluß auf die geistige Entwicklung des Menschengeschlechts (vgl. Haym, Wilhelm von Humboldt S. 44j; Benfey, Geschichte der Sprachwissenschafl und orientalischen Philologie in Deutschland S. S34; Pott, Wilhelm von Humboldt und die Sprachwissenschaft S. CCCCII; Steinthal, Die sprachphilosophischen Werke Wilhelms von Humboldt S. i4s; Delbrück, Einleitung in das Studium der indogermanischen Sprachen * S. 41).</p>
+
+            <p>Schon Band 6, jj4 ist der letzten Phase der sprachwissenschaftlichen Arbeiten Humboldts gedacht worden, in der seit etwa 182-] der malaiische Sprachstamm in den Mittelpunkt seiner Betrachtungen trat: an ihn sollten sich nun die allgemeineren sprachphilosophischen Erörterungen anschließen. In dem großen Werk über die Kawisprache, das als solches wie die übrigen streng fachwissenschaftlichen Arbeiten von unsrer Ausgabe ausgeschlossen bleibt, ist dieser Plan ausgeführt: das Werk selbst gab die erste vergleichende Grammatik der malaiisch-polynesischen Idiome und schuf damit eine sichere Grundlage der Erkenntnis, auf der die Folgezeit weitergebaut hat; in der Einleitung liegt ims Humboldts letzte Gestaltung seiner sprachphilosophischen Ideen vor. Seit dem Sommer 1830 finden wir den durch den Tod der Gattin Vereinsamten ununterbrochen bis an sein Lebensende mit diesen Arbeiten beschäßigt; auch die Leiden und Unbequemlichkeiten eines rasch hereinbrechenden Alters vermochten die unglaubliche Arbeitskraft nicht wesentlich zu vermindern (Humboldt an Welcher, 2g. Januar i8jo; an Stein, 2^. Mai i8jo; an Schlegel, 6. Juni 1830 und 24. Oktober i8j2; an Bopp, 1832— i8js; an Pickering, 20. Juli 1834 i vgl. auch Briefe von Alexander von Humboldt an Bunsen S. ig). Einzelne Abschnitte, auch aus der Einleitung, sind in den Klassensitzungen der Akademie vorgetragen worden, worauf einige redaktionelle Bleistiftnotizen in den Manuskripten, für den mündlichen Vortrag bestimmt, hindeuten. Nur das erste Buch des eigentlichen Kawiwerks konnte der Verfasser noch selbst im Druck überwachen, der während der Jahre i8jj und i8j4 stattfand (vgl. Briefe von Alexander von Humboldt an Varnhagen S. ij). Am zweiten und dritten Buch imd an der allgemeinen Einleitung hat er uytablässig gefeilt, bis der Tod den Rastlosen abberief. Weiteres gibt die als Anhang oben beigefügte Vorrede des Bruders (vgl. über sie auch Briefe von Alexander von Humboldt an Varn<pb n="7.351" xml:id="pbVII351"/>hagen S. joj. Im Anschluß an die Gedächtnisrede auf den Verewigten hat Böckh in der Leibnizsitzung der Akademie am g. Juli 18^5 das glänzende Kapitel über Poesie und Prosa verlesen. Erst vier Jahre nach Humboldts Tode lag das ge- samte Werk in drei starken Quartbänden gedruckt vor. Der Lobeshymnus auf Buschmanns editorische Tätigkeit an Humboldts Manuskripten, den Alexander in seiner Vorrede anstimmt, muß, wie schon Band 5, 477 gezeigt worden ist, stark abgetönt werden. Die dort gerügten Willkürlichkeiten finden sich auch hier und es schien mir angebracht, hier radikal auf Humboldts Wortlaut und originale Einrichtung seiner Arbeit zurückzugehen, wobei sich zugleich die Verbesserung manches Lese- oder Hörfehlers ergab. Auch die von Buschmann neu eingeführten Paragraphenzahlen sind durch die älteren humboldtschen ersetzt, ebenso der so störende viele Sperrdruck und der Überfluß an Interpunktionen beseitigt, die beide mit Humboldts Praxis in direktem Widerspruch stehen imd der Arbeit ein ganz fremdartiges Gepräge aufdrücken.</p>
+
+            <p>Jena, 28. Juli igoj.</p>
+
+            <p>Albert Leitzmann.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

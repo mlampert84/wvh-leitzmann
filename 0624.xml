@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bemerkungen zur Entstehungsgeschichte der einzelnen Aufsätze</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Sechster Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif0602humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1907">1907</date>
+                  </imprint>
+                  <biblScope unit="page" from="609" to="613"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="6.609" xml:id="pbVI609"/>
+            <head>
+               <title type="main">Bemerkungen zur Entstehungsgeschichte der einzelnen Aufsätze.</title>
+            </head>
+            <p>12. Von dem grauimatischen Baue der Sprachen (vgl. Steinthal, Die sprachphilo.sophische)i Werke Wilhelms von Humboldt S. gj.</p>
+
+            <p>Über die Entstehungszeit dieses Torso, der als eingehende mssenschaßliche Darstellung aller vorhandenen menschlichen Sprachtypen gedacht war, und seine Stellung innerhalb der Reihe der sprachvissenschaftlichen Schriften Humboldts ist schon bei Gelegenheit der zehnten Abhandhmg dieses Bandes gehandelt worden, tnit der die vorliegende im engsten Zusammenhange steht: beide sollten nach der Vollendimg zu einem größeren Ganzen vereinigt werden. Bei den Untersuchungen über den Bau der Sanskritsprache hatte sich Humboldt des Rats und Urteils von Bopp zu erfreuen, dem dieser ganze Teil der Arbeit im Frühjahr 182g zur Begutachtung vorgelegt wurde (an Bopp, 5. März imd 14. Juli 182g). Noch im .Anfang des Jahres i8jo bestand der Plan, diese Analyse des Sanskrit, die ursprünglich mehr sprachvergleichend gedacht und zu selbständiger Veröffentlichung bestimmt gewesen zu sein scheint, mit dem großen malaiischen Sprachwerke zu verbinden (Humboldt an Bopp, 6. Februar 18^0).</p>
+
+            <p>ij. Kunstvereinsbericht vo)ii 7. April i8jü.</p>
+
+            <p>14. Über Schiller und den Gang seiner Geistesentwicklung (vgl. Haym, Wilhelm von Humboldt S. 611; Briefwechsel zwischen Schiller und Wilhelm von Humboldt * S. j4j. 421).</p>
+
+            <p>Als Goethe sich im Sommer 182^ mit der Durchsicht seines Briefwechsels mit Schiller für eine künftige Herausgabe beschäftigte, forderte er auch Humboldt, der ihm für den Winter einen Besuch in Aussicht gestellt hatte, auf, die in seinem Besitz befindlichen Briefe Schillers hervorzusuchen und zu gemeinsamer Lektüre nach Weimar mitzubringen (Briefe j7, g^). Als dann Humboldt im November des Jahres nach Weimar kam, ließ er Schillers Briefe an ihn bei Goethe zurück, der sich gleich in ihr Studium versenkte (Tagebücher g, 144; Gespräche 4, ji8' und sie dann an Schillers Wtwe weiterzugeben versprach, die Humboldt darum gebeten hatte (Karoline von Wolzogen, Literarischer Nachlaß ^ /, 426. 428J. Nach ihrem Tode im Jahre 1826 kamen die Briefe an Schillers Söhne, von denen sich besonders Ernst für die literarische Hinterlassenschaft</p>
+
+            <p>W. V. Humboldt, Werke. VI. 39<pb n="6.610" xml:id="pbVI610"/> seines Vaters lebhaft und tätig interessierte. Ende des Jalires bereits schloß dieser mit Cotta einen Kontrakt über eine neue Ausgabe von Schillers Werken ab, denen eine Biographie Schillers von Karoline von Wolzogen und sein Briefwechsel mit Humboldt als Supplemente beigegeben werden sollten (Bi-ießvcclisel zwischen Schiller und Cotta S. ^y8. ^S6; Schillers Sohn Ernst S. jo). Beide Schrißen sind dann bekanntlich nicht als Supplemente, sondern separat erschienen. Humboldt erklärte sich Karoline von Wolzogen gegenüber mündlich mit dem Plane der Herausgabe einverstanden, wünschte jedoch alle Briefe vor der Drucklegung durchzusehen (Schillers Sohn Ernst S. ^O"]). General von Wolzogen ließ in Frankfurt Abschriften anfertigen, die sich dann allerdings als sehr fehlerhaft und darum unbrauchbar erwiesen, und im Herbst 182g ging das gesamte Manuskript nebst den Originalen zur Durchsicht an Humboldt ab (ebenda S. J04. jo8. jio. ^44. ^46. J5/. 5^52. ^S3- 359 j Humboldt an Karoline von Wolzogen, 6. März i8ß0). Nach der genauen Prüfung der vorhandenen Reste der einst so umfangreichen Korrespondenz, die nahezu den ganzen Winter i82gljo in Anspruch nahm, hatte Humboldt nicht übel Lust sein Versprechen zurück zunehftten und sich ganz gegen die Herausgabe der Briefe zu erklären, glaubte jedoch schließlich nicht ohne Härte gegen Schillers Erben diesen Standpunkt einnehmen imd behaupten zu können: er fand namentlich seine eigenen Briefe zu philosophisch-spekidativ, zu sehr in der Art seines Buchs über Hermann und Dorothea gehalten, als daß er ihre Publikation wünschen könne; selbst Schiller erscheine, durch ihn zur Spekulation verführt, weniger gehaltreich als sonst und das Buch werde auf das Publikum langweilig wirken (an Ernst Schiller, 2^. Oktober 182g; an Körner, 12. Februar 18^0; an Karoline von Wolzogen, 10. April i8jo). Die Durchsicht, der alles für Lebende irgendwie Verletzende und alles Uninteressante und Gleichgültige zum Opfer fallen sollte, fiel recht imbarmherzig aus: obgleich Humboldt natürlich sehr wohl einsah, daß dieses Prinzip, mit Konsequenz durchgeführt, einem Briefwechsel jegliche Individualität benimmt, hat er doch sehr vieles psychologisch und literarhistorisch Wichtige ausgemerzt, und während er früher sich gern denen zuzählen mochte, die in Schillers Briefwechsel mit Goethe niclit einmal die wirklich bedeutungslosen Billette wegwünschen können, fand er jetzt, daß Goethe bei weitem nicht streng genug gesichtet habe (an Karoline von Wolzogen, Februar 182g und 6. März 18^0; an Ernst Schiller, 2j. Oktober 182g; an Körner, 12. Februar 18^0; an Schlegel, 11. Juni i8ßo; an Charlotte Diede, 2. August 18^2). Er selbst lebte während dieser Monate ganz in der Wehmut der Rückerinnerung an die glücklichste Zeit seines Lebens, eben die Jahre, in denen er zusammen mit seiner jungen Gattin Schillers Freundschaft wie kaum ein Zweiter genossen, und diese Gefühle machten ihm die Arbeit besonders lieb (an Ernst Schiller, 2j. Oktober 182g; an Karoline von Wolzogen, lO- April i8jo; an Stein, 25. Mai i8ßo; an Goethe, 4. September 18^0; an Schlegel, 24. Oktober i8j}0j. Das revidierte Manuskript wurde dann im Februar und März 18^0 partienweise noch Körners kritische?)! Auge unterbreitet, der in lebhaßem Briefwechsel mit Humboldt allerlei Einzelheiten kritisierend, erläuternd, dankbar genießend erörterte (Briefwechsel zwischen Schiller und Humboldt ^ 5. ^28); am w. April ging es druckfertig an Karoline von Wolzogen ab, die die Besorgung an Cotta übernommen hatte.</p>
+
+            <p>Seit Schillers Tode hatte Humboldt den Wimsch und das Bedürfnis empfunden,<pb n="6.611" xml:id="pbVI611"/> sich öffentlicli über ihn zu äußern und sein Bild vor der undankbaren Nac/nvelt so darzustellen, wie es aus eigenster persönlicher Kenntnis vor seinem inneren Auge lebte; mehrmals war er nahe daran gewesen, diesen Gedanken auszuführen, aber immer hatte eine eigene Scheu ihn schließlich zurückgehalten, wie wenn er etrvas Heiliges vor profanen Augen enthüllen sollte (an Karoline von Wolzogen, 8. Mai iSjo; an Körner, /j. Mai i8jo; an Ernst Schiller, 2j. Mai 18^0; an Rennenkampß', 28. Juli iSjiJ. So war es ihm auch wieder beim Beginn und sogar noch beim Abschluß der Durchsicht der Korrespondenz, die ja die natürlichste Gelegenheit zu einer solchen Charakteristik Schillers gab, zweifelhaft, ob er diesmal diese Scheu überwinden und die Stimmung finden werde, über den verewigten Freund zu reden (an Ernst Schiller, 2^. Oktober 182g; an Karoline von Wolzogen, 6. März i8jo). Im April und beginnenden Mai i8jo hat er dann die Vorerimierung niedergeschrieben, noch heute eine der tiefsten, wahrsten und glänzendsten Charakteristiken, die wir von Scliiller besitzen, und nur mit Goethes mannigfaltigen poetischen und prosaischen Würdigungen seines großen Freundes zu vergleichen. Am 75. Mai sandte er sie Körner zur Beurteilung zu; nach nochmaliger genauer Durchsicht, die besonders bestrebt war, den arg verschlungenen Periodenbau einfacher und ßüssiger zu gestalten, wurde sie gegen Ende Mai endgültig abgeschlossen (an Karoline von Wolzogen und an Welcher, 8. Mai iSjo; an Körner, 75. und 23». Mai i8jo; an Ernst Schiller, 2j. Mai 18-^0; an Varnhagen, 27. Mai i8jo). Im Oktober konnte er die ersten gedruckten Exemplare der Vorerinnerung an die auswärtigen Freunde versenden (an Varnhagen, 12. Oktober i8ßo; an Schlegel, 24. Oktober i8jo; an Karoline von Wolzogen, 27. Oktober i8jo; an Goethe, 28. Oktober i8jo).</p>
+
+            <p>Der Erfolg des Briefwechsels im Publikum übertraf alle Erwartungen: er wurde viel mehr gelesen, als Humboldt zu hoffen gewagt hatte, und von manchen begeisterten Lesern, besonders von Frauen, gingen ihm ausführliche Zuschriften zu, wie sehr die darin lebende Ideenwelt sie ergriffen habe, ein Umstand, der Humboldt auch über den spekulativen Inhalt der Briefe gerechter und milder als früher urteilen lehrte (an Charlotte Diede, 2. August 18^2). Am tiefsten war die Wirkimg der Vorerinnerung naturgemäß bei den nächsten Freunden, die Schiller selbst gekannt hatten. Körner schrieb an Karoline von Wolzogen, sie sei geist- voll und im Stil klarer als andre humboldtsche Arbeiten, das Charakteristische in Schiller sei mit großer Tiefe aufgefaßt und eine Freundschaft höherer Art wehe durch das Ganze (Literarischer Nachlaß ^ 2, jö^J. Karoline selbst fand, daß nie etwas Schöneres und Wahreres über Schiller gesagt worden sei; seine Geistigkeit werde rein dastehen in der Nachwelt und die Wahrheit dieser Charakteristik von allen besseren Naturen ergriffen werden (Euphorion 12, 801 )■ Von Goethe ist kein Urteil bekannt geworden.</p>
+
+            <p>15. Rezension von Goethes Zweitem römischem Aufenthalt (vgl. Haym S. öog).</p>
+
+            <p>Noch während Humboldt mit der Redaktion seines Briefwechsels mit Schiller beschäßigt war, trat ihm die Aufforderung nahe, auch über Goethe sich öffentlich zu äußern. In einem Briefe vom 12. März i8jo trug ihm Varnhagen im Namen der Herausgeber der Jahrbücher für wissenschaftliche Kritik an, den eben erschienenen dritten Band der Italienischen Reise für diese Zeitschriß zu besprechen,<pb n="6.612" xml:id="pbVI612"/> Humboldt erteilte keine unbedingte Zusage, stellte jedoch einen Aufsat- über Goethes zweiten römischen Aufenthalt innerhalb einiger Monate in wahrscheinliche Aussicht (an Varnhagen, 21. Mär:: iS^o). Seine Beschäftigung mit der Charakteristik Schillers, die ihm zunächst als erschwerendes Mo7nent für die neue Aufgabe erschien (an Varnhagen, 27. Mai iSjo), erwies sich dann doch als im höchsten Sinne anregend für die parallele Charakteristik Goethes und Humboldt hat später ausdrücklich den innigen und imtrennbaren Zusammenhang beider Arbeiten betont (an Goethe, 4. September iSjo; an Schlegel, 24. Oktober i8t^o; an Karoline von Wolzogen, 27. Oktober i8jo; an Rennenkampff, 28. Juli iSji). Die Bändchen der Italienischen Reise, die Varnhagen zur Verfügung gestellt hatte, begleiteten ihn in den Sommeraufenthalt nach Gastein und dort wurde im Juli die Rezension niedergeschrieben (an Goethe, 6. Januar 18^2). Nach der Rückkehr nach Tegel am 20. August ging das Manuskript an Varnhagen ab und wurde unmittelbar in Druck gegeben, so daß bereits in der ersten Hälfte September fertige Exemplare in den Händen des Verfassers waren (Humboldt an Varnhagen, 10. September i8jo). Dem tiefen Geheimnis des dichterischen Genius, der Lösung der Frage, was es denn eigentlich sei, wodurch das Poetische poetisch wird, glaubte Humboldt in den beiden großen Charakter istikeii seiner dichterischen Freunde näher gekommen zu sein (an Rennenkampff, 28. Juli iSjji ; an Goethe, 6. Januar i8j2). Durch den Nachweis, daß Goethes naturwissenschaftliche Studien mit seinen dichterischen Arbeiten aus der gleichen Quelle ßießen, durfte er hoffen einem tieferen Verständnis des Dichters vorgearbeitet zu haben (an Goethe, 4. September 18^0 imd 6. Januar i8j2.) Daß es ihm endlich, der seiner eigenen unvergeßlichen rötnischen Jahre stets wehmutsvoll und innig gedachte, beim Studium von Goethes Werk besonders genußreich war, die Gedanken anhaltend auf Rom zu richten, an das er stets das Höchste imd Beste seijies inneren Daseins angeknüpft fühlte, nimmt nicht wimder {an Goethe, 4. September i8jü).</p>
+
+            <p>Goethe war und mußte von dieser feinsinnigen Charakteristik seines Wesens tief ergriffen und erbaut sein und man fühlt es sowohl seiner monumentalen ersten Dankesäußerung wie dem dann folgenden ausführlicheren Sehr: iben trotz aller wunderlichen Wendungen des greisenhaften Stils deutlich an (vgl. Goethes Briefwechsel mit den Gebrüdern von Humboldt S. 28g; Briefwechsel zwischen Goethe und Zelter 6, 40J. Körner, dem der Aufsatz Anfang August i8jo im Manuskript vorlag, war mit der durchweg bejahenden Tendenz der Charakteristik nicht völlig einverstanden imd glaubte, gerade in dem für Humboldt wichtigsten Punkte abweichender Ansicht, durch allerhand Erwägungen beweisen zu können, daß yveder Goethes naturwissenschaftliche Studien noch seine Beschäftigung mit den bildenden Künsten von vorteilhafter Wirkung auf sein Dichter genie gewesen seien (Euphorion 12, "icß). Von Karoline von Wolzogen ist ein begeistertes Schreiben erhalten, das Humboldt sehr wohl tat (ebenda 12, jgg; Humboldt an Karoline von Wolzogen, 27. Oktober i8jo).</p>
+
+            <p>16. Kunstvereinsbericht vom i ^. Januar 18^1.</p>
+
+            <p>17. Lettre ä monsicur Jacquct sur les ulphabcts de la l'oly- nesie asiatiquc (vgl. Pott, Wilhelm von Humboldt und die Sprachwissenschaft S. CCCLXVIII).</p>
+
+            <p>Dieser Brief, dessen Ergebnisse aufs engste mit den gleichzeitigen Enter<pb n="6.613" xml:id="pbVI613"/>im Juli i6'-^i im Nouvcau Journal asiatique S, i erschienenen Aufsatz „Notice sur l'alphabet yloc ou ylog", besonders auf den ersten Anhang „De la relation et de l'alphabet indien d'Jamboule" (ebenda S. 2o). Umfängliche Materialien zur Geschichte der ostasiatischen Alphabete, die im Nachlaß erhalten sind, haben keine Ausgestaltung mehr gewonnen.</p>
+
+            <p>18. Kunstvereinsbericht vom i. Mai i8j2 (vgl. Haym S. 610J.</p>
+
+            <p>Wie Humboldt auch sonst seinen Berichten im Kimstverein auf irgend eine Weise allgemeineres Interesse zu geben versuchte, so hat er hier die Gelegenheit, die Goethes Hinscheiden bot, zu einer letzten allgemeinen Würdigung des Dichters benutzt, in der er, ohne auf Goethes wissenschaftliche und dichterische Verdienste einzugehen, das menschliche Ganze seiner Wirksamkeit zu schildern und seinen dadurch bedingten Einfluß auf das geistige Leben der Nation darzustellen versuchte (an Rennenkampff, iy. August i8^^2). Die weimarischen Kimsfreunde haben dann den wesentlichen Inhalt dieser Rede unter dem Titel „Über die Eigentümlichkeit von Goethes Einwirkung auf Kunst und Wissenschaß" in das Schlußheft der Zeitschriß „Kunst und Altertum" aufgenommen, das sie nach des Dichters Tode aus seinem Nachlaß zusammenstellten.</p>
+
+            <p>IQ. Kunstvereinsbericht vom i q. März ' &lt;S'^&gt; y</p>
+
+            <p>20. Kunsivereinsbericht vom 2q. März i8j421. Kunstvereinsbericht vom 23». März 18^5.</p>
+
+            <p>Jena, 12. April igo'].</p>
+
+            <p>Albert Leitzmann</p>
+         </div>
+      </body>
+   </text>
+</TEI>

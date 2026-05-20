@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Über die Akademie der Künste</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif10humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1903">1903</date>
+                  </imprint>
+                  <biblScope unit="page" from="32" to="35"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="10.32" xml:id="pbX32"/>
+            <p>hierin Selbständigkeit und Vollendung möglich ist, und dass dies das sicherste Mittel sein dürfte, die Nation aufs neue zu stärken und zu heben und kräftig und wohlthätig auf ihren Geist und Charakter einzuwirken, darin stimmen Ew. Excellenz gewiss mit mir überein.</p>
+
+            <p>Berlin, den 25. März 1809.</p>
+
+            <p>Humboldt. An des Königlichen Staatsministers Herrn Grafen zu Dohna Excellenz.</p>
+
+            <head>
+               <title type="main">V. Über die Akademie der Künste.</title>
+            </head>
+            <p>29. März 1809.</p>
+
+            <p>(Koti-ept in den Akten des Kiiltusministerhans.)</p>
+
+            <p>Die i6gg von Friedrich I. noch als Kurfürst gestißete Akademie der Künste und mechanischen Wissenschaßen hatte nach mancherlei Schicksalen unter dem Kuratorium des Ministers von Heinitz eine glänzende Epoche durchlebt. Nach Heinitz' Tode (180 jj übernahmen Hardenberg und Schrötter das Kw-atorium; seit der Katastrophe des Staates bearbeitete der Oberpräsident von Sack die Angelegenheiten der Akadejnie. Arn 2g. April i8og verßigte Dohna, daß fortan die Akademie der Sektion des öffentlichen Unterrichts unterstellt sei, und forderte Sack zur Abgabe der Akten an den Staatsrat Uhden, der als Vertreter dieser Behörde in Berlin weilte, auf. Jener verzögerte es, und die Akademie erklärte, sie habe den König um Ei-nennung des Prinzen Wilhelm zum Kurator gebeten und wolle die Entscheidung über diesen Antrag abwarten. Dagegen wendet sich Humboldt in dem folgenden Bei'icht an Dohna.</p>
+
+            <p>Ew. Excellenz werden aus dem^ inliegenden Schreiben des Herrn Staatsrath Uhden, w^elches die Sektion des öffentlichen Unterrichts sich die Ehre giebt, Ihnen nebst den beigefügten Piecen vollständig und in originali vorzulegen, zu sehen geruhen, v\de der Herr Geheime Staatsrath und Ober-Präsident Sack die an ihn von Ew. Excellenz unterm 29ten pr. ergangene Verfügung, die Akten und Geschäfte der Akademie der Künste an die unterzeichnete Sektion abzugeben, nicht Folge geleistet, und auch die versprochene offizielle Erklärung über seine Weigerung nicht ab<pb n="10.33" xml:id="pbX33"/>Die Akademie selbst hat zwar in dem an den Herrn p. Uhden Vorgeschriebenermassen eingesandten Conferenz- Protokoll vom oQten Aug. ihre Bereitwilligkeit, die Section des öffentlichen Unterrichts von jetzt an für die ihr vorgesetzte Behörde zu erkennen erklärt, jedoch in einer durch den Herrn p. Sack (aber ohne Zuziehung aller Mitglieder) veranlassten Conferenz beschlossen: bei Sr. Majestät dem König auf die Bestallung eines neuen</p>
+
+            <p>Curators in der Person Sr. Königlichen Hoheit des Prinzen Wilhelm anzutragen, und eine solche Verfassung dieses</p>
+
+            <p>Curatorii vorzuschlagen, bei welcher die Akademie zwar als Lehr-Institut der Section, als Akademie aber allein dem Curatorio untergeordnet sein würde.</p>
+
+            <p>Da dieses Gesuch vermuthlich im Cabinets- Vortrage zur Sprache kommen wird, so ist es die Pflicht der Section, Ew. Excellenz um Erlaubniss zu bitten, Ihnen ihre Ansicht desselben freimüthig vorzutragen.</p>
+
+            <p>Es ist, was zuvörderst bemerkt werden muss, falsch, dass, wie im erwähnten Conferenz-Protokoll gesagt wird, bei der neuen Organisation des Staats ausdrücklich bestimmt sei, dass die beiden Akademien *) eigne Guratoren haben sollen. Die Verordnung vom 24. November 1808 sagt blos p. 21 „soweit sie nicht von besondern Guratoren abhängig sind", bestimmt also nicht neue, sondern schont nur etwaige alte A'^erhältnisse. Bekanntlich aber haben im gegenwärtigen Augenblick die Akademien in Berlin keine Guratoren und mithin fällt diese Einschränkung von selbst hinweg.</p>
+
+            <p>Dagegen ist die Trennung, welche die Akademie der Künste vorschlägt, dem Buchstaben und Sinne jener Verordnung durch- aus zuwider.</p>
+
+            <p>Denn die Section des öffentlichen Unterrichts soll nicht blos «in Ober-Schul-Gollegium, sondern die höchste wissenschaftliche Behörde seyn, und daher nicht allein die Aufsicht über die Lehranstalten, sondern zugleich über alle höhere wissenschaftliche und Kunstvereine führen. Auch ist jene von den Akademien ver- suchte Trennung schon den ersten Grundsätzen nach unstatthaft. Nicht blos die wirklich Unterricht ertheilenden Anstalten, sondern<pb n="10.34" xml:id="pbX34"/> fluss auf den Unterricht und die Xationalbildung überhaupt, und die Behörde, welcher dies wichtige Fach anvertraut ist, darf nicht ausschliesslich auf die erstem beschränkt seyn.</p>
+
+            <p>Dass übrigens Vereine für Wissenschaft und Kunst (wenn sie, was freilich leider bei unsern Akademien noch nicht der Fall ist, durchaus gut besetzt und gut organisirt sind) die nöthige Freiheit gemessen müssen, erkennt die unterzeichnete Section gewiss zuerst und willig an. Allein sie glaubt mit Zuversicht behaupten zu können, dass dieselben diese Freiheit mehr von ihr, als von einem Curator erwarten dürfen, der, wenn er ein Prinz des Königlichen Hauses ist, doch die Leitung dieser Angelegenheiten einem Geschäftsmann übergiebt, und sie beruft sich hierbei auf die Erfahrung, wie viel Freiheit namentlich die Akademie der Künste unter ihren, sonst gewiss äusserst achtungswürdigen Cura- toren genossen hat.</p>
+
+            <p>Wird durch Genehmigung dieses Antrages der Akademie der Grundsatz festgestellt, dass die Section des öffentlichen Unterrichts nur für Lehranstalten bestimmt sei, so löst sich die Akademie der Wissenschaften augenblicklich, und zwar, da sie gar keinen Unterricht ertheilt, gänzlich von ihr ab; so ist wieder zersplittert und getheilt, was jene Verordnung einfach und zweckmässig vereinigt, und so ist die Section nicht mehr im Stande, ihren Zweck in seiner ganzen Ausdehnung und seiner letzten Beziehimg auf Xationalbildung zu erfüllen. Ew. Excellenz sehen selbst, welchen Eindruck die Ablösung der Akademien auf die Universitäten machen müsste, und welchen Geist und Sinn es verrathen würde, das Lehren gleichsam in eine niedrigere Sphäre zu verweisen. Die unterzeichnete Section gesteht freimüthig, dass sie sich nur ungern und bloss weil es einmal hergebracht ist, des Ausdrucks höhere wissenschaftliche Anstalten bedient.</p>
+
+            <p>Selbst wenn beide Akademien Curatoren gehabt hätten, würde die Verordnung vom 24ten November die Section nicht auf diese Weise ausgeschlossen haben. Das Verhältniss zu den Curatoren hätte alsdann einer Bestimmung bedurft, allein nie hätte diese, jener \"erordnung nach, so ausfallen können. Gehet man nun die Gründe durch, aus welchen die Akademie glaubt, einen Curator haben zu müssen, so fällt jeder, einzeln be<pb n="10.35" xml:id="pbX35"/>nur von Sr. Majestät dem König herfliessen können. Se. Majestät aber versagen Ihren Behörden niemals Zutritt und Gehör, und die unterzeichnete Section würde sich nie erlauben anzunehmen, dass Allerhöchstdieselben der Beförderung der Künste in Ihren Staaten nur dann die nöthigen Mittel verleihen, wann dieselbe in der Person eines Curators einen bestimmten Fürsprecher hätten. Ueberdies vv-iderspricht sich der Plan hier selbst in zwei Punkten, da diese Zuschüsse doch immer zur Oekonomie und dem Rechnungswesen der Anstalt gehörten, welche die Section führen soll, auch die Reisen der Eleven gewiss einen Theil der Lehr- und Unterrichtsmittel ausmachen.</p>
+
+            <p>Die Vollziehung der Patente geschieht natürlich, wie bei den Universitätsprofessoren, von Sr. Majestät dem König selbst.</p>
+
+            <p>Wünscht die Akademie, dass bei Preisvertheilungen und öffentlichen Acten ausser ihrem Directorio eine andere Person präsidire, so wird es immer von Ew. Excellenz abhängen, dies selbst zu thun, oder dem Sections-Chef zu überlassen.</p>
+
+            <p>Es bedarf endlich keiner Bemerkung, dass bei einer solchen Theilung die Akademie selbst ungemein leiden würde, indem fast jedes Mitglied unter zwei Behörden stände, die Gränzen gar nicht zu bestimmen wären, und die Colhsionen ohne Zahl sein müssten.</p>
+
+            <p>Dagegen ist die bei der Akademie der Wissenschaften bereits mit Fortgang getroffene Einrichtung, dass der akademische Senat und das Directorium die akademischen Geschäfte von jezt an eben so unter der Leitung der Section, als ehemals unter der des Curatorii führen, ebenso einfach, als zweckmässig. Nichts ist einer Kunstakademie so nachtheilig, als die Vervielfältigung der Geschäftsbehörden.</p>
+
+            <p>Die unterzeichnete Section kann sich nicht enthalten, bei dieser Gelegenheit Ew. Excellenz zu bemerken, dass, ihrer Meinung nach, überhaupt Curatorien (deren Einrichtung sich, wie der Antrag der Akademie es selbst ausspricht, aus Zeiten herschreibt, in welchen Kunst und Wissenschaft, um den Schutz des Staats zu erhalten, noch besonderer Maecenaten bedurften), wenn sie von der obersten wissenschaftlichen Behörde unabhängig sind, oder sich,</p>
+         </div>
+      </body>
+   </text>
+</TEI>

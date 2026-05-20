@@ -1,0 +1,333 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Der Streit um Sachsen und Polen</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Elfter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif11humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1904">1904</date>
+                  </imprint>
+                  <biblScope unit="page" from="172" to="196"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="fr">Français</language>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="11.172" xml:id="pbXI172"/>
+            <p>la Pnissc. l'Autrichc, la Baviere (le Württemberg?), la Hollande, la Suisse, la Sardaigne, le Pape. la Sicile, le Danemark, la Suede, la Russie.</p>
+
+            <p>La marchc tres simple pour chaque objet en particulier serait la suivantc : qifil lut discute jusqu^a la redaction approuvee et para- phee du traite entre et par les Puissances qu'il concerne directement; que le trait^ füt porte au C^omite dirigeant, discute et paraphe par lui; que ce Comit^ convoquät les Plenipotentiaires des Etats qui resteraient encore ä consulter, et que le traite füt aussi approuve par eux. La marche du Congres lui-meme serait: de dresser et publier la declaration sur sa forme; de convoquer et de constituer le Comite dirigeant qui s'occuperait incessamment et de ses fonctions comme tel, et des objets de la troisieme classe; d'etablir les Conferences sur les objets particuliers, et nommement :</p>
+
+            <p>1. Celles pour la distribution des provinces conquises,</p>
+
+            <p>2. Celles sur l'organisation Interieure de TAllemagne.</p>
+
+            <p>Humboldt.</p>
+
+            <head>
+               <title type="main">XXXVL— XXXIX. Der Streit um Sachsen und Polen.</title>
+            </head>
+            <p>Unter den Verhandlungen über die Entschädigung der einzelnen Mächte, die auf dem Wiener Kongreß stattfanden, war die schwierigste die über Sachsen und Polen. Alexander von Rußland verlangte das ganze Herzogtum Warschau, um daraus in Verbindung mit Russisch-Polen ein konstitutionelles Königreich zu bilden. Für die Nachbarmächte Preußen und Österreich war ein solcher Plan höchst gefährlich, da eine derartige Vergrößerung Rußlands für sie bedrohlich,<pb n="11.173" xml:id="pbXI173"/> tiic/t die ErkLinnif;, üb Österreich der Vereinigung^ ganz Sachsens, unter Wahrung von dessen Integrität (es sollte als selbständiges Königreich mit Preußen durch Personalunion verbunden werden) mit Preußen zustimme? Ob man dem Könige von Sachsen die drei Legationen ganz oder teilweise geben wolle'? Ob er verzichte, Mainz an Bayern zu überlassen? Man könnte die Rheinplätze zu Bundes festungen machen. Nach Zusicherung der Unterstützung in diesen Punkten, so erklärte Hardenberg wörtlich, j'entrerai avec vous dans le concert le plus par- fait sur celui de la Pologne. Am -j-j. Oktober antwortete Metternich; seine Note gipfelt in folgenden Sätzen :</p>
+
+            <p>1. Der Kaiser hat nur einen politischen Wunsch, nämlich den, Preußens Absichten und Interessen den seinigen gleich zu achten.</p>
+
+            <p>2. Er rechnet auf gegenseitige Unterstützung und gänzliche Übereinstimmung der von beiden Höfen in der polnischen Frage zu tuenden Schritte.</p>
+
+            <p>•,&gt;. Er macht seine Zustimmung zur Einverleibung des Königreichs Sachsen von den nachenvähnten Vorbehalten abhängig, indem er Se. Preußische Majestät in der dringendsten Weise einladet in Erwägung zu ziehen, ob sie den Zweck, ihre Machtverhältnisse zu ergänzen, nicht erreichen würde, wenn ein Kern dieses Königreichs erhalten, und ihr deshalb die Aufgabe erspart bliebe, den König von Sachsen durch einen Landstrich zu entschädigen.</p>
+
+            <p>4. Der Kaiser besteht darauf, zur Verteidigung des Südens den Main- und Mosellauf zu behalten, indem hierdurch zwei Gebiete getrennt werden, welche Mittel zur Ausgleichung und Entschädigung für die Fürsten im nördlichen und südlichen Deutschland gewähren. Der Kaiser ist mehr, als jede andere Macht dabei interessiert, die Festung Mainz vor jedem Überfalle zu schützen, und behält sich vor, über diese wichtige Angelegenheit in Bezug auf die für diesen Zweck geeigneten Mittel in fernere Erklärungen einzugchen, welche seinen Beziehungen zum bayrischen Hofe und der Möglichkeit entsprechen, die Gebietsverteilungen in Bayern zu ordnen. Die in dieser Beziehung zu nehmenden Maßregeln sind mit der Gründung eines Bundesvertrags und den Mitteln verbunden, über welche man sich zur Verteidigung des Bundes einigen wird. Se. kaiserliche Majestät glaubt nicht, daß deren Erörterung von derjenigen dieser beiden Gegen.^tände getrennt werden könne.</p>
+
+            <p>5. Se. Kaiserliche Majestät besteht auj der gleichzeitigen Verhandlung aller dieser Fragen. Sie wird halten, was sie verspricht, indem sie gleichzeitig ihre Versprechungen von der Verpßichtung vollkommener Gegenseitigkeit abhängig macht.</p>
+
+            <p>Humboldt übernahm es, die Grundzüge J'ür die Antwort des prcußisc/icn Kabinets zu entwerfen {No. XXX\'I).<pb n="11.174" xml:id="pbXI174"/> bjntuiclitc : die \'\'cicliscl bis Sandotnir i-ils russisc/ie Grenze; Preußen erhalte Tliom, wenn der Zar Warschau nehme. Auf Grund der Verträge von iSij solle Österreich Preußen zum Beitritt zu diesen Forderungen einladen, auch die anderen europäischen Staaten zu ihrer Unterstützung aufrufen, und bei Able/mung Berufung an den gesamten Kongreß einlegen.</p>
+
+            <p>Humboldt beleuchtete in einer Denkschrift (No. XXXVII) diese Vorschläge.</p>
+
+            <p>Wie wenig alle Versuche, Kaiser Ale.vander zum Verzicht auf seine Pläne zu bestimmen, nützten, zeigt das Schreiben Humboldts vom j. November (No. XXX VHP.</p>
+
+            <p>Zwei Tage später trat eine Wendung ein. In eitler Unterredung zwischen Ale.vander imd Friedrich Wilhelm, der nur Hardenberg beiwohnte, verbot der König diesem, ferner mit Österreich und England zusammen gegen Rußland aufzutreten. Dieser neugeschaffenen Lage gegenüber suchte Humboldt in einer Denkschrift vom g. Novetnber 1814 (No. XXXIXJ nach Wegen und Mitteln, Preußen aus seiner schwierigen Lage herauszuführen.</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">XXXVI. Über die Note des Fürsten Metternich vom</title>
+               </head>
+               <p>22. Oktober 1814. 23. Oktober 1814. {Eigenhändiger Entwurf im Geh. Staatsarchiv; gedruckt bei Schmidt, Deutsche</p>
+
+               <p>Verfassungsfrage S. 343 ff.)</p>
+
+               <p>La lettre du Prince Metternich etablit:<note type="footnote" n="1)" resp="gnd-118554727"><hi>que la Saxe toute entiere doit etre incorporee ä la Prusse, sauf ä prendre en consideration, si une partie n'en pour- rait pas demeurer au Roi, et sauf ä faire quelques arrangemens avec l'Autriche sur des points de frontiere, sur Tetat de fortification de quel- ques places, sur le commerce et sur la libre navigation de l'Elbe;</hi></note><note type="footnote" n="2)" resp="gnd-118554727"><hi>que l'influence de la Prusse sur l'Allemagne ne doit pas s'etendre au delä de la ligne du Mayn, y compris Mayence; mais que le Cabinet Autrichien se reserve d'entrer avec celui de la Prusse dans des explications ulterieures sur des moyens propres a mettre la ville Mayence ä l'abri de toute surprise ;</hi></note><note type="footnote" n="3)" resp="gnd-118554727"><hi>que les possessions de la Prusse doivent se borner ä la rive gauche de la Moselle, de facon que cette riviere en devienne la ligne de demarcation;</hi></note></p>
+
+               <pb n="11.175" xml:id="pbXI175"/>
+               <p>'-,) quo Ic (labinct Autrichicn rciinit t(jutcs ccs qucsiions cn iin sciil et meme corps de ndgociation.</p>
+
+               <p>Lcs principcs de la rdponsc du (."abinct Prussien doiveni ctrc, Selon moi, les suivans.</p>
+
+               <p>II laut cn premier licu bien ötablir le point de vue duqucl la qucstion Saxonnc doit ctrc rcgard(5c, et qu'on place souvent i\ present de la manicre la plus ^aus^e et la plus injuste pour la Prussc.</p>
+
+               <p>Quoique je ne veuille point entrcr dans la quesiion du dr(;it, je dois obsen'er que les puissances alliees, et nommement la IVusse qui a, plus qu'aucune autre, contribu^ ä faire la conquete de la Saxe, ont celui d'en disposer aux d^pens de la dynastie qui a r^gn^ jusqu'ici; et que meme c'est une lecon politique qui ne restera pas sans utilite qu'un souverain ne peut point impunement changer rapidement, et selon de simples convenances, de sistcme, rompre des cngagemens pris, et agir contre tous les interets de la nalion a laquelle son peuple appartient. et contre le voeu juste et noble de ce peuple lui-mcme.</p>
+
+               <p>(]ela suppose. il s'agit simplement d'examiner si la Situation des choses exige qu'on fasse usage de ce droit, en adjugeant la Saxe a la Prusse, ou non?</p>
+
+               <p>Les traites d'alliance assurent a la Prusse le recouvrement de son ancienne ^tendue et force, et meme un aggrandissement con- venable, et si les traites ne le faisaient point, une saine politique devrait y suppiger,</p>
+
+               <p>La force de la Prusse est une condition sine qua non de l'i^quilibre de TKuropc.</p>
+
+               <p>()r la Prusse perd la plus grande partie de ses provinces Polonaises, eile perd surtout Celles qui, en l'arrondissant de ce cött?, formaient de ces provinces de la Prusse et des provinces Allemandes vciisines un ensemble et une masse imposante. La force centrale de la monarchie ^tait sans doute avant iSo(» dans cette masse et ne peut plus s*y trouver tl prc'sent, quand meme la Russie ajouterait 2 a 300000 ames ä son lot Polonais.</p>
+
+               <pb n="11.176" xml:id="pbXI176"/>
+               <p>que des que le pouvoir de Napoleon ne pouvait etre culbute qu'en appelant la Russie au secours (comme cer- tainement il n'aurait pas pü l'etre sous les circonstances donnces dans la derniere guerre), il fallait prevoir et souffrir que la Russie garderait la plus grande partie du duche de</p>
+
+               <p>Varsovie, puisque l'exemple de la derniere guerre devait lui servir de lecon de tächer d'eloigner ses frontieres plus du centre de PEmpire, et puisque par la nature des choses meme de grands efforts d'une grande puissance doivent toujours etre compenses par de grands avantages.</p>
+
+               <p>L'aggrandissement de la Russie est donc une suite malheu- reuse, mais inevitable du faux Systeme de combattre les extremites de l'Europe l'une par l'autre. Precisement pour que cela n'arrive plus, il faut renforcer les puissances centrales, et nommement la Prusse.</p>
+
+               <p>La perte des provinces Polonaises ne pouvait plus etre com- pensee pour la Prusse que par la possession de la Saxe. De lui assigner lo et meme 12 millions d'habitants disperses sur la sur- face de l'Allemagne, de la Pologne et meme peut-etre de la Belgi- que, aurait ete traiter les puissances de l'Europe comme des va- leurs numeriques, ce qui est contraire ä toute politique franche et saine.</p>
+
+               <p>(&gt;e n'est donc point par condescendance, quelque sensible que la Prusse sera toujours aussi ä cette condescendance, mais en suivant les maximes d'une bonne politique que le cabinet Autri- chien doit consentir ä la disposition de la Saxe en faveur de la Prusse. 11 y va aussi de son interet, puisque les dangers qu'elle s'attire par lä dans une guerre contre la Prusse meme, et que je suis bien eloigne de nier, sont beaucoup moindres et beaucoup plus incertains que celui de laisser la Prusse qui s'est attire de grands ressentiments ä present par son zele pour la cause commune, depourvue de la force süffisante.</p>
+
+               <p>II suit de lä que la question Saxonne ne pouvant etre regardee<pb n="11.177" xml:id="pbXI177"/> donner la Saxe i\ la Prussc; et de i'auire cötd un simple accrois- semcnt de population en l'olognc n'est pas le rdtablissement d'une masse de provinces vraiment centrales pour la monarchic Prussienne.</p>
+
+               <p>La question sur la possibilit^ de laisscr le Ivoi de Saxe dans la Saxe meme et de partager par cons&lt;iquent ce pais, se rdduit, il me semblc, au principe suivant: Si la Prusse pouvait se contenter d'une petite partic de la Saxe, rien ne serait plus faisable. Mais en cedant au contraire, la plus petite au Roi et en gardant la presque totalite pour eile, eile n'amoindrirait que bien peu les sentimens qui peuvent s'^lever contr'elle et diminuerait en re- vanchc immensement ses moyens moraux de les calmer, ou de leur resister. Le pa'is serait divisd en dcux factions, le ressenti- ment le plus violent s'en melerait, et le Roi de Sitxe se trouverait lui-meme dans unc Situation encore plus penible.</p>
+
+               <p>Les arrangements que TAutriche propose dans le cas que la Saxc toutc entiere füt incorporee, ne sauraient etre juges avant de les connaitre. Mais poun-ü qu'elle se borne, en parlant de points de frontiere, ä redemander ce qu'elle a pcrdu par la paix de Vienne (sur quoi on pourrait etre facile), il me semble qu'il serait juste de se preter, autant que possible, ä ses demandes. On ne saurait nier que*) la süretd de la Boheme est toujours plus compromise, si Iq Prusse est maitresse de la Saxe: la Prusse ne veut point menacer TAutriche, eile ne doit pas non plus la craindre et lui temoigner de la mc^riance.</p>
+
+               <p>La demande de TAutriche par rapport ä Mayencc est intini- mcnt embarrassante. Klle olVre la double question: si la Prusse croit cette fortcresse ndcessaire a sa propre defense, aussi contre le Midi de rAllcmagnc, et contre TAuiriche elle-meme? ou si eile se contente ä exiger qu'elle soit dücmeni delendue en faveur de TAllemagnc, et contre un enncmi commun? Dans le premier cas, .NLiycncc devrait appartenir a la Prusse,<pb n="11.178" xml:id="pbXI178"/> l\uir arrivcr a cela je ne connais plus qu'un seul mo3^en et que ie n'aimcrais point a conseiller, cest-ä-dire celui de proposcr cn revanchc d'dtablir le Roi de Saxe dans la Saxe meme. C]ar je crois TAutriche tellement attach^e a cette question que seulement les plus puissans motils pourront Ten faire revenir.</p>
+
+               <p>Dans le second cas, il s'agit d'ecouter, quels moyens le cabinet Autrichien proposera. Mais il faudrait insistcr toujours que la Baviere ne gardat pas la moindre intluencc sur Mayencc, si eile n'accede pas franchement et loyalement a la ligue Allemande et ne renonce pas au droit des guerres exclusives.*) Si, au contraire, eile fait cela, il faut tächer aussi de se l'attacher, au Heu de la soupconner.</p>
+
+               <p>Les arrangemens sur Alayence doivent enfin toujours rester etroitement lies au consentement definitif, solemnel et entier de TAutriche aux arrangements pour la Saxe.</p>
+
+               <p>La question, si la Prusse peut se borner ä n'aller avec ses possessions que jusqu'ä la Moselle, en gardant cependant, sur quoi il faudrait toujours insister, une lisiere sur la rive opposee? est, pour ainsi dire, une affaire de calcul. Le cabinet Autrichien doit proposer lui-meme oü, ce qui se perd de ce cöte, peut ctre regagne, et cela ne pourra l'etre qu'aux depens de la Baviere.</p>
+
+               <p>Comme d'apres le plan du Prince de Hardenberg**) la Prusse doit prendre sur eile de faire plusieurs trocs avec plusieurs des autres Princes de TAllemagne, et qu'apres s'etre arrangee avec l'Autriche, eile pourrait rencontrer des difficultes dans ces arrangements posterieurs, il faudrait que l'Autriche ne cooperät pas seulement ä les negocier, mais garantit aussi la reussite de la negociation.</p>
+
+               <p>A \'ienne, ce 23 Octobre 1814. Humboldt.</p>
+
+               <pb n="11.179" xml:id="pbXI179"/>
+               <p>XXW'II. f'bcr das Memorandum (&gt;astl ercagh 's.</p>
+
+               <p>2^. Oktober 1K14. Eii^enluindii^cr Entwurf im Geh. Staatsarchiv ; gedruckt im Auszug bei Schmidt a. a. (). J40ff-) Siir le memoire de Lord (&gt;astlereagh concernant Tallaire de la</p>
+
+               <p>Pologne.</p>
+
+               <p>Le memoire de Lord (]astlereagh renferme deux objets tout -i\-fait dilVerents: la lixation d\m minimum quc les puissances copartageantes de la Pologne doivent demander ä laRussie; la marche que es puissances, conjointement avec l'Angleierre, doivent tcnir. si laRussie refuse mcmc ce minimum.</p>
+
+               <p>Le premier de ces deux points ny est pas discutd, il me semble neantmoins que, sans savoir de quelle maniere on veut le döterminer, il est presqu'impossible de se d^cider sur la marche dans le cas de refus. (]ar il est evident que l'importance de sou- tenir ce minimum devient plus grande en proportion qu'il doit renfermer plus de concessions de la part de TEmpereur, ce qui ne peut qu'inriuer tres essentiellement sur les mesures que les Puissances adopteront dans le cas de refus.</p>
+
+               <p>II y a deux questions qui entrent necessairement dans ce minimum. cellc de la forme ä donner au Duchd de \'arsovie, en tant qu'il sera sous domination Russe, et cellc du territoire et des frontieres.</p>
+
+               <p>Jusqu'ici Lord (^astlereagh m'a paru etre de l'opinion que, si la Russie cddoit sur la derniere, il ne falloit point la presser sur la premiere, et cet avis m'a paru extremement sage. L'Kmpereur Alexandre se trouve certainement dans un grand embarras en voulant rdaliser ce qu'il semble avoir promis ä cet dgard aux Polonois; il se prepare des difticulies enormes et des dangers evi- dens en cxecutant ce plan, et les Puissances augmentent cet em<pb n="11.180" xml:id="pbXI180"/>quence les villes de Thorn, Kaiisch, (]zenstochau et Cracovie. II ne me semble pas qu'on ait eu l'idee d'insister s^rieusement sur la demande que la Russie se borne ä la Vistule, et ce qui en est dit dans Ic memoire actuel, paroit seulement devoir etre la demande plus etendue qu'on se propose de faire, si le minimum devoit etre refuse.</p>
+
+               <p>Outre ces points de vue qu'on pourroit nommer des points de vue d'interet, cette question otlre encore deux considerations morales qu'il s'agit inliniment de bien peser pour savoir laquelle m^rite d'etre preferee.</p>
+
+               <p>La premiere est celle qu'il est contre la dignite de l'Autriche de ne pas obtenir un seul point de ceux qu'elle reclame contre la Russie, et contre la sienne, ainsi que contre celle de la Prusse de laisser ä la Russie des points evidemment offensifs contr'elles ; en- suite qu'il seroit du plus grand danger de soulTrir ainsi les pre- miers pas que la Russie paroit faire vers un empietement sur les droits des autres Puissances de l'Europe.</p>
+
+               <p>La seconde consideration, contraire ä la premiere, nait des inconveniens et des dangers sans nombre qui resulteront necessairement de la demarche de faire une scission en Europe et d'appeller ä eile, c'est-a-dire surtout ä la France, contr'elle.</p>
+
+               <p>Quant ä l'argument dont Lord Castlereagh s'est servi et qui est puise dans le traite du 27 Juin,<note type="footnote" n="*)" resp="gnd-116890657"><hi>Die Reichenbacher Konvention vom 27. Juni 181 j; die im Art. II fest- gestellten Friedensbedingiingen lauten in den hierher gehörigen Punkten: i. die Außösung des Herzogtums Warschau und die Verteilung der Provinzen, die es bilden, unter Rußland, Preußen und Österreich, welche diese drei Mächte ohne</hi></note> je crois qu'il n'est point de nature que la Russie ne puisse pas y faire une reponse suffisam- ment fondee.</p>
+
+               <p>(^ar en premier lieu ce traite a evidemment pour but de fixer seulement les conditions qu'on vouloit proposer ä la France, et il fait mention de la distribution du Duche de Varsovie surtout pour dire que la France ne doit pas y intervenir. Un engagement de la Russie vis-ä-vis de l'Autriche et de la Prusse en decoule en verite egalement, mais simplement d'une maniere accessoire.</p>
+
+               <p>En second lieu il est evident que ce traite ne peut point</p>
+
+               <pb n="11.181" xml:id="pbXI181"/>
+               <p>I-'.n troisicmc licu il est naturel qiic rilmpcreur Alexandre dira quo, puisqiic les conquetes qu'on a failes sur la France, sont beaiicoiip plus considdrables qu'on ne les supposoit dans ce traitd, et puisque l'Autriche a recu outre les Provinces Illyricnncs unc f^randc partic de ritalic. il est juste que la Russie obticnnc aussi d'avantagc et qu'clle nc peut Tobtenir que du cote du Duche de \'ars(nie.</p>
+
+               <p>Je suis tres ^loignd de vouloir dire que ces argumens justifient les pr&lt;ftensions de rEmpereur; mais je doute seulement qu'on puisse trouver dans ces pr^tensions une infraction absolue d'un trait^ encore applicable a Theure qu'il est.</p>
+
+               <p>Dans les traites subsequens celui du 27 juin n'a point ete cit^ ou confirme. C.eux du mois de Scptcmbre*) conclus entre les trois Puissances parlent seulement d'un arrangement i\ Tamiable entre les trois (]ours d'Aut- riche, de Prusse et de Russie sur le sort futur du</p>
+
+               <p>Duch^ de \''arsovie, et l'Empereur de Russie dira toujours qu'il est pret ä le faire.</p>
+
+               <p>Je repete que je ne dis tout cela que puisque je ne crois point prudcnt de sc senir dans une cause ^videmment et indubitablement juste d'un argument qui peute etre conteste avec raison.</p>
+
+               <p>La marche proposee dans le memoire me semble d'autant plus m^riter la plus müre consideration, puisquMl nV a certaine- ment personne qui nc düt regarder avec le plus noir chagrin meme la possibilite d'un appel ä l'Europe contre une des puissances dont Tunion, constante jusqu'ici, a porte la derniere guerre a une issue aussi glorieuse.</p>
+
+               <p>II faut consid^rer cet appcl au (&gt;ongrcs une fuis commc menace, et puis commc dcmarchc mise en exccution.</p>
+
+               <p>La menace aigrira ndccssairement TEmpcrcur, eile portcra d'autant plus d'animositd dans la question que TEmpereur, voyant tres bien que les petites (]ours r^unies au (]ongrcs nc pcuvcnt gueres etre d'un grand appui, regardera prdciscmcnt la publicitc qu'on donnera ä TatVaire. et la forcc murale qui cn rcsultcra.<pb n="11.182" xml:id="pbXI182"/> rKmpereur mcme. Kn refusant pcremptoirement de s'arranger, on pourroit lui tdmoigner le regret de devoir porter cette desunion a la connoissance des autres Cours; on pourroit lui demander ä lui-meme quel exp^dient il trouvoit pourcela? On seroit toujours maitre de rejetter ceux qu'on n'approuveroit pas; la maniere seroit plus douce, et la mesure pas moins forte.</p>
+
+               <p>Si TEmpereur se refusoit ä toutes ces representations, je trouve la marche tracee dans le memoire entierement adoptee aux circon- stances et excellente sous tous les rapports; la note du Cabinet Autrichien ä celui de Russie, celle ä la Cour de Prusse. Je suis douteux uniquement sur la question: si apres cela les Puissances de TEurope devoient, ainsi qu'il est dit dans le memoire, etre invitees ä appuyer cette demarche et ä faire ä la Russie une decla- ration comme Congres?</p>
+
+               <p>Si la question reste ouverte sans cette demarche positive, il n'est pas improbable que l'Empereur cede, apres avoir eprouve la fermete des autres trois puissances.</p>
+
+               <p>Mais la demarche positive faite au Congres, c'est-ä-dire aupres des puissances que les quatre alli^es ont toujours regard^ comme etrangeres au moins ä leur intimite, change entierement la face des choses. L'Empereur doit se regarder alors comme traduit devant un juge qui a prononce contre lui, et place par lä dans une attitude presqu'hostile vis-ä-vis d'Europe; il ne peut plus reculer, sans se donner un cruel dementi, il est frappe d'un coup qui n'a jamais ete porte en Europe et qui ne pouvoit l'etre sans un ^tat de choses que ses propres efforts, et, il faut l'avouer, des efTorts louables, ont puissamment contribu6 ä amener. D'un autre cöte n'avant pas ä craindre une guerre imminente, l'arret est moins menacant, et l'P^mpereur garde le tems de se preparer ä la lutte, et l'espoir, quoique, comme je l'espere, illusoire, de desunir les puissances. Je ne crois donc pas que cette mesure puisse etre tres utile aux vues des trois Puissances.<pb n="11.183" xml:id="pbXI183"/> la Sardaii^ne et la Sicile n'y prendroicnt ^ii'une pari fuible et timide.</p>
+
+               <p>Si ces consideraticjns avoienl reellement i.]uek]iie poids. on pourroit commencer par passer sous silence dcvant le congres l'afl'airc de la Pologne. (]omme les autres Puissances nc manque- roient point d'en faire mention sur-le-champ, il faudroit, mais seulement sur leur demandc, leur exposer d'une maniere vraye et simple et avec les pieces ofrtcielles la Situation de la qucstion et l'avis de l'Angleterre, de l'Autriche et de la l'russe. Si ensuite elles vouloient laire des demarches isolees aupres de l'Kmpereur, cela d^pendroit naturellement d'elles; mais il faudroit, je crois, ddcliner toute olVre de se joindre avec elles pour des demarches combinees, en mettant en avant la conviction qu'on avoit de s'arranger encore plus tard avec THrnpereur.</p>
+
+               <p>On peut objecter a ccla que rKmpereur en attcndant ira en avant et se declarera Roi de Pologne. Mais je demande, s'il ne le fera pas encore d'avantage apres la demarche et la declaration du Congres?</p>
+
+               <p>On comptera peut-etre sur Timpression que produira sur les Polonois la proposition que doit faire l'Autriche au Congres, mais j'avoue que je ne my fi^rois pas beaucoup. Car outre que Talter- native du partage, mise egalement en avant, ne sauroit la leur rendre bien agreable, les Polonois n'ignorent point que, si Tl-^mpe- reur Alexandre les avoit simplement incorpor^s ä la Russie, la Cour de \'icnnc n'auroit jamais propose leur r^tablissement; ils savent aussi tres bien que TKmpereur Alexandre ne leur parle point comme Napoleon, mais qu'en voulant leur donner un dtat d'independance, il suit reellement et sincerement des idees g^nerales et qu'ils ne peuvent lui rcpnjcher que de rester a demi-chemin; ils diront enfin toujours que le (^abinet Autrichien n'a fait cette proposition que dans la conviction de Timpossibilite qu'elle füt acceptde.</p>
+
+               <p>l^our bien dcvelopper mon opinion sur ce point esseniiel, je</p>
+
+               <pb n="11.184" xml:id="pbXI184"/>
+               <p>II merite en g^n^ral d'etre examine s'il convient de mcler la France de cette contestation, et meme, si luttc en resultoit, de cette lutte? et je suis de Tavis contraire.</p>
+
+               <p>Lc Systeme d'opposer les extr^mites de l'Europe l'une ä l'autre,. et de les combattre ainsi, est ^videmment un Systeme faux et dangereux. Aucune des puissances placees ainsi ne voudra faire gratuitement de grands etlbrts pour ce but, et les deux empieterent par la sur Celles placees entrelles. L'aggrandissement actuel de la Russie en est une preuve evidente. II appartient ä l'etablisse- ment du Systeme des puissances intermediaires qu'on veut mettre apresent a la place de Fautre, que ces puissances s'addressent aussi peu que possible ä la France et a la Russie pour les faire servir l'une contre l'autre. Je desirerois que dans une guerre qui pourroit un jour s'elever contre la France, on put se passer du secours de la Russie; et je crois bien moins utile et plus dangereux d'appeller äpresent, oü il ne s'agit pas de guerre, la France ä l'appui contr eile. Je crois toujours l'Autriche et la Prusse, unies avec TAngleterre et l'Allemagne et tacitement soutenues par l'assenti- ment du reste de l'Europe, si elles tiennent fermes, assez fortes pour faire revenir, encore apres le Congres, l'Empereur de ses pr^tensions ou, dans le cas contraire, pour opposer du moins une digue ä des empietemens ulterieurs, ou pour regagner ce qu'il garde äpresent, si dans la suite il donne Heu ä une rupture ve- ritable.</p>
+
+               <p>Je suis convaincu outre cela que la France n'epousera jamais la question dans le meme sens dans lequel eile lui sera proposee par les Cours alliees. Elle s'en semra toujours principalement pour perpetuer la desunion entre les Cabinets, pour en profiter dans I'occasion, et l'abandonnera, en s'arrangeant avec la Russie, des que son interet particulier sera satisfait.</p>
+
+               <p>Mais plus, je crois, que les Cours alliees doivent s'isoler sur ce point, plus je suis convaincu qu'elles doivent s'unir etroitement et se roidir sur la question.</p>
+
+               <p>Je crois devoir revenir äpresent sur la Situation particuliere de la Prusse par rapport ä cette question importante.<pb n="11.185" xml:id="pbXI185"/> lancc pour la consen'ation de rccjuilibre en lOurope, il est ä la fois du devoir et de Tintdret de la I'russe de s'y rattacher, d'entrer entierement dans la quesiion, d'en suivre la manche et d'en courir toutes les chanccs. Klle ne pcut pas avoir rimention de favoriser les vues d'aggrandissement de la Russie, si en efl'et eile en a, contre Tint^rct de riuirope. Klle-mcme en seroit la prcmicre victime, et une sainc politique lui dicte de rester unic avec l'Autriche et avec l'Allemagne pour servir de contre-poids aussi bien i\ la Russie qu'ä la France.</p>
+
+               <p>I,a Prusse n'cst pas non plus tcnuc envcrs la Russie par au- cun lien qui la forceroit de se detacher de la cause generale. Car si cette Puissance a puissamment contribue ä lui faire tenir la Saxe,<note type="footnote" n="*)" resp="gnd-116890657"><hi>Kußland übcrpab die VenViiltun^ Sachsens, die es während des Krief^es</hi></note> eile lui a enlev^ la plus grandc partie de ses Provinces Polonoises, et il est bien douteux si le don (si Ton peut nommer don ce qui a ete conquis par le sang Prussien) est un veritable equivalent du sacrifice.</p>
+
+               <p>Mais la Prusse se trouve malgre cela dans une position bien difi'drente de TAutriche par rapport ä la question präsente. Elle est. pour ainsi dire, dans une opposde. Le mal qui resulte du panage inegal du Duche de Varsovie pour la Prusse est tellement grand des apresent que cela doit diminuer ses craintes pour la suite, tandis que celui que les pretentions de la Russie causent ä l'Autriche, est surtout dans les chances ä venir.</p>
+
+               <p>La question de Tindependance de la Pologne est d'une im- portance beaucoup moins grande pour la Prusse. Car la Situation de Tancienne Prusse et des nouvelles Provinces Polonoises de la Russie est teile reciproquement que la Russie, meme en incorporant simplcment ces Provinces, devra toujours desirer de s'ap- proprier aussi les embouchures du Niemen et de la Vistule, et que la Prusse proprement dite elle-meme ne peut presque pas se d^fendre de l'id^e que son bien-etre gagneroit, si eile devenoit une Province Russe. En revanche la partie du Duchd de Varsovie que la Prusse recevra a present, pourra peut-ctre lui restcr mcme geführt hatte, jetzt an Preußen : Protokoll einer Konferenz vom i'A'. September, in dem Rußland seine Xustimmtaif erklärte; ratifiziert von Alexander am i6'. Ok<pb n="11.186" xml:id="pbXI186"/>La question territoriale est peut-etre cncorc plus importante pour la Prusse que pour rAutrichc. Mais commc l'Empereur Alexandre semble suivre surtout dans cette alTaire Tavis des Polonois et que les Polonois mettent beaucoup plus de prix sur la conser- vation de Cracovie que sur Thorn, qui est au lond une ville Allemande, la Prusse pourroit se flatter tres probablement d'obtenir cette ville, si eile vouloit s'arranger sc^par^ment avec TEmpereur. Cest prdcisement le point qui Interesse l'Autriche, qui augmente aussi pour eile les difficultes.</p>
+
+               <p>La negociation commune sur la basc du Minimum olTre donc beaucoup moins d'avantage a la Prusse qu'a rAutriche.</p>
+
+               <p>En en venant apres ä la marche de la negociation, il est evident que la Prusse en s'engageant ä tenir la meme avec l'Autriche ne court pas seulement des chances egales, mais infiniment plus grandes. Gar TAutriche est au moins, depuis la Galicie jusqu'en Italic, en possession de tout ce que la Russie ne lui conteste point. La Prusse au contraire ne se trouve pas dans ce cas. Gar toute la partie du Duche que la Russie promet de lui ceder et qui forme une population de plus de 700000 ämes, est encore entre les mains de l'Empereur qui peut en remettre l'evacuation ä l'epoque oü la Prusse consent ä ses vues. La Saxe elle-meme devient la possession la plus incertaine et la plus singuliere, si d'un cöte eile est contestee par la France et si de l'autre la Prusse est en des- union avec la Russie qui devant l'Europe et devant le Public aura toujours l'air d'avoir seule fait obtenir ce Royaume a la Prusse.</p>
+
+               <p>Si l'on vouloit opposer aux pretentions de la Russie une guerre imminente, la Prusse pourrait encore esperer de sortir de cet embarras par le meme courage de ses Armees auquel eile doit dejä le recouvrement de son independance. Mais la seule chose qu'on peut, qu'on veut, et je suis le premier ä le dire, qu'on doit opposer ä la Russie, est une rupture politique. Or sürement la<pb n="11.187" xml:id="pbXI187"/> hautement et hardiment qu'elle croit cette posscssion n^cessaire, qii'elle supprime par cette raison tont autre sentiment et qu'elle d(5fendra cette cause contre chacun, eile y consent avec reluctance, comme par condcscendance et en voulant faire acheter cette faveur ä la IVusse par d'autres sacrilices tres pdnibles.</p>
+
+               <p>11 faut donc l'avouer franchement : si la IVusse tient la mcme marche avec l'Autriche dans ratVaire de la Pologne, il est mcme tres douteux si eile abandonne seulement son intdret momentan^ pour son int^rct r^el et durable. II faut convenir plutöt qu'elle abandonne son int^rct personncl pour ^pouser celui de TKurope.</p>
+
+               <p>Malgrd cela je suis fermement pcrsuade qu'elle nc doit point se ddtacher de la cause juste et raisonnable de TAutriche et de I'Anglctcrre. Placde en Kurope dans une Situation oü eile peut puissammcnt contribuer a maintenir T^quilibre entre les puissances, favorisde par la providence dans la derniere guerre au point de pouvoir Ic faire, eile suivra toujours la voye des principes et Jamals Celle des pures convenanccs.</p>
+
+               <p>Mais eile peut exiger, de son cöt^, que l'Autriche et TAngle- terre envisagent bien sdrieusement sa Situation paniculiere et vrai- ment penible. Os puissances sont trop justes en elles-mcmes pour ne pas le faire. I^lles doivent par consequent:</p>
+
+               <p>1. en ddiberant de nouveau sur le minimum de leur de- mande ä TEmpereur et sur la marche ä tenir en cas de refus de sa part faire entrer dans le calcul les chances que court la Prusse, et les complications qui peuvent en resulter;</p>
+
+               <p>2. avoir ces mcmes considerations präsentes, en lui assignant son röle particulier dans la marche commune;</p>
+
+               <p>3. dpouser contre toutes les autres puissances franchement et vigoureusement sa cause et celle de ses nouvelles acquisitions, prendre sur elles-memes de remplir strictement les traitds qui lui assurent un rctablissement entier et mcme un aggrandissement convenable, et lui garantir formellcment les possessions pour les- qucllcs eile dcpend encore de la Russie.</p>
+
+               <p>Si ces conditions nY'toient point enticrement remplics, la Prusse</p>
+
+               <pb n="11.188" xml:id="pbXI188"/>
+               <p>1. qu'il faudroit, si rKmpereur persistoit a se roidir, ceder sur la question constitutionelle et se borner dans celle du territoire ä une Position militaire, c'est-ä-dire aux points de Thorn, Kaiisch, Czenstochau et Cracovie avec des raj^ons convenables;</p>
+
+               <p>2. si TEmpereur se refusoit meme a une demande aussi mod^rde, ne point faire d'arrangement avec lui, ne rien reconnoitre de ceux qu'il feroit, et lui d^clarer p^remptoirement qu'on ne se re- lacheroit jamais des demandes une fois formees;</p>
+
+               <p>3. mais ecarter, aussi dans ce cas, autant que possible, la France, et ne point se joindre dans une aU'aire qui a pris nais- sance entre les quatre puissances alliees, ä une puissance etrangere, pour faire que meme la desunion des premieres porte encore en quelque facon le caractere de l'union qui a regne entr'elles jusqu'ici.</p>
+
+               <p>A Vienne, ce 25 Octobre, 1814.</p>
+
+               <p>Humboldt.</p>
+
+               <p>XXXVIII. An Hardenberg. 3. November 18 14.</p>
+
+               <p>(Eigenhändig im Geh. Staatsarchiv.)</p>
+
+               <p>La tentative de Lord Castlereagh *) a complettement echoue, et il n'est que trop evident que le Prince Metternich s'est constam- ment fait illusion en s'imaginant que l'Empereur cederoit de lui- meme. Lord Castlereagh lui a dit les choses les plus raisonnables et les plus fortes, il est alle jusqu'ä lui representer que ses pretensions rappelloient Napoleon, il lui a ecrit une longue lettre qu'il Vous montrera, mon eher Prince, et lui a laisse son memoire; mais l'Empereur a persiste dans son idee. La seule chose qui I'a frappe, c'est Tanicle du traite du 27 Juin **) qu'il paroit avoir oubli^. II s'est tu pendant pres de 10 minutes, apres cela il a dit: je rem- plirai exactement ce traite, je donnerai a l'Autriche les salines de Wieliczka. Lord Castlereagh lui a represente envain que cette affaire insignifiante n'etoit pas partager le Duche avec l'Autriche.<pb n="11.189" xml:id="pbXI189"/> retirer Ics trouppcs l^usscs en Russie et, commc il s'exprimc, nc pas donner d'ombrage commc Kmpercur de Russie. Les propres termes de Lord (iastlercagh sont que TluTipereur et lui ont sontenu chacun son opinion avcc la plus grande tenacite jusqu'au moment de sc quitter. Lord (]astlereagh paroissoit croire que l'Kmpereur devToit bien changer d'opinion, si toute l'Europe ^toit d'un avis contraire. Lc Prince Mcttcrnich me disoit ä peu prcs la mcme chose, Mais il seroit toujours tres malheureux, si nous devions donner a toute TKurope le spectaclc de notre desunion. — L'Em- pcrcur est alle apres le bal chez li Princcsse Bagration.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Die Fürstin Bagration geb. Gräfin Skawrunskiy, Großnichte der Kaiserin Katharina I. und Potemkims, Witwe des russischen Feldherrn, Peters Fürst Bagration, der 1812 an einer bei Moskau erhaltenen Wunde starb, lebte seit</hi></note> Le Bai dtoit tres beau. Bien la bonne nuit, chere Altesse. Vous n'ou- blierez pas, je me Hatte, de venir diner demain chez moi. Tout ä \'ous!</p>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">H.</title>
+               </head>
+               <p>Ce jeudi soir.</p>
+
+               <p>XXXIX. Denkschrift vom (&gt;. November i'Si4.</p>
+
+               <p>(Eigenhändiger Entwurf und Abschrift im Geh. Staatsarchiv ; gedruckt bei</p>
+
+               <p>Schmidt a. a. O. S. ^S'jf)<pb n="11.190" xml:id="pbXI190"/> welche aus einer Wiederherstellung J'olens unter Russischer Herrschaft entspringen — gesellt sich, vorzüglich bei England, noch der Grundsatz, dass man den ersten zu weit gehenden Forde- rungen Russlands widerstehen muss, um nicht, nachdem man Ein verderbliches Uebergewicht in Europa bekämpft hat, ein neues aufkommen zu lassen. Neben allen diesen Betrachtungen sind, wie nian olVenherzig gestehen muss, seit den letzten Wochen noch persönliche Rücksichten und Leidenschaften eingetreten.<note type="footnote" n="**)" resp="gnd-116890657"><hi>Die polnischen Angelegenheiten sind im gegenwärtigen Augenblick zu dem Punkte gekommen, wo man an einer gütlichen Beilegung derselben verzweifeln muss. Man konnte längst die Hoffnung aufgeben, dass Russland an seinen Forderungen wesentlich nachlassen würde. Der Oester- reichische Hof war ebenso wenig dazu geneigt , und seine Beharrlichkeit ist noch bedeutend durch den gänzlichen und festen Beitritt des Englischen Kabinets vermehn worden. Zu den in der Sache selbst liegenden Gründen — der Gefahr einer die benachbarten Staaten bedrohenden Gränze, und den Besorgnissen.</hi></note></p>
+
+               <p>Preussen allein sieht jetzt die Sache aus ihrem wahren Gesichtspunkte an. Es gesteht zu, dass Russland gerechter, und dem Geiste, in welchem der ganze jetzige Krieg geführt worden ist, angemessener handeln würde, w^enn es auf die am meisten bestrittenen Gränzpunkte nachgeben w^ollte. Es fühlt, dass Russ- lands Forderungen dem Preussischen Interesse nachtheilig sind. Allein es sieht auf der andern Seite ein, dass in der jetzigen Lage der Dinge beharrliches Entgegenstreben gegen die Pläne Russlands, Verweigern der Anerkennung seiner in Anspruch ge- nommenen Polnischen Besitzungen, und daraus früher oder später entstehender Krieg unpolitisch sind, und dass der wahre Endzweck weit besser durch augenblickliche Nachgiebigkeit, darauf folgende (Konsolidation der Staaten, und nachherige feste Verbindung erreicht werden w^ürde.</p>
+
+               <p>In dieser Lage hat Preussen das grosseste Interesse, den Bruch, wenn derselbe auch noch lange kein Krieg wäre, zu verhindern. Allein es befindet sich dazu gerade jetzt im ungünstigsten Augenblick. Denn es ist niciit glaublich, dass Russland darum nachgeben w^ürde, weil es fürchten müsste, dass Preussen sein Widersacher werden würde ; und noch weniger ist dies von Oester- reich und von England vorauszusetzen, weil beide sehr gut wessen, dass Preussen noch in keiner seiner neuen Besitzungen fest ist, und dass es, so wie es sich von ihnen und mithin von Deutsch- land trennt, vom Rhein bis zur Oder sehr leicht angegriffen werden kann.</p>
+
+               <p>In der That befindet sich Preussen in einer kritischeren Lage, als irgend ein anderer Staat. Es kann nur auf die Provinzen,</p>
+
+               <pb n="11.191" xml:id="pbXI191"/>
+               <p>Dass Preussen sich aus dieser Lage herausziehe, ohne eine (lefahr wirkhch ernsthaft theilen zu wollen: dass es von (Jester- reich und Kngland die in Deutschland gewünschten Besitzungen zugestanden, anerkannt und garaniirt erhalte, dabei doch auf seine Weise, und nach seinem Gefallen mit Russland abschliessen, und an dem ferneren Zwist über Polen keinen Theil nehmen könne» halte ich für unmöglich. Da keine beider I\irtheicn darin ihren Nutzen finden würde; so sehe ich nicht ab, welche Gründe sie bewegen könnten, darin einzuwilligen.</p>
+
+               <p>\'ielmchr scheint mir jeder Aufschub von Preussischer Seite, eine bestimmte, und sich für eine beider Partheien entscheidende Sprache zu führen, in hohem Grade verderblich. Schon jetzt hegen Oesterreich und England die Meinung, dass Preussen sie nicht gegen Russland unterstützen wird. Nimmt diese Meynung in den nächsten Tagen zu, wie sie es denn, ohne eine bestimmte Pxklärung Preussens, nothwendig muss; so werden sie, da die Umstände zu dringend sind, neue Verbindungen, und zwar solche suchen, die nicht anders, als nachtheilig für Preussen ausfallen können, werden allen Forderungen Preussens Schwierigkeiten entgegensetzen, und allzu wahrscheinlich auch den Congress ins Spiel ziehen, um die Polnische und Sächsische Angelegenheit bei ihm zur Sprache zu bringen.</p>
+
+               <p>A'orzüglich darf man sich nicht schmeicheln, dass Preussen wird irgend eine Wirkung auf die Nachgiebigkeit Ocsterreichs ausüben können, ehe es sich erklärt, mit ihm gleichen Schritt zu halten. Bis dahin wird jedes, noch so triftige Raisonnement seines Kindrucks verfehlen, weil man es immer als eine blosse Frucht des Bemühens ansehen wird, sich selbst aus der Sache heraus- zuziehen.</p>
+
+               <p>Allerdings muss es Preussen überaus schwer werden, sich hier zu entscheiden. Denn es muss sich entweder mit Russland für eine Sache verbinden, die ihm selbst schädlich ist, und die es ausserdem weder gerecht, noch Europa nützlich nennen kann; oder mit Oesterreich und England zu Massregeln, die es jetzt für un<pb n="11.192" xml:id="pbXI192"/>zuarbeiten, da diese doch selbst einen Bruch scheuen, und Preussens Sprache bei ihnen mehr Gewicht haben wird. Auch ist es sehr in Anschlag zu bringen, dass die beiden Höfe, welche am meisten Uneinigkeit zwischen den vier Alliirten wünschen, und dieselbe unter der Hand ohne Zweifel befördern, Frankreich und Baiern, alles Interesse dabei verlieren, sobald Preussen auf die Seite tritt, auf welche sie sich in Absicht der Polnischen Angelegenheiten stellen. Denn da Frankreich, wegen der Verbindung der Niederlande mit England, Belgien nicht angreifen darf, so können beide nur gegen Preussen etwas zu erstreiten hoffen.</p>
+
+               <p>So y\e\ scheint mir daher unumstösslich gewiss, dass, wenn Preussen sich noch schmeicheln darf, zur Versöhnung beizutragen, es Oesterreichs und Englands Schritte unterstützen muss. Der Erfolg der Versöhnung bleibt indess immer ungewiss, und die eigentliche Frage ist also zugleich die: welche Parthei Preussen ergreifen muss, w^nn es zu einem Bruch, aus welchem sehr wahrscheinlich nachher ein Ivrieg entstehen würde, kommen sollte? Denn der Fall der Neutralität, den ich schon oben berührt habe, scheint mir unmöglich.</p>
+
+               <p>Der Krieg, der aus der jetzigen Verwickelung der Verhältnisse entstehen kann, wird von Russland, das den grössten Theil des Herzogthums Warschau behält, für einen an sich unbedeutenden Strich Landes, zur Erhaltung einer Gränze, die, nach dem Urtheil aller Kriegsverständigen, nicht Vertheidigungs- sondern Angriffspunkte enthält, und für die Annahme des Polnischen Königstitels geführt. Die Forderung der Gränze läuft zum Theil dem Buchstaben, und gewiss dem Geist der Verträge entgegen; die Herstellung des Namens Polen dem geheimen Artikel des Theilungsvertrages.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Der Artide separe et secret de la Convention du 26 (15) Janvier i-jg-j heißt: La necessite d'abolir tout ce qui peut rappeler le souvenir de l'existence du Royaume de Pologne lorsque l'atieantissement de ce corps politique est effectue ayant ete reconu par les deux Cours Imperiales aussi bien que par S. M. le Roi de Prusse,</hi></note> Die Herstellung eines Theils von Polen unter dem Les Hautes Parties contractantes sont convenues, et s'engagent de ne jamais faire inserer dans leur intitule et respectivement pour les trois Cours la denomination ou designation cumulative de Royaume de Pologne qui demeurera des ä pre<pb n="11.193" xml:id="pbXI193"/>ein Keim zu Streitigkeiten und l'nruhen in l\uropa scheinen, als es die Errichtung des Herzogthums Warschau war. Oesterreich dagegen will sich in Absicht der (iriinze mit einem sehr kleinen Gebiete begnügen, und wird, einmal aufs Aeusserste gebracht, Polen eine wirkliche Herstellung unter einer Polnischen Regierung vorschlagen. Dieser \'orschlag, er mag nun auf die Polen Ein- druck machen, oder nicht, wird diesmal ernsthaft seyn, und da ihn Oesterreich vor England und Frankreich aussprechen muss, welche beide die wahre Herstellung Polens begünstigen, so wird es vielleicht sogar genöthigt seyn, ihn zur Wirklichkeit zu bringen. Auf diese Weise wird dieser Krieg von Seiten Oesterreichs und Englands in seinen Absichten gerecht, das Gleichgewicht und die Ruhe Europas befördernd, und von liberalen Gesinnungen aus- gehend erscheinen, und wird sehr bald für einen Europäischen gegen das drohende Uebergewicht Russlands gelten. Diese Ansicht wird auch, ob ich auch keineswegs die Meynung thcile, dass dies Uebergewicht unfehlbar entstehen würde, wenn man jetzt nachgäbe, insofern wirklich die richtige seyn, dass, wenn Russland in diesem Kriege siegte, allerdings seine Macht entscheidend und in hohem Grade gefährlich werden würde, da im entgegengesetzten Fall, bei dem Siege Oesterreichs und Englands, sich nur das Gleichgewicht herstellen und sichrer begründen könnte. Schon in der allgemeinen Natur dieses Krieges liegt daher ein sehr wich- tiger Grund, sich lieber auf die Europäische als auf die Russische Seite zu stellen. Preussen insbesondere aber würde auf dieser letzteren eigentlich dasjenige venheidigen, was ihm selbst geradezu nachtheilig ist. Denn es ist unläugbar, dass die jetzige Theilung des Herzogthums Warschau für Preussen, auch wenn es Thorn und die Warthe erhielte, doch noch sehr grosse Nachtheile hat, und Ost- und Westpreussen zu weniger nützlichen, und weniger sichren Provinzen macht.</p>
+
+               <p>Wenn ich aber hiernach behaupten zu müssen glaube, dass l^reussen seiner \'erbindung mit Oesterreich und England getreu bleiben muss; so setze ich dabei freilich voraus, dass beide auch<pb n="11.194" xml:id="pbXI194"/> dingungen setze ich darin, dass Oestcrrcich und England augenblicklich in einem Definitiv-Venrag 1. den Besitz von ganz Sachsen für Preusscn anerkennen und garantiren; 2. seine billigen Forderungen in Absicht des Besitzstandes in Deutschland eingehen;</p>
+
+               <p>•^. mit Mainz die von Preussen vorgeschlagene Einrichtung treffen;</p>
+
+               <p>4. versprechen, mit keiner Macht anders ein Bündniss zu schliessen, als wenn sie gleichfalls den auf diese Weise bestimmten Besitzstand Preussens anerkennt, und den Umständen gemäss, garantirt;</p>
+
+               <p>5. und endlich sich anheischig machen, auf jeden F'all zu ver- hindern, dass Russland Preussen, wegen der Verbindung mit ihnen, bei gänzlicher Ausmachung der Sache, den ihm schon jetzt zugestandenen Theil des Herzogthums Warschau vorenthielte.</p>
+
+               <p>Wollten Oesterreich und England diese Bedingungen, von denen jedoch nur die dritte schwierig seyn würde, nicht sogleich eingehen; so bewiesen sie dadurch schon, dass sie kein rein Europäisches Interesse hätten, und dass sie Preussen die Kräfte nicht einräumen wollten, deren es zur Erhaltung seiner Unabhängigkeit bedarf; und so würde Preussen vor sich und Europa gerechtfertigt seyn, sich von ihnen zu trennen, und einen eignen Weg mit Russland einzuschlagen. Es bliebe ihm alsdann für seine Sicherheit kein anderes Mittel übrig, wie viel Schwierigkeiten auch noch mit diesem Schritte verknüpft wären.</p>
+
+               <p>Stimmten dagegen Oesterreich und England in diese Bedingungen ein, so kämen nun auch zu den obigen allgemeinen Gründen andere sehr wichtige besondere für Preussen hinzu, sich mit ihnen zu verbinden.</p>
+
+               <p>Denn sowie es nun dies thäte, hätte Preussen, auch ehe es zum ernsthaften und thätlichen Bruch käme, die ganze Kraft aller seiner Besitzungen, die einzigen Polnischen ausgenommen, die ihm freilich Russland alsdann nicht sogleich einräumen würde. Es käme in diesem Falle auch vermuthlich der Deutsche Bund zu Stande, an dem Preussen unläugbar eine neue Stütze findet. Ver<pb n="11.195" xml:id="pbXI195"/>gar nicht einmal zu einer eigentlichen Theilung kommt, immer, selbst wenn kein Krieg entsteht, die ganze Zeit der Spannung über nur ein provisorischer seyn, und der Deutsche Hund zerschlägt sich dann h()chst wahrscheinlich.</p>
+
+               <p>Die neuen Provinzen, die, wie Sachsen, mit ihrem Schicksal, wenigstens zum 'Ihcil. unzufrieden sind, werden weit mehr die Hollnung sich abzureissen behalten, wenn l^reussen sie, mit Genehmigung Russlands gegen den Willen Oesterreichs und Kng- lands, als wenn es dieselben umgekehrt, mit der Genehmigung dieser Mächte, gegen den Willen Russlands besitzt.</p>
+
+               <p>üeberhaupt ist der Unterschied unläugbar, und überaus wichtig, dass, sowie nur Preussen und Oesterreich zusammenhalten, alle politischen Verhältnisse bis zu der östlichen Gränze Deutschlands ruhig zu Stande kommen können, und man nur in dem unglückseligen Fall des wirklichen Krieges das Russische Kindringen abzuwehren hat; dass aber dagegen, sowie sich Preussen mit Russland verbindet, auch alle andere jetzt zu stiftende \'erhältnisse unwiderruflich zerrissen, oder aufgeschoben sind. Diese leider nur zu leicht zu machende Bemerkung würde auch in Deutschland einen überaus ungünstigen Eindruck für Preussen her\'or- bringen, wenn man ihm Schuld geben könnte, dies veranlasst zu haben.</p>
+
+               <p>Bräche der Krieg wirklich aus, so wäre es allerdings sehr unglücklich, dass Ost-Preussen vermuthlich im ersten Augenblick verloren seyn würde. Allein man hätte den feindlichen Angriff doch nur von Einer Macht zu befürchten. Wollte man auch annehmen, dass Frankreich sich gleichfalls mit Russland verbände, so hätte man dagegen an Holland und l^ngland, das gewiss sehr ernstliche Hilfe leisten würde, kräftigen Beistand. Auf der andern Seite wären, wenn man auch voraussetzt, dass Frankreich ruhig bliebe (wie man denn dies aus aller Verbindung lassen müsste), Oesterreich, Baiern, Hannover, vielleicht sogar Holland, fast von allen Seiten her, zu fürchten: Preussen dürfte in Deutschland schwerlich auf einen einzigen Bundesgenossen rechnen, und die Monarchie und die Streitkräfte könnten sehr leicht von dem Feinde getrennt und zerschnitten seyn. Bei aller Anhänglichkeit und Treue, welche die Nation imd die Armee noch in dem letzten<pb n="11.196" xml:id="pbXI196"/> riitherisch an ihnen gehandelt haben, und für Forderungen Russlands, die, selbst insofern sie Oesterreich allein angehen, Preussen nachtheilig sind, gegen Deutsche fechten zu müssen, besonders wenn ihnen nicht unbekannt bliebe, dass Oesterreich und England wirklich in die Einverleibung Sachsens gewilligt, und vermuthlich, wäre der Bruch nicht dazwischen gekommen, auch in Deutschland jedes billige Verlangen Preussens erfüllt hätten. Die Herbei- schalTung der Mittel zum Kriege endlich w^ürde, selbst bei gleichen Anstrengungen in beiden Fällen, weit schwerer bei einer Verbindung mit Russland werden, da man in diesem Fall der Englischen Subsidien entbehrte.</p>
+
+               <p>Der endliche Erfolg, da dies noch eine sehr wichtige Betrachtung ist, es mag nun bei einem blossen Bruch bleiben, oder wirklich zum Kriege kommen, ist in jedem Falle unvortheilhaft bei einer \^erbindung mit Russland. Denn, wenn sich die jetzt zwiespältigen Mächte doch noch, nach einiger Zeit, ohne Blut- vergiessen versöhnen; so w4rd Oesterreich in allen Verhältnissen in Deutschland immer Preussen fühlen lassen, dass es sich von seiner, und, in seiner Ansicht, von der allgemeinen Sache getrennt hat, und da diese Verhältnisse für Preussen immer die nächsten und wichtigsten bleiben, wdrd Russland es dafür nicht entschädigen können. Die Folgen eines, doch immer möglichen unglücklichen Ausganges des Krieges wären kaum zu berechnen. Da sich Russland in sein Inneres zurückzöge, w^ürde Preussen allein die härtesten Bedingungen zu dulden haben, und noch das Ansehn bekommen, mit seiner Schuld zu leiden. Ein glücklicher Ausgang auf der andern Seite würde selbst noch von grossen Xachtheilen begleitet seyn. Russland würde sich unfehlbar noch mehr vergrössern und vermuthlich durch Preussische Provinzen, als die einzigen, ihm bequem gelegenen. Es würde Preussen vielleicht dafür sehr reich- liche Entschädigungen einräumen, allein es noch weiter gegen Westen schieben, wo es Andere verdrängen, und Neid und Hass auf sich laden müsste. Dies würde der Keim neuer Kriege w^erden, in denen Preussen nichts übrig bleiben würde, als sich, ohne w^ahre Selbständigkeit, eng an Russland anzuschliessen. Ruhe, Gleich-</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

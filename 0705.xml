@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Über den Begriff der Kunst</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Siebenter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif0702humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1907">1907</date>
+                  </imprint>
+                  <biblScope unit="page" from="355" to="360"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="7.355" xml:id="pbVII355"/>
+            <p>I. Ueber den Begrif der Kunst. &gt;iärz. 85.</p>
+
+            <p>Nach Harris. Um den Begrif der Kunst vollständig zu bestimmen,^) müssen folgende vier Fragen beantwortet w^erden:</p>
+
+            <p>1. Was ist Kunst?</p>
+
+            <p>2. Welches ist der Gegenstand, 3. Welches die Absicht, 4. Welches die Wirkung der Kunst?</p>
+
+            <p>I. WasistKunst? 1 . Alles, was wir Kunst nennen, ist die Ursach einer gewissen -) Wirkung. Die Dichtkunst ist die Ursach des Gedichts, die Tonkunst der Musik, die Mahlerei des Gemähides. ^) 2. Jegliche Ursach ist gegründet: a. entweder in der Einrichtung der leblosen, oder in den Handlungen der lebendigen Wesen ; und zwar b. wiederum entweder in den nothwendigen, oder in den willkühriichen Handlungen derselben; und endlich c. entweder in solchen willkühriichen Handlungen, die aus angebohrenen, oder solchen, die aus erworbenen Fertigkeiten *) entspringen. Handschrift (i^ halbbeschriebene Qiiartseiten) im Archiv in Tegel.<note type="footnote" n="*)" resp="gnd-116890657"><hi>V „bestimmen'' verbessert aus „entwikkeln". y „einer gewissen" an allen Stellen verbessert aus „irgend einer". V Nach „Gemähides" gestrichen: „Daher ist Kirnst subjektiv: das". *J „Fertigkeiten" an allen Stellen verbessert aus „Fähigkeiten".</hi></note></p>
+
+            <pb n="7.356" xml:id="pbVII356"/>
+            <p>In welchem von diesen Stüken ist nun die Kunst, insofern sie eine Ursache ist, gegründet?</p>
+
+            <p>a. Nicht in der Einrichtung der leblosen Welt. b. Nicht in den nothwendigen Handlungen! der lebendigen Wesen. — Zufall; Zwang, besser Gewalt; Organisation des thie- rischen Körpers.^) c. Nicht in denjenigen willkührlichen Handlungen die aus angebohrenen Fertigkeiten entspringen. Kunst wird nicht an- gebohren.</p>
+
+            <p>Also in solchen, die aus erworbenen Fertigkeiten entspringen. Demnach wäre Kunst: eine freie, in einer erworbenen Fertig- keit gegründete Handlung, durch die etwas hervorgebracht wird. Aber nicht allein die Hervorbringung einer Wirkung heisst Kunst, sondern auch das blosse Vermögen sie hervorzubringen.^)</p>
+
+            <p>3. Das Vermögen, Fertigkeiten zu erwerben, ist dem Menschen eigen, und nur ihm allein — keinem Wesen ausser ihm.</p>
+
+            <p>a. Dem Thier nicht. Das Thier empfängt alle seine Fertig- keiten von der Natur. b. Dem unendlichen Wesen nicht. Das unendliche Wesen besizt von Ewigkeit her alle nur denkbare Realitäten in ihrer ganzen Unendlichkeit — ein Begrif, der jede Erwerbung neuer Fertigkeiten ausschliesst.</p>
+
+            <p>Kunst bezieht sich also nur auf den Menschen, und ist eine erworbene Fertigkeit eines Menschen, eine gewisse Wirkung her- vorzubringen.</p>
+
+            <p>Einwurf. Auch die Thiere erhalten neue Fertigkeiten durch den Unterricht und die Hülfe der Menschen.</p>
+
+            <p>Antwort. Aber diese Fertigkeiten sind nicht eigentlich er- worbene. Denn erwerben sezt Vorsaz, freien Willen voraus, und das Thier handelt in jenem Fall nur maschinenmässig, und ohne ^) seinen Willen. Das wichtigste, was sich hierauf antworten lässt, ist wohl, dass Kunst, von den Thieren gebraucht, auch dem Sprachgebrauch nicht gemäss scheint. Sonst kommt man in die unausmachliche , mit tausend Schwierigkeiten umringte Materie von der Perfektibilität der Thiere.</p>
+
+            <p>V Nach „Körpers" gestrichen: „Instinlit". y Statt dieser zwei Sätze stand ursprünglich folgender : „Kunst ist daher eine erworbene Fertigkeit, eine gewisse Wirkung hervorzubringen." ^) „ohne" verbessert aus „wider".</p>
+
+            <pb n="7.357" xml:id="pbVII357"/>
+            <p>4. Die Hervorbringung jeglicher Wirkung erfordert Mittel. Bei jeder muss also eine gewisse Art, eine gewisse Methode vorhanden sein, welche die Natur, und die Anwendung dieser Mittel bestimmt, d. h. es muss Regeln geben.</p>
+
+            <p>Nun aber beschäftigt sich jegliche Kunst mit Hervorbringung einer Wirkung.</p>
+
+            <p>Daher hat jegliche Kunst Regeln, und Kunst überhaupt ist,^) vollständig definirt, eine erworbene Fertigkeit^) eines Menschen, eine gewisse Wirkung, nach Maassgabe festgesezter Regeln, hervor- zubringen.</p>
+
+            <p>II. Welches ist der Gegenstand der Kunst. ^</p>
+
+            <p>Jegliche wirkende Ursach — und also auch die Kunst — muss einen Gegenstand haben, auf den sie wirket. Jedem Handeln muss ein Leiden entsprechen.</p>
+
+            <p>1 . Hervorbringung einer Wirkung ist ^) Hervorbringung einer Verändrung; diese aber ist nur bei dem Veränderlichen, Zufälligen^) möglich.</p>
+
+            <p>Der Gegenstand der Kunst sind daher veränderliche, zufällige Dinge.</p>
+
+            <p>2. Nicht alle veränderliche, und zufällige Dinge sind dem Menschen bekannt; und noch eine kleinere AnzahP) liegen inner- halb seines Wirkungskreises. Nun aber ist Kunst nur dasjenige Vermögen zu wirken, das dem Menschen beiwohnet.</p>
+
+            <p>Der Gegenstand der Kunst sind daher nur diejenigen veränderlichen und zufälligen Dinge, die innerhalb des menschlichen Wirkungskreises liegen.</p>
+
+            <p>III. Welches ist die Absicht der Kunst. ^</p>
+
+            <p>Absicht nennt man die Ursach, warum eine gewisse Handlung verrichtet wnrd, und ohne welche sie unterblieben wäre.</p>
+
+            <p>V Nach „ist" gestrichen: „nun". y „eine erworbene Fertigkeit" verbessert aus „ein erworbenes Vermögen". 'J Nach „ist" gestrichen: „so viel, als". *J „dem Veränderlichen, Zufälligen" verbessert aus „veränderlichen, zufälligen Dingen". ^J Nach „Anzahl" gestrichen: „aber".<pb n="7.358" xml:id="pbVII358"/> 358</p>
+
+            <p>Was nun Absicht der Kunst sei, ist hieraus schon deutUch.</p>
+
+            <p>1. Der Mensch ist von Natur hülflos und schwach, ohne Be- dekkung und ohne Waffen. Darum erfand er die Arzneikunst, darum die Baukunst und alle die übrigen Künste, welche zu seiner Erhaltung, und zu Befriedigung seiner Nothdurft unentbehrlich sind.</p>
+
+            <p>Der Mensch strebt nicht allein, sein Leben, und seine Gesundheit zu erhalten, er wünscht auch, seine Seele, und seinen Körper in eine angenehme Thätigkeit zu versezen. Darum erfand er die Dichtkunst, die Mahlerei und alle die Künste, die zwar zu seiner bloss thierischen Erhaltung entbehrt werden können, aber doch, wenigstens dem polizirten Menschen, zu seiner Glükseligkeit unumgänglich nothwendig sind. In beiden angeführten Fällen entstand also die Kunst aus einem empfundenen Mangel, und aus der Begierde, ihn auszufüllen. &gt; Die Absicht der Kunst ist daher, uns gewisse Güter zu verschaffen,^) nach denen wir streben. 2. Die Güter, die wir begehren, sind entweder unsrer Natur angemessen, oder nicht; ihr Besiz ist für uns möglich, oder un- möglich.</p>
+
+            <p>Die leztere Art der Güter kann kein Vernünftiger im Ernste wünschen, vielweniger aber, sogar Mittel anwenden wollen, sie zu erlangen.</p>
+
+            <p>Sie können also nicht zur Absicht der Kunst gehören, und die Absicht der Kunst ist daher nur: uns solche Güter zu verschaffen, die unsrer Natur angemessen sind, zu deren Besiz wir gelangen können.</p>
+
+            <p>3. Viele Güter sind von der Art, dass wir sie, ohne Uebung und Unterricht, durch bloss natürliche, instinktmässige Handlungen zu erreichen im Stande sind.</p>
+
+            <p>Instinktmässige Handlungen sind solche, wozu uns die Fertig- keit angebohren ist; angebohrene Fertigkeit aber haben wir von dem Begriffe der Kunst gänzlich entfernt.</p>
+
+            <p>Die Absicht der Kunst ist demnach: uns gewisse Güter zu verschatren, die wir begehren; und die unsrer Natur angemessen sind, zu deren Besiz wir gelangen können; die wir jedoch nicht durch bloss natürliche, ununterrichtete Fertigkeiten ^) zu erwerben vermögen.<note type="footnote" n="*)" resp="gnd-116890657"><hi>V „uns .... verschaffen" an allen Stellen verbessert aus „erreichen". ~j „Fertigkeiten" verbessert aus „Triebe".</hi></note></p>
+
+            <pb n="7.359" xml:id="pbVII359"/>
+            <p>IUI. Welches ist die Wirkung der Kunst. ^</p>
+
+            <p>Jede hervorbringende Ursach — und also auch die Kunst — muss eine Wirkung haben, die sie hervorbringt.</p>
+
+            <p>Jegliches endliche Ding existirt entweder im Raum, oder in der Zeit, oder in beiden zugleich.</p>
+
+            <p>Daher wirkt auch die Kunst entweder a. im Raum. Die Theile dessen, was sie hervorbringt, be- stehen neben einander; und alsdann heisst die Wirkung ein Werk. Oder b. in der Zeit. Die Theile dessen, was sie hervorbringt, folgen auf einander. Oder endlich c. im Raum, und in der Zeit zugleich. Einige der Theile von dem, was sie her^^orbringt, bestehen neben einander ; andere folgen auf einander. In diesem, und im vorigen Fall heisst die Wirkung eine Energie; so wie man die Kunst selbst im ersteren Fall eine bildende, in den beiden lezteren eine energische nennt.</p>
+
+            <p>Die Wirkung der Kunst ist folglich entweder ein Werk, oder eine Energie.</p>
+
+            <p>Nun ist der Begrif der Kunst vollständig bestimmt. Kunst ist: ein erworbenes Vermögen eines Menschen, eine gewisse Wirkung, nach Maassgabe gewisser festgesezter Regeln, hervorzubringen — und zwar ein Vermögen, dessen Gegenstand alle diejenigen veränderlichen und zufälligen Dinge ausmachen, die innerhalb des menschlichen Wirkungskreises liegen — dessen Absicht dahin geht, uns gewisse Güter zu verschaffen, welche wir^) begehren, die unsrer^) Natur angemessen sind, zu deren Besiz wir ■^) gelangen können, die wir ^) jedoch durch bloss natür- liche, ununterrichtete Fertigkeiten nicht zu erwerben vermögen — dessen Wirkung endlich entweder ein Werk, oder eine Energie ist.</p>
+
+            <p>Jm Jahre ij44 hatte James Harris, der Neffe und Schüler Shaftesburys, seine „Three treatises, concerning art; music, painting and poetry; happiness" er*j „unsrer" verbessert aus „ihrer". ^) „wir" verbessert aus „sie".<pb n="7.360" xml:id="pbVII360"/> scheinen lassen, die in etwas ungelenker Gesprächsform ästhetische und ethische Grundprobleme klärend behandelten. Der zweite Dialog mit seiner Scheidung der Künste in solche der Koexistenz und Sukzession wird imter den anregenden Vorläufern von Lessings Laokoon m/f Ehren genannt (Schitiidt, Lessing '^ i,4()8). Der erste Dialog liegt dem oben abgedruckten knappen Auszuge zugrunde. Humboldt hat ihn sicher nicht auf eigene Hand niedergeschrieben, sondern im Auftrage eines Lehrers; wer dieser war, ist nicht festzustellen, da Randbemerkungen fehlen. Man könnte an Engel denken : aber von einer ästhetischen Unterweisung Engels iyn Hause Humboldt ist sonst nichts bekannt; auch finde ich in Engels Schriften den Namen Harris nirgends genannt. Die Zeit der Niederschriß ist durch die Randbemerkung am Anfang als der März ijS^ bestimmt. Ein B, das sich am Rande der Handschrift noch findet, wird ebenso wie die Randbuchstaben in den folgenden philosophischen Aufsätzen zu fassen sein : es deutet an, daß der Aufsatz der zweite einer Reihe gewesen ist, deren andre Glieder verloren sind. Aus einigen wörtlichen Anklängen scheint mir hervorzugehen, daß Humboldt nicht nach dem englischen Original, sondern nach der anonymen Übersetzung „Jakob Harris^ Abhandlungen über Kirnst, Musik, Dichtkimst und Glückseligkeit" (Halle i-jSo) gearbeitet hat.<note type="footnote" n="*)" resp="gnd-116890657"><hi>V „wir" verbessert aus „die Menschen".</hi></note></p>
+         </div>
+      </body>
+   </text>
+</TEI>

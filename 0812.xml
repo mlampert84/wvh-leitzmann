@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Zehnte nemeische Ode</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Achter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif08humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1909">1909</date>
+                  </imprint>
+                  <biblScope unit="page" from="86" to="91"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1797">1797</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="8.86" xml:id="pbVIII86"/>
+            <head>
+               <title type="main">II. Zehnte Nemeische Ode.</title>
+            </head>
+            <p>An Theiaios, den Sohn des Ullas, den Ringer.</p>
+
+            <p>I. Strophe.</p>
+
+            <p>Danaos Stadt und der fünfzig herrlichthronenden Jungfraun preiset, o Charitinnen, Argos, Heres göttergeziemende Wohnung. Zahlloser Tugenden 5 Glanz umstrahlt sie, gefahrvoller Thaten Lohn.</p>
+
+            <p>Lang ist Perseus muthiger Kampf mit der Gorgo Medusa; viel der Vesten haben an Aegyptos Gestaden Epaphos Hände gegründet; lo von dem Pfad des Rechts wich Hypermnestra nicht, als nur sie den Mordstahl in der Scheide barg.</p>
+
+            <p>I. Antistrophe. Den Diomedes erhob zu den Unsterblichen einst die blauäugigte, blonde Göttin. In Thebe empfing die Erde, von Zeus 15 Donnergeschossen gespalten, den Seher, den Oikleiden, die Wolke des Kriegs. Auch mit schöngelockten Weibern prangt sie. Lang schon bewährte Zeus, zu Alkmenen und Danaen 20 kommend, diesen Ausspruch. Handschrift: Reinschrift (vgl. oben S. 2) S. 86—94- — Erster Druck: Wilhelm von Humboldts Gesammelte Werke 2, j4j—^48 (1841).<pb n="8.87" xml:id="pbVIII87"/> Und dem Vater Adrasts und dem Lynkeus verlieh' er der Weisheit Frucht, gesellt zu gerader Gerechtigkeit.</p>
+
+            <p>I. Epode.</p>
+
+            <p>Er rüstete Amphiiryons Speer mit Kraft. Dann er selber, der Allselige, 25 mischt er seinem Geschlechte sich bei. Denn als jener in ehernen Waffen die Teleboer tödtete, kam, ihm gleichend an Gestalt, der König der Unsterblichen in seinen Pallast, 30 pflanzend den unbezwingbaren Saamen Herakles, dessen Gattin jetzt. Hebe, in dem Olympos bei der vermählungknüpfenden Mutter weilt, der Göttinnen schönste.</p>
+
+            <p>2. Strophe. 35 Schwach ist mein Mund, jegliches herzuzählen wie vieles Guten Besitz der Argeier heiliges Land fasst. Schwer auch ists zu begegnen dem Ueberdrusse der Menschen. Aber dennoch erwecke die wohlbesaitete 40 Leier, und ergreife die Sorgfalt der Ringerspiele. Ein eherner Kampf treibt das Volk zu dem Opfer der Here und des Wettkampfs Entscheidung, da wo Ullas Sohn, Theiaios, zweimal siegend 45 der leicht gelungenen Arbeit Vergessenheit pflückte.</p>
+
+            <p>2. Antistrophe.</p>
+
+            <p>Auch in Pytho besiegt' er einst der Hellenen Schaar. Begleitet vom Glück nahm er in Nemea und im Isthmos den Kranz, und gab ihn den Musen zu pflanzen; 50 dreimal ein Sieger in den Thoren des Meeres, dreimal auf dem heiligen Boden in Adrastos Gebiet. — Vater Zeus, wonach das Herz im Busen sich sehnet, davon schweigt sein Mund. Aber in Dir ruht<pb n="8.88" xml:id="pbVIII88"/> 55 jeglicher Thaten Ende. Nicht mit arbeitlosem Sinn, kühnen Muth in der Brust, fleht er um Deine Gunst.</p>
+
+            <p>2. Epode.</p>
+
+            <p>Unverborgnes sing' ich, dem Gotte und jedem, der um den Gipfel der ersten der Kämpfe ringt: ^ „Pisa besitzt das höchste der Spiele, von Herakles gegründet." — Aber schon zweimal feierte ihn nacheinander der Athener Stimme beim Feste; und in feuergebrannter 65 Erde kam da des Oelbaums</p>
+
+            <p>Frucht zu Heres muthigem Volke, in des Gefässes buntgeschmückter Umzäunung.</p>
+
+            <p>3. Strophe. Strahlender Ruhm folgt oftmals, 70 o Theiaios, Deiner mütterlichen Ahnherrn vielbesungnem Geschlecht, durch der Charitinnen</p>
+
+            <p>Gunst und der T3^ndariden.</p>
+
+            <p>Warlich, war' ich Thrasyklos verwandt und Antias, ich würdigte, 75 nicht zu verbergen in Argos der Augen</p>
+
+            <p>Licht. Mit wie vielen Siegeskämpfen blüht Proitos rossenährende Burg; in dem Winkel Korinths, und viermal bei den Männern Kleones. '</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">3. Antistrophe. 80 Und von Sikyon kehrten sie wieder,</title>
+               </head>
+               <p>silberbeladen mit Bechern des Weins; aber aus Pellene, den Rücken mit weicher Wolle bekleidet. Aber des Erzes unendlichen Haufen vermag ich 85 nicht zu schildern; dieses zu zählen bedürfte längerer Müsse; welches Kleitor und Tegea und der Achaier hochthronende Städte, und Lykaion<pb n="8.89" xml:id="pbVIII89"/> legten an Zeus Altar, mit dem Laufe der Füsse 90 2u erstreiten, und mit der Hände Kraft.</p>
+
+               <p>3. Epode. Da Kastor zu gastfreundlicher Bewirthung zu Pamphaes kam und der Bruder Polydeukes, kein Wunder da, dass angestammt ihnen ist, 95 tref liehe Kämpfer zu seyn.</p>
+
+               <p>Denn die Schafner der weiten Sparta verwalten mit Hermes und mit Herakles</p>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">der Kämpfe blühendes Loos; Joo wachsame Sorgfalt führend</title>
+               </head>
+               <p>für die Gerechten unter den Sterblichen; ein treues Geschlecht der Götter.</p>
+
+               <p>4. Strophe.<note type="footnote" n="^)" resp="gnd-116890657"><hi>Wechselnd in wechselnder Folge wohnen einen Tag sie bei dem geliebten 105 Vater Zeus; aber den andern in den Tiefen der Erde, den Klüften Therapnes, einerlei Schicksal erfüllend. Denn dieses Leben, lieber als ganz ein Gott seyn, und den Himmel bewohnen, wählte einst Polydeukes, da Kastor gesunken war in der Schlacht. Ihn hatte Idas, zürnend über die Rinder, durchbohrt mit der Spitze der ehernen Lanze.</hi></note></p>
+
+               <p>4. Antistrophe. Vom Taygetos schauend, sah ihn "5 sitzen auf dem Stamme der Eiche</p>
+
+               <p>Lynkeus; denn ihm war unter den Irrdischen allen das schärfste Auge. Mit leichten Füssen ereilten sie bald ihn, und vollbrachten rasch da das grosse Werk. 110</p>
+
+               <p>V Erster Druck der von hier an folgenden Strophen unter dem Titel „Die Dioskuren aus Pindars zehnter Nemeischer Ode": Schillers Musenalmanach für das Jahr ijg8 S. 110—114.<pb n="8.90" xml:id="pbVIII90"/> I20 Aber Furchtbares litten wieder von Zeus Händen die Apharetiden. Denn plötzlich kam, sie verfolgend, der Sohn der Leda. Sie aber standen ihm entgegen, nahe dem Grabmal des Vaters.</p>
+            </div>
+
+            <div type="section" n="3">
+               <head>
+                  <title type="main">4. Epode. 125 Hier wegreissend Aides</title>
+               </head>
+               <p>Schmuck, den geglätteten Stein, warfen sie ihn auf die Brust Polydeukes; doch sie zerschmetterten nicht ihn, drängten ihn nicht zurück. 130 Losstürmend trieb mit dem schnellen Wurfspiess er in Lynkeus Seite das Erz. Aber gegen Idas schleuderte Zeus den feurigen, dampfenden Donnerkeil. Einsam verbrannten sie da zugleich. 135 Schwer ist der Zwist den Sterblichen mit dem Stärkeren zu beginnen.</p>
+
+               <p>5. Strophe. Schnell nun kehrte der Tyndaride zu der Kjraft des Bruders zurück. Noch nicht gestorben, aber röchelnd MO in des Odems Beraubung fand er ihn.</p>
+
+               <p>Seufzend, heisse Thränen vergiessend, rief er laut: „Vater Kronion, wo ist ein Ziel dieser Trauer?</p>
+
+               <p>Gieb mir zugleich mit diesem den Tod, o Herrscher; M5 denn es schwindet des Mannes Ruhm, wenn er der Freunde beraubt ist. Wenige nur der Sterblichen sind treu in der Gefahr,</p>
+
+               <p>5. Antistrophe. mitzutheilen die Arbeit." Also sprach er; aber Zeus kam ihm entgegen, 150 und sagte die Worte: „Du bist mein Sohn. Diesen pflanzte nachher — einen sterblichen Saamen — der Held, Deiner Mutter als Gatte sich nahend. Dennoch, wohlan!</p>
+
+               <pb n="8.91" xml:id="pbVIII91"/>
+               <p>geb' ich Dir hievon die Wahl. 155 Wenn Du, entfliehend dem Tode, und dem verhassten Alter, willst den Olympos bewohnen, mit mir und Athenen und dem schwarzgepanzerten Ares,</p>
+
+               <p>5. Epode. so ist diess Loos Dir beschieden. 160 Aber willst Du für den Bruder streiten; gedenkst Du von allem mit ihm nur das Gleiche zu theilen, so magst Du die Hälfte leben, unter der Erde weilend, aber die andre 165 in des Himmels goldenen Wohnungen."</p>
+
+               <p>Als der Gott also gesprochen, da theilte nicht mehr zwiefacher Rathschluss Polydeukes Seele; eilend löste er wieder die Augen, dann die Stimme 170 des erzbehelmeten Kastors.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

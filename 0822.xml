@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Choephoren</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Achter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif08humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1909">1909</date>
+                  </imprint>
+                  <biblScope unit="page" from="243" to="247"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1793">1793</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="8.243" xml:id="pbVIII243"/>
+            <head>
+               <title type="main">3- Choephoren.</title>
+            </head>
+            <p>I. Scene.</p>
+
+            <p>Orest.</p>
+
+            <p>Hermeias, Schattenführer, ehrend Vatermacht, sey Bundsgenoss und Retter jetzt mir Flehendem! Denn sieh! in dies Land kommend kehr ich heut zurück. Am Grabeshügel rufe laut dem Vater ich, 5 dass hörend ers vernehme</p>
+
+            <p>. . . . die Locke Inachos zum Pflegelohn, die zweite aber^) Träume schwarz verkündigend. Doch welches Schauspiel seh ich? welche Feierschaar kommt her von Weibern, angethan mit finsteren lo Gewanden? welchem Trauerloos vergleich' ich sie? Befiel dies Haus aufs neue Todesungemach jetzt, oder trefP ichs ahndend, dass sie Opferspreng' dem Vater bringen, süss den Unterirrdischen ?</p>
+
+            <p>Nicht anders ist es; auch Elektra schon vermeyn' 15 ich dort zu sehen, meine Schwester, tief umhüllt von Trauer. Zeus! gieb, meines Vaters Untergang-) mir zu rächen, sey wohlwollend selbst mein ^) Bundsgenoss ! Pylades, zurück nun treten lass uns, dass genau ich dieser Weiber Flehezug erkundige.</p>
+
+            <p>Handschrift (4 Qiiartseiten) im Archiv in Tegel. Ebenda ist noch eine Rein- schriß der Chorverse 20—81 (j Qiiartseiten) erhalten.<note type="footnote" n="*)" resp="gnd-116890657"><hi>V „die zweite aber'' verbessert aus „doch diese zweite". y „Zeus — Untergang" verbessert aus „O Kronion, gieb, des Vaters Tod". ^) „mein" verbessert aus „mir".</hi></note></p>
+
+            <pb n="8.244" xml:id="pbVIII244"/>
+            <p>2. Scene.</p>
+
+            <p>Chor. 2o Gesandt vom Hause, ^) komm ich her, und schlage, heiige Sprenge tragend, bang-) die Brust. Die Wange glänzet noch von blutger Wunde, frisch erst von dem Nagel durchfurchet.</p>
+
+            <p>Solang mein Leben währt, ^) stets weidet Weh das*) Herz. 25 Vom bittren, kleidverderbenden</p>
+
+            <p>Schmerz hängt zerrissen das Gewand, unheilvoll, freudlos, im Jammer zerfetzet, meines Busens Schleierhüll'.-^) 30 Denn bleiche Furcht, haarsträubende, des Weiberpallasts finstre Traumweissagerin,</p>
+
+            <p>Zorn auf vom Schlummer schnaubend, rief*') von innen</p>
+
+            <p>'^)aus der Tiefe der schweigenden Nacht der Mordthat Rachgeschrei,**) schwer stürzend auf das Haus. 35 Die Deuter dieser Träume dann verhiessen, gottbegeistert, dass, Blutschuld anklagend, die unter der Erde^) ihren Tödtern^°) zürneten. 40 Zu solcher undankwerthen Gabe nun des Unheils Abwehr,</p>
+
+            <p>1; „Gesandt vom Hause" verbessert aus „ Votn Haus gesendet".</p>
+
+            <p>") „bang" verbessert aus „laut".</p>
+
+            <p>3; „Solang — währt" verbessert aus „Durchs ganze Leben". ^) „das" verbessert aus „mein" aus „das". ^) „unheilvoll — Schleier hüll'" verbessert aus „des Busens Schleier, unglücklich von freudlos trübem Wehgeschick verletzt."</p>
+
+            <p>^J „rief" verbessert aus „tönt". 'j Vor „aus" gestrichen : „tief her". y „der Mordthat Rachgeschrei" verbessert aus „des Mordrufs Atigstgeschrei". ^) „Blutschuld — Erde" verbessert aus „Mordurtheil laut nun klagend (aus „laut Mord anklagend") die drunten".</p>
+
+            <p>^°) „Tödtern" verbessert aus „Mördern".</p>
+
+            <pb n="8.245" xml:id="pbVIII245"/>
+            <p>o, Weh! Erd'I o, Erde! suchend, sendet mich das gottvergessne Weib. 45 Das Wort auszusprechen hält mich Scheu.</p>
+
+            <p>Denn ist wo ^) Sühne, wenn zum Boden strömt das Blut? Weh! dreimaP) unglückseiger Heerd! Weh! Untergang des Hauses, Weh! denn sonnenscheues Dunkel, feind 50 den Menschen, birgt ^) schwarz den Pallast bei dem Tode der Herrscher.</p>
+
+            <p>Die hehre, demantfeste Würde, die stets unbekämpfte, die sonst*) Ohr und Sinn dem 55 Volke mächtig füllte, ist, entrückt, dahin. ■^) Denn wer heget Scheu noch? Glücksgenuss ist Gott allein in der Menschen Brust, und mehr als Gott.</p>
+
+            <p>Doch Dike, schauend stets, ereilt 60 die strafend schnell im *^) Tagesglanz, der, weilend, harrt im Dunkel sie der Dämmrung, grollbrütend, ^) indess andre ewige Nacht deckt.®)</p>
+
+            <p>Im^) Blut, das die Erde trinkt, die Nährerin, 65 gerinnt der Mord, rachentb rannt, ^^) zerströmt nicht. Denn Ate, wehschwangeren Gemüths, zerreisst, zerfleischet, ergrimmt, unheilbarer Krankheit Urheber. ^^)<note type="footnote" n="*)" resp="gnd-116890657"><hi>V „ist wo" verbessert aus „wo ist". ^j „dreimal" verbessert aus „Wehe!" y „birgt" verbessert aus „deckt".</hi></note></p>
+
+            <p>*■) „unbekämpfte, die sonst" verbessert aus „unbekämpft vormals (aus „einst")". ^) „dahin" verbessert aus „nicht jnehr".</p>
+
+            <p>^J „Dike — im" verbessert aus „ahndend rächerisch fasst Dike niederstürzend {aus „Dikes Sturz") schnell dies' in hellem".<note type="footnote" n="*)" resp="gnd-116890657"><hi>V „grollbrütend" verbessert aus „zornschwanger" . ^) „indess — deckt" verbessert aus „im Sinn, die fasst, ewig verhüllt, Nacht". ^J „Im" verbessert aus „Durchs".</hi></note></p>
+
+            <p>^°) „r achentbrannt" verbessert aus „Rache voll" aus „Rache heischend". ^V „Urheber" verbessert aus „Stifter".</p>
+
+            <pb n="8.246" xml:id="pbVIII246"/>
+            <p>Wer einmal kühn ^) der Jungfräulichkeit Gemach erschloss,^) 70 kennt ^) Heilung nie, und alle Quellen*) waschen stets umsonst, hinrieselnd Eines Stroms,^) des Mordvollbringers blutgetünchte Hand.</p>
+
+            <p>Doch mir ziemet (denn mir sendet' einst die Macht*') der Götter Noth, stadtumdrängend, fort mich 75 in Knechtschafts Joch führend aus dem Haus der Väter) jedes, seys Recht, seys Unrecht, was der Gebietenden Gewaltsinn kühn beschliesst, dienstbar ') stets zu loben, tief den bittren Hass verbergend; aber heimlich wein' So ich, bang verhüllten Hauptes, stumm das Unglücksloos der Herrscher, gramverzehrt.</p>
+
+            <p>[3. Scene.]</p>
+
+            <p>E 1 e k t r a.</p>
+
+            <p>Dienstbare Weiber, dieses Haus besorgende,^) da jetzt ^) Geleiterinnen meines ^°) Flehezugs ihr<note type="footnote" n="^^)" resp="gnd-116890657"><hi>„so steht wohlwollend" verbessert aus „mir, stehet freundlich". "j Darüber: „Nun auf den".</hi></note> seyd, so steht wohlwollend^-) auch mit Rath mir bei. 85 Des Grabes ^^) Hügel giessend diese Trauerspreng', was werd' ich freundlich sprechen? ^*) wie zum ^■^) Vater flehn? Sag' ich dass dem Vielgeliebten diess die Liebende,<note type="footnote" n="*)" resp="gnd-116890657"><hi>V „einmal kühn" verbessert aus „frevlerisch". y „Geynach erschloss" verbessert aus „Sitz öfnet (aus „aufbricht"), dem". *) „kennt" verbessert aus „ist". V „Quellen" verbessert aus „Ströme". ^J „hinrieselnd Eines Stroms" verbessert aus „abströmend Einen Pfad". y „Macht" verbessert aus „Hand". 'j „dienstbar" verbessert aus „knechtisch". ^) Darunter als Varianten: „Ihr Mägde, die ihr dienstbar dieses Haus be sorgt"; „Dienstbare Weiber, die ihr dieses Haus besorgt"; „Dienstbare Weiber, des Hauses Schaf ner innen, ihr!"; „Dienstbare Weiber, dieses Hauses Mägde- schaar"; „Dienstbare Weiber, dieses Hauses Eigenthum".</hi></note></p>
+
+            <p>V Darüber: „ihr". i'y „meines" verbessert aus „dieses". ^V Darüber: „mir".</p>
+
+            <p>^*J „sprechen" verbessert aus „sagen". 1*) „zum" verbessert aus „dem".<pb n="8.247" xml:id="pbVIII247"/> dem Mann die Gattin, meine Mutter, sendete?<note type="footnote" n="^)" resp="gnd-116890657"><hi>„des Opfers" verbessert aus „nun diesen". *J Darüber: „Sitte ist".</hi></note> Nicht wag' ichs, aber nichts zu sagen weiss ich sonst,-) 90 des Opfers^) Kuchen bringend meines Vaters Grab. Ermahn' ich ihn, wies hergebracht*) den Sterblichen, vergeltend, dieser Kränze Sendern wiederum zu geben Gabe, würdig ihrer Frevelthat?<note type="footnote" n="*)" resp="gnd-116890657"><hi>V „sendete" verbessert aus „mahnend schickt". ^) „aber — sonst" verbessert aus „und weiss sinnend sonst nichts Anderes".</hi></note></p>
+         </div>
+      </body>
+   </text>
+</TEI>

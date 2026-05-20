@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Note an Metternich</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Elfter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif11humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1904">1904</date>
+                  </imprint>
+                  <biblScope unit="page" from="39" to="46"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="fr">Français</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="11.39" xml:id="pbXI39"/>
+            <head>
+               <title type="main">XVIII. Note an Mettcrnich.</title>
+            </head>
+            <p>|X. Januar iSi ■^.</p>
+
+            <p>fOrii^iiul im K. ii. A'. JLittx-, IIi&gt;f- und Slii.itsjrc/iiy in Wien.)</p>
+
+            <p>In dem kriti.sc/irn Aui^cnblicli , jIs die preußische Ref^ierung über ihren Anschhtß ctn Rußland einen Entscliluß zu fassen peznnnv^en war, sandte sie den Oberst von Knesehccii nach HYcm, um Osterreich zu einer mö&lt;;lichst gemeinsamen Politik zu bestimmen. Am ij. Januar iHij traf Knesebeck in Wien ein und arbeitete mit Humboldt zusammen die folgende Note aus, die sich zu einer vollständigen Denkschrift über die politische Lage und die Absichten der preußischen Staatslenkung erweiterte. Läßt sich auch bei dem Mangel des Konzepts der Anteil der beiden Veifasser nicht genau sondern, so geht aus dem ganzen Tenor im Vergleich mit den Darlegungen Humboldts in seinen 'Wiener Berichten hervor, daß der Hauptinhalt und die Form von ihm stammt.</p>
+
+            <p>a \'icnne ce iS .lanvicr iSi-^. Les prcuves de contiance illimitee que les deux (&gt;ours de Vienne et de Berlin se sont donnees mutuellement, et Tetroite Union qui existe entr'elles et qui seroit dictec imperieuscment par les raisons politiques les plus importantcs, si eile n'etoit pas ci- mentee d'une maniere bien plus heureuse encore par les sentimens rdciproques des deux Souverains, ont engage S. M. le Roi de Prusse ä faire une nouvelle d^marche pour s'ouvrir sans resene dans les circonstances difliciles du moment actuel envers Sa Majestd Imperiale, et se concener avec Elle. S. E. Monsieur le Comte de Mettcrnich, Ministre d'Etat et des Affaires etrangeres de Sa Majeste Imperiale, n'ignore pas que S. M. le Roi a envo\'d Son Colonel et Aide de (]amp General, Monsieur de Knesebeck, avec une commission secrete a \'ienne. (]et ofticier a eu Thonneur de Lui remettre une lettre du Roi pour S. M. THrnpereur, et apres avoir cu quelques cntrcticns prealables avec Son Excellence, il s'empresse de s'acquitter, conjointement avec le soussignd I'^.nvoye extraordinaire et Ministre Plcnipotentiaire de Sa Majeste Prussienne par la presente note des Ordres qui lui ont 6t6 donnes.</p>
+
+            <p>La tournurc que la guerre entre la Russie et la France vient de prendre, a du rdveiller non seulement le voeu ardent, mais<pb n="11.40" xml:id="pbXI40"/> et un ordre convenable entr'elles. 1 /Aiitrichc et la Pnisse sont Celles qui. interess«5es principalement au rciablissemcnt d'un pareil ordre, scmblent aussi Ominemment destinces a le ramener. Leur position g^ographique mcmc les appelle a regier les dcstiiK^es de TAllemagne, et a donner rimpulsion et la direction a ses forces rdunies; et TAllemagne est le seul pays, a qui la Providence paroisse avoir assigne le beau röle de devoir maintenir rdquilibre parmi les Puissances de TEurope, sans pouvoir Jamals leur donner de trop vives alarmcs. Car quel que soit le Systeme politique qu'on adopte, on n'en inventera Jamals, oü un pareil equilibre soit vraiment assurd. sans qu'il repose sur une independance entiere de TAlle- magne, et un accord parfait entre les Princes qui y ont des possessions.</p>
+
+            <p>S. M. le Roi de Prusse a vu avec la plus vive satisfaction que la Cour de Menne est penetree de ces principes. Elle a ete la premicre qui de son propre mouvement a represente dans des notes egalement fortes par leur contenu, et par le ton qui y regne, a Celle des puissances en guerre de laquelle il faut avec raison attendre la plus grande Opposition au retablissement d'un Systeme politique plus equitable, qu'il est indispensable de faire la paix, et qu'il est necessaire d'en faire une generale, et assise sur des bases grandes et larges. C'est meme sur ces pieces surtout que la Cour de Berlin fonde son espoir de pouvoir concourir avec Sa Majeste Imperiale ä l'execution d'un plan aussi vaste, et aussi digne d'etre concu par une grande puissance et par un Ministre courageux et eclaire ; ce sont elles qui ont principalement engage Sa Majeste Prussienne ä faire les demarches actuelles.</p>
+
+            <p>Le Roi ne s'est point dissimule les dangers auxquels peut entrainer Texecution d'un pareil plan. Jamals grand but n'a ete atteint sans de grands efforts; et la resolution ferme et inebranlable d'en venir ä une paix durable, peut amener la necessite de faire une guerre, dont les chances ne sont gueres exemptes de perils. Mais il n'y a certainement point d'autre moyen de remedier aux maux qui affligent l'Europe, et le moment est tel qu'il n'y a aucune puissance qui ne se repentiroit de l'avoir laisse echapper. Sa Majeste Prussienne est donc resolue, si S. M. l'Empereur se- conde Ses intentions d'appuyer un pareil plan de toutes Ses forces,</p>
+
+            <pb n="11.41" xml:id="pbXI41"/>
+            <p>Dans ces circonstances ou S, M. le Roi de IVussc voit con- courir les voeiix les plus imiines de Son coeur. et Ics raisons politiques les plus imperieuses au meme but, c'est-.^-dirc a celui de iier Ses iniercts aussi eiroitement que possible i\ ceux de S. M. rKmpereur d'Autriche, il a dcrnnd aux soussignds des instructi(jns dont la tenue generale est, de declarer que, si Sa Majesie Imperiale est rdsolue d'annoncer aux Puissanccs bclligeranies Sa Mediation armdc comme une mesure dictde par Ses intdrets, et prdsumdc agrdable pour elles, et d'appuyer cette Medialion d'une manicre efticace, le Roi de Prasse est pret i\ concourir sur Son invitation a une entreprisc aussi belle, et surtout aussi ndccssaire avec toutes les forces qui sont a Sa disposition. II est naturel, qu'on n'oscroit se borner dans un parcil cas simplement i\ des armemens dans rintdrieur de la Monarchie, et que Tattitude des puissanccs m6- diatriccs devroit aussi etre rendue imposante par des positions militaires prises adroitement. Mais les circonstances amenees par la lin de la campagne presente sont Celles, que 80000 hommes rassembles sur des points en Allcmagne, 30000 envoyes en Italic, et 30000 tenus disponibles pour des mouvemens vers le Nord de TAllemagne suftiroient sans doute du cöte de TAutriche pour faire une grandc impression. Le Roi est dgalemcnt pret dans ce cas ä s'entendre avec la Cour de Vienne sur les bases de la paix, et a aussi etendu sur ce point les instructions des soussignes. Le but essentiel en seroit de rendre a TAllcmagne son independance entierc, de reparer les torts que les evenemens des dernieres annees ont causds a plusicurs puissanccs, et d'ctablir par LAutriche et la Prusse eiroitement unies ensemblc, et soutenues par les autres l^rinces de FAllemagne, une masse de lorces capable de maintenir un jusie equilibre entre les puissanccs de l'Ouest et Celles du Nord et de Li-st. Sa Majestd en Se prononcant ainsi, nc Se lait point Illusion sur la situtation actuelle de Ses Ktats; mais les soussignds<pb n="11.42" xml:id="pbXI42"/> ment, par scs movens miliiaircs. cnC(M-e trcs-reels, puisqu'on s'est hatt5 de les r(?organiscr chaque fois que des circonstances malheu- reuses leur avoit portt5 atteinte, enlin par Tesprit de ses habitans, possede encorc une forcc d'action propre i\ ctre mise dans la balance.</p>
+
+            <p>Les soussignt^s croicnt pouvoir se dispenser d'entrer d'avan- tage dans le detail de Icurs instriictions. 11s n'en ont meme expos^ la teneur g(5nt^rale piiisque la premicre loi que S. M. le Roi, leur Maitre, leur ait prescrite, est celle d'une franchise absolue, et puisqu'ils sont pcrsuadds qu'il nV a rien de si avantageux pour une nc^gociation entre des Cabinets amis et guid^s par les memes principes, que d'exposer mutuellement sa pensde toute entiere. (]ar d'ailleurs ils sentent parfaitement que le fond de leurs Instructions, et le moment dans lequel se trouve la marche progressive que le Cabinet de Menne semble avoir adoptee pour arriver au meme but, ne coincident pas tellement qu'ils puissent se tiatter ä present d'une reussite parfaite de leur commission.</p>
+
+            <p>La Cour de Vienne a temoigne a la France son desir qu'on en vint ä une pacification stable et generale, et lui en a meme d^peint la necessite avec les couleurs les plus fortes; la France a bien accueilli cette demarche, et s'est montree disposee ä rendre le repos ä l'Europe; la Cour de Vienne est autorisee ä faire les memes demarches aupres des Puissances coalisees; eile est sortie par lä en quelque facon du röle de puissance simplement auxiliaire qu'elle jouoit jusqu'ici. Tl est naturel ä present que les autres puissances donnent egalement leur assentiment, qu'une des deux parties prononce les bases de la paix, et que l'autre se declare sur elles; et ce n'est qu'alors que viendra le moment vraiment ddcisif. S'il est permis de juger d'apres ces premieres demarches d'Autriche sur Celles qui vont leur succeder, il faut avouer qu'elles sont trop sages, trop bien calculees, et surtout trop energiques pour qu'on puisse les prendre pour des demarches isolees, et qu'on ne doit pas y voir le premier anneau d'un plan general et vaste, et l'eiTet d'une resolution formelle de prendre une part reelle et vraiment active aux evenemens du jour, et de venir effi- cacement au secours de l'Europe affligee par des guerres inter- minables. Si ces suppositions sont fondees, le Systeme de la Cour<pb n="11.43" xml:id="pbXI43"/> ce plan plus dtcndu poiir Ic monicnt simplcmcnt i\ la questi(jn : si la (.'our de \'icnne alors qiie des bases de paix seront pro- noncöcs, et qii'ellc lcs jiigera convenables il la cause commune de l'F^urope et i\ ses intdrets paniculicrs, est rdsolue d'ajrir d'unc maniere active et dnergiquc avec toutes ses forces militaires pour faire adopter ces bases i\ la bYancc?</p>
+
+            <p>ou sie eile veut sc borner i\ un role plus passif, et simpicmeni employcr lcs voyes de la persuasion et des negociations pour faire que ces bases soyent acccptces, sans lcs appuyer de ses forces militaires ?</p>
+
+            <p>La (]our de Hcrlin Ic rcgardera comme unc nouvclle marque, infiniment precicuse de la confiance de ccllc de \'icnnc, si eile voudra s'expliqucr sur cette double qucstion.</p>
+
+            <p>Si la rdponsc etoit affirmative pour la premicrc, et que la Cour de Berlin convint egalcmcnt des memes bases de la paix, les soussignds repetent quMls sont autorisds ä ddclarer de leur cötd un concours parfait du Roi, leur Maitre, ä un pareil projet, et munis des pouvoirs ndcessaires pour entamer et terminer des negociations lä-dessus. Sa Majest^ ddsire du fond de Son coeur de Sc Her etroitcmcnt i\ TAutrichc, et Elle prdferoit intiniment d'accdder a sa Mediation armde plutöt que de changcr cntierement et brusqucmcnt de parti ce qui n'est analogue ni ä Son caracterc, ni ä Ses principes. Mais lcs soussignes concoivent qu'une pareille ndgociation, et mcme la ddclaration a son dgard peut cntrainer des delais avec eile, d'apres lcs ddmarches que le Ministere Autrichien a faitcs jusqu'ici, et dont il attend les rdsultats ulterieurs. La Prussc malheureusemcnt sc trouvc dans une Situation infmiment pressante, et cette Situation oblige lcs soussignes a cn venir avant toute chose ä d'autrcs consideralions et i\ d'autrcs instances. Bien loin de pouvoir attendre, commc TAutriche, que sa Position mettroit ddjä i\ Tabri , si eile nc pouvoit pas sc reposer sur ses armemcns; peu de semaincs, peu de jours mcme peuvent suffire pour faire dprouver ä Sa Majestd Prussienne lcs plus crucls cmbarras, et La forcer a prendre un pani decisif. Les troupes Kusses sc trouvent deji\ sur la l\issarge; rien nc peut<pb n="11.44" xml:id="pbXI44"/> et la Prusse (."»rientale. t^iuelle reponsc Sa Majcste donnera-t-clle dans unc Situation aussi penible?</p>
+
+            <p>11 n'cst point nccessaire d'achcvcr ce tablcau; Ics circonstances, la Situation des choscs, les scntimcnts connus de Sa Majest^, tout parle de soi-meme. La seule chosc qui dans ce cas pourroit fournir une consolation vdritable et unc tranquillit^ entiere au Roi, scroit, si la C^our de \'icnne en s'entendant avec Lui sur les bases de la paix future, et animde commc Lui, uniquement du ddsir de la voir conclue, se mettoit en dtat de faire sa paix particuliere d'apres son acquiescement avec la Russie, et Lui promettoit le concours le plus actif des que les troupes Russes, ayant passe la \'istule, s'avanceroient jusqu'a l'Oder.</p>
+
+            <p>Mais la Situation que les soussignes vicnnent de depeindre, est si cruelle que leur premier et plus pressant devoir est celui de tacher de fournir a leur Cour au moins une base certaine qui puisse guider ses deliberations dans ce cas malheureusement trop facile ä prevoir. De la maniere dont le Cabinet de Berlin est place entre les trois grandes puissances du Continent, le point le plus important pour lui, sans meine encore parier des allcctions et des sentimens personnels de S. M. le Roi, est celui d'etre entiercmcnt eclaire sur la conduite que tiendra la Cour de Vienne. Toute resolution que les circonstances pourroient determiner le Gouvernement Prussien ä prendre, surtout cellc de se Her plus etroitement a l'Autriche, devient dans sa position particuliere et rapprochee du theätre de la guerre et des armees Russes difticile et embarrassante, autant qu'il n'est pas sür que la Cour de Vienne ne restera point en activite d'alliance avec la France. La Cour de Vienne peut toujours s'attendre aux menagemens les plus soigneux de la part de la Russie. Cette puissance a un interet evident a ne pas lui donner Heu ä de justes griefs, et a ne pas la porter par lä ä prendre une part principale ä la guerre. Sa Majeste Prussienne peut esperer ä juste titre, et meme etre süre de tous les menagemens et egards, compatibles avec les circonstances, de la part de S. M. l'Empereur Alexandre; mais la position geogra- phique des Ltats Prussiens s'oppose a ces menagemens, et si les Russes veulent s'avancer au dela de la Vistule, ils doivent faire decider auparavant toutes les questions sur la Prusse, et quelle que</p>
+
+            <pb n="11.45" xml:id="pbXI45"/>
+            <p>(]ontormemcnt i\ celte rellcxion, et a tout cc qu'ils vicnncnt d'exposcr ici, les soussignds sc voycnt par consc\]ucnt oblig(5s de faire les instances les plus vires et les plus pressantes pour c]ue Sa Majestd lmp(?rialc daigne d^clarer ä S. M. Ic Roi, Icur Maitre, par teile voyc qui Lui paroitra la plus convenable, mais d'unc maniere cenainc et pr(^'cise, que Sa Majestd est rds&lt;jlue ä nc plus faire coopdrer au rcnouvellement de la campagne Ses troupes avec les troupes Francoises, ou prendre en gencral unc part activc a la guerre contre les enncmis de la bVance.</p>
+
+            <p>Si les soussignds ont bien saisi le Systeme actuel de la Cour de \'iennc, unc parcille r^solution se trouve d6]ä d'ellc-memc dans la marche qu'ellc s'est propos^e, et sur laqucllc eile est memo deja enirec en pourparlers avec la France. (&gt;ar des qu'clle porte des parolcs de paix aux dcux parties, qu'elle est autorisde a n^go- cier avec les enncmis de son Allie, et que sous cc rapport sa libcrte et sa mobilitd entiercs lui sont rendues, eile prend le röle de puissance mddiatrice. Mais une Mediation quelconque admettroit-ellc jamais la qualite d'Allid d'unc des deux parties dans le Mediateur, et que seroit unc Mediation qui nc scroit pas forte du caracterc d'impanialitd dont eile portcroit rempreinte? 11 y a plus. L'Autriche a fait les eübrts les plus genereux pour prevenir la guerre actuelle; n'y ayant point reussi, eile a ^te la premiere a d^clarer i\ la France que, quand meme la continuation de cette guerre nc lui seroit pas impossible, eile nc sauroit cependant la conduire ä aucun rcsultat a la fois d^cisif et avantageux. L'Autriche elle-memc ne peut donc avoir aucun intdret ä y cooperer encore. On peut meme dire avec assurance qu'aussi la France a bien plus besoin d'un Mediateur fort et imposant ä tous les dgards que de Taccroissement de moyens militaires, que lui fournit un (^orps auxiliaire.</p>
+
+            <p>Les soussignes n'ont ajouie cette rellcxion a Icur demande que puisqu'il Icur importait de prouver ä S. E. Monsieur le (dornte de Metternich qu'elle n'est en aucune maniere dtrangere au Systeme de sa (]our qui, comme ils le rdpetent avec plaisir, scmblc au fond le meme que celui de la Icur; mais qu'il Icur paroit au con<pb n="11.46" xml:id="pbXI46"/>parcille dticlaration, ce n'cst certainemcnt point dans rintention, qu'elle doivc precisdment la dctcrmincr dans ses decisions; et beaucoup moins cncore liii scrvir d'appui pour prendre un parti oppose a cclui qifelle suit a prtiseni. 11s sentent parfaitement que mcmc la dclicaicssc amicale de Sa Majest^ Imperiale pourrait r(?pugner a donner ainsi rimpulsion dans un cas aussi difticile. l.cs Ciouvernemens, comme les individus, ne doivcnt prendre conseil que d'eux-memes; et c'est aussi ainsi que la Prusse ira au devant des evenemens qui Tattendent. Mais les uns et les autres ont pourtant besoin de certaines bases dans leurs deliberations, et si S. E. Monsieur le Comte de Metternich examine bien la Situation actuelle du Gouvernement Prussien, Elle ne saura nier qu'il ne peut prendre un parti decisif sans au moins se proposer la question dont il s'agit ici. Or doit-il se contenter de la resoudre d'apres des suppositions, ou doit-il y attendre la reponse de la bienveillance et de l'amitie du Souverain meme, son voisin et son ami, et qui lui a fourni des preuves multipliees de Ses sentimens ?</p>
+
+            <p>Si le Cabinet de Berlin est prive d'une pareille base dans ses deliberations, il se trouve, comme les soussignes n'hesitent point ä le dire, dans une incertitude entiere : Soit alors que les progres des Armees Russes condamnent la Prusse ä une passivite absolue, ou qu'elles la forcent a suivre leur impulsion, cet evenement ne peut, aussi politiquement pris, pas ctre indillerent ä l'Autriche, comme le sort du Roi ne Test certainement pas au Coeur de Sa Majeste Imperiale. Une declaration de cette nature seroit enfin certainement la plus propre ä permettre ä la Prusse de suivre avec succes le Systeme adopte par la Cour de Vienne, tandisque, aussi longtemps qu'il est denou^ de cette declaration, ce Systeme ne sauroit offrir une sürete süffisante ä un Etat qui, se trouvant par les circonstances du moment dans une Situation entierement differente d'elle, doit abandonner la plus grande partie de ses pro- vinces aux ravages de la guerre, en n'en sauvant qu'une tres-petite, et qui, s'il continue ä fournir un Corps auxiliaire ä la Erance, n'a gueres de beaucoup d'autres moyens ä disposer.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

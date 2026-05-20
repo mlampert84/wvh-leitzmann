@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Über Aufhebung des Verbots, fremde Universitäten zu besuchen</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif10humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1903">1903</date>
+                  </imprint>
+                  <biblScope unit="page" from="237" to="238"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="10.237" xml:id="pbX237"/>
+            <p>billigt, da diese Summe, vorzüglich von dem sonst zu den nun- mehr abgeschafften Jettons bestimmten Gelde in der Akademie- Kasse vorhanden war.</p>
+
+            <p>Berlin, den 31. Maerz 18 10.</p>
+
+            <p>Die Section für den öffentlichen Unterricht.</p>
+
+            <p>Humboldt. An des Königs Majestät.</p>
+
+            <head>
+               <title type="main">XL VI. Über Aufhebung des Verbots, fremde Universitäten zu besuchen.</title>
+            </head>
+            <p>4. April 1810.</p>
+
+            <p>(Abschrift im Geh. Staatsarchiv.)</p>
+
+            <p>Friedrich d. Gr. hatte im Jahre i'j4g ein Edikt erlassen, das den Besuch ausländischer Schulen und Universitäten unbedingt bei „ Veidust aller Beförderimgen in den königlichen Staaten, für Adelige bei Vermögenskonßskation" verbot; den steten Übertretimgen gegenüber wurde es i-j^o und ij^i erneuert; i'jSj wurde auf seine genaue Befolgung gedrungen; i-jg^ gab Friedrich Wilhelm IL „dem officio fisci die Vigilanz gegen die Übertreter.^' Schon war am i. März i8og ein von Nicolovius gezeichneter Antrag, der die Auf hebimg des Verbotes anregte, seitens der Sektion an den Grafen Dohna gerichtet worden, aber dieser hatte Bedenken, ihn dem Könige vorzulegen. Humboldts Ausfühnmgen in dem folgenden Schriftstück veränderten seine Ansicht, so dass er den Antrag befürwortete, imd nun erfolgte durch Kabinetsordre vom ij. April 1810 die Aufhebung des Verbots.</p>
+
+            <p>In der hiesigen ^^ossischen Zeitung vom 27. März d. J. be- findet sich eine Anzeige aus dem Königreich Westphalen, welche unter mehrern Nachrichten über die mit den dortigen Universi- täten vorgenommene Veränderungen auch die enthält:<pb n="10.238" xml:id="pbX238"/> einer Anstellung in hiesigen Landen verlustig gehen will ; so wagt die Section des öffentlichen Unterrichts es, Ew. Majestät unter- thänigst anheimzustellen, ob nicht jenes Gesetz, dessen Aufhebung allgemein gewünscht wird, wenigstens allmählich und theilweise zu modificiren sein dürfte, wozu sich gleich jetzt eine Gelegenheit auf den Fall darbieten würde, wenn die oben angeführte Zeitungsnachricht, deren Gewissheit freilich nicht zu verbürgen ist, sich officiell bestätigen sollte.</p>
+
+            <p>Sollten Ew. Majestät dieser Meinung beizutreten geruhen, so würde die unterzeichnete Section Allerhöchstdero Auswärtiges Departement ersuchen, officielle Erkundigung hierüber anstellen zu lassen und, im Fall jene Nachricht wahr befunden würde, zu erklären, dass gegen das Königreich Westphalen dies Gesetz nicht mehr in Kraft sein solle. Eine solche zuerst zu Gunsten der westphälischen Regierung vorgenommene liberale Abänderung jenes Gesetzes würde gewiss bei den Bewohnern beiderseitiger Staaten eine sehr günstige Sensation machen und auch vielleicht andre deutsche Regierungen bewegen, das noch bei ihnen bestehende Verbot aufzuheben.</p>
+
+            <p>Es ist nicht zu besorgen, dass durch diese Modification des in Rede stehenden Gesetzes die diesseitigen Universitäten und Schulen auf die Dauer verlieren dürften, indem theils für die bestehenden durch Ew. Majestät Gnade schon so viel geschehen, dass die Landeskinder doch immer durch dieselben stärker werden angezogen werden, theils, wenn die Universität in Berlin erst zu Stande gekommen sein wird, der preussische Staat durch selbige in ein grosses Uebergewicht gegen die übrigen Universitäten, hauptsächlich des nördlichen Deutschlands, treten wird.</p>
+
+            <p>Ew. Majestät höhere Entschliessung über diesen Antrag er- wartet die unterzeichnete Section in Ehrfurcht.</p>
+
+            <p>Berlin, den 4. April 1810.</p>
+
+            <p>Die Section für den öffentlichen Unterricht.</p>
+
+            <p>Humboldt. An des Königs Majestät.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

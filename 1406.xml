@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Materialien. Erster Band.</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Vierzehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif14humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1916">1916</date>
+                  </imprint>
+                  <biblScope unit="page" from="359" to="359"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1794">1794</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="14.359" xml:id="pbXIV359"/>
+            <p>6.</p>
+
+            <head>
+               <title type="main">Materialien.</title>
+            </head>
+            <p>Erster Band. 1797. 1798.</p>
+
+            <p>Handschrift (s^g Quartseiten, von denen S. 25 — 48, j^—gö und 2/7 — 25g fehlen) im Archiv in Tegel. Der ursprüngliche Gesamtumfang ergibt sich aus einem in der Handschrift auf der Rückseite des Titelblatts stehenden Inhaltsverzeichnis, das zugleich lehrt, daß die Aufzeichnungen bis Ende des Jahres i~g8 reichten. Die Handschrift, alle Abend bloß für sich, ohne daß sie jemand sehen sollte, geschrieben, gehörte leider zu den bei der Plünderung Tegels durch die Franzosen im Jahre 1806 zu Schaden gekommenen ; die jetzt verlorenen Hefte scheinen mir dieselben zu sein, die nach der Wiederaufsammlung von Humboldts Bruder Alexander an Ancillon weitergegeben worden sind {Wilhelm und Karoline von Humboldt j, gs), dessen vorhandener Nachlaß sie nicht mehr enthält.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

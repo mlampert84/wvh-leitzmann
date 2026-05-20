@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Als Gesandter in England</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zwölfter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif1201humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1904">1904</date>
+                  </imprint>
+                  <biblScope unit="page" from="202" to="215"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="fr">Français</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="12.202" xml:id="pbXII202"/>
+            <p>geleitet haben. Ew. Durchlaucht beobachten zu sehr dieselben Grundsätze, um mich hierin zu missbilligen. Wenn Sie in dem Fall, von dem hier die Rede ist, verschiedener Meynung sind, so kann es nur daher rühren, dass Sie andere Ansichten über die Personen und Verhältnisse haben. Ich bin weit entfernt, die meinigen diesen vorziehen zu wollen, aber Ew. Durchlaucht fühlen, dass ich dennoch nur den meinigen zu folgen vermag.</p>
+
+            <p>Ich brauche Ew. Durchlaucht nicht zu sagen, dass ich diesen Brief niemandem, ohne Ausnahme, gezeigt habe, noch zeigen werde. Nur wenn Se. Majestät der König meine Me3^nung über diesen Gegenstand einfordern, oder mir zu irgend einer Zeit, wo dieselben Umstände obwalteten, den Eintritt ins Ministerium anzutragen geruhen sollten, würde ich von meiner darin ausgesprochenen Ansicht des jetzigen Ministeriums bei Sr. Königlichen Majestät Gebrauch machen, und bloss zu diesem Zwecke habe ich eine Abschrift dieses Schreibens behalten.</p>
+
+            <p>Humboldt.</p>
+
+            <head>
+               <title type="main">XXXI. XXXII. Ais Gesandter in England.</title>
+            </head>
+            <p>Humboldt war zuerst zum Gesandten in Paris bestimmt ; da aber die dortige Regierung bat, den ihn vertretenden Grafen Goltz dort zu lassen (Richelieu an Hardenberg, Paris, ji. August 1816), wurde ihm die Mission in London übertragen. Am. rj. September 181 j reiste er von Frankfurt ab und traf am ^. Oktober in London ein, wo er bis zum ^o. Oktober 1818 weilte. Unter den Angelegenheiten, die während dieser Zeit dort verhandelt wurden, erregte sein Interesse besonders die Angelegeyiheit der Barbaresken, deren Räubereien die Schiffahrt im mittelländischen Meere unsicher machten. Die Vertreter der fünf Großmächte hielten Konferenzen ab, für welche Humboldt zwei Denkschriften (XXXI. XXXII) ausarbeitete, die beide dem g. Protokoll der Sitzung vom 11. Dezember iSi"] beigefügt waren. XXXI. Sur les rapports des Etats Barbaresques avec la Porte Ottomane. Dezember 181 7.</p>
+
+            <p>(Abschrift im Geh. Staatsarchiv.)</p>
+
+            <p>Le Maroc ne se trouve dans aucune dependance de la Porte.<pb n="12.203" xml:id="pbXII203"/> en temps , et leur bonne harmonie n'a ete troublee que momen- tanement par des reclamations de la Porte relatives ä des bätiments Ragusains pris par des corsaires de Maroc. Les liens religieux qui les unissent, ne laissent pas que d'influer aussi sur leur poli- tique, et c'est ainsi que l'Empereur de Maroc paya 1784 ä la Porte quatre millions de francs, comme des subsides contre les Infideles, et qu'il lui envo5^a 1798 des troupes lors de l'invasion des Francais en EgypiQ.</p>
+
+            <p>Alger, Tunis et Tripoli furcnt conquis par les Turcs au seizieme siecle et gouvernes par des Pachas, comme des Provinces de l'Empire Ottoman.</p>
+
+            <p>Horuc Barberousse se rendit maitre d'Alger, et son frere Schereddin Barberousse en remit la souverainete ä la Porte 1518. L'Empereur Selim le nomma Pacha et lui envoya 2000 Turcs bien armes pour sa defense.</p>
+
+            <p>Le meme Schereddin s'empara 1533 de Tunis ä l'aide d'une flotte Turque dont il avait le commandement.</p>
+
+            <p>Tripoli fut conquis par Dragut, successeur de Schereddin qui, ayant echoue dans son expedition contre l'ile de Malte, tourna 1551 contre Tripoli et forca les Chevaliers de l'Ordre qui etaient alors maitres de la ville, ä la lui remettre.</p>
+
+            <p>La dependance dans laquelle ces trois Etats se trouvaient immediatement apres la conquete de la Porte, ne resta pas longs- temps la meme, la forme du gouvernement fut insensiblement changee, et chacun des trois Etats se trouve ä present dans des rapports differents avec TEmpire Ottoman.</p>
+
+            <p>A Alger le Pacha fut originairement le chef de la milice Turque. 11 presida le Divan au nom du Grand-Seigneur, et le Divan n'eut qu'une voix consultative. Le Pacha nomma ä tous les em- plois, il ordonna et leva tous les impöts et exerca le droit de la guerre et de la paix, ce qui prouve que des l'origine ces petits Etats guerroyaient pour eux et independamment de la Porte. Les Algeriens attaquerent plus d'une fois les vaisseaux des nations qui avaient des traites d'alliance avec la Porte, et n'eurent meme point toujours egard ä la protection accordee par cette derniere. C'est par cette raison que la Porte stipula expressement dans l'art. 21 du traite de 1612*) avec la Hollande que,</p>
+
+            <pb n="12.204" xml:id="pbXII204"/>
+            <p>»si les Algeriens n'obeiraient pas ä ses ordres et que les Etats-Generaux emploieraient la Force contre eux, la bonne harmonie entre la Porte et la Republique de Hollande n'en serait point troublee, et que la Porte admettrait toujours les excuses que les Hollandais feraient ä cet egard«.</p>
+
+            <p>Dans le seizieme siede l'Angleterre se servait egalement de l'autorite de la Porte pour proteger son commerce contre les Al- geriens, mais les defenses les plus rigoureuses de la Porte resterent infructueuses. Bientöt apres le Divan etendit ses prerogatives et se crut enfin assez fort pour secouer le joug des Pachas. II porta en 1627 des plaintes ä Gonstantinople contre eux et demanda que la Milice füt autorisee ä se nommer elle-meme son chef, qui serait en meme temps President du Divan; que le Pacha que la Porte continuerait a envo3^er, ne serait regarde que comme son Ambassadeur et ne paraitrait au Divan que lorsqu'il aurait ä s'acquitter de quelque ordre particulier du Grand-Seigneur. On renonca en meme temps ä toutes les sommes que l'Etat recevait jusque lä de la Porte. Toutes ces demandes furent accordees par Amurat IV., les Pachas devinrent des prisonniers d'Etat, renfermes dans leurs palais, et tout le pouvoir etait concentre dans le Divan et le Dey, qui etait son Chef. II ne manqua plus que de se debarasser entierement des Pachas, et c'est lä ce que fit le Dey Baba-Ali. II envoya 17 10 le Pacha comme prisonnier ä Gonstantinople et engagea la Porte ä renoncer au droit d'avoir un Pacha ä Alger, ä promettre qu'elle reconnaitrait toujours le Chef que la Milice se donnerait comme Pacha Dey, et a ne se reserver que la faculte d'envoyer dans des cas particuliers des Ambassadeurs ä Alger. Depuis cette epoque cette Regence devint d'un Etat dependant un allie qui ne paie point de tribut ä la Porte, mais lui envoie des presents et en recoit, ä son tour.</p>
+
+            <p>A Tunis les Pachas Turcs perdirent dejä au seizieme siecle leur pouvoir et resterent depuis ce temps sans aucune influence sur les Affaires de l'Etat. Le Divan et son President, l'Aga, les dirigea entierement. Mais, ce pouvoir ne dura que peu d'annees, et en 1575 la milice Turque se choisit un Dey qui s'empara de la plupart des prerogatives du Divan. Un renegat corse Mozat*) au commencement de Juillet 1612 bei Diimont Corps diplomatique vol. V pars 2 5. 205/.<pb n="12.205" xml:id="pbXII205"/> ä qui le Dey Kara Osman avait confie la charge de Bey, destinee ä lever les impöts, declara ensuite cette charge hereditaire dans sa famille, et depuis ce temps les Beys devinrent insensiblement tout-puissants, quoique les Deys, nommes par la voie de l'election, continuassent toujours ä subsister. Dans les querelles qui s'eleverent entre les Deys et les Beys, les Algeriens s'enmparerent 1616 de Tunis, y changerent la forme du Gouvernement et se rendirent tributaire cet Etat, meme avant qu'il ne füt affranchi de la dependance de la Porte Ottomane. Les Beys hereditaires furent ä present veritables souverains, les Deys, toujours eligibles, furent leurs creatures, et le Divan n'osa pas s'opposer ä la volonte des Beys ; les Pachas Turcs resterent dans leur premiere nuUite. La dependance d'Alger devint plus pesante et le tribut fut augmente l'an 1757, apres une tentative infructueuse que fit Tunis de s'en affranchir. On ne sait point exactement jusqu'ä quel degre cette dependance existe encore ä present; en 1800 la Regence d'Alger forca celle de Tunis ä conclure une paix avec la France, mais en 18 10 et 1811 les deux Etats se trouverent de nouveau en guerre ensemble. La Porte ne parait plus avoir envoye de Pacha ä Tunis depuis 1732.</p>
+
+            <p>Tripoli parait encore ä present se trouver dans des relations plus etroites avec la Porte qu' Alger et Tunis ; car le Pacha Türe y est encore aujourd'hui le Chef du Gouvernement, mais la milice et le Divan ont le droit de le nommer. En 1799 la Regence de Tripoli declara la guerre a la France par ordre de la Porte ; mais depuis quelque temps la Porte semble aussi avoir perdu ä Tripoli de son autorite, et Ton a vu les Tripolitains capturer des bätiments Grecs sous pavillon Türe.</p>
+
+            <p>Dans toutes ces trois Regences la milice Turque est seule la caste dominante, et d'apres l'usage etabli eile ne peut etre com- posee que d'individus nes dans l'Empire Ottoman. Les enfants de ces memes Turcs, nes en Afrique, qu'on designe sous le nom de Coloris, perdent leur droit d'appartenir ä cette caste. Cette milice Turque n'est point envoyee par la Porte en Afrique, mais est uniquement composee de volontaires qui y cherchent fortune, ou que les Regences enrölent pour recruter leurs troupes.</p>
+
+            <p>Quelque imparfaites que soient les donnees qu'on a pu reunir ici, il est cependant clair.</p>
+
+            <p>I. que la Porte ne possede de fait presque aucune autorite</p>
+
+            <pb n="12.206" xml:id="pbXII206"/>
+            <p>2. mais que, pour la forme et le principe, eile n'a jamais renonce ä les regarder comme d^pendantes d'elle, puisque meme ä Alger le Dey doit encore etre reconnu comme tel par le Grand-Seigneur, quoique cette reconnaissance soit devenue une pure formalite.</p>
+
+            <p>II resulte de cet etat de choses que la Porte demande des restitutions de prises aux Regences et leur inflige meme des punitions, mais que, pour reussir dans ses demandes, eile se voit obligee souvent ä les appuyer par la force. C'est ainsi qu'elle a envoye plus d'une fois des escadres ä Alger.</p>
+
+            <p>3. Que la Situation de la Porte est differente vis-ä-vis de chacune de ces trois Regences, puisque ses rapports avec Alger sont regles par une Convention conclue en 1710, qu'ä Tunis l'envoi d'un Pacha semble seulement etre tombe en desuetude et qu'ä Tripoli le chef du Gouvernement, quoique nomme par la milice et le Divan, se regarde encore aujourd'hui comme un des Pachas du Grand-Seigneur.</p>
+
+            <p>XXXII. Ueber Massregeln gegen die Raubzüge der Barbaresken. Dezember 181 7.</p>
+
+            <p>(Abschrift im Geh. Staatsaj'chiv .)</p>
+
+            <p>La Conference est tombee d'accord que, pour rendre son travail aussi complet que possible, il sera utile de considerer successivement les trois points suivants:</p>
+
+            <p>1. celui d'un engagement general des Puissances de reprimer les agressions des Barbaresques et de regarder comme communes les oifenses qui auraient ete faites ä une d'entre elles;</p>
+
+            <p>2. celui de la demarche ä faire aupres de la Porte Ottomane;</p>
+
+            <p>3. celui de la ligue qu'il sera necessaire de former pour le cas que la demarche aupres de la Porte ne füt pas jugee süffisante.</p>
+
+            <p>Quoique l'ordre dans lequel on voudra traiter les questions qui decoulent de chacun de ces points, soit assez indifferent en<pb n="12.207" xml:id="pbXII207"/> stances, on peut meme en suspendre l'emploi pour quelque temps; l'engagement general dure toujours et reste constamment le meme. Cette Observation ne me semble pas etre sans une utilite vraiment pratique. Si, par exemple, on ne jugeait point a propos de former une ligue , mais qu'on preferat de s'adresser simplement a la Turquie, l'engagement general, une veritable alliance tendante ä mettre les Etats allies ä l'abri des attaques des Barbaresques , ne m'en paraitrait que plus necessaire. Si, d'un autre cöte, ainsi qu'il a ete propose, on limitait la ligue, c'est-ä-dire la reunion effective d'une force armee , ä un certain nombre d'annees , l'engagement general serait perpetuel et indelini, ainsi que chaque autre traite de paix ou d'alliance est cense l'etre, si les parties contractantes n'y ajoutent pas des restrictions particulieres. Cet engagement serait la base generale, le principe auquel on aurait toujours recours, aussi souvent qu'un mo3^en d'execution duquel on serait convenu temporairement , ne füt plus juge convenable et qu'il fallüt en employer un autre. Sans un parail engagement general et indefini les Puissances ne trouvent point une garantie parfaite dansleurassistance mutuelle; il peut rester sans eftetmomentanement, si le mal contre lequel il est pris, vient ä cesser, mais il est toujours necessaire qu'il existe pour ne pas exposer les Puissances, dans le cas oü le mal renaitrait inopinement, aux difficultes et aux chances d'un arrangement entierement nouveau et auquel aucune Obligation anterieure n'engagerait les parties qui devraient le prendre. C'est lä le caractere particulier de toutes les transactions dictees, outre les raisons politiques, par des principes d'humanite et d'utilite generale. Dans quelque temps et sous quelques circonstances que la piraterie et l'esclavage de prisonniers de guerre renaitraient, il est digne des sentiments des Gouvernements polices de s'y opposer et de les abolir; et qui pourrait jamais se rendre garant que ces fleaux qui tiennent presque a la Constitution des Etats Barbaresques (si Ton peut faire usage du terme de Constitution en parlant d'eux) ne pussent reparaitre jamais.^</p>
+
+            <p>Les deux autres points re peuvent, ä ce qu'il me parait, etre separes l'un de l'autre dans l'examen qu'on voudrait en faire. Ils se trouvent evidemment etroitement lies, puisque la nature de la ligue influe sur la demarche ä faire aupres de la Porte, et celle- ci egalement sur la premiere. Quelle que puisse etre la maniere<pb n="12.208" xml:id="pbXII208"/> presentant comme Puissances dejä liguees ensemble, que la de- marche pourra avoir du succes. II a ete obverve dans la Conference avec infiniment de justesse qu'il ne faut point venir ä la Porte en hesitant encore sur le parti ä prendre, et, en voulant, pour ainsi dire, prendre conseil d'elle dans une affaire aussi deli- cate et difficile, il faut lui montrer un plan arrete, une resolution prise, des moyens tout prepares pour le cas qu'elle ne voudrait pas acquiescer ä la demande qu'on lui proposera ; il faut lui annoncer avec precision ce que l'on fera dans ce cas et ce qui re- sultera de son acquiescement , et la mettre ainsi en etat de juger entierement sa propre Situation.</p>
+
+            <p>Je suis donc d'avis qu'il faut que la Conference, ainsi que cela y a dejä ete propose, s'occupe en premier lieu (puisque les declarations des membres da la Conference dejä donnees rendent superflu toute deliberation ulterieure sur l'engagement general) du plan de la ligue ä former. Cela sera d'autant plus necessaire que cette ligue reste l'unique moyen pour parv^enir au but, si la Porte n'entre point dans les propositions des Puissances, et qu'il est ä prevoir que meme dans le cas contraire il pourra facilement arriver qu'il faille recourir ä ses propres forces.</p>
+
+            <p>On a propose le traite d'Alcala*) comme base de cette ligue. Mes Instructions n'ont pas pu etre dirigees sur ce point en parti- culier, qui parait ne pas avoir ete mis en avant ainsi jusqu'ici, et je ne serais donc pas proprement autorise ä adopter, dans le sens strict du mot, cette base, sans demander de nouveaux ordres. Mais comme ma Cour a declare qu'elle est prete d'entrer dans une ligue contre les Barbaresques et qu'elle s'occupe serieusement des moyens d'y concourir, je ne vois rien dans le traite d'Alcala qui puisse l'empecher d'accepter cette base, et je serais pret ä discuter des ä present un projet de ligue qui prendrait pour base ledit traite. Je crois meme qu'il serait plus utile de proceder immediatement ä la confection d'un pareil projet que de suspendre le travail de la Conference ou de le laisser imparfait sur le point de la ligue, puisque nos Gouvernements peuvent beaucoup plus facilement nous faire parvenir leurs ordres definitifs, si le plan que nous leur presenterons , est complet, non pas peut-etre pour<pb n="12.209" xml:id="pbXII209"/> tous les details, mais au moins pour toutes les parties essentielles qui le constituent.</p>
+
+            <p>II nV a aucun doute que les observations qui ont ete faites dans la Conference sur la maniere dont l'intervention de la Porte pourrait etre demandee, sont extremement judicieuses et meritent la plus grande attention. Les rapports des Puissances avec la Porte sont de nature ä ne pouvoir pas etre älteres sans les conse- quences les plus graves et les complications les plus fächeuses, et s'exposer ä des altercations ou ä une guerre avec l'Empire Ottoman, serait evidemment compromettre le repos de l'Europe meme. De quelque maniere donc que l'on veuille s'associer la cour de Constantinople , il faut eviter cet ecueil, et il faut meme, dut-on aussi renoncer ä son assistance, prendre toutes les precautions possibles pour empecher que les mesures contre les Barbaresques ne puissent faire naitre des differends avec eile ou du moins des soupcons de sa part. II faut ensuite bien se representer la Situation dans laquelle la Porte se trouve vis-ä-vis des Barbaresques, le peu de pouvoir qu'elle exerce sur eux, la crainte qu'elle doit avoir de compromettre son autorite ou de sembler accorder, pour se servir de son langage de l'assistance aux Infideles contre les Croyants. II faut entin ne pas oublier que, si quelques puissances se trouvent bien ä present de la garantie qu'elle donne ä leur pavillon, cette mesure change entierement de nature, des qu'on la generalise et qu'on l'etend ä des Etats qui, n'etant pas voisins de la Turquie, ne peuvent point inspirer ä la Porte les memes motifs de les menager.</p>
+
+            <p>D'un autre cöte, on ne saurait nier qu'il serait fort utile de faire entrer la Cour de Constantinople dans le Systeme des Puissances et de s'assurer de sa Cooperation, non pas contre les Re- gences de l'Afrique elles-memes, mais contre leurs pirateries. Cela faciliterait l'entreprise contre les Barbaresques, cela rendrait meme peut-etre, au moins pour quelque temps, inutile la reunion de forces eflectives, et cela lierait encore la Porte plus etroitement avec les Puissances europeennes.</p>
+
+            <p>Tout en convenant donc qu'il vaut encore mieux de ne rien entreprendre avec la Cour de Constantinople que de s'exposer aux inconvenients que son Intervention trop directe pourrait avoir, je ne saurais partager l'avis qu'il faudrait se borner simplement ä une explication que lui feraient les Puissances sur leurs vues et leurs intentions, sans y ajouter une demande quelconque. Je crois<pb n="12.210" xml:id="pbXII210"/> Sans s'exposer ä aucun danger, pourvu qu'on donne ä la negociation avec eile et ä la stipulation qui s'ensuivrait, une forme adaptee ä sa veritable Situation, tant envers les Barbaresques qu'envers les Puissances Europeennes.</p>
+
+            <p>Quelque difficile qu'il soit de definir les rapports des Regences de l'Afrique avec le Grand-Seigneur d'apres une des formes usi- tees Selon nos idees de droit politique parmi nous, il est sür que la Porte pretend posseder, de l'aveu meme des Regences, une certaine autorite legale sur elles, mais que cette autorite a ete reduite presque ä de vains noms et de simples formalites. II n'en est cependant pas moins vrai que, soit par des idees de religion et de hierarchie, soit par des conseils plus efficaces par le poids de celui qui les donne, soit enfin par la force meme, eile exerce une influence reelle sur les Regences et l'a fait ainsi dans plus d'une occasion marquante. II est naturel aussi que le Grand-Seigneur ne puisse janrais aimer ä voir que les Puissances Chretiennes fassent la guerre ä des Etats qui sont etroitement lies avec lui, et qu'il entrera toujours dans ses dispositions et dans sa politique de l'empecher, plus encore que de les assister, puisqu'il doit sentir l'insuffisance de ses moyens pour cela. Si donc Ton desire faire intervenir la Porte, il faut, selon mon avis, ne le faire que de la maniere que les rapports et les interets developpes ici le permettent.</p>
+
+            <p>II suit de lä immediatement que les Puissances Europeennes, en s'adressant ä la Porte, ne peuvent pas se dispenser d'entrer egalement en explication vis-ä-vis des Regences de l'Afrique. Elles ne le pourraient qu'en les regardant absolument comme sujettes ou vassales de la Porte, ce qui repugnerait entierement ä ce que je viens de dire, et placerait le Grand-Seigneur dans une Situation que, puisqu'elle n'est pas conforme a l'etat reel des choses, il pourrait difficilement soutenir. Je dois observer, ä cette occasion, que je suis entierement et completement d'opinion qu'il serait ni possible ni utile de traiter les Barbaresques comme pirates dans le sens qui assimile la piraterie au brigandage des grands chemins. Les hostilites dirigees contre eux doivent, selon moi, etre regardees en tout et pour tout comme une guerre, et ces Etats, memes comme des Etats auxquels on ne conteste pas une certaine independance,<pb n="12.211" xml:id="pbXII211"/> qu'on peut les obliger ä se tenir tranquilles, meme quand on serait engag^ dans une guerre avec le Grand-Seigneur. Mais l'on peut trouver avec raison que, puisqu'aucune puissance ne les attaquera, ils ne peuvent pas se trouver dans le cas d'une guerre juste et necessaire ; l'on peut, puisqu'ils n'ont jamais separe la guerre de la piraterie, supposer qu'ils veulent exercer cette derniere aussi souvent qu'ils mettent un vaisseau arme en mer, et l'on peut, ainsi que je le croirais meme presque indispensable, leur interdire de faire, sous quelque pretexte que cela soit, des courses avec des vaisseaux armes. Mais les hostilites contre eux ne perdraient pas pour cela le caractere d'une guerre veritable, et si l'on demande d'eux un traitement humain des prisonniers de guerre, il faudra Sans doute leur en donner l'exemple. Je n'ai presque pas besoin de dire encore que j'aviserais toujours simplement ä une ligue defensive , sauf ä en venir , en cas de besoin , ä toute Operation d'agression qui serait jugee propre et possible a executer, dut-elle meme aller jusqu'ä la destruction de tous leurs moyens militaires.</p>
+
+            <p>Ce n'est donc ni pour obtenir de la Porte le droit d'agir contre les Barbaresques , ni pour dispenser les Puissances d'agir elles-memes contre ceux-ci, et moins encore en les faisant renoncer ä ce droit, que je crois qu'il faudrait s'adresser ä la Cour de Constantinople, mais bien pour l'engager d'une maniere obligatoire, mais prudente, ä cooperer seulement ä ce que le recours ä la force contre les Barbaresques ne soit pas du tout, ou moins fre- quemment necessaire. Je voterais, en consequence, pour la con- clusion d'un traite avec la Porte, mais d'un traite qui ne Hat ni eile ni les Puissances de maniere ä pouvoir alterer les rapports de bonne harmonie qui existent entre elles. Ce traite devrait, en outre, etre forme de maniere que toutes les puissances y fussent placees d'apres leur differente Situation vis-a-vis de la Cour de Constantinople ä ce sujet, et qu'aucune ne püt trouver difficulte ä le signer.</p>
+
+            <p>Car je regarderais toute demarche a Constantinople comme inconvenante qui ne pourrait pas se faire en commun par toutes les puissances et meme oü toutes ne formeraientpasune et meme demande.</p>
+
+            <p>Ce but et ceux que je viens d'indiquer plus haut, seraient atteints, si, d'un cöte, les stipulations du traite mettaient la Porte dans la possibilite de prevenir une attaque des Puissances sur les Barbaresques, sans devenir pour cela responsable du succes de ses<pb n="12.212" xml:id="pbXII212"/> cas de contravention ä eile, sans renoncer ä leur droit d'agir par elles-memes. Or tout cela peut etre mis en accord par la fixation d'un terme pendant lequel la Porte, sans s'y engager en aucune maniere positive, pourrait effectuer la restitution d'une capture qui aurait ete faite, et avant la fin duquel les Puissances ne pour- raient pas user de leur propre droit vis-a-vis des Barbaresques. Ce mode mettrait evidemment a couvert et laisserait entierement intacts les traites qui existent entre la Porte et l'Autriche et la Russie, et ne forcerait pas la Cour de Constantinople ä contracter les memes obligations vis-ä-vis de toutes les Puissances, et ä faire des stipulations qu'elle ne saurait remplir; il n'empecherait pas l'Angleterre ä poursuivre son droit pour elle-meme, mais l'obligerait seulement ä un delai peu considerable ; et il aurait probablement le resultat que la Porte dans la plupart des cas, sans y etre posi- tivement obligee, procurerait ou fournirait meme la restitution, tant pour preserver les Regences d'une attaque, que par les bons Offices des Puissances qui ont le plus de poids ä Constantinople. Cela diminuerait donc tres probablement, au grand avantage de toutes les Puissances, infiniment le nombre des cas oü la ligue devrait etre mise en activite.</p>
+
+            <p>D'apres cet expose general, je me forme l'idee suivante de la negociation et du traite avec la Porte.</p>
+
+            <p>La negociation devrait etre commencee par la declaration que les Puissances ont pris la ferme resolution de mettre fin aux pirateries des Etats Barbaresques, et qu'elles se sont liguees pour cet effet; qu'elles n'ont, du reste, aucunement l'intention de faire un mal quelconque ä ces Etats, qu'elles resteront, au contraire, dans les rapports de la meilleure harmonie avec eux; que ce n'est pas contre eux qu'elles agissent, mais simplement contre leurs pirateries, et que surtout la religion n'entre pour rien dans leur ligue. Ensuite la negociation serait basee</p>
+
+            <p>1. sur les bonnes dispositions que les Puissances supposaient ä la Cour de Constantinople de cooperer avec elles ä la suppression entiere et complete de la piraterie exercee par les Barbaresques;</p>
+
+            <p>2. sur l'autorite que la Porte a sur ces Etats, et l'influence qu'elle exerce sur eux;</p>
+
+            <p>3. sur le desir des Puissances de ne rien entreprendre contre</p>
+
+            <pb n="12.213" xml:id="pbXII213"/>
+            <p>Le traite propose sur ces bases renfermerait, quant ä l'essentiel et Sans entrer dans les details,</p>
+
+            <p>1. la demande qu'elle declarät positivement vis-ä-vis des Puissances que sa volonte precise etait que les Regences de l'Afrique dussent s'abstenir de toute piraterie et se regarder en paix avec toutes les Puissances liguees, et qu'elle signifiät cette volonte aux Regences de la maniere la plus peremptoire ;</p>
+
+            <p>2. la stipulation que chaque cas de contravention serait denonce immediatement a la Porte pour qu'elle puisse, si eile le juge ä propos, faire obtenir ä la partie lesee la restitution et une indemni- sation pleine et entiere de la prise;</p>
+
+            <p>3. la promesse de ne point agir contre celui des Etats Barba- resques qui aurait exerce la piraterie, avant le terme de trois mois a dater du jour de la denonciation ä faire a Constantinople ;</p>
+
+            <p>4. la reserve que, si alors les Puissances liguees emplo^^aient la force contre les Barbaresques, la bonne harmonie entre la Porte et elles n'en serait pas troublee, et le traite actuel n'en resterait pas moins en vigueur.</p>
+
+            <p>Les points delicats dans ce traite et auxquels il faudrait donner avec grand soin la nuance convenable , sont le second et le quatrieme.</p>
+
+            <p>Quant au second, il ne faudrait pas meme inviter la Porte ä faire obtenir la restitution, mais il faudrait simplement lui en laisser la volonte et lui en accorder le temps pour qu'elle puisse d'abord le faire dans tous les cas oü eile y est obligee par des traites anterieurs, et ensuite dans d'autres oü eile n'y verrait pas de difficulte, et pour que, si eile ne le fait pas dans tous, eile ne semble pas donner un signe ni de faiblesse ni de mauvaise volonte contre le Gouvernement que le cas regarderait.</p>
+
+            <p>La nuance ä observer au quatrieme point est simplement celle qu'on n'ait pas l'air d'avoir besoin de son consentement pour agir contre les Barbaresques.</p>
+
+            <p>Si ces nuances s'eloignent de ce qu'on est habitue a voir dans d'autres traites, et semblent singulieres, c'est que les rapports des Etats Barbaresques avec la Porte le sont aussi au point de devenir presque indefinissables , et que toute demarche commune de Gouvernements dont la Situation est fort differente, doit etre assez large pour que tous puissent s'y conformer.<pb n="12.214" xml:id="pbXII214"/> connaitraient le terrae precis de l'attaque, ä meme de mieux s'y preparer. Cet inconvenient me semble cependant moins grand, si l'on considere que rien n'empecherait qu'une escadre, soit de la Puissance lesee, soit de la ligue, ne s'avancät pendant le terme jusque devant les ports de la Regence qui serait contrevenue aux engagements. Quelquefois le terme pourrait aussi etre abrege, si la Porte declinait immediatement apres la denonciation toute Intervention.</p>
+
+            <p>On ne peut en general, pour juger le S3^steme propose ici, que le comparer aux deux autres qui lui sont opposes , celui qui demande un traite beaucoup plus obligatoire, en rendant la Porte responsable de chaque contravention, ou celui qui rejette tout traite et toute explication de sa part, en se bornant simplement ä lui en faire une. II me parait evident que le premier est dangereux et meme impossible a realiser. Le second prive les Puissances de tout avantage quelconque qu'elles pourraient pourtant peut-etre retirer de la Porte, et les place evidemment sur une ligne difterente. Car Celles qui ont des traites anterieurs avec la Porte, n'y ac- cederaient probablement qu'avec une reserve de recourir, soit ä la Porte, soit ä la ligue, et par lä leurs liens avec cette derniere seraient affaiblis et leur position vis-ä-vis de la Porte serait toujours louche, puisqu'elles tiendraient une autre marche, en agissant pour elles, qu'en agissant comme membres de la ligue. Si l'idee que je prends la liberte de proposer, peut etre realisee, cette difference de Position est rejetee sur la Porte, tous les Gouvernements viennent de meme ä eile, eile les traite differemment , et ils ne trouvent point ä redire ä cette difference, puisqu'ils y voient leur interet commun.</p>
+
+            <p>Si la Porte declinait la conclusion d'un pareil traite, il fau- drait naturellement s'en tenir seulement ä des explications. Mais son refus meme mettrait en regle les Puissances qui ont des traites anterieurs avec eile.</p>
+
+            <p>Sie eile acceptait la proposition, il faudrait necessairement des stipulations ulterieures entre les Puissances sur le casus foederis et la reunion des forces de la ligue dans l'application precise au traite conclu avec la Porte. Mais les Puissances en faveur des- quelles il existe des traites anterieurs, auraient un moyen de plus d'etre utiles ä la ligue, puisqu'elles pourraient, dans le cas de contravention, concourir ä engager la Porte ä prevenir la necessite<pb n="12.215" xml:id="pbXII215"/> forme de rarrangement, intacte. II me parait que cette mesure serait inutile ä prendre des le commencement, mais eile ne serait point exclue par le traite avec la Porte, mais pourrait tres bien etre executee, si l'on voyait que, malgre l'intervention de la Cour de Constantinople, les cas de contravention etaient frequents.</p>
+
+            <p>On a demande s'il fallait exiger de la Porte de ne point fournir des moyens militaires aux Regences; mais je suis de l'avis qui dejä a ete emis ä cet egard, qu'il ne faut point le faire. Comme il serait impossible de prouver au Gouvernement Türe que les Puissances Europeennes ne pourraient jamais avoir tort vis-ä-vis des Barbaresques, il devrait, si jamais il se decidait ä un pareil engagement, necessairement excepter les cas d'une guerre juste de leur part, et c'est lä une ligne trop difficile ä soutenir avec ce Gouvernement. On s'exposerait donc ä des suites beaucoup plus fächeuses que ces envois ne peuvent en avoir. II s'entend, au reste, toujours et sans toute stipulation qu'on ne permettrait jamais a ces renforts d'entrer dans un port des cötes de la Barbarie, dans un moment oü une piraterie exercee aurait rendu l'emploi de la force necessaire ou imminent. Des que la negociation avec la Porte serait terminee, il faudrait s'adresser aux Etats Barbaresques pour leur intimer la cessation immediate de toute piraterie. Ici s'eleve la question s'il faudrait se borner ä la leur signifier par une declaration ou la leur faire promettre par une pak conclue avec la ligue ; celle-ci serait sans doute la plus efficace, mais eile ne serait pas necessaire pour pouvoir user de l'emploi de la force ä chaque capture faite par les Barbaresques, puisqu'une capture donne dejä par sa qualite d'agression non provoquee ce droit, et une promesse expresse de renoncer ä la piraterie serait probablement plus difficile a obtenir. La decision de la question dependrait donc beaucoup du calcul des moyens qu'on voudrait mettre des le commencement ä la disposition de la ligue.</p>
+
+            <p>En revenant, apres cet expose, des moyens qu'on pourrait emplo^^er contre les Barbaresques, ä la marche que les Puissances auraient a suivre dans leur negociation entre elles, il me semble qu'elles devraicnt conclure un traite preliminaire avant, et un traite definitiv apres la negociation ä entamer ä Constantinople. Le premier pourrait aussi etre remplace par un protocole obligatoire.</p>
+
+            <p>Le traite preliminaire renfermerait :</p>
+         </div>
+      </body>
+   </text>
+</TEI>

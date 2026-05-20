@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Über das Verhältnis der Religion und der Poesie zu der sittlichen Bildung</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Siebenter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif0702humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1907">1907</date>
+                  </imprint>
+                  <biblScope unit="page" from="656" to="660"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="7.656" xml:id="pbVII656"/>
+            <head>
+               <title type="main">21. Ueber das Verhältniss der Religion und der Poesie zu der sittlichen Bildung.</title>
+            </head>
+            <p>Ein Mensch hat moralische Bildung, wenn die Sittlichkeit in ihm zur Gesinnung geworden ist.</p>
+
+            <p>Die Grundquelle der Sittlichkeit ist nicht das Gefühl im Allgemeinen, das den Menschen sehr irre leiten könnte. Die Sittlichkeit besteht vielmehr in der freiwilligen Unterwerfung unter das Sittengesetz, und beruht also auf dem Grundsatz der Pflicht- mässigkeit.</p>
+
+            <p>Gefühle und Grundsätze sind aber sehr verschieden von einander. Gefühle haben nur dann wirklichen moralischen Werth, WTnn sie auf Grundsätzen beruhen, und in Empfindung übergegangene Grundsätze sind.</p>
+
+            <p>Die Religion erhebt das Sittengesetz auf eine höhere Stufe, indem sie es als ein Gesetz Gottes zeigt; sie erleichtert zugleich dem Menschen die Befolgung desselben, da sie an die Stelle trockner und nackter Pflichtmässigkeit die, jedem gutgearteten Menschen natürlichen Gefühle der kindlichen Ehrfurcht, Liebe, Dankbarkeit und Folgsamkeit gegen Gott setzt, und auf eine Fortdauer nach dem Tode hinweist, in w^elcher die Entsagungen, welche die Pflicht auferlegt, eine fernere, von allen irrdischen Zufällen freie, und vollkommen gerechte Belohnung finden. Sie erhebt aber auch den Menschen in seinem ganzen Innren, da der</p>
+
+            <p>Erster Druck: Wilhelm von Humboldt, Sonette S. IX— XV (1853). Leider können die von Alexander von Humboldt an der jetzt verschollenen Handschrift vorgenommenen stilistischen Änderungen nur an einer Stelle beseitigt werden (vgl. Briefe von Alexander von Humboldt an Varnhagen S. 2'ji).<pb n="7.657" xml:id="pbVII657"/> religiös gestimmte Mensch fühlt, dass er ein Gegenstand der Liebe und Sorgfalt des Unendlichen ist, dass das irrdische Leben, als der kleinste und unvollkommenste Theil seines Daseyns, mit allen seinen Gütern und Vorzügen nicht in Betrachtung kommt gegen die Reinheit der über dasselbe hinausgehenden Gesinnung, und dass ihm, soweit es die Schranken der Endlichkeit verstatten, eine Gemeinschaft mit dem Wesen eröffnet ist, welches Alles hervorgebracht hat und Alles erhält. Es ist demnach durchaus falsch, dass die Religion im Grunde nur Lehren aufstellt. Sie lebt und webt vielmehr in Gefühlen. Denn sie stellt Wahrheiten auf, die, ihrer Natur nach, in jedem Menschen, der sich ihren Eindrücken offen erhält, zu Gefühlen werden, Wahrheiten, die nur aus dem natürlichen Gefühl entwickelt und entfaltet zu werden brauchen, damit die Ueberzeugung des Verstandes und die hinzutretende Erkenntniss das blosse Gefühl vor Unbestimmtheit und Unrichtigkeit bewahre. Die Religion ist also nicht nur das kräftigste Beförderungsmittel der Sittlichkeit, sondern Religion und Sittlichkeit, religiöse und moralische Bildung sind eigentlich Eins und Ebendasselbe. Ein wahrhaft religiöser Mensch ist schon eben dadurch auch ein sittlicher; und es wäre eine gewissermassen unnütze Frage, ob ein sittlicher ^lensch auch nothwendig ein religiöser seyn muss? da die wahre Sittlichkeit in ihren höchsten Principien eine solche Anerkennung von dem Verhältniss des Menschen zu dem, was über die Endlichkeit hinaus liegt, voraussetzt, dass sie selbst nothwendig Religion ist.^)</p>
+
+            <p>Die Poesie steht zur Bildung des Menschen in einer zwie- fachen Beziehung: 1. in einer der Form: indem sie Wahrheit und Lehre durch Einkleidung und rh3^thmischen Ausdruck der Einbildungskraft näher zu bringen sucht;</p>
+
+            <p>2. in einer des Inhalts: indem sie, überall das Erhabenste, Reinste und Schönste aufsuchend, im Menschen immer das Höchste und Geistigste seiner Xatur anzueignen bemüht ist, und ihm beständig vor Augen hält, dass er den vorübergehenden Genuss der dauernden inneren Genugthuung, das Irrdische dem Unendlichen</p>
+
+            <p>V Diese Stelle findet Alexander von Humboldt schwerfällig (Briefe an Varnhagen S. 27/j.</p>
+
+            <p>W. V. Humboldt, Werke. VII. 4^<pb n="7.658" xml:id="pbVII658"/> nachsetzen, und im Widerstreit der Neigungen und Pflichten Alles, durch Selbstbeherrschung und Erhebung über das Niedere und Gemeine, dem Adel und der Reinheit der Gesinnung opfern muss.</p>
+
+            <p>Religion und Poesie stehen in gar keinem, am wenigsten in einem schroffen Gegensatz gegen einander.</p>
+
+            <p>Denn beide arbeiten nicht nur gleichmässig auf die Veredlung des Menschen hin, sondern die religiösen Wahrheiten sind alle der Art, dass sie gerade des höchsten dichterischen Ausdrucks fähig sind, und die Poesie kann gar keine hohe, oder tiefe seyn, wenn sie nicht immer in das Gebiet hinübergeht, in welchem auch die Religion weilt.</p>
+
+            <p>Alle grossen Trauerspiele des Alterthums und der neueren Zeit beruhen auf der Vorstellung der Abhängigkeit des endlichen Menschen von einer unendlichen Macht, und auf der Nothwendig- keit, das Endliche (Glück und Neigung) dem Ueberirrdischen (Pflicht und Gesinnung) zum Opfer zu bringen.</p>
+
+            <p>Aller Gottesdienst nimmt daher die Poesie, als etwas der Religion nahe Verwandtes, in sich auf.</p>
+
+            <p>Die Poesie darf aber nur neben der Religion genannt werden, wenn sie die höchste, würdigste und reinste ist. Sie kann auch alles dies in minderem Grade seyn, und sogar einen entgegengesetzten Weg einschlagen; darum ist es zugleich unmöglich und unzulässig, Religion und Poesie mit einander vergleichen zu wollen, und noch mehr, die letztere als die moralische Bildung mehr befördernd zu betrachten.</p>
+
+            <p>Wenn man von dem Einflüsse der Poesie auf die moralische Bildung reden will, so ist davon auszugehen, dass, ehe auf eine würdige Weise die Poesie auf den Menschen einwirken kann, in ihm eine doppelte Grundlage vorhanden seyn muss:</p>
+
+            <p>I. eine Grundlage der Gesinnung, die Anerkennung sittlicher Pflicht, und der Nothwendigkeit sich dieser zu unterwerfen; dazu religiöses Gefühl, Ueberzeugung von einem höchsten Wesen, Glaube und vertrauende Liebe, Zuversicht, dass mit dem irrdischen Tode das wahre Daseyn des Menschen erst beginne. Alles das muss auf einem wahren, sicheren Grunde beruhen; darin muss gar keine Poesie seyn, weil es die Grundfesten der menschlichen Gesinnung sind.</p>
+
+            <p>Wo diese Grundlage fehlt, kann keine Poesie wahrhaft moralisch<pb n="7.659" xml:id="pbVII659"/> zu der sittlichen Bildung. ßrq wirken. Derjenige, in dem sie nicht ist, Ivann wohl augenbliclvlich von Macbeths Lage ergriffen werden; aber das, was Shakespeare eigentlich hat wollen fühlen lassen, fühlt allein der, welcher, unabhängig von aller Poesie, die Stimme des Gewissens im Busen trägt, und empfindet, wie furchtbar es sey zu tödten, wenn Gott das Gebot nicht zu tödten in das Herz des Menschen gelegt hat.^)</p>
+
+            <p>Die Religion der Griechen war nicht poetischer, als das Christenthum, sie war nur sinnlicher.</p>
+
+            <p>Die Griechen haben nie gerade-) durch Vollkommenheit der moralischen Bildung geglänzt.")</p>
+
+            <p>2. eine Grundlage der Erkenntniss. Wer nicht über die wichtigsten Wahrheiten oft gründlich nachgedacht, wer nicht Kenntnisse im gehörigen Masse gesammelt hat, der versteht den Dichter nur halb, und auf den übt die Poesie nur eine vorübergehende, leicht von ihm abgleitende Wirkung aus. Er meidet vielleicht das Rohe und Gemeine, aber es bleibt in ihm eine betrübende Leere.</p>
+
+            <p>Die Poesie verführt wohl zu der Einbildung, dass man diese Grundlagen entbehren könne; aber dies ist nicht ihre Schuld, sondern die Schuld derer, die sie misverstehen. Shakespeare, Schiller und Göthe würden alle Leser zurückweisen, welchen es an jenen Grundlagen fehlt, oder die nicht wenigstens ernstliches Bemühen zeigen, sie sich zu verschaffen.</p>
+
+            <p>Wo aber jene Grundlagen vorhanden sind, da beginnt der wohlthätige Einfluss der Poesie auf die moralische Bildung, ein Einfluss der nie zu hoch angeschlagen werden kann.</p>
+
+            <p>Die Poesie wirkt darin» zuerst wie die Sittenlehre und die Religion selbst; sie wirkt mit der Macht, die sie, gerade als Poesie, über den Menschen ausübt.</p>
+
+            <p>Sie macht aber auch den ganzen Menschen für die moralische Bildung empfänglicher, indem sie ihn gewöhnt in Dingen, die ganz ausserhalb des Gebietes der Sittenlehre und der Religion liegen, nur am Schönen, Edlen und Harmonischen Gefallen zu haben, und das Gegentheil überall von sich zu stossen.</p>
+
+            <p>V Hier findet Alexander von Humboldt Mangel an Deutlichkeit (Briefe an Varnhagen S. 2j2).</p>
+
+            <p>y Statt des zu familiären „nie gerade" der Handschrift hat Alexander „eben nicht" drucken lassen (ebenda).</p>
+
+            <p>y Von diesen beiden Abschnitten sagt Alexander (ebenda) : „Die vier Zeilen stehen wie ein gefallener Aerolith; erhalten muss man sie doch, schon als grosse Freiheit."</p>
+
+            <pb n="7.660" xml:id="pbVII660"/>
+            <p>Die Handschrift dieses Aufsatzes war, wie Alexander von Humboldt in seiner Vorrede zur Sonderausgabe von seines Bruders Sonetten berichtet, im Besitz des Naturforschers Ratzeburg, der als junger Mann drei Jahre (1825 — 28) Erzieher von Humboldts jüngstem Sohne Hermann gewesen war und zu beiden Brüdern in freundschaftlichen Beziehungen stand (vgl. auch Ratzeburg, Forstwissenschaftliches Schriftstellerlexikon S. 254. 424). Leider läßt sich seine Abfassungszeit nicht genau bestimmen: nach Alexander wäre er vor 1824 niedergeschrieben; das kann aber ein Irrtum sein, zumal engere Beziehungen der Gedanken zu andern Äußerungen Humboldts, z. B. in den Briefen an Charlotte Diede, eher auf die zweite Hälße der zwanziger Jahre zu weisen scheinen. Erst wenn die Handschrift etwa wieder auftauchen sollte, würde sich eine sicherere Datierung gewinnen lassen.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

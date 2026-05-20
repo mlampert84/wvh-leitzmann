@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Schema der Künste</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Siebenter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif0702humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1907">1907</date>
+                  </imprint>
+                  <biblScope unit="page" from="584" to="586"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="7.584" xml:id="pbVII584"/>
+            <head>
+               <title type="main">II. Schema der Künste.</title>
+            </head>
+            <p>Die Kunst besteht in der Vernichtung der Natur, als Wirk- lichlieit und ihrer Wiederherstellung, als Product der Einbil- dungskraft. 2.</p>
+
+            <p>Das Wesen der Kunst besteht also darin, dass die wirkliche Natur, auf eine eigne Weise zubereitet, vor den Innern Sinn gebracht wird, und der einzige wesentliche Eintheilungsgrund der verschiednen Künste ist die Art, wie dies geschieht.</p>
+
+            <p>3Obgleich alle Kunst durch Form wirkt, so macht bei einigen Künsten dennoch die Masse einen Hauptantheil der Wirkung aus. Daher i !ll Eintheilung in Künste der Form, und Künste der Masse.</p>
+
+            <p>4.</p>
+
+            <p>Künste der Form. — Die Kunst geht durch den Gegenstand auf die Empfindung, oder durch die Empfindung</p>
+
+            <p>(die blosse</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">Regung</title>
+               </head>
+               <p>des inneren</p>
+
+               <p>Sinns, ohne sinnliches</p>
+
+               <p>Bild oder logischen Gedanken) auf den Gegenstand, wenn wirklich, was nicht gerade nothwendig, einer vorhanden ist. 2^ Eintheilung.</p>
+
+               <p>Künste der Darstellung und Künste der Stimmung.</p>
+
+               <p>Künste der Darstellung.</p>
+
+               <p>— Die Kunst giebt den körperlichen Gegenstand selbst,</p>
+
+               <p>Kunst der Körper,</p>
+
+               <p>Plastik, oder bloss sein Bild,</p>
+
+               <p>Handschrift (2 Quartseiten, ohne Titel) im Archiv in Tegel.</p>
+
+               <pb n="7.585" xml:id="pbVII585"/>
+               <p>58=</p>
+
+               <p>Kunst der Bilder, Graphik, oder bloss Zeichen, nach welchen die</p>
+
+               <p>Pachters den sini zusammensetzen muss. 3^ Eintheilung. Einbildungskraft des Betrachters den sinnlichen Gegenstand selbst</p>
+
+               <p>Künste der Zeichen. — Diese sind hörbare oder sichtbare.</p>
+
+               <p>4'^ Eintheilung. Poesie, und Mimik. Der pantomimische Tanz gehört auch hieher und verhält sich zur Pantomime, wie die Oper zur Tragödie. — Beide diese Zeichen sind lebendig, Sprache sowohl als Gebehrde. Daher man diese Eintheilung auch in die Künste durch todte Werke, und lebendige Organe nennen kann.</p>
+
+               <p>Künste der Stimmung. — Sind alle rhythmisch. Die Rhythmik ist eine eigne Kunst, weil sie für sich kein Kunstwerk hervorbringen kann. Es wirkt nun aber entweder der Rhythmus der Töne, Musik, oder der Linien und Schwingungen und Bilder und Farben, Decorirkunst, oder der Bewegungen, reine Tanzkunst.</p>
+
+               <p>8. Künste der Massen. — Diese sind Kunstmassen oder Natur- massen. Baukunst und Gartenkunst.</p>
+
+               <p>Schema.</p>
+
+               <p>Künste der Formen</p>
+
+               <p>Darstellung todter Werke lebendiger Organe Körper Bilder hörbarer sichtbarer I I Zeichen, Zeichen, Plastik Graphik Sprache Gebehrden I I Poesie Mimik,</p>
+
+               <p>Pantomime,</p>
+
+               <p>Pantomimi- scher Tanz</p>
+
+               <p>Stimmung durch Rhythmus der</p>
+
+               <p>Töne Linien, I Bilder Musik und Farben</p>
+
+               <p>I .</p>
+
+               <p>Decorir- kunst</p>
+
+               <p>Bewe- gungen Tanzkunst</p>
+
+               <p>Massen Kunstmassen</p>
+
+               <p>I Baukunst</p>
+
+               <p>Naturmassen</p>
+
+               <p>I Gartenkunst</p>
+
+               <p>10.</p>
+
+               <p>Alle diese Künste lassen sich auch noch unter andre Glassen zusammenordnen. So z. B. als Künste der wirklichen aber todten Körper: Plastik, Baukunst und Gartenkunst; als Künste durch den organischen lebendigen Körper: Mimik und Tanzkunst; als Künste<pb n="7.586" xml:id="pbVII586"/> 586 der Bilder: Graphik und Decorirkunst ; als Künste der Gedanken und Empfindungen: Poesie und Musik.</p>
+
+               <p>Für dies Schema der Künste ist kein äußerer chronologischer Anhalt vorhanden, zumal auch die Handschrift ohne Wasser zeicheyi ist. Sicher scheint mir nur, daß es nicht jünger ist als die Betrachtungen, die in der vorderen Partie der Schriß über Hermann und Dorothea an das Problem einer Systematisierung der Künste rühren, ohne dies irgendwie erschöpfen zu wollen. Andrerseits möchte ich doch dem äußerlichen Charakter der Handschrift nach nicht allzu weit in der Zeitbestimmung zurückgehen, jedenfalls nicht bis in die jenaische Zeit. Mir scheint das Jahr j-jg-j der wahrscheinlichste Zeitpunkt der Niederschrift : ob sie freilich in Dresden während des engeren Verkehrs mit Körner, in Wien oder erst in Paris geschah, ist nicht zu entscheiden.</p>
+
+               <p>Über die Schrift über Hermann imd Dorothea (Band 2, 11^. 402) besitzen wir auch ein Urteil Wielands in einem Gespräch mit Böttiger: er war mit Humboldts Kritik, die er mit großer Aufmerksamkeit las, ganz zufrieden; nur sei es schade, daß er seine ganze Theorie in die Beurteilung des Goetheschen Gedichts eingeßochten habe, während er sie lieber tmabhängig hätte vorausschicken sollen {Böttiger, Literarische Zustände und Zeitgenossen i, 24S). Der Rezensent in der Neuen allgemeinen deutschen Bibliothek wäre nach Parthey (Die Mitarbeiter an Nicolais Allgemeiner deutscher Bibliothek S. 18. 41) der Breslauer Manso, den die Xenien arg niitgenommen hatten.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

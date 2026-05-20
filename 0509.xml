@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Kunstvereinsbericht vom 29. Januar 1826</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Fünfter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif05humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1906">1906</date>
+                  </imprint>
+                  <biblScope unit="page" from="248" to="253"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1826">1826</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="5.248" xml:id="pbV248"/>
+            <p>9-</p>
+
+            <head>
+               <title type="main">Kunstvereinsbericht</title>
+            </head>
+            <div type="section" n="1">
+               <head>
+                  <title type="main">vom</title>
+               </head>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">2g. Januar</title>
+               </head>
+               <p>1826.</p>
+
+               <p>Der Verein der Kunstfreunde in unsrem Vaterlande hat, unter dem Schutze und durch die huldreiche Begünstigung Sr. Majestät des Königs und der Königlichen Prinzen und Prinzessinnen, und die gütige Theilnahme der Freunde der Kunst in allen Ständen, einen so erwünschten Fortgang gewonnen, dass, da die erste öffentliche Versammlung, dem Statute nach, bis zum Jahre 1827. hinausgeschoben war, wir uns schon heute veranlasst gesehen, uns eine Zusammenkunft der hier anwesenden Mitglieder zu erbitten. In den wenigen, seit dem Entstehen des Vereins ver- flossnen Monaten, und grösstentheils vor dem für den Anfang seiner Wirksamkeit bestimmten Zeitpunkt, ist eine bedeutende Anzahl von Mitgliedern hinzugetreten, und da mehrere sich mit höheren Beiträgen unterzeichnet haben, eine für die Kürze der Zeit ansehnliche Geldsumme zusammengekommen. Von beidem giebt die Liste, welche den Mitgliedern gedruckt vorgelegt werden wird, die nähere Auskunft.</p>
+
+               <p>Dieser schnelle Erfolg ist ein neuer erfreulicher Beweis, dass es nur eines einfach zum Zweck führenden Anfangs bedarf, um allem auf Verbreitung des Guten und Schönen Gerichteten in unsrem Vaterlande rege und thätige Theilnahme zu verschaffen. Die Unternehmer des Vereins haben noch besonders darin mit lebhaftem Vergnügen erkannt, dass sie in dem Gedanken gemeinErster Druck: Verhandlungen der am 29. Januar und 75. Februar 1826 gehaltenen Versammlungen des Vereins der Kunstfreunde im preußischen Staate</p>
+            </div>
+
+            <div type="section" n="3">
+               <head>
+                  <title type="main">S. 3—28 (1826).</title>
+               </head>
+               <pb n="5.249" xml:id="pbV249"/>
+               <p>schaftlicher Beförderung der vaterländischen Kunst nur einen schon von Vielen und lange gehegten Wunsch aussprachen. Sie haben sich aber durch diese gütige und bereitwillige Aufnahme ihres Vorschlags auch doppelt verpflichtet gefühlt, die ihren Händen anvertrauten Mittel gleich jetzt für den Zweck des Vereins in Wirksamkeit zu setzen, und es ist ihnen vor allem ein dringendes Bedürfniss gewesen, die geehrten Mitglieder des Vereins selbst zu versammeln, ihnen Rechenschaft von dem Angefangnen abzulegen, und ihre Meinung und Entscheidung über die fernere Leitung der Geschäfte der Gesellschaft einzuholen.</p>
+
+               <p>Die Anordnung von Preisbewerbungen unter den Preussischen, in Italien studirenden Künstlern gehört statutenmässig zu den ersten und wichtigsten Zwecken des Vereins. Der Künstler-Ausschuss desselben hat daher einen Gegenstand zur Aufgabe gewählt, und die Aufforderung, denselben zu bearbeiten, ist nach Rom abgegangen, um durch die dortige Königliche Gesandtschaft den sich jetzt in Italien aufhaltenden Künstlern mitgetheilt zu werden. Der Preis für das vollendete Gemälde, das eine Länge von vier Rheinländischen Füssen und eine verhältnissmässige Höhe haben soll, ist auf 600. bis 650. Thaler bestimmt. Man wird sich jedoch über die Bestellung des auszuführenden Bildes erst nach den vorher einzusendenden Skizen entscheiden. Für diese Skizen ist ein besondrer Preis von 50. Thaler ausgesetzt, welcher, wenn keine zur Bestellung eines Bildes einladen sollte, der besten unter denselben, sonst derjenigen zufällt, welche für die gelungenste nächst der im Grossen auszuführenden erklärt wird.</p>
+
+               <p>Zum Gegenstande der Aufgabe ist die Befreiung der Andro meda gewählt worden, und zwar in dem Augenblick, wo Amor, nach vollendetem Kampfe, die Gefesselte löst, um sie dem Perseus zuzuführen. Diejenigen, welche mit Philostratos Gemäldebeschrei- bung, entweder aus dem Originale des griechischen Redners, oder aus deutschen Bearbeitungen bekannt sind, unter denen vorzüglich die in Göthe's Kunst und Alterthum ^) Erwähnung verdient, werden sich erinnern, dass dort dieser Gegenstand auf die gesagte Weise aufgefasst ist. Auch sind die Künstler, an welche die Aufgabe ergangen, gebeten w^orden, der Philostratischen Beschreibung, nicht zwar in den Nebensachen und Zufälligkeiten der Ausführung, aber</p>
+
+               <p>V Über Kunst und Altertum 2, i, gi ; vgl. Werke 4g, i, 102 weimarische Aussähe.<pb n="5.250" xml:id="pbV250"/> in der Auffassung des Augenblicks der Handlung und dem Wesentlichen der Darstellung, getreu zu bleiben. Eine zur Bewerbung um einen Preis bestimmte Arbeit kann nicht anders, als bis auf einen gewissen Grad bedingt seyn, da eine genau und vollständig abwägende Beurtheilung der Werke verschiedner Künstler Einheit des Gegenstandes fordert, und auch möglichste Einheit der Auffassung desselben, wenn er von mehreren Seiten genommen werden kann, wünschensv^'erth macht. Es gehört zu der Vollendung des Künstlers, ebensowohl einen Gegenstand selbst wählen, als einen gegebnen behandeln zu können, und die Freiheit, der er zu seinen Arbeiten bedarf, hat, wie jede aus der Tiefe und innren Kraft des Gemüthes entspringende, das Eigen- thümliche, dass sie mit den Fesseln wäciist, die sie sich anlegt.</p>
+
+               <p>Aber auch abgesehen von den Forderungen einer Preisbewerbung würde sich die Philostratische Beschreibung des eben erwähnten Gegenstandes unbedenklich von selbst zur Nachbildung empfehlen. Sie nimmt die vorzustellende Handlung in dem glück- lichsten Momente auf. Der Kampf eines geflügelten Helden mit einem Meerungeheuer trägt vieles an sich, das der künstlerischen Darstellung widerspricht; bei der Wahl dieses Standpunkts der Handlung kann man auch nur den Anfang derselben bezeichnen. Die Darstellung des vollendeten Sieges enthält sie ganz, knüpft den Vorgang an seinen Erfolg, das erlittne Unglück, die gefürchtete Gefahr an die glückliche Errettung, die Heldenarbeit an den Heldenlohn. Sie A^erbreitet auch über das Kunstwerk eine edle, aus gelungner Anstrengung hervorgehende Ruhe. Auch in den Bildwerken des Alterthums, welche diesen oder ähnliche Gegenstände vorstellen, ist daher meistentheils dieser Moment vorgezogen worden. Aber Philostratos Darstellung zeichnet sich noch dadurch aus, dass Amor, und zw^ar nicht als gaukelnder Knabe, sondern als Jüngling, der an dem Kampfe Theil genommen, die ihrer Fesseln entledigte Andromeda dem Helden übergiebt, und die Gegenwart des zugleich durch ihn geretteten ^''olks den Kampf zu der Reihe Heroen verherrlichender und Völker beglückender Thaten erhebt. Die Wahl dieses Gegenstandes zur Preisaufgabe erinnert an einen Künstler, dessen Erwähnung an diesem Ort und in dieser Versammlung vorzüglich passend scheint. Asmus Karstens, der bekanntlich w^ährend seines Studienaufenthaltes in Rom starb, hatte die Befreiung der Andromeda nach Philostratos Beschreibung<pb n="5.251" xml:id="pbV251"/> dargestellt, und diese Zeichnung, obgleich mehr entworfen, als ausgeführt, gehört zu seinen gelungensten. Sie befindet sich, soviel ich weiss, in den Grossherzoglichen Sammlungen in Weimar. Denn dort sind die meisten seiner Arbeiten hingekommen. Indess besitzt man auch hier ausser einigen Zeichnungen eine singende Parze von ihm, eine zum Behuf einer malerischen Composition modellirte, durch Freunde seines Andenkens aufbewahrte und hergestellte, und nun auch in Bronze gegossne Figur, die den sinnigsten und graziösesten und am meisten im Geiste des Alter- thums gedachten beigezählt zu werden verdient. Dieser genie- volle Künstler, der, wie das eben erwähnte Werk beweist, die Kunst nicht auf Einem Wege verfolgte, sondern sie sich in ihrem ganzen Umfange anzueignen suchte, schien mit Vorliebe antike Gegenstände zu behandeln. Sein frühzeitiger Tod ist um so mehr zu bedauern, als seine Werke wiederum gezeigt haben würden, wie in jeder Gattung der Kunst diese Bahn m.it Genie betreten, und dem aus dem Alterthum geschöpften Stoft Geltung und neues Leben durch die Art der Behandlung verschafft w^erden kann.</p>
+
+               <p>Da die Mittel des Vereins schon jetzt seinen Wirkungskreis zu erweitern erlaubten, haben wir geglaubt, den Wünschen der Mitglieder zu entsprechen, wenn wir sogleich auch zu einem An- kauf von Gemälden schritten, die unter sie verloost werden könnten. Diese Art der Wirksamkeit des Vereins dürfte, wenn sich die Theil- nahme an dem Unternehmen erhält, die wohlthätigste und belebendste für die Kunst se3^n. Wenn der Verein alljährlich, und vielleicht mehr als einmal im Jahr, Bilder zu kaufen im Stande ist, so wird ein Wetteifer in den Künstlern entstehen, fertige für seine Wahl in Bereitschaft zu halten, eine freiwillige, an keinen bestimmten Gegenstand geheftete Preisbewerbung. Jedes grössere Bild erfordert einen so beträchtlichen Zeitaufwand, eine mit so mancher, auch von denen, welche gern Bilder besitzen, nicht immer gehörig gewürdigten Aufopferung des Künstlers verbundne Anstrengung, dass dieser sich, ohne bestimmtere Aussicht, auch einen äussren Gebrauch davon zu machen, nur schwer dazu ent- schliessen kann. Wie wenige, ja wie fast gar keine unbestellte Bilder, wenigstens in diesem Augenblick und hier, bei den Künst- lern vorhanden sind, davon hat man Gelegenheit gehabt, sich bei dem jetzigen Ankauf zu überzeugen. Man hat sich aber um so mehr beeifert, die beiden jetzt angekauften auszuwählen, um mit dieser Wirksamkeit des Vereins einen anregenden Anfang zu<pb n="5.252" xml:id="pbV252"/> machen. Die beiden hier aufgestellten Gemälde des Herrn Professors Dähling^) und Herrn Lengerich,-) der erst vor kurzem aus Rom zurückgekehrt ist, sind dem Publicum schon aus frühern Ausstellungen bekannt, und haben sich mit Recht des Beifalls der Kenner und Liebhaber erfreut.^) Ich würde es daher für über- flüssig halten, etwas über sie hinzuzufügen.</p>
+
+               <p>Das Directorium des Vereins hat angestanden, ausser diesem Ankauf noch einen andren vorzunehmen, oder eine Bestellung eines Gemäldes zu machen, weil es ihm rathsam geschienen hat, die vorhandnen Mittel bis zu der akademischen Ausstellung zusammen zu halten, die im Herbste dieses Jahres statt finden wird. Diese, die Kunst von so vielen Seiten fördernden Ausstellungen bieten für unsren Zweck den zwiefachen Vortheil dar, dass sie eine bedeutende Zahl vorzüglicher, zum Theil noch unbestellter Kunstwerke vereinen, und dass das Urtheil des Publicums darüber sich in der mehr und minder bei jedem verweilenden Aufmerk- samkeit ausspricht. Indem nun die den Verein leitenden Künstler, bei der Bestimmung von Kunstwerken für denselben, sich an die strengen Forderungen der Kunst halten, und gewiss in dem Grade mehr den Wünschen der Mitglieder entsprechen, in welchem sie diesen Weg mit Festigkeit verfolgen, übersehen sie gewiss nicht den Eindruck, den ein einzelnes Kunstwerk in dieser oder jener Art hinterlassen hat. Gerade dem Künstler, der am tiefsten empfindet, dass das Höchste und Letzte in einem Kunstwerk nur aus dem Gefühle entspringt, und auf das Gefühl zurückwirkt, flösst die Stimme eines gebildeten und fein empfindenden Publi- cums immer die grosseste Achtung ein. Durch die Art, auf welche in Vereinen, wie der unsrige ist, das Urtheil der Künstler, die hier die Rolle des Publicums übernehmen, wählen, bestellen und kaufen, dem Urtheil der Mitglieder gegenübertritt, können durch gegenseitige Berichtigung und Bewahrung vor Einseitigkeit solche Vereine einen, sich noch über ihren besondren Zweck hinaus verbreitenden wohlthätigen Einfluss auf den Geschmack und die Kunstansicht überhaupt ausüben.</p>
+
+               <p>V Heinrich Anton Daehling (i'jjß — 1S50), Historien- und Genremaler, war seit 1814 Professor an der Berliner Kunstakademie.</p>
+
+               <p>y Heinrich Lengerich (ijgo—iS6ß), Historienmaler, war ein Schüler Wachs. ^J Daehlings Gemälde stellte den Sänger aus Goethes Ballade, Lengerichs den Pagen eines römischen Senators dar.<pb n="5.253" xml:id="pbV253"/> Das Directorium des Vereins hat die Absicht, alle Gemälde und andre Kunstwerke, die zur Verloosung kommen, radiren 2u lassen, damit jedes Mitglied ein Exemplar dieser Nachbildungen besitzen kann. Es wird auf diese Weise bei jedem eine Sammlung der, seit seinem Beitritt, von dem Verein an sich gebrachten Kunstwerke in radirten Blättern entstehen, die nach mehreren Jahren zu interessanten Vergleichungen Anlass geben kann. Das Directorium hofft, sich der Zustimmung der Mitglieder des Vereins bei dieser Einrichtung versichert halten zu können.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

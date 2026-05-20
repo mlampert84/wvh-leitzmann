@@ -1,0 +1,384 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Autobiographisches</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Fünfzehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif15humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1918">1918</date>
+                  </imprint>
+                  <biblScope unit="page" from="517" to="531"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1817">1817</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="15.517" xml:id="pbXV517"/>
+            <p>6.</p>
+
+            <head>
+               <title type="main">Autobiographisches.</title>
+            </head>
+            <p>a. Lebenslauf. 1767. 22. Junius in Potsdamm geboren. (1720. mein Vater <note type="footnote" n="^)" resp="gnd-116890657"><hi>Über Hinnboldts Vater vgl. Band 14, 6 Anm. 6, Briefe von Alexander von Humboldt an Varnhagen S. 112 imd Briihns, Alexander von Humboldt i, jj.</hi></note> geboren. [1741.] meine Mutter."<note type="footnote" n="^)" resp="gnd-116890657"><hi>Sonnenfinsternisse waren am 4. Juni und 28. November ij6g, nicht an Alexanders Geburtstag.</hi></note> 1762. mein Stiefbruder)^) 1769. 14. September Alexander in Tegel geboren,*) soll eine n.*) Sonnenfinsterniss gewesen seyn. *) 1772. oder 1773. muss Campe, ') von dem ich lesen und schreiben v. vi. gelernt, weggegangen seyn, ^)</p>
+
+            <p>Handschriß von a (5 Folioseiten) im Archiv in Tegel.<note type="footnote" n="**)" resp="gnd-116890657"><hi>Über Humboldts Mutier vgl. Briefe von Alexander von Humboldt an Varnhagen S. 113 und Bruhns i, 14.</hi></note></p>
+
+            <p>') Vgl. über ihn oben S. 4yo Anm. 8. *) Ale.vander von Humboldt ist nach den Forschungen Löwenbergs bei Bruhns i, 282 nicht in Tegel, sondern in Berlin in dem Hause Jägerstrasse 22 geboren worden. Obige Angabe dürfte, trotzdern sie, yvas Löwenberg entgangen ist und deshalb von ihm in Abrede gestellt wird, auch in einem Briefe Humboldts an Welcher vom 12. März 1822 wiederkehrt, auf einem Gedächtnissfehler beruhen.</p>
+
+            <p>®) Die Zahlen am Rande geben Humboldts Lebensalter an.</p>
+
+            <p>' Vgl. über ihn Band 14, 5^ Anm. ß.</p>
+
+            <p>•*) In einem Briefe an Charlotte Diede vom i. Mai 1825 giebt Humboldt i-po oder yi als die Zeit von Campes Weggang an. Nach Leyser, Joachim Heinrich Campe i, 16 wurde Campe ij6g auf Tellers Empfehlung von Humboldts Vater zur Erziehung seines Stiefsohns (vgl. oben Anm. jj angenommen und ging im August lyyj als Feldprediger nach Potsdam.</p>
+
+            <pb n="15.518" xml:id="pbXV518"/>
+            <p>ab. Ihm folgte Clüsener. -) X. 1777. folgte auf Clüsener Kunth. ''j XI. 1778. erlebte ich den ersten Krieg.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Über Johann Clüsener, später Kabinetssekretiir der Prinzessin Ferdinand, vgl. ebenda.</hi></note> XII. 1779. starb mein \^ater. '*) XVI. 1783. blieb ich mit Alexander und Kunth das erstemal den</p>
+
+            <p>Sommer in Berlin, "j XVII. ,784. war ich das letztemal in Ringenwalde, "j fMuzel.*) XIX. 1786. starb Friedrich 2.") XX. 1787. gieng ich im Herbst nach Frankfurt an der Oder. XXI. 1788. gieng ich im Frühjahr nach Göttingen, reiste im Sommer nach Burgörner, im Herbst an den Rhein. '"j XXII. 1789. verliess ich Götlingen, reiste nach Paris und der Schweitz; *^) verlobte mich in Erfurt; lernte Schiller kennen, und war mit meiner Frau in Weimar. ^^) xxiii. 1790. war ich Referendarius beim Kammergericht, wurde Lega- tionsrath, reiste im Sommer nach Burgörner.'*)</p>
+
+            <p>') Über Johann Heinrich Sigisniiind Koblanck, spiiter Prediger in Berlin, der vielmehr im Herbst i-j-j^ das hinnbvldtsche Haus verliess, gleichfalls um Feldprediger in Potsdam zu werden, vgl. Druhns i, 29. Von ihm hat Alexander von Humboldt Lesen und Schreiben gelernt') Vgl. über ihn Band 14, •2j'j Anm. 6 und Bruhns i, 24.</p>
+
+            <p>*■) Gemeint ist der bairische Erbfolgekrieg zwischen Preussen und Österreich (iTjS—'jg). *) Am 6. Januar.</p>
+
+            <p>") Die Sommer verbrachten die Brüder Humboldt bis dahin abwechselnd in Tegel oder Ringenwaldc: vgl. Bruhns i, 21. Diese Notiz ist am Rande nach- getragen.</p>
+
+            <p>') Das Gut Ringenwalde in der Neumark zwischen Soldin und Küstrin hatte Humboldts Mutter von ihrem ersten Gatten geerbt: vgl. Bruhns i, 242.</p>
+
+            <p>') Friedrich Hermann Ludwig Muzell (ijiO—84), Leibarzt Friedrichs des Grossen, starb am 7. Dezember. Fr scheint auch der Hausarzt bei Humboldts Eltern gewesen zu sein. Diese Notiz ist später nachgetragen.</p>
+
+            <p>•) Am i-j, August,</p>
+
+            <p>•0) Vgl. Band 14. O2. 63. i. ") Vgl. ebenda S. jö.</p>
+
+            <p>'*j Humboldts Vcrlobungstag mit Karoline von Dacheröden war der i(&gt;. Dezember. In den Weihnachtslagen lernte er Schiller kennen, der von Jena nach Erfurt herübergekommen war, um mit den Schwestern Lengefeld und deren intimster Freundin Karoline den Christabend zu verleben. Von dort aus ging das Brautpaar für einige Tage nach Weimar, wo Humboldt Goethe kennen lernte.</p>
+
+            <p>'*) ]'um I. August bis 14. September.<pb n="15.519" xml:id="pbXV519"/> I79I- heirathete ich in Erfurt, gieng nach Burgörner, Auleben und xxiv. wieder nach Burgörner.<note type="footnote" n="^)" resp="gnd-116890657"><hi>Die Übersiedelung nach Erfurt fiel in den Anfang März, die nach Berlin und Tegel in den Anfang Mai; die Reise nach Dresden wurde am i. September angetreten (vgl. Band 14, 2jßJ; nach einem kurzen Besuch Aulebens war man nach der Mitte des Oktober in Burgörner.</hi></note> 1792. giengen wir im Winter von Burgörner nach Erfurt, wo Ca- xxv.</p>
+
+            <p>roHne geboren wurde. ^) Dann waren wir in Rudolstadt, von wo ich allein nach Berlin gieng, und hernach mit meiner Frau nach Auleben. ^) In Erfurt übersetzte ich zuerst aus dem Pindar, ■<note type="footnote" n="*)" resp="gnd-116890657"><hi>Humboldts Hochzeitstag war der 29. Jtmi. Dann zog das junge Paar nach Burgörner bei Mansfeld, wo es auch den beginnenden Winter verbrachte; die Zeit des Zwischenaufenthalts in Auleben bei Heringen in der Goldenen Aue kann ich nicht genauer bestimmen.</hi></note> 1793. giengen wir von Auleben gegen das Frühjahr nach Erfurt, xxvi. von da nach Berlin, im Herbst nach Dresden, und wieder nach Burgörner. ^) 1794. giengen wir von Burgörner über Erfurt nach Jena,<note type="footnote" n="*)" resp="gnd-116890657"><hi>Vgl. Band 8, 107.</hi></note> wo xxvii. Wilhelm geboren wurde. '^) 1795. arbeitete ich an den Hören,*) und wir giengen von Jena xxviii. nach Tegel, und dann nach Berlin.^) 1796. machten wir eine Reise nach Rügen und Hamburg, und xxix, giengen nach Jena zurück, ^^) wo wir den Tod meiner Mutter ^^) erfuhren. 1797. wurde Theodor in Jena geboren; ^^) ich reiste im Frühjahr xxx. allein nach Berlin, traf von da mit meiner Frau in Dresden zusammen, von wo wir über Wien nach Paris reisten, ^^)<note type="footnote" n="2)" resp="gnd-118554727"><hi>Am 16. Mai. Die Übersiedelung nach Erfurt fand itn Lauf des Januar statt. ') Den Juli verbrachten Humboldts in Rudolstadt bei Karoline von Beulwitz, Mitte des Monats ging Humboldt nach Berlin, nach der Mitte August zogen sie nach Auleben.</hi></note></p>
+
+            <p>®) Vgl. ebenda S. 256.</p>
+
+            <p>■') Am 5. Mai: vgl. ebenda S. 244. ^) Vgl. Band i, 4^5.</p>
+
+            <p>®) Die Reise von Jena nach Tegel wurde am i. Juli angetreten (vgl. Band 14, 2j6j, die Übersiedelung nach Berlin fand gegen Ende des Jahres statt.</p>
+
+            <p>^0) Vgl. ebenda S. 258. 353. ^') Am 14. November.</p>
+
+            <p>'^) Am ig. Januar.</p>
+
+            <p>^*) Humboldt reiste am 'j4. April von Jena nach Berlin, der Aufenthalt in</p>
+
+            <pb n="15.520" xml:id="pbXV520"/>
+            <div type="section" n="1">
+               <head>
+                  <title type="main">XXXI. 171)8.</title>
+               </head>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">XXXII. 1 799.</title>
+               </head>
+            </div>
+
+            <div type="section" n="3">
+               <head>
+                  <title type="main">XXXIII. 1800.</title>
+               </head>
+            </div>
+
+            <div type="section" n="4">
+               <head>
+                  <title type="main">XXXIV. 1801.</title>
+               </head>
+            </div>
+
+            <div type="section" n="5">
+               <head>
+                  <title type="main">XXXV. 1802.</title>
+               </head>
+               <p>XXXVI. 1803. XXXVII. 1804.</p>
+
+               <p>und dort nie de Verneta'l wohnten. Es war der iX. Fructidor^ <note type="footnote" n="*)" resp="gnd-116890657"><hi>Am 16. November. ") Um die Mitte des September durch Vermittlung Brincknianns. *) Am 20. Oktober: vgl. Druhns i, 26 j. ^00. 6) Vgl. oben S. 354. "j Am 5. Juni: vgl. Bruhns i, 313.</hi></note> und Friedrich Wilhelm 2. starb.') wir zogen nach ruc du Colombie.r, ich lernte die Stael kennen;^; Alexander verliess Paris.*; reisten wir im Herbst nach Spanien;^) Alexander schiffte sich nach America ein;^) es war der 18. Brumaire.'') kamen wir nach Paris zurück, ^) und wohnten nie de Bondy am Boulevard SL Martin. Adelheid wurde geboren ; ^ wir zogen in die rue fauhour^ St. Honori.</p>
+
+               <p>reiste ich mit Bockclmann ^°) nach Biscaya, ") giengen wir im Sommer von Paris über Burgörner nach Berlin. ^-} zogen wir, meine Frau früher, nach Tegel, von wo meine</p>
+
+               <p>Frau zu ihrer Entbindung mit Gabriele^') nach Berlin reiste; im Herbst wurde ich Resident in Rom, und wir giengen dahin, ^^j Wilhelm starb in Lariccia. '") reiste meine Frau mit Theodor und Carolinen über Deutschland nach Paris, ^^} wo Louise geboren ward,'') und</p>
+
+               <p>Dresden daiiene von Mitte Juni bis Anfang August, die Ankunft in Paris erfolgte am 18. November.</p>
+
+               <p>') Durch den Staatsstreich dieses Tages (4. September) wurde der überhandnehmende Royalismus eingedämmt und der Militdrdespotisnuis vorbereitet.</p>
+
+               <p>') Durch den Staatsstreich dieses Tages (g. November) wurde die Direktorial- regierung gestürzt imd Napoleon erster Konsul.</p>
+
+               <p>«) Vgl. oben S. jss- *) Am ly. Mai.</p>
+
+               <p>'°) Georg Wilhelm Bokelmann fjjy&lt;) — i84yj, Kaufmann in Cadi:. .'ipater in Hamburg: vgl. über ihn Assing, Aus Raheis Herzensleben S. 127.</p>
+
+               <p>") Vgl. oben S. 3^6 und Band 13, 3. Diese Notiz ist mit der Handschrift der späten zwanziger Jahre am Rande nachgetragen.</p>
+
+               <p>'*) Humboldts verliessen Paris in der zweiten Hälfte Juli und waren Ende August in Berlin.</p>
+
+               <p>'*) Sie wurde am 28. Mai geboren. '*) Humboldts reisten Mitte September aus lierliii ab und kamen am i;^. November in Rom an.</p>
+
+               <p>•'■) Am /5. August. ••) Am 5. März verliess sie Ri»ii und kam a)u ;•;. Jun: in Paris an. ") Am 2. .füll.</p>
+
+               <pb n="15.521" xml:id="pbXV521"/>
+               <p>Starb ;^) ich war den Sommer in Marino mit Adelheid und</p>
+
+               <p>Gabriele; Alexander kam aus America zurück.'^) 1805. ^^^^ meine Frau aus Paris nach Rom zurück,"^) wir waren xxxvin. den Herbst in Tivoli; Alexander besuchte uns in Rom.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Er landete am ß. August in Bordeaux: vgl. Bruhns i, ^§4. ®) Sie verliess Paris atn 25. Dezember imd hat)! am^2(). Januar in Rom an. *) Vom 5. Juni bis i-j. September: vgl. Bruhns i, 40g. ^) Am 7. Januar.</hi></note> 1806. wurde Gustav geboren ;•'"') mein Schwager starb ; •') ich wurde xxxix. bevollmächtigter Minister; ') wir wohnten den Sommer und Herbst in Albano. Schlacht bei Jena. ^) 1807.^) wir waren wieder in Albano; Gustav starb ;^'') Tilsiter xl. Friede. '^) 1808. wir waren im Sommer wieder in Albano; ich reiste im xli.</p>
+
+               <p>Herbst nach Erfurt; ^^) meine Frau blieb in Rom. i8og. gieng ich nach Berlin/') wurde Geheimer Staatsrath, kam xlii. nach Königsberg,^*) reiste nach Memel, ^'^) im December nach Erfurt, ^^) wo mein Schwiegervater starb. ^") Meine Frau blieb in Rom; Herrmann wurde geboren. ^^) Ich lernte Hedemann ^^) kennen. 1810. reiste ich nach Berlin zurück,-") forderte meinen Ab- xliil</p>
+
+               <p>») Atn 18. Oktober.</p>
+
+               <p>') Ernst von Dac/ieröden (i-jös—iSoÖ), Karolinens einziger Bruder, starb im Januar. Diese Notiz ist über der Zeile nachgetragen.</p>
+
+               <p>') Durch eine Kabinetsordre vom 10. April. «) Am 14. Oktober-.</p>
+
+               <p>®) Nach „180J." gestrichen: „starb mein Schwager;" ^°) A771 12. November. ^•) Am Q. Juli.</p>
+
+               <p>'^) Humboldt verliess Rom am 14. Oktober und kam am 11. November in Erfurt an.</p>
+
+               <p>") Die Abreise aus Erfurt war am 8.. die Ankunft in Berlin am 14. Januar. ") Humboldt fuhr am 8. April aus Berlin und kam am iß. in Königsberg an.</p>
+
+               <p>*') Vom 23. September bis 8. Oktober.</p>
+
+               <p>") Humboldt verliess Königsberg am 5.' Dezember und kam am 21. in Erfurt an.</p>
+
+               <p>*') Am 20. November.<note type="footnote" n="**)" resp="gnd-116890657"><hi>Am 2j. April.</hi></note></p>
+
+               <p>'9) August von Hedemann (ij8s—i8s;g), damals Adjutant des Prinzen Wil- helm, heiratete 18 is Humboldts Tochter Adelheid: zur ersten Bekanntschaft vgl. Wilhelm und Karoline von Humboldt ß, 2ßg. ßoi.</p>
+
+               <p>■■"&gt;) Humboldt verliess Erfurt am 18. Januar und kam am 2O. in Berlin an.</p>
+
+               <pb n="15.522" xml:id="pbXV522"/>
+            </div>
+
+            <div type="section" n="6">
+               <head>
+                  <title type="main">181I.</title>
+               </head>
+               <p>1812. i8n. 1814.</p>
+
+               <p>schied, ^) wurde Gesandter in Wien, und gieng dorthin, ') wo wenige Zeit drauf meine Frau, die im Frühjahr in</p>
+
+               <p>Neapel und Pästum gewesen war, hinl^am. ^) Hedemann besuchte uns in Wien. Theodor kam nach Heidelberg; ich reiste auf Urlaub auf unsre Güter und nach Berlin.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Am 21. Oktober.</hi></note> Theodor kam in die Garde; ich gieng im Junius ins Hauptquartier nach Peilau, von da nach Ratiborsitz ^) zur Herzogin</p>
+
+               <p>Sagan, "j wieder nach Peilau, und zum Prager Congress."^ Nach diesem machte ich eine Urlaubsreise nach Wien,<note type="footnote" n="*)" resp="gnd-116890657"><hi>Vom II. Juni bis uj^. August. 'j Humboldt kam am 11. Juni nach Peilau, am uj. nach Katiborzitz. •) Wilhelmine Herzogin von Sagan ; ijSi—iSjfg), Tochter des Herzogs Peter Biron von Kurland.</hi></note> gieng wieder ins Hauptquartier nach Töplitz, ") von da über {^ommotau, (Chemnitz, Zwickau, und Altenburg am 20. Oc- tober nach Leipzig, und über Zeitz, Jena und Weimar nach</p>
+
+               <p>Franklurt, dann über Freiburg nach Basel, ^"j folgte ich dem Hauptquartier bis Langres, ^') gieng zum (]hatilloner Congress, ^-j stiess über Bar sur Seine und Vandoeuvre zum Hauptquartier der Minister in Bar sur</p>
+
+               <p>Aube, gieng mit diesem nach Dijon und nach Paris, ^"j war beim Friedensschluss, ^*) reiste mit den Souverainen nach London, ^^) begleitete von da den König nach der Schweitz, wo ich in Neuchatel mit meiner Frau, die von Wien dahin</p>
+
+               <p>') Das Abschiedsgesuch ist voju 2r/. April {Band 10, 244). *) Humboldt )vurde am 14. Juni zum Gesandten in Wien ernannt und kam am 22. September dort an.</p>
+
+               <p>'') Am 5. Juli kam Humboldt tiach Peilau zurück; vom 12. Juli bis 22. August nahm er am präg er Kongress teil.</p>
+
+               <p>'') Vom 2j. August bis 2. September. •} Vom 2. September bis S. Oktober.</p>
+
+               <p>•*•) Die Ankunft Humboldts in Frankfurt erfolgte am ü. Si&gt;vember, in Freiburg am 21. Dezember, in Basel am / v- Januar 1814.</p>
+
+               <p>") Humboldt kam am 2-j. Januar in L.mgres an. **; Vom V- Februar bis 21. Mdrz.</p>
+
+               <p>'*) Humboldts .\nkunfi in Bar sur Aube erfolgte am 2.'., in Dijon am 2rj. Marx, in Paris am /y. April.</p>
+
+               <p>'*) Am 90. Mai.</p>
+
+               <p>■») Humboldt verliess Pari.s jm y. .htm; der .Xufcnlhalt tn Umdon dauerte vom 8. bis 29. Juni.</p>
+
+               <pb n="15.523" xml:id="pbXV523"/>
+               <p>52s gekommen war, zusammen traf, <note type="footnote" n="^)" resp="gnd-116890657"><hi>Humboldt kam am 8., Karoline am 10. oder 11. Juli in Neufc/iatel an. *) Am 30. Juli reiste Humboldt nach Wien ab, wo die Kongressverhand-</hi></note> und gieng zum Wiener Congress;<note type="footnote" n="^)" resp="gnd-116890657"><hi>Karoline kam am 2. November in Berlin an. *) Humholdi verliess Wien am 20. Juni und kam am 25. in Berlin an.</hi></note> meine Frau gieng nach Berlin.*) 1815. reiste ich nach dem Congress nach Berlin,*) und erfuhr &gt;&lt;^lviii. unterwegs die Schlacht bei Belle Alliance, ^) gieng nach wenigen Tagen über Frankfurt nach Paris ®) zu den Friedensunterhandlungen, ') und von da zur TerritorialCommission nach Frankfurt. ^) Adelheid heirathete. ') 1816. wurde Bülow bei mir angestellt; ^^) meine Frau kam von xlix. Berlin über Carlsbad zu mir nach Frankfurt. ^^) 181 7. reisten wir von Frankfurt über Weimar nach Burgörner. ^^) l.</p>
+
+               <p>b. Wilhelm von Humboldt. Wurde geboren in Potsdamm am 22. Junius, 1767. Sein Vater, der aus einem Pommerschen Geschlecht stammte, ^^) nahm, als Major, den Abschied nach dem siebenjährigen Kriege, wurde Kammerherr, lebte abwechselnd in Berlin und auf seinen Gütern, und starb 1779. Seine beiden Söhne, Wilhelm und Alexander (er hatte keine andren Kinder), wurden im väterlichen Hause erzogen, das sie lungen in der zweiten Hälfte September begannen. ^') Am 18. Juni. ®) Humboldts Abreise aus Berlin erfolgte am 5., die Ankunft in Paris am 15. Juli. '') Der Friede wurde am 20. November geschlossen. *) Humboldt verliess Paris am 22. November imd kam am 28. in Frankfurt an. "j Am 24. April; vgl. oben S. 52z Anm. ig. ^°) Im Januar: vgl. Wilhelm und Karoline von'Humboldt s, 1^8. 17^. ") Karoline reiste am 20. Mai von Berlin ab und kam am 6. August in Frankfurt an. ^^j Humboldts verliessen Frankfurt am 10. Januar, waren vom is- — 18. in Weimar (vgl. Goethes Tagebücher 6, 4. s) "«&lt;^ kamen um den 22. in Burg- ■örner an. Handschrift von b (4 Folioseiten) im Archiv in Tegel. •*) Vgl. Bruhns, Alexander von Humboldt i, 4.<pb n="15.524" xml:id="pbXV524"/> Mutter. Vom Jahr 1777. bis zum Beziehen der L'niversität wurde ihre Erziehung von dem jetzigen Staatsrath Kunth geleitet. Ausser- dem hatte Engels Unterricht und Umgang vorzüglichen Einfluss auf ihre Bildung. ^)</p>
+
+               <p>W. von Humboldt hatte schon in Berlin einen juristischen Cursus vollendet,^) als er im Herbst 1787. nach Frankfurt an der Oder gieng, und daselbst vorzüglich Reitemeiers ^} Unterricht genoss. Vom Frühjahr 1788, bis gegen den Sommer 1789. studirte er in Göttingen, wo er jedoch keine juristischen Collegia mehr hörte, und überhaupt nur einige*) Vorlesungen Heyne's, Schlözer's und Lichtenberg's besuchte, "^j Im Sommer 1789. reiste er mit (^ampe, der sein erster Lehrer gewesen war, nach Paris, gieng von da allein in die Schweiz, und kehrte") im Anfang des Jahrs 1790. nach Berlin zurück.</p>
+
+               <p>Auf dieser Reise, und schon früher von Göttingen aus begann sein Umgang und seine Freundschaft mit Friedrich Jacobi, und Georg Forster.</p>
+
+               <p>In Berlin widmete er sich der juristischen Laufbahn, arbeitete als Referendarius beim Kammergericht, und ward, unter Graf Herzberg's Ministerium, Legationsrath.</p>
+
+               <p>Gleich darauf aber gab er den Plan, ') sich dem Staatsdienst zu widmen, auf, und heirathete die einzige Tochter des nunmehr verstorbenen Kammer Praesidenten von Dacheröden, der sich ab- wechslend auf seinen Gütern und in Erfurt aufhielt.</p>
+
+               <p>Von dieser Zeit bis zum Jahr 1797. lebte er anfangs auf dem Lande, nachher abwechslend in Jena und Berlin.</p>
+
+               <p>Auf dem Lande in der Gegend von Halle genoss er des ') freundschaftlichen Umgangs des Geheimen Raihs Wolf, und dessen Anleitung zu seinen philologischen vStudien. V.r übersetzte damals</p>
+
+               <p>') Vgl. Band 7, 4t&gt;5.</p>
+
+               <p>'*) Bei Ernst Fcrdin.vid Klein über Naturrecht : vfl. ebenda S. 481. *) Vgl. über ihn Band 14, 20 .In;«. 5. *) „einige" verbessert aus „wenige". ') Zu den göttingcr Vorlesungen Heynes und Lichtenbergs vgl. /ünJ 7, 550. Srhlözer als Humboldts Lehrer war bisher nicht bekannt.</p>
+
+               <p>•) Nach „kehrte" gestrichen : „noch". ') Nach „IHan" gestrichen: „wei[terj'. •) „des" verbessert aus „durch den".</p>
+
+               <pb n="15.525" xml:id="pbXV525"/>
+               <p>memnon an. <note type="footnote" n="^)" resp="gnd-116890657"><hi>Vgl. Band 8, loy. 22ß. 2) Vgl. Band 7, 580.</hi></note> In Jena war er der tägliclie Gesellschafter Schillers, sah häufig Göthe, und war Mitarbeiter an den Hören. Kr beschäftigte sich damals auch mit Naturwissenschaften, vorzüglich Anatomie.^)</p>
+
+               <p>Im Sommer 1797. reiste er, "in Gesellschaft seines Bruders, nach Wien, ^) und<note type="footnote" n="*)" resp="gnd-116890657"><hi>„gegen den" verbessert aus „zum".</hi></note> von da im Herbst nach Paris, wohin ihm sein Bruder im folgenden Jahre folgte, aber auch in demselben wieder Frankreich verliess. ^) W. von Humboldt blieb in Paris bis gegen den") Herbst 1799., machte dann eine Reise durch') Spanien, kam ^) 1800. zwar nach Paris zurück, besuchte*^) aber^'*) noch einmal Spanien, um mündliche und handschriftliche Nachrichten über die Vaskische Sprache in Biscaya zu sammeln, worin er vorzüglich bei Don P. Astarloa, der damals Pfarrer in Durango war, Unterstützung und Belehrung fand.</p>
+
+               <p>Nach einem abermaligen Aufenthalt in Berlin, wurde er im Jahr 1802. zum Minister Residenten am Päbstlichen Hofe ernannt, und blieb dort in diesem Charakter, hernach aber als bevollmächtigter Minister bis 1808. wo er, da es, der Uebermacht Napoleons wegen, dort anfieng unmöglich zu werden einen Gesandtschaftsposten mit Würde zu behaupten, unter dem Vorwande ^^) eines Urlaubs in Privatangelegenheiten, in ^'^) sein Vater- land zurückkehrte.</p>
+
+               <p>In Rom sammelte er durch den Umgang mit dem Abbate Hervas*^) bedeutende Hülfsmittel zum Studium der Amerikani- schen Sprachen, indem er Abschriften von handschriftlichen Sprach- lehren nehmen Hess, welche Hervas den glücklichen Gedanken</p>
+
+               <p>') Vgl. Bruhns i, 2^g. *) „und" verbessert aus „dann".</p>
+
+               <p>'') Vgl. Bruhns i, 2^§. 26J.</p>
+
+               <p>') „durch" verbessert aus „nach". *) „kam" verbessert aus „kehrte".</p>
+
+               <p>') „besuchte" verbessert aus „keh[rte]".</p>
+
+               <p>'") Nach „aber" gestrichen: „im". ") Nach „Vonvande" gestrichen: „von". **) „in" verbessert aus „nach".</p>
+
+               <p>") Lorenzo Hervas y Panduro (i']35—i8og), Vorstand der päpstlichen Bibliothek im Quirinal: vgl. über ihn Band ß, j02. 305. 4, 23g.</p>
+
+               <pb n="15.526" xml:id="pbXV526"/>
+               <p>mals Missionarien im Spanischen Amerika waren, und hernach <note type="footnote" n="*)" resp="gnd-116890657"><hi>„das" verbessert aus „die Leitung des". *) „im" verbessert aus „tttiltcrj".</hi></note> in Italien lebten. Da Hervas Papiere, nach seinem Tode, verloren gegangen, oder zerstreut worden sind, so haben sich auf diesem Wege Schilderungen von Sprachen erhalten, von denen sonst jede andre Nachricht fehlt.</p>
+
+               <p>Unmittelbar nach W. von Humboldt's Zurückkunft in sein Vaterland, wurde ihm das ^) Departement des (Kultus und öfl'ent- lichen Unterrichts im •'^) Ministerium des jetzt ausser Diensten lebenden (irafen von Dohna, mit dem er in langjähriger freundschaftlicher \'erbindung^j stand, anvertraut. Nach der damaligen Verfassung bestanden"^) solche Departements selbständig unter dem Namen von*) Sectionen, nur unter der obersten Leitung') der Minister.*) Auf seinen Vorschlag wurde die Universität in Berlin gegründet, und ihr ihr jetziges Gebäude von Sr. Majestät dem König verliehen. ")</p>
+
+               <p>Als der Fürst von Hardenberg Staatskanzler wurde, erhielt W. von Humboldt, mit dem Charakter eines Staatsministers, den Gesandtschaftsposten in Wien, und da im Jahr 1813. der Krieg ^egen Frankreich ausbrach, wurde er in das Königliche Haupt- quartier berufen. Von dieser Zeit bis zum zweiten Pariser Frieden iiielt er sich im Hauptquartiere auf, und arbeitete unmittelbar imter dem Fürsten von Hardenberg, wenn er nicht, wie bei den Con- gresscn von Prag und (&gt;haiillon, allein versendet war. Fr war auch neben dem Fürsten zweiter Bevollmächtigter auf dem Con- gresse zu Wien, und bei der doppelten Friedensunterhandlung in Paris 1814. und 1815.*") Die Unterhandlung über die Reclama- tionen der Privatpersonen'^) an Frankreich war 1815. in Paris seiner alleinigen Leitung überlassen, und die Convention, welche das Resultat dieser Unterhandlung war, diente hernach der Liqui■) „hernach" verbessert aus „nun".</p>
+
+               <p>♦) „frcundsch.ijtlicher Verbindung" verbessert aus „Freun[dscha/t]". *) „bestanden" verbessert aus „wurden". •) „von" verbessert aus „der".</p>
+
+               <p>') „obersten Leitung" verbessert aus „Oberaufsicht" aus ..Leitung". *) Nach „Minister" gestrichen: „geblildetj". •) „verliehen" verbessert aus „eingeräumt". ") Mach „/.V;5." gestrichen: „In J'aris Im Jahr 1S15". ") „Privatpersonen" verbessert aus „Privatleute".<pb n="15.527" xml:id="pbXV527"/> die eigne geschlossen hatten, zur Grundlage. ^)</p>
+
+               <p>Unmittelbar darauf wurde er zum Bevollmächtigten bei der in Frankfurt am Main errichteten Territorialcommission ernannt, und wohnte zugleich im Namen Preussens der Eröffnung des Bundestages im Herbst des Jahrs 1816. bei, da ihm bis zur Ankunft des Grafen von Goltz die Geschäfte eines Bundestagsgesandten interimistisch übertragen wurden. '^) Während dieses Aufenthalts gab er seine Uebersetzung des Agamemnon heraus. ^) Es erschienen auch damals erst die Zu- sätze zum Mithridates über die Vaskische Sprache, die er aber schon in Wien im Jahr 181 1. ausgearbeitet hatte. ^)</p>
+
+               <p>Im Anfang des Jahrs 181 7. kehrte er nach Berlin zurück, ward zum Mitglied des Staatsraths ernannt, und führte den Vorsitz in ^) einer Commission, welche zur Prüfung neuer Vorschläge zur Einführung eines gleichförmigeren Steuersystems niedergesetzt worden war.</p>
+
+               <p>Nach Beendigung dieses Geschäfts wurde er zum Gesandten am Hofe in London ernannt, und gieng im Herbst 181 7. dahin ab. Vorher hatte er durch eine Königliche Schenkung das Schloss Ottmachau in Schlesien nebst einigen^) dazu gehörenden Gütern als Eigenthum erhalten.</p>
+
+               <p>Zur Zeit des Aachner Gongresses wurde ihm, auf seinen Wunsch, die Beendigung der Geschäfte der Frankfurter Territorial Commission übertragen, und '^) bei der bald darauf vorgenommenen Theilung des Ministeriums des Innern erhielt er den einen Theil desselben mit dem in der gedruckten Königlichen Cabinetsordre näher bestimmten Wirkungskreise. Er kehrte daher unmittelbar nach der Unterzeichnung des Recesses der TerritorialCommission nach Berlin zurück und stand dem ihm übertragnen Ministerium bis zum Ende des Jahrs i8ig. vor, wo er von den Geschäften desselben, und der Theilnahme am Staatsrath entbunden vvurde.</p>
+
+               <p>') Vgl. hierüber Gebhardt, Wilhelm von Humboldt als Staatsmann 2, j8j.<note type="footnote" n="3)" resp="gnd-118554727"><hi>Vgl. Band 8, 228. *■) Vgl. Band 3, 3r]4.</hi></note></p>
+
+               <p><note type="footnote" n="*)" resp="gnd-116890657"><hi>Nach „wurden" als Anfang eines neuen Absatzes gestrichen: „Da die Geschaffte]".</hi></note> „führte — in" verbessert aus „leitete die Arbeiten". •) „einigen" verbessert aus „meh[reren]".</p>
+
+               <p>■y Nach „und" gestrichen: „nachdem diese".<pb n="15.528" xml:id="pbXV528"/> vorzüglich mit linguistischen Arbeiten. Ausser einigen Abhandlungen in den Schriften der'-) Al^ademie der Wissenschaften gab er im Frühjahr 1821. eine Prüfung der Untersuchungen über die Urbevölkerung Hispaniens heraus. <note type="footnote" n="^)" resp="gnd-116890657"><hi>Prinz Karl von JWussen {1801—83}, der dritte Sohn König Friedrich Wilhelms III.</hi></note></p>
+
+               <p>1824. Den '^1. October waren der Kronprinz mit Gemahlin,<note type="footnote" n="*)" resp="gnd-116890657"><hi>Elisabet Prinzessin von Baiern (iSoi—jj), seit 1823 Gemahlin Friedrich Wilhelms IV.</hi></note> Prinz Kar],"") der Grossherzog von Strelitz/) die Grossfürstin Alexandra, ') mit Gefolge zu Mittag in Tegel.</p>
+
+               <p>1826. Den 30. October waren der Kronprinz mit Gemahlin, Herzog und Herzogin von Cumberland und Gefolge zu Mittag in Tegel. Der Onkel,») Valenciennes, Rauch") und Schinkel. ^'^)</p>
+
+               <p>1827. Den 31. März reiste Bülow nach England ab.*') 1827. Den 5. Julius reiste Gabriele mit den Kindern nach Herrnstadt ^-) ab.</p>
+
+               <p>') „bringt" verbessert aus „lebt". <note type="footnote" n="*)" resp="gnd-116890657"><hi>Alexander von Humboldt.</hi></note> „den Schriften der" verbessert aus „der". ») Vgl. Band 4, 438. Handschrift von c (2 Quartseiten von der Hand der jüngeren Karoline von Humboldt, ohne Titel) im Archiv in Tegel.</p>
+
+               <p>«) Georg (i-]-]Q—i86o), seit 1816 Grossherzog von Mecklenburg-Strelitz, der Bruder der Königin Luise, u-ar seit der römischen Zeit mit Humboldts befreundet.</p>
+
+               <p>') Charlotte Prinzessin von Preussen (lyr/S—iSÖo), älteste Tochter Friedrich Wilhelms III., seit iSiy Gemahlin des Grossfürsten, späteren Kaisers Nikolaus I. von Russland.</p>
+
+               <p>") Christi.vi Daniel Rauch (1—7—18^7), Bildhauer, seil der römischen Zeit mit Humboldts befreundet, die ihm den Auftrag zum M(mument der Königin Luise verschafften.</p>
+
+               <p>'&lt;»j Karl Friedrich Schinket (1781 — 184'), Architekt und A/j/it, der den Umbau des Schlosses Tegel geleitet hatte. Zur Sache vgl. Wilhelm und Karoline von Humboldt 7, 271).</p>
+
+               <p>") Bülow war prcussischcr Gesandter in London geworden. '•1 Humboldts Schwie-rersohn Iledcmann stand dort als General.</p>
+
+               <pb n="15.529" xml:id="pbXV529"/>
+               <p>1827, Den 28. Julius kamen wir in Gastein an, auf der Hin- reise waren wir in München.</p>
+
+               <p>1827. Den 2. September kamen wir von Gastein zurück, am selben Tage war Bülow angekommen.</p>
+
+               <p>1827. Am 13. September kamen Bülows, die Kinder und Adelheid nach Tegel.</p>
+
+               <p>1827. Den 2. October waren der Herzog Karl, <note type="footnote" n="^)" resp="gnd-116890657"><hi>Marie Prinzessin von Sachsen-Weimar (1808— ']•]), seit 1&amp;7 Prinzessin Karl.</hi></note> der Kronprinz und Gemahlin, der Prinz Carl mit Gemahlin, ^) die Erb- grossherzogin von Mecklenburg, ^) der Prinz Albrecht, <note type="footnote" n="*)" resp="gnd-116890657"><hi>Alexandrine Prinzessin von Preussen (1803— §2), Tochter Friedrich Wil-</hi></note> der Prinz Wilhelm,^) und Gefolge zu Mittag in Tegel.</p>
+
+               <p>1827. Den 12. October waren wieder in Tegel der König, die Fürstin von Liegnitz, ^'j der Herzog von Cumberland mit Gemahlin, der Prinz Wilhelm, der Prinz Albrecht, Lord und Lad}' Belgrave, der Herzog Karl, der Prinz Carl und Gemahlin, die Prinzess der Niederlande '}, der Fürst Radziwill, ^) der Fürst Wittgenstein,^) Gräfin Truchsess, und Gefolge. 1828. Den 31. März reisten wir mit Gabriele nach London ab. Am 15. April kamen wir in Paris an, welches wir am 15. Mai wieder verliessen, und am 19. Mai in London eintrafen. Am 19. Julius verliessen wir London. Am 16. August langten wir in Gastein an, und verliessen Gastein am 17. September wieder. Den 4. October kamen wir nach Berlin, den 7. October zogen wir nach Tegel. Am 13. kam Dieffenbach mit seiner</p>
+
+               <p>') Karl Friedrich August Herzog von Mecklenburg-Sireliiz (i']8s — i8jj), Slieflruder der Königin Luise, Präsident des Staatsrats.</p>
+
+               <p>helms III., seit 1822 Gemahlin des Erbgrossherzogs Paul Friedrich von Mecklen- burg-Schwerin.</p>
+
+               <p>*<note type="footnote" n="*)" resp="gnd-116890657"><hi>Prinz Albrecht von Preussen (i8og—']2), der vierte Sohn Friedrich Wil- helms III.</hi></note> Prinz Wilhelm von Preussen (ijgj — 188SJ, der zweite Sohn Friedrich Wilhelms III., der spätere Kaiser Wilhelm I.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Auguste Fürstin von Liegnitz, geborene Gräfin Harrach (1800— 13), seit 1824 morganatische Gemahlin Friedrich Wilhelms III.</hi></note></p>
+
+               <p>') Luise Prinzessin von Preussen (1808 — 70J, Tochter Friedrich Wilhelms III., seit 1825 Gemahlin des Prinzen Friedrich der Niederlande.</p>
+
+               <p>") Aynon Heinrich Radziwill (i-j-js — 1S33}, ^^'" Komponist des Faust. ^) Wilhelm Fürst zu Sayn- Wittgenstein (i-j-jo—iSsi), Minister des könig- lichen Hauses.</p>
+
+               <p>W. y. Humboldt, Werke. XV. 34<pb n="15.530" xml:id="pbXV530"/> d.</p>
+
+               <p>1827. Ich reiste im Julius mit meiner Frau und Carolinen über München nach Gastein. Auf Hin- und Rückreise sähe ich die Forster nach 38 Jahren wieder. In der Zwischenzeit war Gabriele mit den Kindern in Herrnstadt. Bülow wurde Gesandter in London, gieng dahin und kam im Herbst zurück, holte Gabrielen aus Herrnstadt ab, wo die Kinder den Keichhusten gehabt hatten. Dann reisten sie nach Mecklenburg, 2) Linchen^) blieb bei uns. Adelheid kam mit Bülow zurück. August<note type="footnote" n="*)" resp="gnd-116890657"><hi>Johann Fried' ich August Graf Flemming (i~S-^—uS-jrj), Legationssekr^tär bei Humboldt, dann preussischer Gesandter in Rio de Janeiro, Lissabon und Neapel.</hi></note> kam später und holte sie ab. Bülow reiste nach England. Alexander kam im Frühjahr von Paris über London und etablirte sich hier, ^j fieng seine CoUegia zu lesen an.') 2. October waren die Prinze in Tegel.') — Flcmming^) starb in diesem Jahr in Arensberg.</p>
+
+               <p>1828. Adelheid kam mit August am 2. Februar nach Berlin bis zum 14. März. Am 31. brachten meine Frau, Caroline und ich Gabrielen und ihre Kinder über Cassel, Frankfurth am Main, Metz, Paris, Calais nach London. Dort erhielt ich den Guelphen Orden, wurde vom König sehr ausgezeichnet und für ihn von Lawrence^) gemahlt. Am 19. Julius reisten meine Frau, Caroline und ich über Calais, Paris, Nancy, Strasburg, Augsburg, München nach Gastein und von da über Nürnberg nach Berlin. Ich schrieb die Abhandlung über die Attische Reduplication französisch die</p>
+
+               <p>') Johann Friedrich Dieffenbach (i-jg-]—i847) , Chirurg in Berlin. Seine Frau ist Humboldts königsberger Freundin Johanna Moiherby, geborene Thielheim ii-j&lt;Sj— 184-2). Handschrift von d (2 Quartseiten) im Archiv in Tegel.</p>
+
+               <p>') Hierzu vgl. Gabriele von Bülow S. ig2.</p>
+
+               <p>'; Bulows damals jüngste Tochter Karoline (1826— SjJ. *) Hedemann.</p>
+
+               <p>'j Vgl Bruhns, Alexander von Humboldt 2, 77. 125. ") Seine Vorlesung über physikalische Geographie begann am ^ November; über sie und ihre engen Beziehungen zum Plane des „Kosmos" vgl. ebenda 2, ijfS.</p>
+
+               <p>') Vgl. oben S. 529.</p>
+
+               <p>») Vgl. oben S. 4üi) Anm. 1. Über das Bild vgl. Gabriele von Bülow S. 322.</p>
+
+               <pb n="15.531" xml:id="pbXV531"/>
+               <p>53»</p>
+
+               <p>Die Entstehungszeit dieser kleineren autobiographischen Stücke ergiebt sich aus ihnen selbst schon bei oberflächlicher Betrachtung. Der Lebenslauf (a) ist ini Frühjahr 1817 in Burgörner vor der Rückkehr nach Berlin niedergeschrieben und dürfte dazu bestimmt gewesen sein, bei den selbstbiographischen Plänen dieses Jahres (vgl. oben S. 460) als äusseres Gerüst und Gedächtnisshülfe zu dienen Der folgende kleine biographische Abriss (bj fällt in die ersten zwanziger Jahre, wie die am Schluss erwähnten Arbeiten zeigen: er inacht, schon weil er in der dritten Person gehalten ist, den Eindruck, als sei er auf Veranlassung einer Anregung von aussen entstanden und für eine Veröffentlichung bestimmt gewesen; doch habe ich die Konversationslexika und ähnliche Unternehmungen der Zeit vergeblich danach durchsucht. Zu dem letzten Blatt fd), das auf jeder Seite die Notizen eines Jahres enthält, haben wohl noch weitere gehört, die aber nicht er- halten zu sein scheinen.<note type="footnote" n="1)" resp="gnd-118554727"><hi>Vgl. Band 6, 332.</hi></note></p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

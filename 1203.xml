@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gutachten über die Einrichtung des Staatsrats</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zwölfter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif1201humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1904">1904</date>
+                  </imprint>
+                  <biblScope unit="page" from="141" to="147"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="12.141" xml:id="pbXII141"/>
+            <p>Widerspruch finden und kaum durchzusetzen seyn. Die deutschen Staaten würden mit Recht Bedenken tragen, dem Bunde durch Einverleibung ganz fremder Länder gewissermassen eine seinem Wesen nicht entsprechende Gestah zu geben.</p>
+
+            <p>Die mir von Ew. p. geneigtest mitgetheilten Acten erfolgen anbei zurück.</p>
+
+            <head>
+               <title type="main">XX. Gutachten über die Einrichtung des Staatsrats.</title>
+            </head>
+            <p>Anfang März 1817.</p>
+
+            <p>(Eigenhändige Denkschrift im Geh. Staatsarchiv.)</p>
+
+            <p>Humboldt hatte am 11. Jamur iSi-j Frankfurt verlassen, einige Wochen in Burgörner geweilt und war am 5. März in Berlin eingetroffen, um vor seinem Abgang nach London in wichtigen inneren Geschäßen gebraucht zu werden. Die erste Arbeit, die er lieferte, war sein Votum über den Plan der Einrichtung des Staatsrats; es trägt kein Datum, stammt aber yiach der Reihenfolge zwischen den übrigen Gutachten von Anfang März 181 -j. Zum Verständnis geben wir in den Anmerkungen die angezogenen Paragraphen des Entwurfs.</p>
+
+            <p>Ich kann nicht umhin, meine Bemerkungen über den vorliegenden Plan damit anzufangen, dass mir immer die ganze Idee eines so ausgedehnten Staatsraths, der vom Ministerio fast ganz abgesondert ist, zu gross, zu verwickelt und der Schnelligkeit und Zweckmässigkeit der Verwaltungsmassregeln leicht nachtheilig geschienen hat. Ich würde allerdings ein blosses, sich aber regelmässig und oft versammelndes und über alle wichtigen Gegen- stände gemeinschaftliches Ministerialconseil , unter dem Vorsitz des Staatskanzlers, zu dem wenige, aber sehr tüchtige, in keiner Verwaltung Theil nehmende Räthe zugezogen worden wären, für vorzüglicher erachtet haben. Wenn ich aber hiervon absehe, so erlaube ich mir folgende Bemerkungen: ad § 2.*) b) Gegenstände, bei welchen gemeinschaftliches Interesse verschiedener Ministerien, aber keine \'ereinigung stattfindet, könnten doch auch ganz specielle Verwaltungsmassregeln betreuen und würden dann doch nicht zum Ressort des Staatsraths gehören.</p>
+
+            <pb n="12.142" xml:id="pbXII142"/>
+            <p>Wenn, wie es jetzt der Fall ist, Ministerium, auch als Conseil, und Staatsrath geschieden sind, so muss man den Unterschied und die Gränzlinien festhalten. Dem Staatsrath kann nur die Be- urtheilung über das Allgemeine, und über Grundsätze compe- tiren, dem Ministerio die ganz specielle Verwaltung selbst. Ist bei gemeinschaftlich zu verabredenden Gegenständen keine Vereinigung zu erhalten, so gebührt dem Staatskanzler die Ent- scheidung.</p>
+
+            <p>c) Halte ich für durchaus nothwendig. Jedem Minister muss es willkommen sein, eine solche Darstellung dem Staatsrath zur Beurtheilung vorlegen zu können, und der Staatsrath muss die Einsicht derselben haben, um mit rechter Sachkenntniss die Vorzüge und Gutachten der Verwaltung zu kennen. Allein es versteht sich von selbst, dass er diese Beurtheilung nur auf dasjenige erstrecken kann, was seine Competenz ist, mithin, nur auf die Grundsätze der Verwaltung, und die allgemeinen Normen und Einrichtungen. Er soll keine Controlle über die Verwaltung selbst führen, welches das Recht und das Geschäft des Staatskanzlers ist, aber er muss wissen, wie die Grundsätze, welche er aufgestellt hat, angewendet werden, und ob und welche in Ausübung gebracht worden sind, über die er keine Gutachten abgegeben hat. Ich würde daher dem Satze die Worte hinzufügen: jedoch nur dergestalt, dass sich diese Beurtheilung auf seinen Wirkungskreis beschränken muss, mithin nur die bei der Verwaltung befolgten Grundsätze, und nur die allgemeinen Einrichtungen und Massregeln betreffen kann, da dem Staatsrath keineswegs eine Controlle über die Verwaltung selbst gebührt. Verfassungs- und Verwaltungs - Normen , Pläne über Verwaliiings - Gegen- stände etc.</p>
+
+            <p>b) Diejenigen Gegenstände, bei welchen ein gemeinschaftliches Interesse verschiedener Ministerien, aber keine Vereinigung derselben stattfindet.</p>
+
+            <p>c) Die Beurtheilung der von den Ministern jährlich eiyizureichenden schrift- lichen Darstelhmgen von ihren Verwaltungen.</p>
+
+            <p>d) Die Berathungen über den Wirkungskreis aller Verwaltungs-Behörden und über Streitigkeiten unter ihnen.</p>
+
+            <p>f) Alle Sachen, welche in einzelnen Fällen von Uns oder Unserm Staatskanzler an den Staatsrath gewiesen werden, welches dem Befinden nach besonders in Absicht auf die bei Uns oder dem Staatskanzler von Unsern Unterthanen ein<pb n="12.143" xml:id="pbXII143"/>f) Da der Staatskanzler, ohne den Staatsrath, alle Verfügungen, die auch ganz und gar einem einzelnen Ministerio angehören, seiner Prüfung unterwerfen kann, so ist nichts dagegen zu sagen, wenn er einen solchen Gegenstand auch an den Staatsrath bringt. Doch würde es nie zweckmässig seyn, und der Ausdruck einzelne Fälle kann allerdings Anstoss erregen. Beschwerden, die nicht ganz ungegründet sind, gehören aber auf jeden Fall vor den Staatsrath. Denn da das Ministerium darin theilweise unmittelbar, und im Ganzen mittelbar (indem die Verwaltung eigentlich gemeinschaftliches Werk aller Ministerien seyn sollte) Parthei ist, so hat der König dafür keine andere Behörde. Vielleicht wäre folgende Redaction vorzuziehen:</p>
+
+            <p>Alle übrigen Sachen, von denen es zweifelhaft scheinen könnte, ob sie unter den von a — e namhaft gemachten begriflen sind, welche aber von Uns selbst, oder Unserem Staatskanzler speciell an den Staatsrath verwiesen werden, namentlich alle von Unsern Unterthanen über die Entscheidung der Provinzial-Behörden oder der Ministerien eingehenden Beschwerden, insofern Wir ihre Verweisung an den Staatsrath, nach darüber eingefordertem Bericht, für nothwendig erachten.</p>
+
+            <p>ad § 7.*) Da die Abtheilungen einmal nicht nach den Ministerien gemacht sind, indem Handel und Gewerbe sehr richtig von den Finanzen getrennt, eine eigene bilden soll, würde es zweckmässig seyn, auch dem Cultus (den es nicht passend ist, mit der Polizei zu verbinden) eine eigene einzuräumen. Die Abtheilung der Redaction fällt besser weg. Dagegen könnte nach § 30 folgender § eingeschaltet werden:</p>
+
+            <p>Geht das Gutachten des Staatsraths auf ein zu gebendes Gesetz, oder eine zu erlassende Verordnung, so ist es die Pflicht des Ministers Staatssecretairs, die Redaction desselben genau zu prüfen, ohne jedoch weiter in die Materialien eingehen zu können. Glaubt er Aenderungen in der Fassung vorschlagen zu müssen, so berathet er sich<pb n="12.144" xml:id="pbXII144"/> über dieselben mit der Abtheilung, welche die Sache bearbeitet hat, und zu welcher der Referent des betreffenden Ministerii zu diesem Behuf zugezogen werden muss. Die auf diese Weise in ihrer Redaction umgeänderten Gesetze oder Verordnungen werden dem versammelten Staatsrath noch einmal vorgelegt und erst dann definitiv in das Gut- achten aufgenommen.</p>
+
+            <p>ad § 8/) Nach reiflicher Ueberlegung halte ich es für besser, die sehr gute Idee des Entwurfs beizubehalten, mehrere Mitglieder des Staatsraths keiner Abtheilung zuzuordnen, als schlechterdings alle zu vertheilen. Allein die Abtheilungen der Justiz, der Finanzen und des Innern scheinen mir so wichtig, dass man ihnen fünf Mitglieder geben muss. Die andern können füglich drei behalten. Um nicht Einseitigkeit in die Abtheilungen eindringen zu lassen, könnte die Liste dieser Mitglieder alle Jahr vom Könige neu festgesetzt werden. Hiernach könnte der Anfang dieses § folgender- massen heissen:</p>
+
+            <p>Die Abtheilungen **) der Auswärtigen Angelegenheiten, des Handels und Gewerbes und des Kriegswesens **) sollen aus drei, die übrigen aus fünf bestimmten Mitgliedern bestehen. Keines dieser Mitglieder darf in einem Fache der- jenigen Verwaltung angestellt sein, mit welchem sich die Abtheilung beschäftigt. Wir behalten Uns die Ernennung desselben Selbst vor, und das Verzeichniss wird mit dem Anfange jeden Jahres bekannt gemacht werden. Das Zuordnen andrer Mitglieder nach Befinden der Umstände ist, meinem Urtheil nach, durchaus nothwendig, und das Recht kann nicht bestritten werden. Der Präsident jedes Collegii kann *J § 8. Jede dieser Abtheihingen soll j bestimtyite Mitglieder erkalten, die in keinem Zweige derjenigen Verwaltung angestellt sind, womit sich die Abtheilung beschäßigt. Nach Befinden der Umstände imd der Wichtigkeit des Gegenstandes ordnet der Staatskanzler jeder Abtheilung noch 2, 4 oder mehrere Mitglieder des Staatsraths nach seiner Auswahl zu, doch so, dass immer eine ungerade Zahl der Stimmführenden entstehe. Er ist auch befugt zu verfügen, dass andere nicht zum Staatsrath gehörige Personen zugezogen werden, als Staatsbeamte, Gelehrte, Kaufleute, Grundbesitzer. Der erste im Range führt in der Abtheilung den Vorsitz und leitet den Geschäftsgang.<pb n="12.145" xml:id="pbXII145"/> die Referenten in einer Sache ernennen, und bei dem Staatsrath ist eine Abtheilung für die ganze Versammlung, was bei einem andern Collegio ein einzelner Referent ist. Nach dem Worte: „entstehe . . . ." dürfte noch gesetzt werden müssen:</p>
+
+            <p>Dieselbe Zuordnung eines Mitgliedes findet auch Statt, wenn eines der bestimmten an der Besorgung seiner Ge</p>
+
+            <p>Schäfte durch Krankheit, Abwesenheit oder andere Ur- sachen verhindert wird.</p>
+
+            <p>Da die Arbeit in den Abtheilungen viel wichtiger seyn wird, als im Plenum, und da unter Wenigen eine viel lebhaftere und nützlichere Discussion stattfinden kann, so weiss ich nicht, warum der Präsident des ganzen Collegii sich des Rechts begeben sollte, in den Abtheilungen selbst zu erscheinen. Ich würde daher am Ende des § 8 folgenden Zusatz vorschlagen:</p>
+
+            <p>Wenn der Staatskanzler als Präsident des ganzen Collegii es für gut findet, den Sitzungen der Abtheilungen beizuwohnen und an ihren Discussionen Antheil zu nehmen, so übt er dabei kein Stimmrecht aus, und die Functionen des gewöhnlichen Vorsitzenden werden durch seine Gegen- wart nicht unterbrochen.</p>
+
+            <p>ad § II. 13. 15.<note type="footnote" n="*)" resp="gnd-116890657"><hi>§ II. Der Vorsitzende in der Abtheilung übernimmt entweder selbst den Vortrag der eingehenden Sachen oder giebt ihn einem seiner Mitarbeiter auf. Vor dem Vortrage müssen die Sachen bei sämmtlichen Mitgliedern der Ab-</hi></note> Dadurch dass der Vorsitzende soll den Referenten, sowohl in der Abtheilung als im Plenum selbst ernennen, und die Protocoll- führung übertragen, oder Alles dies selbst übernehmen können, wird ihm zuviel eingeräumt. Den Vorsitz in der Abtheilung bestimmt nach § 8 der Rang, und dies kann nicht anders seyn. Um aber die Unbequemlichkeiten zu heben, welche daraus entstehen können, muss man die Befugnisse des Vorsitzes nur auf die materielle Leitung des Geschäftsganges beschränken, und alles Gewicht für das Geschäft in den Referenten legen. Diesen aber muss zu jedem vorkommenden Geschäft der Staatskanzler, als<pb n="12.146" xml:id="pbXII146"/> Präsident des Collegii, ernennen. Ich würde daher statt der 3 oben benannten §§ folgende vorschlagen :</p>
+
+            <p>§ Dem Vorsitzenden jeder Abtheilung steht die materielle Leitung des Geschäftsganges zu. Was der Präsident des Staatsraths wie der Minister Staatssecretair an die Abtheilung erlassen, wird an ihn gerichtet, und von ihm beantwortet. Er beruft die Abtheilung zusammen, bestimmt ihre Sitzungen, erhält die Ordnung in der Discussion und sammelt die Stimmen ein.</p>
+
+            <p>§ Sowie der Präsident des Staatsraths einen Gegenstand einer Abtheilung zum Gutachten zufertigt, ernennt er zugleich den Vortragenden in der Abtheilung, welcher aber dieselbe Person mit dem Vorsitzenden seyn kann. Es ist die Pflicht des vortragenden Mitgliedes, dafür zu sorgen, dass der vorgelegte Gegenstand von allen Seiten erörtert sey, und der versammelte Staatsrath die Meynung der Abtheilung über jeden dabei zur Sprache kommenden bedeutenden Punkt erhalte. Er muss daher die zu beantwortenden Fragen genau aufstellen, und die Erörterung in der Abtheilung dergestalt leiten, dass die vollständig entv/ickelte Meynung jedes Mitglieds das Resultat der Stimmenmehrheit derselben gibt. Der Vortragende fasst auch das Protokoll ab und macht alle nöthig werdenden schriftlichen Aufsätze. Wenn die Stimmen abgegeben sind, so kommt es darauf an, ob der Vortragende sich in der Majorität oder Minorität befunden hat. In ersterem Falle fasst er auch das Gutachten der Abtheilung ab und trägt es im versammelten Staatsrath vor; im letzteren wird zu. Beidem vom Vorsitzenden der Abtheilung ein anderes Mitglied derselben bestimmt.</p>
+
+            <p>ad § 18*) dürfte hinzuzusetzen sein:</p>
+
+            <p>Eine solche kann auch der Vorsitzende jeder Abtheilung bei dem Präsidenten nachsuchen.</p>
+
+            <pb n="12.147" xml:id="pbXII147"/>
+            <p>ad § iq.*) An die Stelle dieses § könnte folgender gesetzt werden:</p>
+
+            <p>Da bei den meisten zur Berathung des Staatsraths gehörenden Gegenständen Rechtsbeziehungen vorkommen, so steht es jeder Abtheilung frei, sich, wo sie es für nothig hält, auch ohne den Präsidenten des Collegii zu befragen, an die Abtheilung für Justiz zu wenden, und die sich vor- findenden Rechtspunkte gemeinschaftlich mit ihr oder wenigstens durch Zuziehung eines von dem Vorsitzenden der Justizabtheilung zu ernennenden Mitglieds zu berathen. Mittheilungen mit andern Abtheilungen können nicht ohne Dazwischenkunft des Präsidenten oder Minister -Staatssecretairs geschehen. Auch in dem Falle aber, dass eine Abtheilung bei einem Gegenstande keinen Rechtspunkt zu erörtern fände, muss doch jedes Gutachten einer jeden, insofern es den Vorschlag zu einem Gesetz oder der Aufhebung oder Abänderung eines solchen oder eine Einrichtung enthält, vor dem Vortrag im Staatsrath von der Abtheilung selbst der Justizabtheilung vorgelegt werden. Findet alsdann diese ein Bedenken, so hängt es von der Abtheilung ab, darauf einzugehen oder die Entscheidung dem versammelten Staatsrath zu überlassen.</p>
+
+            <p>ad § 22.**)</p>
+
+            <p>Der hier ausgedrückte Satz leidet an sich keinen Zweifel. Insofern einzelne Minister Entw^ürfe in den Staatsrath bringen können und müssen, kann und muss es auch der Chef des Ministeriums. Da aber jeder solche Entwurf ein einzelnes Ministerium betreffen muss, so wird natürlich prst immer Rücksprache mit diesem nöthig seyn.</p>
+
+            <p>ad § 26.***)</p>
+
+            <p>Ich weiss nicht, ob diese Bestimmung recht möglich ist. Das Plenum kann nur nützlich seyn, ja nur ein Geschäft haben.</p>
+
+            <p>*J § ig. Alle Gesetze, Edicte und Verordnungen sollen von dem Plenum an die 7 Abiheilungen (s. 0. S. i4j, A. § jj gehen.</p>
+
+            <p>**J § 22. Dem Staatskanzler steht es frei, Entwürfe zu Gesetzen tnid andere Gegenstände zur Erwägung an den Staatsrath zu bringen.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

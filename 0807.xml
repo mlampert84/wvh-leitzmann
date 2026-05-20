@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vierte olympische Ode</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Achter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif08humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1909">1909</date>
+                  </imprint>
+                  <biblScope unit="page" from="33" to="36"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1792">1792</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="8.33" xml:id="pbVIII33"/>
+            <head>
+               <title type="main">6. Vierte Olympische Ode.</title>
+            </head>
+            <p>An Psaumis, aus Camarina, den Sieger im vierspännigen Wagen.</p>
+
+            <p>Strophe.</p>
+
+            <p>Höchster Schleudrer des Blizes' mit unermüdetem Fittig, Zeus! Denn Deine kreisenden Hören</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">sendeten mich mit der liederreichen 5 Harfe Gesang zum</title>
+               </head>
+               <p>Zeugen der ersten der Kämpfe.^) Bei dem Glül{:lie der Freunde, schwellt mit Wonne der Edlen Busen die liebliche Bothschaft. lo Aber o ! Kronos</p>
+
+               <p>Sohn, der Du den Aetna bewohnest,</p>
+
+               <p>Typhons, des rüstigen Hundertköpfigen, sturmumbrauste Bürde, empfahe</p>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">ob des Olympischen Sieges Glanz diesen 15 festlichen Hymnos,</title>
+               </head>
+               <p>Antistrophe.</p>
+
+               <p>der weitwaltenden Tugend nimmerverlöschendes Licht! Auf Psaumis Wagen kommt er frohlokkend,</p>
+            </div>
+
+            <div type="section" n="3">
+               <head>
+                  <title type="main">der in des Pisischen Oelzweigs Schmuk mit 20 Ruhm Kamarina</title>
+               </head>
+               <p>schön zu bekränzen eilt. Günstig sei die Gottheit auch seiner Handschrift: Reinschrift (vgl. oben S. 2) S. 35^38 Außerdem ist ein Entwurf (2 Quartseiten) erhalten. — Erster Druck (ohne die Anmerkungen): Wilhelm von Humboldts Gesammelte Werke 2, 27^ — 2']S (1841).</p>
+
+               <pb n="8.34" xml:id="pbVIII34"/>
+               <p>Wünsche Ueberrest. Denn ich preis' ihn, Gespanne zum Sieg zu 25 nähren bereit, an gästereicher Tafel sich freuend, und zu beglükkender Bürgereintracht mit reinem Sinn gekehrt. Nie entweih ich</p>
+            </div>
+
+            <div type="section" n="4">
+               <head>
+                  <title type="main">lügend die Rede. Der^) Ausgang richtet der 30 Sterblichen Worte.-)</title>
+               </head>
+               <p>Epode. Er, der auch Klymenos</p>
+
+               <p>Sohn von der Lemnischen Weiber Schmähungen rettete, als er, in eherner Rüstung 35 laufend, den Sieg errang.</p>
+
+               <p>Freudig den Kranz aus H3^psipyleiens Händen empfangend, sprach er zu ihr: „diess bin ich; der Füsse Schnelligkeit gleicht das Herz, gleicht der Hände rüstige Stärke. 40 Doch auch der Jugend Haupt umglänzen oft, eh' die Jahre es heischen, silberne Lokken."</p>
+            </div>
+
+            <div type="section" n="5">
+               <head>
+                  <title type="main">Anmerkungen.</title>
+               </head>
+               <p>Ueberschrift) Psaumis, Akrons Sohn aus Kamarina, einer an der südöstlichen Küste Siciliens gelegenen Stadt, trug in der 82. Olympiade den Sieg in den Olympischen Spielen davon. V. 3. Deine — Hören) Die zu bestimmten Zeiten wieder- kehrenden Olympischen Spiele. - II — 13. der Du — Bürde) Jupiter hatte , einen Tempel am Aetna. Typhon wurde vom Jupiter zur Strafe unter den Aetna gelegt, und veranlasst, nach der Meinung der Alten, die Ausbrüche desselben. - 14. Ob — Glanz) yaqitojv %/.axL. Xaqig, Reiz, Glanz, und</p>
+
+               <p>A^orzüglich der Glanz, den eine Sache von aussen von sich giebt. So Od. I. 298. und IL [S. 183.] ydqig aTceXdinTtero</p>
+
+               <p>Ttollrj. Daher jedes Lob, jeder Ruhm eines Menschen,<pb n="8.35" xml:id="pbVIII35"/> und beim Pindar vorzüglich der Sieg in den Kampfspielen. So ganz eigentlich, um nicht mehr Stellen anzuführen, P. I. v. 148. Eben so wird das Won im Plural gebraucht z. B. Ol. XIII. v. 25. 26. %oX Jlovvoov y^äqLTeq, wo es mehr Reiz, Glanz, Festlichkeit heisst, und OL IL •v. go. 91., wo es eine nähere Beziehung auf den Sieg hat. Vollständig heisst dort die Stelle xoival xdQiTeg ävd^ea TeS-QiTtTtcüv ayayov. Nimmt man nun avd-ea geradezu für Kranz, so kann xäqiteg Sieg heissen. „Der Sieg brachte den Kranz." Scheint es aber undichterisch und unrichtig diese Ideen so zu theilen, und soll avd-ea an sich für Sieg stehen, so heisst xäqixsg diejenige Eigen- schaft Therons und seines Bruders, vermöge welcher ihnen die Götter den Glanz des Sieges schenken, ihr Glük. Denn dass xccqiq immer ein äusserer, hinzukommender Schmuk ist, zeigen nicht nur jene Homerische Stellen sondern auch OL II. v. 19 — 21. selbst tiXoCtov<note type="footnote" n="*)" resp="gnd-116890657"><hi>V „die Rede. Der" verbessert aus „das Lied. Denn der", y „Worte" verbessert aus „Rede".</hi></note></p>
+
+               <p>TB y.a.1 "/^ocQ iv äycov yvrjalaig krt' äq st alg. wo x^Qf^S, das äussere Glük und ccQSTrj der innere Werth entgegengesezt wird. Immer heisst also x^^Q^S der lachende Glanz des Ruhms oder des Glüks eines Menschen. So kann es nun der Ruhm sein, welchen der Sieg verschaft, wie [OLll. v. 19.] oder der Sieg selbst, wie P. I. V. 148. oder das Glük, die Gunst der Götter, welcher der Sieg folgt, wie OL II. v. 90. 91. So wie nun x^Qi^S so im eigentlichsten Verstände stehn kann, kann es auch personificirt werden, nur dass man dann nicht an die drei bestimmten Charitinnen, von welchen OL XIV. die Rede ist, denken sondern es unbestimmt verstehen muss, so wie Pindar P. III. v. 127 — 130. die vyLeia und den -Aw^iog gleichfalls als Charitinnen personificirt. In vorliegender Stelle heisst also x(^Qt.r(ov eyiaxL entweder durch die Gunst des Glüks des Psaumis, das ihm den Sieg verschaft hat, oder der Charitinnen in eben dem Verstand, mit Einem Wort, wegen des Siegs. Gedike übersezt Gratiarum caiissa und bezieht die Grazien auf die Hospitalität des Psaumis, welche ihm die Grazien zu Freundinnen mache. Allein i., ist es<pb n="8.36" xml:id="pbVIII36"/> nicht erwiesen, ob auch Pindar die Grazien unter diesem Gesichtspunkt anzusehen pflegt, und 2., ist exazi bei ihm gewöhnlich soviel als per, hcneficio. So Ol. XIV. v. 28. P. V. T'. 10. II. N. VII. V. 11. I. V. V. 3. u. a. a. O. m. Es ist mir sogar zweifelhaft ob es wohl in dem Sinn, in welchem es Gedike hier nimmt, in Rüksicht auf, zu liebe, gebraucht zu werden pflegt. Nun conjecturirt zwar Gedike, Erginus sei ein Vorfahre des Psaumis gewesen, und bringt dadurch eine neue Verbindung zwischen den Grazien und dem Psaumis hervor, weil dieselben in Orchomenus, Erginus Vaterstadt, vorzüglich verehrt wurden. Allein, wenn gleich so eine Con- jectur die andre unterstüzt, so fehlt es doch allen an einem gewissen historischen Grunde. Es ist also wohl sicherer, das anzunehmen, was vor Augen liegt, und Pindars Sprachgebrauche angemessen ist, als dasjenige, was erst vieler bestätigenden Gründe bedarf. V. 21 — 23. Günstig — Ueberrest) Aus der 5. Olympischen an eben diesen Psaumis gerichteten Ode sieht man, dass Psaumis in der 82. Ol3^mpiade drei Siege davon getragen hatte im Wagen mit vier Pferden, im Wagen mit Mauleseln, und mit einem Reitpferde. Vielleicht gewann er den ersten Sieg, welchen diese Ode feiert, in den ersten Tagen der Feier der Spiele. v. 31 — 42. Er, der auch — Lokken) Erginus, Klymenos Sohn, landete mit den Argonauten in Lemnos, als gerade</p>
+
+               <p>H3^psipyle Kampfspiele bei dem Grabmale ihres Vaters, Thoas, feierte. Er stellte sich zum Wettlauf in der Waffenrüstung, wurde aber, weil er, ohne alt zu sein, graues Haar hatte, von den Lemnierinnen verlacht. Dennoch besiegte er die Söhne des Boreas, Zetes und Kaiais, die als die schnellsten Wettläufer bekannt waren. Wie Pindar dazu kommt, diess Geschichtchen hier zu erzählen, ist schwierig zu erklären. Die Scholiasten sagen, Psaumis habe auch graues Haar gehabt, und gewiss ist wenigstens aus Ol. V. v. 53. dass er schon bei Jahren war. Heyne hält die ganze Anekdote bloss für einen auffallenden Belag zu dem vorhergehenden Saz : der Ausgang richtet der Sterblichen Rede. Gedike conjecturirt, dass Psaumis von Erginus abstamme.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

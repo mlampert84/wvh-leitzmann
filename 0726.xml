@@ -1,0 +1,1326 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Namenregister zu Band 1—7 und 10 — 12</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Siebenter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif0702humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1907">1907</date>
+                  </imprint>
+                  <biblScope unit="page" from="661" to="678"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="en">English</language>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="7.661" xml:id="pbVII661"/>
+            <head>
+               <title type="main">Namenregfister</title>
+            </head>
+            <p>Band i — 7 und 10 — 12. Abramson lo, 25. Achard 10, 27. 30. Adelung 3, 224. 226. 228. 267 — 269. 272.</p>
+
+            <p>273. 4, 61. 206. 241. 6, 13. 22. 299.</p>
+
+            <p>7, 229. 631. Aelian l, 412. 416. 5, 56. 63. 67. 68. Aelius 4, 354. Aeschines i, 412. 3, 172. Aeschylus i, 321. 406. 2, 53. 3, 83. 84.</p>
+
+            <p>86 — 88. 93. 96. 100. 108. 191. 4, 342.</p>
+
+            <p>5, 158. 6, 499. 7. 141- 198. 347. Agatharchus 3, 96. Agathokles l, 416. Agathon 2, 397. Agricola 4, 197. 200. Ahlwardt 4, 19S. Aizpitarte 3, 271. Akerblad 5, 75. Alaman 5, 359. 7, M6- Alameda 3, 133. Albani 12, 556. Albrecht 10, 265. 266. 271. Alcaraz a Grammont 3, 66. Aldus 4, 332- 350- 353- 354Alexander der Grosse 2, 60. 3, 106. 108.</p>
+
+            <p>172. 186. 214. 5, 31. 96. 102. 6, 39.</p>
+
+            <p>114. 115. 7, 203. SU- Alexander I, von Russland il, 19. 30. 41.</p>
+
+            <p>44. 48. 51. 70. 119. 124. 146—150.</p>
+
+            <p>155. 158. 179. 181 — 184. 186. 188. 189. 200. 12, 17. 27.</p>
+
+            <p>Alfons VIII. von Kastilien 3, 132.</p>
+
+            <p>Alkibiades 3, 161, 7, 209.</p>
+
+            <p>Altenstein 10, 144. 148. 154 — 156. 187 —</p>
+
+            <p>191. 261—264. 271. 281. 12, 201. 568</p>
+
+            <p>—571- 595—601. Alvarez 5, 238. Amelang 10, 53.</p>
+
+            <p>Amenophis II. 5, 143. 146. 147. 150. 15I. Ammianus Marcellinus 5, 67. I47. 149'</p>
+
+            <p>Ampere 7, 312. Anastasius 3, 105.</p>
+
+            <p>Ancillon 11, 69. 71. 73. 74. 78. 12, 470. Anderloni 6, 56.</p>
+
+            <p>Anderson 7, 281. Andlaw II, 135.</p>
+
+            <p>Anicius 3, 80.</p>
+
+            <p>Anna von Bretagne 2, 369. Anna von Montmorency 2, 375.</p>
+
+            <p>Anonymus Ravennas 4, 132.</p>
+
+            <p>Anquetil-Duperron 5, 192. 330. Antiphanes 3, 96. 98. Anton von Navarra 2, 374.</p>
+
+            <p>Antonin 3, 36. 4, 78. 80. 82—85. 88. 90</p>
+
+            <p>— 97. 99. loi — 104. 106. 113. 115. Il6.</p>
+
+            <p>118. 120—122 129. 131. 133- 134- 137'</p>
+
+            <p>141. 145. 14g. 156. 161. Apelles 3, 172.<pb n="7.662" xml:id="pbVII662"/> Apollonius 3, 83. 4, 383. 384. 386. 389—</p>
+
+            <p>391. 393- 6, 67. Appian 4, 87. 91. 93. 97. 99. loi. 103. 114.</p>
+
+            <p>116. 123 — 126. 169. 178. 184. 191. 196. Aratus 3, 172. Arcadius 4, 338. 340. 342. 353. 7, 141. d'Argenville 2, 367. Ariost I, 321. 2, 122. 162—166. 169. 198.</p>
+
+            <p>259. 265. 289. 321. 3, 22. 6, 53. 238.</p>
+
+            <p>505- 533- Aristagoras i, 417. Aristarch 3, 73. 4, 353. Aristides 3, 161. 208. Aristides (Redner) 3, 85. Aristodemus l, 411. Aristomenes 3, 161. Aristophanes i, 375. 3, 191. Aristophanes von Byzanz 5, 67. Aristoteles i, 105. 303. 310. 321. 372.</p>
+
+            <p>3, 104. 172. 4, 196. 6, 114. 7, 200. 203. 389. 416. 437. Arnault 2, 380. Artemidorus 4, 195. 196. Ascular 3, 269. Astarloa 3, 224. 228. 241. 246. 252. 254.</p>
+
+            <p>258—261. 265. 266. 268. 272. 298.</p>
+
+            <p>4, 61—63. 67—69. 71—74. 76. 77. 81 — 85. 87 — 96. 98. 100—104. 106. 108. 109. III — 116. 118. 121. 135. 136. 143. 144. 146. 177. 6, 139. Athenaeus i, 412. 413. 415. 3, So, 98.</p>
+
+            <p>4, 187. 190. 192. Aufdermauer 11, 127. Augustin 3, 74. Augustin, Antonio 4, iio. Augustus 3, 73. 215. 281. 4, 163. 5, 97. 98. Ausonius 4, 138. Avienus 4, 134. 170. 185. Awedikean 6, 321, 326. Baba-Ali 12, 204. Babington 6, 83. 84. Bachmann 5, 142. 148. 149. 156. Bacmeister 5, 355. 6. 148. Bacon 3, 9. 5, 9. Bagration, Fürstin li, 189. Balascheff 11, 154.</p>
+
+            <p>Balbi 6, 16. 40. 190. 196. 209. 281. Baldus 3, 99.</p>
+
+            <p>Ballhorn-Rosen 5, 163. 6, 31. 477. 7, 347. Bankes 5, 141. 144. Baptiste 2, 378.</p>
+
+            <p>Barbaro 3, 77. loi. 4, loS. Barclay 7, 576.</p>
+
+            <p>Barker 7, 141. Barreiros 3, 40.</p>
+
+            <p>Barthelemy 2, 72. 3, 82. 92. 104. Barton 3, 249. 5, 7.</p>
+
+            <p>Basile 7, 321. Basio 12, 559.</p>
+
+            <p>Bastide 10, 236. Batteux 7, 392.</p>
+
+            <p>Bayer 5, 348.</p>
+
+            <p>Beauharnais II, 155. 162. Beck 3, 177.</p>
+
+            <p>Begas 5, 236. 6, 55.</p>
+
+            <p>Bekkcr 4, 336. 338—340. 353. 387. 398.</p>
+
+            <p>6, 67. II, 226—228. Bellarmin 7, 576.</p>
+
+            <p>Bellegarde II, 9. 10. Bellermann 4, 175. 194,</p>
+
+            <p>Belli 3, 104. Bellicard 3, 77.</p>
+
+            <p>Belmore 5, 150.</p>
+
+            <p>Bendemann 6, 588 — 590. 592. 601. 607. Benecke 10, 28. Benedikt 3, 39.</p>
+
+            <p>Benedikt XIII. 3, 40.</p>
+
+            <p>Bentheim II, 123.</p>
+
+            <p>Bentinck II, 153. 154.</p>
+
+            <p>Berges 6, 601. Berghaus 7) 281. Bernadotte II, 72.</p>
+
+            <p>Bernhardi 4, 326. 327. 330. 344. 388—391.</p>
+
+            <p>393- 396. 397- 6, 161. 165. 309. 7, 647. 10, 194.</p>
+
+            <p>Bernhardy 5, 140. 7, 196. 223. Bernstorfif 12, 323, 339. 342.</p>
+
+            <p>Berti 4, 74. 142.</p>
+
+            <p>Bessel 10, 218.</p>
+
+            <p>Beuth 5, 236. 6, 91- 487« 490. 555. 578. 580.</p>
+
+            <p>Beyme 10, 144. 154. 264. 265. 271. 272.</p>
+
+            <p>12, 201. 456.</p>
+
+            <p>Biermann 6, 576. 60X.<pb n="7.663" xml:id="pbVII663"/> Biester i, S2. 84. 136. Bilfinger 7, 445. 453. Binder 11, 37. Bitaube 3, i. Blacas 5, 136. 142 — 147. 151. 153. Blackwood 7, 576. Bloch 10, 232. Blücher 12, 31. Bocchus 3, 61. Bodin 7, 576. Boeckh 6, 67. 100. loi. 104. 7, 183. 34S.</p>
+
+            <p>12, 605. Böttiger 3, 90. 108. Bohlen 7, 347. Boindin 3, 82. Bonnet 7, 373. 409. Bopp 4&gt; 71- 290. 370. 378. 398. 400. 406.</p>
+
+            <p>413 — 416. 418. 5, 181. 188. 402. 405. 6, 8. 13. 14. 35. 36. 43. 59. 60. 62. 81.</p>
+
+            <p>96. 97. 104 — 106. 109. 220. 221. 252. 266. 268. 273. 286. 287. 322. 398. 399.</p>
+
+            <p>402. 407. 408. 410. 411. 416 — 423. 425.</p>
+
+            <p>427. 428. 430—432. 438. 439. 441—449,</p>
+
+            <p>451- 453—455- 457- 458- 460. 461. 464. 465. 467—469. 471. 472. 475. 476. 479. 484. 485. 570. 7, 44. 74. 84. 87. 104.</p>
+
+            <p>106. 116. 122. 128. 130. 131. 133. 138.</p>
+
+            <p>218. 220. 333—335- 346. 347- 12, 605. Borgstede 10, 27. Boscovich 7, 453. 454. Bosse 10, 124. Boturini 5, 130. Boulenger 3, 83. 85. 87. 97. 100. 105. Bourbon, Kardinal von II, 4. Bourgogne 2, 363. 364. Bouterweck 6, 54. 576. 597. Bowles 3, 126. 128. Boyen 12, 48. 50. 122. Bräunlich 6, 577. 593. Braschi lo, 9. Bredow 10, 219. Breton 6, 206. Brewer 5, 349. Brignoli II, 159. Brüggemann 6, 491. 553. 554. 580. 585. Brühl 12, 572. 578. 579. 581. 594. BruUiot 12, 565.</p>
+
+            <p>Brunck I, 370. 375. 4, 394. 7, 140.</p>
+
+            <p>Brutus 3, 208. 4, 102. Bubna II, 56. 147. 151. 153. 155. Buch 6, 46.</p>
+
+            <p>Buchholz 10, 42 — 45. Bülow 12, 168. 200. 343. Bürger 6, 503.</p>
+
+            <p>Büsching, Anton Friedrich 4, 79.</p>
+
+            <p>Büsching, Johann Gustaf 10, 37. 39. 4I.</p>
+
+            <p>47—49- Buffon 7, 395.</p>
+
+            <p>Bullet 4, 147. 148. 185. Bunsen 6, 135. 7, 225.</p>
+
+            <p>Buol 12, 24—29. 31. 32. 64. 85. 94. Burckhardt 5, 42.</p>
+
+            <p>Bürette I, 415. 416. 429.</p>
+
+            <p>Burnouf 5, 206. 221. 339. 341. 6, 31. 83.</p>
+
+            <p>107. 7, 297, 302. 344. 347. Buschmann 7, 346. 348.</p>
+
+            <p>Buttmann 4, 333. 350. 6, 60. 64. 67. 70.</p>
+
+            <p>100. loi. 293. 405. 7, 607. 10, 21. 160.</p>
+
+            <p>Cadet 5, 51. 52.</p>
+
+            <p>Caesar 2, 60. 4, 87. 88. 93. 124. 138. 141.</p>
+
+            <p>145. 148. 172. 180. 181. 183. 187. 189. 196. 213. 5, 97. 98. Caesarion 5, 96. 97.</p>
+
+            <p>Cailliaud 5, 144.</p>
+
+            <p>Calandrelli 6, 578. 592. 602. Calpurnius 3, 73.</p>
+
+            <p>Camano 5, 355. 6, 136. 7, 145. Camden 4, 146.</p>
+
+            <p>Campbell 6, 77. 108. 406. 565. Camper 2, 79.</p>
+
+            <p>Canova 5, 47. 12, 551.</p>
+
+            <p>Capellen, van der 7, 348.</p>
+
+            <p>Capodistria 11, 118— 121. 128. 130. 133 —</p>
+
+            <p>135. 12, 15. Caracci 12, 548.</p>
+
+            <p>Carey, Felix 5, 404. 6, 108. 564. 569.</p>
+
+            <p>7, 280 — 285. 288. 291. 293 — 298. 310.</p>
+
+            <p>335- 344- Carey, William 4, 361. 400. 403. 416.</p>
+
+            <p>7, 281. Carstens 5, 250.</p>
+
+            <p>Carter 4, 93. 121. 167. Casaubonus i, 413. 4, 65.<pb n="7.664" xml:id="pbVII664"/> Caspar 6, 56. 90. 490. Cassiodor 3, 63. 97. Castellanus l, 412. Castillon 10, 30. Castlereagh 11, 148. 179. i8o. 188. 189.</p>
+
+            <p>200 — 201. Castorena 5, 359. 7, 146. Catel 6, 90. 490. 575. Cato 3, 177, 208. 4, 84. Caulaincourt II, 93. Cavanilles 3, 60. 62. Caylus 3, 77. Cellarius 3, 36. 4, 79. 80. 93. 106. 142. 146. Cervantes 3, 31. 43. 191. Chabot 2, 375. Challan 7, 328. 329, Chambrier 11, 128. 133. Chamisso 6, 40. 190. 7, 348. Champollion 5, 42. 44. 56—59. 63. 73—75.</p>
+
+            <p>77—106. 134—157- 7, 347- Champollion-Figeac 5, 146. 151. Chandler 3, 65. Chapelier 7, 329. Charax 4, 332. 334. 350. 351. 353. Charisius 4, 397. Charlotte von Russland 6, 605. Chaudet 12, 551. Chenier 2, 380. Cheselden 7, 396. 397. Chlodwig 2, 346. 357. 358. Choeroboscus 4, 339. 353. Choiseul-Gouffier 3, 92. 102. Christoph von Salamanca 3, 44. Cicero i, 8. 51. 416. 3, 69. 215. 4, 342.</p>
+
+            <p>6, 205. 575. 7, 140. 361. 382. 427. Cirbied 6, 14. 171. Clairon, Frau 2, 383. Clarke 7, 419. 425. Claudius 3, 73. 5, 104. Clavigero 4, 235. Clemens Alexandrinus I, 146. 5, 50. 53 —</p>
+
+            <p>55- 57- 58. 62. 63. 68. 72. Cluver 4, 181. Cochin 3, 73. 77. Cochius 7, 416. 417, Colbert 3, 271. Colebrooke 5, 159. 163. 166. 173. 174.</p>
+
+            <p>177- 178. 182. 184. 187. 189. 191.</p>
+
+            <p>199. 206. 208. 213. 219—222. 230. 231. 6, 77- 477. 7, 335- Collado 5, 238. 6, 310. 318. 319. Columbus 6, 500. Conde 4, 63. Condillac 7, 373.</p>
+
+            <p>Confucius 4, 310. 5, 315. Conrad! 7, 234.</p>
+
+            <p>Consalvi 10, 5. 10. Constantin 3, 105. Contat, Fräulein 2, 378. 398. Cook 6, 48.</p>
+
+            <p>Cooper 7, 152. Copernicus l, 53.</p>
+
+            <p>Copilly 3, 67. Corai 4, 193. 195. Coray 6, 255.</p>
+
+            <p>Corneille 2, 381. 7, 587. Cosse 2, 375.</p>
+
+            <p>Cotta 6, 528. Cotton 5, 357.</p>
+
+            <p>Cousin 2, 366. 372. 375.</p>
+
+            <p>Crawfurd 6, 40. 7, 6. 338. 346.</p>
+
+            <p>Creuzer 4, 52. 5, 71. 74. 76. 330. 428. Cromwell 7, 575.</p>
+
+            <p>Crusius 7, 427.</p>
+
+            <p>Cyrillus 3, 83. 5, 63. 7, 389. Czerny-George il, 157.</p>
+
+            <p>Dacier 5, 57. 58. 73. 74. 77—79. 86. 88. Daege 6, 555. 579. 585. Daehling 5, 252. 12, 540.</p>
+
+            <p>Dalberg, Fritz von l, 172.</p>
+
+            <p>Dalberg, Karl von i, 255. 259. 260. 262.</p>
+
+            <p>263. 265 — 267. 269 — 271. 273 — 280. 12, 79.</p>
+
+            <p>Dalberg, Herzog von 11, 159. Daniels 12, 470.</p>
+
+            <p>Dante I, 321. 3, 191. 6, 53. 238. 505, Daries 7, 406. Dautzenberg 7, 549.</p>
+
+            <p>David, Jacques Louis 2, 350.</p>
+
+            <p>David, Jules 6, 236. 237. 242. 255. 293.</p>
+
+            <p>321. 325. Davies 4, 67. 68, 145. Decker 7, 539.<pb n="7.665" xml:id="pbVII665"/> Delatouche 2, 380. Delorme 2, 372. Demetrius 5, 429. 7, 233. Demetrius Poliorketes 3, 99. Demokrit 7, 423. Demosthenes 3, 172. 177. 215. 6, 238. Descartes 2, 356. 7, 407. 409. 410. 434.</p>
+
+            <p>445- 456- Devilliers 5, 42. Diaz (Cid) 3, lio. II l. Diderot 2, 120. 399. 3, 69. 7, 375. Diefenbach 7, 234. 243. Dietrich 12, 549. Dillon 3, 36. Dio Cassius 3, 73. 4, 82. 95. 123. 178. 196.</p>
+
+            <p>5&gt; 97. Diodor 3, 157. 4, 119. 120. 125 — 127. 157.</p>
+
+            <p>159. 169. 173. 176. 183. 186. 187. 189.</p>
+
+            <p>196. 201. 5, 41—45. 61. 98. 148. 6, 574. Diogenes Laertius i, 412. 413. 7, 361. Diomedes 4, 331. 387. 395. 397. 398. Dionysius von Halikarnass i , 135. 412.</p>
+
+            <p>3, 136. 4, 157. 7, 198. Dionysius Thrax 4, 336. 341. Dobrizhoffer 5, 348. 6, 19. 24. 134. 191. 229. Dobrowsky 4, 256. Dohm 7, 507—542, Dohna 10, 17 — 20. 22 — 36. 38 — 42. 45 — 49.</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">123—128. 137. 13S. 148. 155. 187.208.</title>
+               </head>
+               <p>261 — 273. 280 — 281. 12, 198. Dombrowski 11, 146. Domenichino 12, 556. Domingo de los Santos 6, 313. Domitia 3, 81. Donatus 4, 397. Draeger 6, 53. 89. 488. 489. 553- Dragut 12, 203. Drake 6, 578. 586. 593. Drovetti 5, 135. Duchesne 12, 565. Ducis 2, 380. 381. Ducrue 5, 348. Dümmler 6, 94. Dürer 6, 57. 12, 556. Dugazon 2, 378. 380. Duhalde 3, 273. Duka II, 34. 36. 37.</p>
+
+               <p>Dumesnil, Frau 2, 3S3. Dunois 2, 362.</p>
+
+               <p>Duponceau 5, 3. 18. 21. 350. 6, 16. 7, 152. 266. 347.</p>
+
+               <p>Dursch 6, 94 — llo. Duval 2, 361.</p>
+
+               <p>Eberhard 7, 392.</p>
+
+               <p>Eccard 3, 125.</p>
+
+               <p>Echeberria 3, 272. Eckart 5, 348.</p>
+
+               <p>Edwards 5, 357, 7, 152.</p>
+
+               <p>Eichens 6, 588. 593. 602. Eichhorn 12, 385. 470. Eimbeck lo, 129. 137.</p>
+
+               <p>Eisenberg 10, 41. Elgin 5, 47.</p>
+
+               <p>Eliot 5, 14. 357. 6, 16. 148. 278. 279.</p>
+
+               <p>7. 152.</p>
+
+               <p>Ellis 6, 77.</p>
+
+               <p>Eltz II, 37.</p>
+
+               <p>Empedokles 5, 338. 7, 393.</p>
+
+               <p>Engel I, 5. 7, 361—464. 12, 514. Ennius 3, 215.</p>
+
+               <p>Entrecasteaux 6, 48.</p>
+
+               <p>Epaminondas 3, 161. 208. 2IO. Ephorus 4, 159. 195. 196. Epikur I, 3.</p>
+
+               <p>Eratosthenes 4, 183. 5, 140.</p>
+
+               <p>Erdmannsdorff 10, 162 — 169. 171 — 174, Erfurdt 10, 218. Erhard 6, 88. 489. 554. Erman 10, 270. 279.</p>
+
+               <p>Erro y Aspiroz 3, 270. 4, 61 — 63. 66. 67.</p>
+
+               <p>72 — 75. 80. 100. 117. 121. 148. 174.</p>
+
+               <p>194. 196. 211, 212. 6, 139. Esterhazy 11, 37.</p>
+
+               <p>Euanthus (Erianthus) 3, 177. Eugen VI. 3, 40. Euklid 7, 439.</p>
+
+               <p>Euripides i, 321. 375. 2, 397- 6, 498. Eusebius 5, 63.</p>
+
+               <p>Eustathius i, 429. 4, 157. 6, 64. 67.</p>
+
+               <p>Ewald 6, 291. 7, 84. 263. 329. 330 Eyck, van 12, 546. 548. 549.</p>
+
+               <p>Eytelwein 10, 270. Ezguerra 6, 313. 557.<pb n="7.666" xml:id="pbVII666"/> Fabrega 3, 307. Fabricius 5, 55. Fagaras 7, 412. Farqhar 7, 337. Fauli 3, 67. Favorinus 6, 68. 69. Feder 7, 408. 410. 428. 429. 446. 487. Fenelon l, 298. 299. Ferdinand I. von Neapel 10, 12. Ferdinand VII. von Spanien II, 10. 11. Ferdinand III. von Toskana 10, 4. 11. 158.</p>
+
+               <p>162. Ferguson l, 5. 142. 7, 471. Festus Pompejus 4, 83. 84. 156. 180. Fichte 3, 343. 7, 201. 10, 72—73. 270. 279.</p>
+
+               <p>12, 605. Ficino i, 23. Figueroa 4, 259. Filmer 7, 572. 576. Fischer, Christian August 3, 34. Fischer, Ernst Gottfried 6, loi. 10, 280. Fischer (Giesser) 6, 593. Flaccus 3, 69. Flacourt 7, 328. 329. Fleury 2, 378. Florez 3, 36. 43. IIO. 117. 120. 4, 83.89.</p>
+
+               <p>91. 104. 109. ilo. 115. 117. 135. 145.</p>
+
+               <p>172. 175. 189. 194. 211. Florus 3, 73. 4, 81. 93. 98. 126. 149. 185.</p>
+
+               <p>190. Fontanus 3, I13. Formey 10, 137. Forneri 7, 225. 226. Forster, Henry 4, 399. 401. 416. 417.</p>
+
+               <p>6, 423. 427. 428. 441. 465 — 468. 471 —473- 475—477- 7, I39- Forster, Reinhold 6, 51. Francheville 2, 373. Franz I. von Frankreich 2, 106. 370 — 376.</p>
+
+               <p>7&gt; 591. Franz II. von Frankreich 2, 375. 7, 591. Franz I. von Österreich II, 7 — 10. 14. 16.</p>
+
+               <p>17- 19- 29. 33. 34. 36. 37. 39—41. 45 —49- 53- 67. 73. 84. 85. 89. 145. 147.</p>
+
+               <p>150. 155. 295. 12, 27. 30. 32. Freeman 7, 348. Freiesleben 3, 368.</p>
+
+               <p>Freinsheim 4, 126. Freret 3, 272.</p>
+
+               <p>Friebe 5, 236.</p>
+
+               <p>Friedrich I. von Preussen 12, 138.</p>
+
+               <p>Friedrich II. von Preussen 2, 60. 61. 3, 20S.</p>
+
+               <p>10, 22. 23. 28. II, 38. 139. 13, 66.</p>
+
+               <p>Friedrich II. von Würtemberg 11, 152. 208.</p>
+
+               <p>12, HO. Friedrich August von Nassau 12, 31.</p>
+
+               <p>Friedrich August I. von Sachsen 11, 150.</p>
+
+               <p>159. 160. 162. 174. 177. 178. 197. 198.</p>
+
+               <p>Friedrich Wilhelm von Brandenburg 10, 22.</p>
+
+               <p>Friedrich Wilhelm III. von Preussen 5, 234.</p>
+
+               <p>236. 248. 6, 56. 86. 90. 588. 605. 7, 348.</p>
+
+               <p>10, I — 15. 20 — 21. 23. 25. 26. 28. 29.</p>
+
+               <p>31- 33- 35- 37- 48- 49- 72—77- 80. 94.</p>
+
+               <p>139 — 154. 156 — 158. 189 — 196. 199 — 238. 242 — 250. 264. 266. 267. 269. 270.</p>
+
+               <p>272 — 281. 283 — 285. 300. 301, II, I —</p>
+
+               <p>49. 51. 70. 72. 73. 85. 87. 89. 116—</p>
+
+               <p>139. 145—159. 200. 293. 325. 327.</p>
+
+               <p>12, 23-33. 48. 53- 54- 108. 117 — 123. 140. 161. 162. 167. 172. 188. 197. 199</p>
+
+               <p>—202. 297—306. 314. 315. 317—342.</p>
+
+               <p>344. 351. 360—382. 391.401.406.436.</p>
+
+               <p>451. 455-458. 472. 476. 495. 503. 506.</p>
+
+               <p>513. 521. 522. 529. 538—567. 569—572.</p>
+
+               <p>575. 576. 580-582. 585. 587. 589—593- 601.</p>
+
+               <p>Friedrich Wilhelm IV. von Preussen 6, 601.</p>
+
+               <p>12, 455-467. 527—538. 5S1— 594- Friese 10, 83.</p>
+
+               <p>Frimont 11, 147. Froberville 7, 337.</p>
+
+               <p>Fronhöfer II, 145.</p>
+
+               <p>Gagern 12, 31. Galba 4, 124.</p>
+
+               <p>Galiani 3, 77. 81. 86. 92. 95. 96. Garmin lO, II. Garua de Cisneros 3, 40.</p>
+
+               <p>Garve i, 5. 66. 150. 7, 471. 472.</p>
+
+               <p>Gaspari 10, 194. 218. Gau 5, 43.</p>
+
+               <p>Gaubil 6, 317.</p>
+
+               <p>Gauss 10, 233 — 236. 274.</p>
+
+               <p>Gazzera 5, 136. 142. 145. 146. 151. 152. 156.<pb n="7.667" xml:id="pbVII667"/> Gebauer 10, 167. Gellius I, 429. 7, 402. Genelli 6, 90. Gentil 2, 367. Gentz I, 77. 78, 85. 7.637—638- II, 113 — 116. Georg IV. von England 11, 77. 95. 148. 200. Georgius Syncellus 5, 145. Gerhard 10, 30. Gericke 7, 33S. 348. Gerresheim 12, 347. Gesenius 6, 18. 23. 7, 329. 330. 347. Gilchrist 7, 335. Güii 5, I. iS. 347. 6, 7. 136. 148. 7, 144. Giustiniani 12, 545. 556. Gneisenau 6, 490. 12, 48. Görcke 10, 136. 138. Görres 7, 645 — 649. Göschen 6, 532. Goethe l, 67. 109. 120. 137. 151. 2, 54.</p>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">"3—323- 345—400. 3, I — 113. 196.</title>
+               </head>
+               <p>342. 5, 249. 6, 238. 493- 511- 516.</p>
+
+               <p>522. 523. 528—550. 553. 5S0— 583. 601. 7, 197. 659. Goldmann 3, 270. Goltz, von der 10, 37 — 38. 40. 42. 12, 53.</p>
+
+               <p>54. 129. 299. Gorgias 7, 393. Goropius Becanus 4, 181. Gottfried von Bouillon 3, 67. Gotthold 10, 194. 218. Gottsched 7, 426. Goujon 2, 366. 370. 372. Gracchus 4, 83. 191. Graevius 3, 67. Grahl 6, 52. Grandmesnil 2, 378, Gregor 3, 39. Gregorius Corinthius 6, loo. loi. Grimm 6, 8. 13. 14. 43. 132. 220. 221.</p>
+
+               <p>236. 252. 259. 270. 271. 277. 421. 432.</p>
+
+               <p>438. 449. 450. 7, 44. 134. 261. Grobert 3, 106. Gronovius i, 415. 3, 104. 4, 108. 134. Grüner 10, 48 — 50. Gualterius 3, 66. Guarin 3, 40 — 42.</p>
+
+               <p>Guesclin, du 2, 356.</p>
+
+               <p>Guigniaut 5, 13S. 197. 198. 202. 207. 214. 215. 219. 330.</p>
+
+               <p>Hackert 6, 532. Hadrian 5, 99.</p>
+
+               <p>Hänlcin 12, 26. 64. 65. "I. Hagedorn 7, 377.</p>
+
+               <p>Hagen 6, 299. Haller 6, 238.</p>
+
+               <p>Hamilkar 3, 36. 4, 183.</p>
+
+               <p>Hamilton 5, 41 — 43. 45.</p>
+
+               <p>Hannibal 3, 36. 61. 108. 109. 113. 4, 116. 125.</p>
+
+               <p>Hardenberg 10, 283 — 289. 299 — 302. II, 69</p>
+
+               <p>— 73- 83. 90 — 91. 152. 178. 188 — 189. 219 — 223. 276 — 279. 289. 306 — 314.</p>
+
+               <p>317. 12, 2—3. 15. 33—55. 107. 113.</p>
+
+               <p>128 — 129. 137 — 141. 172. 196 — 202. 298. 299. 301. 302. 305. 306. 313. 314.</p>
+
+               <p>318—322. 327—330. 332. 333- 345361. 383. 469—476. 513- Harduin 3, 61. 4, 65. 82. 85. 86. 98. 119.</p>
+
+               <p>177. 17S. Harpokration 4, 171.</p>
+
+               <p>Harriet 3, 244. 258. 268. 272. 6, 139. Harrington 7, 573—575Harris 7, 223. 355—359- Hartmann 11, 152.</p>
+
+               <p>Hasdrubal 4, 17S. 183.</p>
+
+               <p>Hassel II, 212. Hastings 5, 224.</p>
+
+               <p>Haughton 5, 404. 6, 31. 105. 7, 21S. 219. Havercamp 4, 190.</p>
+
+               <p>Havestadt 5, 18. 20. 437. Hayward 7, 576. Hecataeus 4, 86.</p>
+
+               <p>Heckewelder 5, 3. 350. 7, 267.</p>
+
+               <p>Hegel 12, 605. Hegelochus i, 375.</p>
+
+               <p>Heinrich VII. von England 7, 575.</p>
+
+               <p>Heinrich II. von Frankreich 2, 372 — 376.</p>
+
+               <p>7. 591. Heinrich III. von Frankreich 2, 374. 7, 591.</p>
+
+               <p>Heinrich IV. von Frankreich 2, 373. 374.</p>
+
+               <p>7, 591- Heinrich IV. von Kastilien 3, 120. 121.<pb n="7.668" xml:id="pbVII668"/> Heinrich vonPreussen lo, 153. 158. 219. 2S6. Heinsius l, 412. 6, 69. Hellwig 10, 232. Helmsdorff 6, 491. 554. 580. Heloise 2, 356. Hemsterhuis 7&gt; 607. Henning 6, 555. 579. 585. 588. 592. 602. Heraclides Ponticus 7, 361. Herbart 10, 194. 218. Herbst 10, 232. Herder 3, 342. 6, 496. 7, 372. 396. Hermann 4, 331. 333—335- 337- 340. 34i343. 348. 350—352. 355- 359- 384- 388. 391. 6, 63. 67. 7, 347. Hermbstädt 10, 137. 280. Hermes i, 64. Hermolaus Barbarus 3, 124. Herodian 4, l6l. 6, 63. 67. Herodot 2, 19. 3, 215. 4, 123. 160. 169.</p>
+
+               <p>171. 183. 185. 5, 43. 343. 6, 113. 118. Herrera 3, 127. Herrmann 12, 588. Hertzberg 10, 236. Hervas 3, 230. 249. 273. 302. 305. 307.</p>
+
+               <p>4, 62. 239. 240. 5, 2. 4. 7. 347. 348.</p>
+
+               <p>6, 20. 134. 7, 225. 227. Herz 10, 24. Hesiod l, 18. 36. 135. 412. 2, 255. 256.</p>
+
+               <p>303. 6, 69. Hesychius 3, 81. 83. 85. 86. 99. 100.</p>
+
+               <p>4, 158. 160. 180. 5, 429. Heyne 7, 550—553. Hieronymus 4, 137. Hildebrand 6, 555. 579. 586. 593. 594601. 604. Himly 12, 130. Hippolytus 2, 360. Hirt 5, 46. 74. 135. 137. 532. 12, 544. 556. Hirtius 4, 83. 105. 148. Hobbes 7, 485. 489. Höpfner 7, 469—476. 478. 479. Hofer 12, 31. Hofifmann 10, 91. 11, 69 — 71. 80. Hofmannsegg 10, 232. Hogal S, 237. Holbach I, 7. Holbein 12, 549. 556.</p>
+
+               <p>Home 7, 396. 411. 414.</p>
+
+               <p>Homer i, 135. 321. 370-376. 414- 4292, 19. 135. 137. 141. 149. 162 — 166. 169.</p>
+
+               <p>172. 173. 177. 183. 195. 196. 198. 199.</p>
+
+               <p>202. 238. 244. 251. 256 — 259. 263 — 265, 270. 273. 289. 291. 292. 296. 303. 314.</p>
+
+               <p>321—323. 341. 375. 384. 3, 22. 24. 116.</p>
+
+               <p>153, 154. 191. 200. 215. 4, 7. 191. 344.</p>
+
+               <p>349- 351- 353. 354- 356. 359- 376. 5, 8.</p>
+
+               <p>13- 37- 159. 340. 369. 6, 29. 64. 67. 69. 70. 100. loi. 224. 240. 241. 269.</p>
+
+               <p>405. 491. 500. 537. 542. 7, 16. 35.</p>
+
+               <p>142. 159. 175. 182. 202. 205. 206. 237.</p>
+
+               <p>374. 508. 550—553. 643. 10, 116. Hooker 7, 576.</p>
+
+               <p>Hopfgarten 6, 489. 596. 601.</p>
+
+               <p>HorapoUo 5, 54 — 63. 65 — 72. 76. 77. 80. 102,</p>
+
+               <p>Horaz l, 412. 2, 134. 3, 84. 215, Horkel 10, 231. 280. Home Tooke 4, 303.</p>
+
+               <p>Horuc Barbarossa 12, 203.</p>
+
+               <p>Houel 3, 73 — 75. 88 — 90. loi — 103. 105. Hough 7, 282—286. 290—293. 296. 297.</p>
+
+               <p>311Hubert von Thüringen 2, 360. Hudelist II, 157.</p>
+
+               <p>Hudson 4, 133. 171.</p>
+
+               <p>Hübner 6, 90. 490. 552. 554. 555. 579.</p>
+
+               <p>585Hüllmann 10, 194.</p>
+
+               <p>Hüttel 10, 40. 42 — 45. 50.</p>
+
+               <p>Hufeland 10, 136 — 138. 270. Hugo 10, 228. 269. 275. Humboldt, Alexander von l, 97. 3, i. 57.</p>
+
+               <p>302. 307. 367—368. 4, 42. 235. 236. 239. 240. 272. 273. 312. 360. 5, 2. 4.</p>
+
+               <p>25. 26. 46. 47. 49. 52. 124. 238. 299,</p>
+
+               <p>349- 353- 359. 6, 7. 47. 58. 85. 140. 216. 418. 7, 146. 201. 345 — 349. 469.</p>
+
+               <p>10, II. 12. 221. 234. Humboldt, Karoline von 12, 315.</p>
+
+               <p>Hume 7, 411. 412. 414. 422. Hummel 10, 221. Hunton 7, 576.</p>
+
+               <p>Huyot 5, 151.<pb n="7.669" xml:id="pbVII669"/> Ibarguen 3, 2S1. 282. Ideler 10, 216. Illiger 10, 232. 233. 274. Illugartegui 3, 281. Isabella von Baiern 2, 364. Iselin 7, 521. II, 294. Isidorus 4, 89. III. Isokrates 3, 172. Jachtmann 10, 24. Jacobi I, 288 — 310. Jacquet 6, 557—574- 7, 281. 325. 329.</p>
+
+               <p>337- 348. Jagow 10, 231. Jahn 12, 361. Jakob der Eroberer von Arragonien 3, lli. Jaubert 6, 12. Jentzen 6, 577, 587. 588. Jörg 10, 218. Johann der Gute von Frankreich 2, 362. 373. Johann von Frankreich 2, 359. 360. Johann von Österreich 3, 45. Johnson 7, 335. Johnston 6, 76—84. 7, 348. JoUois 5, 42. Jomard 5, 47. 51. 52. 56—58. 74. Jordan, Stephan 3, 44. Jordan (Gerichtsrat) 10, 236. Josef Bonaparte II, 155. Josephus 3, 130. 5, 146. Jovellanos 3, 127. Judson 6, 564. 569. 7, I. 280 — 282. 285</p>
+
+               <p>—288. 293—297Jüngken 5, 236. Jung 4, 387. Juste 2, 367. Justin 4, 90. 124. 125. 145. 196. Juvenal 3, 73. 4, 139, 163. 180. 190. Kästner 7, 432. Kalchow 6, 601. Kambyses 5, :o2. Kameke 10, 50. Kant I, 53. 105. 166. 167. 171. 277. 2, 33.</p>
+
+               <p>3, 342. 350. 6, 509—513- 521- 7. 201. 419. 10, 256. 12, 605. Kara Osman 12, 205.</p>
+
+               <p>Karl IV. 7, 518,</p>
+
+               <p>Karl V. 3, 45. 54. 362.</p>
+
+               <p>Karl, Erzherzog II, 158.</p>
+
+               <p>Karl VI. von Frankreich 2, 361 — 363. 365.</p>
+
+               <p>366.</p>
+
+               <p>Karl VII. von Frankreich 2, 362. 7, 590. Karl VIII. von Frankreich 7, 591.</p>
+
+               <p>Karl IX. von Frankreich 2, 375. 3S0. 7, 591. Karl X. von Frankreich 11, 135.</p>
+
+               <p>Karl IV. von Spanien 3, 67. 10, 5.</p>
+
+               <p>Karl August von Weimar 10, 269. 12, 64.</p>
+
+               <p>128. 129.</p>
+
+               <p>Karl Friedrich von Baden 7, 521.</p>
+
+               <p>Karl Wilhelm Ferdinand von Braunschweig</p>
+
+               <p>12, 31. Karoline Marie von Neapel 10, 12. Karsten 10, 269.</p>
+
+               <p>Katharina von Medici 2, 372. 373. 375.</p>
+
+               <p>Katharina II, von Russland 6, 148.</p>
+
+               <p>Katharina, Grossfürstin II, 158. Kauffmann, Angelika 6, 532. Kaunitz il, 37.</p>
+
+               <p>Kayser 6, 532. 536. Keller 12, 545.</p>
+
+               <p>Kendali 6, 137. 7, 327.</p>
+
+               <p>Kerssenbrock 12, 315.</p>
+
+               <p>Kielmeyer 10, 269. 275. Kimon 3, 161.</p>
+
+               <p>Kirchberger 11, 140 — 145.</p>
+
+               <p>Kircheisen 10, 41. 42. 50 — 51.</p>
+
+               <p>Kircher 5, 95. loi. 103.</p>
+
+               <p>Klaproth, Heinrich Julius 5, 6. 139. 302.</p>
+
+               <p>305- 353- 356- 390. 6, 9. 202. 262. 263.</p>
+
+               <p>295. 296. 299. 7, 4. 5. 321- 330- 342.</p>
+
+               <p>347Klaproth, Martin Heinrich 10, 137. 269.</p>
+
+               <p>Klein 7, 469—506. 564. 10, 53. 54. 235. Kleopatra 5, 88. 96. 97Klewitz 10, 156—158. 12, 323. 342. 344. Klöber 6, 52. 53. 89.</p>
+
+               <p>Klopstock 2, 137. 259. 283. 3, 342. 6, 238.</p>
+
+               <p>7. 374- Klüber 12, 94. 103. Knape 10, 137.</p>
+
+               <p>Knesebeck II, 39. 47. 72.</p>
+
+               <p>Köhler 10, 109. Iil. 113.</p>
+
+               <p>Körner 6, 516. 523. 545. 7, 567—569.</p>
+
+               <pb n="7.670" xml:id="pbVII670"/>
+               <p>207. Köster 12, 545. Kolbe 5, 236. Koller II, 158. 12, S4I. 544. 563. Kosegarten 7, 347. Kotzebue 6, 40. 47. 190. Krause 6, 576. Krone 12, 347. Krüger 6, 554. 577. 580. 586. 592. 602. Krusemark 12, 54. Küster 3, 98. Kutschera li, 10. Labro 3, 100. Lacroze 5, 62. 140. 150. I52. 154. Lactantius 6, 4. Laharpe 11, 131. Lambert 7, 418. Lamettrie i, 7. Lancelot 4, 71. LancizoUe 10, 261. Landresse 5, 238. 6, 166. 169. 171.</p>
+
+               <p>310. 318. 319. 570. 7. 649- Landuchius 3, 273. Langenau II, 36. Langhans 10, 23. 24. Langlois 5, 158 — 189. Lanzi 4, 97. 157. 203. Laroche 6, 597. Larramendi 3, 224. 227. 228. 236.</p>
+
+               <p>252. 255. 258. 266—268. 2704, 62. 94 — 96. 98. 102. 104. 105.</p>
+            </div>
+
+            <div type="section" n="3">
+               <head>
+                  <title type="main">110. III. 135. 136. 158. 6, 137.</title>
+               </head>
+               <p>Lasinsky 6, 588. 592. 601. Laskaris 4, 332. Lassen 6, 107. 212. 7, 297. 347. Lastanosa 4, 211. Lasus 1, 416. Lavater 2, 79. 349. Lebrun 7, 591. Lebzeltern 11, 128. Lechevalier 3, 59. Lee 6, 137. 173. 190. 228. 315.</p>
+
+               <p>7, 326—328. 337. Legonidec 6, 12. Legouve 2, 380. Leibniz 6, Il8. 136. 189. 7, 369.</p>
+
+               <p>375. 384. 410. 413. 418. 419.</p>
+
+               <p>242. 273- 108.</p>
+
+               <p>139330425—427. 429. 432. 434. 435. 446— 448. 543. Lekain 2, 378. Lemaire 6, 47.</p>
+
+               <p>Lemercier 2, 380. 381. 397.</p>
+
+               <p>Lengerich 5, 252.</p>
+
+               <p>Lenoir 2, 345. 356. 367. 373. Leon von Lusignan 2, 356. Leonardo da Vinci 12, 556. Leonidas i, 414.</p>
+
+               <p>Leopold II. 10, 3.</p>
+
+               <p>Lepel 12, 64.</p>
+
+               <p>Lepelletier 4, 148. 180. l8l. Lepsius 7, 129. 260. 261. 282. 339. 347.</p>
+
+               <p>Lessing, Gotthold Ephraim i, 100. 3, 342.</p>
+
+               <p>Lessing, Karl Friedrich 6, 491. 551. 555.</p>
+
+               <p>577- 579- 586—589. 592. 593. 601. 602. 605.</p>
+
+               <p>Lesson 7, 329. 348.</p>
+
+               <p>Letronne 5, 43. 59. 68. 79. 83. 86 — 88. 104. Leunclavius 4, 178.</p>
+
+               <p>Levezow 12, 541. 544. 563.</p>
+
+               <p>Leyden 6, 40. 7, 281. 2S2. 300. 302. Leyser 7, 517. Lichtenberg 7, 553.</p>
+
+               <p>Lindemann 4, 204.</p>
+
+               <p>Linden II, 152.</p>
+
+               <p>Lipsius 3, 67. 72.</p>
+
+               <p>Livius 3, 61. 62. 68. 4, 66. 81—83. 85. 86.</p>
+
+               <p>88. 91. 99. 105. 107 — 109. 112 — 114. 117. 118. 122 — 126. 134. 144. 155. 178.</p>
+
+               <p>179. 183. 189. 193. Lloris, de 3, 267. Lobato 4, 387.</p>
+
+               <p>Lobeck 6, 65. 67. 68. 71. 72. 405.</p>
+
+               <p>Locke 7, 370. 373. 375. 385. 413. 419. 437.</p>
+
+               <p>539. 572. 576—580. Loder 10, 137. Loen 12, 515.</p>
+
+               <p>Löscher 4, 146. 150. Longhi 6, 56.</p>
+
+               <p>Longinus i, 374. 412. Loos 10, 25.</p>
+
+               <p>Lorit (Glareanus) 4, 86. Louis 12, 19. 22.</p>
+
+               <p>Low 6, 558. 564. 7, 300. 302. 344. Lucan 6, 4.<pb n="7.671" xml:id="pbVII671"/> Lucian 4, 66. Ludwig I. von Baiern 6, 57. Ludwig I. von Etrurien 10, 4. Ludwig IX. von Frankreich 2, 357 — 359.</p>
+
+               <p>7. 590. Ludwig X. von Frankreich 2, 359. 360. Ludwig XI. von Frankreich 2, 362. 3, 12Ö.</p>
+
+               <p>7. 590. Ludwig XII. von Frankreich 2, 363. 364.</p>
+
+               <p>367—371. Ludwig XIII. von Frankreich 2, 373. 7, 592. Ludwig XIV. von Frankreich 2, 71. 3, 45.</p>
+
+               <p>69. 362. 7, 591. 592. Ludwig XV. von Frankreich 2, 346. 7, 520. Ludwig XVI. von Frankreich 7, 591. lo, 4. Ludwig XVIII. von Frankreich 11, 135.</p>
+
+               <p>12, 4 — S. 13. 15. 21. Ludwig von Orleans 2, 362 — 365. Lüderitz 6, 577. 587. 588. 593. 602. Lugo 5, 355. Luise von Toskana 11, 156. Lukrez i, 3. 5, 337. 338. Lumsden 4, 303. Luther 3, 208. 6, 277. 7, 376. Luyd 4, 143. 145. 147. Lykurg I, 54. 142. 3, 178. 7, 470. Lysander 3, 177. Mabuse 12, 549. jNIac Culloh 4, 207. Mackintosh 6, 76 — 78. 82. 83. Macrobius l, 412. Maffei 3, 71 — 75. 77. 90. 99. loi. 104. Magnus 12, 562. Mago 4, 183. Mahmud IL 12, 210. 211. Mai 5, 142. 148. 149. Maitai 6, 43. 228. 230. 251. Malebrancbe 7, 435. 445. 446. Manduei 5, 143. Manetho 5, 144 — 147. Mannert 3, 117. 124. 4, 64. 66. 74. 79. 82.</p>
+
+               <p>85. 90. 94. 98. 99. 102—106. 114. 118.</p>
+
+               <p>119. 121. 129—131. 134. 138. 139. 145</p>
+
+               <p>— 150. 155. 169. 170. 174. 177. 178.</p>
+
+               <p>181. 183. 186. 189. 191. 197. 198. 202. 205.</p>
+
+               <p>Manso 10, 195.</p>
+
+               <p>Manus 5, 159. 163. 172 — 177. 180. 182. 188. 190. 203. 208. 214. 215. 223. 228.</p>
+
+               <p>334. 339- 6, 31. 105. 7, 16. 219. Manwaring 7, 576.</p>
+
+               <p>Marcellinus Comes 3, 105.</p>
+
+               <p>Marcianus Heracleota 4, 133. Marescalchi 11, 159.</p>
+
+               <p>Maret 11, 24. 92.</p>
+
+               <p>Maria von Medici 2, 350. 7, 591.</p>
+
+               <p>Maria Ludowika von Österreich II, 7.</p>
+
+               <p>Marie Luise von Frankreich II, 14. 21. 23.</p>
+
+               <p>155. 156. 159. Mariner 6, 46. 137. 149. 167 — 169. 191. 215. 312. 314. 7, 207. 326. 328. Marius 4, 176.</p>
+
+               <p>Marius Victorinus i, 376. Markland I, 375.</p>
+
+               <p>Markoff il, 146.</p>
+
+               <p>Marsden 5, 246. 6, 40. 164. 166. 211. 310.</p>
+
+               <p>559-564. 566. 568. 7, 4—6. 335. 348. Martens li, 152. 12, 31.</p>
+
+               <p>Marti 3, 66. 68. 70. 88. 102.</p>
+
+               <p>Martial 3, 81. 4, 121. Martin V, 3, 40.</p>
+
+               <p>Martin 6, 137. 149. 167 — 169. 312—314. Martius 6, 228. Masson 7, 591.</p>
+
+               <p>Massow 10, 19.</p>
+
+               <p>Matthiä 4, 386. 391. 394. Maupertuis 7, 456.</p>
+
+               <p>Mauvillon 7, 521. 53I.</p>
+
+               <p>Ma.ximilian I. von Baiern 10, 17. 11, 208.</p>
+
+               <p>Mayan 3, 66. Mazarin 3, 120. Mechain 3, 34. 59.</p>
+
+               <p>Mechel i, 242. 243. Meiners l, 63.</p>
+
+               <p>Meinicke 7, 6. 348.</p>
+
+               <p>Meister 6, 91. 490. 554. 580. Melampus 4, 338. 339. Melanchthon 7, 376.</p>
+
+               <p>Melzi IG, 2.</p>
+
+               <p>Menage 4, 117. 6, 199. Mendana 6. 47.</p>
+
+               <p>Mendelssohn i, 47.48. loi. 2,392. 7,462.</p>
+
+               <p>471. 489. 491.<pb n="7.672" xml:id="pbVII672"/> Mendez de Haro y Guzmaa 3, 120. Merian 7, 330. 398. Merkel 10, 163. 174. 198. 12, 474. Metellus 4, 85. Metternich li, 5 — 10. 14 — 21. 24. 26. 27.</p>
+
+               <p>29—34. 37- 39-49. 53-55- 73. 75- 83. 85—90. 130. 145—153. 155. 157.</p>
+
+               <p>169. 174. 188, 189. 220—222. 285—289. 314—317. 12, 25. 29. 54. 74. 94. 95. 103. Meyen 7, 348. Meyer 6, 532. Meyerheim 6, 597. Michaelis 7, 329. Michelangelo 6, 532. 7, 615. Mignana 3, 66. 70. Millin 2, 363. 3, I. 4, 311. Milton 2, 259. 6, 505. Minto 7, 348. Minuth 12, 315. Minutoli 5, 68. 100. 135 — 138. 144. 152 — 154. Mirabeau l, 97. 134. 146. 198. 7, 521. 587. Mithridates 6, 117. Möller 6, 578. 593. Moguel 3, 269. 277. 279. Mole 2, 378. 398. Molina 4, 272. 274. 275. 282. Molyneux 7, 375. 398. Montaigne 7, 643. Montfaucon 3, 66. 70. 77. 92. loi. 271. Montgolfier 7, 399. Monvel 2, 398. Morel 3, 133. Moritz 6, 532. Morrison 5, 268. 6, 315—317. 7, 311. Morse 5, 3. 14. 350. 6, 7. 148. Moses I, 45. Motz 12, 307 — 316. Mozat 12, 204. Mülinen II, 118. 122. Müller (Kammergerichtsrat) 10, 42. Müller (Lithograph) 6, 577. 578. 586. 593. Muhamed i, 45. Murad IV. 12, 204. Muralt II, 130. 131. 135. Murat 10, 3. II, 154. 155. 162. 168. 12, 3. Muratori 7, 634.</p>
+
+               <p>Murr 5, 348. 349. 6, 134. 148. Musäus 2, 255. 257.</p>
+
+               <p>Nagler 12, 564—566. 571. Nanteuil 7, 591.</p>
+
+               <p>Napoleon 10, i. 9 — 11. il, i. 2. 6. 8— 10.</p>
+
+               <p>14—23. 26—28. 31—34. 48. 52. 5356 — 58. 60. 61. 63. 65. 66. 70. 72.</p>
+
+               <p>74-80. 90-94- 137. 155. 156. 160.</p>
+
+               <p>161. 164. 165. 170. 176. 183. 188.</p>
+
+               <p>272. 299. 308. 12, 4. 6 — 9. 12. 14. 82. Nebrixa 3, 303. 4, 237. 5, 237. Nelson 5, 458. Neri 6, 533.</p>
+
+               <p>Nerly 6, 491. 554. 579. 585- Nero 3, 106. 5, 98.</p>
+
+               <p>Nesselrode li, 54. 55. 83.</p>
+
+               <p>Neumann, Karl Friedrich 6, 315. 321. 325.</p>
+
+               <p>558. 7&gt; 347- Neumann, Kaspar 7, 330. Newton 7, 419.</p>
+
+               <p>Nicholas 6, 22S. Nicolai IG, 54.</p>
+
+               <p>Nicolaus Damascenus 4, 160.</p>
+
+               <p>Nicolovius, Georg Heinrich Ludwig 10, 208.</p>
+
+               <p>302. 12, 336.</p>
+
+               <p>Nicolovius (Buchhändler) i, 288.</p>
+
+               <p>Niebuhr 4, 157. 167. 185. 201 — 203. 5, 148.</p>
+
+               <p>6, 113. 186. 272. 2S2. Niemeyer 10, 230. Nitokris 5, 140. Nöhden 5, 331.</p>
+
+               <p>Nugent II, 148. Numa Pompilius I, I45.</p>
+
+               <p>Nyerup 6, 296. 299.</p>
+
+               <p>Oberleitner 6, 20.</p>
+
+               <p>Oberlin 4, 87. 181. Occam 7, 376. Och 5, 349.</p>
+
+               <p>Octavius 4, 103.</p>
+
+               <p>Oihenart 3, I17. II9. 123. 125. 133. 224.</p>
+
+               <p>225. 253. 255. 269. 271. 273. 4, 91.</p>
+
+               <p>93. 163. Oltmanns 10, 233 — 235. 270. 274.</p>
+
+               <p>Oppian 6, 60. Oranien, Prinz von il, 153.<pb n="7.673" xml:id="pbVII673"/> Orleans, Herzog von II, 4. Orosius 4, 141. 190. Orpheus 7, 16. d'Orville 3, 66. 70. 73. 75. 87. 88. 90. 92.</p>
+
+               <p>100. 105. . Ossian 3, II6. Osymandyas 5, 4I — 43. Oudendorp 4, 148. Ovid 2, 208. 3, 97. 171. 6, 29. 7, 617. Owen 4, 68. 69. 143. 148. 180. 181. 213.</p>
+
+               <p>6, 12. Oyanguren 5, 237 — 247. 6, 166. 169 — 171.</p>
+
+               <p>208. 310. 318. 319. Palladio 3, 96. Palos 3, 59. 66 — 68. 70. 88. 92. 103. 109. Parmenides 5, 33S. 340. Parthey 7, 347. Passow 6, loi. Patandschali 5, 164. 191. 221. 222. 229. Pausanias l, 412. 414. 416. 3, 211. 216.</p>
+
+               <p>217. 4, 155. 201. 5, 145. 6, 597. 7, 617. Perikles 3, 87, l6l. 7, 209. Perochegui 3, 269. Perrault 3, 77. 86. Pestalozzi 7, 608. 10, 208. 209. 213. Petavius 3, 98. Petrus de Marca 3, 36. 42. 43. 4, 86. 173. Phidias 5, 47. 7, 389Philipp von Commines 2, 367. Philipp III, von Frankreich 2, 357. Philipp IV. von Frankreich 2, 357. Philipp von Macedonien 3, 164. 172. 186.</p>
+
+               <p>188. Philipp III. von Spanien 3, 44. Philopoemen 3, 161. 172. 208. Philostratus I, 414. 3, 83. 86. 93. 5, 249.</p>
+
+               <p>250. Phokion 3, l6l. Phornutus 3, 81. Phrynichus 6, 65. 67. 68. 71. 405. Pickering 5, 3. 21. 350. 351. 353. 357.</p>
+
+               <p>6, 279. 280. 7, 152. 347. Pilalre de Rozier l, 137. Pilon 2, 372. 375. Pindar l, 374. 376. 411 — 429. 2, 134. 240.</p>
+
+               <p>3, 202. 215. 357. 6, loi. 104. 7, 183.</p>
+
+               <p>W. V. Humboldt, Werke. VII.</p>
+
+               <p>Pio de Saboya 3, 113.</p>
+
+               <p>Piquot II, 157.</p>
+
+               <p>Pius VI, 10, 6, 9.</p>
+
+               <p>Pius VII. 10, 5 — 10. 14, II, 38. 150. 154.</p>
+
+               <p>160 — 163. 168, 12, 37. 96. 102. Piamann 10, 21 3,</p>
+
+               <p>Platner 2, 52. 7,, 373. 429.</p>
+
+               <p>Piaton I, I. 5—7, 16—44. 57—59. 62, 102.</p>
+
+               <p>104. 138, 270. 296. 321. 374. 412. 415,</p>
+
+               <p>2, 314- 3. 83- 88. 152. 172. 183. 201. 215. 4, 387. 5, 344. (,, 238. 7, 200. 361, 388. 389. 436. 463- Plautus 3, 215. 4, 397.</p>
+
+               <p>Plessen 12, .28. 129.</p>
+
+               <p>Plinius I, 137. 412. 3, 01. 104. 123. 124.</p>
+
+               <p>4&gt; 65. 73. 79—93- 95- 97—104. 107.</p>
+            </div>
+
+            <div type="section" n="4">
+               <head>
+                  <title type="main">108. III, 113 — 119. 121. 122. 126.</title>
+               </head>
+               <p>129. 130. 133. 143, 144, 145. 148.</p>
+
+               <p>153—160. 167. 171. 174—179. 185. 188. 193. 235. 301. 5, 67. Plotin 7, 437—439.</p>
+
+               <p>Plutarch I, 310. 412 — 415. 429. 2, 52.</p>
+
+               <p>3, 73- 99- 177- 179. 4. 85. III. 176.</p>
+
+               <p>192. 5, 50. 54. 58. 97. 338. Polenus 3, 66. 70. 72 — 74. 104.</p>
+
+               <p>Pollux I, 429. 3, 77. 79—81. 83. 85. 91.</p>
+
+               <p>93—96. 99- 5. 20. 437Polybius 3, 80. 98, 99. 4, 91. n6. 122 —</p>
+
+               <p>125. 154. 169. 173. 183. 184. 189. 193. Pompejus 3, 36, loi. 4, 196. 6, 575.</p>
+
+               <p>Pomponius Mela 3, 36. 117. 4, 65. 83 — 85.</p>
+
+               <p>87. 90. 93. loi. 104 — 106. 108. 112.</p>
+
+               <p>120. 130. 133. 144. 155.</p>
+
+               <p>Ponce Trebati 2, 367. 370.</p>
+
+               <p>Ponz 3, 66. 113.</p>
+
+               <p>Porphyrius 4, 336. 339. 340.</p>
+
+               <p>Pott 7, 74. 106. 347. Potter 5, 53.</p>
+
+               <p>Pouvreau 3, 271. 273.</p>
+
+               <p>Praxiteles 3, 172.</p>
+
+               <p>Premare 7, 313. 321, Premontval 7, 425.</p>
+
+               <p>Prestamero 3, 134,</p>
+
+               <p>Prieur 2, 373. 375.</p>
+
+               <p>Priscian 4, 113. 383. 384. 388. 393—399- Pronomos 3, 211. Properz 3, 73.</p>
+
+               <p>43<pb n="7.674" xml:id="pbVII674"/> Protten 6, 198. Psammetich 5, 99. Ptolemaeus II. 5, 88. Ptolemaeus Alexander 5, 96. Ptolemaeus Auletes 5, 97. Ptolemaeus, Claudius 3, 36. 4, 74. 78 — 85.</p>
+
+               <p>87 — loi. 103 — 108. III. 113. 115 — 122.</p>
+
+               <p>131— 134. 138. 142. 144. 145. 147—150.</p>
+
+               <p>155—158. 162. Pufendorf 7, 469. 470. Puharska 6, 14. Purchas 5, 46. 49. Putsche I, 376. 4, 113, 331- 383- 384- 387</p>
+
+               <p>—390. 393—395- 397—399. Pythagoras 7, 36 1. Quandt 6, 135. Quatremere 4, 311. Quesnay 7, 520. 539. Quintilian l, 412. 4, 256. 342. 397. 398.</p>
+
+               <p>6, 99. 405, Quiros 6, 47. Racine 2, 380. 384. 7, 587. Radetzky ii, 8. 36. 150. Rafael 2, 221. 372. 6, 56. 57. 90. 93. 532.</p>
+
+               <p>577. 12, 546. 588. Raffles 6, 40. 558—561. 563. 564. 7, 5. 348. Ramses 5, 144. 147. Rask 6, 296. 299. Raspe 7, 370. Rauch 5, 236. 6, 57. 92. 592. 12, 540.</p>
+
+               <p>552—554- 565- Raucourt, Fräulein 2, 383. 384. Raumer lo, 53. 265. Ravai 6, 223. Raynouard 6, 221. 223. 245. 251. 284 — 286.</p>
+
+               <p>289. Reding il, 122. 127. Rehberg 12, 588. Reichard 4, 78. 79. 82. 85. 94. 95. 98.</p>
+
+               <p>100 — 102. 105. 106. 108. 114. 120. 130. 131. 134. 138. 144. 146. Reiffenstein 6, 532. Reil 10, 224 — 226. 229 — 231. 269. 270. 278. Reimarus 4, 123. 7, 365 — 405. Reinhard, Hans von 11, 127.</p>
+
+               <p>Reinhard, Karl Friedrich 12, 103. Reinhardt 6, 593. 601. Reiske 3, 177. Reitemeier 7, 545.</p>
+
+               <p>Reiz I, 376. 4, 332. 334, 352. 6, 100. loi.</p>
+
+               <p>7. 223. Rembrandt 12, 549.</p>
+
+               <p>Remusat 4, 310. 5, 5. 12. 70. 247. 254 — ■</p>
+
+               <p>308, 314—317. 320. 321. 447. 466. 470.</p>
+
+               <p>6, 141. 168. 260. 315. 316. 7, 232.</p>
+
+               <p>272. 302. 303. 311— 313. 344. 347. Reni l, 167.</p>
+
+               <p>Renner 10, 218.</p>
+
+               <p>Resende 4, 180.</p>
+
+               <p>Reyes, de los 7, 224. Rezzonico 6, 532.</p>
+
+               <p>Rhediger 12, 153. 418. Ricci 5, 151.</p>
+
+               <p>Rimay 10, 167. Ring 10, 235.</p>
+
+               <p>Riquilda 3, 41. 42. Risco 3, 110. 117. 124. 125. 130. 4, 170.</p>
+
+               <p>178. 184. Rist 6, 56.</p>
+
+               <p>Ritter 4, 155. l6l. 190. 205. Robert II. von Frankreich 2, 358.</p>
+
+               <p>Robertson 5, 129. Robinson 4, 207.</p>
+
+               <p>Rodriguez 5, 238 — 245. 6, 166. 170. 171.</p>
+
+               <p>207. 208. 310. 318. 319. 570. 7, 227. 649.</p>
+
+               <p>Rohault 2, 356. Rohde 10, 4.</p>
+
+               <p>Romain (Robert) X, 137. Romanzow 11, 14. 18. 20. Ronsard 2, 375.</p>
+
+               <p>Roorda van Eysinga 7, 348. Roscelin 7, 376. Roscius 3, 73.</p>
+
+               <p>Ross 12, 584. 585. 591.</p>
+
+               <p>Rousseau i, 75. 102. Iio. 162. 2, 49.</p>
+
+               <p>3. 55- 7, 587- Royaumont 3, 269. Rubens 2, 350. 7, 591. 12, 549. Rudolphi 10, 231. 233. 269. 274.</p>
+
+               <p>Rückert 6, 94 — lio. Rütimann II, Il8.<pb n="7.675" xml:id="pbVII675"/> Ruhnken 6, 100. loi. 405. Ruiz 5, 457. 6, 351. Rumohr 12, 545. 546. 565. Sachse 6, 587. Sack 10, 32. 33. 12, 473. Sack, Graf von 5, 134. 136. 144. 148. 152.</p>
+
+               <p>154. 155- Sacy 4, 311. 5, 13. 6, 20. 7, 347. St. Aignan II, 91 — 94. St. Augustin 6, 557. 562. 565. 566. St. Croix 3, 272. St. Julien 7, 320. St. Marsan 11, 153. 154. 159. St. Non 3, 73. 75. 90. 102. Sakadas 3, 211. Sallust I, 135. 3, 113. 277. 279. 4, 393. Salmasius l, 414. Salt 5, 42. 135. 140. 141. 143—146. 153. Salvatico lo, 5. Sancha 3, 121. Sanchez 6, 286. Sancho von Navarra 3, 132. 133. Sannyrion i, 375. S. Buenaventura 7, 227. Santos, de los 6, 558, 562. 566. 7, 326. Sarrede 2, 374. Sarto, del 12, 556. Savigny 10, 228 — 229. 269. 270. 275. Schadow, Friedrich Wilhelm 5, 236. 6, 91. Schadow, Johann Gottfried 10, 22 — 24. Schäfer 6, loo. Scheid 3, 125. Schelling 7, 201. 12, 605. Schereddin Barbarossa 12, 203. Scheve 10, 41. Schiller i, 65. 255. 261. 263. 268. 269.</p>
+
+               <p>271. 272. 352. 2, 5. 23. 32. 3, 217.</p>
+
+               <p>342. 5, 338. 6, 492—527. 544. 545.</p>
+
+               <p>7, 349- 659. Schilling 3, 43. Schinkel 5, 236. 12, 54O. 543—546. 554. Schirch, Frau 10, 172. Schirmer 6, 588. 592. 601. Schlabrendorf 7, 608. Schlegel, August Wilhelm 4, 157. 201. 202.</p>
+
+               <p>360. 378. 413. 415. 416. 5, 68. 138.</p>
+
+               <p>158—189. 196. 228. 245. 6, 8. 25. 36. 96. 105. 108. 221. 236. 260. 284. 290</p>
+
+               <p>—292. 461. 483. 7, 208. 335. 347.</p>
+
+               <p>649. Schlegel, Friedrich 3, 288. 6, 418. 7, 131.</p>
+
+               <p>Schleiermacher 4, 249. 10, 80. 160. 194. 282. Schlesinger 12, 540. 545. 546. Schlettwein 7, 521.</p>
+
+               <p>Schlözer, August Ludwig von 3, 225. 286.</p>
+
+               <p>4, 107. 147. 172. 5, I. 347. 6, 135. 136.</p>
+
+               <p>7, 145. II, 294. Schlözer, Christian von 6, 136. 7, 145.</p>
+
+               <p>Schlosser, Christian 12, 285.</p>
+
+               <p>Schlosser, Johann Georg 11, 294. Schmalz 10, 159.</p>
+
+               <p>Schmedding 10, 205. 262. Schmidt lo, 275.</p>
+
+               <p>Schmitthenner 6, 6.</p>
+
+               <p>Schneider 4, 113. 256. 10, 216.</p>
+
+               <p>Schön 12, 342. 343. 473. 492—514. Schönaich 10, 166. 12, 515 — 526. Schultz 5, 138. Schoppe 6, 54. Schorn 12, 565.</p>
+
+               <p>Schramm 3, 36.</p>
+
+               <p>Schraut II, 118. 121. 125. 133. Schröder 10, 272. Schrödter 6, 585.</p>
+
+               <p>Schuckmann 12, 200. 305. 306. 362. Schultens 7, 607.</p>
+
+               <p>Schulz, David lo, 219.</p>
+
+               <p>Schulz, Friedrich Eduard 5, 307. 7, 347. Schulz, Theodor 6, 135.</p>
+
+               <p>Schulz (Maler; 6, 491. 553. Schumann 6, 135.</p>
+
+               <p>Schummel 10, 214.</p>
+
+               <p>Schuppen, van 7, 591. Schwarz 7, 522.</p>
+
+               <p>Schwarzenberg li, 21. 27. 36. 57.65. 158.</p>
+
+               <p>Schweigger 10, 194. 218. Schweighäuser, Gottfried 3, i.</p>
+
+               <p>Schweighäuser, Johann 3, 80. 4, Il6. 173. 189.</p>
+
+               <p>Scipio Africanus i, 385. 3, 208. 4, 183.</p>
+
+               <p>Scipio Nasica 3, 177. 4, 84. 191. Seguin 3, loi. Seigneux de Correvon 3, 65.<pb n="7.676" xml:id="pbVII676"/> Seiden 7, 576. Selim II. 12, 203. Seneca 4, 171. 190. 200. 201. Senfft II, 37. 124. 125. Serlio 3, 77. Serres i, 18. 23. Sertorius 3, 36. 4, 85. lll. 138. 186. 192. Servius 3, 97. 4, 158. Sesostris 5, 45. 145. 147. Sestini 4, 84. 98. 99. 105. 109. II2, 114.</p>
+
+               <p>117. 123. 133. 135. 142. 212. Severolli II, 38. Sextus Empiricus 7, 372. 394. Seydlitz 6, 588. Shakespeare 2, 53. 72. 106. 366. 380,</p>
+
+               <p>3, 191. 209. 6, 505. 525. 7, 198. 659. Shaw 4, 213. Sibthorpe 7, 576. Sick 10, 137. 138. Sidney 7, 571. 572. Sidonius 3, 83. Siebenkees 4, 135. Sieyes 12, 285. 430. Silius Italiens 4, 79. 80. 122. 123. 125.</p>
+
+               <p>126. 135. 163. Simmonel 5, 52. Simonides l, 414. Smith 7, 529. Sohn 6, 90. 490. 551—553- 555- 579- 586.</p>
+
+               <p>593- 601. 605. Sokrates i, i. 7 — 16. 47. 48. 415. 3, 152.</p>
+
+               <p>208. 7, 361. 436. Solinus I, 412. 414. SoUy 12, 542. 545. 556. 576. Solms-Laubach 11, 221. 12, 115. Solon I, 54. Sophokles i, 321. 370. 2, 53. 244. 250.</p>
+
+               <p>3, 108. 209. 215. 4, 357. 385. 387.</p>
+
+               <p>6, 238. 7, 140. Sorreguieta 3, 268. Sotzmann 12, 565. Spalding 6, 99. 10, 194. Spanocchi II, 156. Spener 10, 47. Spieker 10, 219. Spinoza i, 300. 304. 305. 7, 409. Spon 3, 70. 102.</p>
+
+               <p>Stackeiberg 11, 27.</p>
+
+               <p>Stadion II, 5—7. 35. 57. 151. 152. Stägemann 10, 264.</p>
+
+               <p>Stael, Frau von 6, 546. 7, 587. Starcke 4, 230. Steffel 5, 349.</p>
+
+               <p>Stein II, 95 — 112. 12, 226. Stein, von 10, 174.</p>
+
+               <p>Steinbrück 6, 588. 593. Stenzler 7, 347.</p>
+
+               <p>Stephanus Byzantinus I, 413. 414. 429.</p>
+
+               <p>4, 66. 86. 91- 112. 133. 134. 139. 156.</p>
+
+               <p>157. 160. 161. 171. 172. x8o. Stewart 4, 198. Stolberg i, 65.</p>
+
+               <p>Strabon 4, 65. 66. 79. 80. 82. 86. 87. 102.</p>
+
+               <p>114. 116. 119. 135- 138. 144- 152. 159160. 167. 171— 176. 178. 183—185. 187 — 189, 192 — 196. 200. 202. 6, 283. Stützel 6, 598.</p>
+
+               <p>Sturz 6, 63.</p>
+
+               <p>Sueton 3, 73. 4, 124. 5, 97Süvern 10, 137. 138. i6l — 162, 164. 165.</p>
+
+               <p>196. 262. 282.</p>
+
+               <p>Suidas I, 413. 3, 83—86, 95- 98. 996, 67. 70.</p>
+
+               <p>Sulla 3, 73. 160. 172. 186. Sully 2, 374.</p>
+
+               <p>Sulzer 7, 394. 395. 472. 473- Swinburne 4, 192.</p>
+
+               <p>Sylberg 4, 157.</p>
+
+               <p>Synesius 3, 98.</p>
+
+               <p>Tacitus 3, 68. 73. 4, I97- 199- 5- I477, 175. 205. Talleyrand II, 135. 159- 12, 5. 8. 22. Talma 2, 378. 384. 386. 398. 7, 591. Tamehameha 6, 189.</p>
+
+               <p>Tapia Zenteno 4, 255. 257. 259. 267. 268.</p>
+
+               <p>280. 6, 215. 7, 146. 227. Tasso 2, 251. 259. 6, 53. 505. 533. Temmel 6, 52. 53, 89. 488. 553. Terenz 3, 215.</p>
+
+               <p>Termaier 6, 20. TertuUian 7, 571. Tetens 7, 394.</p>
+
+               <p>Thaer 10, 163. 174.<pb n="7.677" xml:id="pbVII677"/> Themistius 3, 83. Themistokles 7, 209. Theognis 4, 394. Theokrit 2, 255. 257. 3,. 115. Theophrast 2, 52. Theoxenus i, 415. Thespis 3, 83. 87. Theul II, 155. Thicknesse 3, 104. 106. Thiersch 5, 404. 6, 64. 7, 347. Thomas Magister l, 412. 414 — 416. Thomassin 2, 376. Thomsen 6, 55S. Thomson l, 321. Threlkeld 6, 1$- 7. 4Thukydides l, 429. 4, 170. Tieck 5, 236. 12, 540. 552. 554. 555. Tiedemann l, 104. Timaeus 3, 88. Timosthenes 3, 301. Tintoretto 12, 556. Tischbein 6, ,532. . Tizian 3, 133. 12, 556. . Todd 7, 335. Tölken 5, 76. 137. 138. Toland 7, 573. Tonti 7, 522. Totanes 6, 313. 557. 560. Tournefort 3, 102. Townsend 3, 131. Tragia 4, 62. Tralles 10, 194. 270. 279. Troschel 6, 578. 593. Trützschler 12, 376. Tryphon 4, 392. Turgot 7, 520. Turnebus 3, 95- 99Twiss 3, 62. Tzetzes i, 412. Tzschucke 4, 85. 87. 105. Uchin 3, 281. Ügarte II, 35. Uhden lo, 5. 32. 33. 50. 77 — 79. 262. 282. Uhland 6, 491. 551. Ulpian 3, 100. 177. Unger 3, 34.</p>
+
+               <p>Unger, Frau lo, 29. Usirei 5, 143.</p>
+
+               <p>Valcarcel 4, 212. Valentine von Mailand 2, 363.</p>
+
+               <p>Valerius Maximus i, 415. 429. 3, 74. 4</p>
+
+               <p>126. 192.</p>
+
+               <p>Vallancey 4, 185. 7, 630. Vanhove 2, 381. Varro 4, 175. 397.</p>
+
+               <p>Vasco de Gama 7, 514.</p>
+
+               <p>Vater 3, 223. 276. 310. 4, 119. 120.</p>
+
+               <p>235- 239—242. 253. 5, 2. 4. 7</p>
+
+               <p>349. 351. 353- 6, i6. 18. 135. 208. 209. 7, 229. 10, 194. 218. Vega, de la 6, 49. 195,</p>
+
+               <p>Veigl (Voigt) 5, 348.</p>
+
+               <p>Veit 6, 90. 490. 554. 579- 586.</p>
+
+               <p>Velasquez 4, 174. 211. Vellejus Paterculus 4, 86. Venius 12, 549.</p>
+
+               <p>Vergil I, 49. 321. 3, 97. 106. 128.</p>
+
+               <p>5. 8. 7. 617- Verginia 3, 364. Veronese 12, 556.</p>
+
+               <p>Vetancurt 4, 255. 262. 266. 268. 269.</p>
+
+               <p>278. 281. 283. 7, 223.</p>
+
+               <p>Vieweg 3, I. Viktor Emanuel I. von Sardinien II,</p>
+
+               <p>161. 168.</p>
+
+               <p>Villena 3, I2I.</p>
+
+               <p>Villoison 4, 336. 6, loo.</p>
+
+               <p>Villotte 6, 171. 172. Vincent II, 37.</p>
+
+               <p>Vincke 10, 159. 12, 245. 252. 272. 274.</p>
+
+               <p>282. 28^. 287. 290. 296. 477—491</p>
+
+               <p>Viriathus 4, 126. 12". Virues 3, 43.</p>
+
+               <p>Visconti 5, 47.</p>
+
+               <p>Vitruv 3, 68. 70. 73. 74. 77. 79—82</p>
+
+               <p>86. 88. 89. 92. 93. 95- 96- 99—</p>
+
+               <p>103. 104.</p>
+
+               <p>Voigt 6, 491. 554- 578. 593- 602. Voltaire 2, 49. 72. 380. 7, 643.</p>
+
+               <p>Voss, Christian Friedrich 4, 63. 10, 46.</p>
+
+               <p>Voss, Johann Heinrich 2, 393.</p>
+
+               <p>Vossius 4, 87. 97. 157. 171. 172.</p>
+
+               <p>. 79.</p>
+            </div>
+
+            <div type="section" n="5">
+               <head>
+                  <title type="main">2C6.</title>
+               </head>
+               <p>25.</p>
+
+               <p>136.</p>
+
+               <p>8. 21:</p>
+
+               <p>27415385.</p>
+
+               <p>101.</p>
+
+               <p>23:<pb n="7.678" xml:id="pbVII678"/> Waagen 12, 540. 545. 547. 549. 55°- 505- Wach 5, 236. 12, 540. 545, Wagner 4, 332—334- Walker 4, 328. 345. 347. 5, 269. 315. Wallis II, 9. 10. 29. 35. Walmiki 7, 16. Walter 10, 157. Wamba 3, lio. Wangenheim 12, 268. Weller 6, 64. loi. Wellington 12, 31. Welper 10, 136, 138, Werdermann 10, 173. Wesseling 4, 78. 82. 85. 88. 95- ißl- 160. 189. Wessenberg, Ignaz Heinrich Karl von 12,</p>
+
+               <p>33- 35- 37. HO. Wessenberg, Johann Philipp von II, 35.</p>
+
+               <p>37. 152. 157. 12, 25. Wheler 3, 102. Whish 6, 84. Wieland, Christoph Martin 3, 342. Wieland (Beamter) II, II 8. Wifred IL 3, 41. 42. Wilhelm I. von England 7, 518. Wilhelm I. von Hessen 11, 324 — 327. Wilhelm I. von Holland 12, 31. Wilhelm von Preussen 6, 56. 10, 33. Wilken 7, 349. Wilkins 4, 70. 71. 130. 256. 361. 366. 382.</p>
+
+               <p>399. 402. 403. 5, 160. 167. 169. 171. 183.</p>
+
+               <p>224. 6, 418. 423. 427. 441. 466. 468.</p>
+
+               <p>470. 471. 473. 7, 131. 335. Willdenow 10, 30. 137. 269. 279. Wilson 5, 164. 167. 174. 178. 224. 7, 335. Winckelmann 2, 249. Wolf I, 7. 255. 256. 264. 275. 278 — 280.</p>
+
+               <p>370—376. 4. 171. 332- 344- 351- 352.</p>
+
+               <p>5. 13- 37- 341- 6, 100. loi. 405. 7, 206.</p>
+
+               <p>223. 10, 17 — 22. 116. 159. 194. 195. 216. 219. 226. 270.</p>
+
+               <p>Wolff, Christian von 7, 384. 410. 470. 487. Wolff, Emil 6, 54. 89.</p>
+
+               <p>Wolfram 10, 166. 167. 170. 171. 2l6.</p>
+
+               <p>Wolzogen, Karoline von 2, 335 — 344. WVbna 3, 307.</p>
+
+               <p>Wrede II, 227.</p>
+
+               <p>Wredow 6, 91. 490. 553. 605. Wulff en II, 3.</p>
+
+               <p>Wyasa 7, 16.</p>
+
+               <p>Xenophon l, 5 — 16. 3, 87. 4, 386. Ximenes 3, 40.</p>
+
+               <p>Xiphilinus 4, 178. Xylander 4, 195.</p>
+
+               <p>Yepes 3, 42. 43.</p>
+
+               <p>Young I, 321. 5, 56. 57. 59. 63. 71—78.</p>
+
+               <p>81. 97- 99- loi. 103. 135. Yrazuzta 3, 269.</p>
+
+               <p>Zastrow II, 323 — 327.</p>
+
+               <p>Zeisberger 5, 350. 7, 152. 266. 267. Zeller 10, 208. 209. 212. 213.</p>
+
+               <p>Zelter 10, 75 — 77.</p>
+
+               <p>Zichy II, 37. 221.</p>
+
+               <p>Zoega 4, 196. 5, 43. 50—55. 59. 60. 62.</p>
+
+               <p>63. 67. 69. 83. 92. 98. 99. loi. 102. 104. 135.</p>
+
+               <p>Zöllner i, i. Zohrab 6, 171.</p>
+
+               <p>Zondadari 3, 66.</p>
+
+               <p>Zuiiiga 3, 270.</p>
+
+               <p>Lippert &amp; Co. (G. Pätz'sche Buchdr.), Naumburg a. S.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

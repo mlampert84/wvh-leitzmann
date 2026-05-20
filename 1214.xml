@@ -1,0 +1,255 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aus der Ministerialzeit 1819</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zwölfter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif1202humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1904">1904</date>
+                  </imprint>
+                  <biblScope unit="page" from="342" to="358"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1819">1819</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="12.342" xml:id="pbXII342"/>
+            <p>haben und in ihrer gegenwärtigen Gestalt, weil sie. wie es die Natur der Sache mit sich brachte, nicht gleich von Anfang an, auf das Ganze in der Hauptsache gerichtet sein, sondern es nur Schritt vor Schritt vorbereiten konnten, nicht sämmtlich geeignet sind, Ew. K. Majestät, wie sie liegen, vorgelegt zu werden; so haben wir um so weniger zu fehlen besorgt, wenn wir diese alleruntenhänigste Berichts-Erstattung wegen der förmlichen Ausarbeitung der einzelnen Abstimmungen nicht noch länger aufgehalten haben, als Ew. K. Majestät uns an dieselbe unterm g'iB d. M. so ernstlich haben erinnern lassen. Sie kann, wenn wir uns geirrt haben sollten, auf den ersten Wink nachgeholt werden, darum haben wir auch die Rückkunft der Staats-Minister v. Klewitz und Graf V. BernstorflF nicht abwarten zu dürfen geglaubt.</p>
+
+            <p>Geruhen Ew. K. Majestät diese Arbeit mit huldvoller Nachsicht zu betrachten. Sie ist das Werk der unverbrüchlichsten Treue.</p>
+
+            <p>Berlin, den 26^^ August 1819.</p>
+
+            <p>Das Staats-Ministerium.</p>
+
+            <head>
+               <title type="main">XXXIX— XLIII. Aus der Ministerialzeit. 1819.</title>
+            </head>
+            <p>Wir geben im folgenden einige kleinere Denkschriften, die sich in Hum- boldts Nachlaß finden. Die erste (XXXIX) kam nicht zur Verhandlung im Ministerium, die folgenden (XL—XLII) enthalten die Begründung seiner Abstimmung, die letzte (XLIII) ist imdatiert, gehört wohl aber in diese Zeit.</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">XXXIX. Votum zu St.M. No. 303 und 493. Vortrag des Herrn W. Geh. Raths und Oberpräsidenten von Schön Excellenz auf den Entwurf eines Gesetzes über das Verhältniss der bewaffneten Macht und insbesondre der Militärwachten zum Volke. 19. August 1819.</title>
+               </head>
+               <p>(Eigenhändiges Konzept in Tegel.)</p>
+
+               <p>Ich trete gleichfalls der Meynung bei, dass es nicht rathsam sey, gegenwärtig auf das von Hrn. Geh. Rath und Ob.-Praes. v. Schön vorgeschlagene Gesetz bei des Königs Majestät anzutragen. Eine dringende factische Veranlassung scheint mir nicht vorhanden, da die Misbräuche, denen das Gesetz steuern sollte, wohl sehr selten sind, und bei dem in der Armee herrschenden Geiste nur äusserst<pb n="12.343" xml:id="pbXII343"/> selten scyn können. In sich halte ich es allerdings für nothwendig fester, als es die jetzigen Verordnungen thun, zu bestimmen, wann und wie jemand in und ausser seinem Hause verhaftet werden kann, und wie dabei Militair- und Civilautoritäten concurriren sollen, und der Bericht des Hrn. v. Schön enthält darüber viel Wahres und Treffendes. Allein da dieser Gegenstand mit allem demjenigen zusammenhängt, was in Gesetzen und Verfassung die persönliche Sicherheit des Staatsbürgers betrift, so ist es bei weitem angemessener, die Ertheilung eines neuen Gesetzes so lange aufzuschieben bis dieser Gegenstand wird bei der Revision der ge- sammten Gesetzgebung, in Verbindung mit den \'erfassungsformen, vollkommen erschöpfend behandelt werden können. Für jetzt scheint es mir, um möglichen Misbräuchen vorzubeugen, hinlänglich, dass die Allerhöchste Cabinets - Ordre vom 4. April c. die Verantwortlichkeit der Stabsofficiere , wenn sich dieselbe auch ohnehin von selbst versteht, so bestimmt ausspricht, und bei sich ereignenden Misbräuchen die strengste Behandlung vorschreibt, dass die gedachte allerhöchste Cabinets - Ordre übrigens nichts Neues festsetzt, geht schon aus den Worten des Anfanges derselben hervor.</p>
+
+               <p>Berlin, 19. Aug. 181 9.</p>
+
+               <p>XL. Ueber den Zoll auf Salz. 23. August 1819.</p>
+
+               <p>(Abschrift in Tegel.)</p>
+
+               <p>Die Angelegenheit wurde im Staatsministerium am 29. September i8ig verhandelt und der Beschluß gefaßt, daß das Salz, welches die Generalsalzdirektion aus dem Auslande bezieht und nach dem Auslande hin verkauft, einem Durchgangszolle zu unterwerfen sei.</p>
+
+               <p>Da ich gleich vollkommen dem Voto des Herrn Ministers Grafen von Bülow Excellenz darin beistimme, dass die vorliegende Verschiedenheit der Ansicht nur eine Differenz zwischen zwei Staatskassen ist, so halte ich es dennoch für wichtig, überall die Grundsätze aufrecht zu erhalten, deren Befolgung allein eine richtige Beurtheilung der von dem Staat getroffenen Maassregeln erlaubt.</p>
+
+               <p>Da es nun nicht in dem Begriff' des Staats in sich selbst liegt, dass er ein Monopol mit dem Handel mit fremdem Salze treibe, so kann ich die General-Salz-Direktion auch nur als ein Handelsinstitut ansehen, dessen reinen Ertrag man erst dann kennt, wenn<pb n="12.344" xml:id="pbXII344"/> es sich in die gleiche Lage mit allen übrigen Staatsbürgern setzt, die, wenn es erlaubt wäre, einen solchen Handel führen könnten. Hieraus scheint mir die Zweckmässigkeit hervorzugehen, dass die General-Salz-Direktion den Zoll wirklich bezahle, oder wenigstens bei Abfassung ihrer Abschlüsse gehörig in Ausgabe stelle.</p>
+
+               <p>Ob sie hierzu nach der bestehenden Verfassung, und dem neuen Steuergesetz verbunden sey, oder nicht? darüber scheint mir der Streit in der That unerheblich, da Se. Majestät der König hierüber, auf den Antrag des Staatsministerii, unmittelbaren Ent- schluss fassen können.</p>
+
+               <p>Ich kann ausserdem den Gesichtspunkt des Königl. Finanz- ministerii, dass die wirkliche Bezahlung der Steuer allein die ge- hörige Uebersicht des wahren Verhältnisses dieses Gegenstandes verschaffen kann, nicht unerheblich finden, und aus diesen Gründen zusammengenommen trete ich im Wesentlichen der Meynung des Herrn Finanzministers von Klewitz Excellenz bei.</p>
+
+               <p>Berlin, den 2^. August i8iq.</p>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">H.</title>
+               </head>
+               <p>XLI. Votum, den Magdeburgischen Elb-Schiffahrts- Assecuranz-Verein betreffend. 30. August 1819.</p>
+
+               <p>(Abschrift mit eigenhändigen Korrekturen in Tegel.)</p>
+
+               <p>Die Kaufleute und Schiffer in Magdeburg, welche den Asse- curanz-Verein gestiftet haben, sind die gegenseitige Verbindlichkeit eingegangen, weder sich andrer Schiffer, durch künftige Aufnahme neuer in den Verein, zu bedienen, noch andere Waren, als solche, welche den Mitgliedern des Vereins gehören, zu verladen. Die ersten bezwecken dabei, immer für ihren Warentransport tüchtige, von ihnen selbst geprüfte Gefässe, und ihnen bekannte, ihr Vertrauen, nach ihrer Ansicht, verdienende Schiffer, die letzteren sichere Ladung zu jeder Zeit zu erhalten. In Beidem bedienen sich beide ihrer gesetzlichen Freiheit, da es von jedem Gewerbetreibenden abhängt, für wen er zu arbeiten, und wen er in Dienst zu nehmen gesonnen ist.</p>
+
+               <p>Insofern sie aber einen solchen Verein gestiftet haben, schliessen sie diejenigen Kaufleute und Schiffer, die nicht zu demselben gehören, aus, erschweren diesen die Betreibung ihres Gewerbes, und<pb n="12.345" xml:id="pbXII345"/> die Kaufleute namentlich entziehen die ausschliesslich für sie in Beschlag genommenen Schitfer der allgemeinen Concurrenz.</p>
+
+               <p>Dadurch vereiteln sie allerdings, bis auf einen gewissen Grad, den Zweck der vom Staat eingeführten allgemeinen Gewerbefrci- heit, und es entsteht nunmehr die doppelte Frage:<note type="footnote" n="1)" resp="gnd-118554727"><hi>ob sie dies auf eine direkte Weise thun, dergestalt dass ihr Verein dem Edict vom 2. November 1810 und der Allerhöchsten Cabinets-Ordre vom 19. April 181 3 entgegenläuft und daher rechtlich gegen sie verfahren werden kann? und</hi></note><note type="footnote" n="2)" resp="gnd-118554727"><hi>wenn dies nicht der Fall sein sollte, sondern der Nachtheil für die Gewerbefreiheit nur indirekt, und auf eine, nicht nach jenen Edicten zu hindernde Weise hervorginge, welche polizeiliche, oder legislative Mittel zu ergreifen sein möchten, um der monopolistischen Tendenz des Vereins entgegenzuarbeiten, ohne die Magdeburgischen Kauf leute und Schiffer ungerechterweise in einem erlaubten Gebrauch ihrer Freiheit zu beschränken?</hi></note></p>
+
+               <p>Denn wenn es auf der einen Seite allerdings bedenklich ist, wie das Königliche Handelsministerium sehr richtig auseinandersetzt, einen auf der Elbe entstehenden Monopolium einer einzelnen Kaufmannschaft nachzusehen; so ist es auf der andern gleich wichtig, einem vom Handelsminister selbst in seinem Wesen für nützlich anerkannten Verein, und den dadurch wachsenden Flor des Handels einer bedeutenden Stadt nicht zu stören.</p>
+
+               <p>ad I.</p>
+
+               <p>In der rechtlichen Erörterung, ob die Bedingungen des geschlossenen Vereins den bestehenden Verordnungen zuwiderlaufen? kann ich nicht anders als der in dem Schreiben des Herrn Fürsten Staatskanzlers entwickelten Meynung beitreten. Es würde einem einzelnen Kaufmann nie verwehrt werden können, einen einzelnen Schiffer, mit Einwilligung desselben, bloss für sich in Beschlag zu nehmen, und ihm zu versprechen, sich bloss seiner zu bedienen. Es ist dies eine res merae facultatis, eine Freiheit, die der Staat nicht beschränken kann, ohne gewissermassen , nur von einer andern Seite, die Gevv'erbefreiheit wieder selbst zu beschränken. Denn aus einem solchen Vertrag entspringen nothwendig gegen- seitige Vortheile, deren er beide Contrahenten berauben würde. Es gehört gewiss ferner auch zur Freiheit, dass niemand gehindert sei, nur demjenigen sein Vertrauen zu schenken, den man dessen würdig hält, und als Gewerbetreibender, seine Arbeit demjenigen<pb n="12.346" xml:id="pbXII346"/> ZU versagen, bei dem man nicht ebenso wie bei einem andern, seine Rechnung findet. Diese zwiefache Freiheit würde durch Verfügungen solcher Art aufgehoben. Was aber Einem hierin erlaubt ist, muss es auch zweien und mehreren, ja endlich allen Mitgliedern einer bestimmten Corporation sein. Das Einzige, was einen Unterschied machen würde, ist bloss, wenn die Corporation, als moralische Person, nach Stimmenmehrheit und durch ihre Vorsteher handelte. Denn da alsdann keiner in der Corporation sein könnte, ohne sich zugleich in diesen Verein zu begeben, so träte ein indirecter Zwang ein, und die Bedingungen des Vereins hörten auf, aus dem freien Willen der Einzelnen hervorzugehen. Dass dies aber der Fall sei, wird nicht behauptet, und in der Vorstellung der Kaufmannschaft zu Magdeburg ausdrücklich be- stritten.</p>
+
+               <p>Das Königl. Handelsministerium bezieht sich vorzüglich auf die Allerhöchste Cabinets-Ordre vom iq. April 1813, und es ist richtig, dass die Ausdrücke derselben</p>
+
+               <p>Verträge welche die gesetzlich gegebene Ge- werbefreiheit beschränken oder hindern sehr allgemein und weit umfassend sind. Allein die gedachte Cabinetsordre wollte offenbar kein neues Recht bestimmen. Das Königl. Handelsministerium sagt selbst ganz richtig, dass es dieser Cabinets-Ordre nicht einmal bedurft hätte, und indem dieselbe von dem evidenten Grundsatz ausgeht, dass Verträge zwischen Privatpersonen bestehende Landesgesetze nicht abändern können, so spricht sie aus , dass dies auf Verträge , die vor der gesetzlich eingeführten Gewerbefreiheit geschlossen sind, keine Wirkung haben kann, schärft aber zugleich für die nach dieser Epoche geschlossenen, den allgemein, sich schon von selbst verstehenden Grundsatz noch mehr ein. Sie sagt überdies: gesetzlich gegebene Gewerbefreiheit und bestimmt da- durch hinlänglich, dass nicht jeder Vertrag ungültig wird, durch welchen indirect und mit Hinzukommen anderer Umstände die Gewerbefreiheit factisch leidet, sondern nur solche, durch welche ein Vorrecht begründet wird, dem das Gesetz entgegen steht. Es ist nicht zu läugnen, dass die Anwendung der einzelnen Fälle auf das Gesetz hierbei allemal etwas Schv^'ankendes übrig lassen wird, allein man wird sich doch immer an den klaren und richtigen Unterschied halten können, ob der \'ertrag hauptsächlich und wesentlich gegenseitig stipulirte Vortheile der Contrahenten fest<pb n="12.347" xml:id="pbXII347"/>setzt, aus denen der Nachtheil für die Gewerbel'rcihcit nur eine mehr, oder weniger unmittelbare Folge ist, oder ob von denselben geradezu die Gründung eines ausschliesslichen Rechts beabsichtet wird; oder, um es mit andern Worten auszudrücken, ob der Zweck des \'enrages mehr in etwas Positivem, einer Leistung, oder mehr in etwas Negativem, einer Beschränkung besteht.</p>
+
+               <p>Dies wird vorzüglich klar, wenn man den Fall, welcher die Veranlassung zur gedachten Cabinets-Ordre gegeben hat mit dem vorliegenden vergleicht. Jene Veranlassung gab ein zwischen dem Gastwinh Krone und dem Geheimen Rath Gerreshcim im Jahre 1800 über den Gasthof zum Reh abgeschlossener Miethscontract in dessen 7. Paragraphen stipulirt war, dass der Miether binnen 3 Jahren nach Beendigung des Contracts. in den Berlinischen oder Cöllnischen Revieren ohne Einwilligung des Vermiethers einen Gasthof weder kaufen noch miethen solle.</p>
+
+               <p>Obgleich es nun, laut den über diese Sache verhandelten Acten, schon bei Berathung dieser Sache Meynungen gab, dass selbst dieser Vertrag nicht dem Edict des Jahres 18 10 entgegenlaufe, was hier füglich auf sich beruhen kann ; so ist doch gewiss, dass man bei Abfassung der Allerhöchsten Cabinets-Ordre ursprünglich diesen Fall und keinen andern vor Augen hatte, und dass dieser vom gegenwärtigen durchaus verschieden ist. Der Geheime Rath Gerresheim konnte bei der damaligen Stipulation gar keinen andern Zweck haben, als den, sich ein, wenigstens den Ivrone ausschliessendes Recht auf einen Gasthof in dem Berlinischen Revier zu bewahren; er beabsichtigte daher ein wirk- liches Vorrecht, eine blosse Beschränkung, eine geradezu intendirte partielle Authebung der Freiheit, etwas rein Negatives. Die Magde- burger Kaufleute haben eine Assecuranzgesellschaft gestiftet, ihr Zweck ist, durch diese ihren Handel auf der Elbe zu sichern, und zu befördern, sie prüfen darum die Schiffe, wählen aber auch die Schiffer, weil auch durch Ungeschicklichkeit, oder Unord- lichkeit der Schiffer und ihrer Gehülfen, Nachtheil entstehen kann ; die Schiffer bedingen sich, um in den Dienst des Vereins zu gehen, aus, dass kein neuer aufgenommen werde, damit sie ihrer Ladung gewiss sind; die Kaufleute, nunmehr auf eine bestimmte Anzahl von Gefässen beschränkt, stipulieren ferner, um nie daran Mangel zu haben, dass diese Schiffer nur für sie dienen sollen. Hier bezwecken beide Theile etwas Positives, wirkliche, ihr Gewerbe an<pb n="12.348" xml:id="pbXII348"/>gehende Vortheile, die in sich selbst von jedem Vorrecht entfernt sind; das Vorrecht, das Ausschliessende , das Negative entsteht erst nebenher, und als Folge. Es entsteht aber auch nicht aus dem Vertrag allein, sondern aus andern sich damit verbindenden Umständen. Denn wäre nicht Magdeburg der bedeutendste Handlungsort an der Elbe, wäre der Verein von Havelberger Kaufleuten gestiftet, so würde er der Freiheit keine Gefahr bringen. Wenn also hier ein Monopol ist, so ist es keins des Rechts, sondern eines des Reichthums, und der Ausdehnung der Geschäfte. Ein solches existiert überall, und lässt sich durch kein Gesetz aufheben. Es ist aber auch seiner Natur nach, mehr oder minder wandelbar und vorübergehend.</p>
+
+               <p>Ich glaube daher, dass der Staat durchaus kein Recht hat, den Magdeburgischen Assecuranz-Verein weder aufzuheben, noch zu zwingen, andere Bedingungen in seinen constitutiven Vertrag aufzunehmen. Das letztere würde ein wahrer Zwang seyn, für die Kauf leute, ihr Vertrauen Schiffern nicht nach ihrer persönlichen Ansicht, sondern nach allgemein zu prüfender Qualification zu schenken, und für die Schiffer, Ladungen von Personen anzunehmen, von welchen dies jetzt nicht ihrer Convenienz gemäss ist.</p>
+
+               <p>ad 2.</p>
+
+               <p>Demungeachtet ist nicht zu läugnen, dass der oftgedachte Verein immer eine monopolistische Tendenz hat, ihm auch wahrscheinlich eine solche Absicht zum Grunde liegt, und dass die Freiheit der Eibschiffahrt in der That dadurch leidet. Wenn dies auch zum Theil nicht abgestellt werden kann, sondern vom Staat als ein unvermeidliches Uebel geduldet werden muss, so ist es doch auf der andern Seite Pflicht zu verhindern, dass dies nicht zu weit gehe, und nicht in wahren Zwang ausarte.</p>
+
+               <p>Die Grundlinien, wo hier der Zwang angeht, ist die, wo jemand, der am Verein Theil nimmt, in den Fall kommen kann, gegen seine Ueberzeugung, und ohne durch den direct daraus entspringenden ^^ortheil dazu bewogen zu seyn, entweder hinein zu treten, oder darin zu bleiben. Dies kann aber nur geschehen, wenn die Kaufmannschaft als Gorporation handelt, und daher niemand ein Magdeburger Kaufmann sein kann, ohne zum Verein, er möge denselben vortheilhaft oder nachtheilig finden, zu gehören, oder wenn der Vertrag des Vereins langjährig oder auf den Erben übergehend wäre. Denn dazu, dass die Association nicht die Ge<pb n="12.349" xml:id="pbXII349"/>setzgebung über die Gewerbefreiheit wirklich vereitele, gehört nothwendig, dass die aus den Bedingungen des Vereins entspringenden Einschränkungen der Freiheit aus dem immer wech- selnden Willen, und den oft wechselnden Umständen der Einzelnen, her\'orgehen. Das Uebel, was das Gesetz vom 2. November 1810 vernichten will, und vernichten muss, ist, dass nicht, vom Willen der Einzelnen ganz oder zum Theil unabhängige Rechte sich der Freiheit, wie unübersteigliche Steuern, entgegenstellen.</p>
+
+               <p>Es wird daher unbedenklich streng darauf gehalten werden können, dass der ^&gt;rein auf keinerlei Weise als Gorporation, folglich nicht dergestalt handle, dass der Wille des Einen den Willen des Andern binden könne, oder dass jeder in Magdeburg Handelstreibende genöthigt werde, dem^^ereine beizutreten, sondern bloss als eine Vereinigung so vieler Individuen, als namentlich in demselben zusammengetreten sind, selbst wenn auch jetzt, wie es scheint, alle in Magdeburg befindliche Kaufleute dazu gehörten. Denn selbst in diesem Falle ist der Unterschied nicht unwichtig, ob dieselben als eine moralische Person oder nur als so viele Individuen, angesehen werden. Auch in anderer Hinsicht dürfte dahin zu sehen seyn, dass, wenn auch, wogegen auf keine Weise etwas zu erinnern ist, die Kaufleute einer Stadt in einer freiwilligen Corporation zusammen bleiben, diese der Gew^erbefreiheit ungeachtet geschehende, und in mancherlei Betracht heilsame Einrichtung, auch der Gewerbefreiheit unbeschadet bestehe, und mithin nicht der Fall eintreten könne, dass, um die Börse zu besuchen, man auch der Corporation anzugehören genöthigt sey. Es würde ferner dem Verein zu verbieten sein, seinen Vertrag anders als jedesmal auf kurze Zeit zu schliessen, wie er denn wirklich nur für das laufende Jahr verabredet zu sein scheint, so dass er fortwährender Erneuerung bedürfen wird.</p>
+
+               <p>Diese Massregeln können meines Erachtens bloss polizeilich genommen werden, zu neuen gesetzlichen Bestimmungen, um die Allerhöchste Cabinets-Ordre vom 19. April 181 3 weiter zu decla- riren, könnte ich nicht rathen, weil man sonst, ohne doch je alle Fälle erschöpfen zu können, die Gesetzgebung nur venvirret und überladet. Dass sich der \'erein solchen polizeilichen Massregeln fügen muss, ergiebt sich aus den allgemeinen Grundsätzen, und auch noch besonders aus § 18 des Edicts vom 2. November 18 10, in dem ausdrücklich gesagt ist, dass die Inhaber von Gewerbescheinen den Polizeiverfügungen ihres Orts unterworfen sind.<pb n="12.350" xml:id="pbXII350"/> und sich Beschränkungen, welche die Aufrechterhaltung allgemeiner Gesetze erfordert, unterwerfen müssen.</p>
+
+               <p>Sollte die Beschränkung der Freiheit des Assecuranz-Vereins, seinen Vertrag anders als auf eine kurze Zeit zu schliessen, dennoch einer besonderen Königlichen Genehmigung bedürfen und nicht bloss durch die Befugniss der Polizeibehörde, Massregeln zu nehmen, dass die nach allgemeinen Gesetzen bestehende Gewerbefreiheit nicht durch Privatverträge vereitelt werde, gerechtfertigt scheinen, so w^ürde doch die Allerhöchste Genehmigung nur auf den vorliegenden bestimmten Fall und andre künftige ganz ähn- liche zu erstrecken sein.</p>
+
+               <p>Damit auch verhindert werde, dass der Verein nicht in Hamburg als Kaufmannscorporation von Magdeburg auftrete und verlange, dass alle nach Magdeburg bestimmten Güter nur den Schiffern des Vereins übergeben w^erden sollen; so wäre zu verfügen, dass die Namen der Mitglieder des Vereins an der Börse in Hamburg jährlich angeschlagen wäirden, mit dem ausdrücklichen Beisatze, dass die Schiffprocureurs oder Spediteurs unbeschränkt wären, Güter, welche andern, nicht im Verein stehenden Kaufleuten oder Privatpersonen des Orts gehören, nach eigner Wahl auch mit jedem andern Schiifer und für beliebig zu be- dingenden Frachtlohn abzusenden. Jede andere Beschränkung des Vereins schien mir gesetzwidrig, und zugleich, wie ich glaube, unausführbar. Die Kaufleute zu nöthigen, mehr Schiffer zuzulassen, und die Schitfer, andere Waare aufzunehmen, ist, so lange beide Theile zusammenhalten, nicht möglich, ohne solche Massregeln zu ergreifen, welche das Königl. Handelsministerium in Hamburg versucht hat, die aber, wie ich freimüthig gestehen muss, mir ein wahrer Zwang zu seyn und die Gränzen der Behörden zu überschreiten scheinen. Die hier angegebenen beschränkenden Massregeln sind ausführbar, weil sie im Verein selbst einen Theil voraussetzen, der sich wider seinen Willen gebunden fühlt, und nur diesem zu Hülfe kommen. Solange alle Einzelnen bei der jährlichen Erneuerung des Vertrages mit der Fortsetzung desselben zufrieden sind, kommt der Fall, von denselben Gebrauch zu machen, nicht vor. Ich gestehe allerdings zu, dass damit bei weitem nicht erreicht wird, was für den Eibhandel zu wünschen wäre. Allein man muss nicht vergessen, dass, wenn man anders, und strenger verfahren wollte, die einmal zum Monopolisiren geneigten Kaufleute und Schilfer immer neue<pb n="12.351" xml:id="pbXII351"/> Mittel, mehr oder minder verstellte Manieren, das Gesetz zu umgehen, erfinden würden, um ihren Zweck zu erreichen, welche zu vereiteln, ohne wahre Gewaltthätis^keit, keine Gesetze noch Polizeiverfügungen hinreichen würden. Dem hier abgegebenen Gutachten zufolge, würde, den mir zweifelhaft gebliebenen Punkt ausgenommen, kein Antrag an des Königs Majestät nothwendig seyn, sondern das Königl. Handelsministerium würde bloss die Regierung zu Magdeburg nach dem Concluso des Staats-Ministerii, über die Art zu instruiren haben, welche Verfügung sie an den Verein ergehen zu lassen, und wie derselbe künftig zu behandeln und zu berücksichtigen habe, und gleichergestalt müsste dasselbe durch die Gesandtschaft in Hamburg die don zu treffenden Massregeln besorgen lassen.</p>
+
+               <p>Berlin, den -^o'^ August 1819. H.</p>
+
+               <p>XLII. Ueber Landwehrübungen. 1819.</p>
+
+               <p>(Eigenhändiger Entwurf in Tegel.)</p>
+
+               <p>Die Angelegenheit wurde in der Sitzung des Ministeriums vom 6. Oktober 181 g verhandelt und beschlossen: dass das von Se. Majestät in mehreren Befehlen wiederholt ausgesprochene Prinzip der Freiwilligkeit der sonntäglichen Uebungen der Landwehr aufrecht zu erhalten sei (Protokoll der Staatsministerialsitzung). Das folgende Votum Humboldts ist im Protokoll mit aufgenomiyien.</p>
+
+               <p>Auf diese Weise scheint mir diese Sache nach dem bisher abgegebenen ^^otis und den vorhandenen gesetzlichen Bestimmungen zu liegen.</p>
+
+               <p>Im Allgemeinen hält es der Staatsminister Freiherr v. Humboldt für äusserst wichtig, und für das Landwehr-Institut wesentlich dass in demselben noch einige Freiwilligkeit übrig bleibe, und diese noch bestimmter, als in dem §. 57 der Landwehrordnung<note type="footnote" n="*)" resp="gnd-116890657"><hi>§ si &lt;^^^ Landwehrordnung vom 21. November 1815 heißt: „Auf welche Art ohne Beeinträchtigung der Gewerbe nach den Lokalverhältnissen es möglich seyn dürße, einen Theil der Sonntags-Nachmittage zu kleineren Uebungen in den Ergänzungsbezirken zu gebrauchen, dies bleibt dem Ermessen der Lokal-Behörden überlassen."</hi></note> ausgesprochen werde. Die Landwehr hat allerdings die Bestimmung, im Kriege</p>
+
+               <pb n="12.352" xml:id="pbXII352"/>
+            </div>
+
+            <div type="section" n="3">
+               <head>
+                  <title type="main">OD-</title>
+               </head>
+               <p>einen Theil der Armee auszumachen, nicht minder aber auch die gleich wichtige den Bürger des Staats, auch insofern er nicht eigentlich Soldat ist, an die Erfüllung der Pflicht der Vaterlands- vertheidigung zu gewöhnen. Auf dieser Gesinnung, aus welcher ein Heer wahrhaft vaterländischer Krieger hervorgehe, beruhe das ganze Landwehr-Institut. Mit Strafe verknüpfter Zwang zu jeder Uebung der Landwehr, untergrabe diese ihre Basis, und es sei hart, wenn derjenige Theil des Volks, der sieben (?) Tage hindurch dem Zwange der Arbeit unterworfen gewesen, nun am einzigen Erholungstage wieder in den Zwang des Exercierens falle.</p>
+
+               <p>Die Vorschläge des Staatsministers Freiherr v. Humboldt sind :<note type="footnote" n="1)" resp="gnd-118554727"><hi>gesetzliche Bestimmung: a) dass von nun an die Uebungen des ersten Landwehr-Auf- gebots immer nur i4tägig sein sollen, dagegen aber b) in den sechs Sommermonaten jeder Landwehrmann wenigstens an Einer der freiwilligen sonntäglichen Uebungen Theil nehmen muss; c) ausserdem alle, welche noch nicht gedient und nicht anderweitig exercieren gelernt haben, vier Wochen vor der ge- wöhnlichen Exercierzeit eingezogen und geübt werden. 2) Dringender Befehl an alle Regierungen, die freiwilligen Sonntagsübungen zu befördern.</hi></note><note type="footnote" n="3)" resp="gnd-118554727"><hi>Nicht weitere Publikation der bemerkten Cabinets-Ordre vom 24. Mai*) d. J., sondern</hi></note><note type="footnote" n="4)" resp="gnd-118554727"><hi>sogleich Immediatbericht zur Vollziehung der vorgeschlagenen gesetzlichen Bestimmungen.</hi></note></p>
+
+               <p>Was die Strafen betrifft, so lasse sich, ehe nicht die Arbeit über die Militär-Gesetzgebung vollendet sei, darüber nichts be- stimmen. Geldstrafen wären nicht angemessen; der Freiherr v. Humboldt wirft daher die Frage auf, ob es einstweilen nicht genügen möchte: dass widerspenstige Landwehrmänner zum Exercieren ab- geholt würden, und dann die Freiwilligkeit der Uebungen für sie auf eine gewisse Zeit aufhörte?</p>
+
+               <p>*j Diese Kabineüsordi-e an Schuckmann und Boyen bestätigt und empfiehlt zur weitern Anwendung yxach Maßgabe der Verhältnisse in den andern Provinzen ein Publikandum des Generalleutnants v. Hacke und des Oberpräsidenten</p>
+
+               <pb n="12.353" xml:id="pbXII353"/>
+               <p>XXXIX — XLIII. Aus der Ministerialzeit. 1819. oco</p>
+            </div>
+
+            <div type="section" n="4">
+               <head>
+                  <title type="main">XLIII. „UeberdieheiderVertheidigung der deutschen</title>
+               </head>
+            </div>
+
+            <div type="section" n="5">
+               <head>
+                  <title type="main">Bundesstaaten im Fall eines Angriffs von aussen her</title>
+               </head>
+            </div>
+
+            <div type="section" n="6">
+               <head>
+                  <title type="main">vorkommenden politischen Fragen."</title>
+               </head>
+               <p>(Eigenhändiges Konzept und Abschrift in Tegel.)</p>
+
+               <p>In dieser ganzen abzuhandelnden Materie ist bloss der Punkt der Theilnahme des Bundes an Kriegen schwierig, die in ausser- deutschen Besitzungen von Bundesmitgliedern, und aus Ursachen, die dem Bund fremd sind, anfangen.*)</p>
+
+               <p>Um denselben gründlich zu erörtern, muss man die Bestimmungen der Bundes-Akte mit der geographischen und politischen Lage Deutschlands zusammennehmen. Der Bund hat, bei einem Angriff auf ausserdeutsche Besitzungen eines Bundesmitgliedes , vermöge eines doppelten Verhältnisses, auch eine doppelte A^erpliichtung, nemlich: von Sachsen v. Ingersleben, v^orin festgesetzt wird, daß jeder Landwehrmann den Übungen beiwohne oder sich Urlaub erbitten müsse. Wer ohne Befolgung dieser Vorschrifi ausbleibt, wird zuerst rnit i — 2, dann mit 8 Tagen Dienst ohne Löhnung bestraft.</p>
+
+               <p>*j In der Abschrift ist der ganze folgende Abschnitt gestrichen : „In diesem aber könnte man beiden Aufsätzen mehr Klarheit und Bündigkeit wünschen.</p>
+
+               <p>In den Resultaten stimmen beide darin überein, dass der Bund weder an ausserdeutschen Streitigkeiten Theil zu nehriien verpflichtet, noch von der Verpflichtung, bei solchen die deutschen Besitzungen des kriegführenden Mitglieds zu vertheidigen, entbunden seyn soll. Auch darin würde wohl Oesterreich mit Preussen einverstanden seyn, dass es vom Bunde abhängen muss, zu beurtheilen, ob bei solchen Kriegen die deutschen Staaten bedroht sind? und dass er, im Fall er sie nicht bedroht glaubt, nichts zu thun braucht.</p>
+
+               <p>Bei dem eintretenden Vertheidigungsfall ist aber die Preussische Meynung wirksamer und praktischer, als die Oesterreichische. Preussen will alsdann volle Theilnahme an Kriegen in und ausser Deutschland, off- und defensiv. Oester- reich begnügt sich mit buchstäblichem Besetzen des Landes, welches Preussen mehr für ein Hinderniss, als eine Wohlthat hält. Ob Preussen die Art von Ver- theidigung zulassen würde, wo der Bund Sicherstellimg der deutschen Besitzungen beim Feinde suchte, und dadurch gewissermassen gegen diesen die Entreissung der ausserdeutschen zugäbe, lässt sich bezweifeln.</p>
+
+               <p>Dass der Bund noch aus einem andern Grunde, als dem, dem angegriffenen Bundesgliede beizustehen, Verpflichtung haben kann, die Waffen zu ergreifen, übergehen beide Aufsätze, wenigstens in den endlichen Bestimmungen, obgleich in den Motiven der Preussische davon spricht.<note type="footnote" n="1)" resp="gnd-118554727"><hi>nach Artikel 1 1 *) der Bundes-Akte die Deutschen Besitzungen des Angegriffenen zu beschützen, und ihm zu bewahren.</hi></note><note type="footnote" n="2)" resp="gnd-118554727"><hi>nach Artikel 2**) der Bundes-Akte den ganzen Complexus des Bundes gegen die aus einem solchen Angriff demselben drohende Gefahr zu schützen. Bei dem Ersten steht dem angegriffenen Bundesgliede der übrige Bund gegenüber; die Verpflichtung ist eine vollkommene und absolute, die nicht verweigert werden kann, und sogar ganz erfüllt werden muss, welches auch die Folgen seyn möchten. Dagegen kann auch der Angegriffene nicht mehr als Erhaltung seiner deutschen Besitzungen fordern. Nicht seine Existenz, als Macht, nur jene Provinzen, nur ihr Besitz, ist ihm garantirt. Bei dem Zweiten stehet der Bund mit dem Angegriffenen zusammen; man berathschlagt nicht für diesen, sondern jeder be- rathschlagt für sich selbst. Hier hat also die Erfüllung des Artikels der Bundes-Akte einen andern Charakter; die Berathung ist freier, man thut, was man für nothwendig und rathsam hält ; der Zweck hat aber gar keine Beschränkung, man muss den ganzen Bund, und auf alle Folgezeit hin sicherstellen. Wenn daher der erfolgte, oder bevorstehende Angriff auf eine ausserdeutsche Besitzung eines Bundesgliedes von demselben angezeigt wird, so hat der Bund nicht bloss zu berathen: ob aus diesem Angriff auch einer auf seine deutschen Besitzungen zu befürchten seyr sondern auch, und ganz vorzüglich ob aus demselben nicht ein politischer Zustand hervorgehen könne, welcher die Sicherheit des gesammten Bundes bedrohe? Der Unterschied ist sehr wichtig. Bei einem Angriff auf Belgien könnte man sehr leicht mit Recht finden, dass Luxemburg *J Er lautet : „Alle Mitglieder des Bundes versprechen, sowohl ganz Deutschland als jeden einzelnen Bundesstaat gegen jeden Angriff in Schutz zu nehmen, und garantiren sich gegenseitig ihre sämmtlichen, unter dem Bunde begriffenen Besitzungen. Bei einmal erklärtem Bundeskrieg darf kein Mitglied einseitige Unterhandlungen mit dem Feinde eingehen, noch einseitig Waffenstillstand oder Frieden schliessen. Die Bundesglieder behalten zwar das Recht der Bündnisse aller Ai-t, verpflichten sich jedoch, in keine Verbindungen einzugehen, welche gegen die Sicherheit des Bundes oder einzelner Bundesstaaten gerichtet wären." **) Art. 2. Zweck des Bundes. „Der Zweck desselben ist: Erhaltung der äusseren und inneren Sicherheit Deutschlands, imd der Unabhängigkeil und Unverletzbarkeit der einzelnen deutschen Staaten."</hi></note></p>
+
+               <pb n="12.354" xml:id="pbXII354"/>
+               <pb n="12.355" xml:id="pbXII355"/>
+               <p>nicht gerade in Gefahr l&lt;ommc, und bei einem auf Preussen und Posen, dass darum der Feind nicht auch in Deutschland eindringen werde. Aber niemand kann abläugnen , dass in beiden Phallen, im ersten durch die Stellung Frankreichs, im zweiten durch die Schwächung Preussens, und dadurch, dass die deutsche Gränze dann nicht mehr durch vorliegende Provinzen einer Bundes- macht gedeckt ist, auch Deutschlands äussere Sicherheit Gefahr läuft, und dass daher der Artikel 2 der Bundes -Akte erfüllt werden muss.</p>
+
+               <p>Fände der Bund auch unabhängig von eigner Gefahr, dass die deutschen Besitzungen eines Bundesgliedes durch den Angriff bedroht würden , so müsste jetzt bei Abfassung der organischen Gesetze festgesetzt werden, dass er nur dergestalt sich seiner Verpflichtung, sie zu beschützen, entledigen könnte, dass er an dem ganzen Kriege Theil nähme.</p>
+
+               <p>Strenge fordern kann zwar der Angegriffene nur, dass seine garantirten Provinzen geschützt werden, und es Hesse sich vielleicht behaupten, dass, w^enn der Bund übernähme dies durch Besetzung derselben zu leisten, oder vom Feinde Sicherheit, sie nicht anzugreifen leisten Hesse, der Angegriffene sich, buchstäblich genommen, damit begnügen müsse. Es ist aber offenbar, dass dies kein vollständig, redlich und bundesmässig geleisteter Schutz wäre. Ein solcher ist nur der, w^elcher durch Theilnahme am ganzen Kriege zum Frieden zwingt. Da jeder Angegriffene den reellen und unfehlbaren Schutz fordern kann, so kann er auch nicht davon ausgeschlossen werden, selbst über die Mittel, aus w^elchen dieser Schutz hervorgehen soll, mit zu entscheiden. Die Bundes-Akte selbst setzt diese Mittel nicht fest, und es ist daher der Sicherheit aüer, und der gegenseitigen Gesinnung, keinen fallen zu lassen, angemessen, diese Lücke in ihr auf eine Weise auszufüHen, welche der Verpflichtung aller Genüge leistet. Dies thun nun offenbar die beiden angeführten Wege nicht. Beide bestehen in nichts anderem , als in einem wahren Colludiren des Bundes mit dem Feinde des einzelnen Bundesgliedes, beide geben den Bundesstaat als auswärtigen Staat auf, um ihn als Bundesstaat zu erhalten. Der Zvv'ang, den derselbe bei beiden Voraussetzungen mit seiner Kriegführung erfährt, dient dem Feinde unläugbar zum Vorschub, und indem dem Bedrohten augenblicklich seine deutschen Besitzungen gesichert werden, verliert er die Kräfte, sie selbst und Deutschland künftig mit Nachdruck zu vertheidigen. Auch miii<pb n="12.356" xml:id="pbXII356"/>tärisch ist es eine durchaus unstatthafte Idee, Provinzen gerade da zu schützen, wo sie liegen. Der Schutz muss aus der Ivrieg- führung im Ganzen hervorgehen, und kann sehr oft durch einen Angriff, und einen Angriff auf einen ganz andern Punkt, als der geschützt vv'erden soll, wirksam gewahrt werden.</p>
+
+               <p>Beschliesst der Bund, dass er keinen Schutz leisten will, weil die Provinzen nicht bedroht sind, so bleibt er dem Bedrohten verantwortlich, wenn dieser doch auch in den deutschen Pro- \inzen wirklich angegriffen wird, und muss ihm das Entrissene auf jede Weise wieder verschaffen.*) Die Berathung über die Gefahr, die aus dem Angriff ausserdeutscher Besitzungen für den Bund selbst entsteht, ist an sich eine politische, und der gleich, welche jeder einzelne Staat für sich anzustellen hat, wenn sein Nachbar, dem er zum Beistande nicht vertragsmässig verpflichtet ist, von einem Dritten angegriffen wird. Nur kommt im Bunde die vertragsmässige Forderung hinzu, die jedes Mitglied an das andere machen kann, dass dasselbe diese Frage nicht in Rücksicht seiner Privatconvenienz, sondern nach seiner Verbindlichkeit, den ganzen Bund zu vertheidigen, berathe und darüber beschliesse.</p>
+
+               <p>Dieser Punkt ist offenbar der wichtigste. Der Einzelne lässt sich nur mit dem Ganzen, das Ganze nur m.it dem Einzelnen wahrhaft vertheidigen. Giebt der Bund zu, dass eines seiner Glieder, die auswärtige Besitzungen haben, aus ihrem politischen Standpunkte in Europa heraussinken, so trägt er den Keim seines Verderbens, und seines Unterganges in sich. Ein schlauer auswärtiger Feind wird nie ihn im Ganzen und geradezu angreifen, er wird sich immer bloss gegen ein Bundesglied wenden, er wird die Unlust, dieses wirksam zu schützen, wenn sie vorausgesetzt werden könnte , geschickt benutzen , und das Ganze wird zuletzt das nicht unschuldige Opfer bleiben.</p>
+
+               <p>Hierbei kommt nun aber gar sehr die Frage in Betrachtung, inwiefern der Bund dem Umstände, ob der Bedrohte ohne, oder</p>
+
+               <p>*J Hier folgt der gestrichene Absatz: „Was von der Minorität im Preussischen Aufsatz gesagt ist, ist in sich ganz richtig, und steht auch, nur mit andern Worten, im Oesterreichischen. Man muss es nur anders ausdrücken, und sagen: der Beschluss per majora, nicht Hülfe zu leisten, verhindert kein einzelnes Glied des Bimdes sich demnach mit dem Angegriß'enen zu verbünden. Dies ist in der Bundes-Akie gegründet, und auf diese Weise verliert die Bestimmung das Choquante, dass die Minorität sich gegen die Majorität zu erheben scheint "<pb n="12.357" xml:id="pbXII357"/> mit seiner Schuld angegriilen wird? oder üb er selbst vielleicht angreifender Theil ist? EinÜuss auf sein Benehmen erstatten darf?</p>
+
+               <p>Hier nun scheint offenbar, dass er weder sich gar nicht um diese Frage bekümmern darf, noch dass er sich gewissermassen zum Schiedsrichter, oder hewafneten Vermittler bei jeder Streitigkeit, die zu einem Kriege zu führen droht, aufwerfen darf. Man muss nothwendig suchen einen Mittelweg zu finden, welcher die Selbständigkeit der Bundesgliedcr, auch gegen auswärtige Mächte, mit den Rechten einer gesellschaftlichen Verbindung vereinigt, in der es natürlich ist, dass sie nicht zu leiden braucht, dass einer der Verbündeten sie offenbar muthwillig in fremde Händel stürze. Ein solcher Mittelweg scheint folgender.</p>
+
+               <p>Bei jeder Streitigkeit dieser Art kann und muss der Bund, sowohl auf Antrag einer der beiden Partheien, als ex officio, seine \'ermittlung antragen. Wird sie nicht angenommen, so kann und muss er, wenn er glaubt, dass das in dem Streit befangene Bundesglied Unrecht hat, diesem Vorstellungen machen, und ihm zeigen, wohin es führen kann, wenn den Vorstellungen nicht Gehör gegeben wird. Wird indess auch alles Gehör versagt, so kann kein Grad des Unrechts, und wenn das betroffene Bundesglied auch geradezu angreifender Theil wäre, den Bund zur Neutralität berechtigen, d. h. zur Erklärung, dass er auch die deutschen Besitzungen dieses Bundesgliedes unbeschüizt lassen werde. Denn eine solche Neutralität wäre unmittelbar auch eine Verletzung der Sicherheit des Ganzen, und daher gegen den x\rt. 2. der Bundes-Akte.</p>
+
+               <p>Dagegen ist der Bund in solchem Fall berechtigt, gegen ein solches Bundesglied selbst die Waffen zu ergreifen, und es mit Gewalt zu zwingen, von seinem^ Vorhaben, Krieg zu beginnen, oder sich durch seine Schuld zuzuziehen, abzustehen. Hierzu gehört aber schlechterdings, dass das Bundesglied, gegen welches es so zu verfahren erlaubt seyn soll, dem auswärtigen Staate ein klares und unbestreitbares Recht versage, oder ihm ein offenbares Unrecht zufüge, und das eine oder andere muss wenigstens von -.3 der grossen Versammlung anerkannt seyn. Wenn der be- drohte Bundesstaat beschuldigt wird, selbst angreifender Theil gewesen zu seyn, so muss die Idee des Angriffs gehörig bestimmt und berichtigt, und wohl erwogen werden, dass nicht gerade der zuerst angreift, der zuerst das fremde Gebiet besetzt, sondern dass der wahre erste Angriff Verletzung der Rechte ist, verbunden<pb n="12.358" xml:id="pbXII358"/> mit klar geäusserter Absicht dieselbe mit gewafneter Hand ver- theidigen zu wollen.</p>
+
+               <p>Die Gewalt des Bundes gegen den Bundesstaat, welcher sich durch seine Schuld in einen Krieg verwickelt hätte, dürfte auf der andern Seite auch nicht weiter gehen, als denselben zu zwingen, von seinem Unrecht abzustehen, und es gut zu machen, und dieselbe, sowie das ganze Verfahren muss von Anfang an zugleich vermittelnder Natur seyn, und immer zugleich auf die in der Streitigkeit befangene auswärtige Macht wirken, und diese im äussersten Fall sogar nöthigen, sich jedes gewaltthätigen Schrittes zu enthalten, und ihm zu überlassen, den Gegentheil zur Genug- thuung zu bewegen.</p>
+
+               <p>Auf eben diese Weise kann der Bund gegen einen Bundes- staat verfahren, welcher Europäische Macht ist, und als solche einen Krieg beginnen will, der dem Bunde Gefahr droht. In diesem Fall handelt der letztere nach dem Rechte, welches jedem selbständigen Staat zusteht, seine Sicherheit auch indirekt durch Beschränkung an sich erlaubter, aber ihm dringend gefährlicher Handlungen zu erhalten. Auf diese Weise dürfte der Bund, mit Fug und Recht gegen die Niederlande handeln, wenn diese durch einen Krieg mit Frankreich Deutschland der Gefahr aussetzten, dass Belgien an Frankreich zurückfiele.</p>
+
+               <p>Dies hier entwickelte System scheint mir bei weiten dem bisher zur Sprache gekommenen vorzuziehen zu se3'n. Halber Schutz und halbe Vertheidigung sind gar keine, und ein Vermittler, der nicht dem Streit ein Ende machen, sondern nur Eine Art von Gefahr abwenden will, ist unbequemer für den Angegriffenen, und dem allgemeinen Interesse der Herstellung des Friedens nachtheiliger, als der Feind selbst. Der Bund muss den Bedrohten wahrhaft schützen, und dazu soweit Mittel anwenden, als in jedem Fall nöthig sind, er muss darin und in der Art auch dem zuerst angegriffenen Theile, auf dem doch immer die Hauptkriegführung liegt, mehr folgen, als ihm durch eigenmächtiges Handeln Hem- mungen entgegen setzen. Allein wenn er eine so wirksame, wahre bundesmässige, ehrliche Hülfe gewährt, so mag er auch selbst das Recht und Unrecht prüfend entscheiden, und den Bundesstaat selbst feindselig behandeln, der durch muthwillige Kränkung fremder Rechte ihn in Gefahren verwickeln will.</p>
+
+               <p>Könnte man bei den jetzigen Unterhandlungen dies System nicht vollständig durchsetzen, und festbedingt aussprechen lassen,</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

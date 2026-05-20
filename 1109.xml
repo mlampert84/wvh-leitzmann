@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Über die diplomatischen Verhandlungen in Frankfurt a. M</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Elfter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif11humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1904">1904</date>
+                  </imprint>
+                  <biblScope unit="page" from="90" to="94"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="fr">Français</language>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="11.90" xml:id="pbXI90"/>
+            <head>
+               <title type="main">XXV., XXVI. Über die diplomatischen Verhandlungen in Frankfurt a. M.</title>
+            </head>
+            <p>(Eii^enfiJnJiges Sclircibcn und Dcnksclirift im Geh. Staatsarchiv.^</p>
+
+            <p>Seit dem 7. November iSij weilte Humboldt in Frankfurt a. M. Dort fanden wichtif^e, wenn auch schließlich resultatlose Verhandlungen statt. Napoleon hatte durch den bei Leipzig gefangenen österreichischen General Merveldt in formloser Weise dem österreichischen Hofe Friedensanerbietungen gemacht; Metternich cnviderte diesi', indem er dem Baron St. Aignan, bisher französischer Gesandter in \]'eimar, seine Ansichten mitteilte. Dieser zeichnete den Inhalt der Unterredung auf und überbrachte das Schriftstück, nachdem es die Billigung Metternichs und Lords Aberdeen gefunden hatte — fälschlich erklärte ersterer auch Hardenbergs Zustimmung — , dem französischen Kaiser fii. Nov.). Am rd. Novetnber antwortete der Herzog von Bassano auf den Bericht St. Aignans und schlug Mannheim als Stadt des beabsichtigten Kongresses vor, ohne aber seines Herrschers Zustimmung zu den vorgeschlagenen Bedingungen zu erklären. So ging der Briefwechsel noch weiter, ohne zu einem Ergebnis zu führen. Zu gleicher Zeit hatte Metternich eine Proklamation an das ß-anzösische Volk ent- werfen lassen, die er am 7. Dezember veröffentlichte. Über diese Vorgänge äußert sich Humboldt in den folgenden Schriftstücken.</p>
+
+            <p>W\ . An Hardenberg. 4. Dezember 1813.</p>
+
+            <p>Je remercie intlniment \'otre Excellence de la communication qu'Elle a daigne me faire. Mais c'est avec regret que je dois avouer que je me promets bien peu d'effet de cette demarche, et que je crois meme que la piece auroit du etre autrement concue et redigee.</p>
+
+            <p>II ^toit certainement tres sage de faire connoitre ä la Nation Francoise que les Puissances alliees veulent la paix, qu'elles ne veulent point imposer ä la France des conditions qui ruinent son existence ou menacent son independance, et qu'on doit accuser uniquement Tambition de TP^mpereur Napoleon de la continuation de la guerre.</p>
+
+            <p>Mais, pour atteindre ce but, il auroit fallu faire des propositions</p>
+
+            <pb n="11.91" xml:id="pbXI91"/>
+            <p>Ol</p>
+
+            <p>I-a piecc actucllc mc scmblc trop vagiie; on dira toLijoiirs quc cc nc sont que des phrascs arrangc'cs cxprcs pour sdduirc la nation IVan^oise. (^alculdc entiercmcnl a nc ricn dirc de positif, eile doit, d'apres mon opinion, prc'cisc^ment man&gt;.|ucr son but par li\. l^lie contient meme des le cümmcncement une assertion qui n'cst poini cxacte. C]ar les ouvertiires faites par Mr. de St.-Aignan ne por- toient point un caractere vraimcnt ofliciel, et Napoleon ne conviendra jamais qu'il ait pii rcgarder cette demarche commc une Ncritable propositiun de paix. Si nc^antmoins eile doit Tetre, ne vaudroit-il pas micux d'en commun'k|iier aussi les conditions ä la nation Krancoise?</p>
+
+            <p>Je soiimets ces rcüexions au jugcment de \'otre Ivxcellencc; je n'ai pas pu me dispenser de les faire, puisqu']-!lle a vcnilu que je Lui parlasse avec franchise.</p>
+
+            <p>A l'Yancfort, ce | Dcccmbre, i-Si^. Humboldt. A S. K. Mr. le (^hancelier d'Ktat Baron de Hardenberi^ cct. cet. XW'I. De nksch ri l"t über die Frankfurter \' erb and 1 ungen. &lt;). Dezember 1X13.</p>
+
+            <p>Des que les Armees combinees avoient atteint le Khin, l'idee ,e faire des propositions de paix devoit se präsenter naturellement.</p>
+
+            <p>Cette demarche pouvoit avoir un des trois rdsultats suivans. Les propositions pouvoient amener la conclusion elVective de la paix; elles pouvoient conduire a un congres sterile: elles pouvoient entin etre rejettees simplement.</p>
+
+            <p>11 est difficile de se Hatter que TKmpereur Napoleon veuille i»uuscrire apresent a une paix teile que Texige la Situation actuelle de l'Europe, et les (]ours allides devoient eviter d'en venir a une n^gociation qui ne promet aucun succcs, puisque tonte n(^gociation paralyse toujours en quelque facon les op&lt;frations de la guerre en refroidissant Tardeurdes soldats et des nations, et puisqu'on n'auroit jamais empcche Napoleon de rejetter sur les Allies la laute de la non-reussite.<pb n="11.92" xml:id="pbXI92"/> et il V avoit moycn d'y reiissir par la manicrc de fixer les bases de la negociation fuiure.</p>
+
+            <p>(]es bases devoient ctre les pnints dcsquels on dtoit d^cid^ a ne pas s'^carter oii auxquels on ne vouloit pas touchcr, en ^ten- dant la n^gociation sur tous les auircs. (Ä)mme base. en prcnant le mot dans ce scns, il falloit poser le principe qif on n'en vouloit poini ni a Tindcfpcndance ni i\ Tinte^gritd de la France dans ses anciennes limites, qu'on demandoit Tindcpendance de l'Allemagne et de l'Italie. et qu'on adoptoit pleinement les quatre conditions de l'Angleicrre qui concernent TF^spagne, le Portugal!, la Sicile et les engagemens envers la Suede, enün que l'Anglcterre, pour faci- liter une pareille paix, restitueroit des Colonies ä la France. 11 auroit 6i6 bon d'ajouter a ces conditions celle de I'ind^'pendancc de la Hollande, pour etre plus sür d'arriver purement et simple- ment a Talternative ou du rejet des propositions ou d'une paix essentiellement bonne et solide.</p>
+
+            <p>Si l'Empereur Napoleon n'acceptoit pas ces bases, il falloit porter ä la connoissance du Public ces memes propositions. Les Cours alliees prouvoient alors ä la Nation Francoise qu'elles avoient voulu la paix sans aucune condition qui püt la blesser, et que l'Empereur l'avoit rejettee pour des motifs auxquels eile ne peut point prendre un interet vrai et reel.</p>
+
+            <p>D'apres ce raisonnement, il m'auroit semble mieux de ne point se senir du Comte de St.-Aignan pour porter des paroles de paix. Toute demarche clandestine avoit l'inconvenient que Napoleon etoit le maitre de la representer comme il vouloit; les Alliees ne pouvoient en general retirer de l'avantage que d'une bien ostensible.</p>
+
+            <p>Si neantmoins on vouloit faire les premieres ouvertures par ce canal, il auroit mieux valu, je crois, de munir le Comte de St.-Aignan d'une piece redigee par les Cabintts allies eux-memes et renfermant les bases de la n^gociation, ou de se borner ä faire connoitre simplement par lui a l'Empereur Napoleon quelles seroient les bases qu'on dnonceroit officiellement, s'il le demandoit. Dans ce dernier cas, il ne falloit point lui faire rediger de piece du tout, ou du moins eviter d'avoir l'air de l'approuver.</p>
+
+            <p>Lorsque le Duc de Bassano annonca*) que l'intention de</p>
+
+            <pb n="11.93" xml:id="pbXI93"/>
+            <p>Dans l'dtat aciiiel des choses la piece*) redigee par le (^&lt;jmie de St.-Aignan me semble faite pour amcncr, si d'auires circon- stanccs ne sy opposoient, prdcisdment le seul rdsiiltat bien d^&gt;agreablc pour les Onirs alli^es, celui d'ime n^gociation infriictu- eusc. (!ar celle piece est tcUement vagiie, telleinent inc&lt;m"»plette, lellement contestde enlin par les dilVerens Ministres d'Angleterre qui resident aiipres des(]()iirs alliees, qiie la negociation commcn*J Das Schriftstück lautet folgendermaßen : „Die verbündeten Mächte seien Aurch unauflösliche Bande vereinigt, welche ihre Stärke ausmachten, imd die von ihnen daher stets beibehalten werden würden. Die gegenseitigen Verpflichtungen, welche sie eingega/igen wären, bezögen sich nur auf die Stiftung eines allgemeinen Friedens. Zur Zeit des Kongresses zu Prag habe man nur an einen Frieden für das Festland denken können, weil die Umstände nicht die Zeit gewährten, sich behufs anderer Untersuchungen zu verständigen. Jetzt wären aber die Absichten aller Mächte tmd auch diejenigen Englands bekannt. Es sei daher nutzlos, jetzt noch einen Waffenstillstand, oder eine Unterhandlung zu wollen, welche flicht den allgemeinen Frieden zum ersten Grundsätze habe. Die verbündeten Souveräne wären über die .\facht und das Uebergewicht einverstanden, welche Frankreich in seiner Unverletztheit behalten solle, indem es sich auf seine natürlichen Grenzen beschränke, welche der Rhein, die Alpen und Pyrenäen bildeten. Der Grundsatz der Unabhängigkeit Deutschlands sei eine unerlässliche Bedingung; Frankreich brauche deswegen nicht auf den Einßuss zu verzichten, welchen jeder grosse Staat nothwendig auf einen Staat von geringerer Grösse ausübe, wohl aber auf jede &lt; iberherrschaft über Deutschland. Uebrigens sei es der Kaiser Napoleon, der die Zweckmässigkeit des Grundsatzes behauptet habe: Grossmächte müssten durch schwächere Staaten voneinander geschieden sein. Auf der Pyrenäenseite sei die Unabhängigkeit Spaniens tmd die \\'iedereinsetzung der alten Herrscherfamilie ebenfalls eine unerlässliche Bedingung. In Italien müsse Oesterreich eine Grenze haben, welche Gegenstand der Unterhandlimg sein werde. Piemont biete mehrere Linien, welche man erörtern könne, ebenso wie der italienische Staat, vorausgesetzt, dass er wie Deutschland unabhängig von Frankreich oder jeder andern Macht regiert werde. Selbst der holländische Staat bilde einen Gegenstand der Unter- h.mdlung, jedoch müsse man dabei stets von dem Grtmdsatze seiner Unabhängif;- keit ausgehen. England wäre bereit, die grössten Opfer für einen auf diesen Grundlagen beruhenden Frieden zu bringen, und die Freiheit des Handels und der Schiffahrt, auf welche Frankreich berechtigten Anspruch habe, anzuerkennen.''</p>
+
+            <p>„Wenn diese Grundsätze eines allgemeinen Friedens durch Se. Majestät ge<pb n="11.94" xml:id="pbXI94"/>ceroit neccssaircmcni par une disciission sur la naiure des bases. tandis que la seiilc iiiilitd quc prescntc la tixation de bases, est Celle que la ccrtitude de s'entendrc sur quelques points fait csperer qu'on conviendra aussi sur les auires.</p>
+
+            <p>La demarche faite par le (lomtc de St.-Aignan a encore cela de tacheux quc, sans etre oflicielle, eile en porte pourtant en quel- que facon Ic caractere et que, par cette raison, il est meme diflicilc de dire si les Cours allides ont fait ou n'ont point iait veri- tablement des propositions de paix a Napoleon, ce qui est tres imponant, lorsqu'on veut agir sur Tesprit de la nation Francoise.</p>
+
+            <p>Quant ä la proclamation*) par laquelle on veut atteindre ce but, je crains qu'elle ne le manque. II y a une dilVerence extreme entre faire connoitre au Public des bases d'une negociation, et lui soumettre une piccc vague et qui n'exprime qu'en general les intentions des puissances. Des bases sont comprises par chacun, il suftit qu'un seul les connoisse pour qu'elles se communiquent ä mille autres; au Heu qu'une piece raisonnee n'est bien pesee et comprise que par un petit nombre d'individus, qu'elle ne peut (itre lue, sans etre jugee, et que le jugement que chacun en porie,</p>
+
+            <p>* Sie ist datiert Frankfurt, den i. Dezember i8ij, und lautet: „Die fran- zösische Regierung hat soeben eine neue Aushebung von ^ooooo Mann zum Kriegsdienste beschlossen. Die Begründung dieses Senatsbeschlusses schliesst eine Herausforderung der verbündeten Mächte in sich. Dieselben ßnden sich dadurch veranlasst, von neuem im Angesichte der Welt die Absichten zu verkünden, von denen sie in dem gegenwärtigen Kriege geleitet sind, sowie die Grundsätze, welche die Beweggründe ihres Benehmens, ihrer Wünsche, ihrer EntSchliessungen bilden.</p>
+
+            <p>„Die verbündeten Mächte bekriegen nicht Frankreich, sondern das laut beanspruchte Uebergewicht, welches der Kaiser Napoleon nur zu lange ausserhalb des Herzens seines Reichs zum Unglücke Europas und Frankreichs ausgeübt hat. Der erste Gebrauch, welchen Ihre kaiserl. u. königl. Majestäten von dem Siege machten, bestand darin, Sr. Majestät, dem Kaiser der Franzosen, den Frieden anzubieten. Ihre durch den Beitritt aller Souveräne und Fürsten Deutschlands verstärkte Stellung hat keinen Einßuss auf die Bedingungen des Friedens gehabt. Diese Bedingungen haben die Unabhängigkeit der andern Staaten Europas zum Zweck. Die Absichten der Mächte sind gerecht in Bezug auf ihren Gegenstand, grossmüthig und freisinnig in ihrer Anwendung, zufriedenstellend, ehrenvoll jür alle Theile.</p>
+
+            <p>„Die verbündeten Mächte werden die Waffen nicht niederlegen, bevor sie dieses grosse und heilsaiyie Ergebniss, dieses edle Ziel ihrer Anstrengungen er- reicht haben. Sie werden ihre Waffen nicht niederlegen, bevor nicht der politische</p>
+         </div>
+      </body>
+   </text>
+</TEI>

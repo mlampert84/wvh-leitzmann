@@ -1,0 +1,691 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tagebuchnotizen von 1794</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Vierzehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif14humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1916">1916</date>
+                  </imprint>
+                  <biblScope unit="page" from="237" to="257"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1794">1794</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="14.237" xml:id="pbXIV237"/>
+            <head>
+               <title type="main">4</title>
+            </head>
+            <div type="section" n="1">
+               <head>
+                  <title type="main">Tagebuchnotizen von 1794.</title>
+               </head>
+               <p>Januar. In Burg Oerner. 1 . Bote nach Halle. Brief an *Wolf, <note type="footnote" n="^)" resp="gnd-116890657"><hi>Friedrich August Wolf (i^sg — 1824), Professor der Philosophie, Päda-</hi></note> mit 2 Hunden. (Brief an Meckel.)'') 2. Wagen von Berlin. 3. Brief von Wolf, an Wolf, an Papa. ^) (Brief von Meckel, an Schumacher, an die Segner, an Papa, an Ernst.)<note type="footnote" n="*)" resp="gnd-116890657"><hi>Philipp Friedrich Theodor Meckel (i^sö — 180^), Professor der Chirurgie und Gynäkologie in Halle.</hi></note> 4. Brief von Papa, von Heyne,^) von Kunth^) mit Geld. (Brief von Papa, von Karolinen.) ') Wunderlich den Mittag hier, kam Meckel. Brief an Kunth, an Minetten, <note type="footnote" n="*)" resp="gnd-116890657"><hi>Karolinens Bruder, Ernst von Dacheröden (1J64—1806), das Bild oder Sternbild des humboldtschen und lengefeldschen Briefwechsels.</hi></note> an Tante König. Handschriß im Archiv in Tegel: Tägliches Taschenbuch für alle Stände für das Jahr ijg4 (Basel, bei Thurneysen ; Gotha, bei Ettinger). Die Einträge für jeden Tag, auch die einzelnen Briefe, sind durchnumeriert. Die Notizen über Humboldts Korrespondenz gebe ich ohne Klammern, die über die Korrespondenz Karolinens in Klammern; in der Handschrift sind die letzteren unterstrichen. Die im Original erhaltenen Briefe, gleichgültig ob sie gedruckt oder noch ungedruckt sind, bezeichne ich mit Sternchen. Weitere Jahrgänge des Taschenbuchs sind nicht erhalten (vgl. aber Schillers Briefe 4, S90J. gogik und Beredsamkeit in Halle, seit dem Herbst i-]g2 in enger Verbindung mit Humboldt. ') Karolinens Vater, Karl Friedrich Freiherr von Dacheröden (ij^i — i8ogJ, preussischer Kammerpräsident ausser Dienst in Erfurt. ^j Vgl. oben S. 2j Anm. ß. *) Gottlob Johann Christian Kunth {i']Sl — i82g), Assessor am Kommerzkollegium in Berlin, der Erzieher der Brüder Humboldt, mit denen er Zeitlebens eng befreundet blieb. ') Karoline von Beulwitz; vgl. oben S. g4 Anm. j. *) Minette von Holwede, eine Cousine Humboldts : vgl. Wilhelm und Karo- line von Humboldt i, jj.</p>
+
+               <pb n="14.238" xml:id="pbXIV238"/>
+               <p>5. reiste Meckel ab. Brief von Gerhard. <note type="footnote" n="^)" resp="gnd-116890657"><hi>Josef von Baader (iJö^—iS^sJ, der Bruder des Philosophen. y David Friedländer (iy^o—i8j4j, Kaujmann und Vorsteher der jüdischen Freischule in Berlin, ein Schüler Mendelssohns und engerer Freund Humboldts.</hi></note> 6. Vormittag kam Gerhard und Bader ^} zu uns. Nachmittag fuhren wir auf die Hoheit zu Gerhard.</p>
+
+               <p>7. reiste Bader wieder fort. Brief von Wunderlich. 8. (Brief von Schuhmacher.) Briei vonMeschker, an Meschker. 9. Musenalmanach von Bader.</p>
+
+               <p>IG. Brief von Friedlaender , ^) von Wunderlich, an Kunth, an *Wolf, an Wunderlich, an Alexander. (Brief an Papan, an Carolinen.)</p>
+
+               <p>11. (Brief von Papan, von Lotte Borch.) Brief von Alexander. 12. ass Giebelhausen den Mittag bei uns.</p>
+
+               <p>13. gieng das Kind<note type="footnote" n="*)" resp="gnd-116890657"><hi>Christian Gottfried Körner {iyß6—i8_3i), Oberkonsistorialrat in Dresden, Schillers Freund, dem auch Humboldt im Herbst lyg^ nahe getreten war.</hi></note> zum erstenmal allein. 14. Brief von Schneider,^) an Wunderlich, an Alexander, an Bader mit dem Almanach. (Brief an Papa, an Schuhmacher, an Meschker.) ass der Amtmann den Mittag hier.</p>
+
+               <p>15. Brief von Minetten, mit Marcipan, von Wolf. 17. (Brief an die Krosigck, an Fräulein Wedell, an Papan, an Fräulein BurgsdorfF.) Brief an *Wolf, an Hemmerde,*') an den Coadjutor, ^) an Gessler,^) an *Körner.^) Bote nach Halle. (Brief von der Krosigk, von Fräulein Wedell.)</p>
+
+               <p>18. (Brief von Papa.) Brief von Mecklenburg, i'^) von Wolf, von Hemmerde, assen den Mittag der Amtmann und Einicke hier. Bote von Halle zurück.</p>
+
+               <p>V Ein Freund von Karl Laroche: vgl. Wilhelm und Karoline von Humboldt I, i6j. 200.</p>
+
+               <p>*■) Humboldts älteste Tochter Karoline {i']g2 — i8ß']}.</p>
+
+               <p>') Johann Gottlob Schneider {ijso — 1822), Professor der Beredsamkeit in Frankfurt an der Oder.</p>
+
+               <p>•') Buchhandlung in Halle, damals von der Wittwe Karl Hermann Hemmerdes zusammen mit Schwetschke geführt.</p>
+
+               <p>') Dalberg: vgl. oben S. 41 Anm. i. ') Karl Graf Gessler {ij^4—i82g), preussischer Gesandter in Dresden, Körners naher Freund.</p>
+
+               <p>'°) Franz Philipp Christian Mecklenburg , ein göttinger Studienfreund Humboldts: vgl. Humboldt an Henriette Herz, 14. Februar i'jSg.</p>
+
+               <pb n="14.239" xml:id="pbXIV239"/>
+               <p>iq. Brief an *\Volf, an Hemmerde mit 46. Thalern 18. Groschen. 21. (Brief von Aleschker, von Schuhmacher, an Papan.) Brief an Hawkins M nach Zante, an Alexander, an Papan.</p>
+
+               <p>22. (Brief von Papan, an Schuhmacher, an Meschker, an Fräulein von Hühnerbein.)</p>
+
+               <p>23. (Brief von Fräulein von Hühnerbein.) habe ich das Lesen des Pindar geendigt.</p>
+
+               <p>24. ass der Amtmann den Mittag hier, kam D. Bader zu Mittag zu uns. Laufzettel nach Eisleben. Brief an den Postmeister in Sangerhausen.</p>
+
+               <p>25. Bote nach Sangerhausen, und Eisleben, reiste Bader fort. Brief vom Sangerhäusischen Postmeister, an denselben, von Alexander. Abbestellung nach Eisleben.</p>
+
+               <p>26. Bote nach Sangerhausen und Eisleben. Brief an Kunth, an Spalding -) mit Morcheln, an *Brinckmann, ^) an Meckel mit 6. Friedrichsd'or, an Wolf, an Wunderlich, von Hemmerde, vom Postmeister in Sangerhausen.</p>
+
+               <p>27. von Burg Oerner bis Artern gereist — 5 Meilen. 28. von Artern bis Erfurt gereist — 5 Meilen, werden auch 6 gerechnet. Brief von Mama, von Kunth, von Hertzberg. <note type="footnote" n="*)" resp="gnd-116890657"><hi>Vielleicht John Hawkins {ijs8 — 1841), der längere Zeit in Griechenland gereist ist.</hi></note> im Schlehendorn geschlafen. (Brief von Ernst.)</p>
+
+               <p>29. zum Coadiutor in die Statthalterei gezogen. 30. Brief an Alexander, nach Baireuth, nach Steeben, von Alexander. (Brief von Carolinen.) Visitenfahren. Souper beim Coadjutor.</p>
+
+               <p>31. war eine Sonnenfinsterniss, die aber wegen des trüben Wetters so gut, als gar nicht sichtbar wurde.</p>
+
+               <p>Februar.</p>
+
+               <p>1. Souper bei Papa. (Brief an Madame Friedheim.)</p>
+
+               <p>2. Brief an Mama, an Fraenckel. Souper bei der Generalin.^)</p>
+
+               <p>") Karl Gustaf von Brinckmann [1^64 — 184-]), schwedischer Legationssekretär in Berlin, mit Humboldt eng befreundet: vgl. ebenda i, 418; Euphorion 14, ^66Anm.</p>
+
+               <p><note type="footnote" n="*)" resp="gnd-116890657"><hi>Georg Ludwig Spalding (i']62 — 1811), Professor am grauen Kloster in Berlin: vgl. Wilhelm und Karoline von Humboldt i, 275.</hi></note> Vgl. oben S. iq Anm. i. *) Generalin von Knorr, Frau des Kommandanten in Erfurt, die Circe des lengefeldschen Briefwechsels : vgl. Schiller und Lotte 2, 166 Anm.<pb n="14.240" xml:id="pbXIV240"/> 3. Brief an *Wolf. Sitzung der Academie <note type="footnote" n="^)" resp="gnd-116890657"><hi>Die erjwter Akademie gemeinnütziger Wissenschaßen, ly^S gegründet, Gesteht noch heute.</hi></note> und meine Auf- nahme, der Coadjutor und Werhan den Abend bei Papan. 4. (Brief von Madame Friedheim.) Brief von Dohm. ^) Assemblee und Souper beim Coadjutor — Mademoiselle Poussar- dine. 6. Brief an Heyne, an Alexander nach Baireuth, nach Stechen. {Brief an Madame Friedheim mit Geld.) Unterredung mit dem Coadiutor. 8. Fuhre mit Sachen nach Jena mit Günther. Brief an Voigt, ^) an Hertzberg, an Kunth. wurde meine Frau krank. Souper bei der Generalin. 9. Brief an Alexander nach Baireuth, nach Stechen, nach Jena, an Voigt, an das Postamt in Weimar, vom Coadiutor. (Brief von Papan, von Madame Friedheim.) Günther von Jena zurück. 10. Brief an Weyhe. Souper beim Coadiutor. 11. Brief von Kunth. 12. Brief an Esslinger, an den Rittmeister.*) Pickenick. 15. Brief an *Carolinen, von Alexander. 17. Brief an Minetten. 18. Brief an Alexander, von Alexander. 19. Redoute. 20. Brief von Esslinger. Souper beim Coadjutor — Harlem. 21. Brief von Hertzberg. Diner beim Coadjutor. Souper beim General. 23. Brief an Voigt, an das Postamt in Weimar. 24. Dejeuner mit Barozzi. Diner beim Coadjutor. Piquenick. 25. Ueber Weimar nach Jena gereist. 26. Brief an Alexander nach Baireuth, nach Stechen. Stark. ^) 27. Brief an den Coadjutor, von Wolf. 28. (Brief an Ernst, an Papa, an Klecmann, an Lotte Borch.) Brief an Papa. ■) Vgl. oben S. 8y Anm. 2. ') Hofkommissar in Jena, Humboldts erster Hauswirt. *) Humboldts Stiefbruder von Holwede: vgl. Wilhelm und Karoline von Humboldt i, 74. 2, 66. '') Johann Christian Stark {ly^jf—iSii), Professor der Gynäkologie in Jena, Karolinens Arzt.</p>
+
+               <pb n="14.241" xml:id="pbXIV241"/>
+               <p>März.</p>
+
+               <p>I. (Brief von der Burgsdortin, von Weyhe.) Briet von Voigt, von Weyhe, von Körner, von Jacobi Sohn, <note type="footnote" n="^)" resp="gnd-116890657"><hi>Vgl. oben S. 8y Anm. 7.</hi></note> von Jacobi Vater, mit Woldemar-) und Bild, von Fraenckel. 3. Brief an Kunth, von Gessler. (Brief von Gessler.) 5. (Brief von Mama.) Brief von der Pfürdt. •<note type="footnote" n="^)" resp="gnd-116890657"><hi>Heinrich Eberhard Gottlob Paulus {1761— iSsi), Professor der Theologie in Jena.</hi></note> den Abend bei Schütz.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Christian Gottfried Schütz (1747— 1(5^2), Professor der Beredsamkeit in Jena. *) Sekretär von Humboldts Schwiegervater.</hi></note> 6. Brief von Dunker, ^) von Burchard. kam Alexander. 7. Brief von Papa, vom Coadjutor. (Brief von Lotten, von der Seegner.) 9. war Goethe bei uns. ^} Jacobi ^) den Abend bei uns.</p>
+
+               <p>10. Brief an *Wolf, an Hertzberg, an Mama, an Friedländer, an den Magistrat in Halle, von Caroline. Alexanders — den ich bis Uhlstädt begleitete — Abreise. Der Köchin Abziehn. (Brief an Freiesleben.) ^)</p>
+
+               <p>II. Meine Zurückkunft.</p>
+
+               <p>12. (Brief an Carolinen.) 14. (Brief an Papa, an den Coadjutor.) 15. Brief von Baader, von Alexander. 16. Brief an Alexander. Abend auf dem Clubb mit Schütz.</p>
+
+               <p>17. (Brief von Ernst, von Freiesleben, vom Coadjutor, von Papa.)</p>
+
+               <p>19. Brief von Kunth. Papas Ankunft. 20. Mittags Schütz, Paulus,^) Stark bei uns. -) Jacobis neue Bearbeitung seines „Woldemar" erschien Königsberg i'jg4. ^j Frau von Pfürdt {Ferrette) war eine Favoritin des Kurfürsten Karl Josef von Mainz und als solche häufig auch am er furter Hofe: vgl. Vehse, Geschichte der deutschen Höfe seit der Reformation 45, ijg. ') Fritz Jacobis jüngster Sohn Karl Wigand Maximilian {1775—18^8} studierte damals in Jena Medizin. <note type="footnote" n="*)" resp="gnd-116890657"><hi>Goethe war vom 8.—1J. März in Jena {nach handschriftlichen Notizen ■des Museuynsschreibers Färber über die im jenaer Schloss logierenden Gäste).</hi></note> Ein intimer Freund Alexander von Humboldts seit der gemeinsamen Studienzeit in Freiberg. W. V. Humboldt, Werke. XIV. I6</p>
+
+               <pb n="14.242" xml:id="pbXIV242"/>
+               <p>2 1 . Brief an Gentz, <note type="footnote" n="^)" resp="gnd-116890657"><hi>Friedrich von Gentz {1^64—18^2), Kriegsrat in Berlin, Humboldts in - timer Freund: vgl. Wilhelm und Karoline von Humboldt i, j^4. ^gi. 418; Briefe von und an Friedrich von Gentz i, i8j. igy.</hi></note> an Esslingen Mittags die beiden Hufelands <note type="footnote" n="^)" resp="gnd-116890657"><hi>Christoph Wilhelm (17^2 — 1836), Professor der Medizin, und Gottlieb Hufeland {i'/6o—i8iy), Professor der Jurisprudenz in Jena; jener heisst im folgenden der Professor, dieser der Rat.</hi></note> bei uns. 22. Mittags die Segner und Voigt bei uns. (Brief an Freies- leben.)</p>
+
+               <p>23. Brief von Tante König. Papas Abreise.</p>
+
+               <p>24. Brief vom Coadjutor, an *Wolf, an Kunth. 26. (Brief von Papa, von Lotten.) Brief vom Magistrat in Halle. Abends zum Kränzchen bei Mereau. ^)</p>
+
+               <p>28. (Brief an Papa, an Lotten, an Carolinen, von Papa, von Carolinen.) Brief an den Coadjutor, an Bader, von Dominicus, ^) von Uhden. ^) mit Gros ^) auf der Kunitzburg.</p>
+
+               <p>30. Abend mit Professor Hufeland auf dem Clubb. 31. (Brief von Lotten.) Brief von Alexander, an die Pfürdt, an Dominickus, an Alexander, an Schneider, an *Körner.</p>
+
+               <p>April. 2. (Briet von Papa, an Ernst.) Brief von Dunker. den Abend zum Kränzchen beim Rath Hufeland.</p>
+
+               <p>3. bei Professor Hufeland zum Abendessen. 4. (Brief von Freiesleben, an Papa, an Mama, an Freiesleben.) Brief an *Dohm. Pumpernickel und Wein von Dominickus.</p>
+
+               <p>5. Brief von Gentz mit Manuscript') und Torte, von Friedländer. 6. Gros und Dietz den Mittag bei uns.</p>
+
+               <p>3j Friedrich Ernst Karl Mereau {176^ — 182^), Professor und Bibliothekar in Jena, Sophie Mereaus Gatte.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Johann Jakob Dominikus {i-j62 — iSig), Professor der Geschichte in Erfurt. ^) Johann Daniel Wilhelm Otto Uhden {17%— 18^), ein göttinger Studien- freund Humboldts, später sein Vorgänger auf dem römischen Residentenposten.</hi></note></p>
+
+               <p>'j Karl Heinrich von Gros [1765—1840), später Professor der Jurisprudenz in Erlangen, studierte damals in Jena.</p>
+
+               <p>■') Gentz übersandte das Manuskript seiner in der Allgemeinen Literaturzeitung I7g4 2, 34s abgedruckten Rezension von Fichtes „Beiträgen zur Berichtigung der Urteile des Publikums über die französische Revolution" : vgl. Briefe von und an Friedrich von Gentz 2, 47.</p>
+
+               <pb n="14.243" xml:id="pbXIV243"/>
+               <p>7. (Brief von der Miltsch, an Fräulein von Burgsdorff.) Brief an Kunth, an Friedländer.</p>
+
+               <p>8. (Brief an Gessler, an Carolinen.) Briet an Körner, an Gessler, an Jacobi, in Aachen.</p>
+
+               <p>9. Brief von Barozzy, von Dominickus, von Wolf, an Domi- nickus. (Brief von Papa, an Papa, an Lotte.)</p>
+
+               <p>II. (Brief von Dunker.) 14. (Brief von Papa.) 15. Alexanders Ankunft Morgens. Gros Mittags bei uns. Nachmittags in der Drüsenitz.</p>
+
+               <p>16. (Brief von Dunker, an Papa.) Brief an Lotte, an Kunth. Alexanders Abreise Abends.</p>
+
+               <p>18. (^Brief von Papa, von Ernst.) Brief an Jacobi Vater, an Vopel durch Fräulein Segner, an Weyhe. Mittags Gros und Wolt- mann<note type="footnote" n="^)" resp="gnd-116890657"><hi>Abraham Gottlob Werner [i-jso—iSi-]), Professor der Mineralogie und Bergbaukunde in Freiberg.</hi></note> bei uns.</p>
+
+               <p>19. den Contract mit der Allgemeinen Literatur Zeitung unterzeichnet und abgeschlossen. Brief von Kunth mit Geld, von Mama. 21. (Brief von Papa, an Papa.) Brief an Papa.</p>
+
+               <p>23. Brief an Körner, an Adelung, ^) an Werner, ^) Empfehlungen für Kapf. (Brief von Fräulein von Burgsdorflf.)</p>
+
+               <p>24. Brief an Barozzy. Mittag Gros bei uns. 25. Brief an Gentz, an Alexander. (Brief von Papa.) Mittag Gros, Gerhard, Baader bei uns.</p>
+
+               <p>26. Mittag Gros bei uns. Brief an Voigt. 27. Brief an Stark. Bote nach Weimar, und zurück. Mittag Gros bei uns. Stark aus Weimar hier.</p>
+
+               <p>28. Gros Abreise nach Göttingen. Brief an Alexander, an *Wolf mit Büchern, von Dominickus. David Veit <note type="footnote" n="*)" resp="gnd-116890657"><hi>Johann Christoph Adelung {i']32 — 1806), Hofrat und Oberbibliothekar in Dresden.</hi></note> aus Göttingen hier. (Brief an Papa.)</p>
+
+               <p>30. Brief von Alexander, von Kunth, von Schneider mit seinem Pindar.</p>
+
+               <p>') Karl Ludwig Woltmann [i'j-jO—iSi'f) , Professor der Philosophie und Geschichte in Jena.<note type="footnote" n="*)" resp="gnd-116890657"><hi>David Veit [ijji — 1814), später Arzt in Hamburg, Raheis Jugendfreund, studierte damals in Göttingen imd Jena Medizin.</hi></note></p>
+
+               <pb n="14.244" xml:id="pbXIV244"/>
+               <p>May.</p>
+
+               <p>1. (Brief von Dunker, von Lotten.)</p>
+
+               <p>2. Brief von Körner, von Dalberg, an Fränckel, an Mecklenburg, an Dominickus. (Brief von Weyhe, von Papa, von Ernst.) Ankunft der Pechler.</p>
+
+               <p>5. kam Li mit einem Sohn^) nieder Nachmittags um i Uhr etwa. Die Wehen fiengen etwa um 9 Uhr früh an. Stark Mittags hier. Brief an Papa, an die Tante, an die Cousinen, an den Coad- jutor, an Mama, an die Brüder, an die Herz, -) an die Hagen, ^) an Gentz, an Fräulein Segner, an Wolf, an Ernst, an Carolinen, vom Unterofficier Voigt. (Brief an Papa, an Carolinen, von Papa.)</p>
+
+               <p>6. Brief an Gros, an die Lengefeldt,*) an Papa, an die De Saulx, ^) vom Coadjutor, von Papa, von der Tante, von Lottchen, von Gustchen.</p>
+
+               <p>7. Brief von Alexander. 8. Brief an Körner, an die Hopfgarten. 9. (Brief von Carolinen.) Brief von Ernst, an Papa, an Lottchen, an Tante Borch, an Tante Goltz, an Tante Haack, an die Krosigck, an Mama, an la Roche, ^) an Gerhard, an Carolinen, an Alexander.</p>
+
+               <p>10. Brief von Papa.</p>
+
+               <p>12. Brief von Veit, von Archenholtz, ') an den Coadjutor, an Ernst, an Papa. (Brief von Weyhe.)</p>
+
+               <p>13. Brief von Frau von Lengefeld.</p>
+
+               <p>14. Brief von Spalding, von der Herz, von Dunker, an Papa. Schillers Ankunft. ^)<note type="footnote" n="1)" resp="gnd-118554727"><hi>Wilhelm {ijg4—i8o_3).</hi></note></p>
+
+               <p>•*) Luise Juliane Eleonore Friederike von Lengefeld, geb. von Wurmb (_i']43 — 182J:), Schillers Schwiegermutter.</p>
+
+               <p>'') Karolinens Erzieherin in Erfurt, die aus Humboldts Briefwechsel mit seiner Braut ergötzlichst bekannt ist.</p>
+
+               <p>®) Vgl. oben S. 18 Anm. 5.</p>
+
+               <p>■') Johann Wilhelm von Archenholz (174J — 181<note type="footnote" n="2)" resp="gnd-118554727"><hi>Vgl. oben S. i Anm. 2. ^) Frau Mimi von Hagen-Möckern in Berlin, geb. von Oertel aus Weimar, mit Lotte Schiller nah bekannt und eine berliner Freundin Humboldts: vgl. Wilhelm und Karoline von Humboldt i, jj^. i^j.</hi></note>, preussischer Hauptmann ausser Dienst, Historiker in Hamburg.</p>
+
+               <p>•*) Schillers waren seit Anfang August ijgj in Schwaben gewesen.</p>
+
+               <pb n="14.245" xml:id="pbXIV245"/>
+               <p>15. Schillers Mittag hier.</p>
+
+               <p>16. (Brief von Lottchen, von Papa.) Brief von Gros, von Papa, von Körner, von Fraenckel, an *Schneider, an Papa, an Mama. Schillers Mittag hier.</p>
+
+               <p>1 7. Brief von Gentz, von Mama, von Wolf. Schillers Mittag hier.</p>
+
+               <p>19. Brief von Burghardt, von Fischer, ^) vom Coadjutor. kam Papa, die Cousine, und Ernst. Kindercomoedie für Schütz Geburtstag. — Fichte. ^)</p>
+
+               <p>20. Taufe — Gevattern: i., Papa. 2., Mama. 3., Tante Borch. 4., Tante Goltz. 5., Tante Haacke. 6., Cousine Lottchen. 7., Cousine Gustchen. 8., Ernst. 9., der Rittmeister. 10., Alexander. — Gäste: Voigt, Stark. — Namen des Kindes: Alexander August Ferdinand Carl Wilhelm — Prediger: Oemler, ^) General Superintendent. Mittag Stark bei uns.</p>
+
+               <p>21. Brief von Mama, von der Veit,<note type="footnote" n="*)" resp="gnd-116890657"><hi>Gotthelf Fischer von Waldheim {i']']i — 1853), später Professor in Moskau, studierte damals Naturwissenschaften in Leipzig.</hi></note> von der De Saulx. Schiller den Mittag bei uns. Abend bei Professor Hufeland.</p>
+
+               <p>22. Paulus und Schütz bei uns den Mittag. Collegium bei Göttling ^) in der Chemie angefangen.</p>
+
+               <p>23. reiste Papa und Lottchen wieder ab. Brief von Alexander, an Weyhe, an Mama, an *Vieweg. ^} (Brief an Duncker.)</p>
+
+               <p>24. reiste Ernst wieder ab. Brief von We3''he mit Leimsand, von dem Rittmeister, von der Segner. den Abend bei Loder. '') Schillers und Frau von Lengefeld den Mittag hier.</p>
+
+               <p>25. kam Kunth an — Coste. 26. reiste Kunth mit Coste wieder ab. begleitete ich sie bis gegen Camburg. Brief an Körner, an Gentz.</p>
+
+               <p>wechsel^ I, 207).</p>
+
+               <p>') Christian Wilhelm Oemler {1J28—1802), Generalsuperintendent in Jena. <note type="footnote" n="*)" resp="gnd-116890657"><hi>Der an Reinholds Stelle als Professor der Philosophie nach Jena berufene Fichte war am 18. Mai dort angekommen {Fichtes Leben und literarischer Brief-</hi></note> Vgl. oben S. i Anm. j. <note type="footnote" n="*)" resp="gnd-116890657"><hi>Hans Friedrich Vieweg {ij6i — 183s), Buchhändler in Berlin^ später in Braunschweig.</hi></note> Johann Friedrich August Göttling [ijSS — ^8og), Professor der Chemie in Jena.</p>
+
+               <p>') Justus Christian Loder [ijss — ^832), Professor der Anatomie in Jena.</p>
+
+               <pb n="14.246" xml:id="pbXIV246"/>
+               <p>28. Brief mit i //. Thee von Leipzig, von Vopel, an Gros, mit Fichtes Programm.<note type="footnote" n="^)" resp="gnd-116890657"><hi>Über den Begriff der Wissenschaftslehre oder der sogenannten Philosophie, Weimar ijg4 [Sämtliche Werke i, i, 27).</hi></note></p>
+
+               <p>29. Himmelfahrtstag.</p>
+
+               <p>30. Brief an Fischer in Leipzig, an *Wolf mit dem Morgenstern, <note type="footnote" n="^)" resp="gnd-116890657"><hi>Karl August Böttiger {ij6o—i8^s), Direktor des Gymnasiums in Weimar.</hi></note> an Mama. (Brief von Charlotte Borch, an Papa.) Publicum bei Fichte angefangen. ^).</p>
+
+               <p>31. Brief von Duncker, mit den Sachen nach Burg Oerner für Papa, von Alexander, von la Roche. (Brief von Alexander.) Schillers und Frau von Lengefeld den Mittag hier.</p>
+
+               <p>Junius.</p>
+
+               <p>1 . Ich war mit der Schillern und Frau von Lengefeld in Weimar — den Mittag bei Frau von Stein — Fräulein von Imhoff<note type="footnote" n="*)" resp="gnd-116890657"><hi>Anna Amalie von Imhoff {jjj0'—i8ji), später Frau von Helvig, eine Nichte der Frau von Stein.</hi></note> — Besuch bei Göthe. Schiller den Mittag bei meiner Frau.</p>
+
+               <p>2. (Brief von Ernst.) Consistorialrath Böttiger ^) bei mir. Brief an den Coadjutor, an Alexander, hospitirt bei Woltmann.</p>
+
+               <p>3. Brief von Schlichtegroll. *') 4. Brief von Kunth, von Fraenckel. Abends Clubb bei Schiller. Mittags Fichte und Schiller bei uns.</p>
+
+               <p>6. Brief von Frau von Hopfgarten, an Mama, an den Rittmeister, an Fraenckel. (Brief von Lotte Borch, an Papa, an Wolf.)</p>
+
+               <p>7. Brief von Mama. (Brief von Papa.) Prediger Koch ') aus Berlin bei mir. Erste Conferenz zwischen Schiller, Fichte, Wolt- mann und mir über die Hören.</p>
+
+               <p>9. Brief vom Coadjutor, an Schlichtegroll, an Biester.^)</p>
+
+               <p>-) Morgenstern, De Piatonis re publica commentationes tres, Halle I'jg4- *) Fichte las unter grossem Zulauf eine einstündige öffentliche Vorlesung über Moral für Gelehrte (Fichtes Leben und literarischer Briejwechsel^ /, 211).</p>
+
+               <p>•*) Adolf Heinrich Friedrich Schlichtegroll {ij6'ß—i822), Lehrer am Gym- nasium in Gotha.</p>
+
+               <p>') Erduin Julius Koch (1^64—1834), Prediger an der Marienkirche in Berlin, Verfasser eines Kompendiums der deutschen Literaturgeschichte : vgl. Hoffmann von Fallersleben im Weimarischen Jahrbuch für deutsche Sprache, Literatur und Kunst i, ^8.</p>
+
+               <p>"j Vgl. oben S. ^2 Anm. j.</p>
+
+               <pb n="14.247" xml:id="pbXIV247"/>
+               <p>1 1 . Brief von Friedlaender.</p>
+
+               <p>12. kam Töpel mit unsren Sachen von Burg Oerner an. Brief von \\'e}"he, von Wagner, an ^^'agner.</p>
+
+               <p>li,. (Brief von (Carolinen, von Papa.) Brief von Alexander, an Mama, an Kunth. wurde die erste Anzeige wegen der Hören fertig.^)</p>
+
+               <p>14. Brief von Mama mit dem Hut für die Li. Abend beim Herzog gegessen. -)</p>
+
+               <p>15. (Brief von der Cousine Lotte.) hielt Li ihren Kirchgang.</p>
+
+               <p>16. Brief von Gros, an Engel **) (Hören), an Veit, an Alexander mit Büchern (Hören).</p>
+
+               <p>18. Brief von Tante Goltz, von Tante Haacke. (Brief von Wolf.)</p>
+
+               <p>IQ. (Brief an Papa, an Lotte Borch.) Bekam ich das kalte Fieber.</p>
+
+               <p>20. Brief an Mama. Feldprediger Werhahn hier.</p>
+
+               <p>21. (Torte mit Brief von Kunth.) Brief von der Hagen. Fiebertag, blieb ich aus Göttlings Collegium weg.</p>
+
+               <p>22. (Brief von Duncker.) Schillers den Mittag hier. 23. Fiebertag.</p>
+
+               <p>24. Brief von Duncker mit Papas Geburtstagsgeschenk, *) von der Krosigck.</p>
+
+               <p>25. Brief von Mama mit lo Friedrichsd'or, von Kunth. Fiebertag. 26. kam Mala mit 2 Hunden und einer Hündin nieder.</p>
+
+               <p>27. Ledeur Calvi •") aus Göttingen. (Brief von Lotte Borch, an Papa, an Ernst.) Brief an Kunth. Fiebertag.</p>
+
+               <p>28. Hess Li sich zwei Zähne ausnehmen, schloss ich den Mieths Contract mit Hellfeld. **)</p>
+
+               <p>29. Fiebertag.</p>
+
+               <p>30. (Brief von Carolinen, an die Hopfgarten, an die Krosigk, an Carolinen.) Brief an Tante Goltz, an Tante Hake, an Uhden, an Alexander.</p>
+
+               <p>') Vgl. Schillers Sämtliche Schriften 10, 2^2.</p>
+
+               <p>*j Vgl. Fichtes Leben und literarischer Briefwechsel'^ i, 2/5. ^) Vgl. oben S. 12 Anm. 2. *j Humboldts Geburtstag war der 22. Juni. ^) Giovanni Battista Calvi {1721 — 97), Lektor der italienischen und spanischen Sprache in Göttingen.</p>
+
+               <p>®) Über das hellfeldsche Haus vgl. Litzmann, Schiller in Jena S. iio Anm.</p>
+
+               <pb n="14.248" xml:id="pbXIV248"/>
+               <p>Julius.</p>
+
+               <p>1. Fiebertag.</p>
+
+               <p>2. Von unsrer vorigen Köchin, Lehmannin, ein Brief. 3. (Brief von Lotten mit Sachen.) Fiebertag. 4. Brief von Vieweg, an den Coadjutor, an die Lehmannin,, mit I Thaler, an Alama, an Papa. (Brief von Papa, an Lotte Borch.)</p>
+
+               <p>5. Brief von Fraenckel, von Alexander mit Pfefferkuchen, kam der Rittmeister an.</p>
+
+               <p>7. gieng ich wieder in Göttlings Collegium. waren wir zu Wagen in der Drüsenitz. Brief an Gentz, Hören.</p>
+
+               <p>8. den Abend kam Caroline und Wollzogen. ^) waren wir zu Wagen im Rauhthal.</p>
+
+               <p>9. versäumte ich das Collegium. ritt ich mit dem Rittmeister auf die Kunitz. Mittag Schillers, Caroline und Wollzogen hier. Brief von Wolf mit der Odyssee. -)</p>
+
+               <p>10. versäumte ich das Collegium. gieng ich mit dem Rittmeister auf den Fuchsthurm.</p>
+
+               <p>1 1. (Brief an Papa, von Ernst.) waren wir zu Wagen in Dornburg. Den ^"ormittag auf den Gensig. Brief an Gessler. versäumte ich das Collegium.</p>
+
+               <p>12. (Brief von Lotten mit einem Corset.) Nachmittag nach der Schnecke gegangen, versäumte ich das Collegium.</p>
+
+               <p>14. Brief von Alexander, von Gros, von Biester, an Kunth, anFraenkel, mit Mortificationsschein für die Schuld von 8000 Thalern an Heymann Joseph Fränkel. bekam ich das Fieber wieder. (Brief von Papa.)</p>
+
+               <p>15. reiste der Rittmeister den Morgen früh ab. 16. Fiebertag.</p>
+
+               <p>17. Brief von Alexander, an Alexander, an den Rittmeister, versäumte ich Göttlings Collegium.</p>
+
+               <p>18. Brief an Maman, an die Herz. (Brief an Papa.) Fiebertag. versäumte ich Göttlings Collegium.</p>
+
+               <p>20. Fiebertag.</p>
+
+               <p>*j Wilhelm Friedrich Ernst von Wolzogen {i-]62—i8og), der am 27. Sep- tember Karoline von Beulwitz heiratete.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Homeri Odyssea et batrachomyomachia, in usum scholarum et praelectionum, zweite Außage, Halle i']94-</hi></note></p>
+
+               <pb n="14.249" xml:id="pbXIV249"/>
+               <p>■2 1 . Brief von Papa, an Gros, waren Niemeyers <note type="footnote" n="^)" resp="gnd-116890657"><hi>August Hermann Niemeyer {ij^4—i828), Professor der Theologie und Direktor des Pädagogiums und Waisenhauses in Halle.</hi></note> hier, assen Schillers und Frau von Lengefeld Mittags bei uns.</p>
+
+               <p>•22. Brief von Schlegel. -) Abends assen Schillers und Göthe bei uns.</p>
+
+               <p>•23. (Brief von Mama.) Mittags assen wir bei Schillers. Brief an Burghart (Va Eimer Wertheimer).</p>
+
+               <p>25. Brief von Alexander, an *Wolf. (Brief an Papa, an Ernst.) 27. Brief von Burghardt mit Wein. 28. Brief vom Rittmeister, an Gros, an Alexander. 30. (Brief von Lotten, an Lotten, an Schuster Vogel.) Brief von Mama, kam der Rittmeister wieder.</p>
+
+               <p>August.</p>
+
+               <p>1. Brief von Friedlaender durch Michaelis,^) einen Juden, und den Pagenhofmeister Gerling aus Neu Strelitz.</p>
+
+               <p>2. Brief von Kunth mit 562. Thalern 5. Groschen (3. Pfennigen Courant und 16. Friedrichsd'or.</p>
+
+               <p>3. assen Loder, Michaelis, und Gerling Mittags bei uns. 4. (Brief von Papa, von Ernst, von Lotte, an Madame Desaulx mit 28. Thalern, an Papa, an Frau von Lengefeld.) Brief von Gros, versäumte ich Göttlings Collegium.</p>
+
+               <p>5. mit dem Rittmeister auf dem Landgrafen. 6. war ich mit dem Rittmeister auf der Tautenburg. versäumte ich Göttiings Collegium. Brief an Alexander.</p>
+
+               <p>8. (Brief vom Schuster Vogel.)</p>
+
+               <p>9. reiste der Rittmeister wieder nach Berlin zurück, begleitete ich ihn bis Camburg. Brief an Kunth, an Schneider mit Batsch <note type="footnote" n="*)" resp="gnd-116890657"><hi>Gemeint ist Friedrich Schlegel : vgl. Humboldt an Körner, 10. Dezember i']Q4. ') Michaelis, Hojbuchhdndler in Neustrelitz, wurde dann der Verleger von Schillers erstem Musenalmanach für ijgG.</hi></note> Einlage, versäumte ich Göttlings Collegium.</p>
+
+               <p>10. Brief an Fräulein Segner. 11. Brief vom Coadjutor, an Friedländer. (Brief von Lotte Borch, an Papa, an Ernst, an die Bürgermeisterin Rudolph.)</p>
+
+               <p>13. Brief von Brinckmann, an Gros.<note type="footnote" n="*)" resp="gnd-116890657"><hi>August Johann Georg Karl Batsch {ij6i — 1802), Professor der Medizin und Philosophie in Jena.</hi></note></p>
+
+               <pb n="14.250" xml:id="pbXIV250"/>
+               <p>15. (Brief von der Desaulx.) Brief von Alexander, versäumte ich Göttlings Collegium.</p>
+
+               <p>16. Brief von Gentz, vom Rittmeister, versäumte icli Göttlings Collegium.</p>
+
+               <p>18. Brief an Mama, an den Rittmeister, Paket an denselben durch Michaelis. (Brief von Papa, an Kunth durch Michaelis.)</p>
+
+               <p>20. Brief von Klein. ^) kam Wollzogen.</p>
+
+               <p>21. Mittags Caroline und Wollzogen hier. Göttlings Collegium versäumt. (Brief von Ernst.)</p>
+
+               <p>22. Brief von Gros, an Bürgermeisterin Rudolph. (Brief an Papa.) Göttlings Collegium versäumt. Mittags Caroline, Schillers, und Wollzogen hier.</p>
+
+               <p>23. Göttlings Collegium versäumt. 24. reiste Wollzogen ab.</p>
+
+               <p>25. Göttlings Collegium versäumt. Brief an die Veit durch die Herz, an Alexander, an Jacobi mit Recension. ^)</p>
+
+               <p>26. mit Schiller nach Weissenf eis zum rc7idez-Vous mit Körner gereist. '^) 27. kam Körner in Weissenfeis an. (Brief an Ernst, durch die Scheibe.) Brief von Kunth mit Commodenbeschlägen, von Friedländer.</p>
+
+               <p>28. von Weissenfeis nach Jena zurückgereist.</p>
+
+               <p>26.-29. Göttlings Collegium versäumt. 30. Brief vom Rittmeister.</p>
+
+               <p>31. wurden dem kleinen Bill die Blattern eingeimpft.</p>
+
+               <p>September.</p>
+
+               <p>I. (Brief von Papa, an Papa.) Brief an Gentz, an Kunth. von heute an gieng ich nicht mehr in Göttlings Collegium.</p>
+
+               <p>3. gieng die Pechlern von uns fort.^) Brief an Minetten durch sie, an den Coadjutor.</p>
+
+               <p>5. Brief an Gros.</p>
+
+               <p>recht {vgl. Band 7, 48<note type="footnote" n="1)" resp="gnd-118554727"><hi>Ernst Ferdinand Klein {1744—1810), Humboldts Jugendlehrer im Natur-</hi></note>, Professor der Jurisprudenz in Halle.</p>
+
+               <p>schrift an Jacobi.</p>
+
+               <p><note type="footnote" n="*)" resp="gnd-116890657"><hi><note>Vgl. Band i, 288. Humboldt schickte die Rezension zunächst in der Hand-</note> Vgl. Schillers Briefe 3, 4'jo. 47/. 4, ^," Schillers Briefwechsel mit Körner j, i8y.</hi></note> Vgl. Schiller imd Lotte j, 76".<pb n="14.251" xml:id="pbXIV251"/> 6. Brief von Alexander, vom Rittmeister. 8. Brief an den Rittmeister (Assignation auf 20. Friedrichd'or), an Fränclcel durch ihn. 10. Brief an Alexander, von Jacobi (Recension),*) von Alexander (Testament), von der Lehmannin, von Mama (20. Friedrichsd'or). 12. Brief an die Lehmannin. wurden dem kleinen Bill zum zweitenmal die Blattern eingeimpft. (Brief an Papa, von Papa, von Ernst.) 13. Brief vom Bürgermeister Rudolf, von Kunth. (Brief von Kunth, von Carolinen.) 14. fuhr ich mit Schiller nach Weymar. <note type="footnote" n="^)" resp="gnd-116890657"><hi>Vgl. oben S. 250 Anm. 2.</hi></note> Die Nacht bei Göthe.<note type="footnote" n="^)" resp="gnd-116890657"><hi>Goethe hatte Humboldt durch Schiller einladen lassen {Briefe 10, igs)- *) Vgl. oben S. 14g Anm. 4.</hi></note> 15. kam ich allein wieder zurück. Brief von Gros, an *Brinck- mann, an Schiller. 16. kam Caroline von Rudolstadt zurück. Caroline Mittags bei uns. 17. Brief von Schiller, von Michaelis, an Alexander. (Brief von WolLzogen.) Caroline Mittags bei uns. 18. gieng ich zu Fuss nach Weymar. Die Nacht bei Göthe. Caroline Mittags hier. 19. kam ich zu Fuss wieder zurück. (Brief von Wollzogen.) Brief an Mama. Caroline Mittags bei uns. 20. kam Rehberg *) mit seiner Schwester zu uns. <note type="footnote" n="^)" resp="gnd-116890657"><hi>Lotte Schiller, die seit Anfang des Monats wegen der Pockengefahr mit Karl in Rudolstadt bei ihrer Mutter war (Schiller und Lotte ^, j4).</hi></note> Caroline Mittags bei uns. 21. Brief von Schiller, an Schiller. Mittags Rehberg mit seiner Schwester und die beiden Hufelands bei uns, und Caroline. 22. Brief von Körner, an *Schiller, an Klein, (Brief an Papa, an Lotte.) Caroline Mittags bei uns. 23. (Brief von Lolo.)^) Caroline Mittags bei uns. 24. Brief von Schiller, fuhr ich mit Carolinen nach Diedendorf. -) Schiller war vom 14. — 27. September zum erstenmal seit der gegenseitigen Befreundung in Goethes Hause; vgl. Briefe 4, 18. ig. 21. 22. •^) Vgl. Humboldt an Schiller, 22. September i']g4.<pb n="14.252" xml:id="pbXIV252"/> Briefe) von Kunth, von der Lehmann. (Brief von der Bechlern.) Besuch bei der Frau von Falckenstein.</p>
+
+               <p>25. (Brief von Bill mit Zwieback und Lichte, von Carolinen.) Besuch bei Madame Griesbach-) und Räthin Hufeland, fuhr ich allein von Diedendorf nach Weymar zu Göthe.</p>
+
+               <p>26. <note type="footnote" n="^)" resp="gnd-116890657"><hi>Von „Brief bis „Hiifeland" am 25. sind die Einträge, da Humboldt ab- wesend war, von Karolinens Hand.</hi></note> (Brief von Schiller, von Lotten Borch, an Mama, an Kunth, an Bill.)</p>
+
+               <p>27. Brief von Wolf, von Li. kam ich mit Schiller von Weimar zurück.</p>
+
+               <p>29. Brief von Schneider, an die Lehmannin, an Gros, an Jacobi (Recension. *) Fichtische Inlage). ^)</p>
+
+               <p>October.</p>
+
+               <p>1. wurden unsre Sachen ins Hellfeldische Haus gebracht. Brief von Klein.</p>
+
+               <p>2. zogen wir ins Hellfeldische Haus ein. (Brief von Lotte Borch.)</p>
+
+               <p>4. Brief von der Lehmannin.</p>
+
+               <p>6. Herr Konopack und Herr Schede (Studenten in Halle) von Klein empfohlen. Brief von Klein. (Brief von Papa.)</p>
+
+               <p>8. Brief vom Rittmeister, von Fraenckel. *)</p>
+
+               <p>10. Brief von Alexander, von Michaelis, an Körner, an Kunth^ an Alexander, an die Lehmannin, an Wolf. (Brief an Papa, an Lotte Borch, an Ernst, an Caroline.)</p>
+
+               <p>11. Brief von Hemmerde. (Brief von Kunth.) 12. Brief an Hemmerde.</p>
+
+               <p>15. Lerchen aus Leipzig. Brief von Brinckmann durch Veit. 17. (Brief von Papa, von Lotte Borch.) Brief an Papa. 18. Brief von der Lehmannin, vom Rittmeister.</p>
+
+               <p>'^) Friederike Juliane Griesbach, geb. Schütz, die Frau des Professors der Theologie Griesbdch in Jena, der Lorbeerkranz des lengefeldschen Briefwechsels.</p>
+
+               <p>■') Auch die Einträge vom 26. und der erste vom 27. sind von Karolinens Hand.</p>
+
+               <p>*■) Die oben S. 250 Anm. 2 nachgewiesene Rezension erschien am 26. und 27. September in der Allgemeinen Literaturzeitung Nr. 315 — 17.</p>
+
+               <p>'•) Vgl. Fichtes Leben und literarischer Briefwechsel^ 2, 165.</p>
+
+               <p>•*j Nach „Fraenckel" gestrichen : „Brief an Alexander, an Barozzi. {Brief an Papa.)"<pb n="14.253" xml:id="pbXIV253"/> iq. Herr Veit den Mittag hier. ') •2o. Brief an Rieke, an den Rittmeister, an Minetten, an die Lehmannin, an Klein, an Kunth.</p>
+
+               <p>■2-2. Brief von Schlegel aus Dresden, von Gerhard. 24. Brief von Gros, von Alexander, an Körner. (Brief von Caroline, von Papa (durch Boten), an Papa.)</p>
+
+               <p>26. kam Papa aus Erfurt. (Brief von Lotte.)</p>
+
+               <p>27. Brief an Alexander, an den Coadjutor. ass Mittags Pro- fessor Hufeland und Michel Friedländer hier.</p>
+
+               <p>29. Brief von Barozzi. ass Paulus, Schleussner -) und Veit hier zu Mittag. Abends beim Rath Hufeland.</p>
+
+               <p>30. ass Stark und Schütz Mittags hier. 31. Brief von Körner, vom Coadjutor, an Friedlaender, an Kunth. (Brief von Alexander.)</p>
+
+               <p>November.</p>
+
+               <p>1. ass der Amts Commissarius ^) und der D. Hellfeld'*) und Ilgen°) hier. Brief von Kunth.</p>
+
+               <p>2. ass Loder, Rath Hufeland, und Woltmann Mittags hier. 3. reiste Papa wieder nach Erfurt zurück, fieng ich die Anatomie an. ®) (Brief von Ernst.) assen wir Mittags bei Schiller mit Göthe und Meyer. ') 4. ass Göthe, Meyer, Schiller und Lolo Mittags bei uns. ass ich Abends bei Loder.</p>
+
+               <p>5. Brief von Alexander, von Cousin Bornstedt in Schoeneberg, von Mama, von Dohm.</p>
+
+               <p>6. wurde meine Frau an der Brust krank.</p>
+
+               <p>') Vgl. Briefwechsel zwischen Rahel und David Veit i, 245. 246. ^) Gabriel Jonathan Schleusner, Doktor der Medizin und Institutsassistent in Jena.</p>
+
+               <p>') Voigt; vgl. oben S. 240 Anm. ^. *) Humboldts neuer Hauswirt.</p>
+
+               <p>") Karl David Ilgen {ij6j — i8j4), Humboldts Hausgenosse, Professor der orientalischen Sprachen in Jena, später Rektor der Landesschule in Pforta, wo Humboldt ihn und seine Frau mehrfach besuchte: vgl. Wilhelm und Karoline von Humboldt ^, ^22. 5, 215. 6, 56^; Laube, Moderne Charakteristiken i, ^66.</p>
+
+               <p>®j Loders Vorlesung: vgl. auch Humboldt an Goethe, Ende Januar i'jgs') Goethe war vom 2. — 6. November mit Heinrich Meyer in Jena {nach Färbers Aufzeichnungen).</p>
+
+               <pb n="14.254" xml:id="pbXIV254"/>
+               <p>7. Brief von Körner, von der Francken, an die Francken, an Gerhard, an Papa, an *Göthe durch Expressen, von Göthe. (Brief von Papa.)</p>
+
+               <p>10. Brief an Schlegel, an Biester. (Brief von Carolinen, an Papa.)</p>
+
+               <p>12. (Brief von Lotte Borch.) Brief von der Lehmannin, von Kunth (533. Thaler 4. Groschen), von Duncker, an den Coadjutor, an Papa, an Alexander, an *Dohm.</p>
+
+               <p>14. (Brief von Carolinen, an Papa, an Ernst, an Carolinen, an Lotte Borch.)</p>
+
+               <p>16. assen Mittags Veit und Jacobi hier.</p>
+
+               <p>17. (Brief von Caroline, von Papa.) Brief an Kunth, an *Brinckmann, an Göckingk. <note type="footnote" n="^)" resp="gnd-116890657"><hi>Leopold Friedrich Günther von Goekingk {ij48 — 1828). Landrat der Grafschaft Wernigerode : vgl. Wilhelm und Karoline von Humboldt i, 114. 4, 422.</hi></note></p>
+
+               <p>19. Brief von Jacob, ^) von Minetten. Abends beim Herzog.^)</p>
+
+               <p>21. nach Weimar gefahren. Mittag bei Göthe gegessen. Nachmittag bei Meyer, Herder, der Stein. Abends in der Homers Gesellschaft bei Göthe;<note type="footnote" n="*)" resp="gnd-116890657"><hi>Im Winter i-]g4 — g^ hatte Goethe jeden Freitag bei sich eine Abend-</hi></note> dort gegessen mit Böttiger. Brief an Li. (Brief an Papa, an die Desaulx, an Lotte Borch, an *mich.)</p>
+
+               <p>22. nach Erfurt gefahren. Mittags bei Papa gegessen. Nachmittags Visite bei der Generalin. Abends Souper beim Coadjutor — Schvi'ägerin ihre Kinder — Herzog von Weimar. Onkel Borch. zog ich zum Coadjutor. Brief an Li. (Brief von mir.)</p>
+
+               <p>23. Brief von Li, an Li. Mittag und Abend beim Coadjutor. Morgens Chocolate bei Barozzy. Nachmittags Visite bei Barozzys.</p>
+
+               <p>24. Mittags beim Coadjutor. Abends Piquenick. (Brief von mir, von mir, an mich.)</p>
+
+               <p>25. Mittags und Abends beim Coadjutor — Gros. Assemblee.</p>
+
+               <p>'^) Vgl. oben S. 148 Anm. 7.</p>
+
+               <p>•'') Vom 18.— 20. November war Karl August mit Goethe in Jena {nach Färbers Aufzeichnungen).</p>
+
+               <p>gesellschaft, in der er einen Gesang der Ilias in Vossens Übersetzung, die vor kurzem [Altona ijgs) erschienen war, vorlas und besprechen Hess: vgl. Böttiger. Literarische Zustände und Zeitgenossen i, 81 ; Goethes Briefe 10, 208; Schillers Briefe 4, 72. In der Sitzung, der Humboldt beiwohnte, wurde der vierte Gesang gelesen.<pb n="14.255" xml:id="pbXIV255"/> Morgens Chocolate bei Barozzy, Besuch bei Hecker ^) und Bellermann. ■-) Brief von *Li, von Schlegel. 26. mit den Cousinen zurück von Erfurt gefahren. Seit Freitag um 1 1 Uhr Anatomie, folglich 9 Stunden versäumt.</p>
+
+               <p>•28. Brief von Alexander, von Frau von Dalberg (Dietz), von Schlegel.</p>
+
+               <p>2g. reisten die Cousinen wieder weg. 30. Brief von Alexander (Bibliotheksbücher). Mittags Blödau und Veit hier. ^)</p>
+
+               <p>December.</p>
+
+               <p>I. Brief von Jacobi, an Mama, an Minetten (2. Friedrichsd'or), an Fraenckel (Anweisung auf 20 Friedrichsd'or). (Brief an Mama.)</p>
+
+               <p>3. Brief an Gros. 4. Brief von der Veit.</p>
+
+               <p>5. Busstag. Brief an Alexander (Batsch), von Dunker. (Brief an den Coadjutor, an Lotte Borch, an Papa.)</p>
+
+               <p>6. ass der General Borch den Mittag hier. Brief vom Ritt- meister.</p>
+
+               <p>8. Brief an den Coadjutor, an Frau von Dalberg, an Jacob. 9. (Brief von Lotte Borch.)</p>
+
+               <p>10. Günther aus Burg Oerner hier. Brief von Schumacher, an den Berg Rath Gerhard, an *Körner.</p>
+
+               <p>12. Brief von Alexander, von der Francken. (Brief von Ernst.) 13. Brief von Fränckel, von Biester, an Herder. 14. kam Alexander früh Morgens, assen Veit und Stegemann Mittags hier. Bote und Brief an *Göthe.</p>
+
+               <p>15. Brief vom Coadjutor, an Kunth (Hören). (Brief vom Coadjutor, von Papa.) Bote und Brief von Göthe. Woltmann Mittags hier.</p>
+
+               <p>17. Brief von Göckingk. (Brief an Papa.) assen Göthe,*) Meyer, und Schillers Mittags hier, assen wir Abends bei Schillers.</p>
+
+               <p>18. assen Göthe und Meyer Mittags hier.</p>
+
+               <p>'j August Friedrich Hecker {ij6j — 181 1), Professor der Medizin in Erfurt.<note type="footnote" n="2)" resp="gnd-118554727"><hi>Johann Joachim Bellermann (ly §4 — 1842), Professor der Theologie in Erfurt.</hi></note></p>
+
+               <p>'j Vgl. Briefwechsel zwischen Rahel und David Veit 2, 21. ^2. *■) Goethe war vom /y. — ig. Dezember mit Heinrich Meyer in Jena {nach Färbers Aufzeichnungen).</p>
+
+               <pb n="14.256" xml:id="pbXIV256"/>
+               <p>19. assen Jacobi und Woltmann Mittags hier, reiste Alexander Abends wieder fort.</p>
+
+               <p>20. Brief von Jacob, von Kunth. (Brief von Mama (Weihnachtsgeschenke), von Kunth, von Madame Desaulx.)</p>
+
+               <p>22. Brief an Alexander (Bücher), an Kunth (Hören), an *Wolf (Ilgen, Hören), an Schwetschke (Ilgen, Hören), an Klein (Hören), an Friedlaender (Hören), an Genz (Hören), an *Brinckmann (Hören). (Brief an Papa, an Lotte Borch.)</p>
+
+               <p>24. Brief von Alexander, machte Loder Ferien. 26. (Brief von Papa, an Papa, an Fräulein Bieler, an Kleemann.) Brief von Gros.</p>
+
+               <p>27. Brief von Wolf, von Rike, von Hemmerde.</p>
+
+               <p>28. Brief an *Wolf, an Jacob (Recension, Hören), an Biester (Hören), an Schlegel (Hören). (Brief an Caroline, an Mama, an Kunth.)</p>
+
+               <p>31. Brief von Mama mit lo. Friedrichsd'or, an Papa. Steg- mann den Abend hier.</p>
+
+               <p>I. Summe der Briefe</p>
+
+               <p>Januar Februar März</p>
+
+               <p>April</p>
+
+               <p>May</p>
+
+               <p>Junius</p>
+
+               <p>Julius August September October November December meiner Frau meine b. 1 g. b. g.</p>
+
+               <p>14</p>
+
+               <p>18</p>
+
+               <p>25 34</p>
+
+               <p>3 6 8</p>
+
+               <p>26</p>
+
+               <p>14</p>
+
+               <p>8</p>
+
+               <p>23</p>
+
+               <p>18</p>
+
+               <p>12 12 12</p>
+
+               <p>23</p>
+
+               <p>10 4</p>
+
+               <p>41</p>
+
+               <p>51</p>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">II</title>
+               </head>
+               <p>9</p>
+
+               <p>19</p>
+
+               <p>19</p>
+
+               <p>8 10</p>
+
+               <p>14</p>
+
+               <p>21 8 9 12</p>
+
+               <p>12</p>
+
+               <p>13</p>
+
+               <p>7</p>
+
+               <p>19</p>
+
+               <p>19</p>
+
+               <p>8 6</p>
+
+               <p>17</p>
+
+               <p>17</p>
+
+               <p>10</p>
+
+               <p>10</p>
+
+               <p>19</p>
+
+               <p>16</p>
+
+               <p>8</p>
+
+               <p>13</p>
+
+               <p>20</p>
+
+               <p>25</p>
+
+               <p>119. 112. 229. ,281.<note type="footnote" n="1)" resp="gnd-118554727"><hi>Erhalten sind von dieser grossen Zahl Briefe Humboldts nur 26.</hi></note></p>
+
+               <p>2:</p>
+
+               <p>51.</p>
+
+               <p>5</p>
+
+               <p>10.</p>
+
+               <p>741- II. bis 27. Januar in Burg Oerner. — 25. Februar in Erfurt, vom Jena.</p>
+
+               <pb n="14.257" xml:id="pbXIV257"/>
+               <p>Ich allein: vom 2Ö. bis 28. Aui^ust in Weissenfeis.</p>
+
+               <p>— 14. — 15. September in Weimar. — 18. — 19. . — ■-4- — 27. Diedendorf und Weimar. — 21. — 26. November — Erfurt. III. am 5. May kam der kleine Wilhelm zur Welt.</p>
+
+               <p>— 31, August und 12. September wurden ihm vergebens die Pocken inoculirt. IV. Besuch haben wir gehabt, vom 6. — 10. März Alexander.</p>
+
+               <p>— 19. — 23. — Papa. — 15. — 16. April Alexander. — 19. — 23. May Papa und Lottchen. 24. — Ernst. — 25. — 2t). — Kunth. — 5. — 15. Julius der Rittmeister. — 30. Julius bis 9. August</p>
+
+               <p>— 26. October — 3. November Papa. — 26. — 29. November die (]ousinen. — 14. — 19. December Alexander. V. am 13. Junius wurde die erste Anzeige der Hören fertig. W. V. Humboldt, Werke. XTV. 17</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

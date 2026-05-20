@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Über den Etat der Akademie der Wissenschaften</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif10humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1903">1903</date>
+                  </imprint>
+                  <biblScope unit="page" from="25" to="31"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="10.25" xml:id="pbX25"/>
+            <p>Abramson, Loos und Jachtmann*), zur Eröffnung einer Concur- renz aufzutragen und demjenigen die Arbeit zu ertheilen, welcher sich hierzu durch die beste Zeichnung und die am. meisten gelungenen bisherigen A.rbeiten legitimirte. Die mir von Ew\ Excellenz gewogenst mitgetheilten Vorschläge und Zeichnungen erfolgen in der Anlage wieder zurück.</p>
+
+            <p>Berlin, 14. März 1809.</p>
+
+            <p>Humboldt. An den Königlichen Staatsminister Herrn Grafen zu Dohna, Exe. in Königsberg.</p>
+
+            <head>
+               <title type="main">IV. Über den Etat der Akademie der Wissenschaften.</title>
+            </head>
+            <p>25. März i8og.</p>
+
+            <p>(Konzept im Geh. Staatsarchiv.)</p>
+
+            <p>Die Akademie der Wissenschaften hat mir ihren Etat für das Kalenderjahr 1809 vorgelegt und darauf angetragen, dass derselbe höchsten Orts vollzogen werde. Der bisherige Geschäftsgang in dieser Angelegenheit war, dass diese Etats zuerst von der General- controlle geprüft und unterzeichnet, nachher aber unmittelbar von Sr. Majestät dem König eigenhändig vollzogen wurden. Bei der jetzt veränderten Organisation der oberen Verwaltungsbehörden überreiche ich nach der Verordnung vom 24. November 1808 den gegenwärtigen Etat Ew. Excellenz zur Vollziehung und füge denselben nebst dessen Beilagen diesem Schreiben bei. Ew^ Excellenz werden aus dem Etat selbst und der ihn begleitenden ^^orstellung zu ersehen die Güte haben, dass die Aka- demie sich in einer sehr ungünstigen Lage befindet. Sie schliesst ihren Etat mit einem Deficit von 7081 Rthlr. 7 Gr. ab, und hat<pb n="10.26" xml:id="pbX26"/> zahlen, ohne zu wissen, woher sie diese Summe nehmen soll. Erlauben mir Ew. Excellenz jetzt Ihnen meine Meinung frei- müthig und pflichtmässig hierüber zu sagen, so muss ich zuerst dieses letzten Punktes erwähnen. Wenn die Akademie nicht der Gefahr unmässig hoher Zinsen und wucherlicher Abzüge gleich bei Aufnahme eines neuen Capitals ausgesetzt werden und ihren schon zerrütteten Finanz-Zustand noch mehr in Vervvirrung bringen soll, so müsste Gelegenheit gemacht werden, diese Summe zu billigen Bedingungen zu erhalten, und ich muss daher Ew. Ex- cellenz dringend bitten, zu versuchen, ob hierzu nicht aus irgend einer Königlichen Kasse Rath geschafft werden könnte.</p>
+
+            <p>Zur Deckung des künftigen Deficits trägt die Akademie darauf an, dass Se. Königl. Majestät allergnädigst geruhen möchten,</p>
+
+            <p>1. ihr die aus Allerhöchst Ihren Kassen noch rückständigen 3274 Thlr. 8 Gr. auszahlen zu lassen, und</p>
+
+            <p>2. auch die Bank zur Abtragung der rückständigen Zinsen von einem Südpreussischen Capitale mit 5400 Thlr. zu vermögen.</p>
+
+            <p>Gewiss wäre dies die sicherste Rettung für die Akademie, und gegen die Zinsen der Banque könnte die Akademie die der Banque wiederum schuldigen von 830 Thlr. compensiren, so dass die Banque nur noch 4570 Thlr. zu zahlen hätte.</p>
+
+            <p>So grossmüthig aber auch Se. Majestät der König die Wissenschaften und die auf sie Bezug habenden Anstalten zu unterstützen geruhen, so wage ich nicht vorauszusetzen, dass unter den jetzigen unglücklichen Umständen die Nachzahlung der aus den König- lichen Kassen rückständigen Summen möglich sei. Se. Königl. INIajestät haben Sich, so viel ich weiss, hierüber noch nicht erklärt, und es dürfte wohl hierin für die Akademie nichts anderes zu erwarten stehn, als was für alle Anstalten, die sich hierin mit ihr in gleichem Falle befinden, geschehen soll.</p>
+
+            <p>Ebenso scheint es mir zweifelhaft, ob die Banque sich zu der Zahlung der Zinsen des erwähnten Capitals wird verstehen können, da sie unstreitig selbst diese Zinsen nicht empfängt.<pb n="10.27" xml:id="pbX27"/> Deficit auf irgend eine schickliche Weise zu decken.</p>
+
+            <p>Der wichtigste Punkt wären die Ersparungen, und ich muss über dieselben nach genauer Durchgehung des Etats folgendes bemerken :</p>
+
+            <p>1. Die Gehalte für die beiden Directoren der mathematischen und philologischen Classe fallen, da diese Directoren nicht vorhanden sind und diese Gehalte von niemand gegenwärtig bezogen werden, von selbst hinweg und vermindern das Deficit um 400 Thlr.</p>
+
+            <p>2. Der Secretaire des Geheimen Ober-Finanzrathes von Borg- stede ist der Akademie schon seit zwei Jahren eine durchaus unnütze Ausgabe. Herr von Borgstede hatte nämlich, als er noch, neben seinen vielfachen Königlichen Geschäften, seine Stelle im Directorio der Akademie verwaltete, diesen Secretaire zur Bestreitung der Arbeit auf Kosten der Akademie zu halten für nöthig gefunden. Seit geraumer Zeit aber ist Herr von Borgstede nicht allein von allen Königlichen Geschäften frei, sondern auch nicht einmal mehr für die Akademie beschäftigt. Dies giebt eine Ersparung von 200 Thlr. 3. Der Director Achard geniesst 200 Thlr. für meteorologische Beobachtungen. Da nun diese nicht zu seinem schon sehr ansehnlichen Gehalte gehören, er abwesend ist und die Beobachtungen nicht einliefert, so stelle ich Ew. Excellenz gehorsamst anheim, ob vielleicht auch diese Zahlung in den jetzigen traurigen Umständen der Akademie fürs erste unterbleiben könnte.^</p>
+
+            <p>4. Die Akademie besoldet zwei Dessinateurs und drei Mecha- nicos zusammen mit 900 Thlr, Soll man unparteiisch urtheilen, so sind diese Besoldungen ohne Nutzen für die Akademie. Keine unter diesen Personen leisten ihr Dienste; die Dessinateurs sind bloss für die Zeichnungen bestimmt, die manchmal zu den Me- moiren erforderlich sind, und werden dann besonders bezahlt ; von Mechanikern bedient sich die Akademie doch meistentheils fremder und muss es. Solche Besoldungen sind aber auch unzweckmässig für die Kunst. Der einmal besoldete Künstler glaubt ein Mono- polium zu haben, verliert die Nacheiferung und verdrängt oft den</p>
+
+            <pb n="10.28" xml:id="pbX28"/>
+            <p>5. Ein sonderbarer Punkt endlich sind die sogenannten Jetons. Für diese sind im Etat 1000 Thlr. ausgeworfen, und für jedes einzelne Mitglied machen sie höchstens ein Einkommen von 50 Thlr. jährlich aus. Nichts schiene daher so einfach als ihre Auszahlung wenigstens bis man am Ende des Jahres sieht, ob Ueberschuss vorhanden ist, unausgezahlt (sie!) zu lassen. Und dennoch bin ich ungewiss, ob ich Ew. Excellenz hierzu rathen soll. Wenn ich auch nicht geradezu glauben will, was wohl oft behauptet wird, dass die Sitzungen alsdann weniger zahlreich besucht werden würden, so ist doch gewiss, dass Unzufriedenheit dadurch entstehen würde, da einige Mitglieder (denn andre sind geradezu dafür) nicht etwa aus Eigennutz, aber wegen der seit lange ein- geführten Gewohnheit an diesem Gebrauche hängen. Im Winter und bei schlechtem Wetter kann der Jeton zur Bezahlung des Wagens dienen, und auf den meisten mir bekannten grösseren Akademien existirt dieser oder ein ähnlicher Gebrauch.</p>
+
+            <p>Durch diese Ersparungen oder vielmehr für jetzt nur Zahlungs- Suspensionen würde nun das Deficit des Etats um 1500 Thlr. und mit den Jetons um 2500 Thlr. vermindert.</p>
+
+            <p>Die zweite Massregel wäre die Autorisation zum Verkauf der Tresorscheine, wenn Se. Königl. Majestät nicht zu befehlen ge- ruhen könnten, dass dieselben in einer der Königlichen Kassen für voll angenommen würden. Verkaufte die Akademie dieselben nur, da man doch das Steigen derselben fast mit Sicherheit voraussehen kann, zu dem Course von 70 bis 75, so gäbe dies abermals ungefähr 2100 Thlr.</p>
+
+            <p>Drittens sind auf die Einnahmen der Akademie zwei ihr eigentlich fremde Institute, das Collegium medico-chirurgicum mit 560 Thlr. und die Anatomie mit 335 Thr., angewiesen. Da die Akademie diese Summen auch in den letzten Jahren, wo sie selbst nichts aus Königlichen Kassen zog, fortbezahlt hat, so fänden es</p>
+
+            <pb n="10.29" xml:id="pbX29"/>
+            <p>Dringend muss freilich die Akademie, um nicht noch mehr in ihrem Finanz-Zustande zurückzukommen, Se. Majestät den König ersuchen, nunmehr vom i. Januar d. J. an ihr diejenigen Summen allergnädigst auszahlen zu lassen, welche ihr einmal etatsmässig aus Königlichen Kassen bewilligt worden sind.</p>
+
+            <p>Es ist sehr möglich, dass am Ende des Jahrs das zurückbleibende Deficit beträchtlich kleiner ausfalle, als es gegenw^ärtig den Anschein hat, denn</p>
+
+            <p>1 . können einige Artikel der Einnahme leicht mehr einbringen, als dasjenige, womit sie aus einer gev*dssen Behutsamkeit des Directoriums, nicht zu grosse Erwartungen zu erregen, angesetzt worden sind. Zu diesen gehört vorzüglich der Ertrag des Kalender- Debits.</p>
+
+            <p>2. Schmeichle ich mir mit der Hoffnung, die noch immer unentschieden schwebende Angelegenheit der Wittwe Unger*) doch wenigstens so weit zu bringen, dass ein Vergleich zu einer Terminal-Zahlung und mithin auch in diesem Jahre eine Revenue herauskomme.</p>
+
+            <p>3. Fallen auch in den Ausgaben einige geringer aus, als sie im Etat aufgeführt worden sind, obgleich hier das Minus gegen den Etat freilich nur sehr wenig bedeutend sein dürfte.</p>
+
+            <p>4. Endlich wäre vielleicht zu versuchen, der Akademie eine neue Revenue zu verschaffen, ohne den Königlichen Kassen lästig zu fallen. Die Akademie selbst hatte deswegen darauf gedacht, ihren Landkarten-Debit, nachdem ihr von den französischen Truppen alle bisher besessene Kupferplatten genommen worden sind, wiederherzustellen und deshalb 600 Thlr. in ihrem Ausgabe-Etat für dieses Jahr ausgesetzt. Da aber dafür nur zwei Platten angefertigt werden konnten und eine solche kaufmännische Unternehmung nur, wenn auf einmal ein beträchtliches Capital daran gesetzt wird, gedeihen kann, so hat das Directorium auf meine Vorstellung diesen Plan für jetzt aufgegeben. Dagegen hat die Akademie einen andern gemacht, nach w^elchem Se. Majestät der König geruhen sollten, die inländischen und auswärtigen Zeitungen, Tageblätter und<pb n="10.30" xml:id="pbX30"/> vielleicht zu viel w^äre) auf ein Zeitungsblatt einen Pfennig und ebenso viel auf jeden Bogen der heftw^eise erscheinenden Journale legte, jährlich hierdurch ungefähr 5000 Thlr. herauskommen. Sollten Ew. Excellenz diesen Gedanken auch nur im Ganzen billigen, so könnte ich sogleich einen solchen Plan in V^erbindung mit der Akademie entwerfen und Ew. Excellenz vorzulegen die Ehre haben.</p>
+
+            <p>In dem Begleitungsbericht des Directorii ist am Schluss eine Stelle über den Botanischen Garten enthalten, W'elche beinahe einer Missbilligung des demselben vorgesetzten Professors Wildenow ähnlich sieht. Ich glaube jedoch, dass derselbe vollkommen zu rechtfertigen ist, wenn er lieber keine Ersparungen machte, als einen Theil der Pflanzen des Gartens, die es immer nur in vielen Jahren wieder in gleicher Schönheit und Grösse zu haben möglich ist, einer unausbleiblichen Gefahr aussetzte. Denn gewiss ist es ganz etwas anders, w^nn man lebendige Pflanzen, als todte Bücher und Instrumente aufzubewahren hat.</p>
+
+            <p>Die Verwaltung der Finanzen der Akademie ist ausschliesslich in den Händen des Directorii, welches gegenw^ärtig bloss aus 2 Mitgliedern, dem Geheimen Finanzrath Gerhard, der an die Stelle des abvresenden Directors Achard getreten ist, und dem Director von Castillon bestehet. So treu und zweckmässig nun auch diese Herren unstreitig ihr Amt verwalten, so scheint es mir doch der neuen Organisation und dem Besten der Akademie angemessen, das Directorium anzuweisen, künftig keine nicht durch den Etat schon bestimmte Ausgabe oder gar eine sich auf das Capital-Ver- mögen, sei es durch Anleihe oder Veräusserung, beziehende Veränderung, ohne zuvor erhaltene Zustimmung der Section des öifentlichen Unterrichts vorzunehmen. Die Mitglieder der Akademie sowohl als das Directorium selbst werden, wie ich im Voraus versichern kann, hiermit vollkommen einverstanden sein.</p>
+
+            <p>Die Rechnungen der Akademie werden, der allgemeinen Verfassung nach, der Ober-Rechenkammer zur Revision zugefertigt. Auch dieses müsste künftig immer durch die Section des öffent- lichen Unterrichts geschehen.</p>
+
+            <p>Schliesslich muss ich noch bemerken, dass alles, was gegen<pb n="10.31" xml:id="pbX31"/>so gut als fertig. Es wird alsdann darauf ankommen, diesen Entwurf nach den Ideen, welche die höheren Bildungsanstalten überhaupt leiten müssen, von der Section des öffentlichen Unterrichts prüfen und nöthigenfalls abändern zu lassen, um ihn Sr. Majestät dem Könige zur Genehmigung vorzulegen. Alsdann wird freilich aufs neue auch von den Fonds der Akademie die Rede sein müssen. Aber da auch dieser Punkt alsdann mit der Sorge für alle übrigen Fonds der höheren wissenschaftlichen Anstalten in Verbindung tritt, so werden sich dann auch zweckmässigcre Vorschläge als jetzt machen lassen. Gelangen wir unter Ew. Excellenz einsichtsvoller Leitung zu diesem Punkte, glückt es, der Akademie noch fünf bis sechs wahr haft ausgezeichnete inländische oder auswärtige Mitglieder zu geben, und ist die Verfassung von der Art, dass die Akademie fühlet, dass sie von der Regierung als eine achtungswürdige und selbstständige Corporation geehrt wird, so wird sie für die Wissenschaften und die Nationalbildung einen grossen und dauernden Nutzen stiften.</p>
+
+            <p>Denn was auch vorzüglich neuerlich über Akademien gesagt und geschrieben worden sein mag, so ist es unleugbar, dass es dem Unterrichts - Systeme einer bedeutenden und selbständigen Nation schlechterdings an der letzten und schönsten Vollendung fehlt, wo nicht eine Akademie der Wissenschaften alle Zweige derselben in sich vereinigt und gerade ihre höchsten und feinsten Theile verfolgt. Ebenso gewiss ist es, dass eine Akademie nicht mit einer Universität A^erwechselt werden darf, dass jene zur Erweiterung, diese mehr zur Verbreitung der Wissenschaften bestimmt ist, und dass nicht jedes Mitglied der einen Anstalt dadurch auch der anderen würdig genannt werden kann. Dass es aber dem Preussischen Staate möglich ist, gerade im gegenwärtigen Augenblick doch ein solches Bildungs- und wissenschaftliches System aufzustellen, das auf ganz Deutschland einen be-</p>
+         </div>
+      </body>
+   </text>
+</TEI>

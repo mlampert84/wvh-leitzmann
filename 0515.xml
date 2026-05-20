@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bemerkungen zur Entstehungsgeschichte der einzelnen Aufsätze</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Fünfter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif05humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1906">1906</date>
+                  </imprint>
+                  <biblScope unit="page" from="476" to="481"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="5.476" xml:id="pbV476"/>
+            <head>
+               <title type="main">Bemerkungen zur Entstehungsgeschichte der einzelnen Aufsätze.</title>
+            </head>
+            <p>I. Inwiefern läßt sich der ehemalige Kultur zustand der eingeborenen Völker Amerikas aus den Überresten ihrer Sprachen beurteilen? (vgl. Steinthal, Die sprachphilosophischen Werke Wilhelms von Humboldt S. 8).</p>
+
+            <p>Über die älteren Phasen von Humboldts amerikanischen Sprachstudien habe ich Band ß, ß'j6 und 4, 4^8 das Wesentliche zusammengestellt. In den ersten Jahren nach seiner Entlassimg gehört seine ganze wissenschaftliche Muße, soweit sie ihm die klassischen imd die neubegonnenen Sanskritstudien frei ließen, der Erforschimg dieses weitverzweigten Sprachstammes, der nach zwei Richtungen hin bearbeitet werden sollte: einmal sollten empirisch die Grammatiken der einzelnen Sprachen auf Grund des vorhandenen Materials auf eine wissenschaftliche Basis gestellt werden, wozu der sprachwissenschaftliche Nachlaß eine fast unübersehbare Fülle von mehr oder weniger kritisch verarbeiteten Materialien und Notizen enthält ; dann aber sollten sprachphilosophisch die allmählich immer klarer sich ausgestaltenden Ideen über Wesen und Entwicklung der menschlichen Sprache überhaupt, auf die Humboldts gesamtes Sprachstudium von Anfang an als auf ein letztes Ziel gerichtet war, an eine Darlegung des amerikanischen Sprachtypus angeknüpft werden (Humboldt an Welcker, 7. Mai und 6. November 1821 ; an Pickering, 12. März und g. Oktober 1822). Neben den mittel- und südamerika- nischen Idiomen, auf die sich bis dahin Humboldts Interesse allein konzentriert hatte, traten seit Anfang der zwanziger Jahre, hauptsächlich durch Pickerings Vermittlung, nun auch die nordamerikanischen Indianer sprachen in den Kreis der Betrachtung und des Studiums, wodurch der Ring der amerikanischen Sprachtypen sich schloß. An den etwa dreißig Einzelgrammatiken, die vor der allgemeinen Studie verfaßt wurden, aber erst nach deren Vollendung veröffentlicht werden sollten, was dann, da jene immer größere Dimensionen annahm und in ihrer Grundanlage wesentliche Veränderungen erfuhr, überhaupt niemals geschehen ist, hat Humboldt in den Jahren 1820—23 rastlos gearbeitet: hatte er zuerst gehofft, trotz der Fülle des zu bewältigenden Materials ziemlich rasch damit vorwärtszukommen (an Bopp, 27. April 1820), so verging doch ein Jahr nach dem andern, bis er diesen Bau notdürftig und in seinen verschiedenen Teilen nicht über- all gleichmäßig unter Dach brachte (an Pickering, 12. März und g. Oktober 1822; an Schlegel, 8. April 1823). Ehe dann aber die allgemeine Studie begonnen wurde, entstand als eine Art Vorläufer derselben und zugleich als ein Beweis, wie sehr<pb n="5.477" xml:id="pbV477"/> neben den Sprachen Amerikas auch seine frühere Geschichte und Kulturgeschichte Humboldts Teilnahme erregt hatte, die Abhandlung über den ehemaligen Kulturzustand der Amerikaner. Sie war zum Vortrag in der Berliner Akademie bestiynmt (vgl. S. -;), doch läßt sich der Zeitpunkt der Vorleswig nicht genauer feststellen ; niedergeschrieben ist sie zweifellos im Laufe des Jahres 182J, da sie Anfang 1824 fertig vorlag (Humboldt an Ritter, 22. März 1824; vgl. auch S. i2j) und im Winter 182J — 24 ein hartnäckiges Augenübel Humboldt um den größten Teil seiner Muße brachte (an Schlegel, /j. April 1824; an Welcker, 22. Mai 1824; an Pickering, 2g. Juni 1824).</p>
+
+            <p>Über der Handschrift hat ein böser Stern gewaltet wie überhaupt über vielen von Humboldts amerikanischen Papieren. Sie katnen nach Humboldts Tode in die Hände seines jüngeren wissenschaftlichen Mitarbeiters Buschmann, der auch die Herausgabe des Kawiwerkes besorgt hat und dessen Scharfsinn wir eine Reihe wichtiger eigener Arbeiten über die Sprachen Amerikas verdanken. Er hat die Handschriften des Verewigten, die zudem gar nicht sein persönlicher Besitz, sondern der Berliner Königlichen Bibliothek vermacht wareyi, an der er selbst Beamter war, auf eine Weise behandelt, die nur als rücksichts- und pietätlos bezeichnet werden kann: nicht nur hat er fertige Abhandlimgen in einzelne Fragmente aufgelöst, die man sich jetzt aus den verschiedensten Mappen des Nachlasses mühsam zusammensuchen muß, sondern auch viele Aufsätze stilistisch durchkorrigiert und durch Striche und Zusätze verunstaltet, ja sogar ganze Blätter zerschnitten tmd überhaupt diese Reliquien wie eine eigene Kladde benutzt. Die historische Erkenntnis und Verwertung dieser Papiere hat er dadurch ungemein erschwert und den Herausgeber genötigt, viel Zeit und Mühe auf die Wiedergewinnung des ursprünglichen Zusammenhanges zu verwenden. So fand sich, eine Tatsache, die selbst Steinthals prüfendem Auge entgangen ist, unsre Abhandlung I mit der weit jüngeren Abhandlung i^ imter Beseitigung einer ganzen Anzahl von Blättern, die sich in den verschiedensten Faszikeln fanden, zu einer einzigen zusammengeschweißt.</p>
+
+            <p>2. Über den Zusainmenhang der Schrift mit der Sprache (vgl. Haym, Wilhelm von Humboldt S. 4jg; Pott, Wilhelm von Humboldt und die Sprachwissenschaft S. CCCLXVJ.</p>
+
+            <p>Durch die genialen Entzifferungsversuche des jüngeren Champollion war im Anfang der zwanziger Jahre das Interesse der Sprach- imd Kulturforscher für die ägyptischen Hieroglyphen von neuem wachgerufen worden. Humboldts Aufmerksamkeit war schon früher durch Zoega auf die Probleme der Schriß, ihrer Entwicklung und Geschichte gelenkt worden. Im Winter 182^ — 24 begann er eine selbständige Untersuchimg über das Verhältnis von Sprache und Sch-ift, in welcher er auch die Hieroglyphen und zwar noch ohne Kenntnis von Cham- pollions Arbeiten behandelte (an Welcker, 22. Mai 1824). Glücklicherweise fielen ihm aber die letzteren noch rechtzeitig in die Hände (vgl. auch Briefe Alexanders von Humboldt an seinen Bruder Wilhelm S. iiß) und gaben ihm Gelegenheit, seine Ansichten einer gründlichen Umarbeitimg zu unterziehen und sich itiit den Resultaten des französischen Gelehrten eingehend auseinanderzusetzen ; der allgemeine Teil blieb wohl im wesentlichen, wie er gewesen war. Der Abschnitt über Champollions phonetische Hieroglyphen wurde dann im März 1824 in der Akademie gelesen, aber vom Druck in deren Abhandlungen zurückgehalten. Auch der übrige<pb n="5.478" xml:id="pbV478"/> Teil der Arbeit blieb ungedruckt, weil der Verfasser sich unmittelbar an eine neue Behandlung der gleichen Probleme machte.</p>
+
+            <p>j. Über die Buchstabenschrift und ihren Zusammenhang mit dem Sprachbau (vgl. Haym S. 4jg; Pott, Wilhelm von Humboldt und die Sprachwissenschaft S. CCCLXVJ.</p>
+
+            <p>Diese Abhandlung entstand unmittelbar nach der vorhergehenden und wurde am 20. Mai 1824 in der Akademie gelesen und in der öffentlichen Leibnizsitzung vom ^. Juli in Abwesenheit des Verfassers wiederholt. Im Dezember brachte das Journal asiatique 5, ^6g noch vor der Drucklegung des Originals einen kurzen Auszug, den Schultz auf Grund des nach Paris geschickten Manuskripts verfaßt hatte (Humboldt an Welcker, 16. Mai 1825; an Schlegel, i'j. Juni 1825; vgl. auch Briefe Alexanders von Humboldt an seinen Bruder Wilhelm S. i^i. iß4). Ein projektierter zweiter Teil über die ägyptische Schrift, wegen dessen auch mit dem Druck des ersten gezögert wurde, ist nicht geschrieben worden (Humboldt an Welcker, 22. Mai 1824). Erst im Frühjahr 1826 konnte Humboldt die gedruckte Abhandlung an die Freunde versenden (an Welcker, Anfang Februar 1826; an Schlegel, 5. März 1826; an Klaproth, 16. März 1826; an Grimm, 26. März 1826; an Goethe, 16. Mai 1826).</p>
+
+            <p>4. Über vier ägyptische löwenköpfige Bildsäulen in den hiesigen königlichen Antikensammlungen (vgl. Haym S. 4jg)Die Abhandlung ist eine Frucht von Humboldts eingehendem Studium der Arbeiten Champollions zur Entzifferung der Hieroglyphenschrift imd erfuhr durch eine Korrespondenz mit diesem in der Handschrift eine wesentliche Umgestaltung (Humboldt an Bunsen, 28. September 1826 imd ji. März i82y). Sie wurde am 24. März 182$ in der Akademie gelesen und zwar in der älteren Fassung. Der Abdruck wurde erst im Sommer 182-] an die Freunde versandt (Humboldt an Bunsen, 8. Juni 182J; an Welcker, 8. Juli i82j).</p>
+
+            <p>5. Über die Bhagavad-Gita.</p>
+
+            <p>Langlois hatte im Journal asiatique 4, lOß. 2j6. 5, 240 Schlegels vortreffliche Ausgabe und Übersetzung des indischen philosophischen Epos Bhagavad-Gita (vgl. 6) einer scharfen und vielfach ungerechten Kritik unterzogen, worauf sich Humboldt veranlaßt sah, für sie, die er für meisterhaß hielt, eine Lanze zu brechen (an Welcker, 16. Mai 182s; an Schlegel, 77. Juni 1825) und seine abweichenden Meinungen in Form eines Sendschreibens an den Herausgeber zum Ausdruck zu bringen, das dieser dann in seine Indische Bibliothek aufnahm. Am 8. Mai 1825 ging die Arbeit zur Begutachtung an Bopp, am 77. Jimi an Schlegel ab, der durch briefliche Erörterungen eine Reihe kleinerer Änderungen verursachte und sich auch seinerseits durch längere dem Abdruck eingefügte Bemerkungen über einige wichtige Differenzpunkte aussprach (Humboldt an Schlegel, 5. März und 4. und 18. September 1826).</p>
+
+            <p>6. 12. Über die unter dem Namen Bhagavad-Gita bekannte Episode des Mahabharata (vgl. Haym S.s8o; Garbe, Samkhya und Yoga, Straßburg i8g6).</p>
+
+            <p>Hatte die vorige Abhandlung es mit der Erläuterung einzelner Begriffe und<pb n="5.479" xml:id="pbV479"/> Stellen der Bhagavad-Giia zu tun, so sucht diese den philosophischen Ideengehalt des Gedichts im Zusammenhang zu erörtern. Humboldt hatte das Gedicht während des Sommers 182^ in Ottmachau zuerst eingehend studiert und es hatte bei seiner Vorliebe für philosophische Gedankendichtungen gleich damals auf ihn einen so tiefen Eindruck gemacht, wie er ihn sonst nur von den allerbedeutendsten poeti- tischen Schöpfungen erfahren hatte: er war von dem wundervollen Gefühl einer altertümlichen, großartigen und tiefsinnigen Menschheit aufs innigste ergriffen, erklärte sich von Dankbarkeit gegen das Schicksal erfüllt, daß es ihn habe leben lassen, um noch diese Dichtung kennen zu lernen, und gestand, daß sie eine Erscheinung sei, die er um alles nicht hätte beim Scheiden von dieser Erde ungekannt zurücklassen mögen (an Schlegel, 21. Juni 182J; an Gentz, i. März 1828). Seit dem April 182s hatte er das Werk aufs neue vorgenommen und widmete nun längere Zeit dem Studium der darin dargestellten Form der indischen Philosophie (an Welcker, 16. Mai und 26. Oktober 182s; an Schlegel, ry. Jimi 182^, 5. März und 4. September 1826). Der erste Teil der Abhandlimg wurde am jo. Juni 182$, der zweite am /j. Juni 1826 in der Akademie gelesen imd beide am g. Juli der beiden genannten Jahre in den öffentlichen Leibnizsitzungen wiederholt. Der Druck, der zunächst für den Sommer 1826 geplant war (Humboldt an Welcker, Anfang Februar 1826), verzögerte sich bis zum Herbst dieses Jahres (Humboldt an Schlegel, 4- September 1826). Im Oktober sandte der Verfasser das Heft den auswärtigen Freunden zu (an Goethe, ßo. September 1826; an Schlegel und Welcker, 10. Oktober 1826; an Friedländer, 22. Oktober 1826; an Bunsen, 8. Juni 182J; vgl. auch Karoline von Humboldt an Rennenkampff, 18. November 1826). Kein geringerer als Hegel Heß im Januar- und Oktoberheft 182J der neugegrün- deten Jahrbücher für wissenschafiliche Kritik eine ausführliche Besprechung der Humboldtschen Arbeit erscheinen (Werke 16, göo), in der er der indischen Philo- sophie durchaus nicht den hohen Wert zuschreiben zu können erklärte, den sie in des Verfassers Augen besafL Humboldt dankte dem Rezensenten in einem freundlichen Schreiben (an Hegel, 25. Januar 182-]), meinte jedoch in Hegels Ausfüh- rimgen eine Verrückung des wahren Standpimkts der Beurteilimg und eine Verkennung seiner Eigenart sehen zu sollen, die er selbst in den Grundzügen der indischen Vertiefungslehre so nahe verwandt fühlte (an Niebuhr, 28. März i82j; an Gentz, i. März 1828).</p>
+
+            <p>7. Programm des Vereins der Kunstfreunde im preußischen Staate (vgl. Haym S. 601).</p>
+
+            <p>Als im Jahre 1825 der preußische Verein der Kunstfreunde in Berlin sich bildete, der sich die Unterstützung vaterländischer, in Rom arbeitender und studierender Künstler und ihre Anregimg zu künstlerischen Arbeiten zur Aufgabe gemacht halte, erschien Humboldt zur Übernahme des Präsidiums wegen seiner vielseitigen ästhetischen Bildung und seiner langjährigen engen Beziehungen zur römischen Kunstwelt vor allen andern geeignet (an Welcker, 26. Oktober 1825). Er hat dann bis zu seinem Tode diese Stellung bekleidet und die jährlichen Berichte über die Tätigkeit des Vereins durch Betrachtungen allgemeineren Charakters über Ziele, Richtungen und Aufgaben der Kunst und einzelner ihrer Zweige über die in gleichen Fällen übliche rein geschäftliche Rechenschaüsablegung in eine höhere und gehaltvollere Sphäre zu erheben versucht. Die Entstehungszeiten der<pb n="5.480" xml:id="pbV480"/> einzelnen Berichte ergeben sich aus dem jedesmaligen Datum, so daß besondere Bemerkungen nur in einigen wenigen Fälleti erforderlich sind.</p>
+
+            <p>8. Notice d'une grammaire japonaise imprimee ä Mexico (vgl. Pott, Wilhelm von Humboldt imd die Sprachwissenschaß S. CCCLXXXI).</p>
+
+            <p>Über die Entstehungszeit dieser ursprünglich für das Journal asiatique bestimmten, dann aber einer Abhandlung des Orientalisten Landresse vorgedruckten Arbeit ist nichts Genaueres bekannt. Sie dürfte ins Ende des Jahres 1825 fallen, da Humboldt Anfang 1826 ihr nahes Erscheinen in Aussicht stellt (an Welcker, Anfang Februar 1826). Über die Persönlichkeit des sprachlichen und stilistischen Korrektors, dui-ch dessen Hand das Manuskript vor der Drucklegung gegangen ist, habe ich nichts ermitteln können.</p>
+
+            <p>g. Kunstvereinsbericht vom 29. Januar 1826.</p>
+
+            <p>10. Lettre ä Monsieur Abel-Remusat sur la nature des formes graminaticales en general et sur le genie de la langue chinoise en particulier (vgl. Haym S. 438; Pott, Wilhelm von Humboldt und die Sprachwissenschaß S. CCCXXIII). Die entscheidende Anregung, sich eingeJiender mit dem Chinesischen und der Bedeutung des in ihm verkörperten Sprachtypus für die allgemeine Sprachphilosophie zu beschäßigen, erhielt Humboldt durch den Mann, durch dessen Forschungen das Chinesische überhaupt zuerst dem grammatischen Verständnis eröffnet wurde, nachdem es bis dahin für Europäer fast imzugänglich gewesen war, durch Abel-Remusat. Seine grimdlegende chinesische Gi-ammatik war Hum- boldt natürlich gleich nach ihrem Erscheinen bekannt geworden (vgl. auch Briefe Alexanders von Humboldt an seinen Bruder Wilhelm S. iij) und er hatte selbst auch schon in der Abhandlung über das Entstehen der grammatischen Formen auf das Chinesische hingewiesen, aber erst eine im Juli 1824 erschienene Besprechung dieser Abhandlung durch Remusat f'Joumal asiatique 5, ^i) wies ihn von kundigster Seite darauf hin, wie viel wichtige Aufschlüsse über die allgemeinen sprachlichen Problerne aus dem Studium dieses eigenar'tigen Idioms zu gewinnen seien. Aus diesem Grunde hat Humboldt dann auch den Ergebnissen seiner chinesischen Forschmigen die Fo?-m eines Sendschreibens an Remusat ge- geben, dessen Niederschrift, Ende 182^ begonnen, im März 1826 abgeschlossen wurde (an Welcker, Anfang Februar 1826). Der Druck fand zu Beginn des Jahres 182'] in Paris unter den Augen seines Bruders Alexander statt und war im März beendet (vgl. Briefe Alexanders von Humboldt an seinen Bruder Wilhelm S. 144. ISO.). Im Laufe des Jahres ging die Abhandlimg den auswärtigen Freunden zu (Humboldt an Welcker, 6. April 182'j ; an Bimsen, 8. Juni 182-]; an Grimm, 8. Juli 1&amp;7; an Pickering, 22. September 182J). Auch hier habe ich die Persönlichkeit des französischen Korrektors nicht feststellen können.</p>
+
+            <p>Ji. Über den grammatischen Bau der chinesischen Sprache. Dieser am 20. März 1826 in der Akademie gelesene Aufsatz ist eine beinahe wörtliche Übersetzung einiger Abschnitte des französischen Sendschreibens ar Remusat und etwa zur gleichen Zeit oder unmittelbar nach diesem entstanden.</p>
+
+            <p>12. Vgl. oben 6.</p>
+
+            <pb n="5.481" xml:id="pbV481"/>
+            <p>Nach eitlem in Humboldts Nachlaß erhaltenen Titelblatt, das sich nicht wohl auf eine andre Arbeit beziehen kann, aber durch Buschmann von den zugehörigen Bogen abgelöst worden ist, ist diese Abhandlung am 18. Mai 1826 begonnen worden und ich habe sie auf Grund dieses Zeugnisses an dieser Stelle eingeordnet, zumal auch die Erwähnimg des Todes Vaters (oben S. j^oj dazu stimmt. Die Handschrift ist von Buschmann, wie oben erörtert worden ist, niit der von Abhandlung I zu einem Ganzen verschmolzen, das ich wieder in seine Bestandteile aufzulösen mir habe angelegen sein lassen.</p>
+
+            <p>14. Grundzüge des allgemeinen Sprachtypus (vgl. Steinthal, Die sprachphilosophischen Werke Wilhelms von Humboldt S. 8).</p>
+
+            <p>Die Ausarbeitung dieser Abhandlung, der letzten, die die allgemeinen sprachphilosophischen Erörterungen mit der Darstellung des amerikanischen Sprachtypus verknüpft, fällt in die Jahre 1824—26. Im Sommer 1824 hoffte Hmiboldt nach dem Abschluß der Einzelgrammatiken der amerikanischen Idiome bald an die projektierte allgemeine Abhandlung über Sprache gehen zu können (an Pickering, 29. Juni 1824); seit dem Winter 1824 — 25 war er eifrig mit ihr beschäfiigt, soweit nicht andre Arbeiten seine Zeit in Anspruch nahmen (an Welcher, 16. Mai 182^; an Schlegel, ly. Juni 1825). So unterbrachen die indischen und chinesischen Studien für einige Zeit die fortschreitende Niederschrift, die erst itn Frühjahr 1826 wieder aufgenommeji und während des Rests des Jahres eifrig neben den empirischgrammatischen Arbeiten über amerikanische Sprachen gefördert wurde (Humboldt an Bopp, 2. September 1826J. Die Abhandlung ist Fragment geblieben, weil ein neuer Sprachstamm, der malaiische, Humboldts Forschergeist seit 182-] mit Macht anzog und die amerikanischen Neigungen mehr und mehr zurückdrängte; aus dem allgemeinen Teil sind wesentliche Stücke dann in den nächsten großen Versuch, das Problem der Sprache auf breiter philosophischer Basis zu lösen, wörtlich übernommen worden.</p>
+
+            <p>Jena, 8. Juni igo6.</p>
+
+            <p>Albert Leitz mann.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

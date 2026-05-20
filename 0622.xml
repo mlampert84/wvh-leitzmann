@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Kunstvereinsbericht vom 29. März 1834</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Sechster Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif0602humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1907">1907</date>
+                  </imprint>
+                  <biblScope unit="page" from="592" to="598"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1834">1834</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="6.592" xml:id="pbVI592"/>
+            <p>20.</p>
+
+            <head>
+               <title type="main">Kunstvereinsbericht vom 29. März 1834.</title>
+            </head>
+            <p>Wenn das Directorium seinen Vortrag auch in diesem Jahre mit der Anzeige anfangen muss, dass noch mehrere der von ihm gemachten Bestellungen rückständig sind, so darf dies bei Arbeiten nicht befremden, die künstlerische Stimmung erfordern. Wir müssen vielmehr einen Ersatz in der Hoffnung finden, dasjenige, was wir bei der gegenwärtigen Verloosung mit Bedauern vermissen, bei der nächsten erscheinen zu sehen. Denn wir dürfen gewiss in den Eifer der Künstler für ihren Beruf und in ihre Theilnahme an unsrem Unternehmen das Vertrauen setzen, dass sie diese Hoffnung, die selbst ein Ausdruck des Werthes ist, den wir auf ihre Leistungen legen, zu erfüllen bemüht seyn werden. Von Gemälden, deren Gegenstände uns bereits bekannt sind, sehen wir noch einer Scene aus dem letzten Kriege von Herrn Professor Krüger und Herrn Schirmers Landschaft, einer Ansicht der Gegend von Altenahr, entgegen. Herr Lessing, Bendemann und Henning haben dem Directorium bis jetzt nicht angezeigt, welche Gegenstände sie zu bebandeln beabsichtigen. Herr Lasinsky hat uns eine sehr gelungene Zeichnung einer von ihm auszuführenden Ansicht von Oberstein eingesandt. Die Glaspasten, welche Herr Calandrelli, unter der Leitung des Herrn Professors Rauch, von dem die Bändigung des Pegasus</p>
+
+            <p>Handschrift von Schreiberhand (20 halbbeschriebene Folioseiten) mit eigenhändigen Korrekturen Humboldts im Archiv in Tegel. — Erster Druck: Verhandlung der am 29. März i8j4 gehaltenen Versammlung des Vereins der Kunstfreunde im preußischen Staate S. ^ — ig (iS^4)<pb n="6.593" xml:id="pbVI593"/>durch den Bellerophon vorstellenden Cameen des Herrn Medailleurs ^^oigt zu verfertigen übernommen hat, sind noch nicht vollendet, da sich technische Schwierigkeiten bei dem Unternehmen gezeigt haben. Dagegen rücken, nach den vorgelegten Probeabdrücken, die beiden Herrn Lüderitz und Eichens aufgetragenen Kupferstiche von Lessings Schloss am Meer und Steinbrücks Maria befriedigend vor.</p>
+
+            <p>Die hier versammelten geehrten Mitglieder des Vereins erinnern sich vielleicht noch, dass im Jahre 1832. der Beschluss gefasst worden w^ar, die vier kleinen Gyps-Modelle, welche den Preis von hundert Thalern erhalten hatten, durch den akademischen Künsder Herrn Müller in Bronze giessen zu lassen. Dieser hat auch die in der vorigjährigen Versammlung verlooste Bronze des Herrn Drake, Maria mit dem Kinde, ausgeführt, sich aber dem Gusse der andren drei Modelle nicht ferner unterziehen wollen. Die Arbeit ist daher jetzt, auf den Wunsch des Künstlerausschusses, von Herrn Fischer besorgt worden, und es kommen heute der Amor des Herrn Bräunlich, der auf einem Panther sitzende Bacchant des Herrn Möller, und die Ariadne des Herrn Troschel, sämmtlich in Bronze, zur Verloosung. Zu einem für die nächste Verloosung bestimmten Bronze-Guss hat der Künsderausschuss ein von Herrn Reinhardt herrührendes Modell, ein Bacchuskind auf einem Panther, angekauft. Solche kleinere plastische Arbeiten sind vorzüglich geeignet, den Compositionssinn der Künstler zu prüfen und zu bilden, und dürfen sich daneben gewiss auch als geschmackvolle Zimmerverzierungen eine willkommene Aufnahme bei denjenigen versprechen, in deren Besitz sie gelangen.</p>
+
+            <p>Mit besondrem Vergnügen w^erden die Mitglieder des Vereins auf der vom Directorium veranstalteten Ausstellung die beiden, nunmehr eingegangenen Bilder der Herren Hildebrandt und Sohn gefunden haben. W^ir überlassen es den Kennern und Kunstfreunden, die Verdienste dieser beiden, sich schon durch ihre Grösse auszeichnenden Arbeiten zu würdigen. Nur über die Art, wie beide Künstler ihren Gegenstand aufgefasst haben, sey es mir erlaubt, einige Worte hinzuzufügen.</p>
+
+            <p>Der von Herrn Sohn gewählte, Diana und Aktäon, unterlag der grossen Schwierigkeit, den einen Theil desselben, das Schicksal des Unglücklichen, der vielleicht nicht einmal die Schuld absichtlicher Neugier büsste, auf eine geschmackvolle, und noch weit W. V. Humboldt, Werke. VI. 38<pb n="6.594" xml:id="pbVI594"/> mehr auf eine, das Gefühl nicht unangenehm verletzende Weise darzustellen. Auch den antiken Bildwerken ist es nicht gelungen, diese Schwierigkeit zu besiegen. Herr Sohn hat die kühne, aber, wie auch die Wirkung bestätigt, sehr verständige Parthie ergriffen, diesen Theil des Gegenstandes aus der unmittelbaren Darstellung ganz wegzulassen. Er hat sich aber zugleich das Ziel gesteckt, ihn ganz und unverkennbar in den andren, für die künstlerische Behandlung gerade vorzugsweise geeigneten zu legen, und hat aus der Entfernung eines misfälligen Gegenstandes eine gehaltvollere Darstellung des übrigbleibenden höchst glücklich hervorgehen lassen. Daher kommt es nun, dass man den Aktäon auf dem Bilde vergebens sucht, aber eigentlich nicht sucht, da man ihn, sein Schicksal schon hinreichend angedeutet findend, gar nicht vermisst. Denn indem die ganze Gruppe, verbunden mit der Landschaft, eine Belauschung oder Ueberraschung im Bade zeigt, verräth der strafende Blick der Göttin die bevorstehende Vernichtung des Frevlers, und aus beidem zusammengenommen springt von selbst die Erinnerung an die sehr bekannte Fabel hervor. Den Contrast zwischen der Göttin und den sich zu ihr flüchtenden Nymphen hat der Künstler sehr charakteristisch zu zeichnen verstanden, und es war schon ein glücklicher Gedanke, sowohl für die Einheit, als die Anmuth der Composition, ihn zum hauptsächlichen Motive derselben zu machen. Die Göttin ragt allein stehend aus den um sie niedergebückten Nymphen hervor. Sowohl in dem Baue der Glieder, als in den Gesichtszügen liegt eine feine, aber ausdrucksvoll gehaltene Abstufung von der hohen göttlichen Natur zu der mehr untergeordneter, der Menschheit näher stehender Wesen. Auf dem Antlitz der Nymphen malen sich bloss Schrecken und Verwirrung, in dem Blicke der Göttin verbindet sich das Gefühl gerechter Erbittrung mit dem der Sicherheit der durch die Vernichtung des Schuldigen zu nehmenden Rache. Die treffliche Behandlung der Landschaft erhöht den Werth dieser schönen Composition.</p>
+
+            <p>Herrn Hildebrandts, auch in den kleinsten Details meisterhaft gelungenen Schilderung einer häuslichen Scene dürfen wir im Voraus die Gunst und die Theilnahme jedes gefühlvollen Ge- müthes versprechen. Das Bild hat etwas ungemein Rührendes und wehmüthig Bewegendes, und jeder würde ihm gern den Platz anweisen, an dem er sich am liebsten solchen Empfindungen über- lässt. Der Künstler hat seinen Gegenstand aus den allgemeinen<pb n="6.595" xml:id="pbVI595"/> Ereignissen des menschlichen Daseyns geschöpft, und zu seiner Schilderung eine Stimmung gewählt, die, in mehr oder weniger verschiedener Gestalt, öfter im Leben wiederkehrt, die sorgenvolle Bekümmerniss der bevorstehenden Trennung von einem geliebten, schutzlos zurückbleibenden Wesen. Er hat diesen Stoff nicht an etwas Geschichtliches angeknüpft, so dass der Beschauer schon eine bestimmte Individualität zu dem Bilde hinzubrächte. Durch diese Beschränkung auf die eigne Individualisirung, so wie durch die Natur des aus der allgemeinen Wirklichkeit aufgenommenen Stoffs hat er sich die zwiefach schwierige Aufgabe vollendeter Naturwahrheit und desjenigen dichterischen Schwunges gestellt, den ein Stoff dieser Art am wenigsten entbehren kann. Denn ohne diese, allein aus der inneren Auffassung des Künstlers herrührende Zugabe, artete die Wirkung einer solchen Darstellung unfehlbar in unkünstlerische Sentimentalität aus, eine für die Kunst viel gefährlichere Klippe, als die der gleichgültig lassenden Kälte, da ein Abweg immer verführerischer ist, zu dem ein in sich edles Gefühl verleitet. Durch die unübertreffliche Wahrheit, sowohl in den unbedeutendsten Beiwerken, als in der Haltung und den Gesichtszügen der Figuren, schHesst sich Herrn Hildebrandts Arbeit an die edelsten Familienbildnisse an, und kann an die meisterhaftesten Genre -Bilder im höheren Style erinnern. Dennoch unterscheidet es sich gewiss von diesen beiden Gattungen. Das Genre-Bild schöpft seinen Stoff auch unmittelbar aus dem Leben, schildert aber ganz eigentlich das Leben selbst, und führt daher mehr in die Wirklichkeit hinaus, als in die Seele zurück. Es verlässt seine eigentliche Gattung, wenn es tiefere Empfindungen weckt. Es liebt, nur leichtere anzuregen, und steht daher gern dem Piquanten und Komischen nahe. Selbst dass die Genre- Bilder gewöhnlich kleinere Bilder sind, hängt gewissermassen mit ihrer Natur zusammen. Die scheinbare Anspruchlosigkeit und das Zusammendrängen eines in allen seinen Einzelnheiten auf einem kleinen Räume dargestellten Lebens in den Reflex Eines glücklich gewählten Moments erhöht sichtbar den Effect. Das Portrait unterliegt immer einer Beschränkung durch die Wirklichkeit. Selbst bei der freiesten, schönsten Behandlung des Künstlers ist es sogar seine Absicht zu zeigen, dass er seine Freiheit der ge- gebenen Individualität unterordnete, und er erscheint offenbar anders, wenn er eine selbstgewählte Individualität nur als eine Stufe betrachtet, sich in der Ausführung zu etwas Höherem zu<pb n="6.596" xml:id="pbVI596"/> erheben.^) In solcher frei dichtenden Stimmung kann er aber ebensowohl lyrische als epische Gegenstände behandeln, und hier, im Gebiete des Elegischen, müssen wir die Wirkung des vorliegenden Gemäldes suchen. Es reiht sich in dieser Hinsicht an einige andre, neuerlich mit grossem Beifall aufgenommene an, mit welchen es interessante Vergleichungspunkte darbietet, die es nur hier nicht der Ort zu verfolgen ist.</p>
+
+            <p>Die beiden, so eben erw^ähnten Bilder sind leider so frisch gemalt in diesem Jahre bei uns angekommen, und sind zum Theil noch jetzt so nass, dass sie nicht vor dem Sommer gefirnisst werden können, ohne sie gänzlichem Verderben auszusetzen. Auch würde die Zeit zwischen ihrer Ankunft und der heutigen Verloosung zu kurz zur Anfertigung der Zeichnungen für die radirten Blätter gewesen seyn, und doch ist es ein Grundsatz unsres Vereins, die verloosten Bilder immer unmittelbar nach der Verloosung abzuliefern, von dem sich das Directorium nicht abzugehen erlauben durfte. Unter diesen Umständen hat es uns das Angemessenste geschienen, diese Arbeiten von der heutigen Verloosung auszu- schliessen, und für die nächstfolgende aufzubewahren. Wenn hieraus ein bedaurungswürdiger Aufschub entsteht, so wird es nun auf der andren Seite, was gewiss den Künstlern selbst, so wie allen Freunden der Kunst erwünscht seyn wird, möglich, dieselben mit zu der akademischen Ausstellung im nächsten Herbste zu bringen. Denselben Beschluss und aus ganz ähnlichen Gründen hat das Directorium wegen eines dritten, von Herrn Hopfgarten angekauften Bildes fassen müssen, der Wegführung von Christen- sclaven durch gelandete Barbaresken, einer an lieblich zusammengestellten Gruppen und reizenden Details reichen, sorgfältig und schön ausgeführten Composition.</p>
+
+            <p>In den zur heutigen Verloosung bestimmten Bildern hat sich der Künstlerausschuss bemüht, den Mitgliedern des Vereins eine erfreuliche Mannigfaltigkeit grösserer und kleinerer Darstellungen, unter welchen viele landschaftliche sind, darzubieten. Auch von</p>
+
+            <p>V Nach „erheben^' gestrichen: „Das Bild, von dem wir hier reden, gehört offenbar, auch der Auffassung des Künstlers nach, zu den historischen. Denn man kann den Begriff derselben nicht bloss auf den zufälligen Umstand beschränken, dass sie sich an etwas wirklich Geschehenes, oder in bekannter Dichtung Dargestelltes anlehnen. Was sie charakterisirt, liegt offenbar tiefer in ihrer inneren Natur. Historische Bilder brauchen aber nicht immer episch zu schildern, sie können auch lyrische Empfindungen darstellen und erwecken."<pb n="6.597" xml:id="pbVI597"/> den kleineren werden bei der Ausstellung gewiss einige die Aufmerksamkeit besonders auf sich gezogen haben. Ich darf hier um so mehr Herrn Meyerheims i)Thor zuTangermünde nennen, als sich die geehrte Versammlung gewiss mit Vergnügen der von diesem Künstler herausgegebenen schönen lithographirten Ansichten einiger Städte der Altmark erinnert. Bei dem von uns angekauften kleinen Gemälde wundert man sich mit Recht, wie es möglich war, einem scheinbar wenig künstlerischen Gegenstande ein so reizendes und anmuthvolles Bild abzugewinnen. Es zeigt sich hier, wie in andren ähnlichen Beispielen, dass, bei richtiger Auffassung der Natur, der Künstler nur ein Stück aus ihr herauszuschneiden und gleichsam in einen Rahmen zu fassen braucht, um seiner Wirkung gewiss zu seyn, wenn es ihm nur gelingt, seiner Nachbildung das einzuhauchen, was in dem BHcke lag, mit dem er selbst den Gegenstand ansah. Dies Talent, die Kunst und die Natur überall wechselseitig in einander überzutragen, und dadurch die erstere wie eine Sprache zu behandeln, in welche die ganze Natur eingehen kann, aber aus der sie immer schöner und klarer wieder hen^ortritt, bei den Künstlern und Liebhabern zu fördern und zu wecken, dient, wenn es einmal nicht an Talent und an Schule mangelt, vor Allem die Häufigkeit der dargebotenen Ge- legenheit, Gegenstände der verschiedensten Art zu malen und zu bilden, und hierin liegt der bestimmteste und entschiedenste Nutzen der Kunstvereine. Das grosse historische Bild, der Orest des Herrn Bouterwek ist hier entworfen und angefangen, aber in Paris vollendet worden, da sich der Künstler nach seinen hiesigen akade- mischen Studien ein Jahr in der Werkstatt des Malers Laroche beschäftigt hat. Er befindet sich jetzt auf einer Reise nach München und Rom, wohin er sich zu seiner ferneren Ausbildung begiebt. Das Griechische Alterthum spricht<note type="footnote" n="*)" resp="gnd-116890657"><hi>Pausanias. III. 22, l. V Eduard Friedrich Meyerheiin {1808— i8jg), Genremaler, der Vater Paul Meyerheims, war ein Schüler Schadows.</hi></note> von einem Steine im Lace- daemonischen Gebiete in geringer Entfernung vom Meer, auf dem Orest von seinem Wahnsinn befreit wurde. Diese Erzählung scheint der Künstler in diesem Bilde, zugleich richtig und sinnvoll, so aufgefasst zu haben, dass der Unglückliche, nachdem er mit der äussersten Mühe das Ziel seiner Rettung erreicht hat, sich mit krampfhafter Anstrengung an dem Steine festhält, und<pb n="6.598" xml:id="pbVI598"/> der Zug der Eumeniden, die ihn nicht weiter verfolgen dürfen,^) in der Luft über ihn hinwegschwebt. Den Gemälden hat der Künstlerausschuss einen in Marmor ausgeführten lieblichen Kopf einer Danaide von Herrn Stützel beigesellt. Auch kommen zur heutigen Verloosung die noch vorräthigen Zeichnungen der bereits an die Mitglieder des Vereins ausgegebenen Umrisse.</p>
+
+            <p>V Nach „dürfen" gestrichen: „die Larve der ermordeten Mutter in ihrer Mitte habend".</p>
+         </div>
+      </body>
+   </text>
+</TEI>

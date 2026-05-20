@@ -1,0 +1,245 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Über die Liegnitzer Ritterakademie</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif10humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1903">1903</date>
+                  </imprint>
+                  <biblScope unit="page" from="160" to="174"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="10.160" xml:id="pbX160"/>
+            <p>1. Die Zuschüsse zur Akademie der Künste 21 554 Thlr. 2. Schleiermachers 500 „ 3. Buttmanns Gehalt i 100 „ 4. Die bisherigen Zuschüsse zur Akademie der Wissenschaften 3 194 „</p>
+
+            <p>26348 Thlr.</p>
+
+            <p>473(32 Thlr. 28. Aug. 1809.</p>
+
+            <p>Humboldt.</p>
+
+            <head>
+               <title type="main">XXXIII. über die Liegnitzer Ritterakademie.</title>
+            </head>
+            <p>7. September 1809.</p>
+
+            <p>(Eigenhändiges Konzept in den Akten des Kidtttsministeriums ; gedruckt Werke V j44f.)</p>
+
+            <p>Die Liegnitzer Ritterakademie war aus einer vom Piastenherzog Georg Rudolf 1646 für evangelische Kirchen- und Schulzwecke begründeten Stiftung hervorgegangen imd i']o8 auf Betreiben der Jesuiten als paritätische Josephinische Ritterakadeniie eingerichtet worden. Der drohenden gänzlichen Katholisierung der ursprünglich rein lutherischen Stiftung wurde durch den Übergang Schlesiens an Preussen Einhalt gethan. Die innere Einrichtung war nach dem Muster der Universitäten gehalten, nur daß die körperliche)! Übungen einen breiten Raum einnahmen und die alten Sprachen nur privatim getrieben wurden. Minister V. Zedlitz hatte den Unterricht im Lateinischen eingeführt und die Aiistalt mehr dem Wesen der Schule genähert. Wöllner übergab sie einem adligen Kuratorium, wodurch der ijtnere Betrieb litt. Minister v. Massow wollte ein Erziehungsinstitut für Zöglinge der Ökonomie und Forstkunde daraus machen, drang aber mit seinen Absichten nicht durch. So blieb die Anstalt in Verfall: i8og gab es darin noch 7 Zöglinge, für die 11 Lehrer, i Stiftsschreiber und i§ Unterbeamte vorhanden waren. Schon Stein plante eine bessere Verwendimg der nicht unbeträchtlichen Mittel, imd Humboldt ging ernstlich an Reformen. Er zog die nötigen Erkundigungen ein und ließ von Süvern ein Gutachten ausarbeiten, an das er seine Denkschrift anschloß. Sie trägt in den Akten das Datum 7. September, während der Abdruck i-j. September hat. Soweit es zum Verständnis nötig ist, teilen wir die einschlägigen Stellen aus Süverns Darlegungen in den Anmerkungen mit.</p>
+
+            <p>Herr Staatsrath Süvern hat diese Sache schon so sorgfältig bearbeitet, dass die Entscheidung darüber doch so schwer nicht fällt.</p>
+
+            <pb n="10.161" xml:id="pbX161"/>
+            <p>Den letztern Gedanken aufzugeben, wäre bei den Landbesitzungen der Akademie und dem Bedürfniss einer solchen An- stalt Schade; das Erstere ist noch immer ausführbar, selbst wenn das landwirthschaftliche Institut eine noch so grosse Ausdehnung erhalten sollte.</p>
+
+            <p>Zweifelhaft bleibt also nur, ob auch das Alumnat fortbestehen, oder dem landwirthschaftlichen Institut, wenn dies mehr Einkünfte braucht, aufgeopfert werden soll.</p>
+
+            <p>Für Alumnate, wie man sie gewöhnlich, beim Joachimsthal, beim grauen Kloster u. s. f. hat, bin ich schlechterdings nicht. Allein in diesem Fall stimme ich gar sehr dafür, weil, nach Herrn p. Süverns sehr richtiger Bemerkung, Mangel an Erziehungs- Instituten ist, und die Ritter-Akademie durch ihre Gebäude, ihre Lage in einer kleinen Stadt, ihren Garten und ihre Landbesitzungen ein ausserordentlich gutes werden könnte. Allein dann müsste beim Director vorzüglich auf pädagogisches Talent, und mehr als auf Gelehrsamkeit gesehen werden, auch der Etat erlitte Abänderungen, da die Inspcctoren, die nun Erzieher in höherem Verstände des Wortes würden, besser besoldet werden müssten.</p>
+
+            <p>Das Verhältniss dieser drei verschiedenen Zwecke ist nun von der Art, dass, wenn das landwirthschaftliche Institut eine recht grosse Ausdehnung haben, und eine Art landwirthschaft- licher Universität werden soll (von welcher Art Instituten es wohl der Mühe werth wäre. Eins in den Preussischen Staaten zu haben), das Erziehungs-Institut aufhören, und dem Unterricht, mit dem Gymnasium, nur ein Quantum von 5 — (5ooo Thlr. (was auch, da einige der landwirthschaftlichen Lehrer auch auf dem Gymnasium unterrichten könnte, hinreichte) gelassen werden muss, wenn dagegen jenes Institut bloss hinreichend dotirt werden soll, die beiden andern Zwecke vereint füglich daneben bestehen können.</p>
+
+            <p>Denn wenn man den Etat nach anliegender Zusammenstellung der einzelnen Artikel durchgeht, so ergiebt sich folgende kurze Uebersicht.</p>
+
+            <p>Die Gesammteinnahme des Instituts ist . . . . 20800 Thlr.</p>
+
+            <p>davon gehen (an öffentlichen Lasten und</p>
+
+            <pb n="10.162" xml:id="pbX162"/>
+            <p>1. zu unvermeidlichen Ausgaben (Officianten der Anstalt, Baukosten, Extraordinarien) . 2700 Thlr.</p>
+
+            <p>2. zu nützlichen (Unterricht, Gymnasium 7500</p>
+
+            <p>Thaler, Alumnat 5 200 Thlr., landwirthschaft- liches Institut 700 Thlr.) ^3400 „</p>
+
+            <p>3. zu überflüssigen (Directorium, Curatorium, Pensionen, Manege) 3300 „</p>
+
+            <p>19400 Thlr. Die letztere muss man suchen, allmählig eingehen zu lassen.</p>
+
+            <p>Soll nun die Akademie Erziehungs- und Unterrichtsanstalt zugleich seyn, so muss das landwirthschaftliche Institut (das sich alsdann nur allmählig erweitern kann) vorzüglich auf diese ver- wiesen werden. Soll dasselbe hingegen vorherrschen, so muss das Alumnat auch eingehen.</p>
+
+            <p>Mit dem Gymnasium lässt sich, wie Herr p. Süvern sehr richtig ausführt, keine Vereinigung denken, als die eine Aufhebung des Gymnasii und Verwandlung in eine Elementarschule ist. Allein dieser ganze Punkt ist mehr für die Section in ihrem Gesichtspunkt, als für die Akademie wichtig. Diese könnte vermuthlich selbst nur einen Theil der 900 Thlr., die sie jetzt das Gymnasium kostet, sparen, und müsste auch künftig immer die Stadtschule in ihrer verkleinerten Gestalt unterhalten.</p>
+
+            <p>Die beiden zu entscheidenden Fragen sind daher:<note type="footnote" n="i)" resp="gnd-116890657"><hi>welche Ausdehnung soll das landwirthschaftliche Institut erhalten ?</hi></note><note type="footnote" n="2)" resp="gnd-118554727"><hi>soll das Gymnasium aufgehoben werden oder nicht? Beide Fragen können wir jetzt nicht entscheiden, sondern müssen erst genauere Auskunft über die wahren Bedürfnisse eines landwirthschaftlichen Instituts, und die Passlichkeit des Schubert- schen Vorwerks dazu, und über das ganze Liegnitzer Stadtschul- wesen erhalten.</hi></note></p>
+
+            <p>Auf keinen Fall aber, glaube ich, müssen wir den Plan des Herrn von Erdmannsdorif*) genehmigen. Er disponirt über alle Einkünfte, bindet uns für viele Jahre die Hände und macht doch aus der Anstalt nur ein gewöhnliches, mit Alumnat verbundenes Gymnasium.</p>
+
+            <p>Ich glaube daher, wir müssen jetzt zugleich an Herrn von<pb n="10.163" xml:id="pbX163"/> Einrichtung eines landwirthschaftUchen Instituts, an Merkel *) über die Wahl eines Directors schreiben, da es gut wäre, einen Schlesier zu haben.</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">I.</title>
+               </head>
+               <p>An Hern. v. Erdmannsdorff : so sehr die Section auch gewünscht habe, ihm, seinem Verlangen gemäss, recht bald zu antworten, so sey sie noch jetzt nicht einmal dahin gekommen, einen durchaus festen Entschluss über die definitive Einrichtung der Ritter-Akademie zu fassen, sondern es fehle ihr hierzu noch an mehreren Datis. Sie müsse sich daher begnügen, ihm jetzt anzuzeigen, was für den Augenblick zu thun seyn werde, das Uebrige aber noch so lange anstehen zu lassen, bis sie ein vollständiges Urtheil fällen könne, wobei dann mit Ostern der wahrhaft umgeänderte Zustand der Akademie werde angehen können. Sie mache sich indess ein Vergnügen daraus, ihm auch ihre vorläufigen Ideen mitzutheilen. Er werde sich schon durch dieselben überzeugen, dass nur das lebhafte Gefühl, dass die Ritter-Akademie mehr Vorzüge, als irgend eine andre Schul -Anstalt in den Königlichen Staaten in sich vereinige, und die Furcht, mit schönen und bedeutenden Mitteln einen nicht hinlänglich grossen Zweck zu erreichen, sie so zögernd und vorsichtig in der Einrichtung dieser Anstalt mache.</p>
+
+               <p>Die Section gehe, wie der Hr. v. E., ganz davon aus, dass die Bedingungen der Stiftung aufrecht erhalten werden müssten, und dass die Anstalt, insofern sie wohlthätig sey, zuerst und zu- nächst dem Adel und der Provinz bestimmt bleiben solle. Allein in Ermangelung der Adlichen müssten auch Bürgerliche Theil nehmen können.</p>
+
+               <p>Ebenso sey gewiss auch der Hr. v. Erdmannsdorff der Meinung, dass die Spuren des ehemaligen Vorurtheils, dass eine adliche Erziehung von einer andern verschieden seyn müsse, die sich vielleicht noch in der Akademie finden möchten, vertilgt werden müssten, dass daher</p>
+
+               <p>I. der Unterricht so gut wie auf einem Gymnasium, auch ein gelehrter seyn, und auch innerhalb der Akademie gründliches Studium sowohl des Lateinischen als Griechischen umfassen müsse ;</p>
+
+               <pb n="10.164" xml:id="pbX164"/>
+               <p>3. wenn, wie es fast nach dem Tuat scheine, die Bedienung in der Akademie zahlreicher und kostbarer se}^, als die Noth- wendigkeit es erheische, auch diese eine zweckmässige Abänderung erfahren könne.*)</p>
+
+               <p>Die von Hrn. v. E. auf das landwirthschaftliche Institut ge- rechnete Summe sey aber so unbedeutend, dass sich dafür nichts erhalten lasse.</p>
+
+               <p>Ein wirklich gutes landwirthschaftliches Institut setze nicht bloss einen tüchtigen theoretischen und praktischen Lehrer der Landwirthschaft, sondern auch Unterricht in den Anwendungen der Mathematik, Physik, Chemie und Naturgeschichte auf dieselbe, ferner einen Apparat von Ackerwerkzeugen, und endlich eine Summe zu Versuchen voraus.</p>
+
+               <p>Ein solches Institut, eigentlich ins Grosse getrieben, könnte, besonders in Schlesien, zu einer grossen Wichtigkeit gelangen, und von Einheimischen und Auswärtigen besucht werden. Allein als- dann würde dies Institut auch, wie die Section wohl einsehe, den grössten Theil der Einkünfte der Akademie absorbiren, das Alum- nat würde alsdann höchstens noch in Stipendien für die Funda- tisten verwandelt werden können, und es se}^ sehr zweifelhaft, ob der Provinz damit gedient seyn werde.</p>
+
+               <p>Allein immer werde doch, wenn es nicht besser seyn sollte, die Idee ganz aufzugeben, mehr und etwa noch eine Summe von 1000 Thlr., wovon die Section die Möglichkeit gleich anzeigen wolle, für dies Institut offen gehalten werden müssen, und in der Folge könne es dann durch die bei einigen gleich anzuzeigenden Ausgabe-Titeln zu machenden Ersparungen Zuwachs erhalten.</p>
+
+               <p>*^ Im Abdrucke fehlen folgende Woj'te: „Die Bestimmimg der Academie im Allgemeinen wäre nach § i. 2 des Aufsatzes A von Herrn p. Süvern anzugeben." Dieser § i lautet: „Sie soll zu einer Lehr- und Erziehungs- Anstalt organisirt werden, bestimmt, jungen Leuten die allgemeine Bildung zu geben, welche zur Vorbereitung auf die Universität sowohl als auch zum Eintritt in die gebildeten Stände der Gesellschaft eiforderlich ist. § 2 : Dieser allgemeine Zweck schliesst nicht aus die Verbindung mit einem speciellen, welchen besonders die öconomischen Verhältnisse des Instituts begünstigen, nehmlich jungen Leuten, die<pb n="10.165" xml:id="pbX165"/> es auch ZögUnge ausserhalb der Akademie finden und sich zum Theil durch sich selbst unterhalten können. Eben darauf müsse man auch bei der Akademie sehen, und es scheine daher wohl zu überlegen, ob nicht die Pension für bezahlende Zöglinge auf 300 Thaler oder wenigstens 250 Thlr. zu erhöhen seyn dürfte.</p>
+
+               <p>Unter diesen Umständen sey daher als entschieden anzusehen, und könne Hr. v. E. immer schon jetzt bekannt machen, dass die Liegnitzer Akademie ein Erziehungs- und Unterrichts-Institut zu seyn fortfahren, aber hiermit künftig, von Ostern an, ein land- wirthschaftliches Institut verbunden werde.</p>
+
+               <p>Nur wenn sich bei dieser Bekanntmachung so viele Stimmen dafür erheben sollten, dass man diess Institut als den vorzüglichsten Zweck der Akademie ansehen, und ihm alles aufopfern solle, könnte man dahin gebracht werden, das Alumnat aufzugeben, und nur eine blosse Unterrichts-Anstalt bestehen zu lassen. Auf der andern Seite könne nur dann, wann sich finden sollte, dass ein landwirthschaftliches Institut mehr Unkosten erfordere, als die übrigen Zwecke verstatteten, gänzlich von demselben noch abgegangen werden.</p>
+
+               <p>Allein keins von beiden sey wahrscheinlich. Um aber jeden Missverstand zu verhüten, habe der Hr. v. Erdmannsdorff wohl einzuschärfen, dass auf keine Weise die Idee seyn könne, die ganze Erziehung in der Akademie nur auf Landwirthschaft zu lenken, und dadurch den Zöglingen eine einseitige Richtung zu geben, sondern dass das landwirthschaftliche Institut nur erst nach vollendeter früherer Erziehung im 17. oder 18. Jahre von denen benutzt werden könne, welche nicht die Universität besuchen wollten, oder schon von derselben zurückgekommen wären.</p>
+
+               <p>Hiernach hindre nun nichts, dass der Hr. v. E. nicht schon gleich von jetzt an neue Zöglinge ins Alumnat und den Unterricht aufnehmen könne, und hier treten nun mit den nach dem Vorigen sich von selbst ergebenden Abänderungen und mit ausdrücklicher Suspension der Zahlung der 600 Thlr. an sechs Königl. Fundatisten die §§ 3 bis 5 des Aufsatzes A*) des Herrn etc. Süvern ein.</p>
+
+               <p>V § 3 li^utet: „Das Institut ist im Allgemeinen bestimmt für anständige junge Leute aus allen Ständen. Auf das mit demselben verbundene Alumnat be- hält aber der Schlesische Adel die nächsten Ansprüche. Diesem bleiben die 12</p>
+
+               <pb n="10.166" xml:id="pbX166"/>
+               <p>Man stimme Hrn. v. E. ganz bei, dass für den Anfang der adliche Director beibehalten werden müsse, trage ihm dann aber auf, den Hrn. v. Schönaich *) entweder förmlich von aller Aufsicht auf Disciplin und Unterricht zu dispensiren, oder was besser seyn werde, ihn auf gute Manier, ohne förmliche Erklärung davon zu entfernen.</p>
+
+               <p>Die Pension des emeritirten Directors sey ohne Bedenken auf 250 Thlr. herabzusetzen.</p>
+
+               <p>Vollkommen trete die Section dem Hrn. v. E. in der Noth- wendigkeit eines pädagogischen Directors bei. Sollte nun die Akademie das werden, wozu sie vor allen andern Anstalten in den Königlichen Staaten fähig und geeignet sey, — eine möglichst vollkommene Erziehungs-Anstalt, so müsse die Section pflicht- mässig Hrn. v. E. eröffnen, dass sie, und namentlich ihr Chef, der den p. Wolfram **) persönlich kenne, in demselben weder die Gelehrsamkeit, noch die philosophisch-pädagogische Bildung, noch endlich die Energie des Charakters finde, welche ein Director halten. Die übrigen Pensionärstellen stehen auch gesitteten jungen Leuten bürger- licher Abkunß offen, und wenn die 12 adelichen unbesetzt sind, können sie auch in diese eintreten. Die Pension für adeliche und für bürgerliche bleibt auf 200 Thl. festgesetzt. ^ 4: Ausser den Alumnen, welche im Gebäude der Akademie wohnen, steht es gesitteten, ausserhalb derselben wohnenden jimgen Leuten durch spezielle Erlaubniss der geistlichen und Schul-Deputation der Regierung frey, die öffentlichen Lehr- und Uebungsstunden in denselben zu besuchen. Dafür wird in den untern Klassen ein vierteljährliches Honorar von 6 Thl., in den beiden obern von g Thl. an die Stiftskasse gezahlt. Dürftigen, aber ßeissigen Schülern kann es auch auf das Zeugniss des Studien-Direktors und der Lehrer, welche sie unterrichten, von der geistlichen oder Schul-Deputation der Provinzial-Regierung ganz oder zum Theil erlassen werden. Von dem Unterrichtsgelde wird die Hälfe unter die Professoren und diejenigen Collaboratoren , welche keine Wohnung in der Akademie haben, zu gleichen Raten jährlich vertheilt. Die andere Hälfe wird zum Extraordinarien-Fonds gezogen. § 5; Bei jedem bloss zum Unterricht oder auch ins Alumnat Aufzunehmenden, welcher von unten auf den Cursus durch das Institut machen will, wird vorausgesetzt, ausser imtadelhaften Sitten, die Elementarbildung der Geisteskräfte imd die Feistigkeit und Richtigkeit im münd- lichen Ausdruck, ijn Lesen, Schreiben und Rechnen, wodurch sie sich äussert. Sind die Anfangskenntnisse der Naturgeschichte und Naturlehre, der Geographie und Geschichte damit verbunden, so kann das willkommen seyn, aber imerlässlich gefordert wird es nicht.<pb n="10.167" xml:id="pbX167"/> Section geglaubt, dass bei dem Wunsche, den etc. W. in die Re- gierung aufeunehmen, die Absicht sey, ihm auch die Direction zu übertragen, so würde sie gleich ihre Meinung unverholen hierüber geäussert haben.</p>
+
+               <p>Ausserdem sey wirklich der Posten eines Directors wegen der Vielfachheit seiner Geschäfte mit dem eines Regierungsraths unverträglich. Die Section werde sich daher alle ersinnliche Mühe geben, einen recht tüchtigen andern Director ausfindig zu machen, allein auf jeden Fall mit Hrn. v. E. über die Wahl vorher corre- spondiren.</p>
+
+               <p>In Ermangelung eines Directors übernehme W. sehr natürlich als Regierungsrath die Direction, gebe sie aber, wenn einer komme, als eine für ihn zu mühsame und specielle Verwaltung, eben so natürlich ab, und behalte bloss die Ertheilung des histo- rischen Unterrichts. Hierin liege nicht das mindeste Anstössige, da öfters Subordinations-^^erhältnisse, nach Verschiedenheit der Geschäfte, auch verschieden seyen.</p>
+
+               <p>Dass das Provincial-Curatorium jetzt durch die Aufsicht der Regierung mehr als hinlänglich ersetzt werde, darin werde Hr. V. E. mit der Section übereinstimmen, allein vermuthlich auch der Meinung seyn, dass den beiden jetzigen Curatoren ihr ohnehin kleines Gehalt gelassen werden müsse. Gehe künftig das adliche Directorium und Curatorium ein, so erspare der Etat ii 66 Thlr. jährlich.</p>
+
+               <p>Was die Lehrer betreffe, so könne die Section die Ascension des etc. Gebauer nicht genehmigen. Hr. v. E. werde selbst fühlen, dass, ob man gleich den jetzigen Lehrern ihren Werth nicht absprechen wolle, doch keiner unter ihnen sey, der als Gelehrter im Mindesten einen Namen besitze, und dass auch der Zahl nach die Akademie, ungeachtet ihrer 20000 Thlr. Einkünfte, weniger gut als viele bei weitem ärmere Gymnasien bedacht sey.</p>
+
+               <p>Der etc. Rimay könne nur genommen werden, wenn er wirklich eine sehr schöne Hand (auf deren Erwerbung bei den Zög- lingen vorzüglich zu sehen sey) schreibe. Dass er zugleich</p>
+
+               <pb n="10.168" xml:id="pbX168"/>
+               <p>Dem Institut gleich jetzt wenigstens Einen recht brauchbaren und hinlänglich gelehrten Lehrer mehr zu verschatfen, werde sich die Section unverzüglich bemühen.</p>
+
+               <p>Bei der Beurtheilung der Möglichkeit einer Erweiterung des Lehrer-Personals, sey der Punkt der Manege vorzüglich in Erwägung zu ziehen. Es schmerze die Section in der That, dass sie, da Herr v. E. grossen Werth auf die Herstellung des Unterrichts im Reiten zu legen scheine, seine Vorschläge deshalb zu genehmigen, wenigstens in der gemachten Art und gleich, jetzt ausser Stande sey.</p>
+
+               <p>Allein es sey offenbar, dass gerade dieser Unterricht ehemals ausserordentlichen Nachtheil hen'orgebracht habe, [wie der Section schon vor längerer Zeit schriftlich geldagt worden sey,] *) dass daher, wenn einige mit Abschaffung desselben unzufrieden seyn sollten, andre vielleicht auch gerade diese Abschaff'ung als ein Zeichen eines neu einzuführenden ernsteren Studirens ansehen möchten, dass das Verhältniss der Kosten des wissenschaftlichen und des gymnastischen Unterrichts ganz unverhältnissmässig wäre, und dass andere ganz nothwendige Ausgaben unumgänglich Ersparungen erforderten.</p>
+
+               <p>Der ganze Aufwand für den Unterricht betrage, die überaus reichlich gerechnete \"ermehrung der Bücher- und Instrumenten- Sammlung [die Zulage von 500 Thlr. und das Director-Gehalt von 600 Thlr. mit eingeschlossen **) ] 8 345 Thlr. Davon nun koste der Fecht-, Tanz- und Reitunterricht, wenn man zum letzteren alles rechne, was in den verschiedenen Titeln des Etats dazu gehöre, 2474 Thlr., also nahe an ^s- Der Stallmeister habe mehr Einkünfte, als irgend ein Lehrer. Der Unterricht im Tanzen und<pb n="10.169" xml:id="pbX169"/> stalten, dass der Unterricht in diesen Exercitien bei weitem nicht so gut auf die Gesundheit und körperliche Ausbildung wirke, als fast ganz kostenlose, wahrhaft g\'mnastische Uebungen unter einem Lehrer, wie man sie z. B. in Schnepfenthal finde.</p>
+
+               <p>Die Section werde demohngeachtet sehr gern den Zöglingen der Akademie das "\^ergnügen und den Nutzen der Reitbahn wieder verschaffen. Allein dafür gleich 1600 Thlr. wegzugeben, eine Ausgabe von 870 Thlr. etatsmässig zu machen, und sich einer Mehrausgabe bei möglichen Unglücksfällen auszusetzen, sey in hohem Grade bedenklich; man müsse wenigstens erst voll- kommen übersehen, ob andre, wirklich nothwendigere Ausgaben diesen Aufwand gestatteten, und es sey auch zu versuchen, ob dieser Unterricht nicht auf eine wohlfeilere Art zu erlangen sey. Da der Stallmeister so gut besoldet werde, und jetzt ein ganzes ansehnliches Regierungs-Collegium in Liegnitz anwesend sey, so entstehe die Frage, ob der Stallmeister nicht auf eigne Kosten und nur so, dass man den Unterricht der Akademie-Zöglinge bezahle (wie es z. B. in Züllichau se}^, wo der Unterricht im Reiten das Pädagogium weiter gar nichts, als das von jedem Zöglinge selbst bezahlte Stundengeld koste) die Anschaffung und Unterhaltung der Pferde übernehmen könne. Man gewinne dadurch doch immer, dass man alsdann die Sache zu jeder Zeit abbrechen könne, und der Stall nicht so sehr zu einem integranten und für die Folge die Hände bindenden Theil der Anstalt werde. Es sey auch gewiss nicht nöthig, dass jeder Zögling täglich eine Reit- stunde habe. Die Zöglinge der Ecole militaire in Berlin, die doch zum Kriegsdienst erzogen würden, nähmen nur drei wöchentlich. Man ersuche daher Hrn. v. E. noch erst nähere Auskunft zu geben: ob nicht eine Einrichtung, wie eben erwähnt, getroffen werden könne und erspriesslicher sein werde.' ob im Fall man doch noch zur gänzlichen Abschaffung des<pb n="10.170" xml:id="pbX170"/> meisters irgend eine Modifikation getroifen werden könne? ob endlich, wenn der Unterricht auch ganz wieder eingeführt werde, sich erwarten lasse, dass er seinen Zweck erfüllen könne, da sachkundige Männer dem Sectionschef versichert, dass, obgleich der Reit-Unterricht ehemals fast die Hauptsache der Erziehung in der Akademie gewesen sev, die Zöglinge doch nicht vorzügliche Fortschritte im Reiten gemacht hätten?</p>
+
+               <p>Nach dem Eingehen dieser Erläuterungen werde sich entscheiden lassen, ob dieser Unterricht gar nicht wieder einzuführen, oder bis Ostern, um zu sehen, ob bis dahin vielleicht eintretende grössere Frequenz ihn erleichtere? zu suspendiren, oder sogleich herzustellen sey?</p>
+
+               <p>Die andern so sehr nothwendigen Ausgaben seyen folgende:</p>
+
+               <p>1. Ein neuer Lehrer vorzüglich für einen gründlichen Unterricht in alten Sprachen.</p>
+
+               <p>2. P^iner, wenn er auch nur ein Collaborator sey, für Mathematik und Naturwissenschaften, zwei auch für das landwirth- schaftliche Institut so wichtige Zweige.</p>
+
+               <p>3. Der pädagogische Director, dessen Gehalt aber schon etats- mässig sey. Hrn. Wolfram hierzu zu nehmen, sey allerdings eine Ersparung, allein kein wahres Hülfsmittel, da offenbar nur mehrere neue Lehrer den Unterricht auch in neuen Schwung bringen, und ihm das wahre Leben ertheilen könnten.</p>
+
+               <p>4. Seyen die Inspectoren viel mehr als die Professoren, weil ihr Amt weniger Nebenarbeiten erlaube, einer Zulage bedürftig, und wenn die Anstalt, wie es so sehr wünschenswerth sey, ein wahres Erziehungs-Institut seyn solle, so sey ihr Amt aufs mindeste gleich wichtig, als das der Professoren.</p>
+
+               <p>5. Ein Englischer und Italienischer Sprachmeister, und die Trennung des Zeichen- und Musik-Unterrichts sev ein wahres Bedürfniss. Es sei durchaus Wunsch der Section, nicht jede Anstalt nach gleichen Grundsätzen zu behandeln, sondern auch zu- fällig entstandenen ihre Eigentümlichkeit zu lassen, und sie wolle daher gar nicht die Liegnitzer Ritter-Akademie (die sich immer- fort auch durch diesen Namen auszeichnen möge) wie jede andere gymnasienartige Erziehungsanstalt behandeln, sondern ihr durch die Möglichkeit, sich darin eine dem Eintritt in die höhere und feinere Gesellschaft angemessene Bildung zu verschaffen, einen<pb n="10.171" xml:id="pbX171"/> wiss selbst der Meinung, dass, wenn man auf das eine oder andre Verzicht leisten müsse, dieser Vorzug gewiss weit wichtiger sey, als der, welchen man bisher durch einen, vielleicht auch bessern, aber wenigstens weit kostbareren Unterricht im Reiten, Tanzen und Fechten gehabt habe, so wenig die Section diesen Uebungen ihren Werth abspreche. Aus eben diesem Gesichtspunkt werde die Section auch bei der Wahl der Lehrer immer auf Männer sehen, die, neben gründlichen Kenntnissen in Einem Fach, auch eine allgemeine Bildung besässen.</p>
+
+               <p>6. Das landwirthschaftliche Institut brauche nothwendisf, ausser den blossen Lehrern der Landwirthschaft mehr Einrichtungen, zu denen man sich doch die Disposition über 600 bis 1000 Thlr. frei erhalten müsse. Was aber für dasselbe in Absicht auf mathematischen und naturhistorischen Unterricht und selbst auf Sammlungen und Instrumente geschehe, könne auch dem allgemeinen Unterricht zu Statten kommen, und auf diese Weise beide An- stalten einander wechselweis unterstützen. Um nun diesen Mehrbedarf herauszubringen, sehe die Section bei der genauesten Prüfung des Etats (bei welcher sie freilich von der Voraussetzung ausgehe, dass Hr. v. E. schon dafür gesorgt haben werde, dass Alumnat, Bedienung und solche nur an Ort und Stelle zu beurtheilende Artikel nur den möglichst geringen Aufwand erforderten), nur allenfalls folgende Hülfsmittel vor sich :</p>
+
+               <p>1. Die für den pädagogischen Director ausgesetzten und nunmehr nicht dem p. W., welcher seinen Hauptgehalt bei der Regierung bekomme, zu er- theilenden 600 Thlr.</p>
+
+               <p>2. Diefürdie5ProfessorenvorgeschlagenenZulagen 500 „</p>
+
+               <p>Hiervon müsste indess denselben immer ein Theil für mehr zu übernehmende Stunden ver<pb n="10.172" xml:id="pbX172"/>4. Die projectirten Geldunterstützungen der 6 König- lichen Fundatisten 600 „ 5. Die für die Ober-Rechenkammer angesetzten . 30 „</p>
+
+               <p>(Da bereits bei andern Schulanstalten angenommen sey, dass Königl. Collegia dergleichen Mühwaltungen unentgeldlich zu übernehmen verbunden seyen.) 6. werde Hr. v. E. am Besten ermessen, ob vielleicht bei den Extraordinarien ein geringeres Quantum als 950 Thlr., wie jetzt, etatsmässig gemacht werden könne, woran man jedoch, da Remissions-Fälle vorkommen könnten, zweifle — „ 7. müsse die Folge lehren, ob vielleicht bei einer zu bewirkenden Verbindung des Gymnasii mit der Akademie eine Ersparniss an dem jetzigen Zuschuss von goo Thlr. zu bewirken stehe. 9. durch Abschaffung des Reitstalles, wodurch augenblicklich 870 „ und bei künftiger Versorgung, oder Abgang des Stallmeisters und der Knechte, 1750 Thlr. erspart werden.</p>
+
+               <p>Summa 3000 Thlr. Von dieser Seite vorgestellt, lasse sich doch kaum bezweifeln, dass diejenigen Eltern, welche für die Erziehung ihrer Kinder vorzüglich Antheil an der Akademie nehmen, nicht selbst für die Suspension des Reitunterrichts, bis grössere Frequenz und somit vermehrtes Einkommen ihn minder schwierig mache, stimmen, und nicht einer Erweiterung des landwirthschaftlichen Instituts, und einer radikalen Verbesserung des wissenschaftlichen Unter- richts denselben gern aufopfern wollten. Der Professor-Wittwe Schirch könne die Pension nicht ver<pb n="10.173" xml:id="pbX173"/>siums mit der Akademie finde die Section nicht zweckmässig, da sie die Einheit des nun in zwei sehr verschiedene Institute ge- theilten Unterrichts verhindere, wobei die Gründe nach dem Aufsatz A*) auszuführen sind. Die Section bleibe der Meinung, dass die einzige gute Art der Verbindung die sey, dass das G3'mnasium nur als höhere Elementarschule fortdaure, und als Gymnasium ganz in die Aka- demie übergehe. Da in Breslau und andern Städten Schlesiens täglich Adliche und Bürgerliche, so wie auch in Berlin und hier, dieselben G3'mnasien besuchen, so könne der Adel wohl hieran keinen Anstoss nehmen. Der Nutzen sey auch darin offenbar, dass eine grössere Frequenz sowohl die Nacheiferung der Schüler, als die Lehrer selbst belebe, und wirklich erst mit einer grösseren Anzahl von Zöglingen und Schülern, die, ohne auf der Akademie zu wohnen, die Lectionen besuchen, das ganze Institut recht in Schwung kommen könne.</p>
+
+               <p>Da indess eine solche Vereinigung vorbereitet werden müsse, und auch erst selbst die Reform der Akademie als vollendet voraussetze, so scheine es rathsam, für jetzt beide Anstalten noch in der alten Trennung zu belassen, wobei jedoch unbenommen bleibe, einzelnen Schülern des Gymnasiums, wann sich Gelegenheit dazu zeige, bei der Akademie, und einzelnen Zöglingen (dieser), wenn man ihnen gleich jetzt gelehrteren Sprachunterricht verschaffen wolle, im Gymnasium Zutritt zu erlauben. Um aber eine künftige Umänderung vorzubereiten, ersuche man Hrn. v. E. um eine ausführliche und vollständige Darstellung des ganzen Liegnitzer Stadt-Schulwesens, vorzüglich auch in Hinsicht auf die Einkünfte und Hülfsmittel desselben, und auf Vorschläge wiegen Professor Werdermann**), wenn derselbe vielleicht</p>
+
+               <p>*j Dort führt Süvern die drei Vorschläge an, die für die Vereinigung der Ritter akademie mit dem Gynnnasium gemacht wurden: i. die Akademie aufzuheben und sie ganz mit dem Gymnasium zu vermischen; 2. beide Anstalten nebeneinander bestehen zu lassen, aber so, daß die Schüler der beiden oberen Klassen am Unterricht in gewissen Gegenständen wechselseitig teilnähmen; j. die Akademie zu einem wahren Gymnasium einzurichten, das bislierige in eine Schule 2. Grades zu verwandeln. Die Möglichkeit und Nützlichkeit der Durchführung der beiden ersten Vorschläge widerlegt er; den dritten erklärt er für den Ge- danken der Sektion.</p>
+
+               <pb n="10.174" xml:id="pbX174"/>
+               <p>In Absicht des landwirthschaftUchen Instituts wolle man sich an Thaer, den wissenschaftlichsten Oeconomen Deutschlands, wenden, theils um seine Rathschläge wegen Einrichtung desselben zu erhalten, theils um ihn zu ersuchen, ein Subject zur jetzt offnen Lehrer- und Stiftsverwalterstelle vorzuschlagen. Man erbitte sich nur von Hrn. v. E. genaue Nachrichten über die Lage und Beschaffenheit des Schubert'schen Vorwerks*) und die genaue An- gabe der Geschäfte eines Stiftsverwalters. Die Stiftsverwalterstelle müsse so lange interimistisch verwaltet werden. Die Dismem- bration des Vorwerks sey fürs Erste zu unterlassen oder anzugeben, wie das landwirthschaftliche Institut sonst Ackerstücke zu seinen Operationen erhalten könne.</p>
+
+               <p>Die Vollziehung des Etats wolle die Section nach von Hrn. V. E. erhaltener Antwort auf dies Schreiben bewirken. Stimme er in den einzelnen Puncten mit ihr überein, so könnte die noch unbestimmt bleibende Summe zu künftiger Verwendung reservirt werden. Da der Etat doch nur für das künftige Kalenderjahr dienen könne, so sey noch vollkommen Zeit dazu.</p>
+
+               <p>2.</p>
+
+               <p>Thaer wäre schon vorläufig immer zu befragen:</p>
+
+               <p>1. über die ganze Idee des Instituts, dem man jetzt nur 700 Thaler für den Lehrer, der noch die Stiftsverwalterstelle übernehmen muss, und etwa noch 1000 Thlr. widmen kann. Ueber das Vorwerk, das zum Institut dienen soll, ist die Bemerkung aus dem Etat abzuschreiben. Die Dismembration werde nun unterbleiben müssen;</p>
+
+               <p>2. um ein Subject, das er als Lehrer empfehlen könne;</p>
+
+               <p>3. um genaue Vorschläge wegen der Einrichtung des Instituts.</p>
+
+               <p>Die Anfrage an Merkel wiegen des Directors müsste vorzüglich auf einen recht pädagogisch gebildeten, und der sich Vertrauen in der Provinz zu verschaffen verstehe, gehen. Denn ohne gehörige Frequenz schlummert das Institut ewig.</p>
+
+               <p>Königsberg, den 7. Sept. 1809.</p>
+
+               <p>*J „Wenn das Detail des zu wissen Nöthigen Herr v. Stein hierüber zu be-</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

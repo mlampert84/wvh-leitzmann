@@ -1,0 +1,290 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Über den Entwurf zu einer neuen Konstitution für die Juden</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif10humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1903">1903</date>
+                  </imprint>
+                  <biblScope unit="page" from="97" to="114"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="10.97" xml:id="pbX97"/>
+            <p>Alles Uebrige liegt, als der Kriegskunst besonders angehörend, ausser der Competenz der Section, und selbst insofern es allgemeine, aber tiefere mathematische Kenntnisse zur Beurtheilung erfordert, ausser der der hier gegenw^ärtigen Mitglieder derselben.</p>
+
+            <head>
+               <title type="main">XXI. über den Entwurf zu einer neuen Konstitution</title>
+            </head>
+            <div type="section" n="1">
+               <head>
+                  <title type="main">für die Juden.</title>
+               </head>
+               <p>17. Juli 1809.</p>
+
+               <p>(Eigenhändiges Konzept in Tegel und Abschrift im Geh. Staatsarchiv.)</p>
+
+               <p>Seitdem Dohm seine Schrift „Über die bürgerliche Verfassung der Juden" fijSiJ vei-öffentlicht hatte, war die ganze Frage in Fluß geraten. Schon Fried- rich Wilhelm IL hatte eine königliche Kommission zur Beratung der Reform (i'jS-j) eingesetzt und den Juden mancherlei Erleichterimgen gewährt. Die Städteordnung bot ihnen insoweit einen Vorteil, als sie ihnen die Möglichkeit, städtische Ämter zu bekleiden, öffnete. Aber der Anstoß, von neuem an die Frage heranzutreten, erfolgte aus den mißlichen Verhältnissen, die sich seit dem Kriege herausgebildet hatten. Damals strömten zahlreiche fremde Juden in Preußen zusammen, darunter viele unlautere Elemente, weil sie in den Rheinbundsländern zwar bürgerliche Rechte erhielten, aber auch der militärischen Konskription imterworfen wurden. Dieser Sachlage gegenüber beantragte Minister v. Schrötter 1808, daß eine neue Konstitution entworfen werde, um „die Juden mit der Zeit zu nützlichen Staatsbürgern zu machen". Unter Benutzung eines Entwurfs des Kriminalrates Brand arbeitete Schrötter ein Gesetz aus, das nach seinem Ausscheiden durch Dohna den verschiedenen Behörden zur Begutachtung vorgelegt wurde. Wir geben zum Verständnis von Humboldts Votum die entsprechenden Paragraphen des Schrötterschen Entwurfs in den Anmerkungen.</p>
+
+               <p>Die gegenwärtige Lage der Juden unter uns, welche aufzuheben das grosse Problem jeder Gesetzgebung über diese Nation ist, gründet sich auf Ursachen und steht mit Umständen in Verbindung, auf welche wesentlich und radical zu wirken ausser der Macht jedes einzelnen Staats liegt. Drei Merkmale zeichnen, vor<pb n="10.98" xml:id="pbX98"/>eine kirchlich politische ^^erfassung, in welcher die Religion [in ihrer reinen Beschaffenheit] fast ganz als Null aufging, und ein System der durch ein äusseres und zwar (wodurch sich die religiöse Verfassung als politisch charakterisirt) nur beim männlichen Geschlecht anzubringendes Zeichen be- urkundeten Absonderung selbst von denjenigen, in deren Mitte sie lebten.</p>
+
+               <p>Diese drei Eigenschaften, verschmolzen in den, eigentlich alle Weltbegebenheiten leitenden und in sich nie ganz zu entziffernden Nationalcharakter, der bei den Juden vorzüglich in altväterlicher Beharrlichkeit an der Ursitte und merkwürdiger Ivraft passiven Widerstandes besteht, und verbunden mit den christlichen Ideen, nach denen Judenthum und Christenthum von der einen Seite als zu Einer Klasse gehörig, von der andern als in zwei entgegengesetzte gespalten angesehen werden und wodurch das damals schon sehr unbedeutende Jüdische Volk eine unverhältnissmässige Wichtigkeit erhielt, haben die Juden zu dem gemacht, was sie noch jetzt unter uns sind. Ihre Lage ist daher eine kirchlich welthistorische und so merkwürdige Erscheinung, dass bereits von gewiss nicht schlechten Köpfen gezweifelt worden ist, ob sie sich überhaupt auf bloss menschliche Weise erklären lasse.</p>
+
+               <p>Die Mittel zu der Umwandlung dieser Lage sind nun freilich, wie man leicht einsieht, in Beziehung auf jene drei Hauptursachen : Verschmelzung, Zertrümmerung ihrer kirchlichen Form und Ansiedelung ; allein so lange diese Mittel nur in einem einzelnen Staate ver- sucht werden, wirkt die Verschmelzung nie kräftig genug, und in den religiösen Ideen Vvird der Contrast zwischen Christen und Juden nothwendig fortdauern, bis man überall aufhört, sich das Christenthum auf der untergeordneten Stufe des Gegensatzes zum Judenthum zu denken.</p>
+
+               <p>Hier sind also Schwierigkeiten, die keine Gesetzgebung, am wenigsten eine einzelne, ganz zu beseitigen im Stande ist.</p>
+
+               <p>Es bleibt jedoch immer klar und unleugbar, dass jede Gesetz<pb n="10.99" xml:id="pbX99"/>Allein hier gehen wieder zwei Systeme aus einander, das eine, das die Absonderung auf Einmal, das andre, das sie allmählig aufheben will.</p>
+
+               <p>Betrachtet man diese an sich, und ich möchte sagen rein logisch, so ist wohl nicht zu bestreiten, dass nur eine plötzliche Gleichstellung aller Rechte gerecht, politisch und consequent ist.</p>
+
+               <p>Gerecht; denn es lässt sich kein möglicher Rechtsgrund denken, warum der Jude, der alle Pflichten des Christen erfüllen will, nicht auch der Rechte theilhaftig sein soll.^ es müsste denn in einem Lande erweisbar sein, dass alle Juden darin nur gegen gewisse Concessionen hereingekommen, nicht, wie sie schon darin waren, bloss mit solchen Concessionen darin geduldet wären. Allein alsdann ist die politische Frage : ob man so geringer Rechte geniessende Fremde in einem Staate fortdauernd dulden soll.'^ da- gegen um so wichtiger.</p>
+
+               <p>Politisch; denn diejenigen, die nicht viritim und persönlich, sondern aus Vorurtheil und weil sie, als zu einer Kaste gehörig, die Schuld ihrer Mitbrüder tragen müssen, verachtet werden, zu der, selbst zur Moralität nöthigen Achtung zu bringen, ist ein Sprung, eine plötzliche Erklärung nöthig. Mag das Volk auch noch so viele gutgeartete Juden sehen ; es wird nie leicht dadurch zu andern Meinungen über die Juden, als solche, selbst kommen, sondern die Einzelnen immer nur als Ausnahmen betrachten. Auch soll der Staat nicht gerade die Juden zu achten lehren, aber*) die inhumane und vorurtheilsvolle Denkungsart soll er aufheben, die einen Menschen nicht nach seinen eigenthümlichen Eigenschaften, sondern nach seiner Abstammung und Religion beurtheilt und ihn, gegen allen wahren Begriff von Menschenwürde, nicht wie ein Individuum, sondern wie zu einer Race gehörig und ge- wisse Eigenschaften gleichsam nothwendig mit ihr theilend ansieht. Dies aber kann der Staat nur, indem er laut und deutlich y Im Konzept steht noch folgende Stelle : „Das sollte er und nicht der Juden, sondern der Moralität der Christen wegen lehren, dass es nie erlaubt ist, von einem Menschen, dem Gott Vernunft und ein Herz und einen freien Willen gab, wie von einem mit Instinkt begabten Thiergeschlecht zu sprechen und zu sagen:</p>
+
+               <pb n="10.100" xml:id="pbX100"/>
+               <p>Endhch consequent; denn eine allmahlige Aufhebung bestätigt die Absonderung, die sie vernichten will, in allen nicht mit aufgehobenen Punkten, verdoppelt, gerade durch die neue grössere Freiheit, die Aufmerksamkeit auf die doch noch bestehende Beschränkung und arbeitet dadurch sich selbst entgegen.</p>
+
+               <p>Allein der ganze Grund, auf welchem das System der all- mähligen Aufhebung beruht, ist, meines Erachtens, aus einer zwar ehemals angenommenen, aber auch schon längst mit Recht verworfenen Theorie der Gesetzgebung geschöpft. Es ist nämlich dies diejenige, welche die Gesetzgebung zu einer Art Erziehung des Staatsbürgers macht; wo sie nur immer die Mittel in Händen hat, positiv wirken will und, von einem bestimmten Begriff des Charakters und der Cultur der Nation ausgehend, im Stande zu sein wähnt, den Fortschritt und sogar die Richtung zu einer andern Stufe leiten zu können: da, wie es mir scheint, der Staat nur durch Ertheilung und Beschränkung der Freiheit und dadurch her\'orgebrachtes Gleichgewicht der Rechte die Bürger in Stand setzen muss, sich selbst zu erziehen; nur dahin zu streben hat, bloss negativ zu wirken und das positive Wirken der freien Thätigkeit der Nation zu überlassen und die Menschheit genug achten muss, um zu wissen, dass der moralische Standpunkt einer Nation sich nie genau berechnen, noch weniger aber die Entwickelung derselben sich mechanisch voraussehen lässt, indem sie vielmehr, und ganz aus innerer Ivraft, wäe die ganze Geschichte lehrt, oft plötzliche Impulse erhält, die, w^it entfernt, sich durch die Gesetzgebung leiten zu lassen, die- selbe ihnen zu folgen zwingen; kurz, da der Staat kein Erziehungs-, sondern ein Rechtsinstitut ist. Um auf die Juden zurückzukommen, so geht man von einem gewissen Begriff" von ihrem Charakter, in dem nun aber, genau genommen und dem Grade nach (und auf Genauigkeit und Gradbestimmung kommt es doch hier an) fast kein Staatsmann mit dem andern übereinkommt, aus ; diesen Charakter will man durch künstliche Mittel verändern und, so wie man ihn nach und nach<pb n="10.101" xml:id="pbX101"/> räumen, die sonst jeder, der sich im Staate niedergelassen hat, geniesst.</p>
+
+               <p>Wer nun je mit Ernst über Nationalcharalitere nachgedacht hat, der wird wissen, wie w^enig bei ihrer Beurtheilung diejenige Erfahrung leistet, auf die man sich gewöhnlich beruft, und welch eine seltene Vereinigung von acht philosophischem Sinn und schneller und feiner Beobachtungsgabe dazu gehört, wie aber, fast in gleichem Schritt mit der Grösse dieser Fähigkeiten, die Sicherheit der Ueberzeugung abnimmt, und wie endlich die Resultate so werden, dass ein vorsichtiger Mann selten allein danach Handlungsweisen bestimmen, ein gewissenhafter aber nie Ertheilung oder Verweigerung von Rechten daran knüpfen wird.</p>
+
+               <p>In die höchsten Schwierigkeiten verwickelt man sich nun aber gar, wenn man nun die Fortschritte der Nation zum Bessern be- urtheilen will. Woran soll z. B. erkannt werden, dass die Juden der öffentlichen Achtung würdiger sind.^ Etwa an gesammelten einzelnen Handlungen.' oder durch offizielle Rapporte von gewiss zu tausend Dingen, aber nur nicht zur Menschenbeobachtung tüchtigen Offizianten über einen Gegenstand, über den selbst das einsame Gespräch sich schwer verständigt } oder gar durch Tabellen, wie viele Juden dieses oder jenes Handwerk erlernt haben, Ackerbauer oder Soldaten geworden sind.^ Wenn nach solchen Aeusser- lichkeiten die allgemeine Achtung einer ganzen, nur unglücklichen Nation abgewogen, nach ihnen bestimmt werden soll, ob der unbescholtenste Jude nun ein eben so gültiger Zeuge sein kann als der erste beste Christ.' so ist das, glaube ich, auch mit den schlichtesten Gefühlen von Menschenwürde unverträglich.</p>
+
+               <p>Wollte ein Staat in diesem Punkt consequent sein, so müsste seine Gesetzgebung auch unter den Christen nach Massgabe der Cultur die Bürgerrechte ungleich vertheilen, was doch glücklicherweise noch niemand eingefallen ist. Unstreitig würde man hierauf antworten, dass es nicht ein Unterschied in Cultur, nicht einmal in dem, was man Sitten nennt, sondern recht eigentlich in dem Punkte der Redlichkeit, dessen, was den Menschen zum Menschen macht, ist, was den Juden vom Christen auszeichnet. Allein reicht irgend eine Erfahrung hin, einer ganzen Nation ein solches Zeichen der Verwerfung aufzu<pb n="10.102" xml:id="pbX102"/>achtete nothwendig auch verachtungswürdig bleibt? und muss nicht eine Regierung, die ein solches Anathem bei einer neuen Gesetzgebung*) ausspricht, nothwendig selbst bewirken, dass die Bessern der Nation auswandern, und nur der Abschaum zurück- bleibt?</p>
+
+               <p>Der Punkt, wo die bei der Gesetzgebung gewiss äusserst nothwendige Kenntniss der Nation eintritt, ist, so viel ich einsehe, nicht bei dem Endzweck des Staats selbst, der Bestimmung der Rechte der Bürger, und der Grenzen seiner Wirksamkeit, sondern bei der Wahl der Mittel zur Ausführung seiner nach allgemeinen Begriffen entvvorfenen Pläne. Dazu reicht auch eine unvoll- kommene Charakterkenntniss (und eine andere ist nie möglich) hin. Denn mit den ^Mitteln kann man ohne Nachtheil wechseln und ihre Zweckmässigkeit nach ihrem Erfolge prüfen.</p>
+
+               <p>Meiner üeberzeugung nach wird daher keine Gesetzgebung über die Juden ihren Endzv/eck erreichen, als nur diejenige, welche das Wort Jude in keiner andern Beziehung mehr auszusprechen nöthigt, als in der religiösen, und ich würde daher allein dafür stimmen, Juden und Christen vollkommen gleich zu stellen. Wollten die ersteren nicht zugleich die Pflichten, die alle Bürger tragen, übernehmen, so würde ich, wenn man alle &gt;,Iittel, sie dazu zu bewegen, erschöpft hätte, sie lieber aus dem Lande verbannen. Denn Menschen im Staate zu dulden, die sich gefallen lassen, dass man ihnen wenig genug traut, um ihnen, auch bei höherer Cultur, die sonst gemeinsten Bürgerrechte zu versagen, ist für die Moralität der ganzen Nation im höchsten Grade be- denklich.</p>
+
+               <p>Was man einer völligen und plötzlichen Gleichstellung entgegensetzt, ist, dass dies ein Sprung von einem Extrem in ein anderes sein würde, und die Gefahr, die daraus für den Staat entstünde. In dem Erstem liegt offenbar ein ]\Iissverständniss. Wenn ein widernatürlicher Zustand in einen naturgemässen übergeht, so ist kein Sprung, wenigstens gewiss kein bedenklicher vorhanden ; diesen kann man nur da finden, wo ein widernatürlicher mit wirk- licher Ueberspringung des natürlichen in einen widernatürlichen<pb n="10.103" xml:id="pbX103"/> entgegengesetzter Art überginge. Wer vom Knecht zum Herrn wird, der macht einen Sprung; denn Herren und Knechte sind ungewöhnliche Erscheinungen. Aber wem man bloss die Hände losbindet, die erst gefesselt waren, der kommt nur dahin, wo alle Menschen von selbst sind.</p>
+
+               <p>Die Gefahr scheint wohl nur darum so gross, w^eil man sich auf einmal alle Juden im wirklichen Besitze der Vorzüge denkt, welche sie freilich erwerben können, aber der Natur der Sache nach doch nur einzeln und nach und nach, wie die Christen, wirk- lich erwerben würden.</p>
+
+               <p>Ich gestehe gern, dass ich die grosse Gefahr nicht einsehe. Was sie wenigstens in den Augen Aller vermindern muss, sind folgende Betrachtungen:</p>
+
+               <p>1. Der Staat übe eine genaue und strenge Polizeiaufsicht, und die nun gleich berechtigten Juden werden den Gesetzen, gerade wie die Christen, zu gehorsamen gezwungen sein, und dann ist keine Gefahr von ihnen zu besorgen.</p>
+
+               <p>2. Der Staat bestimme, v^^o die Beschaffenheit der Sache es erlaubt und erfordert, genau, unter welchen Bedingungen und innerhalb w^elcher Grenzen jedes Gewerbe getrieben werden soll, und der Jude wird, wie der Christ, gebunden sein, und kein Gewerbe wird, Vv'as doch der einzige Zweck ist, leiden können.</p>
+
+               <p>3. ^^^o der Jude ein Gewerbe zweckwidrig treibt, w^ie z. B. wenn er aus Ackerwirthschaft Handelswirthschaft macht, wird ihn sein eigener Vortheil bald eines Bessern belehren, und geschieht es nicht, so gehört das zu den einzelnen Fällen, die eine nicht furchtsame und kleinliche Gesetzgebung übersieht.</p>
+
+               <p>4. Zu Staatsämtern kann ja an sich nicht jeder Berechtigte gelangen, sondern es bedarf einer eignen Berufung des Staats. Hier hat derselbe also die Sache beständig in seiner Hand.</p>
+
+               <p>5. Die allgemeine Gefahr, dass die Juden die Christen ver- drängen würden, ist an sich chimärisch, sie wird aber auch nur durch einen wahren Cirkel im Raisonnement zur Gefahr, indem man erst gern den Unterschied zwischen Juden und Christen politisch aufheben möchte, und dann wieder annimmt, dass es auch politisch dennoch nicht gleichgültig sei, ob ein Gewerbe, auch gleich gut, von einem Juden oder Christen getrieben werde .^ Schiene indess auch so die Gefahr doch noch bedeutend, so muss man wohl bedenken,<pb n="10.104" xml:id="pbX104"/> Druck und der dadurch bei mehreren Juden beförderten Immoralität entsteht, alsdann gänzlich wegfiele, und dass die noch übrig bleibende mit jedem Tage geringer wird, da eine plötzliche Gleichstellung den Unterschied zwischen Juden und Christen sehr bald unmerklich machen würde, da hingegen bei einer allmähligen jene besorgte Gefahr nicht nur zum Theil auch vorhanden ist, sondern mit dem Unterschiede selbst, wenn nicht perpetuirlich, doch viel länger fortdauernd gemacht wnrd.</p>
+
+               <p>Wie man gegen die plötzliche Gleichstellung zu furchtsam ist, so scheint man mir bei der allmähligen, welche die doppelte Gefahr des alten und des neuen Zustandes zugleich bestehen lässt, indem man sie sich beide zu vermindern einbildet, in der That zu kühn.</p>
+
+               <p>Wendet man sich, nach der Darstellung dieser allgemeinen, von dem Geiste des gegenwärtigen Edicts sehr abvv eichenden Ansicht, zu der Beurtheilung dieses letztern innerhalb des Systems, auf das es sich gründet, so muss man gestehen, dass, einige sehr grelle und mit andern, gleichfalls in demselben enthaltenen Bestimmungen in directem Widerspruch stehende Ausnahmen abgerechnet, die Juden dadurch einen hohen und in mancher Rück- sicht befriedigenden Grad der Freiheit erhalten, und, wenn sie von der moralischen Nichtachtung abzusehen im Stande sind, ihr physisches Wohlsein beträchtlich dadurch gewinnt.</p>
+
+               <p>Allein als allgemeine Mängel, glaube ich, kann man ihm mit Recht folgende vorwerfen:</p>
+
+               <p>I. bestätigt und vermehrt es durch die Anordnung, alle im Lande befindliche Juden in Verzeichnisse und Tabellen zu bringen, und durch kleinliche Aengstlichkeit, dass sich ja kein fremder ansiedele, die Absonderung zwischen Juden und Christen, welche gerade aufgehoben werden soll. § 75 verlangt die Beibringung des Beschneidungs-Attest, und § 98 werden (nicht bloss die Obrig- keiten, sondern) alle Gemeinen aufgefordert, auf die Niederlassung eines Juden unter ihnen ein wachsames Auge zu haben, da offenbar zur Erreichung des allgemeinen Zwecks es wünschenswerth w^äre, dass jeder, der nicht in religiöser Hinsicht darnach zu fragen hat, ungewiss bleibe, ob jemand ein Jude sei oder nicht, wohin auch § 2 V) so viel sich sonst dagegen einwenden lässt, mit Recht zielt.</p>
+
+               <pb n="10.105" xml:id="pbX105"/>
+               <p>2. spricht es die moralische Herabwürdigimg auf eine beinah empörende Weise aus. Denn indem es den Juden eine hohe Verstandescultur wenigstens als vollkommen möglich zuschreibt, beraubt es sie alles Vertrauens auf Rechtschafi'enheit, Treue und Wahrheitsliebe. Alan vergleiche hierüber die §§ 9, 10 und 30 nebst den Erläuterungen,*)</p>
+
+               <p>3. giebt es durch ausdrückliche Bestellung eines Ober-Rabbiners der kirchlichen Verfassung der Juden, die bei weitem mehr politisch als religiös und, wie gleich anfangs bemerkt worden, eins der grossesten Hindernisse der Verschmelzung ist, eine neue Stärke. Durch den Ober-Rabbiner, wie in den Erläuterungen gesagt ist, auf die allmählige Modificirung der Ritual-Gesetze wirken zu wollen, liegt wieder in dem System, dass der Staat überall positiv wirken soll. Man sorge, wie das Edict sehr gut thut, für aufgeklärte und gelehrte Rabbiner, bestelle ja keinen Ober-Rabbiner, als insofern es die Juden von selbst thun, mache die Bande zwischen den einzelnen jüdischen Kirchen recht locker, führe nicht eine eigne Orthodoxie unter den Juden ein, sondern befördere durch natürliche und billige Toleranz vielmehr Schismen, und die jüdische Hierarchie wird von selbst zerfallen. Die Individuen werden gewahr werden, dass sie nur ein Cärimonial-Gesetz und eigentlich keine Religion hatten, und werden, getrieben von dem angeborenen menschlichen Bedürfniss nach einem höhern Glauben, sich von selbst zu der christlichen wenden. Ihr Uebertritt, der jetzt, wo sie ihre unterdrückten Alitbrüder verlassen und die bis dahin mitgetragene Last auf sie abwerfen, um unter den vollberechtigten Christen mit dem Namen getaufter Juden belegt zu werden, nur unter besondern Umständen zu entschuldigen ist, wird alsdann wünschenswerth, erfreulich und wohlthätig sein,</p>
+
+               <p>'"') § g. Insbesondere können selbige (alle inländischen Juden) alle akademischen Lehr- und Schul-, auch Gemeinde- Aemter verwalten, wie sie sich geschickt ge- macht haben.</p>
+
+               <p>§ 10. Zur Verwaltung öffentlicher Staatsäniter kann die jetzige Generation allgemein nicht zugelassen werden. Wir behalten Uns jedoch vor, bei vorzüg- lichen Fähigkeiten einzelner Subjekte, Ausnahmen von dieser Regel zu gestatten. § ßo. Auch bleiben die Vorschriften der Allg.Ger.Ord. Th. i Tit. 10 § 2jo No. 12 noch für die erste Generation bestellen. —</p>
+
+               <p>Diese Stelle bestimmt, dass die Juden als Zeugen nicht die volle Glaub<pb n="10.106" xml:id="pbX106"/>4. ist die Fassung des Edicts darin nicht zweckmässig, dass €S eine so lange und zum Theil, wie in den §§ 8 und 2q,*) wirk- lich illusorische Aufzählung der neuen Rechte der Juden macht. Soll auch jetzt und im Preussischen Staat noch der Zeitpunkt nicht gekommen sein, wo der Unterschied zwischen Juden und Christen aufhört , so ist es immer besser, zuerst kurz die Beschränkungen aufzuzählen und dann zu erklären, dass im Uebrigen Rechte und Pflichten vollkommen gleich sind. Der Jude, der vernünftiger Weise nichts als Gleichstellung der Rechte verlangen kann, erschrickt schon vor jedem langen Edict, da das, seiner Meinung nach, wahre nur wenige Zeilen enthalten könnte.</p>
+
+               <p>Dies vorausgeschickt, bemerke ich zu einigen einzelnen §§ noch folc^endes:</p>
+
+               <p>§ 1-7-<note type="footnote" n="**)" resp="gnd-116890657"><hi>Diese §§ bestimmen: „Alle gegenwärtig in Preussen wohnenden, mit Schutzbriefen und Commissionen versehenen Juden und deren Familien sind als</hi></note></p>
+
+               <p>Die von den Juden hier geforderten Bedingungen (von denen jedoch Ivleidung und Bartscheeren ausgenommen werden müsste, da es jedem Bürger erlaubt sein muss, jede anständige Kleidung zu tragen, und die Juden diese Auszeichnung sehr bald von selbst</p>
+
+               <p>*y' § 8. Alle inländische Juden gemessen gleiche bürgerliche Rechte mit den Christen, insofern diese Ordnung keine abweichende Besiimmung enthält.</p>
+
+               <p>§ 2g. Die Juden sind denselben bürgei'lichen Gesetzen unterworfen, als christliche Glaubensgenossen und finden in Absicht ihrer bürgerlichen und recht- lichen Verhältnisse keine Abweichungen statt, als welche die jetzige Ordnung festsetzt. inländische Juden und preussische Staatsbürger zu betrachten (§ i). Die Fortdauer ihrer bürgerlichen Existenz ist aber nur unter der Bedingung gestattet, dass sie sämnitlich einen festbestimmten Familiennamen führen, deutsche Kleidung tragen und den Bart scheeren lassen; bei Führung der Handlungsbücher, Untersch'iften und andern zum öffentlichen Gebrauch bestijnmten Schrißen der deutschen Sprache und deutscher oder lateinischer Schriftzeichen sich bedienen (§ 2). Zur Erfüllung dieser Bedingungen wird ihnen eine Frist von 9 Monaten gegeben; die sie nicht erfüllen, wei'den als fremde Juden angesehen (§ j). Den Familien- namen müssen sie innerhalb 6 Monaten vor der Polizeiobj-igkeit erklären. Die Bekanntmachung durch die öffentlichen Blätter der Provinz auf Kosten der Interessenten f§ 4). Innerhalb der Frist wird die Polizeibehörde jedes Ortes ein namentliches Verzeichniss der geschützten und concessionirten Juden unter Beifügung der Schutzbriefe aufnehtnen f§ jj. Die Provincialbehörden lassen Haupt<pb n="10.107" xml:id="pbX107"/>ablegen werden) müssten als allgemeine gesetzliche Bestimmungen nicht bedingungsweise, sondern unter Commination einer Strafe vorgeschrieben werden.</p>
+
+               <p>Verzeichnisse der Juden scheinen mir höchst unzweckmässig, insofern sie nemlich zur Bestimmung von Rechten und Pflichten dienen sollen. Dagegen giebt es ja Bürgerverzeichnisse und muss, dünkt mich, auch Verzeichnisse der Domicilianten und Gewerbfähigen geben, die nicht Bürger sind. Sobald eine Dorfpolizei organisirt sein wird, existirt auf dem Lande eine ähnliche Anstalt, und es werden also nun Juden eben so gut als Christen eingeschrieben. Der nicht Eingeschriebene ist bloss Reisender, Fremder, jeden Augenblick der "\''erweisung über die Grenze unterworfen, und daher nicht gefährlich.</p>
+
+               <p>Wo von einem Recht die Rede ist, das nur ein Christ aus- üben kann, fordere man den Taufschein; so ist der Jude von selbst ausgeschlossen, ohne dass es eines Verzeichnisses bedarf. Nie aber müsste der Jude beweisen, dass er Jude ist. Denn wie nun, wenn ein Vater seine Söhne, auch ohne sie zu Christen zu machen, nicht beschneiden Hesse ? Würde der Staat ihn zwingen, sich zur Beschneidung oder Taufe zu bequemen?</p>
+
+               <p>Bei dieser Gelegenheit muss man, dünkt mich, den schon öfter gemachten Antrag wiederholen, die Geburten und Ehen, ausser den damit verbundenen kirchlichen Handlungen, auch durch Civil-Actus zu bezeichnen. Ueber die Unsicherheit und Unrichtigkeit der Kirchenbücher hat man oft Klage geführt, und auf jeden Fall wäre bei Ereignissen, die so wichtig für das bürgerliche Leben sind, eine doppelte Beglaubigung zuverlässiger.</p>
+
+               <p>§ 9. 10.*)</p>
+
+               <p>Diese §§ müssen, meines Bedünkens, schlechterdings umge- ändert werden.</p>
+
+               <p>In dem Edict selbst liegt nur eine nicht recht geschickte Fassung. Der Verfasser hat gefühlt, dass eine durchgängige Ausschliessung von Staatsämtern ungerecht und unpolitisch zugleich sein würde, er hat Ausnahmen verstattet, und nur nicht bedacht, dasG er auf diese Weise besser that, der Sache gar nicht zu erwähnen, da ja die Verleihung von Staats-Aemtern immer von der Wahl der Regierung abhängt.</p>
+
+               <pb n="10.108" xml:id="pbX108"/>
+               <p>Die Section der allgemeinen Polizei aber schliesst die Juden von allen öffentlichen Aemtern schlechterdings aus ; dennoch lässt sie ihnen den Zutritt zu academischen, Lehr-, Schul- und Gemeine- Aemtern.</p>
+
+               <p>Hiergegen muss sich die Section des öff'entlichen Unterrichts auf das feierlichste verwahren. Zu einem Lehrer gehört nicht bloss Talent und Wissen, sondern auch Moralität und Pflichtgefühl, und zum Wissen selbst, wenn es nicht ein auswendig gelerntes sein soll, dessen Schule und Universität besser entrathen, wird die eine und das andere erfordert. Die Section der Gewerbepolizei hat dies gefühlt, und der der allgemeinen Polizei muss der Zusammenhang beider g§ nur entgangen sein. Denn eine Nation, die man allgemein, aus Mistrauen in ihr Pflichtgefühl, von Staatsämtern ausschliesst, allgemein zu Lehrstellen zu berechtigen, heisst nicht die Nation ehren, sondern dies Lehramt herabwürdigen.</p>
+
+               <p>Die Section des öff'entlichen Unterrichts hat nicht zu entscheiden, ob die Juden Staatsämter haben sollen oder nicht. Bleibt es aber bei der negativen Entscheidung, so muss sie darauf antragen und darauf bestehen, dass der § 9, so weit er die Schulämter betrifft, wegbleibe und auch ihr entweder die Ausschliessung der Juden zur Pflicht gemacht werde (was sie jedoch, wie keine aus einem schwankenden Urtheil über eine ganze Nation geschöpfte Beschränkung, nie gern sehen würde), oder ihr überlassen bleibe, in ihrem Kreise bloss auf individuelle Eigenschaften, ohne Rücksicht auf Abstam.mung und Religion, wo Religion nicht in Betrachtung kommt, zu achten. Allein eine, den ganzen Lehrstand beleidigende Aeusserung in einem öffentlichen Edict kann das Ministerium nicht stehen lassen wollen, und die Section ihrer Pflicht nach nicht übersehen.</p>
+
+               <p>Bei den Gemeine-Aemtern ist vielleicht auch nicht bedacht worden, dass nach gleichem Grundsatz die Juden auch in einer National-Repräsentation ihren Platz finden würden. Gewiss wäre es nun aber wunderbar, wenn der, welcher Repräsentant seiner Nation sein könnte, kein, vielleicht unbedeutendes öff"entliches Amt bekleiden dürfte. Mit der von der Section der Gewerbepolizei hierin gemachten Distinction kann ich nicht einverstanden sein. Ein die Rechte vieler ^Mitglieder des Staats verletzendes Vorurtheil, wie das der Nichtachtung der Juden, muss der Staat nicht schonen, sondern sich geradezu gegen dasselbe erklären.<pb n="10.109" xml:id="pbX109"/> Die Berechtigung im Allgemeinen versteht sich von selbst, und der wirkliche Genuss dieser Vorzüge hängt von der Gemeine, den Behörden und dem Könige ab, und steht in ihrer Hand.</p>
+
+               <p>§ 12-15.*) In Absicht der aufzuhebenden Beschränkung der ländlichen Niederlassung trete ich ganz H. St.-R. Köhler bei.</p>
+
+               <p>§ 18—20/*) H. St.-R. Köhler bemerkt mit Recht, dass man den Unterschied, den man aufheben will, selbst bestätigt, wenn man die kirchliche Gemeine in politische Anordnungen mischt. Allein man thut dies auch dann, wenn man die Desertion eines Juden härter bestraft. Dass sie nicht häufig sei, dafür werden der Spott und die Vorwürfe der Christen sorgen; geschähen indess auch wirldich ein Paar Desertionsfälle mehr, muss denn der Staat jeder einzelnen Contravention so ängstlich vorbeugen.^</p>
+
+               <p>§ 21. 22.***) Stimme ich H. p. Köhler bei.</p>
+
+               <p>§ 23—26.1) Wenn der Staat genau bestimmt, wer überhaupt fremder und wer gewerbfähiger und allen allgemeinen Lasten unterworfener</p>
+
+               <p>*j Das Edikt will die Wohnsitze in der Regel auf die Städte beschränken ; auf dem platten Lande dihfen sie nur als gemeine landwirtschaftliche Arbeiter oder als Land-Handwerker sich aufhalten und ländliche Grundstücke nur unter Bedingungen {§ 8s) erwei'ben. Köhler will im Gegenteil den Aufenthalt auf dem platten Lande erleichtern, will sie auch dort jedes Grundstück erwerben und jedes erlaubte bürgerliche Gewerbe treiben lassen. (Köhler war Rat in der Sektion für Gewerbepolizei.)</p>
+
+               <p>**/) § 18 bestimmt: Der Militär-Conscription oder Cantonalpßicht sind die Juden ebenfalls und zwar im strengsten Sinne unterworfen. § ig. Nach Verlauf von 6 Monaten und nach Feststellung der Namen werden sie in Cantonbücher und Stammrollen eingetragen. § 20. Desertirt ein Jude, muss die Gemeinde 2 Mitglieder aus ihrer Mitte statt seiner stellen.</p>
+
+               <p>***j Während das Edikt das heiratsfähige Alter für Juden auf das 21., für Jüdinnen auf das 16. Jahr festsetzt f§ 21) und harte Strafen auf die Übertretung setzt f§ 22y', yinll Köhler die Bestimmungen des Allg. Landrechts auch für die Juden gelten lassen.</p>
+
+               <pb n="10.110" xml:id="pbX110"/>
+               <p>Auch tritt hier das oben über die Ehen als actus civiles Gesagte ein.</p>
+
+               <p>§ 30-*)</p>
+
+               <p>Die Abschaffung der hier allegirten ^^orschriften und den Umstand, dass der Jude, auch gegen Christen, muss ein durchaus vollgültiges Zeugniss ablegen können, halte ich für das Fundament jeder irgend erträglichen Gesetzgebung über die Juden, und für die unerlässliche Bedingung jeder Reform dieser Nation. Weder in städtischen Versammlungen, noch in Schulen, noch im täglichen Leben können, ohne Veränderung aller BegritTe von Moralität, Menschen mit einander irgend menschlichen und über die blosse bürgerliche Handthierung hinausgehenden Verkehr haben, von denen die einen wegen ihrer Abstammung Misstrauen in die erste m.oralische Eigenschaft, die Wahrheitsliebe, gesetzlich dulden müssen, und die andern es zu hegen autorisirt sind. Viel besser bleibt es bei der alten Scheidung.</p>
+
+               <p>§ 3Ö. 37-") Wenn die Erlangung des Staats-Bürgerrechts, welches immer verweigert werden kann, allgemein an eine ausdrückliche Autori- sation durch den König gebunden würde, so bedürfte es dieser ausdrücklichen Gesetzesvorschriften nicht, da die Regierung von den Gründen, warum sie dasselbe verweigert, keine Rechenschaft zu geben schuldig ist. wid de?' Polizei anzeigen, ebenso dass die Eheschliessenden Inländer sind; § 24: Inländer können Ausländerinnen heirathen ohne Genehmigung, wenn das gesetzliche Alter nachgewiesen ist; § 25; durch Heirath mit einer Inländerin kann kein fremder Jude seine Niederlassung in Preussen begründen; § 26: Ausländische Juden sollen eigentlich im Lande nicht getraut werden; unter besondern Um- ständen kann eine Concession ertheilt werden. y s. o. S. 10^.</p>
+
+               <p>"'V § 3^- ^^^ Preussische Staatsbürgerrecht kann von fremden Juden nur mit Genehmigung des Ministers des Innern auf Antrag der Regierung gewonnen werden. § ^7; Der Antrag wird begründet: durch besondere Verdienste um den</p>
+
+               <pb n="10.111" xml:id="pbX111"/>
+               <p>Uebrigens halte ich mit H. St.-R. Köhler die Einwanderung fremder Juden für so gefährlich nicht.</p>
+
+               <p>§ 38-40.*)</p>
+
+               <p>Der ^^erlust des Staats-Bürgerrechts müsste nur da Strafe des Juden sein, wo der Christ die gleiche zu erwarten hat. Das Gesetz, das den Unterschied beider Religionsparteien aufheben will, thut nicht gut, den Juden die Erlangung des Bürgerrechts als eine ausserordentliche \^ergünstigung vorzustellen. Was soll auch aus den so Bestraften werden ? Sie aus dem Lande zu verweisen, ist schwierig, und sie, minder berechtigt, darin zu lassen, wie schon oben bemerkt worden, sehr bedenklich.</p>
+
+               <p>§ 43-**)</p>
+
+               <p>Scheint unnütz, da es auf dem Lande schwerlich eine zu einer kirchlichen Gemeine hinreichende Zahl jüdischer Familien geben wird. Wäre sie aber vorhanden, so ist kein Grund gegen eine Landsynagoge abzusehen.</p>
+
+               <p>§ 54.***)</p>
+
+               <p>Ist H. p. Köhlers Bemerkung sehr richtig.</p>
+
+               <p>§ 56- 1) Da diese Prüfung nur wissenschaftlich sein soll und ihr Zweck negativ : unaufgeklärte und unwissende Personen vom Rabbineramt auszuschliessen, nicht positiv : die Tauglichkeit zu diesem Amt zu erforschen, ist, so müssten diese Prüfungen nicht von den geistlichen und Schul-Deputationen, sondern von den wissenschaftlichen</p>
+
+               <p>V § 3^-' D^^ Verlust des Staatsbürgerrechtes steht anfallen Verbrechen, die ein- oder mehrjährige Festiingsstrafe nach sich ziehen; §jg: Ebenso bei Contre- bande-Handel, mutJiwilligen Bankrott, Münzverbrechen, Einschleppen falscher Münzen, Schrifiverfälschung, Diebstahl, Hehlerei, wenngleich geringere Strafe als vorgedachte darauf steht; § 40: Die Gerichtshöfe haben in allen solchen Fällen auf Verlust des Staatsbürgerrechts förmlich zu erkennen.</p>
+
+               <p>^V § 43: Synagogen können nur in Städten errichtet werden.</p>
+
+               <p>***/' § 54- Jeder Candidat zum Rabbiner- Amt niuss j Jahre auf einer Landes- Universität studirt haben und Zeugnisse über einen philosophischen Lehrgang und das Studium orientalischer Sprachen beibringen. Köhler will diese Bestimmung nur so lange gelten lassen, wie sie für die Christen besteht.</p>
+
+               <pb n="10.112" xml:id="pbX112"/>
+               <p>§ 59. ()o/) Dass jüdische Gemeinen, die eine nur kirchliche Gesellschaft sind, einen christlichen Ober- Vorsteher haben und besolden sollen, scheint immer wunderbar. Ich glaube, es wäre genug, wenn die Wahl der Rabbiner immer nur auf ein bei der Prüfung gebilligtes Subject fallen und von der Regierung bestätigt werden müsste.</p>
+
+               <p>§ 66—68.**)</p>
+
+               <p>Ueber den Ober-Rabbiner habe ich mich schon oben erklärt. Wenn nicht die Gemeinen dessen Bestellung verlangen, müsste, glaube ich, keiner angeordnet werden.</p>
+
+               <p>Streitigkeiten der Gemeinen mit ihren Rabbinern entscheidet natürlich, wenn es nicht wahre Rechtsstreite sind, die Provincial- Regierung, und ist dabei Kenntniss der jüdischen Religion nöthig, so holt sie das Gutachten angesehener Rabbiner ein. In zweiter Instanz geht die Sache an die Section des Cultus. Eben diese Behörden verfügen auch über die Absetzung der Rabbiner, jedoch, wo nicht ein besonderes Staatsintcresse eintritt, mit Rücksicht aul den Willen der Gemeinen.</p>
+
+               <p>Das Lehrbuch für den Religions-Unterricht der Rabbiner muss allerdings vom Staate genehmigt werden. Indess muss er sich dabei in den Schranken der allgemeinen Censur halten, nicht in Religionsgegenstände eingehen wollen.</p>
+
+               <p>V § 59- -ö^'' Vorstand besteht aus dem Obervoisteher, aus der Mitte des Stadt-Magistrats gewählt und 2 Vorstehej-n von den jüdischen Familienvätern gewählt; die Bestätigung liegt beim Magistrat. § 60. Sie müssen drei Jahre unentgeltlich dienen, ihre Wiederwahl ist gestattet. Für den Obervorsteher muss das Gehalt von den Juden aufgebracht werden.</p>
+
+               <p>**J § 66: In Berlin wird ein Ober-Rabbiner zur Aufsicht über alle jüdischen Gemeinden der Monarchie eingesetzt; § 6^ : Zur Besoldung desselben tragen alle Gemeinden bei; § 68: Beschwerden der Gemeinden über ihre Rabbiner werden von ihm untersucht und geschlichtet. Die Berufungs-Instanzen sind die geistliche Provinzial-Behörde und die Section des Cultus.</p>
+
+               <pb n="10.113" xml:id="pbX113"/>
+               <p>§ 70.*)</p>
+
+               <p>Ist sehr gut. Auch besondere katholische und wenigstens besondre reformirte Schulen sollte es nicht mehr geben.</p>
+
+               <p>§ 72. 73") Besondre jüdische Krankenanstalten können allerdings ge- duldet werden. Aber die Juden müssten doch von den allgemeinen christlichen nicht ausgeschlossen sein, und eben darum ist es gut, dass sie zu der Erhaltung derselben beitragen.</p>
+
+               <p>§ 76—80.***)</p>
+
+               <p>Meiner Ansicht nach, geht diese Aufsicht des Staats, wie viele Juden oder Christen dieses oder jenes Gewerbe treiben sollen, viel zu sehr in ein kleinliches Detail. Allein da der Staat einmal öfter solche Bestimmungen macht und wenigstens bisher ja auch der Adel nicht bürgerliche Gewerbe treiben durfte, so lassen sich diese Beschränkungen allenfalls vertheidigen.</p>
+
+               <p>§ 81-93. t)</p>
+
+               <p>Trete ich H. p. Köhler bei.</p>
+
+               <p>V § 70- Zum sonstigen Unterricht für ihre Kinder können sich die jüdischen Glaubensgenossen Hauslehrer oder der bestehenden öffentlichen Schulen bedienen. — Besondere jüdische Schulen werden nicht geduldet.</p>
+
+               <p>**J § 72; Jüdische Kranken- und Armen- Anstalten sind nach den Vorschriften Jür Privatstiftungen zu behandeln; § yj: Ihr Dasein schliesst die Concurrenz zu den öffentlichen Anstalten dieser Art nicht aus.</p>
+
+               <p>**#j ^ 76"; Hattdel in allen Städten der Monarchie ist erlaubt; § 77.- Damit sie sich anderen Berufen zuwenden, soll in grossen Städten auf 10, in kleinen auf 6 christliche Kaufleute sich je i jüdischer in der Folge ansetzen dürfen ; § jS: Dieser darf allen Handel, ausgeschlossen Trödelkram, welcher keinem Juden nachgelassen wird, treiben ; § 79 ; Darf auch Mäkler werden ; § 80 : Sind in den Städten mehr vorhanden, wird keine neue Niederlassung gestattet, bis die Normal- zahl erreicht ist.</p>
+
+               <p>f) § 81 : Bei der Ansiedelung ist das Gleiche wie bei christlichen Kaußeuten zu beobachten; auch haben sie gleiches Verhältniss zur kaufmännischen Corporation wie diese; §82: Gleiches gilt für andere jüdische Gewerbetreibende; § 8j: Ländliche Grundstücke dürfen sie nur mit polizeilicher Genehmigung ei'werben; § 84: Die Genehmigung wird unter der Bedingimg ertheilt, dass der jüdische Acquirent sich verpßichtet a) auf solchen landwirthschaftlichen Gütern, wozu keine Bauern gehören, binneji 6 Jahren den vierten Theil seiner Dienstleute aus Glau<pb n="10.114" xml:id="pbX114"/>§ 94-*)</p>
+
+               <p>Ist der Ausdruck Geldgeschäft wohl zu unbestimmt.</p>
+
+               <p>§ 97.**)</p>
+
+               <p>Die Angeberei in den Verhältnissen der Juden zu den Christen zu befördern, dürfte wohl, bei dem noch an vielen Orten bestehenden Hass, sehr bedenklich sein und nicht zum gewünschten Zweck der Verbindung beider Religionsparteien führen.</p>
+
+               <p>§ 102 — 122.<note type="footnote" n="***)" resp="gnd-116890657"><hi>§ 102: Als fremde Juden gelten Ausländer oder solche, die sich § 2 nicht unterwerfen; §§ ioj—106: Ihnen ist die Niederlassung verboten; sie dürfen nicht Rabbiner oder Kirchenbediente werden, nicht Lehrburschen oder zu Gewerbe-</hi></note> Dass Juden, die nicht auf die vorhin gesagte Weise Staats- bürger geworden sind, kein bürgerliches Gewerbe treiben dürfen, ist sehr billig, sollte aber auch von den Christen gelten. Denn wer Gewerbe treiben will, muss auch die Lasten des Staats mit tragen helfen. Allein dass bloss reisende Juden Geleitsscheine haben, nur 24 Stunden bleiben sollen u. s. f., sind gehässige Maass- regeln, welche die Trennung zwischen Juden und Christen per- petuirlich machen, und, wofern gehörige Polizei-Aufsicht beob- achtet wird, nie nothwendig sein können.</p>
+
+               <p>Schliesslich dürfte vielleicht eine Bemerkung nicht am unzuthun; §§85 — 88: Strafen, wenn die Bedingungen nicht eingehalten werden; § 8g: Mühlen, Krüge, Schänken u. s. w. dürfen in der Regel nicht von Juden besessen werden; § go: Zur Anlegung von Fabriken auf dem Lande ist Erlaub- niss nöthig; § gi : Juden dürfen auf dem Lande keinen Handel treiben; §§ 92 bis gj: Strafen bei Zuwiderhandelt!. — Köhler will §§ 8ß — 88 wegfallen lassen, bei §§ 8g und go will er Mühlen zulassen.</p>
+
+               <p>*J § g4: Geldgeschäfte mit den christlichen Insassen zu treiben oder an sie Waaren auszuborgen ist auf dem platten Lande verboten.</p>
+
+               <p>*V § 91- ^"^'^ allen diesen Strafen enthält der Angeber eine Hälfte, eine fromme Stißung die andere.</p>
+
+               <p>zwecken verwendet werden; Strafen für die Gemeinden bei Zuwiderhandeln; §§ W] — 122: Der Eintritt fremder Reisenden ist gestattet, doch müssen sie einen Pass haben und einen Geleitschein lösen; Strafen beim Unterlassen, beim Verlassen der Route, beim Betteln und Hausiren; sie dürfen in keinem Ort länger als 24 Stunden weilen, dann jnüssen sie der Polizei Anzeige machen und die Zu-</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

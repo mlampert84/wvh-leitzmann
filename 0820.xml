@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aus den griechischen Lyrikern</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Achter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif08humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1909">1909</date>
+                  </imprint>
+                  <biblScope unit="page" from="233" to="236"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1792">1792</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="8.233" xml:id="pbVIII233"/>
+            <head>
+               <title type="main">I. Aus den griechischen Lyrikern.</title>
+            </head>
+            <p>a. Kallimachos' Zeush3^mnus. ^)</p>
+
+            <p>Wen sang' ich eher als Ihn, beim Opfer, den grossen Kronion, Ihn den mächtigen Gott, den ewig gewaltigen Herrscher, Ihn der Söhne der Erde Besieger, der Himmlischen Richter?</p>
+
+            <p>Aber nenn' ich ihn Lycäus, nenn' ich ihn Diktes Sohn? Noch zweifelt mein Geist, von wannen ^j Du, Vater, entsprossen? Dein Geburtsort zu sein, Kronion, rühmet sich Ida, Rühmet Arkadien sich. Wer täuschet uns, mächtiger Herrscher? Kreta täuscht uns ; es hat Dir ein prächtiges Grabmal errichtet, Aber nimmer bist Du, Du der Ewge gestorben! Nein auf Parrhasios Höhn gebahr Dich die himmlische Reia, Da wo die dichtesten Schatten den Gipfel des Berges bedekken. Da ist der heilige Ort! an ihm hat keines der Thiere</p>
+
+            <p>Je noch ein sterbliches Weib die Freuden der Mutter empfunden ! Dir nur, Reia, ist Apidanäs, so heisst er, geweihet! Als nun aus göttlichem Schooss Dich da die Mutter geboren. Suchte sie einen Quell auf dass sie mit sprudelndem Wasser Von dem zarten Leib den blutigen Unrath Dir wüsche!</p>
+
+            <p>Handschriß (j Folioseiten, ohne Titel und Überschriften) im Archiv in Tegel. Sie enthält außer den Übersetzungen noch die griechischen Texte von zwölj lyrischen Strophen, die Nummern i, j—ii und iß der gesammelten Skolien und das Skolion (Nr. joj des Solon aus Bruncks Analecta veterum poetarum graecorum /, 154—151- 15V ^g^- Brunck, Analecta /, 42^. y „wannen" verbessert aus „wem".</p>
+
+            <pb n="8.234" xml:id="pbVIII234"/>
+            <p>Aber damals strömete Ladon noch nicht, Erümanthos Schäumende Flut noch nicht, unbenezet waren die Fluren, 20 Wo, an Strömen so reich nun, die Arkadier wohnen!</p>
+
+            <p>Denn als Dich Reia gebahr, als sie dem Leben Dich schenkte, Wuchsen noch auf Jaons Wassern bejahrete Eichen, Trug auf seinem Rükken Melas noch rollende Wagen, Fanden auf Karions Strom — der jezt so tobend daherrauscht — 25 Wilde Thiere noch Schuz und Nahrung und sichere Höhlen. Durstig wandelte noch der Wandrer über Metopä und Krathis, Unter ihm rollten im Fels der Ströme hallende Wogen. Da sprach, zweifelnd, wohin sie sich wende, die mächtige</p>
+
+            <p>Göttin : Höre mich, Erde, gebähr auch Du, denn leicht sind die</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">Schmerzen</title>
+               </head>
+               <p>30 Die Du leidest. Sprachs und strekte gewaltig den Arm aus. Schlug mit dem Zepter den Berg und er spaltete sich in zwei</p>
+
+               <p>Klüfte.</p>
+
+               <p>Sprudelnd rauscht' ein Quell hervor, da wusch sie den Leib Dir, Wikkelte Dich in Windeln und gab Dich Neda der Nümphe,</p>
+
+               <p>Dass sie nach Krätä Dich trüg' und da Dich heimlich erzöge. 35 Neda war nach Stüx und Philüra unter den Nümphen, Welche, da sie gebahr, die Göttin bedienten, die ältste. Aber nicht umsonst gehorchte der Göttin die Nümphe. Reia nannte nach ihr den Strom, der eben dem Felsen Ihrem Befehle gehorchend entquollen, bei der Kaukenen ■40 Stadt, bei Leprias sich mit dem hallenden Meere vermischet.^) Seine Wasser trinken noch jezt die Enkel Kallistos.</p>
+
+               <p>Also trug Dich ") der Göttin gehorsam ^) die Nümphe nach Krätä.</p>
+
+               <p>Ueber Thenä *) brachte sie bald Dich nach Knossos, denn nahe Liegen beide Städte beisammen, Knossos und Thenä.^) 45 Jauchzend umarmten Dich da die Weiber der Korübanten, Sie die Nümphen des Dikte; und in goldener Wiege Liess Adrasteia Dich ruhn: die süsse Milch Amaltheiens<note type="footnote" n="*)" resp="gnd-116890657"><hi>V „dern Felsen — vermischet" verbessert aus „entsprungen, bei .... sich in das Meer giesst".</hi></note></p>
+
+               <p>V if^^g Dich" verbessert aus „brachte". ^) „gehorsam" verbessert aus „gehorchend". *) „Ueber Thenä" verbessert aus „Thenä verlassend".</p>
+
+               <p>^J Hier sind zwei Verse des Originals unübersetzt geblieben.</p>
+
+               <pb n="8.235" xml:id="pbVIII235"/>
+               <p>War Dein Trank und Deine Speise lieblicher Honig. Ihn bereiteten Dir die Panakrischen emsigen Bienen 5° Auf dem hohen waldumschatteten Gipfel Panakrons.</p>
+
+               <p>Fröhlich umtanzten bewafnet Dich die tapfern Kuräten,</p>
+
+               <p>Wild die rasselnden Schild' an einander schlagend, dass Kronos Ihrer Waffen Geklirr und nicht Dein Schreien vernähme.</p>
+
+               <p>Herrlich wuchsest Du Zeus empor, wardst herrlich gebildet; 55 Gingest bald ein Jüngling einher in der Blüthe des Alters,</p>
+
+               <p>Sähest mit männlichem Bart bald Kinn und Wangen umkränzet.</p>
+
+               <p>Schon als Knabe warst Du vor allen mit <note type="footnote" n="^)" resp="gnd-116890657"><hi>„Kraft" verbessert aus „Macht". *J „zur Unterwelt" verbessert aus „zum Orkus". ^) „Nahm blendend" verbessert aus „Er raubte".</hi></note> Weisheit begäbet. Drum gestatteten Dir auch gern die älteren Brüder Im Olümpos zu thronen. Euch allen vom Vater gegeben. 60 Denn erdichtet ist was die Sänger der Vorzeit erzählen,</p>
+
+               <p>Kronos Reich sei durchs Loos in 3. gleiche Theile getheilet.</p>
+
+               <p>Traun es stritt' ein Thor nur durchs Loos ob er im Olümpos b. Aristoteles.-)</p>
+
+               <p>Tugend Du, so schwer Sterblichen zu erreichen! Irdischen Lebens höchstes Ziel! Schönste der Jungfraun, für Dich zu Sterben nennet Hellas die grosseste Wonne 5 Und für Dich unnennbare Leiden zu dulden!</p>
+
+               <p>Also beherrschest Du der Menschen Herz! Denn Du gewährst ewigen Lohn, Lohn, süsser noch als Ahnen und Gold Und der erquikkende Schlummer. 10 Wars nicht für Dich dass an Arbeit so viel</p>
+
+               <p>Härakläs bestand und die Söhne der</p>
+
+               <p>Leda? Stralte nicht Deine Kraft '^j aus ihnen? Liebe zu Dir trieb früher</p>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">Päleus Sohn zur Unterwelt^) und Aias. 15 Deiner bezaubernden Schönheit Glanz</title>
+               </head>
+               <p>Nahm blendend") Teiräsias Augen der holden Sonne Anblik!<note type="footnote" n="*)" resp="gnd-116890657"><hi>V „vor allen 77iit" verbessert aus „mit Klugheit und". ^J Vgl. Brunck, Analecta /, 177.</hi></note></p>
+
+               <pb n="8.236" xml:id="pbVIII236"/>
+               <p>Doch der Unsterblichkeit Ehre</p>
+
+               <p>Reichten zum Lohn ihm dafür die Pierinnen, *o Phoibos Apollons Töchter, Die selbst der Olümpier Glanz erhöhn Und beständiger Freundschaft Lohn sind!</p>
+
+               <p>c. Skolion des Kallistratos, ^)</p>
+
+               <p>Mirten will ich um das Schwerdt mir winden, Wie Harmodios that und Aristogeiton,</p>
+
+               <p>Da ihr gezükter Stahl, den Tirannen mordend, Freiheit Athen gab und den Bürgern Gleichheit! 5 Du Geliebter Harmodios starbst nicht; nein Du</p>
+
+               <p>Weilst noch, trau' ich der Sage, in den Gefilden Wo in der Seligen Schaar auch Päleus Sohn noch Lebet und Diomädäs der Tüdeide!</p>
+
+               <p>Mirten will ich um das Schwerdt mir winden, 10 Wie Harmodios that und Aristogeiton,</p>
+
+               <p>Da ihr Arm am Athenischen Opferfeste Muthig Ipparchos mordete, den Tirannen!</p>
+            </div>
+
+            <div type="section" n="3">
+               <head>
+                  <title type="main">Ewge Jahrhunderte blühet noch Euer Nachruhm! Euer, Harmodios und Aristogeiton, 15 Da Ihr mit strafendem Arm den Tirannen mordend</title>
+               </head>
+               <p>Freiheit Athen gabt und den Bürgern Gleichheit!</p>
+
+               <p>d. Alpheios von Mytilene. -)</p>
+
+               <p>Keine satenreichen Gefilde wünsch ich.</p>
+
+               <p>Und begehr' nie glüklich zu sein mit Schäzen. Wenn mir, was ich brauche, die Götter geben,</p>
+
+               <p>Leb' ich dürftig glüklicher, als ein König.</p>
+
+               <p>V Vgl. Brunck, Analecta z, 755.</p>
+
+               <p>'^) Vgl. ebenda 2, 12g. Ich verdanke den Nachweis des Originals Rudolf Hirzel.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

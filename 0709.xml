@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aus Dohms nationalökonomischen Vorträgen</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Siebenter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif0702humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1907">1907</date>
+                  </imprint>
+                  <biblScope unit="page" from="543" to="545"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="7.543" xml:id="pbVII543"/>
+            <head>
+               <title type="main">5. Mundum esse Optimum.</title>
+            </head>
+            <p>Mundum dicimus omnes res creatas, vno eodemque nexa contentas.</p>
+
+            <p>Plures mundi animo effingi possunt, alter altero melior. E quibus si vnum Deus elegerit creandum pro infinita, quae eius est, sapientia et potentia, optimum seu, vt alio verbo dicam, perfectissimum eligere debuit.</p>
+
+            <p>Sed negant esse posse mundum tam perfectum, vt meliorem atque perfectiorem cogitare non liceat. ^) Creatum enim esse ideoque finitum, neque posse finiti aliquid optimum vocari, quum semper melius quidquam fingi queat.</p>
+
+            <p>Ego vero quidem haec censeo veritati consentanea. Finitum enim est id cui, quia non omnia complectitur , aliquid deest. Quod quamvis minimum fingatur, vel hoc minimo minus cogitare licet. Nego autem posse id ad mundum nostrum referri.</p>
+
+            <p>Mundi enim nostri, si non vnum rerum creatarum statum, sed omnium qui se inuicem excipiunt, statuum complexum, mun- dum vocamus, ea est ratio atque natura, vt in dies melior atque perfectior euadat. Xamque de hominibus hoc dubio caret; de animalibus intellectu nullo praeditis suspicari licet; de rebus in- animatis sermo esse nequit, quippe in quas, nisi Leibnitzii de Monadologia hypothesin tueamur, propriae perfectionis notio non cadit. Ad maiorem igitur perfectionis gradum continue euehitur mundus, et ob id ipsum optimus, opinor, est, quod quum in singulo quodam statu perfectissimus esse nequeat, huic, quem num- quam attingere potest, scopo propius semper propiusque accedat..</p>
+
+            <p>Handschrift (j halbbeschriebene Quartseiten) im Archiv in Tegel. y „tam — liceat" verbessert aus „perfectissimum".</p>
+
+            <pb n="7.544" xml:id="pbVII544"/>
+            <p>Neque vllum potuisset Deus mundum creare, si alter quidem altero melior esset, neque tarnen vnus optimus omnium. Nam nulla tunc ratio fuisset cur hunc potius, non alium elegerit, Deum autem sine ratione egisse putare nefas est.</p>
+
+            <p>Mala quae creatis rebus adhaerere videmus, quo minus mun- dus optimus sit, nihil impediunt. Nam</p>
+
+            <p>I., cum rerum finitarum natura necessario coniuncta sunt.</p>
+
+            <p>2., saepissime ex iis bona vel maxima oriri experientia, semper oriri debere Philosophia docet.</p>
+
+            <p>3., Possunt multis modis vitari atque minui.</p>
+
+            <p>Diese Aufzeichnung geholt in das akademische Wintersemester ijSjISS, das Humboldt zugleich mit seinem Bruder Alexander auf der Universität Frankfurt an der Oder zubrachte. Über ihre nähere Veranlassujig berichtet uns Alexanders Jugendfreund Wegener in seiner ungedruckten Selbstbiographie folgendes f Jugend- briefe Alexander von Humboldts an Wegener S. gj): „Dem älteren Wilhelm von Humboldt habe ich einmal in einer Disputation de mundo optimo, die er unter Löfflers Vorsitze in Löfflers Collegio verteidigte, opponiert. Nie hörte ich ein schöneres Latein und eine schnellere treffejide Antwort auf die gemachten Einwendungen. Und doch sprach dieser Wilhelm von Humboldt zum ersten Male öffentlich in lateinischer Sprache. Er war ein grosses Genie, wovon er hernach grosse Beweise gegeben hat. Mit innigem Vergnügen erinnere ich mich des kleinen Schmauses, den er nach glücklich überstandener Disputation gab. Wie leuchtete dieser sirnple Mann vor den sich brüstenden Gegnern, einem Pirner und einem von Keverberg !" Diese, wie wir sagen würden, seminaristische Disputation unter dem Vorsitz von Humboldts altem Lehrer und jetzigem frankfurter Hauswirt, dem Theologen Löffler, der bald darauf als Generalsuperintendent nach Gotha ging (vgl. seine begeisterte Charakteristik aus Wegeners Selbstbiographie in den Jugendbriefen Alexanders S. 8j), blieb auch dem jüngeren Bi-uder imver- geßlich (ebenda S. 42). In Leibnizens Systein war ja Humboldt seit Engels Unterricht eingehend bewandert und es ist daher nicht verwunderlich, wenn unsre Aufzeichnung sich im ganzen und einzelnen aufs engste mit der Darlegung des Optiynismus berührt, die oben S. 458 in den für Engel verfaßten philosophischen Aufsätzen abgedruckt ist. Daß Humboldt damals in Frankfurt in philosophischer Hinsicht noch fast ganz in Leibniz lebte, bezeugt uns Wegener durch die weitere Notiz (Jugendbriefe Alexanders S. g2j, daß jener ihm damals das Eigentümliche der Leibnizischen Philosophie so deutlich erklärt habe, wie er es in keinem Buche fand (auf dasselbe Faktum geht sichtlich auch die Bemerkung Steinthals in Hum- boldts sprachphilosophischen Werken S. 2ji Anrn. zurück, die aus dem Munde von Wegeners Enkel Hermann stammt, der auch mir seiner Zeit die Selbstbiographie seines Großvaters zugänglich machte).</p>
+
+            <pb n="7.545" xml:id="pbVII545"/>
+            <p>esse Optimum. cAC</p>
+
+            <p>Über dies eine frankfurter Semester Humboldts ist sonst wenig bekannt. Der Geist, der an der Hochschule herrschte, ist aus Wegeners eingehender Schilderung in seiner Selbstbiographie (Jugendbriefe Alexanders S. 85) zu erkennen, der die Mitteilungen Marots (Bruhns, Alexander von Humboldt i, 52) bestätigend und hie und da ergänzend zur Seite treten. Zelebritäten irgend einer Wissenschaft waren dort nicht vorhanden, überhaupt für eine tiefere Geistes- und Gemütsbildung wenig zu holen, ein Ausfall, der durch die folgende göttinger Zeit mit ihrer Fülle von Anregungen verschiedenster Art reichlich ersetzt wurde. Dafür galt es in Frankfurt, in verhältnismäßig kurzer Zeit zu einem vorläufigen Abschluß der juristischen Fachstudien zu gelangen, der für Göttingen größere Bewegungsfreiheit auf philosophisch-historischem und philologischem Gebiete ermöglichte. Humboldt selbst hat das frankfwter Semester als eiyie Zeit bezeichnet, in der Justinian mit der ganzen Last seiner Gesetze auf ihm gelegen habe (an Jacobi, 7. Februar i']8g). Die Brüder Humboldt hörten, wie Wegener berichtet, lauter Privatissima, denen auch ihr Erzieher Kunth beiwohnte. Beim Weggang von Frankfurt erhielt Wilhelm von Professor Reitemeier folgendes Zeugnis, das bei seinen kammergerichtlichen Personalakten erhalten ist:</p>
+
+            <p>„Fridericus Guilielmus Christianus Carolus Ferdinandus de Humboldt, Berolinensis, juris studio in academia nostra addictus, juri digestorum ac historiae S. R. Iraperii Germanici, me duce privatissimis praelectionibus, operam dedit ita, ut summam et assi- duitatis et probitatis laudem mereret et, ordinis clarioris splendorem humanitatis ac literarum gloria summopere augeri, exemplo suo probaret. Id quod eorum causa, qui de ipsius vita studiisque academicis judicaturi sunt, testimonio hocce profiteor. Franco- furti ad Viadrum die 8 Martii 17 SS.</p>
+
+            <p>Jo. Frid. Reitemeier P. P. O."</p>
+
+            <p>Die eigenhändigen Einträge der Brüder Humboldt in die frankfurter Matrikel vom i. Oktober lySy hat kürzlich Bachmann zusammen mit denen Heinrich von Kleists imd Zschokkes in der Festschrift Dem Andenken der Universität Frankfurt S. 48 in Faksimile abdrucken lassen.</p>
+
+            <p>W. V. Humboldt, Werke. VII. 35</p>
+         </div>
+      </body>
+   </text>
+</TEI>

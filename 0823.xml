@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Danae und Perseus</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Achter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif08humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1909">1909</date>
+                  </imprint>
+                  <biblScope unit="page" from="248" to="249"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1793">1793</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="8.248" xml:id="pbVIII248"/>
+            <head>
+               <title type="main">4. Danae und Perseus,</title>
+            </head>
+            <div type="section" n="1">
+               <head>
+                  <title type="main">von Acrisius den Wellen preisgegeben,</title>
+               </head>
+               <p>aus dem Griechischen des Simonides.<note type="footnote" n="*)" resp="gnd-116890657"><hi>In der Handschrift folgt: „da". ^J In der Handschrift: „die verlangenden Arme". *j In der Handschrift: „schläfst, schlummerst". V In der Handschrift: „vom Erze geschmiedet, die Nacht durchleuchtend".</hi></note> Da nun rauschend der Sturm -) den künstlichen Kasten Rings <note type="footnote" n="^)" resp="gnd-116890657"><hi>In der Handschrift: „in dem".</hi></note> umbrauste, und das tief strudelnde Meer,^) Sank sie vor Furcht, und mit thränenbethauetem Angesicht schlang sie um Perseus Den verlangenden Arm,^) und sprach: o Kind, Wieviel erduld' ich; Du aber schlummerst. Schläfst^) in Säuglings Träumen so süss Hier in der Wohnung des Harms, der ehernen, leuchtenden,') Hier im^) grausvollen Dunkel. Es kümmert Dich nicht Des Gewässers brausendes Wogen Ueber dem verwilderten lockigten Haar,^) nicht des Sturmes^®) Erster Druck: Flora lygö i, 183 (Februarheft). Eine ältere Fassung mit andrer Versabteilung bietet Humboldts Brief an Wolf vom 5. Dezeinber ijg^; eine Abschriß davon (i Folioseite) aus dem Sommer 1825 ist im Archiv in Tegel erhalten. V Vgl. Brunck, Analecta i, 121. y In der Handschrift folgt: „ringsum". y Fehlt in der Handschrift. *j In der Handschrift: „dass über dem armen lockigen Haar Dir des Meeres Woge hinrollt". '°J In der Handschrift: „Sturms".</p>
+
+               <pb n="8.249" xml:id="pbVIII249"/>
+               <p>Donnernde Stimme. Sorglos in Deinem</p>
+
+               <p>Purpurgewande ^) ruhst Du so da, schönes Antlitz. Aber wenn dies Furchtbare furchtbar Dir 15 Wäre, wenn ein zartes Ohr meinen Worten Du</p>
+
+               <p>Liehest, dann rief ich: schlummre, Kind, es schlummre Der Ocean, es schlummre das unermessliche Unglück.</p>
+
+               <p>Des Vaters Rathschluss sinke, vereitelt-) von Dir, Waltender Zeus, und wenn ich zu kühn zu Dir sprach,^) 20 O so fleh' ich um Perseus willen, vergieb mir ! *) y In der Handschrift: „Ins Purpurgewand sorglos gehüllt". ^) In der Handschrift: „Vaters Willens Vereitlung sey mir", y In der Handschrift: „ist zu kühn nicht Dir das Wort".</p>
+
+               <p>*J In der Handschrift: „so erßeh' ich durch Perseus mir Rache".</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

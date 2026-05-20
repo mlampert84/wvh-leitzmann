@@ -1,0 +1,437 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Alexander</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Neunter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif09humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1912">1912</date>
+                  </imprint>
+                  <biblScope unit="page" from="47" to="63"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1808">1808</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="9.47" xml:id="pbIX47"/>
+            <p>5-</p>
+
+            <head>
+               <title type="main">An Alexander.</title>
+            </head>
+            <p>[^.] Das Kreuz, das nie der ferne Nord erschauet, das zieret fremder Himmel Lichtgefilde, da, wo vom Pol der Pol geschieden ruht, das seinen Glanz des Südens Flut vertrauet, der Doppelwolke nah, die still und milde herniederleuchtend, ewig unbethauet, das Meer nur grüsst mit ihrem Strahlenbilde, das, Theurer, kühn durchschiffend Atlas Flut, sahst du, gedenkend dort in fremder Zone, dass fern ein Bruder, dich ersehnend, wohne.</p>
+
+            <p>2.</p>
+
+            <p>Ach! alle, die dich liebend hier umfingen, vertrauten ungern dich des Meeres Pfaden, als ab du stiessest von Iberiens Strand.</p>
+
+            <p>„O! Wind," so flehten sie, „mit leisen Schwingen geleite den, den ferne Küsten laden, die Welt der Welt tiefspähend abzuringen.</p>
+
+            <p>Handschrift (26 Folioseiten) int Archiv in Tegel. Die von der Handschrift abweichenden Lesarten sind einer ebenda erhaltenen Abschrift Karolinens von Humboldt entnommen, die eine durchgesehene Fassung des Textes bietet; die handschriftlichen Varianten gtbe ich unter dem Text. — Erster Druck: Wilhelm von Humboldts Gesammelte Werke i, s6i—j-]8 (1841).</p>
+
+            <p>4 „des Mittags".</p>
+
+            <pb n="9.48" xml:id="pbIX48"/>
+            <p>O! Meer, lass sich in stillen Fluten baden sein Schiff! und du empfang ihn mild, o Land, das ihn, wann er von Flut und Sturm befreiet, 20 mehr noch, als Sturm und Flut, mit Tod umdräuet.</p>
+
+            <p>3-</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">Denn</title>
+               </head>
+               <p>wo in wildem</p>
+
+               <p>Streit die Elemente, wie dort, in jenem</p>
+
+               <p>Welteneiland, streben, nicht kennend</p>
+
+               <p>Gränze, noch wohlthätig</p>
+
+               <p>Mass, als sey kein Geist, der einst sie mächtig trennte, 25 dass freundlich blühe heiter lächlend Leben; da muss, erschauend nichts, das Ruh ihm gönnte, der Mensch in Angst verzweiflungsvoll erbeben, wenn ach! auf dem er froh noch gestern sass, im Abgrund heut der Fels zertrümmert lieget, 30 und Sturm auf Sturm die bange Welt besieget.</p>
+
+               <p>4.</p>
+
+               <p>Furchtbar starrt die Natur, wo mit Gewichten sich Zug und Gegenzug aufhaltend ziehet, und jede Kraft nur überwunden schweigt; wo die Gewalt allein den Kampf kann schlichten, 35 und tückisch grollend stets der Schwächre fliehet; wo unverstandene Gesetze richten, zu unbekanntem Zweck sich alles mühet, und, wie in todtem Uhrwerk, fällt und steigt. Da wird kein Recht geübt, gilt kein Erbarmen, 40 wo Pulse nicht von Leben frisch erwarmen.</p>
+
+               <p>5Zwiefach ist die Gewalt, vor der mit Zittern das Daseyn flieht; des Meers, das rastlos eilet, des Felsen, der in träger</p>
+
+               <p>Masse starrt.</p>
+
+               <p>Auftobend in des Sturmes</p>
+
+               <p>Ungewittern, 45 gethürmt zu Bergen jetzt, und jetzt getheilet in Klüfte, drohet Land von Land zu splittern die Flut, die, unfruchtbar, Verderben heulet; und ruhend drücket, kalt und todt und hart,</p>
+
+               <p>Gebirgeslast, als wollt' in dumpfem Fallen 50 das Weltall sie in Eins zusammenballen.</p>
+
+               <pb n="9.49" xml:id="pbIX49"/>
+               <p>6.</p>
+
+               <p>Doch wie sich durch des Steines Spalte dränget die Pflanze, und auf schwacher Wurzel schwanket, bis ihrem Schwellen seine Härte weicht, sie, kühner fussend, sichrer an ihm hänget, 55 und ihn mit üppgem Teppich überranket; so schafft der Geist, wo die Natur ihn enget, mit Kraft, die, ewig quellend, nimmer kranket, sich Luft, bis ihre Macht sich vor ihm neigt, sie. Form und Seele von ihm zu empfangen, 60 sich an ihn schmiegt mit brünstigem \''erlangen.</p>
+
+               <p>7Als, dass sie Raum dem Licht und Leben bahne, einst in der Urzeit durch des Chaos</p>
+
+               <p>Fluten die Schöpfungskraft allmächtig sich ergoss, da spieen</p>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">Flammen</title>
+               </head>
+               <p>rauchende</p>
+
+               <p>Vulkane; 65 gegeisselt von des VVirbelsturmes Ruthen, schäumten zum Himmel aufwärts Oceane, und Felsen krachten, die auf Felsen ruhten, dass Erd' und Himmel in einander floss, zum Abgrund stürzten des Gebirges Wälder, 70 und Lohe wälzten schwarzversengte Felder.</p>
+
+               <p>8.</p>
+
+               <p>Da fandet ihr, die ihr, wie Bergesrücken, die Erd' umwandeltet mit Riesentritten, das Grab, ihr, wilder Ungeheuer Schaar, in der ^'erw^üstung letztem Todeszücken, 75 als andre Bahnen Hälios Ross' umschritten; ihr, deren morsch Gebein, kaum seinen Blicken vertrauend, spät der Wandrer antrift, mitten in öder Felsenkluft; der Mensch noch war da nicht; — der Arme braucht des Schicksals Milde, 80 geformet nach der Gottheit Ebenbilde.</p>
+            </div>
+
+            <div type="section" n="3">
+               <head>
+                  <title type="main">Und</title>
+               </head>
+               <p>sie verlässt ihn nicht.</p>
+
+               <p>Ihm zart geneiget, hat sie an Euphrats und an Tigris</p>
+
+               <p>Quellen</p>
+
+               <p>—</p>
+
+               <p>W. V. Humboldt. Werke. IX. 4</p>
+
+               <pb n="9.50" xml:id="pbIX50"/>
+            </div>
+
+            <div type="section" n="4">
+               <head>
+                  <title type="main">50 5-</title>
+               </head>
+               <p>dass froh es spriesse, stark und ungeschvvächt — da, wo aufs Land der fette Nilus steiget, 85 und um des Mittelmeeres Silberwellen an ihren Himmelsbrüsten gross gesäuget, gebettet sanft auf üppger Fluren Schwellen sein jugendlich aufblühendes Geschlecht. Nur leichten Kranz um seine Stirn zu legen, 90 kämpft kosend dort ihm die Natur entgegen.</p>
+
+               <p>10.</p>
+
+               <p>Als jenes Meer, das seinen Namen tauschte, da gastlich Recht Barbarenwut verdrängte, durch seine dichten Felsenwälle brach, da bald, als linder nur die Woge rauschte, 95 nur Meer und Land sich schied, das erst sich mengte, kehrte der Mensch zurück; der Enkel lauschte der Urzeit Sag', und durch die Fürth, die engte der ZwilHngsfelsen Eile, glitt gemach das Ruderschiff, fand neuen Meeres Busen, 3 00 und neuer Lieder Stoff dem Chor der Musen.</p>
+            </div>
+
+            <div type="section" n="5">
+               <head>
+                  <title type="main">II.</title>
+               </head>
+               <p>Mit Rauch vermischet, speit aus tiefen Schlünden des Aetnas starre Säule in die Lüfte der Lohe roth umdampft Verderben aus. Demeters Fackel flammt sie anzuzünden, '05 nicht Enna's lieblich Thal in Todesgrüfte zu wandeln; nein das theure Kind zu finden, nach dem die Mutter sucht durch Berg' und Klüfte; zum Meer sonst schickt er seiner Schlacken Graus, Verheerung folget ihrem finstern Dampfe, iio doch bald erlöschen sie im Wellenkampfe.</p>
+
+               <p>12.</p>
+
+               <p>Wohin man blickt, sind liebliche Gestalten; kein scheusslich Unthier lauscht am Flussgestade; Delphine scherzen harmlos in der Flut, den Sänger, dessen Lieder erst erschallten.</p>
+
+               <p>wg. 110 „und schont, von mildem Himmel selbst verschonet, des Pßügers, der um seine Wurzel wohnet."<pb n="9.51" xml:id="pbIX51"/> 115 enttragend durch des Meeres öde Pfade; selbst die des Todes Schrecknisse umwalten, umhüpfen froh die taumelnde Mänade, der gelbgemühnte Leu, des Pardels Wut gehorchen willig hoher Götter Geissei, 120 und sind unsterblich durch des Künstlers Meissel.</p>
+
+               <p>Drum wölbet sich von selbst zum Götterrhrone Olympos Haupt in ewgen Glanzes Kleide, und froh herrscht dort der Uraniden Chor. Auf Berge Berge thürmen, Kronos Sohne 125 entgegenkämpfend, frech empört von Neide, die Söhne Tellus, doch zu bittrem Lohne birgt sie der Mutter dunkles Eingeweide.</p>
+
+               <p>Neunfach zischt Lerna's Hydra wild empor, allein Aleides schwingt die Heldenrechte, 130 und stumm vergehn der Unnatur Geschlechte.</p>
+
+               <p>14.</p>
+
+               <p>Denn Ordnung strahlt aus der Verwirrung wieder, stets ist die Masse von der Form besieget, und Grösse geht mit Ebenmass vereint. Nicht ungeheuer starrn der Erde Glieder, 135 doch sanft in Wellenlinien hingeschmieget, wallt himmlisch Thal und Hügel auf und nieder; die Scheitel, die das Haupt in Wolken wieget, sie selbst, ist minder gross, als gross sie scheint; ein Geist ists, der in allem sichtbar lebet, 140 zum Aether fliegt, und mit zum Aether hebet.</p>
+
+               <p>Allein in jenem weiten Gontinente, den Kühnheit fand, durchschneidend fest den Spiegel, der, stets bewegt, nie Gleis bewahrt, noch Spur, wo deine Brust sich zu enträthseln sehnte M5 der Schöpfung tief geheimnissvolles Siegel, wo wilder tost das Heer der Elemente, ij2 „die Masse ist stets".</p>
+
+               <pb n="9.52" xml:id="pbIX52"/>
+               <p>hinstürmend auf der Windsbraut Adlerflügel; — dort in der grossen Werkstatt der Natur scheint Gottheit ihren Flug herabzulenken, 150 und in des Weltalls Schooss sich zu versenken.</p>
+
+               <p>16.</p>
+
+               <p>Erschrocken flieht zu des Olympos Sitze, ihr, Götter, die ihr Hellas froh umschwebet, vor dieses wilden Kampfes Angstgestöhn!</p>
+
+               <p>Von Ida's Scheitel schleudre, Zeus, die Blitze; 155 vor mächtigeren hier die Erd' erbebet, gezückt von Orizava's Sternenspitze. Und Erderschüttrer, du, dein Dreizack strebet vergebens hier; von Aegaes Klippenhöhn lass Ilions Küste jetzt die Flut umschauen, 160 jetzt netzen Taenars luftge Tempelhallen!</p>
+            </div>
+
+            <div type="section" n="6">
+               <head>
+                  <title type="main">n-</title>
+               </head>
+               <p>Denn wie der Geist in allgewaltgem Ringen Weisheit erspähend, wie nach leichtem Traume, verlässt das Reich der bunten Phantasie, so birgt, den kindlich Bilder erst umfingen, 165 der Gott sich unsichtbar im Schöpf ungsraume. Ehrfurcht regt nun die leisbewegten Schwingen, geheftet stumm an seines Mantels Saume; die Kunst verzagt, in Menschenharmonie hervor zu stammeln ewger Schönheit Fülle; 170 und fromm versinkt der Geist in heiige Stille.</p>
+
+               <p>In Steppen, die zum fernen Horizonte, gleich leichtbewegten Meeres Schimmerwogen, verfolgt der wüsteneiumstarrte Blick, auf Höhn, wo Leben nie gedeihen konnte, 175 wo nur der Riesenvogel, fortgezogen von kühner Lust, den düstern Fittig sonnte, schaut öd' herab der ehrne Himmelsbogen, und Menschen ziehen scheu den Schritt zurück.</p>
+
+               <p>162 „Wahrheit". — ijo „der Mensch'</p>
+
+               <pb n="9.53" xml:id="pbIX53"/>
+               <p>Selbst die, die Felsenbilder hoch verkünden, 180 die Völker sah die graue Zeit entschwinden.</p>
+
+               <p>19Was soll des Weibes Sohn, wo irre Heerden verscheuchter Rinder durstentbrannt verschmachten, in Stachelhülle suchet Kühlungstrank das Maulthier mit unsäglichen Beschwerden, 185 und wo, wann kaum in frischem Grün sie lachten, zum trägen Meer die fetten Fluren werden? in Wäldern was, die Beil und Axt verachten, die, dicht verschränkt, nie Menschenfuss durchdrang, die, undurchschaubar selbst des Wallers Blicken, 190 in rankende Lianen ihn verstricken?</p>
+
+               <p>20.</p>
+
+               <p>Hier stets befeindend und befeindet v/ieder, entbrennet freier Kampf den Thiergeschlechten in fürchterlichem, nie versöhntem Krieg. Vom Baum stürzt hier der rasche Tiger nieder; 195 hier ihre giftgen Knoten Schlangen flechten; das Krokodill zückt hier die starren Glieder; und die, die nimmer mit dem Stärkren rechten, die Beute stets sind leicht errungnem Sieg, der buntgefleckte Hirsch, das scheue Füllen, 200 müssen die Gier der Ungeheuer stillen.</p>
+
+               <p>21.</p>
+
+               <p>Selbst der, den sonst nur hoch vom Himmel lenket aus düstrer, flammenschwangrer Wolken Hülle der hohen Götter zornentbrannte Hand, hat hier in See und Fluss sich auch gesenket. 205 Verderben schiesst in grauser Todesstille der Schlangenfisch, mit Strahleskraft getränket, und sieh ! es schnaubt das Ross, und mit Gebrülle entflieht der Stier, doch grüsst nicht mehr das Land;</p>
+
+               <p>53</p>
+
+               <p>180 „sah längst vor siciv'; „verschwinden". — 205 „der Unge^vitter schwarz versammelt Heer". — 208 „das Land nicht mehr".</p>
+
+               <pb n="9.54" xml:id="pbIX54"/>
+               <p>er sinkt des Wütrichs unsichtbarem Streiche, 2IO der einsam herrscht im öden Wasserreiche.</p>
+
+               <p>22.</p>
+
+               <p>Da bricht nicht muthvoll, mit Herakles Keule bewehrt, der Sterbliche sich kühne Wege, in frohem Kampf von der Gefahr umspielt; erschrocken flieht er zu der Berge Steile, 215 und in des Dikkichts schützende Gehege. Wo Tiger stürzen mit des Blitzes Eile, wo von dem Boden, winterstarr und träge, sich giftgeschwollne Scheitel hebt; da fühlt der Mensch des Armes Sehnen sich entstraflen, 220 und schaut nach Rettung, nicht nach Wehr und Waffen.</p>
+
+               <p>23Tückisch tritt List nun an des Muthes Stelle, der frei erglüht in edler Schlachten Hitze, im Kampfe mit dem eigenen Geschlecht. Von giftgem Pfeil gerinnt des Blutes Welle, 225 und starrt bis zu des Lebens tiefstem Sitze; ja, dass er Tod verborgener entquelle, tünchet mit Gift des eignen Fingers Spitze der Wild' in scheinbar wehrlosem Gefecht; der Qualen eingedenk, indem er streitet, 230 die ihm des Siegers Barbarei bereitet.</p>
+
+               <p>24.</p>
+
+               <p>Denn wie der Wüste Thier, schlägt er die wilden heisshungren Zahn' in des Gefangnen Glieder, schickt ihn auf wild umtanzter Marterflur mit tausend Foltern zu des Tods Gefilden. 235 Umsonst sinkt sanfte Bitte vor ihm nieder, er ist ihr taub; die seine Füsse bilden, verwischt mit scheuer Hand der Schwächre wieder, der sein Gebiet betrat, des Sandes Spur; das Dase37n, das er elend durch mufs stehlen, 240 möcht' er dem Blick, dem Ohr, der Luft verhehlen.</p>
+
+               <p>211 „Aleides". — 217 „aus dem". — 220 „Kampf und". — lyo „Barbarei' verbessert aus „Wildheit sonst".</p>
+
+               <pb n="9.55" xml:id="pbIX55"/>
+               <p>23.</p>
+
+               <p>Du nur, die freundlich du den Menschen bindest an gottgeschützten Heerd durch sanfte Sitte, der blondgelockten Ceres milde Kunst! ab an der Hören goldner Spindel windest 245 sein Leben in des Jahres Wandelschritte, und den du selbst im eignen Schoosse findest, den Segen, heiss, mit demuthsvoller Bitte, erflehest von der hohen Götter Gunst; nur du lehrst muthvoll gegen Unbill kämpfen, 250 und nach dem Sieg den Zorn des Busens dämpfen.</p>
+
+               <p>26.</p>
+
+               <p>Hoch heftet an der ewgen Sterne Kreise der Pflüger bang der Furcht, der Hofnung Blicke durchs lange Jahr für seiner Saat Gedeihn; und wie sie wanken nie im sichren Gleise, 255 wie fort aeonenlang die Zeit auch rücke, und doch, nach weichgeschaff'ner Menschen Weise, dass sich der Erde Sohn daran erquicke, ihm Licht und Wärme unverweigert leihn; träufelt in seine Brust von ihrem Bilde 260 des Rechtes Strenge und der Liebe Milde.</p>
+
+               <p>27.</p>
+
+               <p>Aus beiden keimt, der hohen Himmelssphären erhabnes Kind, der Freiheit süsse Blume, und wächst zu starkem, allgewaltgem Baum, dess Zweige Schatten froh dem Volk gewähren, 205 von dem gehegt, sich Glück vermählt mit Ruhme. Nichts Höheres kann irrdscher Boden nähren, und alles ruht in diesem Heihgthume, was Edles birgt der weiten Schöpfung Raum. Des Menschen Grösse liegt nur im Gemüthe, 270 und Freiheit ist der Seelenhoheit Blüthe.</p>
+
+               <p>28.</p>
+
+               <p>Den Küsten, die, ob ihnen günstge Sterne, ob zürnende, Europa's Völker nahten?</p>
+
+               <pb n="9.56" xml:id="pbIX56"/>
+               <p>in Zweifel wiegen oft des Spähers Sinn, lag lange dieser Gaben Segen ferne. 275 Nie bettete Demeters goldnen Saaten der Pflug vormals die Furche hier; dass lerne des Baumes Frucht der Mansch, der Jagd entrathen, schickt fremdes Land das Korn des Samens hin; ein Mönch baut spät zuerst aus dunkler Zelle 280 ein Rharisch Feld um seines Klosters Schwelle.</p>
+
+               <p>29.</p>
+
+               <p>Soviel in jenen unermesslich weiten Einöden sah der Mensch auch Thiergeschlechte, wohlthätige, und die Verderben dröhn, fehlten, die ihn am herrlichsten begleiten. 285 Der Ackerstier, den nimmer Arbeit schwächte, gab hier dem Stachel nie die mächtgen Seiten; und nimmer prangt' in schimmerndem Gefechte, von Reisigen umschaart, des Landes Sohn, auf schnellen Rosses Rücken stolz enttragen, 290 oder herab von erzumglänztem Wagen.</p>
+
+               <p>Zwar blühte Kunst auch dort, empor noch steigen, besucht nur noch von heiigen Wallers Schritte, die Trümmer hingestürzter Königspracht. Doch unter schmählig Joch den Hals zu beugen, 295 zwang ein erniedrigt Volk Despotensitte; und wo von weiter Herrschaft nicht mehr zeugen der Vorzeit Spuren, da in Waldes Mitte schweiften, zu fristen Leben nur bedacht, vertilget oft von wildem Wechselmorden 300 zahllos getheilter Völkerschaaren Horden.</p>
+
+               <p>31Du noch, als du erklommst das Felsgehänge, wo Orinoko's Fluten stürzend tosen,</p>
+
+               <p>Geliebter, schautest eines Volkes Gruft. ^)</p>
+            </div>
+
+            <div type="section" n="7">
+               <head>
+                  <title type="main">Versammelt</title>
+               </head>
+               <p>ruht in finstrer Klippen Enge,</p>
+
+               <p>2']6 „die Furche vormals".</p>
+
+               <p>V Vgl. Alexander von Humboldt, Ansichten der Natur i, J25.<pb n="9.57" xml:id="pbIX57"/> 305 in jammervoll gemischten Trauerlosen, der Ahnherrn hier und späten Enkel Menge. Nicht ewig kann des Lichtes Strahl umkosen des Menschen Brust; doch soll in öder Kluft auch Lieb' und Hass, Weisheit und kindlich Lallen 310 und Thatkraft eines ganzen Stamms verhallen?</p>
+
+               <p>32.</p>
+
+               <p>An ehernen Gesetzen führt gekettet der irrdischen Geschlechter Wandel reihen das Schicksal unerbittlich seinen Pfad; zufrieden, wenn das hohe Ziel es rettet, 315 bleibt kalt es, ob sie leiden, ob sich freuen?</p>
+
+               <p>Auch uns hat es auf Rosen nicht gebettet; doch aus des Busens Tiefe strömt Gedeihen der festen Duldung und entschlossner That. Nicht Schmerz ist Unglück; Glück nicht immer Freude; 320 wer sein Geschick erfüllt, dem lächle n beide.</p>
+
+               <p>33Tief beben durch den Busen Wehmuthsschauer, wenn, wie die Well' die Welle überstürzet, der Wüste Völker namlos untergehn; der Wildniss abgetrotzten Lebens Dauer, 325 aufreibend, Feindesmacht grausam verkürzet, und armes, in Gefahr und Mühe sauer durchrungnes Dase3^n karge Freude würzet; des Jammers Thränen fliessen ungesehn, und Stöhnen, das nur Wüst' und Wald durchdringet, 330 in Wüst' und Wald auch ungehört verklinget.</p>
+
+               <p>34Spriessen, wie Blumen, nur der Völker Schaaren.</p>
+
+               <p>kein Vorrecht auf des ernsten Schicksals Wage, als dass ihr Lenz in längern Monden blüht, geniessend?</p>
+
+               <p>fraget niemand, wo sie waren? 335 wann hin sie sinken am \'ertilgungstage</p>
+
+               <p>?</p>
+
+               <p>Und ihr, die ihr seit Tausenden von Jahren,</p>
+
+               <p>335 „schwinden".</p>
+
+               <pb n="9.58" xml:id="pbIX58"/>
+               <p>wo längst verhallt der Vorzeit dunkle Sage, des grossen Welttheils Wüstenein durchzieht^ wird euer Daseyn unfruchtbar verschwinden? 340 kein schaffend Volk sich eurem Schooss entwinden?</p>
+
+               <p>35Wild auch durchstreiften einst Dodona's Fluren</p>
+
+               <p>Pelasger, bis aus ihren Wanderzügen</p>
+
+               <p>Hellas das Haupt erhob und Roheit sank.</p>
+
+               <p>Germanien deckten rauher Wildheit Spuren, 345 wüst sähe Romuls stolzer Sohn es liegen; und jetzo, gleich verschwisterten Naturen, kämpfen im Wechselchor Hellas zu siegen und wir. Rollt prachtvoller der Schwester Klang, schöpfen wir tiefer des Gedankens Quelle, 350 umrauscht uns mächtger des Gefühles Welle.</p>
+            </div>
+
+            <div type="section" n="8">
+               <head>
+                  <title type="main">3Ö-</title>
+               </head>
+            </div>
+
+            <div type="section" n="9">
+               <head>
+                  <title type="main">Ankämpfend</title>
+               </head>
+               <p>gegen Meeresflut, erklingen, und gegen Sturmesheulen, muss die Stimme, eh' rein und zart entströmt der Sprache Laut; die Brust mit wilder Liebe kochend ringen, 355 entbrennen wütend in Barbarengrimme.</p>
+
+               <p>Nie sonst gelingts, dass spät auf kühnen Schv^'ingen des Geistes hohen Flug das Wort erklimme. loniens Himmeln Licht und Form entthaut; der Nord, mit seines Nebels Florgestalten, 360 verschliesst den Blick, öfnet des Busens Falten.</p>
+
+               <p>37Allein was jener Welt Geiild' enthüllen, suchst du vergebens in Herakles Säulen.</p>
+
+               <p>Wo beide Pole froh, nach langem Brand, des Wellenbades süsse Sehnsucht stillen, 365 mit Schwestergleichheit sich die Hören theilen, der Gürtel wälzt sich sonst, wo Meere quillen, und wo der Wüste Thiere dürstend heulen; ihr nur umschlingt er lebenschwangres</p>
+
+               <p>Land,</p>
+
+               <p>339 „vergehen". — j4o „aus eurem Schooss erstehen". — j4j „empor die heitre Scheitel Hellas rang".</p>
+
+               <pb n="9.59" xml:id="pbIX59"/>
+               <p>und Hitz' und Nässe nun so üppig gähren, 370 als wollte Schöpfung Schöpfung neu gebähren,</p>
+
+               <p>38.</p>
+
+               <p>Und so wie rein' und reinre Luft umgiesset der Berge höher stets gethürmte Spitze, bis wo kein Grün die stumme Klipp' umlaubt, so riesenförmig in die Höh' da schiesset 375 der Berge Inselstirn zum Menschensitze, dass aller Sonnen dort er froh geniesset, und Kühlung haucht in glühnder Tropenhitze, aus Schwindelhöh auf Teneriffas Haupt herniederschaut, und über sich mit Beben 380 sieht aufwärts eisumstarrte Gipfel streben.</p>
+
+               <p>39Hier nun entfalten ihrer Blüthen Prangen mit Farbenschmelz, den sie dem Aether rauben, zahllose Pflanzen nie umwölktem Tag. Mit reinem Gold getränkt die Purpurwangen, 385 schwellen der Palmen sonnenreife Trauben, die von dem Staub zum Himmel kühn verlangen, indess zum Wald sich Farrenkräuter lauben unter der Fächerschirme Säulendach. Der Knabe hüllt in kindischem Gemüthe 390 scherzend das Haupt in Eines Baumes Blüthe.</p>
+
+               <p>40.</p>
+
+               <p>Einförmig deckt nicht meilenlange Strecken Ein Pflanzenstamm; in eiferndem Gemische spriesst, buhlend um den Preis, ihr bunter Kranz. Den Morgen froh der Sänger Heere wecken, 395 die schön und reich durchschwärmen die Gebüsche, und auf des Grocodilles Schuppendecken prangt oft des Phoenicopters Farbenfrische. Die Felswand selbst entsendet Goldesglanz.</p>
+
+               <p>Wie die Natur hier schwelgt in Färb' und Massen, 400 ringt Kunst umsonst in leichte Form zu fassen.</p>
+
+               <p>59</p>
+
+               <p>^97 „herrlich oft Ftjviingo's".</p>
+
+               <pb n="9.60" xml:id="pbIX60"/>
+               <p>41.</p>
+
+               <p>O ! warum musstet ihr, die mit den Kränzen ihr jeder Kunst die frohe Stirn umschlänget, nicht dieser Zonen Schöne werdend schaun?</p>
+
+               <p>Stehn hier des Erdendaseyns ewge Gränzen? 405 Kann, wo Natur in vollem Reichthum pranget, nicht auch des Menschen Geist allleuchtend glänzen? Musste, dass ihr den sichren Sieg erränget, sie nackter euren Händen sich vertraun? Darf nie in volle Glut der Pinsel tauchen? 410 Muss erst ihr lebenfrischer Duft verrauchen?</p>
+
+               <p>42.</p>
+
+               <p>Viel hält der Schicksalsloos' in ihren Banden die Zeit; thöricht, wer, dass am gleichen Faden, wie jetzt, sie ewig ab sich spinnen, wähnt. Auch Hellas Gross' ist aus dem Nichts erstanden; 415 und kühner schritten Andr' auf schönren Pfaden einher vielleicht, die früh in Nacht verschwanden. Frei will der Strahl des Geistes sich entladen, und nie räthst du, wohin er zücket. Gähnt auch im zerrissnen Lauf der Zeiten Lücke, 420 wölbt Alles sich im ewigen Geschicke.</p>
+
+               <p>43Was ringsumher des Weltalls Gränz' umschliesset, ist nichts, als Ein unendlicher Gedanke, der hehr ein sinnentzückend</p>
+
+               <p>Kleid sich webt, auf welchem Felsen starrn, die Ptlanze spriesset, 425 und Leben weht bis zu der Schöpfung Schranke. Wo ihm verwandter Geist nun naht, da schiesset in Eins ihr Strahl, dass Kraft die Kraft umranke. Drum bleibt unausgesprochen nichts, was lebt. Was Vorzeit nicht vermocht, in Wort zu hüllen, 430 wird das erstaunte Ohr der Nachwelt füllen.</p>
+
+               <p>40-2 „umschlinget" — 413 „ab sich ewig". — 414 „Blüth'". — 41s „schönren" verbessert aus „andren". — 416 „vielleicht einher".</p>
+
+               <pb n="9.61" xml:id="pbIX61"/>
+               <p>44.</p>
+
+               <p>Auch dir wächst einst ein Volk aus eignem Schoosse, Amerika, das neuer Welt Gestalten zu neuer Form der Kunst und Weisheit prägt; wo rein sich kann die unermesslich grosse 435 Natur, die üppig dich umprangt, entfalten, und wo, die jetzt als abgerissne, blosse Laute des Menschendaseyns dürftig schallten, der Geist zum Gipfel edler Sprachen trägt; wann du in eigner Kraft und Herrschaft thronest, 440 nicht mehr dem Fremdling dienst, nur mild ihn schonest.</p>
+
+               <p>43Wenn nicht die Flur, die sein Geschlecht getragen, den Menschen säugt an ihren Mutterbrüsten, nicht wiegt in ihrer Hügel Blumenbucht, wenn nicht des Zephyrs Wellen ihn umschlagen, 445 die kühlend seiner Väter Stirne küssten, nicht ihrer Weisheit Kraft, ihr kindisch Zagen lebt in den Lauten, die ihn werdend grüssten, gedeiht er nicht, irrt wie auf banger Flucht. Der Arme hat nur Kraft, sich selbst zu gnügen, 450 sich stärker an der Liebe Brust zu schmiegen.</p>
+
+               <p>46.</p>
+
+               <p>Wie Bäche eines Stromes stolze Wellen, den bargen lang des Berges dunkle Klüfte, eh' er durchbrach das dichte Felsgestein; so müssen eigne, nie geschaute Quellen 455 mit Erdenkraft und Glut der Himmelslüfte den Busen eines mächtgen Volkes schwellen, weit über Land und Meer, das es durchschiffte, des Geistes reifen Samen auszustreun.</p>
+
+               <p>Die alte Welt trug oft auf goldnen Schwingen 460 der Sieg; die neue muss ihn jetzt erringen.</p>
+
+               <p>4ji „dir, Columbia, wächst aus". — 4^2 „ein Volk einst, das aus". — 433 ,4er Kunst und Weisheit neue Formen". — 4^5 „Erdeninark".</p>
+
+               <pb n="9.62" xml:id="pbIX62"/>
+               <p>47.</p>
+
+               <p>Du, theurer Alexander, sähest beide, und wobst aus dem, was geistvoll du erspähet, ein reiches, Weltenall umschlingend</p>
+
+               <p>Band.</p>
+
+               <p>Dichtung strahlt, sagt man, schön im Feierkleide, 465 nur meidet sie, wenn Wahrheit ihr erflehet.</p>
+
+               <p>Doch wo sich wölbt der Schöpfung Urgebäude, führt dorthin Weg, als da, wo Dichtung wehet? Drum flohest du sie nicht, und nicht entschwand die ernstre Schwester dir. Sie rein zu sehen, 470 zwangst Dichtung selbst du, ihren Pfad zu gehen.</p>
+
+               <p>48.</p>
+
+               <p>Lebendig treten nun vor unsre Augen die Wunder jener überschwenglich reichen, würdig zuerst von dir durchforschten</p>
+
+               <p>Welt; und was zu schauen nicht die Sinne taugen — 475 wie aus die Kräfte der Natur sich gleichen, wie, um der Gottheit Odem einzusaugen, sie froh hier streben, dort bescheiden weichen, wie seine Flut das Meer, oft wechselnd, schwellt, wie sich der Erde Felsenpfeiler fügen — 4S0 hast du entworfen kühn in grossen Zügen.</p>
+
+               <p>49Und nicht den Menschen hat dein Bild vergessen, der in des Elementenstreites</p>
+
+               <p>Mitte, sich, oft erbebend, schwache Wohnung baut, und dennoch Herrschaft übet, stolzvermessen. 485 Gefolgt bist du dem Wilden in die Hütte, hast gern von seines Baumes Frucht gegessen, dich gern gefüget seiner Einfalt Sitte, und nicht verschmähet seiner Sprache Laut, wohl kundig, dass auch sie den Stempel traget, 490 dem Gottheit hat ihr Siegel aufgepräget.</p>
+
+               <p>50.</p>
+
+               <p>Glücklich bist du gekehrt zur Heimathserde vom fernen Land und Orinoco's Wogen.</p>
+
+               <p>4.04 „schön, sagt man".</p>
+
+               <pb n="9.63" xml:id="pbIX63"/>
+               <p>()! wenn — die Liebe spricht es zitternd aus — dich andren Welttheils Küste reizt, so werde 49? dir gleiche Huld gewährt, und gleich gewogen führe das Schicksal dich zum Vaterheerde, die Stirn von neu errungnem Kranz umzogen. Mir gnügt im Kreis der I.ieb\ im stillen Haus, dass mir den Sohn zum Ruhm dein Name wecke, 500 mich einst Ein Grab mit seinen Brüdern decke !</p>
+
+               <p>51Geh jetzt, o Lied, dem Theuren anzusagen, dass von Albanos Hügeln schüchtern zu ihm sich diese Töne wagen.</p>
+
+               <p>Empor ihn werden feiernd Andr' einst tragen 505 auf höhrer Dichtung Flügeln !</p>
+
+               <p>Albano, im September, 1S08.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

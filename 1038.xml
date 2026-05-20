@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vorschläge zur Organisation der Behörden</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif10humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1903">1903</date>
+                  </imprint>
+                  <biblScope unit="page" from="289" to="298"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="10.289" xml:id="pbX289"/>
+            <p>sagen, welche, auch ganz unabhängig von dem Antheil, welchen ich an ihrer Leitung gehabt habe, mir immer so sehr am Herzen liegen werden.</p>
+
+            <p>Berlin, d. 12. August 18 10. Humboldt.</p>
+
+            <head>
+               <title type="main">LIX. Vorschläge zur Organisation der Behörden.</title>
+            </head>
+            <p>Juni 18 10.</p>
+
+            <p>(Eigenhändiger Entwurf im Geh. Staatsarchiv.)</p>
+
+            <p>Diese Denkschrift, ohne Titel, Datum und Unterschrift, ist nach ihrer Lage in den Akten zwischen dem 10. und 16. Juni 1810 entstanden; nach Übernahme des Staatskanzleramtes durch Hardenberg. Sie reiht sich an ähnliche Arbeiten der Minister Gr. Goltz, Gr. Dohna u. a. an imd scheint einem Wunsche Hardenbergs ihren Ursprung zu verdanken.</p>
+
+            <p>Wenn es in diesen letzten Jahren irgend einen Zeitpunkt gab, in dem alles darauf ankam, dass jeder Staat mit Ernst darauf dachte, sich in eine äusserlich und innerlich möglichst sichere und feste Lage zu setzen, so ist es der jetzige. Denn die wenigstens für den Augenblick enge Verbindung Frankreichs mit Oesterreich, und die, wie es scheint, vollendete Unterjochung Spaniens lässt erwarten, dass Frankreich nunmehr glauben wird, den Punkt erreicht zu haben, Europa eine, seinen Grundsätzen gemässe Organisation zu geben, und es ist nicht wahrscheinlich, dass es in diesem Unternehmen durch eine irgend bedeutende Anfechtung noch ge- stört werden sollte. Welcher Staat also im Stande sein wird seine Privatlage in dieser allgemeinen einigermassen festzustellen, der wird mit einiger Sicherheit auf politische Ruhe in den nächsten Jahren rechnen dürfen. Aber bis jeder dies Ziel erreicht hat, ist auch die Gefahr augenscheinlich, in dem, für den Augenblick schwankenden Zu- stand bedeutenden Verlust zu erleiden, oder vielleicht gar unter- zugehen.</p>
+
+            <pb n="10.290" xml:id="pbX290"/>
+            <p>Obgleich nun hierzu am kräftigsten die Behandlung der aus- wärtigen Angelegenheiten wirken muss, so ist dennoch die innere A^rwaltung und das System, nach dem sie betrieben wird, zugleich von der äussersten Wichtigkeit. Ist diese Verwaltung wirklich was sie seyn soll, so verhindert sie, dass sich die Regierung Blossen gebe, die eine argwöhnisch, kalt oder gar versteckt feind- selige Macht leicht so zu benutzen im Stande ist, dass nun keine Diplomatie weiter etwas dagegen vermag; so bringt sie eine gewisse, wenigstens moralische Scheu herv'or, ein Land anzutasten, das sich mit Weisheit und Entschlossenheit beträgt ; und so macht sie endlich, wenn Unglücksfälle eintreten, auch den Fall noch ehrwürdig.</p>
+
+            <p>Unsere jetzige innere Verwaltung nun ist von einer solchen noch weit entfernt und hat, neben unläugbaren Vorzügen noch, wie allgemein anerkannt ward, grosse und bedeutende ^Mängel. Sie ist zu wenig planmässig, energisch und schnell, zu wenig die physischen Kräfte der Nation schonend, zu wenig ihre moralischen erweckend.</p>
+
+            <p>Die Ursachen davon liegen am Tage. Man hat eine neue Organisation angefangen, und gerade in den wichtigsten Punkten nicht durchgesetzt, so dass das augen- blicklich Drückende der Veränderung verhasst geworden, das dauernd Gute unerkannt geblieben ist. Eine Zeitlang ist man selbst über das politische Benehmen des Staates, in einem schwankenden Zustande gewesen. Dabei haben alle höheren Staatsbeamten den Fehler begangen, ihre Stellen anzunehmen, ohne vorher ihren Standpunkt zu prüfen, und zu überlegen, ob die Lage ihrer Stellen — ihr Zusammenwirken mit andern, ihre Abgränzung für sich — so sey, dass man darin seine Pflicht mit vollem Erfolge ausüben könne. Man hat geglaubt, den Mangel fester allgemeiner Formen durch Persönlichkeit ersetzen zu können. Daher ist wahre Verschwendung der Kräfte entstanden, und das traurige Phänomen, dass, ohne Schuld der höhern und niedrigen Arbeiter, der Erfolg doch nicht befriedigend ist. Fast jeder ist in eine Lage gegangen, die er nicht recht übersah; das Rad der täglichen Geschäfte musste umgetrieben werden, und so wurden die Chefs mit Detail überladen, mussten das Entwerfen allgemeiner Pläne — mit dem man hätte anfangen sollen — aufschieben, und durch einzeln abge- nöthigte Verfügungen unrichtigerweise anticipiren.<pb n="10.291" xml:id="pbX291"/> ZU bewirken ist. Denn die Nation ist im ganzen (wenn man gleich sich nicht ausserordentliche Dinge von ihr versprechen muss) gut, vorzüglich aber gefasst auf jede Entsagung und jegliches Opfer; aus den Königlichen Bedienten ist der Geist des Eigennutzes, und die Behandlung der Aemter als Versorgungen sehr verschwunden ; und nie vielleicht sind unter den obersten Chefs und den Käthen gleich viele ausgezeichnete und achtungswürdige Talente versammelt gewesen. In dem jetzigen Gange aber kann es nie besser werden. Alles I3rängen auf Energie, Schnelligkeit und Ordnung, alles Anstellen neuer Arbeiter, alles Verwenden von Summen auf Verbesserungen, alles Wirken durch Religion und Erziehung hilft nur halb, wenn nicht jede dieser Triebfedern nach einem allgemeinen consequenten Plan in Bewegung gesetzt wird, und dies wiederum ist unmöglich ohne Einheit und gehörige Abgränzung der Behörden.</p>
+
+            <p>Es kommt daher darauf an, einen Innern Vervvaltungsplan zu entwerfen, der jeder einzelnen Behörde einen fest abgesteckten und leicht übersehbaren Wirkungskreis anweist, und alle unter Eine oberste Einheit zusammenstellte. Nur aus einem solchen kann reine Verantwortlichkeit (die jetzt, da jeder für Alles unter ihm Geschehende verantwortlich seyn soll, nicht existirt) klare Uebersicht und Müsse zu freiem Nachdenken über die ganze Parthie (da jetzt jeder sich in Detail verliert) hervorgehen.</p>
+
+            <p>Zugleich muss der Plan keine Abänderung, sondern nur eine \"ervollständigung des jetzigen Systems seyn. Das System ist an sich gut, und es macht einen üblen Eindruck auf das Publikum, wenn es die Verw^altung alle Augenblicke umgeändert sieht.</p>
+
+            <p>Ein solcher Plan nun scheint folgender zu seyn.</p>
+
+            <p>Die oberste Einheit der ganzen Regierung läge in einem Gab inet und einem Staatsrat h.</p>
+
+            <p>Das Cabinet.</p>
+
+            <p>Das Cabinet (das unter diesem Namen abgesondert vom König angenommen wird und als ein für sich rathschlagendes, und dann seine gefassten Beschlüsse dem Könige zur Entscheidung vorlegendes Collegium) wäre der Centralpunkt der ganzen Administration; bestände bloss aus Ministern, mit abwechselndem Vor<pb n="10.292" xml:id="pbX292"/>von denen nicht das Gedeihen dieses oder jenes A'erwahungs- zweiges, sondern die Erhaltung des ganzen Staates abhängt. Jetzt, da eigentlich jeder Minister nur sein Departement hat, giebt es kaum eine Möglichkeit, solche Fragen offiziell auch nur aufzuwerfen. Die Aufgabe, welche das Cabinet unverrückt vor Augen haben müsste, wäre also die:</p>
+
+            <p>Was muss geschehen, um den Staat nach aussen sicher, und im Innern blühend zu erhalten?</p>
+
+            <p>Daher müsste es für das Cabinet kein Geheimniss geben; alle, auch die auswärtigen Angelegenheiten, müssten zu seiner Kennt- niss kommen, und jeder Minister müsste allen seinen ganzen Plan vor Augen legen, und jeder Frage darüber Rede stehen.</p>
+
+            <p>Die einzelnen Mitglieder des Cabinets, die Minister, nemlich der Minister der auswärtigen Angelegenheiten der Finanz-Minister der Minister des Innern der Ivriegsminister und der Justiz-Minister wären jeder (da die Administration nur Einem, und diesem mit Vertrauen überlassen werden muss) Chef seiner Parthie; Administratoren (nicht bloss Conferenz-Minister) weil sie den allgemeinen Plan der Administration angäben, aber nie selbst unmittelbar administrirend, da sie sich mit keiner Art von Detail befassten.</p>
+
+            <p>Sie hörten daher ganz auf, Sections-Chefs zu seyn. Jeder arbeitet den allgemeinen Plan seines Departements aus, und brächte ihn zur gemeinschaftlichen Berathschlagung. Der Gesichtspunkt bei dieser wäre die Beziehung der verschiedenen Parthien auf die Erhaltung und das Wohl des Ganzen. Doch bliebe es jedem unbenommen, auch Einwendungen gegen die einzelne Administration zu machen. Nur müsste immer der Grundsatz aufrecht erhalten werden, dass die Administration, so gut es auch ist, einzelne Einwendungen zu hören, nicht auf Berath- schlagungen Mehrerer beruhen darf.</p>
+
+            <p>Die Sanction der vom Cabinet genehmigten Angelegenheiten, oder die Entscheidung derer, worin das Cabinet uneins wäre, gehörte allein dem Könige. Der König aber hätte (einzelne Fälle von Reisen ausgenommen) keine Vorträge, als mit dem ganzen Cabinet, weder mit einem Cabinetsrathe noch mit einzelnen Ministern.</p>
+
+            <pb n="10.293" xml:id="pbX293"/>
+            <p>Jeder Minister hätte Staats-Räthe zu Departements -Käthen, allein so wenige, als möglich. Wenn der Gang streng gehalten, und immer mehr Einzelnes abgeschnitten würde, wäre Einer, und ein Suppleant, der zugleich in einer Section arbeiten könnte, für jeden genug. Diese aber blieben den Geheimnissen des Gabinets gänzlich fremd.</p>
+
+            <p>Der Staatsrath.</p>
+
+            <p>Für den Staatsrath würden alle Angelegenheiten gehören, deren Beurtheilung nicht von einzelnen vorübergehenden oder localen Umständen, sondern von allgemeinen Verhältnissen des Staats, der Rechte seiner Bürger, und der Sachen selbst abhängt.</p>
+
+            <p>Eine vollkommen genaue Abgränzung des Bezirks des Gabinets und Staatsraths ist, der Natur der Sache nach, nicht möglich. Man kann von der Gompetenz des Staatsraths nicht alle Verwaltungsmassregeln ausschliessen, und kann ebensowenig alle, oder auch selbst nur alle wichtigeren zu derselben rechnen. Bei Anordnung neuer Steuern z. B. dürfte dem Staatsrath nie erlaubt werden, darüber mitzureden, ob welche, und wieviel auferlegt werden sollten; allein die Art der Erhebung, vorzüglich wenn dieselbe irgend bedenklich scheinen könnte, müsste allerdings ein Gegenstand seiner Berathung seyn. Die Nothwendigkeit ein Gabinet und einen Staatsrath zu unterscheiden, liegt bloss darin, dass die wahre Administration das freie Schalten Eines Kopfes fordert, die Gesetzgebung aber, sowie ferner die Beurtheilung der Zweckmässigkeit der Administrationsmittel im Allgemeinen (und abgesehen von dem bestimmten einzelnen, manchmal momentanen Zweck) durch Berathung unter Melen gewinnt, und dass die Administration oft ein Geheimniss und eine Schnelligkeit fordert, die viele Personen zuzulassen verbieten.</p>
+
+            <p>Daher entstand vermuthlich in der Verordnung vom 24. November 1808 das Mangelhafte, dass die auswärtigen Angelegenheiten aus dem Staatsrathe ausgeschlossen seyn mussten, und nun in</p>
+
+            <pb n="10.294" xml:id="pbX294"/>
+            <p>Der Staatsrath berathschlagte bloss über Dinge, die ihm das Cabinet zufertigte. Er gäbe aber vierteljährig einen Bericht ein, der dem Könige vorgelegt werden müsste, und der aus den Berichten der einzelnen Abtheilungen zusammengesetzt würde. In diesem wäre es ihm erlaubt, sowohl unaufgefordert Vorschläge und Bemerkungen über Verwaltungsangelegenheiten (aber immer nur innerhalb seiner Competenz) zu machen, als auch die Mass- regeln anzuzeigen, über die er hätte gehört werden müssen, und nicht gehört worden wäre.</p>
+
+            <p>Die Beschlüsse des Staatsraths gingen an das Cabinet, und müssten an den König gelangen, wenn das Cabinet ihnen nicht beiträte. Es stände auch dem Präsidenten frei, zugleich mit dem Director der competenten Abtheilung jeden einzelnen Beschluss selbst persönlich im Cabinet zu vertreten, und den Bericht an den König im. Falle der Nicht-Einigung nach den Umständen mit Genehmigung des Staatsraths zu modificiren. Die Gesetzgebungs- Section hörte mit der Einrichtung des Staatsraths auf.</p>
+
+            <p>Die Sectionen.</p>
+
+            <p>Die Zahl und Gränzen der Sectionen müssten aufs Neue revi- dirt werden, da schon die Verordnung vom 24. November 1808 einige Verwaltungszweige isolirt stehen Hess, und man seitdem andere Abtheilungen gemacht hat.</p>
+
+            <p>Die Sections-Chefs ständen unmittelbar unter dem gesamten Cabinet.</p>
+
+            <p>Sie wären die wahren Administratoren, und als solche jeder in seiner Parthie gänzlich frei von ministerieller Einmischung im Einzelnen und unabhängig.</p>
+
+            <p>Gegen den ^Minister ihres Departements ständen sie in folgendem Verhältniss.</p>
+
+            <p>Er theilte ihnen seine Beschlüsse und Plane mit seinem ganzen Ministerio mit, und forderte von jedem einen, in Form eines Berichts an den König abgefassten Plan seiner Parthie.</p>
+
+            <pb n="10.295" xml:id="pbX295"/>
+            <p>Um die Einheit seines Departements zu erhalten, versammelte er, so oft er wollte, ein Plenum seines Ministerii, bei dem aber nur die Sections-Chefs und seine Depanements-Räthe erschienen.</p>
+
+            <p>Einzelne Sachen kämen indess in diesem Pleno nicht vor, da sie gar nicht zur Kenntniss des Ministers gehörten. Wo die Sectionen miteinander collidirten, brächten sie ihre \^ota an ihn, und er entschiede.</p>
+
+            <p>Ueberall aber, wo der Minister und der Sections-Chef verschiedener Meinung wären, hinge es immer von diesem ab, die Sache ans Cabinet und durch dieses an den König zu bringen.</p>
+
+            <p>Alle Haupt A^erwaltungs-Plane, die zugleich die Haupt-Etats enthielten, sowie alle Sections-Berichte an den König, deren Zahl aber zu verringern se3'n möchte, würden dem gesamten Cabinet, nicht dem einzelnen Minister vorgelegt, und durch dieses an den König gebracht. Der Sections-Chef hätte das Recht, sie im Cabinet selbst persönlich zu vertreten, den Beschluss des Cabinets zu er- fahren, wobei ihm jedoch die Gründe, sobald sie nicht seine Panhie beträfen, nicht angegeben zu werden brauchten, und seinen Antrag danach auch nachher noch zu moditiciren.</p>
+
+            <p>Wäre der Verwaltungsplan einmal genehmigt, so erwartete das Cabinet und der Departements-Minister nur die Rechenschaft über die Ausführung im vierteljährigen Bericht. Keiner aber mischte sich ins Einzelne. Es bliebe allerdings den Ministern un- benommen, Verbesserungs-Vorschläge auch bei einzelnen Sectionen für ihre einzelne Verwaltung zu machen, aber sie dürften die Freiheit des Sections-Chefs nicht beschränken. Er einmal wäre verantwonlich, und müsste auch frei seyn. Eine Verantwonlich- keit für eine Parthie mit Ausnahme einzelner, von dem Höhern gemachter ^"erfügungen ist ein Unding, weil sich gar nicht be- rechnen lässt, wie weit diese Verfügungen ihre Folgen erstrecken. Da der Minister, wie gleich folgen soll, die volle Controlle hätte, und in jedem Augenblick dem König sagen könnte, dass dieser oder jener Sections-Chef so verwaltete, dass ihm die Verwaltung nicht länger anvertraut werden könnte, so wäre nie Ge- fahr da. Wäre indess eine vorhanden, so würde die Sache durch das einzelne Eingreifen nur noch schlimmer.<pb n="10.296" xml:id="pbX296"/> fragen, Acten nach Willkühr sich vorlegen lassen, bei den \ot- trägen, ohne jedoch den Ort des Vortrags zu ändern, das Präsidium des Sections-Chefs zu stören, oder selbst entscheiden zu wollen, so oft es ihm gefiele, zugegen seyn.</p>
+
+            <p>Das Hauptgeschäft jedes Sections-Chefs wäre das Entwerfen des Hauptplans für seine Parthie, die specielle Aufsicht auf die Ausführung desselben, und die allgemeine Controlle über den Geschäftsgang seiner Section und über ihre Unterbehörden. Dafür allein wäre er ausschliesslich verantwortlich, nicht eben so für jede einzelne Angelegenheit seiner Section. Vielmehr stände es ihm frei, soviel von dem einzelnen Geschäftsbetrieb seinem ältesten Rath zu übertragen, als mit seinen allgemeinen Pflichten verein- bar wäre.</p>
+
+            <p>Wo er glaubte, dass in einer anderen Section seiner Parthie entgegengehandelt würde, könnte er sich mit ihnen darüber in Verbindung setzen. Wo er dasselbe von allgemeinen Regierungsmassregeln meynte, da stände es ihm frei, wenn nicht eiligere Schritte nöthig wären, es in seinen vierteljährigen Berichten an das Cabinet, und in seinem jährigen an den König zu erwähnen.</p>
+
+            <p>Die Regierungen.</p>
+
+            <p>Die Regierungen blieben in ihren einzelnen Deputationen bloss die Unterbehörden der Sectionen. Sie erhielten von ihnen die allgemeinen Plane, legten ihnen die besonderen über die Ausführung in ihrer Provinz vor, müssten sich in allen allgemeinen Massregeln den Verfügungen der Section unterwerfen, hätten aber überall da ein Widerspruchsrecht, wo sie iNIodificationen der allgemeinen ]\Iassregeln nach der Localität ihrer Provinzen verlangten. Alsdann entschiede zwischen ihnen und den Sections-Chefs das Cabinet, oder, w^enn sich ein Theil dabei nicht beruhigt, der König. Sie statteten den Sections-Chefs gleichfalls vierteljährige Berichte ab, und könnten in diesen auch unaufgefordert \'er- besserungsvorschläge machen.</p>
+
+            <p>x\ls ganze und ungetheilte Collegien wären die Regierungen lediglich nur dem Cabinet, als Gesamtcollegio, unterw^orfen.<pb n="10.297" xml:id="pbX297"/> als Ein Regierungs-Departement erstreckende Gegenstände, und als besondre in einzelnen ausserordentlichen Fällen. Als con- trollirende Behörden fielen sie, als unnütz, hinweg.</p>
+
+            <p>Die Stände.</p>
+
+            <p>Die Stände, deren zweckmässige Organisation dringendes Be- dürfniss ist, hätten als Kreis- und Provinzial-Repräsentanten die- selbe Bestimmung, als die Stadtverordneten in den Städten, Sie stellten ihre Gemeine vor, und besorgten alles, was Gemeine- Angelegenheit ist. Es müsste aber zum Grundsatz gemacht werden, den Kreis der Gemeine-Angelegenheiten nach und nach, soviel als möglich, zu erweitern.</p>
+
+            <p>Allein an der wirklichen Staatsverwaltung, oder auch nur der Gesetzgebung nähmen die Stände keinen Antheil, es müsste denn se3^n, dass man ehrlich und unpartheiisch gewisse Staatsoperationen an ihre Einwilligung knüpfen wollte. Sie in dieser Art bloss gutachtlich zu Rathe zu ziehen, wäre, wenn es zur Regel gemacht würde, oder auch nur oft geschähe, verderblich.</p>
+
+            <p>Die Zuziehung von Landständen zu den Regierungen würden wiederum aufgehoben.</p>
+
+            <p>Die Haupt- Vorzüge eines solchen Verwaltungs-Systems, und somit die Verbesserungen gegen die Verordnung vom 24. November 1808, wären: i) dass das ungleiche Verhältniss der Minister, zugleich Minister und Sections-Chef zu seyn, wodurch sie in alles Detail erst ihrer Sectionen und dann der angränzenden gezogen werden, aufhörte ;<note type="footnote" n="2)" resp="gnd-118554727"><hi>dass das Abhängigkeitsverhältniss der Sections-Chefs von den Ministern fester bestimmt wäre, indem die Stufenleiter genau angegeben wäre, auf welcher die einen und die andern ad- ministriren sollen;</hi></note><note type="footnote" n="3)" resp="gnd-118554727"><hi>dass die unsichre Abgränzung der Ministerien des Innern und der Finanzen nicht mehr nachtheilig würde, da diese beiden Minister nicht mehr, als einzelne Administratoren, Interesse hätten, ihre Gränze, sondern vielmehr als Mitglieder eines Gesamt-Cabinets ihre Berührungspunkte aufzusuchen;</hi></note></p>
+
+            <pb n="10.298" xml:id="pbX298"/>
+            <p>a) was das Cabinet an ihn brächte, b) Beschwerden über das Cabinet, c) reine Gnadensachen, von denen aber alle Gesuche um Anstellungen streng geschieden werden müssten; beim Cabinet bloss a) was der Staatsrath und die Sections-Chefs an dasselbe brächten und b) Beschwerden über die Sections-Chefs; bei den Sections-Chefs a) was vor die Sectionen, als Oberbehörden, gebracht werden muss, und b) Beschwerden über die Unterbehörden.</p>
+
+            <p>Hierauf aber müsste mit Strenge gehalten werden, und der König, die Minister und die Sections-Chefs müssten, ohne Rücksicht, alles unrichtig an sie Adressirte zurücksenden, und zwar nicht an die competente Behörde, sondern an die Einsender selbst.</p>
+
+            <p>Die hier vorgeschlagene Umänderung machte nun gar keine neuen Anstellungen nothwendig, als bloss die der zu keiner Section gehörenden Mitglieder des Staatsraths, und schon jetzt giebt es einige mit wenig oder gar keinen Sections-Arbeiten beauftragte Geheime Staats-Räthe, welche dazu gebraucht werden könnten.</p>
+
+            <p>Sie würden dem Publikum keine Umstürzung der Verordnung vom 24. November 1808 scheinen, die sie auch in der That nicht ist. Diese Verordnung enthält auch die Namen Cabinet und Staatsrath, und die ^^erfassung der Sectionen bleibt und würde nur anders bestimmt.</p>
+
+            <p>Das Venrauen zur Regierung würde durch eine solche Verwaltung aufs Neue belebt werden, da die Nation sehen würde, dass Jeder auf dem ihm angewiesenen Platze mit ]\lusse nachdenken und mit Freiheit handeln könnte. Jetzt, da diese Ueber- zeugung fehlt, wirken auch die besten Wahlen nur wenig aufs Publikum. Ausserdem ist die Klage über den Mangel einer obersten Einheit allgemein, und selbst diejenige Einheit, welche in den Ministerial-Conferenzen wirklich existirt, dem Publikum unbekannt. Nichts aber schadet allen Massregeln der Regierung so sehr, als wenn einmal die MeA^nung der Langsamkeit, Planlosigkeit und Unordnung gegen sie herrschend geworden ist,</p>
+         </div>
+      </body>
+   </text>
+</TEI>

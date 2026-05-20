@@ -1,0 +1,236 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fragmente der Monographie über die Basken</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Siebenter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif0702humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1907">1907</date>
+                  </imprint>
+                  <biblScope unit="page" from="593" to="608"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="7.593" xml:id="pbVII593"/>
+            <head>
+               <title type="main">13- Fragmente der Monographie über die Basken.</title>
+            </head>
+            <p>Der Leser weiss nunmehr alles von der Vaskischen Sprache, was dazu dienen kann das Volk zu charakterisiren, welches dieselbe spricht. Es ist jetzt der Augenblick, sie als Sprache zu schildern, und da hiezu ein trocknerer, mehr ins Einzelne eingehender Vortrag nothwendig ist, so muss es mir vergönnt seyn, von allen denjenigen Abschied zu nehmen, die an blossen Sprachuntersuchungen kein InteresSe finden. Es ist aber hier nicht der Zweck, die Vaskische Sprache selbst zu lehren, sondern bloss zu zeigen, auf welche Weise sie sich vor andren, älteren und neueren, auszeichnet. Ich werde daher auch meinen Vortrag dieser Absicht gemäss einrichten; mehr die Methode zeigen, nach welcher diese Sprache ihre Elemente verändert, als diese Veränderungen selbst aufzählen, und alles aus allen Theilen ihres Baues zusammenbringen, was nach Einer Maxime beurtheilt werden muss. Daher wird mein Gang in vieler Rücksicht gerade der umgekehrte desjenigen seyn, welchen der Lehrling einer Sprache wünschen möchte. Denn zum blossen Erlernen ist immer der mechanische Weg der kürzere; und daher sind zu diesem Behuf Paradigmen besser als Regeln, Vokabelbücher besser als etymologische Uebersichten, und die Ordnung nach den grossen Massen der gewöhnlichen Redetheile bequemer, als eine raffinirtere.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Bei der zu einseitigen Befolgung der sogenannten systematischen Methode in allen Dingen vergisst man zu leicht, dass der menschliche Geist (selbst bei Kindern) immer leicht aus dem scheinbaren Chaos des Einzelnen das Allgemeine abzieht, da</hi></note>Handschrift (ig halbbeschriebene Quartseiten, die j6r. j62, 4jj — 440, 621 — 62r) paginiert sind) in der Königlichen Bibliothek in Berlin.</p>
+
+            <p>W. V. Humboldt, Werke. VII. 38</p>
+
+            <pb n="7.594" xml:id="pbVII594"/>
+            <p>Die Etymologie findet eine doppelte Anwendung: in Einer Sprache, oder in mehreren. Man fragt entweder: wie stammen die Wörter dieser oder jener Sprache von einander ab? oder wie sind diese oder jene Sprachen selbst aus einander entstanden?</p>
+
+            <p>Der Zweck alles Etymologisirens kann nur erfüllt werden,, wenn beide Anwendungen immerfort mit einander verbunden werden, und der Grund, warum die Etymologie so vielen eine so willkührliche und unfruchtbare Wissenschaft scheint, ist vorzüglich der, dass man bisher fast nur immer die letztre mit Hintansetzung der ersteren vorgenommen hat. Hier sollen beide nach einander geprüft werden.</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">I.</title>
+               </head>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">Etymologisiren in Einer und derselben Sprache.</title>
+               </head>
+               <p>Man erklärt die Etymologie gewöhnlich als die Wissenschaft von der Aufsuchung der Wurzel- oder Stammwörter. Allein rich- tiger, zweckmässiger, und ohne Voraussetzung dessen, was erst untersucht werden soll, nemlich ob es überhaupt Stammwörter giebt? würde man sie als die Kunst definiren, die Gesetze der Analogie zwischen den Tönen und den Bedeutungen der Wörter aufzufinden. Hieraus ergiebt sich das andre von selbst. Denn da man das Besondre immer auf etwas Allgemeineres, aus dem es hergeleitet ist, zurückführt, so steigt man endlich, wenn auch gegen schwer zu diesem das Besondere findet, und dass es daher viel leichter ist, den Kopf vor Unrichtigkeit und Verwirrung, als vor Leerheit zu bewahren. Die ältere Schulmethode war darum, dünkt mich, so viel vorzüglicher, als die neuere, weil sie eine grosse Menge desjenigen Stoffs gab, aus dem der Kopf von selbst getrieben wird, die Form, und zwar durch eigne Anstrengung hervorzuziehen, da die unsrige durch Vorsagen magrer Formen so leicht hohle Köpfe bildet. Noch die Methode ungerechnet, wird jetzt offenbar zu wenig Geschichte, Sprachstudium und (in Deutschland) Mathematik getrieben. Das häufigere Studium der Naturwissenschaften hilft der intellectuellen Hohlheit nicht ab. Die unmittelbare Zusammenstellung desselben mit ganz allgemeiner Metaphysik und von allem Technischen immer mehr abstrahirender Aesthetik (und wer wird läugnen, dass diese Materialität und Transcendentalität in Deutschland jetzt fast nichts zwischen sich zurücklässt ?) macht das Uebel nur ärger.<pb n="7.593" xml:id="pbVII593"/> nicht immer bis zu einem Wurzehvort, doch wenigstens bis zu einem Wurzelbegriff auf.</p>
+
+               <p>Auf diese Weise schhesst sich die Etymologie dem Sprachstudium im Allgemeinen, das, philosophisch behandelt, nichts anders als ein Aufsuchen aller möglichen Analogieen zwischen den vielfachen Elementen der Sprache ist, aufs genaueste an, und zeigt unmittelbar ihre Xothwendigkeit, da ohne sie dem weiten Gebäude desselben der oberste und wichtigste Schlussstein fehlen würde.</p>
+
+               <p>Der Etymologe kann sich nur in höchst seltnen und nicht unwichtigen Fällen auf historische Denkmäler, als auf Zeugen seiner Behauptungen berufen. Er hat bloss die ihm bekannten Sprachen zur Vergleichung vor sich. In ihnen muss er auf die Gleichheit der Töne und der Bedeutungen achten, und daraus den Gedankengang der Sprachertinder errathen und auf eine wenigstens wahrscheinliche Weise auseinander legen.</p>
+
+               <p>Hätte auf diesen Gedankengang der Zufall, die blinde Will- kühr, oder die besondre Eigenthümlichkeit jedes Sprechenden einen sehr grossen Einfluss gehabt, so wäre auch der Versuch eines solchen Unternehmens eitel. Allein da die Sprache das Be- dürfniss und das Werk des ganzen Menschengeschlechts war, so muss in demselben eine gewisse Allgemeinheit und Klarheit liegen.</p>
+
+               <p>[Die Sprache gleicht dem Feuerfunken, der, wenn er einmal vorhanden ist, sich mit unglaublicher Leichtigkeit mittheilt, aber v/enn man sich in die Zeiten versetzt, wo man ihn nur als ein vom Menschen unabhängiges Natur Element kannte, nur durch den Zufall oder eine wichtige Entdeckung dem Stein entlockt werden konnte, in dem er schlummerte.]</p>
+
+               <p>Man nennt die Sprache gewöhnlich das Werk der Noth, und vergisst, dass sie das Werk des Genies war. Die Noth ist zu dringend, um sich etwas andrem, als dem unartikulirten Empfin- dungslaut anzuvertrauen, selbst der cultivirte Mensch spricht in solchen Fällen nur selten, und das Wort [ist] zu edel, um nur zur physischen Rettung zu dienen.</p>
+
+               <p>Die Menschen konnten lange ein Thierdaseyn fortführen, ohne zu sprechen, und Beispiele in neueren Zeiten wild gefundener Kinder haben es bewiesen. Wer das erste Wort aussprach, erhob sich zuerst zum Menschen; er wurde frappirt von dem Einfall, dass er reflectiren, in seinem bisherigen ewigen Hinbrüten auf einmal still stehn, einen Gegenstand sich gegenüber stellen und<pb n="7.596" xml:id="pbVII596"/> beschauen konnte, und in demselben Moment begann er zu sprechen.</p>
+
+               <p>Mit dem ersten Wort aber war auch allen übrigen die Zunge gelöst. Denn die Sprache gleicht dem im Stein schlummernden Feuerfunken. Ehe man gelernt hatte, ihn hen^orzulocken, schien sein Daseyn nur durch ein Wunder erklärlich. Einmal entzündet pflanzte er sich mit unglaublicher Leichtigkeit fort. So auch der artikulirte Ton. In ihm tönt nicht mehr, wie bei dem Empfindungslaut, die Stimme, sondern die der Stimme gegebne Form vor, und unmittelbar fodert er daher das Ohr zum verstehen auf, und weckt in jedem Hörenden die ihm gleichfalls beiwohnende Fähigkeit zu reflectiren und zu artikuliren. Dieser giebt das Wort, vielleicht mit Umänderungen, zurück; an eine Rede werden meh- rere angehängt, die Sprache wird von jedem feiner zum bequemeren Verstehen gemodelt, und so wie die Steinchen, welche die Uferwellen sich wechselseitig zu- und zurückwerfen, zum immer besseren Gebrauch geglättet und abgeschliffen.</p>
+
+               <p>Weil der Mensch zuerst darum sprach, weil er ohne Sprache nicht zu denken vermochte, so bestimmte die Allgemeinheit der Denkgesetze die Form, die er seiner Rede gab. Er bildete sie, um sich an ihr selbst zu entwickeln, und da in jedem noch jetzt dieselbe Entwicklung vorgeht, so ist es möglich, diesem Wege nachzugehen. Man erfand nicht willkührliche Zeichen, um ein äusseres Bedürfniss zu befriedigen, sondern aus dem Innern Be- dürfniss, Mensch d. h. ein anschauendes und denkendes Wesen zu seyn, schuf man den vorher nie rein gedachten Begriff in einem Wort, und aus diesem Wort, als dem Resultat der mensch- Hchen Denk- und Empfindungsgesetze, entwickelte man nothv^^endig nach Analogie derselben Gesetze neue und abermals neue.</p>
+
+               <p>Alle besondre in der individuellen Lage der Sprechenden gegründeten Verhältnisse übten daher auf die Spracherfindung nur einen untergeordneten Einfluss aus, die Hauptmomente wurden allein durch dasjenige bestimmt, was in allen Menschen eins und dasselbe ist.</p>
+
+               <p>Jedes ausgesprochene Wort war ein Versuch, sich einem andern verständlich zu machen. Der verinselte Mensch würde nie nur auf den Einfall zu sprechen gekommen seyn. Denn die Anlage zur Sprache hängt unzertrennlich mit der Anlage zur Ge- selligkeit zusammen. Eine sprachlose biberartige Gemeinschaft unter Menschen ist schlechterdings ein widersprechender Begriff.</p>
+
+               <pb n="7.597" xml:id="pbVII597"/>
+               <p>597 Der Mensch lebt entweder abgesondert und zur Erde gebückt, wie die Thiere des Waldes, oder er geht aufrecht mit einem Wesen seines Gleichen um, spricht, legt den Grund zur Familien-Gesellschaft, bereitet die bürgeriiche vor, und fodert unmittelbar durch sein Daseyn zur Idee einer kosmopolitischen aller Erdenbewohner auf.</p>
+
+               <p>Die gesellschaftlichen Kreise aber haben einen verschiedenen Umfang, und ihre Gränzen werden wieder durch die Sprache bestimmt. Jede erstreckt sich soweit, als ihre Mitglieder einander in gleichem Grade der Leichtigkeit verstehen.</p>
+
+               <p>Ganz und durchaus versteht auch in der höchsten Cultur und bei den einfachsten Sachen niemand den andern. Auch spricht jeder mit der Voraussetzung der Möglichkeit, und der Weisere und bei feinen Gegenständen der W^ahrscheinlichkeit misverstanden zu werden. Jeder aber richtet auch sein Sprechen nach dem Verstehen des andern, und abhängig zugleich vom Meynen und Verstehen ist die Sprache allemal nur das gemeinschaftliche Resultat beider Sprechenden. Das zu scharfe Gepräge der Individualität der Einzelnen fällt also von selbst hinweg.</p>
+
+               <p>Die kleinere Gesellschaft erweitert sich, aber nur in allmäligen Kreisen. Die Sprache geht also nur erst durch tägliche Uebung in ihr bis zum leichtesten Wechselgebrauch gleichsam nivellirt und dergestalt vorbereitet in die grössere über; je mehr nun Sprechende an ihr Antheil nehmen, desto mehr bekommt sie aufs neue einen allgemeineren Typus, desto mehr legt sie das scheinbar Willkührliche ab und schmiegt sich der Natur aller Sprechenden an.</p>
+
+               <p>Bedenkt man nun den unendlichen Verkehr, der durch alle Zeiten hindurch unter den Völkern der Erde Statt gefunden hat, das Hin- und Herziehn, bald ganzer Schaaren, bald kleinerer Colonien, das zufällige Verschlagen Einzelner an entfernte Küsten, so muss eher die Verschiedenheit, als die Aehnlichkeit der Sprachen auffallend seyn, und so kann die Idee einer etymologischen Wissen- schaft niemandem mehr chimärisch scheinen.</p>
+
+               <p>Denn man muss nur nie folgende beiden Sätze aus den Augen verlieren :</p>
+
+               <p>I., Alle Sprachen, als aus der allgemeinen Natur des Menschen herfliessend, werden auch in den verschiedensten Gegenden und Zeiten, und ohne alles vereinigende Verkehr, schon gleich in einem hohen Grade der Aehnlichkeit zuerst gebildet.</p>
+
+               <p>2., der Mensch, zugleich belebt von der Begierde, sich zu verständigen, und von dem Streben, alle neuen Formen nach<pb n="7.598" xml:id="pbVII598"/> seinen alten bisherigen Analogieen zu behandeln, arbeitet immerfort daran, die einzelnen Verschiedenheiten auf grössere Ueber- einstimmung zurückzuführen.</p>
+            </div>
+
+            <div type="section" n="3">
+               <head>
+                  <title type="main">Ueber das Sprachstudium,</title>
+               </head>
+               <p>oder Plan zu einer systematischen Encylopaedie aller</p>
+            </div>
+
+            <div type="section" n="4">
+               <head>
+                  <title type="main">Sprachen.</title>
+               </head>
+               <p>Es ist eine merkwürdige Erscheinung, dass unter den mannig- faltigen wissenschaftlichen Bemühungen, welche unser Zeitalter aufzuweisen hat, ein reicher, grosser und gemeinnütziger Vorwurf des Nachdenkens und der Untersuchung durchaus unbearbeitet geblieben ist — die Vergleichung der verschiedenen Sprachen alter und neuerer Zeit.</p>
+
+               <p>Vielen zwar dürfte diese Behauptung vielleicht v/underbarer scheinen, als die Sache selbst, da viele gewiss in der Meynung stehen, dass dieser Gegenstand, wenn auch nicht erschöpft, doch wenigstens von vielen Seiten bearbeitet sey. Allein das Wesent- liche beruht allein auf der, soviel ich weiss, noch nirgends auch nur versuchten Allgemeinheit des Unternehmens; es müssen alle Sprachen, von denen sich nur irgend noch Spuren auftreiben lassen, und zwar alle nach denselben Grundsätzen verglichen werden ; der ganze bekannte Sprachvorrath mit der ganzen durch die Vernunft darzustellenden Natur des Menschen, und allen aus derGeschichte erweislichen Schicksalen seiner verschiedenenStämme. Dieser Gesichtspunkt ist bis jetzt kaum gefasst, am wenigsten aber bis auf einen irgend befriedigenden Punkt verfolgt worden.</p>
+
+               <p>Ein Unternehmen, das an sich ungeheuer ist, nur angefangen, nicht vollendet zu haben, kann auch einem ganzen Zeitalter nie zum Vorwurf gereichen. Es kann daher nur davon die Rede seyn, die Idee verfehlt zu haben. Nun hat man zwar oft Sprachvergleichungen angestellt, allein bald zum Behuf historischer Untersuchungen, bald um die chimärische Vorstellung einer Ursprache zu begründen, bald bloss zur Erleichterung des Erlernens dieser oder jener einzelnen Sprache; seit einigen Jahren hat man zwar<pb n="7.599" xml:id="pbVII599"/> auch in sogenannten allgemeinen Sprachlehren ^) wohl angeführt, wie diese oder jene Sprache diese oder jene Aufgabe auflöse, allein immer nur einzeln und beispielsweise. Den Gedanken aber, die ganze Masse des Sprachvorraths, so vollständig als möglich, 2u sammeln, nach allen denkbaren Gesetzen der Analogie zu vergleichen, und daraus einmal, als aus einer Wirkung, auf die Ver- fahrungsart des Menschen, die Sprache zu erfinden und fortzubilden, rückwärts, dann aber, als aus einer Ursach, auf die eigne Bildung desselben vorwärts zu schliessen, und zwar beides immer zugleich mit philosophischer Rücksicht auf seine allgemeine Natur, und mit historischer auf die verschiedenen Schicksale der Völker; dieser Gedanke, behaupte ich, ist es, den man bisher übersehen hat, und der so sehr eine ernsthafte Betrachtung verdient, dass mit ihm, nicht zwar eine neue Wissenschaft, aber ein neues Studium in die Reihe der bisherigen eingeführt wird.</p>
+
+               <p>Es ist der Zweck dieser Abhandlung diese Behauptung gehörig auseinanderzusetzen und zu beweisen. Sie soll nur den Gedanken zu einem Plane vorlegen, wie das Sprachstudium, der Meinung ihres Verfassers nach, von jetzt an systematisch betrieben werden müsste. Findet derselbe Beifall bei kundigen Männern, so können vdele gemeinschaltlich an die Ausführung Hand anlegen. Denn das Beruhigende bei diesem Plane ist, dass das Schwierige nur in der Ausführung besteht, die aber auch mit der Zeit und von mehreren zu Stande gebracht werden kann, die Anwendung und Benutzung aber hernach leicht, und jedem, auch dem minder Ge- bildeten, zugänglich ist; und dass, wenn auch der Hauptzweck &lt;les Unternehmens vielen minder einleuchtete, immer ein höchst bedeutender Nebenzweck übrigbleibt, eine solche Erleichterung des Spracherlernens nemlich, als man bisher w^enigstens praktisch nie gekannt hat.</p>
+
+               <p>Die Hauptschwierigkeit alles Lernens besteht darin, sich zu rechter Zeit zu orientiren, dem Gedächtniss durch Regeln zu Hülfe zu kommen. Nirgends fühlt man dies Bedürfniss so ■dringend, als beim Sprachunterricht. Wie man jetzt gevv^öhnlich</p>
+
+               <p>V Von diesen sind für Humboldt besonders die Werke Bernhardis (Sprachlehre, Berlin iSoi^j; Anfangsgründe der Sprachwissenschaft, ebenda iSos) von Einßuß gewesen: vgl. über sie August Wilhelm Schlegel, Sämtliche Werke 12, 141 und neuerdings Delbrück, Einleitung in das Studium der indogerrnanischen Sprachen ^ S. 29.<pb n="7.600" xml:id="pbVII600"/> Sprachen lernt, geräth man in einen Wald von Wörtern, die durch nichts unter sich zusammenhängen, in der Grammatik herrscht zwar einige Ordnung mehr, aber auch hier wird man von einer Menge von Formen ermüdet, von denen man nirgends einen Grund einsieht. Dennoch fühlt man, dass diese Zeichen in der Natur so unzusammenhängend nicht sind, als sie es in der Lehrmethode scheinen; wenn man eine Zeitlang eine Sprache getrieben hat, wird einem klar, wovon man bisher keinen Grund einsah, und man gewinnt einen Tact, das noch nicht eigentlich Gelernte, nicht zu errathen, sondern mit Sicherheit zu erahnden. Jeder, der viel Sprachen erlernt und sich selbst dabei beachtet hat, wird sich erinnern, fast in jeder durch sich selbst auf Bemerkungen gestossen zu seyn, die ihm auf einmal ein helles Licht gaben, und die, früher mitgetheilt, ihm eine grosse Mühe erspart haben würden. Wer daher den Muth hat, eine Sprache für sich selbst, und ohne einen Lehrmeister zu lernen, wird immer damit anfangen, die ganze Grammatik derselben genau durchzulesen, und das Lexicon wenigstens oft zu durchlaufen. Er wird seiner Einbildungskraft so viel aus derselben genommene Formen, als möglich, gegenwärtig erhalten, und es dann seiner eignen Sprachbildungsfähig- keit überlassen, sich aus diesen einzelnen Formen einen allgemeinen Typus der Form der Sprache selbst abzuziehen. Denn in der Sprache verfährt jeder, am sichtbarsten das mehr schaffende, als bloss dem Gedächtniss vertrauende Kind, nach dunkel empfun- denen Analogieen fortbildend, und nach eben diesen baut man sich auch, immer zugleich selbstthätig, nie bloss empfangend, in eine fremde erlernte Sprache hinein. Es kommt nur darauf an, den Geist ihrer Analogie zu finden, und dies ist bei allem Spracherlernen der kritische Punkt, von dem an erst aller Nutzen und alles eigentliche Vergnügen desselben anhebt.</p>
+
+               <p>Nicht bloss aber die Elemente einer Sprache, sondern auch mehrere unter einander stehen unter Gesetzen einer gemeinschaft- lichen Analogie. Dies kann auch der oberflächlichen Beobachtung nicht entgehn, und es ist eine bekannte Erfahrung, dass wer ein- mal mehrere Sprachen gründlich erlernt hat, sich in eine neue nicht nur mit Leichtigkeit einstudirt, sondern auch, dem eigentlichen Erlernen mit seinem einmal geübten Sprachgefühl vorausgehend, ihre Eigenthümlichkeiten schon auf halbem Wege erräth. Jetzt nun pflegt man jede Sprache isolirt zu erlernen; man legt dabei höchstens die allgemeinen philosophischen Sätze zum<pb n="7.601" xml:id="pbVII601"/> Grunde, die sich auch fast nur auf die Grammatik, sehr wenig auf die Wortbildung beziehen. Diesem ^langel würde eine syste- matisch angelegte Sprachencyclopädie gründlich abhelfen. Sie würde von der metaphysischen Analyse des Sprachvermögens ausgehn, nach dieser die zufälligen Umstände entwickeln, w^elche auf die Sprachbildung Einfluss gehabt haben, und auf diese Weise von allen Gesichtspunkten aus die gegenseitigen Beziehungen des Menschen zu der Sprache betrachten. Hätte sie nun so zugleich aus der ^^ernunft und der Erfahrung die verschiedenen Arten aufgezählt, w^ie die verschiedenen Nationen der Erde die mannigfaltigen in der Sprache vorkommenden Aufgaben jede für sich aufgelöst haben, und damit das Gemähide der möglichen Sprachverschiedenheit vollendet; so würde sie nunmehr den Charakter jeder einzelnen schildern, und zwar immer, sie nach den Graden ihrer Verwandtschaft gruppenweis zusammenstellend, von den ähnlicheren zu den mehr abweichenden übergehen. Wer nun eine solche Encyclopaedie zu Rathe zöge, würde nicht nur die fremde Sprache, die er erlernen wollte, genau nach ihren Eigen- thümlichkeiten geschildert, sondern auch gleich unter allen bekannten in ihren wahren Platz gestellt finden; er würde schon durchaus mit ihrem Gebäude vertraut zum Studium derselben hinzukommen, und durch die systematische Uebersicht des ganzen Sprach Verfahrens des Menschen seinen Sinn, überhaupt in den Genius einer Sprache einzudringen, noch ausserdem auf eine wunderbare Weise geschärft fühlen.</p>
+
+               <p>Diese Erleichterung des Sprachstudiums bliebe indess immer nur ein minder wichtiger Nebenzweck einer solchen Encyclopädie aller Sprachen; der hauptsächlichste wäre der, die Sprache an und für sich selbst als ein wichtiges und gemeinnütziges Studium zu zeigen.</p>
+
+               <p>Man hat zwar längst aufgehört, die Verschiedenheit der Sprachen als ein nachtheiliges Hinderniss der Cultur und ihre Erlernung als ein nothwendiges Uebel bei der Erziehung anzusehn ; aber noch ist es nicht dahin gekommen, die Sprache nicht als ein blosses Mittel zu betrachten, sich die Nation, der sie angehört, oder die Schriftsteller derselben verständlich zu machen. Daher denn die falsche Schätzung der Wichtigkeit der Sprachen nach der Vorzüglichkeit ihrer Litteraturen, die gänzliche Geringschätzung derer, die gar keine Litteratur besitzen, und die verkehrte Lehrmethode, alles nur auf das Verständniss der Schriftsteller hin zu richten.</p>
+
+               <pb n="7.602" xml:id="pbVII602"/>
+               <p>Die Sprache, und nicht bloss im Allgemeinen, sondern jede besondre, auch die ärmste und roheste, ist an und für sich ein ■des angestrengtesten Nachdenkens würdiger Gegenstand. Sie ist nicht bloss, wie man gewöhnlich zu sagen pflegt, der Abdruck der Ideen eines Volks, für viele ihrer Zeichen lassen sich die Ideen gar nicht abgesondert von ihr aufzeigen; sie ist die ge- sammte geistige Energie desselben, gleichsam durch ein Wunder in gewisse Töne gebannt, in dieser Gestalt durch den innren Zusammenhang dieser Klänge andern verständlich, und wieder die -ähnliche Energie in ihnen, nur auf ihre Weise, erweckend. Der Mensch geht zwar über seine Sprache hinaus; er ist mehr, als er in Worten auszusprechen vermag; aber er muss den flüchtigen Geist in Worte fassen, um ihn zu heften, und die Worte als Stützen gebrauchen, um über sie selbst noch hinauszureichen. Mehrere Sprachen sind nicht ebensoviele Bezeichnungen einer Sache; es sind verschiedene Ansichten derselben, und wenn die Sache kein Gegenstand der äusseren Sinne ist, sind es oft ebensoviele, von jedem anders gebildete Sachen, in denen jeder nur soviel von dem seinigen wiederfindet, um das Fremde darin erfassen und in sich übertragen zu können. Es sind Hieroglyphen, in denen jeder die Welt und seine Phantasie abdrückt, und die sich, da Welt und Phantasie im Ganzen dieselben bleiben, und die Phantasie immer nach Gesetzen der Aehnlichkeit Bildungen an Bildungen reiht, gegenseitig wiedererzeugen, sich vervielfältigen und weiter bilden. Durch die Mannigfaltigkeit der Sprachen wächst unmittelbar für uns der Reichthum der Welt und die Mannigfaltigkeit dessen, was wir in ihr erkennen; es erweitert sich zugleich dadurch für uns der Umfang des Menschendaseyns, und neue Arten zu denken und empfinden stehen in bestimmten und wirklichen Charakteren vor uns da. Da die Sprachen immer ein Eigenthum ganzer Nationen sind, so dürfen wir in ihnen nie die Spitzfindigkeiten, oder die Ausschweifungen der Phantasie befürchten, deren sich oft Einzelne schuldig machen. Was sie uns darbieten, ist volle, reine und schhchte Menschennatur;' wenn wir aber die Tiefen ihrer Geheimnisse durchdringen, so können wir unsre trockne Verstandescultur noch jetzt durch die jugendliche Einbildungskraft jener Völker auffrischen, die jeden Eindruck, wie die junge Welt ihn ihren noch unabgestumpften Sinnen darbot, in die Hülle eines bewegUchen und lebendigen Bildes verschlossen.</p>
+
+               <p>Das Studium der Sprachen des Erdbodens ist also die Welt<pb n="7.603" xml:id="pbVII603"/>geschichte der Gedanken und Empfindungen der Menschheit. Sie schildert den Menschen unter allen Zonen, und in allen Stufen seiner Cultur; in ihr darf nichts fehlen, weil alles, was den Menschen betrift, den Menschen gleich nahe angeht.</p>
+
+               <p>Aus dem bisher Gesagten wird hoffentlich jedem klar seyn, was der gegenwärtige ^^o^schlag eigentlich beabsichtigt, nichts andres nemlich, um es kurz zu wiederholen — als aus der Sprache (d. i. der Sprache im Allgemeinen und allen besondren Idiomen des Erdbodens) ein eignes, von allen übrigen abgesondertes, und in sich systematisch geordnetes Studium zu machen, und dasselbe als ein wichtiges, noch wenig beachtetes Mittel aufzustellen, den Menschen in den verschiedenen Stufen seiner Cultur kennen zu lernen und auszubilden, nebenher aber zur Erleichterung des Erlernens einzelner Sprachen zu benutzen. Die Idee eines solchen Studiums fodert und verdient eine eigne Erörterung, und diese zerfällt von selbst in folgende drei Theile :</p>
+
+               <p>1. von dem näher zu bestimmenden Zweck und der Wichtig- keit desselben; 2. von den verschiedenen Theilen, die es umfassen muss, oder die eigentliche Darlegung des Plans der allgemeinen Sprach- encyclopädie ;</p>
+
+               <p>3. von der Möglichkeit der Ausführung dieses Plans, und der Methode des so angelegten Sprachstudiums.</p>
+
+               <p>Diese Betrachtungen über Etymologie und Sprachstudium sind Teile der großen Monographie über den baskischen Volksstamm, die Humboldt seit dem Frühjahr iSoi fast zwei Dezennien hindurch, wenn auch mit mannigfachen Unterbrechungen beschäftigt hat. Ihre äußere und innere Geschichte habe ich Band j, ^75 dargestellt: die seitdem bekannt gewordenen kurzen Stellen aus Briefen an seine Frau, die dieser Arbeit gedenken (Wilhelm und Karoline von Humboldt 2, 16^. 20 j) , treten bestätigend hinzu. Das teilweise Verschwinden dieses fertig ausgearbeiteten und, wie die oben angegebenen Seitenzahlen zeigen, sehr umfänglichen Manuskripts ist mir ebenso rätselhaft wie seine Zerstückelimg. Für diese bin ich fast geneigt Buschmanns redaktionelle Tätigkeit verantwortlich zu machen, der ja sehr pietätlos in Humboldts Nachlaß gehaust hat (vgl. Band 5, 477 und oben S. J51). Die eigentliche Reiseschilderung , deren Verlust besonders zu beklagen ist, zitiert Humboldt noch in der letzten Zeit seines Lebens in der Einleitung zum Kawiwerk (oben S. 207; die Streichung des Zitats scheint<pb n="7.604" xml:id="pbVII604"/> von Buschmann herzurühren): trotzdem ist sie weder in Tegel nocli unter den sprachwissenschaftlichen Manuskripten der berliner Bibliothek vorhanden, die doch den grammatisch-lexikalischen Teil der Schrift enthalten, aus dem die obigen Bruchstücke entnommen sind. Die Abfassung der oben abgedruckten Stücke fällt nach dem Wasserzeichen der Handschriften in den berliner Aufenthalt von 1801 oder 1802, der der Übersiedelung nach Rom unmittelbar vorausging.</p>
+
+               <p>Weiterhin ßndet sich im Nachlaß eine schematische Inhaltsübersicht jenes zweiten Buchs der Monographie, das die baskische Sprache behandelt und sich an das erste, die Reisebeschreibung enthaltende anschloß. Ich teile sie, die aus der 7~ömischen Zeit stammt, zur Orientierung hier mit:</p>
+
+               <p>„Quellen und Hülfsmittel zum Studium der Sprache.</p>
+
+               <p>I. Zergliederung der Sprache.</p>
+
+               <p>1. Zergliederung der Wörter in ihre Elemente.</p>
+
+               <p>A. Buchstaben. — JB. Silben. — C. Akzent. — D. Quantität. — E. Schrift.</p>
+
+               <p>2. Behandlung der Wörter, um sie zur Rede zu verbinden. Grammatik. A. Nomen, (a. Artikel, b. Substantiva. c. Substantivpronomina, d. Adjektiva. e. Adjektivpronomina, f. Zahlwörter.) — B. Deklination und Präpositionen. — C. Verbum. — D. Adverbium. — E. Konjunktionen. — F. Syntax. ^. Wortbildung.</p>
+
+               <p>A. Entstehung der Wörter als Laute.</p>
+
+               <p>a. Uynbildung desselben Stammlautes zu den verschiedenen Redeteilen. — b. Zusammengesetzte Wörter. — c. Aufsuchung der Analogie in den verschiedenen, durch regelmäßige Buchstabenveränderung gebildeten Wortformen. — d. Aufsuchung der Verwandtschaft in den (ohne gleich regelmäßige Formation) zu einer</p>
+
+               <p>Familie gehörenden Wörtern. — e. Nicht weiter zu zergliedernde oder abzuleitende Wurzellaute.</p>
+
+               <p>B. Verhält)iis der Wörter zu ihrem Endzweck oder Betrachtung derselben als Darstellungsmittel der Gedanken und Empfindungen, a. Art der metaphorischen Bedeutung. — b. Bestimmtheit der einzelnen Wortbegriffe. — c. Umfang eines Worts in der Verschiedenheit seiner Bedeutungen. — d. Physiognomie und Wirkung der Wöi'ter. — e. Absolute und relative Menge der Wörter (a. nach der Menge der Objekte, ß. der subjektiven Ansichten). C. Wohllaut, sowohl der sinnliche der blossen Töne, als der bedeutungsvolle der Übereinstimmung mit dem Gegenstande. 4. Charakter der Sprache nach allen ihren bisher betrachteten Be- schaffenheiten.</p>
+
+               <p>II. Sprachproben.</p>
+
+               <p>III. Vergleichung der Sprache mit andern Sprachen:</p>
+
+               <p>I. in Absicht des grammatikalischen Baues, die Wortelemente mit eingeschlossen. — 2. der Wortbildung mit Einschluß des Wohllauts. Etymologische Zergliederung der Sprache zur Auffindung der ihr ausschließend eigetitütnlichen Laute. — j. des Charakters überhaupt. — 4. Bestimmung des Grades imd der Art der Ähnlichkeit mit den übrigen</p>
+
+               <pb n="7.605" xml:id="pbVII605"/>
+               <p>Sprachen. — 5. Würdigung der relativen Wichtigkeit der Sprache in Absicht auf den Zweck der Sprache überhaupt.</p>
+
+               <p>IV. Mit Rücksicht auf alle im vorigen angegebene Gesichtspunkte abgefaßtes Wörterbuch und zwar doppelt geordnetes</p>
+
+               <p>I. nach der Entstehung und Lautverwandtschaft der Wörter. — 2. nach den Klassen der Begriffe ihrer Bedeutung."</p>
+
+               <p>Ich habe hier schließlich noch über ein Maniiski-ipt der berliner Königlichen Bibliothek zu berichten, das ich leider für den dritten Band der Ausgabe zu spät in dem durch Buschmayins Bemühungen arg durcheinandergeratenen sprachwissenschaftlichen Nachlaß aufgefunden habe (^0 halbbeschriebene Folioseiten, dazu j Seiten Anmerkungen). Es stammt aus der wiener Zeit und enthält den Anfang des soeben skizzierten zweiten Buches der Monographie „Analyse der vaskischen Sprache" bis zu der Lehre von der Deklination und den Präpositionen, in der es abbricht. Am Anfang findet sich hier die Abhandlung, die Humboldt 1812 unter dem Titel „Ankündigung einer Schrift über die vaskische Sprache und Nation" herausgegeben hat und die Band j^, 288 gedruckt ist. An folgenden Stellen zeigt diese Handschrift Abweichungen von dem Druck in Schlegels Museum, der unserm Abdruck zugrunde liegt:</p>
+
+               <p>Seite 288 Zeile g welche] die an die Bearbeitung 10 der einge- klammeite Satz fehlt 14 auch das Individuum von dein Augenblick an ist 16 Geschlecht auf</p>
+
+               <p>Seite 28g Zeile i an. Auf die ursprüngliche Kraft und Freiheit seiner An- lagen wirkt j entsteht] erzeugt ist 6 Geschichte darbietet 12 be- trachten] festhalten ij durch Untergang 75 nur in veränderter Form, wieder auf, haben Perioden der Blüthe und des Welkens; imd so entstehen 20 vollkommene Gestalten der 22 Gesichtspunkt zu ergreifen, (jjj der mannigfaltigen ^5 Ausartung, dann dem Geschäfte der j~ nachzuspüren, die Aufmerksamkeit nicht engherzig auf die politischen Revolutionen einiger Punkte der Erde, die sogenannten Fortschritte des Kunstfieisses und seine Werke zu beschränken, sondern unmittelbar</p>
+
+               <p>Seite 2go Zeile i hinstreckt ihr Boden imd Himmel 4 wird, und durch diese grössere Methode, durch welche das Menschengeschlecht immittelbar 6 zu knüpfen] geknüpft wird 7 besteht, in jeder den Gedanken 8 erhalten wird] zu erhalten - 10 muss — ■ ist das Geschäft der ächten Weltgeschichte. II diesem aber der Weltgeschichte] ihr 16 Beschrei- bung Studium der Sitten, der Sprache und der Geschichte zusammenkommen ig ist das 2^ allgemeine leitende Ansichten sonderlich erleiclitern 24 noch durchaus 28 Vergleichung von einzelnen jo herausgerissenen Wörtern 2~i zugleich Naturgesetzen j8 unterworfenen, und sich jg für] als</p>
+
+               <p>Seite 2gi Zeile 5 der gegenwärtigen Arbeit. Denn 8 andern, mehr oder weniger verwandten, 10 Völkerstamm ij dieselben allgemeinen Vergleichungen, nur einigermassen vorgerichtet 16 Versuche von Sprachgeschichten, welche wieder meistentheils einen einseitigen, bloss literarischen Gesichtspunkt haben, an 18 oft] mehrentheils 21 zerstreute Bemerkungen 24 Wieviel nun in einer einzelnen Beschreibung, einer wahren Monographie , trotz dieser Hindernisse, imd trotz der viel grösseren (28) 29 vorzugreifen, geleistet werden könne, soll in der gegenwärtigen Schrift an dem Vaskischen<pb n="7.606" xml:id="pbVII606"/> Volksstamme versucht werden. Die Vasken sollen nach ihren ji welcher] &lt;^^^ 33 '" schildern] geschildert werden j8 kein Absatz wird aber 40 ordnen und zu stellen</p>
+
+               <p>Seite 2g2 Zeile 2 gelieferten] aufgestellten j kann, und so darf 5 die, da die gedruckten bei weitem nicht hinreichen, sonst 7 machen, wie S07tst bei fast allen, von Mehreren nach einander vorgenommenen Sprachuntersuchungen der Fall ist, eine schon .... vorzunehtjien. 10 Gegenstande] Vorwurf 14 Biscaya unternahm 18 bieten auch 20 wie die] gleich den 21 andere] andren 2j nichts gesperrt 28 sichren j4 Sprache in so weitem Umfange, zum Theil durch die in wunderbarer Reinheit (j6) erhaltenen, leicht verständlichen, und viele (j8J jg Wurzeln aufbewahrenden Ort- und Familiennamen, wodurch, da Jeder Seite 2gj Zeile i Pßanzen] Kräutern trägt, das ganze Ländchen zu .... Sprachurkunde wird, erhalten, dass fast fjj j welche] die 5 in ihr ihre Beantwortung finden, und dass sie noch jetzt, die kleineren Abarten nicht gerechnet, drei ganz verschiedetie, einander selbst nicht immer leicht verständliche Dialecte besitzt. Es 8 sich nun ist g wunderbar und eigenthümlich gestalteten ihre meisten früheren 14 so in 2j haben ? welche nicht beantwortet v^erden kann, ohne zugleich Licht über .... Italien zu verbreiten; 28 Galischen Kymrischen? jo nah verwandte Gegenstände, j2 entweder aufgeklärt, oder wenigstens bis zu einer durch Gründe imteistützten Ueber- zeugung erledigt werden, dass man sie als unausmachbar zur Seite stellen lassen muss. Herleitung] etyinologischen Erklärung ^8—40 Nachdem ich nun zur Genüge den Gesichtspimkt, von detn ich ausgehe, imd das Ziel, das ich zu erreichen wünschte, angegeben habe, werde ich den Gegenstand der gegenwärtigen Schrift in folgender Ordnung abhandeln.</p>
+
+               <p>Seite 2g4 Zeile i fehlt 2 Um dem Leser zuerst einen anschaulichen (5) .... verschaffen, werde ich die Bemerkungen über beide mittheilen .... habe, q verstehen; und um hierbei der Treue und Lebendigkeit der Darstellung (20) .... einer Reisebeschreibung 24 fehlt 25 Auf denselben wird Analyse der 26 liefern] folgen 2g (kein Absatz.) Hierbei werde ich eine jo um] die ji zu lassen] lässt j2 kann] könnte j4 zu geben] giebt ß6 demjenigen] dem ^7 der eingeklatnmerte Satz fehlt j8 auseinanderzusetzen] auseinandersetzt immer alle andre, mir bekannte Sprachen vor</p>
+
+               <p>Seite 2g5 Zeile ^ Zergliederimgen] Analysen 6 kein Absatz g und daher 10 gegenwärtige Schrift mit 11 bearbeiten 12 — 15 fehlt; hier beginnt das zweite Buch 16 annehmen, den ich in der Folge noch näher zu erläutern Gelegenheit finden werde, 18 durchgängig organischer 25 hinüberhilft] reicht jo aufnimmt, beginnt sie auch ßi und verwandelt es, so viel als möglich, in die ihr eigenthümliche (jjj .... Bildung, so ^5 unorganischer Stoff j6 (kein Absatz.) Die .... aber lässt sich nicht verfolgen, die Seite 2g6 Zeile 6 vereinigen. Die Sprache ist nicht das Werk der Reflexion, wie ein verabredeter Chiffre oder eine ärmlich ersonnene Pasi- graphie, nicht einmal das des Menschen f^g) .... am wenigsten aber des Einzelnen.</p>
+
+               <pb n="7.607" xml:id="pbVII607"/>
+               <p>Seite 297 Zeile i Wie sie, als Wunder aus 4 Kindes hervor brichty ist sie (um 7 nicht, wie man wohl denkt, eine abgesonderte besitzt] hat 8 sondern identische (loj 10 sind, dass es Kreise 12 Einzelnen bis ij Menschheit, und dass das Menschengeschlecht mit seinen Nationen und Familien, und diese mit ihren Gliedern in einem ähnlichen Verhältnisse stehen, als vielleicht die Blätter eines Baums zu seinen Aesten imd seinetn Stamm — Sätze, die hier nicht weiter ausgeführt werden können, auf denen aber die richtige (16) 18 mit- hin der ig beruht. Da mm die Analogie (24) ^2 Zergliederimg] Analyse j4 untersuchen] zergliedern j6 solche Analyse muss nothwendig auch die Erlernimg einer Sprache ungemein erleichtern. j8 sie, wenn sie diesen Zweck hat, ein</p>
+
+               <p>Seite 2g8 Zeile j gebe] giebt 11 — 14 Nach der bisher üblichen Methode begnügt man sich gewöhnlich, nur das Grammatikalische der Sprachen, die gegen-^ seitigen Verhältnisse ihrer Elemente in der Rede, in ein System von Regeln zu bringen. Den ganzen Wörtervorrath ordnet man entweder etymologisch, oder auch bloss alphabetisch im Wörterbuch, und überlässt es dem Gedächtniss, ohne leitende Hülfe ihrer Entstehungs Analogie, ihn sich einzuprägen. Drängen sich einige Analogieen zu sehr auf, wie z. B. fast in allen Sprachen die der Umbildung desselben Stammlautes in die verschiedenen Redetheile, so hängt man der Grammatik ein Kapitel hierüber an, erweitert dieselbe über ihre eigentlichen Gränzen hinaus, und behandelt sie als den Umfang alles dessen, was sich von der Spi-ache auf Regeln bringen läßt, ein Verfahren, was auch für die gewöhnliche Spracherlernung sehr zweckmässig ist, sobald man nur diesen gleichsam als Zugabe betrachteten Kapiteln die gehörige Sorgfalt widmet.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Die schon in jeder anderen Rücksicht trefliche Buttmannische griechische Grammatik besitzt auch den Vorzug, ein eignes, und sorgfältig bearbeitetes Kapitel der Wortbildung zu haben. Der würdige Verfasser giebt im Eingange sehr richtig das Verhältniss dieses Kapitels zur eigentlichen Sprachlehre an, und man sieht, dass er</hi></note> Tiber ins Hemsterhuis und die von ihm ausgegangene Schule hat zuerst für die Griechische, so wie Schiiltens früher für die Hebräische Sprache ein allgemeineres System der Analogie der Wortbildung aufgestellt. Allein auch für diese Sprachen ist noch viel, und für die meisten andren noch Alles in diesem schwierigen Gebiete zu thun, auf dem man freilich oft der Gefahr ausgesetzt ist, indem man dunklen Pfaden nachspürt,, auf Irrwege zu gerathen.</p>
+
+               <p>Ich werde hier das System der Redefügung und der Wortbildung (das grammatikalische und lexicalische) auf einander folgen lassen. Zwar masse ich mir nicht an, die analogische 15 nicht] irgend 16 kann unmöglich 18 andre] künftige ig dürfte] hätte 20 lassen können 21 benutzte Sprachforscher hierüber sich 22 wie falsch oder richtig es seyn möge 2j erwähnt werden musste 24—^6 fehlt j-j Das dritte Buch j8 Zer- gliederung] Analyse Seite 2gg Zeile 2 Abschnitte] Bücher j hier die Stelle 6 Wichtigkeit für die (j) 8 überhaupt und des Menschengeschlechts q wird] muss nothwendig meine eignen Ideen und Ueberzeugungen darstellen; 12 selbst auf seine Weise 14 Art] Weise ig— 22 fehlt. lebhaft gefühlt hat, wie schwer eine wahrhaft erschöpfende Behandlung dieser Materie in einer Sprache, wie die Griechische, seyn müsste.<pb n="7.608" xml:id="pbVII608"/> Von den oben erwähnten Anmerkungen sei nur die interessanteste mitgeteilt : „Der einzige Mann, welcher, soviel mir bekannt ist, imgemein schätzbare Vorarbeiten zu einer solchen Feststellung eines allgemeinen Alphabets aller Völker besitzt, ist der Herr Graf Gustav von Schlabberndorff, der sich gegenwärtig in Paris außiält. Mit allen Feinheiten der Aussprache der bekanntesten neueren Sprachen vertraut, imd mit einem sehr glücklichen Ohr und Organe versehen, hat er jahrelange Untersuchungen imd selbst künstliche Experimente über die Art der Bildung einzelner Buchstaben angestellt, imd es ist nur zu bedauern, dass er schwerlich je das Resultat seiner Arbeiten dem. Publicum mittheilen wird. — Auch ist es einer der vielfachen Vorzüge der Pestaloz zischen Lehrmethode, die Kinder beim Sprechen auf die Verrichtimgen der Sprachwerkzeuge aufmerksam zu machen, imd sie die verschiedenen Laute selbst theoretisch bilden zu lassen. Dadurch entsteht nicht nur eine festere Gewohnheit seine Muttersprache rein und bestimmt auszusprechen, und eben so das von andern in ihr Gesagte zu hören (woran es jetzt, wie jeder, der dictirt, oder sich dictiren lässt, täglich wahrnehmen kann, ungemein fehlt), sondern die Einsicht in die Art der Bildung der Laute gewährt auch eine grössere Leichtigkeit die Aussprache fremder Sprachen zu fassen, und nachzubilden. Bei der bisherigen Erziehung lernt man gewöhnlich erst aus einer Griechischen oder Lateinischen Grammatik, welche deutsche Buchstaben Gaumen- oder Zungenbuchstaben sind, imd bleibt bei dieser unfruchtbaren Namenkenntniss stehen."</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

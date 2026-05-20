@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Erste pythische Ode</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Achter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif08humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1909">1909</date>
+                  </imprint>
+                  <biblScope unit="page" from="67" to="72"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1794">1794</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="8.67" xml:id="pbVIII67"/>
+            <head>
+               <title type="main">8. Erste Pythische Ode.</title>
+            </head>
+            <p>An Hieron aus Syracus, der im vierspännigen Wagen gesiegt hatte.</p>
+
+            <p>I. Strophe.</p>
+
+            <p>Goldne Leier, Phoebos und der Musen mit wallenden Locken ewig süss begleitender Schmuck. Du gebietst dem Tanz, dem Beginner des Freudenfests, 5 Deinem Wink gehorcht der Sänger, wenn</p>
+
+            <p>Du des reigenführenden Liedes Erstlings- Töne Deinen bebenden Saiten entlockst. Dann erlischt des Blitzes ewig rastlose, drohende Flamme, und es lo schlummert, eingewiegt auf dem Scepter, Kronions</p>
+
+            <p>Adler, und senkt zu beiden Seiten nieder den schnellen Fittig,</p>
+
+            <p>I. Antistrophe.</p>
+
+            <p>des Geflügels Herrscher. Eine nächtliche Wolke — der Augen 15 süsse Fessel — giessest Du um sein gebognes Haupt, und ergriffen vom Wechselfall Deiner Töne wiegt er schlafend den wogenden Rücken. Denn auch der starke Ares, fern verlassend starrender Lanzen Gewühl, 20 labt sein Herz an des Gesanges festlicher Handschrift: Reinschrift (vgl. oben S. 2) S. 7J—Sj. Außerdem ist ein Entwurf (8 Quartseiten, von denen S. i — 4 fehlen) erhalten, der am Schluß das Datum „Jena, 16. Merz, g4." trägt. — Erster Druck: Wilhelm von Humboldts Gesammelte Werke 2, 284 — 2go (1841).<pb n="8.68" xml:id="pbVIII68"/> Fröhlichkeit; also durchdringt Deines Zaubers Pfeil auch der Himmlischen Busen, durch des Latoiden und der hochgegürteten Musen Weisheit.</p>
+
+            <p>1. Epode. 25 Aber so viele nicht Zeus liebt, fliehn bestürzt, der Pieriden schallende Stimme vernehmend, auf der Erde, wie im unendlichen Meer. Auch der tief im grausenvollen 30 Tartaros liegt, der Götter Feind, der hundertköpfige Typhos, welchen einst Kilikien in viel besungner Hole nährte. Aber jetzo lastet schwer ihm die zottige Brust über 35 K3'me die meerumzingelte Küste und Sikelien; bändigt ihn die Säule des Himmels, vom Sturm umbraust, Aetna, schneidenden Schnees Nährer, so lang das kreisende Jahr rollt.</p>
+
+            <p>2. Strophe. 40 Tief aus seinen Schlünden brechen grausenerregenden Feuers reine Quellen tosend hervor. Dicken Dampfes glühende Wogen rollt Tags der Strom zu den Wolken. Aber nächtlich wälzt 45 sich im Dunkel, donnernde Felsen schleudernd in des Meeres Tiefe, die lodernde Glut. Diese wilden Ströme Hephästos speit das kriechende Unthier empor. Starrer Schauder fasst, wer mit Augen es schauet; 50 selbst noch ein Wunder, fern nur von des Wallers Mund zu vernehmen,</p>
+
+            <p>2. Antistrophe. wie gefesselt zwischen Aetnas dunkelumschattetem Gipfel und dem Fuss er liegt; es durchfurcht<pb n="8.69" xml:id="pbVIII69"/> 55 ihm den gegenstemmenden Rücken das Felsenbett! —</p>
+
+            <p>Dir, o Zeus, ach! Dir sey's zu gefallen!</p>
+
+            <p>der Du diesen Gipfel, des reichen Eilands Stirn umwaltest. Mit seinem Namen erhebt jetzt die nachbarliche Stadt der herrliche 60 Gründer im Pythischen Kampf.</p>
+
+            <p>Denn dort nannte preisend des rufenden Herolds Stimme sie, laut verkündend ihres Hierons</p>
+
+            <p>Sieg im schnellen</p>
+
+            <p>2. Epode.</p>
+
+            <p>Wagen. Des flutengetragnen 65 Schiffers erste Freude ist es, wenn im Beginnen der Meersfahrt günstig ihm die Segel der Wind schwellt. Denn gleich ist dann — so vertraut er — auch am Ende die Rückkehr. Also 70 giebt auch dieses Glückes Gewährung später Zukunft sichren Besitz: noch oft verherrlichen Siegeslo-änze, Rosse oft und schallende Feste die junge Stadt. Der Du in Lykien herrschest und Delos, 75 Phoebos, und Kastaliens Fluten liebst, des Parnassischen Quells, trag' in nievergessendem Sinn diess und das Land, die Wiege der Männer!</p>
+
+            <p>3. Strophe. Denn nur von den Göttern stammt der 80 Tugend der Sterblichen jede</p>
+
+            <p>Kraft, wer weise, kundig des Kampfs, oder Meister siegender Rede ward. Jenen Mann streb' ich heut zu preisen, und es irrt, ich ahnd' es, geschleudert von nervigtem Arm, 85 nicht mein ehernw^angigt Geschoss von der Bahn; mächtig überfliegt es weit der Gegner Schwärm. Möchte doch so auch der Zeit späte Dauer Seegen verleihen, und süsser Gaben Geschenk und die Erinnrung jeglicher 90 Mühe tilgen!<pb n="8.70" xml:id="pbVIII70"/> 70</p>
+
+            <p>3. Antistrophe.</p>
+
+            <p>Dann gedenk' er wieder, welche drohende Schlachten des Krieges er mit ruhig duldendem Muth focht, da durch der Götter Hand Ehre sie fanden, wie 95 der Hellenen keiner noch pflückte, ihres Reichthums stralende Krone. Warlich</p>
+
+            <p>Philoktetes Schicksal erfahrend, stritt er jetzo, welchem freundlich schmeichelnd, auch wer Stolz in der unbiegsamen Brust 100 trug, sich nahte. Denn als an folternder Wund' er litt — so erzählt man — kamen, ihn zu suchen, zu Lemnos Eiland</p>
+
+            <p>3. Epode. einst die unsterblichen Helden — Poeas bogenrüstgen Sohn, der 105 Priamos Veste zerstörte, und ein Ziel der Arbeit der Danaer gab. Kraftlos wankte zwar sein Tritt; doch heischt' es des Schicksals Ausspruch. Werde nun auch Hieron also 110 in der Zeiten Folge der Gott ein Retter, jeden Wunsch ihm gewährend.</p>
+
+            <p>Lass', o Muse, auch bei Dinomenes jetzt den Siegs- ruhm jenes Viergespannes ertönen. Denn nicht fremd ist ob des Vaters 115 Siegen die Wonne dem Sohn.</p>
+
+            <p>Auf! auch Aetnas Herrscher ersinne nun einen freundlich tönenden Hymnos!</p>
+
+            <p>4. Strophe. Ihm, dem mächtig jene Stadt mit götterumwalteter Freiheit, 120 im Gesetz des Hyllischen Rechts,</p>
+
+            <p>Hierons Hand gründete. Denn von Aegimios alter Satzung wollen Pamphylos und der Herakliden Geschlechte nimmer weichen, weichen nimmer der Dorische Stamm 125 um Taygetos Höhn. Fern vom Pindos her</p>
+
+            <pb n="8.71" xml:id="pbVIII71"/>
+            <p>Stürmend, eroberten sie, nah bei Tyndars Söhnen mit schimmernden Rossen, ehrebekrönt Amyklae, wo nun ewig ihr Lanzenruhm stralt.</p>
+
+            <p>4. Antistrophe. 130 Zeus, bei Amenas Gewässern sichre den Herrschern und Bürgern ewig dieses Heiles Besitz, stets des Rechtes Pfad mit geradem BUck zu erspähn. Mit Dir führe sanft der greisende 135 König zu harmonischer Ruhe den Sohn, dem der Herrschaft Macht er verlieh, und das Volkl Gieb, ich flehe, gieb, Kronion, huldreich, dass friedlich in heimischer Stadt der Phoeniker weil' und der wilden Tyrsener 140 Schlachtgeschrei, sehend ihrer Flotte seufzende</p>
+
+            <p>Schmach vor Kyme,</p>
+
+            <p>4. Epode. und was sie von Syrakusas</p>
+
+            <p>Herrschern litten, einst besiegt von seinen schnellwandelnden Schiffen; 145 welcher ihre Jugend ins stürmende Meer warf, und schwerer Knechtschaft Fesseln</p>
+
+            <p>Hellas entriss. Ich wähle Salamis zum Preis der Athener mir; in Sparta tönet den Kampf 150 am Waldgebirge Kithaerons mein Lied, wo der bogenrüstige Meder Verderben litt. Aber am quellenreichen Gestade Himeras erschalle mir der Kinder Dinomenes Ruhm, 155 den ihr Heldenmuth sich errang, triefend vom Blut der feindlichen Männer.</p>
+
+            <p>5. Strophe. Sprichst nur, was die Stunde heischt, Du weislich, und ziehst Du von vielem nur die Summe drängend in Eins,</p>
+
+            <p>7<pb n="8.72" xml:id="pbVIII72"/> i6o folget mindrer Tadel Dir nach. Denn es lähmt des Geists schnellen Flug der Fülle Ueberdruss. Fremder Ruhm drückt heimlich des Bürgers Brust; doch schwerer noch bei ihm unerreichbarem Glück. Dennoch aber — Neid ist besser denn Mitleid — 165 klimme zum Gipfel des Ruhms.</p>
+
+            <p>Lenke mit dem Steuer des Rechtes Dein Volk, und schmiede der Zunge Richterspruch auf trugloser Wahrheit Amboss.</p>
+
+            <p>5. Antistrophe. Denn entsprühet Kleines ihr auch, 170 achtet von Dir man es dennoch hoch; von Vielem Schaffner bist Du; Deiner Thaten jede beachten der Zeugen viel. Schwellt des Ruhmes Blüthe sehnsuchtsvoll</p>
+
+            <p>Dir die Brust, soll ewig des süssen Preises 175 Wonne Dir seyn; schone der Schätze nicht karg.</p>
+
+            <p>Gieb, des Schiffes weisem Führer ähnlich, die busigten Seegel dem Wind.</p>
+
+            <p>Gleisnerischen Vortheils Gewinnst lass', o Freund, Dich nimmer verblenden. Nur des überlebenden 180 Ruhmes Stimme</p>
+
+            <p>5. Epode. dringt — wenn vom Leben wir scheiden — unsres Wandels Zeug', ins Ohr dem Thatenverkünder und Sänger. Nie stirbt Kroesos menschenbeglückende Huld. 185 Aber Phalaris, den wilden</p>
+
+            <p>Mörder in ehrnem Stier, weiht überall dem Abscheu der Nachruf.</p>
+
+            <p>Nie gesellt bei häuslichem Mahl die frohertönende Leyer ihn der 190 Jugend lieblichlispelnden Wonnegemeinschaft zu!</p>
+
+            <p>Glücksgenuss ist der erste der Preise, edlen Rufs Besitz das zweite</p>
+
+            <p>Logs, und wo irgend ein Mann beide Gaben fand und errang, 195 der hat der Kränze schönsten gebrochen.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

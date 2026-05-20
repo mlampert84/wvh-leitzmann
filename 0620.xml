@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Kunstvereinsbericht vom 1. Mai 1832</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Sechster Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif0602humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1907">1907</date>
+                  </imprint>
+                  <biblScope unit="page" from="575" to="583"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1832">1832</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="6.575" xml:id="pbVI575"/>
+            <p>[8.</p>
+
+            <head>
+               <title type="main">Kunstvereinsbericht vom i. Mai 1832.</title>
+            </head>
+            <p>Die hier anwesenden geehrten Mitglieder des Vereines werden sich aus den Verhandlungen der beiden letztverflossenen Jahre erinnern, welche Bestellungen von Gemälden theils schon damals noch rückständig, theils neu gemacht worden waren. Das Directorium war berechtigt, sich hiernach mit der Hoffnung zu schmeicheln, auch abgesehen von neuen Ankäufen, eine Reihe bedeutender Bilder zur heutigen Verloosung bringen zu können. Da aber Bestellungen von Kunstwerken, ihrer Natur nach, unsicher sind, weil das Gelingen von glücklicher Stimmung und einem Zusammentreffen günstiger Umstände abhängt, so ist von den bestellten Gemälden nur ein einziges eingegangen. Es ist dies die Landschaft von Herrn Catel, den Besuch des Pompejus beim Cicero auf dessen am Meere gelegenen Landgute vorstellend. Der Künstlerausschuss ist so glücklich gewesen, zu diesem, durch den Gegenstand und die Ausführung gleich anziehenden Bilde zwei andere derselben Gattung dazu zu erwerben, und so können wir Ihnen drei Landschaften vorlegen, die ebensosehr durch die in jeder einzeln ent- haltene Darstellung, als durch die Vergleichung untereinander das Interesse der Kunstfreunde zu erregen hoffen dürfen. Herrn Catels Bild schildert eine Gegend Italienischer Beleuchtung und Gebirgs- fernen, wie sie in jenem zauberischen Lichte erscheinen, das, indem</p>
+
+            <p>Handschrift von Schreiberhand (21 halbbeschriebene Folioseiten) mit eigenhändigen Korrekturen Humboldts im Archiv in Tegel. — Erster Druck: Verhandlung der am i. Mai 18^2 gehaltenen Versammlung des Vereins der Kunstfreunde im preußischen Staate S. ^—ij fiSj2).<pb n="6.576" xml:id="pbVI576"/> es den Gegenständen durch innige Farbenverschmelzung alle Härte benimmt, ihnen doch die volle Bestimmtheit ihrer Formen erhält. Diesem Bilde stellt sich das des Herrn Biermann ^) zur Seite, die Darstellung einer romantischen Berggegend am Rhein, unsrem deutschen vaterländischen Flusse, der sich wohl mit Recht rühmen kann, durch schön begränzte Wasserfülle, Farbe und grossartige Anmuth seiner Ufer der schönste Strom Europas zu seyn. Der lieblichen und erquickenden Ruhe, die aus diesen beiden Bildern auf den Betrachter übergeht, dient die von Herrn Krause -) dar- gestellte Meeresbrandung an einer Klippe zu einem einladenden Gegensatz. Der Künstler hat sich darin an der schwierigen Aufgabe versucht, das ewig bewegliche Element in seinen aufgereg- testen Momenten vor die Augen zu bringen, und den alle Ruhe ausschliessenden Gegenstand dergestalt zu heften, dass er vor der Phantasie des Betrachters seine volle stürmische Bewegung wieder- gewinnt.</p>
+
+            <p>Ich erwähne der andren zur heutigen \^erloosung bestimmten Bilder nicht einzeln. Ich darf voraussetzen, dass die geehrten Mitglieder des ^^ereines dieselben auf der Ausstellung gesehen haben, welche mehrere Tage lang stattgefunden hat. Wenn ich jener drei besonders gedachte, geschah es nur, um darauf aufmerksam zu machen, dass sich die Verschiedenheit ihrer Gegen- stände gewissermassen zu einem Ganzen zusammenschliesst, und dass sie dadurch zu mancherlei belehrenden Betrachtungen über die Landschaftsmalerei überhaupt Anlass geben, welche das Eigen- thümliche an sich trägt, dass die Phantasie des Künstlers, nicht so strenge, wie bei der Darstellung der menschlichen Gestalt bedingt, darin freier zu walten scheint, da doch in der That auch hier dieselben Forderungen künstlerischer Nothw^ndigkeit an ihn ergehen.</p>
+
+            <p>An die Gemälde reiht sich in der heutigen Verloosung eine Zeichnung von Herrn Bouterweck an. Ausser dieser werden die geehnen Mitglieder des Vereins auf der Ausstellung noch zwei bemerkt haben, welche für jetzt zu einem anderen Zwecke bestimmt sind, ich meine die des trauernden Königspaares</p>
+
+            <p>V Karl Eduard Biermayin (i8oj—i8g2), Landschaftsmaler, war später Professor an der berliner Akademie der Künste.</p>
+
+            <p>y Wilhelm August Leopold Krause (1803— 1864), Marinemaler, war ein Schüler Kolbes.<pb n="6.577" xml:id="pbVI577"/> von Herrn Jentzen , und die des Bildes von Herrn Professor Krüger, das Innere eines Pferdestalles vorstellend, von Herrn Müller auf Stein ausgeführt. In Absicht der ersteren muss ich die heutige Versammlung mit einem beklagenswerthen Verluste bekannt machen, den der Verein dadurch erlitten hat, dass eine mit dem höchsten Erfolge vollendete Zeichnung des Lessingschen Bildes auf Stein von Herrn Jentzen beim Misrathen des Druckes in dem hiesigen Königlichen lithographischen Institute gänzlich verdorben worden ist. Die lithographische Kunst scheint noch nicht so weit gediehen zu seyn, dass sich die Ursachen solcher Unglücksfälle immer mit Sicherheit ermitteln Hessen, und es ist daher dem Künstlerausschusse nichts andres übriggeblieben, als den geehrten Mitgliedern des Vereines den Besitz eines so edlen Kunstwerkes auf einem anderen Wege zu sichern. Die neu angefertigte Zeichnung Herrn Jentzens wird nun von Herrn Lüderitz in Kupfer gestochen werden. Herrn Müllers Zeichnung des Krügerschen Bildes, das sich durch eine so grosse Naturwahrheit und eine so acht künstlerische Auffassung der Gestalt und des Charakters der Pferde auszeichnet, wird, sobald der Abdruck nach dem Steine vollendet ist, unter die geehrten Mitglieder ver- theilt werden. Bei der Langsamkeit und den mancherlei Schwierigkeiten des Abdruckes einer grossen Zahl von Exemplaren von einer Steinplatte bleibt es aber noch ungewiss, ob es möglich seyn wird, jedem Mitgliede einen Abdruck, so wie es mit den radirten Blättern geschieht, zuzutheilen, oder ob man sich wird begnügen müssen, eine geringere Anzahl von Exemplaren in der nächsten General-Versammlung zur Verloosung zu bringen.</p>
+
+            <p>Herr Lüderitz, dessen ich so eben erwähnte, hat, da ihn die Königliche Akademie der Künste zu seiner ferneren Ausbildung nach Paris gesandt hat, einen Kupferstich von dem im Pariser Museum befindlichen, den heiligen Michael vorstellenden Gemälde Raphaels vollendet. Von diesem werden heute fünfzig Exemplare zur Verloosung kommen.</p>
+
+            <p>Von Bildhauer-Arbeiten befanden sich auf der Ausstellung vier kleine Gyps-Modelle, welche den Preis von hundert Thalern gewonnen haben, für den im vergangenen Jahre die Concurrenz eröffnet worden war. Die Künstler, welche ihn davongetragen haben, sind:</p>
+
+            <p>Herr Bräunlich, von dem der Amor,</p>
+
+            <p>W. V. Humboldt. Werke. VI. 37</p>
+
+            <pb n="6.578" xml:id="pbVI578"/>
+            <p>Herr Drake,<note type="footnote" n="^)" resp="gnd-116890657"><hi>Heinrich Karl Möller (1804—1882), Bildhauer, war gleichfalls Schüler Rauclis.</hi></note> von dem die Maria mit dem Kinde, Herr Möller,-) von dem der auf einem Panther sitzende</p>
+
+            <p>Bacchant, und Herr Troschel, von dem die Ariadne herrührt. Diese sämmtlichen Figuren werden nun allmählich von dem akademischen Künstler Herrn Müller in Bronze gegossen und sodann zur Verloosung gebracht werden. Mit der Maria des Herrn Drake ist bereits der Anfang gemacht worden.</p>
+
+            <p>Dagegen kommt schon zur heutigen Verloosung der schöne von Herrn Medailleur Voigt in On}T{: geschnittene Camee, die Bändigung des Pegasus durch den Bellerophon vorstellend. Eine Anzahl Glaspasten und dreissig Gypspasten nach diesem Steine sollen für die nächste Verloosung gefertigt werden. Diese Pasten werden von Herrn Calandrelli herrühren. Man verdankt die Anwesenheit dieses in der Kunst des Gravirens in edlen Steinen so vorzüglich ausgezeichneten Künstlers den alle Zweige der Kunst auf so mannigfaltige Weise fördernden Anordnungen des Herrn Geheimen Raths Beuth, der ihn veranlasst hat, aus Rom hierher zu kommen, um durch seinen Unterricht das Glasschneiden in den Preussischen Staaten noch mehr zu veredlen, und wenn sich dazu fähige Talente linden, auch Graveurs in Steinen zu bilden.</p>
+
+            <p>Es gehört zu der ursprünglichen Anlage unsres Vereins, die Wirksamkeit desselben auf so viele Zweige der Kunst, als möglich, auszudehnen, und das Directorium schmeichelt sich mit der Hoffnung, dass die geehnen Mitglieder mit Vergnügen bemerken werden, dass wir uns diesem Ziele immer mehr und mehr nähern. Die Betrachtung und sorgfältige Vergleichung von Kunstwerken verschiedener Gattung ist es vorzüglich, welche den reinen Sinn für die Kunst zu wecken und zu unterhalten vermag. Ein einzelnes Bildwerk oder Gemälde nimmt leicht auf so vielfache Weise, durch den Ausdruck die Empfindung, durch die Composition und den Gegenstand den anordnenden und deutenden Verstand in An Spruch, dass das eigentliche Kunstgefühl oft gar nicht den haupt- sächlichsten Theil in dem Genüsse des Betrachtenden ausmacht. Wenn man aber die Kunst durch ihre verschiedenartigen ErscheiV Friedrich Johann Heinrich Drake (1805 — 1882), Bildhauer, war einer der begabtesten Schüler Rauchs.</p>
+
+            <pb n="6.579" xml:id="pbVI579"/>
+            <p>nungen hindurch verfolgt, und in allen das wahrnimmt, was niemand verkennt, und doch keine Sprache auszudrücken vermag, so gewinnt die Gleichartigkeit in dem Total-Eindruck das Ueber- gewicht. Der Begriff der Kunst springt reiner und tiefer eindringend aus der Verschiedenartigkeit des Stoffs und der Behandlung hervor. Man empfindet, wie sie überall die Natur in ihrer vollen Wahrheit, aber auf eigenthümliche Weise darstellt, wie sie ihr nichts nimmt und nichts hinzufügt, aber ein wundervolles Licht über sie ausgiesst, indem sie eine andere erscheint, so wie eine Gegend nicht mehr dieselbe ist an einem düsteren und bewölkten Tage und in dem heitren Sonnenlichte eines südlichen Himmels. Es ist nun dieselbe Einbildungskraft in dem Betrachter geschäftig^ deren der Künsder selbst bedarf, und wie stark Gedanke und Empfindung angeregt werden mögen, so räumt sie ihnen nicht ihre Stelle ein, sondern verkettet sich mit ihnen und benimmt ihnen die Schwere und Trockenheit der Wirklichkeit. Vor allem aber, und dies ist vorzüglich wichtig, da die Kunst erst von der Seite ihrer Technik aus vollständig erkannt wird, führt die Vergleichung verschiedenartiger Kunstwerke in das Studium des Künsders ein, und zeigt, wie er, um seiner allgemeinen Aufgabe zu genügen, die besondre zu lösen hat, die Schwierigkeiten und die Vorzüge seines Stoffs zu überwinden und zu benutzen, seine Darstellung mit den Forderungen und den Schranken seiner besonderen Kunst in Einklang zu bringen. Erst wenn der Seele auch davon ein lebendiges BUd vorschwebt, kann ein Kunstwerk vollkommen gewürdigt werden.</p>
+
+            <p>Von den noch rückständigen Bestellungen von Gemälden sollen die der Herren Daege, Henning, Hildebrandt, Lessing und Sohn bis zur nächsten Kunstausstellung der Königlichen Akademie der Künste vollendet seyn, ebenso das eine der zwei von Herrn Hübner zu erwartenden. Zur gleichen Zeit lässt sich die Einsendung der Landschaft des Herrn Nerly hoffen, der durch eine schwere Krankheit in dieser Arbeit unterbrochen worden ist. Herr Daege führt die Erfindung der Malerei in dem bei ihm bestellten Bilde aus, Herr Henning Christi Abschied von der Maria vor seinem Leiden. Von den übrigen hier genannten Künsdern ist es dem Verein noch nicht gelungen, die von ihnen gewählten Gegenstände zu erfahren.</p>
+
+            <p>Herrn Philipp Veit hat sich der Verein genöthigt gesehen, zum Termine der Einsendung seines Bildes, die Aussetzung Moses<pb n="6.580" xml:id="pbVI580"/> vorstellend, dea i ^- August dieses Jahres zu bestünmen. und wenn es t-iann nicht vollendet se^n sollte, die Bestellung für aufgehoben zu «"klären. Herr Maler Helmsdora hatte sich für die bei ihm bedeute Landschaft die Frist einiger Jahre ausgebeten, also eine zu Iflntrp Zeit, als dass sich der ^'erein darauf hätte einlassen können. Auf den Vorschlag des ^'e^eins. ihm ein fertiges Bild, von dem er geschrieben hatte, abzukaufen, ist bis ietzt keine Antwort erfolgt. Herr Maler Meister hat die Ausführung des ihm nach Inhalt der Verhandlungen des Jahres 1630. S. 7.^) aufgetragenen Gegenstandes, als zu schwierig und ihm nicht zusagend abgelehnt.</p>
+
+            <p>Von Herrn Brüggemann erwarten wir noch die ^'erfolgung einer Griechischen Brigg, und von Herrn Krüger eine Scene aus dem letzten Kriege.</p>
+
+            <p>Da gegenwärtig in Deutschland mehrere Kunsrvereine in der Art des unsrigen bestehen, so ist es erfreulich, das gegenseitige Streben zu bemerken, die Früchte ihrer Bemühungen einander mitzutheilen. Auf diese Weise haben der Rheinische. Sächsische und Würtembergische Verein uns ihre radirten und lithographirten Blätter nebst ihren Verhandlungen überschickt, und das Directorium hat diese Sendungen auf die gleiche Weise erwiedert, um diese nützhchen, die Kunst gemeinschaftlich fördernden ^'erbindungen sorgfältig zu umerhalten und immer enger zu knüpfen.</p>
+
+            <p>Indem idi hier der Beweise wohlwollenden Antheils erwähne, welche unser Verein seit unserer letzten Versammlung erhalten hat. würde ich es mir nicht verzeihen, nicht auch eines zu gedenken, an den sich bei Ihnen allen, die Sie hier anwesend sind, eine sehr schmerzliche, aber zugleich unendlich wohlthuende Erinnerung knüpfen wird. Es ist dies ein an Herrn Geheimen Rath Beuth gerichteter Brief Göthes vom 4- Januar dieses Jahres, in welchem er für die radirten Blätter dankt, die ihm im Namen des Vereins zugeschickt worden waren. Ich glaube am besten zu thun, Ihnen den Brief selbst vorzulesen.</p>
+
+            <p>Ew. Hochwohlgeboren bereiteten mir, indem Sie einen langgehegten stülen Wunsch erfüllen, gar amnuthige Weihnachtsfeiertage. Sie wissen, dass ich. insofern es meine Lage erlaubt, mannigfache Monumente älterer und neuerer Zeit um mich zu versammeln suche, wozu Sie ja. seit so manchen</p>
+
+            <p>V Vgl. oben S. 4Cf&gt;.</p>
+
+            <pb n="6.581" xml:id="pbVI581"/>
+            <p>Jahren- die treundiidistEn und wicbtigsten Beiträge wäi gegönnt haben, und was Wann endlich interessanter seyn. als zu erfahren- wie sich in den letzten Augenblicken däc Kunst im Vatcriande bildet, wie sie eregt. gefördert und beioina wird. Ihre wichtige Sendung, für deren MirrhrilnBg ich dem verehrten und in so hohem Grade wirksamoi KiticMvereia meinen lebhaften Dank auszudrücken bitte, hat mich schon viel denken und überlegen gemacht : denn nidits ist dazu auf- fordender, als wenn wir die mannigfahigsten Resultate vor uns sehen, welche aus zweckm^agcr Anwender z rrisser Mittel hervorgdien.</p>
+
+            <p>Mehr darf ich in diesem Augenblick zi. ;^jr- - - z :zi erlauben, weil ich fürchten muss Gegenwärtig ei : - :-.- wobei ich mir iedoch vorbehalten darf, zimächst t^ z . " - tt Aeusserungen nachzubringen, besonders über Ge^ - - : e. die den Künstlern vielleicht zu empfehlen w:- ; - bei den vielfach sidi manifestirenden Tale-ccn. ^.z-^^.^l: lc und da etwas angenehmes zu honen stsnde.</p>
+
+            <p>Ohne mit vielen Worten zu versichern und zu f r : r _ - -n. dass ich Ew. H-^chwohlgeboren unermüdete Tr. . t- wandem und deren grenzenlose Folgen zu scgn: n ich mich wohl unterzeidmen als einen treu Tht - : ~ i : en und aufrichtig Verpflichteten.</p>
+
+            <p>Es ist unendlich beklagenswertii. dass wir auf die o&lt;^.z:' -z Verzicht leisten müssen, die uns der Verewiste in diesen _; :i zasagL Dies Versprechen selbst aber beweist, wie sehr er bis zu den letzten Ta^en seines Lebens damii beschäftigt war. iedem Kunstbestreben die fordernde Richning zu geben. I&gt;les Bemühen, auf die Geistesthätigkeit seiner Zeitgenossen einzuwirken, war ihm besonders eigenthümlich. ia man kann mit deidier Wahrheit hinzusetzen, dass er ohne alle Absicht, gleichsam unbewusst. bliss durch sein Daseyn und sein Wirken in sich den mächtigen Ein- floss darauf ausübte, der ihn vorzugsweise auszeichnet. Es ist dies noch geschieden von seinem geistigen Scha2"en. als Doikcr und Dichter, es liegt in seiner grossen und einzigen PersönhchkcrL Dies fühlen wir an dem^ Schmerze sdbst, den wir um ihn em- püiKien. Wir betrauern in ihm nidit bloss den Schöpfer so vider Meisterwerke ieder Gattimg. nicht bloss den Forscher, der das Gelsct mehrerer Wissenschaften erweiterte, und ihnen durch tiefe Blicke in ihre innerste Natur neue Bahnen vorzcidmete . nicht<pb n="6.582" xml:id="pbVI582"/> 58^ bloss den immer theilnehmenden Beförderer jedes auf Geistesbildung gerichteten Bestrebens. Es ist uns, neben und ausser diesem allem, als wäre uns bloss dadurch, dass er nicht mehr unter uns weilt, etwas in unsren innersten Gedanken und Empfindungen und gerade in ihrer erhebendsten Verknüpfung genommen. Indem wir aber dies schmerzlich empfinden, belebt uns zugleich wieder die Ueber- zeugung, dass er in seine Zeit und seine Nation Keime gelegt hat, die sich den künftigen Geschlechtern mittheilen und sich lange noch fortentwickeln werden, w^enn auch schon die Sprache seiner Schriften zu veralten beginnen sollte.</p>
+
+            <p>Es giebt in jeder, zu einem höheren Grade der Bildung ge- langten Nation ein Gemeinsames der Ideen und Empfindungen, das sie, wie ein geistiges Element, in welchem sie sich bewegt, umgiebt. Es beruht dies nicht auf einzelnen festen und bestimmten Ansichten, es liegt vielmehr in der Richtung aller, in der Form, von der in jeder Art der Seelenthätigkeit Maass und Weile, Ruhe und Lebendigkeit, Gleichgewicht und Uebereinstimmung abhängt, und es wirkt auf diese Weise zuletzt, durch die dadurch bedingte Anknüpfung des Sinnlichen an das Unsinnliche, auf die ganze Anschauung der äusseren und inneren Welt. Auf diesen Punkt hin w£ir Göthes Individualität zu wirken vorzugsweise bestimmt. In dies geheimnissvolle Innere, wo Ein geistiges Streben eine ganze Nation beseelt, drang er durch die Macht seiner Dichtung und die Sprache, welche allein ihm die Möglichkeit des Ausdrucks seiner Eigenthümlichkeit verstattete, die er aber wieder so kräftig und seelenvoll gestaltete. So drückte er, in einer Periode der Literatur anfangend, wo derselbe wenig klar und entschieden da stand, dem Deutschen wissenschaftlichen und künstlerischen Geiste, durch die lange Dauer seines Lebens fortwirkend, ein neues, ewig an ihn erinnerndes Gepräge auf.</p>
+
+            <p>Die immer heitre Besonnenheit, die lichtvolle Klarheit, die lebendig anschauliche und immer von Kunstform oder einer noch tiefer geschöpften Gestaltung beherrschte Naturauffassung, die grosse Freiwilligkeit des Genies, alle diese Göthe so vorzugsweise auszeichnenden Eigenschaften führten ihm die Gemüther, wie von selbst, bildsam zu. Es hat in niemanden je eine gerechtere, mehr durch die innerste Eigenthümlichkeit begründete Scheu vor allem Verworrenen, Abstrusen, mystisch Verhüllten gegeben, als in ihm. Dies zusammengenommen machte seinen Einfluss so allgemein, so leicht und so tief. Was sich so heiter und lichtvoll darstellte, was<pb n="6.583" xml:id="pbVI583"/> der Quelle, aus der es entsprang, so ohne Mühe und Anstrengung entfloss, wurde ebenso aufgenommen und festgehalten, und wurzelte zu weiterer Entwicklung. Da Göthe die Natur immer zugleich in der Einheit ihres Organismus und in der vollen Entfaltung ihrer gestaltenreichen Mannigfaltigkeit auffasste, so konnte die Gedanken- und Sinnenwelt nie einen schroffen Gegensatz in ihm bilden. Die Wirklichkeit gab in ihm ihre Gestalt nur auf, um eine neue aus der Hand der schaftenden Phantasie zu empfangen. Dadurch, um diese Betrachtungen auf eine Weise zu schliessen, die uns zu unsrem Gegenstand zurückführt, wurde er vorzüglich der Kunst so wohlthätig. Er war mit ihr durch alle Anlagen seines Geistes verwandt, und hatte sich von allen Seiten mit ihr durch Anschauung, Sammeln und Ueben befreundet, jener oben erwähnte allgemeine Kunstsinn war in ihm tiefer als in irgend sonst jemand begründet. Er leistete unendlich viel unmittelbar für die Kunst durch Belehrung, Ermunterung und Förderung jeder Art, aber alles dies wurde durch das überwogen, was sie ihm mittelbar verdankte. Er bereitete durch das stille Wirken seines ihr geweihten und von ihr durchdrungenen Wesens ein langes Leben hindurch ihr den Boden in den Gemüthern seiner Zeitgenossen zu, weckte den schlummernden Funken der Liebe zu ihr, richtete aber die Neigung und die Forderung nur auf das Streben, was, gleich entfernt vom Zwange einengender Regeln und von phantastischer Willkührlichkeit, dem freien, aber durch innere Gesetze geleiteten Gange der Natur folgt.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

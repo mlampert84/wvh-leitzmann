@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Über freie Schiffahrt auf dem Rhein</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Elfter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif11humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1904">1904</date>
+                  </imprint>
+                  <biblScope unit="page" from="317" to="322"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="fr">Français</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="11.317" xml:id="pbXI317"/>
+            <p>Fürsten Metternich die \'ersicherung ihrer volikommsten Hoch- achtung /u erneuern.</p>
+
+            <p>1 lardenbery. I himboldt.</p>
+
+            <head>
+               <title type="main">LXI. Über freie Schiffahrt auf dem Rhein.</title>
+            </head>
+            <p>3. l'Y'bruar 1N15. (Eigenhändifcr Entwurf im Geh. Staatsarchiv ; gedruckt bei Klüher, Akten des Wiener Kongresses j, S. 24 ff.)</p>
+
+            <p>Artikel V des Pari.ser Friedens hatte die freie Schiffahrt auf dem Rhein verheißen und die nähere Bestimmung der dafür maßgehenden Grundsätze den Beratungen des Kongresses überlassen; im j. Geheimartikel war die gleiche Bestimmung für die Scheide getroffen. Das Komitee der acht Mächte hatte am 14. Dezember 1S14 eine besondere Kommission dafür eingesetzt, der Humboldt als Vertreter Preußens angehörte. Sie trat am 2. Februar /6V5 zum erstenmal zusammen. Humboldt legte ihr die folgende Denkschrift als Leitfaden für die Beratung vor. Der erste eigenhändige Entwurf trägt das Datum jo. Dezember 1S14 und weicht bedeutend von der endgültigen Redaktion, wie sie bei Klüber gedruckt ist, ab. Memoire preparatoire sur le travailde la (Kommission de navigation.</p>
+
+            <p>1/article 5 du traite de Paris doit faire ia Base du travail de la Commission etablie pour se concener sur les mesures propres ü la meltre en exdcution.</p>
+
+            <p>11 pose en principe que la navigation sur les rivieres sera libre, et que les droits que les Ktäts riverains en percoivent. seront reglds de la maniere la plus egale et la plus favorable au commerce de toutes les nations. Le trait^ applique ce principe nommement et d'unc maniere positive ä la navigation sur le Rhin et. d'aprt^s l'anicle 3 secrct, in cellc sur l'Kscaut; il veut ensuite que le (Kon- gres examine et d&lt;?cide, de quelle maniere les memes dispositions pourront etre etendues i\ la navigation sur tous les Heuves qui, dans leurs (iours navigables, separent ou traversent plusieurs Ktäts.</p>
+
+            <p>Pour rendre d'apres ces bascs le travail de la (.'ommission ä la fois mcthodiquc et complet, il convient</p>
+
+            <pb n="11.318" xml:id="pbXI318"/>
+            <p>•2) d'appliqucr ces principes a la navigation du Rhin et de TEscaut. et d'y ajouter les d^tcrminations plus particulieres que les connaissances locales que la (Kommission reunit deja dans son sein, ou quelle pourra se procurer facilement, permettent, et que les rappons des Etats riverains entr'eux exigent, pour remplir pleinement les stipulations du traite;</p>
+
+            <p>•:;) de convenir, comment on pourra effectuer que les memes principes soient appliques en tems et Heu, et autant que les cir- constances le permettront dans un objet aussi vaste, aussi ä d'autres rivieres. et successivement a toutes Celles qui peuvent interesser le commerce dans quelque partie de l'Europe que ce soit.</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">I.</title>
+               </head>
+               <p>Examen des principes en general.</p>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">Pour concilier l'interet du commerce avec celui des Etats</title>
+               </head>
+               <p>riverains, il est necessaire que d'un cöte, tout ce qui est indispensable ä la liberte de la navigation, du point oü une riviere devient navigable jusqu'ä son embouchure, soit fixe d'un commun accord par une Convention ä laquelle rien ne puisse etre change Sans le consentement de tous ceux qui y ont pris part; mais que, de l'autre, aucun Etat riverain ne soit gene dans l'exercice de ses droits de souverainete, par rapport au commerce et ä la navigation au-delä des engagemens renferm^s dans cette Convention, et qu'en meme tems il jouisse de sa part des droits leves sur la navigation en Proportion de l'etendue de la rive qui lui appartient,**) 11 sera necessaire d'etablir sur ces bases des principes tellement generaux que la difference des localites ne pourra affecter que les modiftcations de leur application. On se borne ici, pour ne pas prejuger le travail de la Commission, ä indiquer seulement les points qui devront etre regles par ces principes, sans les enoncer eux-memes. Ces points semblent etre les suivans.</p>
+
+               <p>*J Gestrichen : dont l'examen exige indispensablement iine connaissance exacte des differens rapports que la modification de leur application.</p>
+
+               <pb n="11.319" xml:id="pbXI319"/>
+               <p>Lcs droits d'dtape li\ oü ils existent ddja, puisqu'il nc saurait etre doiiteux qii'au moins personne ne voudra en etablir de nouveaux.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Im eigenhändif^en Entwurf lauten die (f§ folgendennaßen :</hi></note></p>
+
+               <p>Hie ne sem genee pjr aucun droit d'ctape, ou de reläche ä etablir dans la suite, et il sera exaviine et decide si ceux qui existeraient dejä, devrunt etre maintenüs, ou abolis.</p>
+
+               <p>3Lcs droits a lerer sur la iiavigation serunt regles dans leur totalite</p>
+
+               <p>. .</p>
+
+               <p>.</p>
+
+               <p>La hase de cette ßxation sera tiniquement le poids de la cargaison et la distance que les navires pareourent sans qu'on ait egard ä la qualite et au prix variable des marchandises.</p>
+
+               <p>II sera neantmoins fixe des droits inferieurs au taux ordinaire pour les matieres dont la valeur n'est point assez considerable et le besoin (comme c'est le cos des objets nccessaires ä l'agriculture, tels que l'engrais est) trop grand pour les soutnettre aux droits etablis generalement.</p>
+
+               <p>4Le nombre des bureaux deslincs ä la perception de ces droits sera determinc, soit qu'on la fixe directement, soit qu'on enonce celui qu'il ne devra point exceder.</p>
+
+               <p>5Les douanes des Etats riverains partout vü il en existe resteront entierement separees des bureaux de la perception des droits sur la navigation.</p>
+
+               <p>Les premieres ne peuvent pas que sur l'importation des marchandises dans les pa't's riverains; et il sera rigoureusement dej'endii aux Douaniers d'excercer une fonction quelconque de leur emploi sur la riviere, fiit ce meme la poursuite d'un individü compris en fraude manifeste.</p>
+
+               <p>fj.</p>
+
+               <p>La recctte provenant des droits levee sur la navigation sera partagee entre les Etats riverains ä raison de leur etendu sur la rive, deduction faite:</p>
+
+               <p>/ ' des fraix d'administration</p>
+
+               <p>2/ des fraix d'entretien nccessaires ä la navigation eile vu'mc. On ne cnmptera neantmoins parmi ces derniers fraix que ceux de l'cntretien des chemins de hallage et du nettoyement de la riviere; tous les autres travaux destincs ä garantir le pais des immdations restant ä la charge de l'administration de chaque etat riverain.</p>
+
+               <pb n="11.320" xml:id="pbXI320"/>
+               <p>3Le tarif des droits a lever. II est indispensable de regier ces droits dans leur totalite, du point oü la riviere devient navigable iusqu'a son embouchure, d'une maniere fixe, uniforme et invariable, sauf ä convenir, si Ton le juge necessaire, d'une revision periodique du tarif faite par tous les etats riverains apres un nombre deter- niin^ d'anndes.</p>
+
+               <p>11 est egalement necessaire, que la tixation des droits soit assez independante de la qualit^ particuliere des marchandises, pour que la navigation ne soit pas arretee par un examen detaille de la cargaison des batimens a la perception du peage. Quant ä la qualite du peage, il faudra voir, s'il sera possible d'etablir un prin- cipe assez general, pour etre facilement applique partout, pour en determiner au moins le maximum.</p>
+
+               <p>4Le nombre des bureaux destines ä la perception de ces droits. Comme rien n'est si nuisible ä la navigation que l'obligation de s'arreter souvent pour payer les droits, la plus grande diminution du nombre des bureaux doit surtout fixer l'attention de la Com- mission.</p>
+
+               <p>5Une Separation absolue de la perception des douanes et de Celle des droits de navigation, et les precautions necessaires, pour empecher que le droit des etats riverains d'etablir des douanes, ne puisse point entraver la navigation.</p>
+
+               <p>6.</p>
+
+               <p>L'emploi de la recette provenant des droits leves sur la navigation, et la distribution du residu entre les etats riverains, ä raison de leur etendue sur la rive.</p>
+
+               <p>La Separation des travaux necessaires ä la navigation, et de navigable sera excercee d'une maniere entierement uniforme soit qu'on cree une autoriie centrale pour cet effet soit qu'on y pourvoye par d'autres moyens.</p>
+
+               <p>8. Si la guerre venait ä avoir Heu entre quelques uns des Etats riveraiiis la per<pb n="11.321" xml:id="pbXI321"/>321 cciix, qui ont poiir bui de j^arantir Ics pays d'inondations, Ics pre- cautions neccssaircs pour qiie ces doiiblcs travaux S(Ment cntrepris d'aprcs un memc Systeme, et ne puisscnt point se niiire mutu- ellement.</p>
+
+               <p>Le reglemcnt de la police ü ^tablir siir la naviifalion. Oite police doit (l'tre uniforme, et f\\6e d'un accfjrd commun, sans puu- voir etre changde par un seul des eiats riverains: mais eile ne doit point entraver celle quc ces etats, en vertu de leur droit de souverainete, sont appel^s i\ exercer sur les riAieres, sans nean- moins poner Ic moindrc prejudicc a la libene de la navigation.</p>
+            </div>
+
+            <div type="section" n="3">
+               <head>
+                  <title type="main">S.</title>
+               </head>
+               <p>Kngagemens mutuels a prendre pour assurer, autant que cela sera possible, la libene de la navigation meme dans le cas malheureux d'une guerre entre les etats riverains.</p>
+
+               <p>Application des principes generaux au Rhin et a TKscaut.</p>
+
+               <p>A) Au Rhin. Les principes mentionnes ci-dessus etant tires pour la plupart de la Convention sur l'octroi de navigation du Rhin, conclue en 1804, rien n'est plus facile que de les appliquer ä cette riviere. La Convention en contient ^galement toutes les modillcations qu'il pourra etrc utile dV ajouter; eile est, d'apres le jugement de tous ceux qui s'entendent en ces matieres, un fort bon ouvrage, et a prouvd son utilit^ par Texp^rience; la Commission fera bien en cons^quence de recourir ä eile, et de voir quelles sont Celles de ses dispositions qu'il conviendra de remettre en vigueur.*) Mais en l'cxaminant, il sera necessairc d'avoir egard.<note type="footnote" n="i)" resp="gnd-116890657"><hi>aux changcmcns territoriaux sun'enus depuis 1^04; 2) aux points qui, ainsi que par exemple celui des rentes assigndcs sur le revenu de Toctroi et autres. sont des alVaires domestiques de l'Allemagne desiincc. d'aprcs la paix de Paris, ä former un etat conf(^'ddr^;</hi></note><note type="footnote" n="3)" resp="gnd-118554727"><hi>aux modifications tellement deiaillces et tcllement dopen dantes des localites, qu'il conviendra de les renvoyer a une com-</hi></note></p>
+
+               <pb n="11.322" xml:id="pbXI322"/>
+               <p>B) A TEscaut.</p>
+
+               <p>Wiyant point des connaissances localcs asscz etendues sur cctte riviere, je passe sous silence ce qui devra etre dit sur I'appli- cation particulierc des principes a sa navigation.</p>
+            </div>
+
+            <div type="section" n="4">
+               <head>
+                  <title type="main">III.</title>
+               </head>
+               <p>Mode dVncndre les mcmes dispositions a toutes les rivieres en gen^ral. II serait iiiutile de prouver rimpossibilite de conclure des Conventions semblables a celle sur la navigation du Rhin, sur toutes les rivieres de TEurope pendant le tems du congres. Mais circonstances suivanics qui rendent necessaire de les modifier dans im grand nombre de poitits.</p>
+
+               <p>ij Les pa'i's bas n'avoient point pris part ä la Convention dans son origine : ils r avoient ete associes ensuite, mais d'ime maniere fort imparfaite; et dans la guerre cela meine a ete aboli, le peiiple confondant cette Institution avec celle des douanes. Neanttnoins le Systeme de la liberte de la navigation du Rhin resterait incomplet, si la Hollande ne se conformait point aux arrangemens des autres Etats riverains. La premiere soin de la Commission devra etre en consequence de tächer de l'y faire acceder.<note type="footnote" n="2)" resp="gnd-118554727"><hi>La France possedait du tems de la Convention la rive gauche du Rhin dans toute la longueur de son cours, eile n'a äpresent qu'un seid bureau de per- ception, et la plus grande partie des deux rives appartient ä l'Allemagne. Par lä plusieurs articles qui sc fondoient sur cctte circonstance deviennent inutiles maintenant.</hi></note></p>
+
+               <p>-j) Comme les differens Etats de l'Allemagne formeront ime ligne dont l'autorite centrale ne pourra se dispenser de s'occuper egalement de l'objet de la navigation du Rhin, la Commission devra regarder toute la pariie Allemande des deux rives comme appai-tenant ä iin seul et meme Etat. II decoule de lä que tont ce qui, sans porter prejudice ä la liberte et ä la surete de la navigation, regarde les interets des differens Etats Allemands riverains entr'eux, comme p. e. la repartition et la destination de la rente, n'est point de son ressort, et reste aussi etranger ä son travail qu'un pareil arrangement interieur et domestique dans la France ou dans la Hollande.<note type="footnote" n="4)" resp="gnd-118554727"><hi>La Convention exclue ä l'article 25 de ses dispositions toutes les rivieres qui se jettent dans le Rhin et on ne fait quelqu' exception ä cet egard que poiir le Main. Comme il est juste et conforme aux intentions des puissances de donner maintenant plus d'etendue ä la liberte de la navigation; la Commission devra examiner et decider, si et comment on pourrait comprendre les rivieres dans le</hi></note></p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

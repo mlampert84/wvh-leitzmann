@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Die Eumeniden</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Achter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif08humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1909">1909</date>
+                  </imprint>
+                  <biblScope unit="page" from="237" to="242"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1792">1792</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="8.237" xml:id="pbVIII237"/>
+            <head>
+               <title type="main">2. Die Eumeniden.</title>
+            </head>
+            <p>Ein Chor aus dem Griechischen des Aeschylos.</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">Vorerinnerung.</title>
+               </head>
+               <p>Die Chöre der dramatischen Dichter der Griechen gehören nicht nur an sich zu den schäzbarsten Ueberresten der Dichtkunst, welche aus dem Alterthume auf uns gekommen sind ; sondern ihr Studium ist auch unumgänglich nothwendig, um die Griechische Lyrische Poesie in ihrem ganzen Umfange zu übersehen. Es hat mir daher immer wünschenswerth geschienen, diese Stükke vollständig zu sammeln, und, zugleich von Deutschen metrischen Uebersezungen begleitet, besonders herauszugeben, um auf diese Weise das Studium sowohl der Verwandtschaft dieser Gattung der Poesie mit den übrigen lyrischen, als auch ihrer eigenthüm- lichen Verschiedenheiten zu erleichtern; da sie jezt nur zerstreut, und mit einer auf das ganze Stük, dem sie einverleibt sind, ver- theilten Aufmerksamkeit gelesen zu werden pflegen.</p>
+
+               <p>Der — wenn gleich weiter hinausgeschobene — Plan, mit der Zeit selbst einmal eine solche Sammlung zu veranstalten, hat einige Versuche von Uebersezungen bei mir hervorgebracht, und ich theile davon gerade gegenwärtigen Chor aus den Eumeniden des Aeschylos (im Original v. 299 — 399.) mit, weil er — vereint mit einem zweiten [v. 493 — 568.), den ich vielleicht ein andres mal</p>
+
+               <p>Handschriß (ohne die Vorerinnerung), eine von Karolinens, eine von Schreiberhand (4 und 5 Quartseiten), im Archiv in Tegel. Sie stellen beide eine ältere Fassung des Chors dar ; in der ersten sind von fremder Hand (nicht Wolf; vielleicht Spalding?) am Rande Verbesserungen eingetragen, die im Dinick wiederkehren. — Erster Druck: Berlinische Monatsschrift 22, 14g — 1^6 (Augustheft ijgjj.<pb n="8.238" xml:id="pbVIII238"/> ZU liefern Gelegenheit habe — eine der wichtigsten Ideen des Griechischen religiösen Glaubens : die Bestrafung des Lasters durch eigne dazu bestimmte Gottheiten, sehr ausführlich behandelt. Diese Idee vollständig auseinanderzusezen, und, so viel es geschehen kann, sorgfältig zu unterscheiden, wieviel darin wirklicher Volksglaube war, und was allein auf die Behandlung der Dichter zu rechnen ist? müsste ein, nicht allein an sich, sondern auch zu Vergleichungen mit den Meinungen andrer Nationen und Zeiten interessantes Geschäft sein. Allein, da freilich die Materialien hierzu aus dem ge- sammten Alterthum geschöpft werden müssten; so erlaubt diess mein gegenwärtiger Endzwek nicht.</p>
+
+               <p>Bemerken muss ich nur noch, dass das hier gelieferte Stük mir zugleich darum in ästhetischer Rüksicht äusserst merkwürdig scheint, weil es ein vortrefliches Muster an die Hand giebt, wie der Dichter Gegenstände behandeln soll, deren schauderhafte Grösse leicht empören und zurükschrekken kann? Die gränzenlose Rachbegierde der Eumeniden, ihr vollkommner Mangel an allem theil- nehmenden Mitgefühl mit den Leiden des Schuldigen, könnte nicht anders als das sittliche Gefühl jedes sanftgesinnten Menschen beleidigen, wenn nicht der Dichter durch die erhabnen Ideen des ehrwürdigen Alters dieser furchtbaren Gottheiten, des ihnen vom Schiksal selbst übertragnen Amtes, die Menschen im Zaum zu halten, und die Götter — diese ewig glüklichen, leicht lebenden Wesen — eines verhassten Geschäfts zu überheben, der unerbitt- hchen Nothwendigkeit, für Böses Böses zu leiden, des Abscheues jener Rachgottheiten gegen das Verbrechen, und ihres Eifers durch ihren strengen Ernst und die Qualen des Verbrechers die Unschuld zu sichern — auf der andren Seite jenem üblen Eindrukke entgegengearbeitet hätte. Allein, hier kam ihm auch der Volksglaube gar sehr zu Statten. Denn Verführung zum Bösen, und hämische Schadenfreude an dem wirklich begangnen war den Erinnyen der Griechen gänzlich fremd.</p>
+
+               <p>Mich über die Einwürfe zu erklären, welche der Kenner des Originals gegen die Uebersezung einer oder der andren schwierigen Stelle etwa machen könnte, findet sich vielleicht ein ander- mal eine schikliche Gelegenheit.<pb n="8.239" xml:id="pbVIII239"/> (Orest ist den schlafenden Eumeniden, die ihn wegen der Ermordung der Klytämnestra verfolgen, entflohen, und hat sich in Athenens Tempel geflüchtet. Sie eilen ihm nach und finden ihn. Die Scene ist im Tempel.)</p>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">Die Eumeniden.</title>
+               </head>
+               <p>Nicht Apollon, nicht Athenens Kraft vermag Dich zu retten, dass Du nicht verlassen dahinirrest, je wieder erfahrest, wo in der Seele die Freude weilt, nicht zum Schatten werdest,') zum blut- losen Raube der unterirrdischen Götter! . . . Du antwortest nichts, und -) verschmähst unsre Worte, Du uns aufbewahrtes, uns geweihtes Opfer .^ Lebend, nicht geschlachtet am Altar,</p>
+            </div>
+
+            <div type="section" n="3">
+               <head>
+                  <title type="main">wirst") Du uns nähren! Vernimm*) diesen Hymnos, über Deinen Banden gesungen.</title>
+               </head>
+               <p>Auf nun, und schlinget den Reigen! Lasset ertönen Den grausen Gesang! Singt, wie den Sterblichen Unsre Schaar des Schiksals Loose vertheilt. Wie sie, strenges Recht zu üben, sich freut!</p>
+
+               <p>Denn, wer<note type="footnote" n="^)" resp="gnd-116890657"><hi>In der Handschrift verbessert aus „Kurmnerfrei" . 'j In der Handschrift verbessert aus „blutbesprizte Hände".</hi></note> in schuldloser Reinheit</p>
+
+               <p>Seine Hände bewahret, Den besucht nie unser Zorn;</p>
+
+               <p>Fern von Unglük ^) durchwallt er das Leben. Aber, wer, wie Dieser, frevelnd Hände des Mordes ') birgt. Dem gesellen wir uns rächend bei,</p>
+
+               <p>Zeugen wahrhaft den Erschlagenen gegen ihn, Fordern von ihm das vergossene Blut.</p>
+
+               <p>Strophe i.</p>
+
+               <p>Mutter, die Du uns gebahrest, Nacht den Schauenden und Blinden,</p>
+
+               <p>V In der Handschrift: „werdest zum Schatten". ^j Fehlt in der Handschrift. *j In der Handschrift: „sollst". *J In der Handschrift: „hören". y In der Handschriß : „Singt unser Loos unter den Menschen, singt, wie wir über sie wachen .' Denn wir freuen uns Rächerinnen zu sein. Wer nun".</p>
+
+               <pb n="8.240" xml:id="pbVIII240"/>
+               <p>Mutter, höre die Erinnyen!</p>
+
+               <p>Unsre Ehre schmälert Leto's Sohn,</p>
+
+               <p>Reisst aus unsrer Hand den FlüchtUng, Den des Muttermordes Frevel</p>
+
+               <p>Unserm Rächerarm geeignet.<note type="footnote" n="^)" resp="gnd-116890657"><hi>In der Handschrift: „anverwandtes".</hi></note> Ueber dem geweihten Opfer Sei diess unser Lie4! Sinnenraubend,</p>
+
+               <p>Herzzerrüttend, wahnsinnhauchend. Schallt der Hymnos der Erinnyen, Seelenfesselnd, sonder Leier, Und des Hörers Mark verzehrend.</p>
+
+               <p>Antistrophe i. Denn des Schiksals Richterausspruch Gab zum sichren Eigenthume Dieses Loos uns. Wessen Frevlerarm</p>
+
+               <p>Mordend unschuldvolles 2) Blut versprizt. Dem zu folgen, bis er zu den Schatten walle. Aber sterbend Wird er nicht der Banden ledig. Ueber dem geweihten Opfer Sei diess unser Lied! Sinnenraubend, Herzzerrüttend, wahnsinnhauchend, Schallt der Hymnos der Erinnyen, Seelenfesselnd, sonder Leier, Und des Hörers Mark verzehrend.</p>
+
+               <p>Strophe 2. Seit die Mutter uns gebohren.</p>
+
+               <p>Ward diess Loos uns zugetheilet. Aber den Unsterblichen Darf sich unsre Hand nicht nahn. Kein Genosse theilt mit uns das Mahl. Weisser Schleier reinen Schimmer Müssen ewig wir entbehren. Denn wir lieben der Geschlechte Sturz,</p>
+
+               <p>V In der Handschrift: „der mit Mord der Mutter Unthat frevlerisch zu rächen wagte".</p>
+
+               <pb n="8.241" xml:id="pbVIII241"/>
+               <p>Wo ein Zwist, im Schooss des Friedens, Freunde mordet; da verfolgen Wir den allgewaltgen Frevler, Und vertilgen ihn vergeltend, Ob dem frisch vergossnen Blute.</p>
+
+               <p>Antistrophe 2.</p>
+
+               <p>Sorgsam eilen wir, Kronion Dieser Bürde zu entladen, Dass, durch unsre Wachsamkeit, Fern der Chor der Seligen Von des Strafgerichtes Schwelle sei. Denn es würdigt seines Anbliks Zeus nicht dieses blutbesprizte, Dieses hassenswürdige Gezücht. Schwingt sich hoch auch in des Aethers Glanz der Stolz der Menschen, sonder Ehre schmilzt er bei den Schatten Hin von unsrem schwarzen Zuge, Unsres Fusses blutgem Tanze.</p>
+
+               <p>Epodos. Plözlich aus der Höhe stürzend. Hemmen wir des tlüchtgen Bösewichts unsichern Schritt. Unter seiner Unthat Bürde Wankt im irren Lauf sein Fuss. Und er sinkt, und sieht es In des Wahnsinns Irrthum nicht. So umhüllt mit Blindheit ihn der Frevel, Da des Unglüks tiefes Dunkel seinem Hause das Gerücht entgegenstöhnt. ^)</p>
+
+               <p>Strophe 3.</p>
+
+               <p>Denn er weilt dort.'-) Aber immer Rüstig, nimmer fehlend, jedes V In der Handschrift: „Dann verkündet seiner Schande tiefe Hülle dort im Tempel ihm der Ruf." y In der Handschrift: „Dort verweilt er."</p>
+
+               <pb n="8.242" xml:id="pbVIII242"/>
+               <p>Frevels ewig rächend eingedenk, Schwer den Sterblichen versöhnbar, Folgen wir mit sonnenscheuer Fakkel, Fern vom Siz der Seligen getrennt,</p>
+
+               <p>Unsres Schiksals grausem Loos' auf Pfaden,^) Schauenden und Blinden gleich unwegsam.</p>
+
+               <p>Antistrophe 3.</p>
+
+               <p>Wen der Sterblichen ergreift nicht</p>
+
+               <p>Zittern? wen nicht banges Grausen? Hört er unsre. Rechte, vom Geschik Und den Göttern unverbrüchlich Uns verliehen? Alt und hehr ist unsre Würde, und Verehrung fehlt uns nie, Ist gleich in der Erde Schoosse Unsre Wohnung, und in sonnenfernem Dunkel! V In der Handschrift: „treiben wir, die Hehren — also heischt es unser grauses, götterfernes Loos — ihn mit sonnenscheiier Fakkel Pfade."</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

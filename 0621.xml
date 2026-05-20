@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Kunstvereinsbericht vom 19. März 1833</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Sechster Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif0602humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1907">1907</date>
+                  </imprint>
+                  <biblScope unit="page" from="583" to="591"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1833">1833</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="6.583" xml:id="pbVI583"/>
+            <p>der Quelle, aus der es entsprang, so ohne Mühe und Anstrengung entfloss, wurde ebenso aufgenommen und festgehalten, und wurzelte zu weiterer Entwicklung. Da Göthe die Natur immer zugleich in der Einheit ihres Organismus und in der vollen Entfaltung ihrer gestaltenreichen Mannigfaltigkeit auffasste, so konnte die Gedanken- und Sinnenwelt nie einen schroffen Gegensatz in ihm bilden. Die Wirklichkeit gab in ihm ihre Gestalt nur auf, um eine neue aus der Hand der schaftenden Phantasie zu empfangen. Dadurch, um diese Betrachtungen auf eine Weise zu schliessen, die uns zu unsrem Gegenstand zurückführt, wurde er vorzüglich der Kunst so wohlthätig. Er war mit ihr durch alle Anlagen seines Geistes verwandt, und hatte sich von allen Seiten mit ihr durch Anschauung, Sammeln und Ueben befreundet, jener oben erwähnte allgemeine Kunstsinn war in ihm tiefer als in irgend sonst jemand begründet. Er leistete unendlich viel unmittelbar für die Kunst durch Belehrung, Ermunterung und Förderung jeder Art, aber alles dies wurde durch das überwogen, was sie ihm mittelbar verdankte. Er bereitete durch das stille Wirken seines ihr geweihten und von ihr durchdrungenen Wesens ein langes Leben hindurch ihr den Boden in den Gemüthern seiner Zeitgenossen zu, weckte den schlummernden Funken der Liebe zu ihr, richtete aber die Neigung und die Forderung nur auf das Streben, was, gleich entfernt vom Zwange einengender Regeln und von phantastischer Willkührlichkeit, dem freien, aber durch innere Gesetze geleiteten Gange der Natur folgt.</p>
+
+            <pb n="6.584" xml:id="pbVI584"/>
+            <p>19-</p>
+
+            <head>
+               <title type="main">Kunst Vereinsbericht vom ig. März 1833.</title>
+            </head>
+            <p>Obgleich nur die geringere Anzahl der im vorigen Jahre ge- machten Bestellungen bis jetzt eingegangen ist, darf sich das Directorium dennoch schmeicheln, eine befriedigende Mannigfaltigkeit von Kunstwerken zur heutigen Verioosung darbieten zu können. Es hat die letzte Ausstellung der Königlichen Akademie zu Ankäufen benutzt, und würde dies gern in grösserem Maasse gethan haben, wenn nicht die meisten der ausgestellten Gemälde schon früher ihre Bestimmung gefunden hätten. Die Freunde der Kunst werden indess weit entfernt seyn, diesen Umstand zu bedauern. Er zeugt vielmehr von der immer allgemeiner werdenden Liebe zu derselben, von dem immer zunehmenden Bedürfniss, sich mit ihren Werken zu umgeben. Man darf dies mit Recht dem immer zahlreicher aufblühenden Talente, dem ebenso glücklichen als einsichtsvollen Einwirken einiger Malerschulen, endlich den an verschiedenen Punkten der Monarchie gestifteten Vereinen zuschreiben.</p>
+
+            <p>Wir haben uns bemüht, mit dem inneren Werthe der Kunst- werke abwechselnde Mannigfaltigkeit zu verbinden, und nähren die Holfnung, dass die geehrten Mitglieder des Vereines gern unter den zu verloosenden eine bedeutende Anzahl gelungener Landschaften antreffen werden. Der Landschaftsmaler geniesst des Vorzugs, in der Erwerbung der Zuneigung zu seinem Werke weniger von der Wahl seines Gegenstandes abzuhängen. Die grosse ScheideErster Druck: Verhandlung der am ig. März i8j^ gehaltenen Versammlung des Vereins der Kunstfreunde im preußischen Staate S. 3—14 (^^SS)<pb n="6.585" xml:id="pbVI585"/>wand der antiken und modernen Gegenstände fällt für ihn grössten- theils hinweg, da die Natur in allem Wechsel der Jahrtausende unwandelbar dieselbe ist, und die Zeitepoche, in welche sich der Künstler hineindenkt, nur an Nebenwerken erscheint. Er kann daher mit freier Sicherheit aus dem ganzen Reichthum schöpfen, den ihm die objective Verschiedenheit der Natur und die sub- jective der sie auffassenden Empfindung darbietet, da die Einheit der Landschaft auf diesen beiden, sich in der künstlerischen Phan- tasie verbindenden Elementen beruht. Es ergehen auch nicht an ihn die auf bestimmte Classen von Gegenständen gerichteten Forderungen, bei denen der Geschichtsmaler so oft zu kämpfen hat, das künstlerische Interesse nicht einem ganz fremden aufopfern zu müssen. Die Vorliebe für gewisse Gegenden ist nicht so entschieden, und w^ie sehr der Betrachter sich auch möge zur Darstellung südHcher Milde und zu dem blühenden Reichthum Italieni- scher Landschaft hingezogen fühlen, wird er dem Künstler doch auch gern wieder in eine einheimische, ja bis in den tiefen Norden folgen, aus dem auch die heutige Verloosung einige Darstellungen enthält.</p>
+
+            <p>Unter den historischen Gemälden zeichnet sich schon durch den Umfang der Composition Herrn Hübners Simson aus. Der Gegenstand rührt von seiner eigenen Wahl her. Es erforderte ein so vollendet geübtes Talent, als das des Herrn Hübner, von dem die akademische Ausstellung auch andere treffliche Werke aufzuweisen hatte, um die Schwierigkeiten des Gegenstandes auf eine so meister- hafte Weise in Zeichnung und Anordnung zu überwinden. An die landschaftlichen Darstellungen schliessen sich mehrere archi- tectonische Ansichten, so wie an die geschichtlichen einige Genre- Stücke an. Als ein solches, im höchsten Grade gelungenes darf ich wohl das des Herrn Schrödter ^) herausheben. Es möchte nicht leicht einem Künstler gelungen seyn, mit glücklicherer Laune und mehr komischem Effecte den Contrast zwischen einem verzweifelnden Schmerz und einem Lachen erregenden Unfälle dar- zustellen.</p>
+
+            <p>Herrn Hübners Simson, Herrn Hennings Abschied Christi von seiner Mutter, Herrn Daeges Erfindung der Malerei, Herrn Nerlys Landschaft und Herrn Brüggemanns Verfolgung einer</p>
+
+            <p>V Adolf Schroetter (1805 — iS-js), Mitglied der düsseldorfer Schule, war einer der bekanntesten Genremaler.<pb n="6.586" xml:id="pbVI586"/> Griechischen Brigg sind eingegangene Bestellungen früherer Jahre.</p>
+
+            <p>Unter den Bildhauer-Arbeiten finden sich bei der heutigen Verloosung mehrere in Marmor ausgeführte. Wir dürfen hoffen, dass dies den geehrten Mitgliedern auch im Interesse der Kunst erwünscht seyn wird. Nur der Marmor erlaubt der Hand des Künstlers die letzte Vollendung, vor der alles Stofifartige des Steines entweicht und der Gedanke frei dasteht.</p>
+
+            <p>Von den bestellten, aber noch nicht eingegangenen Bildern dürfen wir, dem Versprechen der Künstler nach, die von Herrn Sohn und Herrn Hildebrandt spätestens zum nächsten Herbst erwarten. Der erstere, der an der früheren Ablieferung seines Bildes durch Krankheit verhindert wurde, hat zum Gegenstand desselben Diana und Aktäon gewählt, der letztere eine in das sechzehnte Jahrhundert versetzte häusliche Scene. Ein kranker Rathsherr betrachtet im Gefühle seines nahen Hinscheidens wehmuthsvoll sein vor ihm stehendes Töchterchen. Das Kind trägt Gebetbuch und Rosenkranz, als wäre es im Begriff in die Kirche zu gehen. Im Hintergrunde erblickt man das Bildniss der schon verstorbenen Mutter. Herr Lessing scheint sich noch für das bei ihm bestellte Bild zu keinem Gegenstande bestimmt zu haben. Herrn Professor Krüger hat eine lange Abwesenheit in Petersburg verhindert, das uns versprochene Bild abzuliefern. Herr Philipp Veit, dem, nach dem Inhalte der Verhandlungen des letzten Jahres, <note type="footnote" n="^)" resp="gnd-116890657"><hi>Vgl. oben S. j^yg.</hi></note> hatte ein Termin zur Einsendung seines Bildes bestimmt werden müssen, hat vorgezogen, auf dieselbe zu verzichten, und hat den em- pfangenen Vorschuss zurückgezahlt. Der akademische Künstler Herr Müller hat von den ihm im vorigen Jahre aufgetragenen Bronze-Abgüssen der vier kleinen Gyps-Modelle , welche den damals ausgesetzten Preis erhalten hatten, nur einen, die Madonna mit dem Kinde von Herrn Drake, vollendet. Die übrigen werden daher erst später nach und nach zur Verloosung kommen können.</p>
+
+            <p>Der Steindruck des Bildes des Herrn Professor Krüger, einen Pferdestall vorstellend, nach Herrn Müllers Zeichnung, ist zwar vollendet, allein die schon von uns in den Verhandlungen des vorigen Jahres wegen der Schwierigkeiten des Abdrucks geäusserten Be<pb n="6.587" xml:id="pbVI587"/>sorgnisse^) haben sich nur zu sehr bestätigL Der durch die Langsamkeit des Abdrucks und durch die, bei einer grossen Menge von Blättern nothwendig gewordenen Retouchen verursachte Aufenthalt ist auch an der verzögerten Vertheilun^ der Umrisse der im vorigen Jahre verloosten Bilder schuld, welche wir die geehrten Mitglieder des Vereines recht sehr zu entschuldigen bitten müssen. Die lithographische Anstalt des Herrn Sachse. welcher der Abdruck anvertraut war, hat zwar keine Anstrengungen gescheut, diese Schwierigkeiten zu beseitigen, und selbst einen Drucker aus Paris deshalb verschrieben. Leider blieb dieser aber aus, ein anderer verliess die Arbeit. Hierzu gesellten sidi die inneren Schwierigkeiten der Sache selbst. Der Stein bedarf von Zeit zu Zeit der Ruhe, wenn die Abdrücke gelingen sollen: er erlaubt auch nicht so viel taugliche, als die Zahl der Mitglieder unsres Vereines erfordert. Es werden daher nur etwa 800 ziem- Hch gute Abdrücke abgeliefert werden können : gegen die übrigen lassen sich mehr oder weniger Ausstellungen machen. Das Di- rectorium hat jedoch nicht geglaubt sich erlauben zu dürfen, die mangelhaften Abdrücke eigenmächtig zu vernichten. Es schlägt auch hier den Weg der Verloosung vor. und wird, wenn die geehrten hier anwesenden Mitglieder nicht eine andere Bestimmung vorziehen sollten, eine eigne dieser Abdrücke in seiner Gegenwart veranstalten. Jedes Mitglied erhält alsdann den Abdruck, welchen das Loos ihm zutheilt. Indess haben der Künstlerausschuss und das Directorium sich hierdurch überzeugt, dass man in künfdgen Fällen auf eine so grosse Vervielfältigung der Kunstwerke auf diesem Wege wird \'erzicht leisten müssen. Ueber den nach dem Lessingischen trefflichen Bilde: das Schloss am Meere, durch Herrn Lüderitz anzufertigenden Kupferstich ist nun der Vertrag förmlich abgeschlossen, und die Platte wird am i. April 1S35. zur Ablieferung bereit se\~n. Die Beseitigung der bei diesem Unternehmen obwaltenden Schwierig- keiten verdankt der Verein den gemeinschafdichen Bemühungen der Herren Lüderitz und Lessing, von denen wir uns nunmehr emen vollkommen gelingenden Erfolg versprechen dürfen. Da das Original sich bekanntlich jetzt in St. Petersburg benndet, so war für den Stich bloss der misrathene Abdruck der von Herrn Jentzen auf dem Stein verfertigten Zeichnung vorhanden. Wie</p>
+
+            <p>V VgL oben S. 577.<pb n="6.588" xml:id="pbVI588"/> befriedigend nun auch Herrn Jentzens ursprüngliche Steinzeichnung war, und obgleich er den fehlerhaften Abdruck mit dem sorgfältigsten Fleisse retouchirt hatte, so konnte doch eine so ent- standene Nachbildung für die Ausführung eines Stichs in Linienmanier nicht genügen. Dies fühlte Herr Lüderitz, und begab sich deshalb nach Düsseldorf zu Herrn Lessing, der ihm mit zuvor- kommender Gefälligkeit seine Studien mittheilte und ihn auch sonst mit seinem Rathe und seiner Hülfe auf das bereitwilligste unterstützte.</p>
+
+            <p>Die von dem Künstlerausschusse, mit Zustimmung des Di- rectoriums, gemachten neuen Bestellungen sind folgende:</p>
+
+            <p>1. bei Herrn Bendemann und Herrn Henning historische Gemälde nach eigner Wahl der Gegenstände; 2. bei Herrn Maler Schirmer in Düsseldorf eine Landschaft, die romantische Gegend von Altenahr mit dem don zum Behuf einer Kunststrasse durch den Felsen gebrochenen Stollen;</p>
+
+            <p>3. bei Herrn Lasinsky in Düsseldorf eine Ansicht von Oberstein an der Nahe;</p>
+
+            <p>4. bei Herrn Eichens ein in Linienmanier ausgeführter Kupfer- stich nach der Madonna von Herrn Steinbrück, deren sich die geehrten hier anwesenden Mitglieder von der Ausstellung her er- innern werden, und die sich jetzt im Besitz Sr. Majestät des Königs befindet.</p>
+
+            <p>Es war in der vorigjährigen General-Versammlung angezeigt worden, dass der durch das von Seydlitzische Legat ^) gestiftete, von zwei Jahren gesammelte Preis von 100 Thalern demjenigen Bilde der akademischen Ausstellung zuerkannt werden sollte, welches desselben am würdigsten erschiene. Der Künstlerausschuss des Vereines schlägt jedoch jetzt, mit Zustimmung des Directoriums, der geehrten Versammlung vor, jenen Bestand zwischen dem Bilde des Herrn Lessing : das Schloss am Meer, und dem des Herrn Bendemann : die gefangenen Juden in Babylon, zu theilen. Von dem Lessingischen Bilde, das einer Bestellung unsres Vereins seine Entstehung verdankt, ist gleich zur Zeit seines Erscheinens auch in dieser Versammlung mit lebendiger Theilnahme und ge- rechter Bewunderung gesprochen worden. Das Bendemannische</p>
+
+            <p>'j Vgl. darüber Verhandlungen der am 7. und 22. April i8jo gehaltenen Versammlungen S. g.<pb n="6.589" xml:id="pbVI589"/> hat eine gleich rege erweckt. Es schien daher ein glücklicher Ge* danke, gerade diese beiden Bilder, die sich in zwei auf einander folgenden Kunstausstellungen am meisten ausgezeichnet haben, und mit dem entschiedensten Beifall des Publicums gekrönt worden sind, in der Zuerkennung des Preises mit einander zu verbinden. Denn indem beide einen grossen, betäubenden Schmerz darstellen, ist die Behandlung dieses Ausdrucks, und selbst die jedem von beiden, wenn man das Gefühl tiefer auffasst, zum Grunde liegende Idee so verschieden und doch wiederum so einander entsprechend, dass sie im edelsten Sinne des Wortes Gegenstücke genannt werden können. Das Lessingische Gemälde stellt einen Vater und eine Mutter neben dem Sarge ihrer entschlafenen Tochter dar; das Bendemannische bringt an einer Gruppe von Personen verschie- denen Geschlechtes und Alters die Trauer eines seiner Heimath entfremdeten, in Gefangenschaft fortgeführten Volkes vor das Auge. Diese Unglücklichen beklagen aber nicht ihre körperliche, augenblickliche Lage, nicht die Beraubung ihrer Freiheit, die Leiden einer harten Gefangenschaft. Ihre Trauer geht einen höheren Verlust an, sie sind nicht bloss ihrer Heimath, auch dem Dienste des wahren Gottes entrissen, der Tempel des Höchsten steht verödet, und sie müssen ihre Tage unter Götzendienern verleben; ihre Harfe ist verstummt, da sie in der heidnischen Fremde nicht vom Lobe des Allmächtigen wiederhallen kann. Dies Eine Gefühl erfiillt ihre Seele, ihre Trauer entspringt aus diesen Gedanken; wir Sassen, sagt der Text,<note type="footnote" n="*)" resp="gnd-116890657"><hi>Psalm 137. V. I — 4.</hi></note> der dem Bilde zum Grunde liegt, und weineten, wenn wir an Zion gedachten. Hieraus entspringt eine sehr zarte, aber aus dem Innersten des Gegenstandes geschöpfte Verschiedenheit beider Bilder. In dem Lessingischen mischt sich in Haltung und Geberde der Trauer der Mutter um den Verlust der Tochter liebevolle Besorgniss über den starren Schmerz des Vaters bei, das zerrissene Mutterherz richtet sich an die verwandte Empfindung. In dem Bendemannischen liegt auf eine andere Weise ein tiefer Sinn und eine unnachahmliche Lieblichkeit in der Verbindung und Vereinzelung der dargestellten Personen. Jede ist ungetheilt mit ihrem Schmerze beschäftigt, seine Grösse giebt keinem andren Gefühle Raum; dies ist das unsichtbare Band, das sich durch alle gemeinschaftlich hindurchschlingt. Ohne dass jedoch dieser Ausdruck irgend geschwächt würde, entsteht eine<pb n="6.590" xml:id="pbVI590"/> engere Verknüpfung durch das Aufruhen des Kopfes des jüngeren Mädchens auf dem Knie des betagten Mannes, und durch seine Richtung nach der Frau hin, welche das Kind in den Armen hält. Allein indem sich die Mitte der Gruppe also zusammenschliesst, starren die beiden Gestalten an den äussersten Seiten derselben in der Betäubung des Schmerzes vor sich hin. So ist die Einheit des Ganzen auf liebliche Weise erhalten, indem doch der hauptsächlichste Ausdruck in eine endlose Ferne hinausgeht, und wenn dies mächtige Gefühl die Einbildungskraft gewaltig ergreift, so werden durch jene stille Harmonie alle sanfteren Empfindungen des Herzens angeregt.</p>
+
+            <p>Jedes gelungene grössere Gemälde lässt gewissermassen mehr und etwas Höheres empfinden, als unmittelbar dargestellt erscheint. Diese Wirkung geht aber immer nur aus der künstlerischen Vollendung des Individuellen hervor. Dies wird gerade an dem Bilde, welches uns hier beschäftigt, vorzüglich klar. Obgleich es der Phantasie eine Gruppe einzelner Gestalten vorführt, ist es doch mehr die Versinnlichung einer Idee, als die Schilderung eines Ereignisses. Es stellt die Trauer eines Volkes und eine Trauer um Dinge dar, die das Gemüth unsichtbar ergreifen, um ein verlornes Vaterland, um Wahrheiten, die das irdische Daseyn unmittelbar an ein Unendliches knüpfen. Die Aufgabe gehört nicht allein zu den schwierigen, sie berührt gewissermassen die Gränzen der Kunst. Jene Ideen selbst sind keiner Darstellung durch den Pinsel fähig, und stehen doch lebendig und klar in den einzelnen Gestalten da, aber nur dadurch, dass diese mit einer solchen Meisterschaft in Zeichnung, Colorit und Anordnung behandelt sind, dass allen technischen und künstlerischen Forderungen, von der niedrigsten bis zur höchsten, so vollkommen in ihnen genügt ist. Es wäre ein augenscheinlicher Irrthum, wenn man das Nämliche auf andrem Wege zu erreichen gedächte, wenn man die Idee unmittelbar andeuten zu können und die Forderungen an die vollendete Darstellung der Erscheinung ungestraft vernachlässigen zu dürfen glaubte. Was sich auch immer mit dem Individuellen verbinden möge, so muss es die Phantasie in unauflöslicher Einheit mit ihm zusammenschliessen, und der so auf- gefasste künstlerische Gedanke muss alle Theile der Ausführung durchdringen. Nur dann geht er ganz und rein in das Gemüth des Beschauers über. Der Künstler, von dem wir hier reden, hat aber sehr glücklich gefühlt, dass vorzüglich sein Gegenstand</p>
+
+            <pb n="6.591" xml:id="pbVI591"/>
+            <p>591 noch ein Drittes erforderte, nämlich dass der Gedanke sich auch auf so kurzem Wege, so unmittelbar als möglich, wieder der Phantasie mittheilte. Die Figuren sind daher mit meisterhaft ge- ringem Aufwände von Mitteln hingezeichnet, und durch diese, wenn ich so sagen darf, wundervoll keusche Behandlung des Stoifs springt der unauflöslich mit ihm verbundene Gedanke in doppelt grösserer Schärfe und Bestimmtheit her\^or. Diese zugleich zarte und kühne Ausführung zeigt sich in der ganzen Gruppe, vorzugsweise aber in der Frau mit dem Kinde, einer in dieser Rücksicht unübertreff baren Figur.</p>
+
+            <p>Wenn es keine selbstgefällige Täuschung ist, dass die Kunst sich in unseren Tagen und gerade in Deutschland mehr ihrem wahren Standpunkt genähert hat, so liegt das Verdienst davon unstreitig in unsrer gesammten geistigen Bildung. Absichtslos und von selbst ist sie durch diese in eine Bahn geleitet worden, die sie vom Ringen nach einseitiger und willkührlicher Manier entfernt hält. Den vorzüglichsten Antheil hieran hat die vollere und richtigere Auffassung der einfachen Grösse des Alterthums, welche der reinen Empfänglichkeit des Deutschen Sinnes besser gelungen ist. Den Alten war es vorzüglich eigen, den Gedanken so tief und so vollständig in die Erscheinung zu legen, dass er gleich rein und lebendig wieder siegreich aus ihr hervorgieng. Eine Kunst, die nicht das Alterthum zu ihrer Grundlage nähme, nicht oft Gegenstände aus demselben behandelte, sich nicht die Nachahmung seiner vollen und durch nichts andres, als ihre innere organische Nothwendigkeit bedingten Naturwahrheit zur festen Regel machte, würde bald in Formlosigkeit und ermüdende Leere versinken. Allein jenem grossen naturgemässen Sinn sich anschliessend, kann sie sich mit Vertrauen dem Geiste derer, welche sie üben, und dem Geiste des Jahrhunderts überlassen, und ist sicher, in jedem Fortschritte der Zeit ein angemessenes Gepräge zu finden, von keiner Richtung des Gedanken und keiner Schattirung der Empfindung ausgeschlossen zu bleiben.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

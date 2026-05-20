@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Kunstvereinsbericht vom 75. Januar 1831</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Sechster Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif0602humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1907">1907</date>
+                  </imprint>
+                  <biblScope unit="page" from="551" to="556"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1831">1831</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="6.551" xml:id="pbVI551"/>
+            <p>i6.</p>
+
+            <head>
+               <title type="main">Kunstvereinsbericht vom 15. Januar 1831.</title>
+            </head>
+            <p>Die Jahre der akademischen Ausstellungen pflegen auch diejenigen zu seyn, wo unser Verein die reichste und mannigfaltigste Auswahl von Bildern zur Verloosung darzubieten im Stande ist. Im gegenwärtigen aber muss es ihm zu einer besondern Genug- thuung gereichen, dass gerade die beiden Gemälde, welche auch auf der Ausstellung vorzugsweise von Kennern und Liebhabern aufgesucht wurden, eine Frucht seiner Bestellungen sind. Ich brauche kaum zu erwähnen, dass ich hierunter das Bild nach der Uhlandischen Ballade : dasSchlossamMeer von Herrn Lessing und den Raub des Hylas von Herrn Sohn meine. Beide Bilder haben, ausser der Erfüllung der künstlerischen Erfordernisse, noch das Merkwürdige, dass sie Gegenstände behandeln, von welchen der eine der künstlerischen Darstellung, der andre dem Gemüthe wenig zu geben verspricht, und dass sie diese Schwierigkeit auf eine Weise überwunden haben, die nicht einmal ahnden lässt, dass sie vorhanden war. Gerade das ist es aber, was den wahren Künstler bezeichnet ; ursprünglich, in seiner ersten Auffassung erscheint ihm der Gegenstand so, dass die Schwierigkeiten verschwinden, ja oft sich zu eigenthümlichen Vorzügen umgestalten. Wenn man das Uhlandische Gedicht liest, so fragt man sich mit Verwunderung, wie daraus ein Bild entstehen könne? Es</p>
+
+            <p>Handschrift von Schreiberhand {12. halbbeschriebene Folioseiten) mit eigenhändigen Korrekturen Humboldts im Archiv in Tegel. — Erster Druck: Verhandlung der a77i 15. Januar 18^1 gehaltenen Versammlung des Vereins der Kunstfreunde im preußischen Staate S. j — ij (i8ßi).</p>
+
+            <pb n="6.552" xml:id="pbVI552"/>
+            <div type="section" n="1">
+               <head>
+                  <title type="main">DD"</title>
+               </head>
+               <p>schildert keine Handlung, es geht kaum eine Scene daraus hervor, an welcher sich die malerische Einbildungskraft halten könnte; alles ist hTisch, empfunden, innerlich. Der Künstler, der durch seine vielseitigen Leistungen zeigt, dass er vorzugsweise fähig ist, jedem Gegenstande seine objective Eigenthümlichkeit abzugewinnen, ist auch hier ebendadurch glücklich gewesen. Er hat nicht gesucht, die Lücke, welche die darstellende Kunst in dem Gedichte finden konnte, durch andere Mittel zu ersetzen; er ist ganz in den Dichter eingegangen, und hat nichts als den Schmerz, con- centrirt und vereinzelt, hingestellt. Des andeutenden Sarges hätte er leicht entrathen können, die Aussicht auf das Meer knüpft sein Bild nur^) lose an das Gedicht an, das Verständniss der Darstellung, wie der Eindruck selbst kommt allein von der stummen Trauer des sitzenden Paares. In dieser aber liegt eben darin das Originelle, dass der Ausdruck des Schmerzes selbst seine Ursach und die ganze Situation zeichnet. Dies ist, wie man aus allen Beurtheilungen sieht, welche das Bild erfahren hat, allgemein ge- fühlt worden. Ein solcher Schmerz trauert nicht um bloss irdischen, weltlichen Verlust, es ist der Seele entwandt worden, was ein Theil ihrer selbst war; er ist zugleich ein gemeinschaftlicher, aber der feine Zug, durch welchen der Künstler in die Trauer der Mutter die Sorge der Gattin um das starre Versinken des Vaters in seine Empfindung gemischt hat, hält die Gruppe noch durch eine neue, doch aus dem gleichen Gefühl entspringende Beziehung fest und innig zusammen.</p>
+
+               <p>Der Raub des Hylas ist ganz nach der mythologischen Er- zählung genommen. Die Nymphen streben die irdische Schönheit des Jünglings mit ihrem unsterblichen Leben in ihren schattig feuchten Grotten zu vermählen; sie umwinden ihn mit ihren Armen und ziehen ihn herab. Er widerstrebt nicht, streitet nicht, scheint aber besorglich über den Uebergang aus dem freundlichen leichteren Elemente der Luft. Der Künstler hat sich nicht gescheut dies bestimmt in seinen Gesichtszügen auszudrücken und folgt hierin ganz den Dichtern, welche bei den Alten diese Fabel behandelten. Dadurch wird sein Bild zu einem schönen Gegenstück zu Herrn Hübners Fischer, der auf der vorletzten Ausstellung so gerechten Beifall erntete. Dort braucht die Bewohnerin der Flut mehr die Gewalt der Ueberredung, sie preiset das Element,<pb n="6.553" xml:id="pbVI553"/> das sie umgiebt/) in dem Ausdruck des Jünglings liegt schon die Stimmung vorbereitet, die sie hervorbringen will; das Ganze ist, nach dem schönen Gedicht, das die antike Fabel sinnvoll ins Moderne umbildet, die Schilderung der Sehnsucht, welche der Anblick des tiefen blauen Wasserspiegels wirklich erweckt. Man hat mythologischen Gegenständen in der Malerei wohl den Vorwurf der Kälte gemacht, und bei dem hier dargestellten war diese Gefahr leicht zu besorgen. Herr Sohn hat in die Gesichtszüge der Nymphen, einzeln, und in ihrem Verhältniss zu einander, den Ausdruck gelegt, in dem die schöne Sinnlichkeit mit einem tiefer und geistiger empfundenen Gefühle zusammenschmilzt, und ist darin über die Grenzen des x\ntiken und über die Dichter hinausgeschritten, aus denen er schöpfen konnte. Doch möchte es nicht gerade hierauf beruhen, dass er jene Klippe glücklich vermied. Die Kunst gilt immer durch sich selbst und ein Bild ist sicher, nicht kalt zu scheinen, wenn das volle Feuer der Phantasie des Künstlers es belebt.<note type="footnote" n="*)" resp="gnd-116890657"><hi>V „nur" verbessert aus „sinnig aber".</hi></note></p>
+
+               <p>So sehr auch die beiden hier erwähnten Bilder es verdienen, betrachtend bei ihnen zu verweilen, so würde ich es mir doch kaum erlaubt haben, wenn sie nicht einen wichtigen Belag zu demjenigen abgäben, was über die Wahl der Gegenstände bei Kunstwerken hier schon mehreremale zu äussern Veranlassung war. Auch die diesjährige Ausstellung ist hierin sehr erfreulich gewesen. Die Künstler fühlen immer mehr, dass sich die Kunst, frei von aller Einseitigkeit, wie die Natur, reich und vielfach ent- falten muss.</p>
+
+               <p>Ausser diesen beiden Bestellungen werden die hier anwesenden geehrten Mitglieder des Vereins schon auf der Ausstellung einige andere Bilder bemerkt haben, welche in der vorigjährigen Versammlung als noch nicht fertig angekündigt waren : die Beschützung der Töchter Reguels von den Herren Draeger aus Trier und Temmel aus Schlesien, eine Landschaft von Herrn Brüggemann und eine Ansicht des Römischen Forum vom Palatinischen Hügel aus vom Herrn Architecturmaler Schulz.</p>
+
+               <p>Vorzüglich aber freuen wir uns, heute den Erzguss des Gany- medes von Herrn Wredow zur Verloosung bringen zu können. Dies schöne Kunstwerk wird gewiss demjenigen, welchem es das Glück zufühn, um so erfreulicher seyn, als auch der Guss sich<pb n="6.554" xml:id="pbVI554"/> durch Leichtigkeit und so sehr durch Reinheit und Gediegenheit auszeichnet, dass er, so wie er aus der Form gekommen ist, un- ciseHn hingegeben wird. Eine solche Vollendung einer für die Sculptur so wichtigen Kunst konnte nur die Frucht unermüdeter einsichtsvoller Bemühungen seyn, das Beste, was das Ausland bis jetzt in dieser Art zu liefern vermochte, nicht bloss zu uns her zu verpflanzen, sondern zu übertreffen.<note type="footnote" n="*)" resp="gnd-116890657"><hi>V „umgiebt" verbessert aus „bewohnt".</hi></note></p>
+
+               <p>Eine bedeutende Anzahl den geehrten Mitgliedern des Vereins schon bekannter Bestellungen müssen wir als noch zurückgeblieben ankündigen. Herrn Meisters und Herrn Professor Krügers ^) Darstellungen aus dem letzten Kriege, Herrn Brüggemanns Verfolgung einer Griechischen Brigg und die Landschaften der Herren Helmsdorf und Nerly sind noch nicht vollendet. Der gleiche Fall ist es mit der Arbeit des Medailleurs Herrn Voigt, die Bändigung des Pegasus durch Bellerophon vorstellend. Herr Hübner hat uns den von ihm gewählten Gegenstand noch nicht bezeichnet, und von Herrn Philipp Veit sind wir ohne alle Nachricht über das uns früher versprochene Bild.</p>
+
+               <p>Herr Erhardt hat seine, in Folge der vierten in Rom ange- ordneten Preisbewerbung gekrönte Skizze: Moses, wie er aus dem Felsen Wasser schlägt, nunmehr ausgeführt. Das Bild kommt heute mit zur Verloosung. Von der sechsten Preisbewerbung, wo der Gegenstand den Künstlern freigelassen war, ist von acht eingelaufenen Skizzen eine, auch von Herrn Erhardt, angekauft worden. Sie stellt Moses vor, wie er während der Schlacht gegen die Amalekiter von Aaron und Hur unterstützt wird. (Exod. 17, 12.)</p>
+
+               <p>Eine neue Art der Preisbewerbung versucht das Directorium und der Künstlerausschuss im gegenwärtigen Jahre, und hofft, dass dieselbe sich eines glücklichen Erfolgs und des Beifalls der geehrten Mitglieder des Vereins zu erfreuen haben wird. Es sind nemlich die Bildhauer, welche für den Verein zu arbeiten geneigt seyn möchten, aufgefordert worden, mit kleinen Modellen von höchstens 18 Zoll Höhe zu Statuen oder Gruppen um den Preis zu concurriren. Der Preis ist auf 100 Thaler bestimmt; die Absicht aber des Gebrauchs der zu liefernden Arbeiten ist, das ge- krönte Modell in Erz giessen zu lassen und in dieser Gestalt zur</p>
+
+               <p>V Franz Krüger (1797— i8sj), Portrait- und Tiermaler, war Professor an der berliner Akademie der Künste.<pb n="6.555" xml:id="pbVI555"/> Verloosung zu bringen. Es war schon öfter in unsren Versammlungen zur Sprache gekommen, dass es dem Verein schwer werde, für die Sculptur thätig zu seyn. Das Hinderniss lag vorzüglich in der Kostbarkeit des Marmors und seiner Bearbeitung, und in der Grösse, welche Marmor - Bildwerke fast nothwendig haben müssen. Diese kann selbst durch die Schwierigkeit der Aufstellung in gewöhnlichen Privatwohnungen dem Gewinnenden unbequem werden. Auf dem jetzt gewählten Wege ist dies Hinderniss beseitigt; derselbe Hess sich aber freilich nicht eher einschlagen, als bis die Bronze-Arbeiten einen solchen Grad der Vollendung bei uns gewonnen hatten, und wir verdanken auch jetzt die Möglichkeit ihn zu verfolgen nur der gütigen Theilnahme des Wirklichen Geheimen Ober-Regierungsraths Herrn Beuth an unsrem Vereine.</p>
+
+               <p>Für eine spätere Verloosung sind, mit eigener Wahl des Gegenstandes, worüber jedoch dem Directorium vorher Anzeige gemacht werden muss, neue Bestellungen bei Herrn Lessing, Sohn, Hildebrand, Daege <note type="footnote" n="^)" resp="gnd-116890657"><hi>Adolf Henning fi8og—i88jJ, Historien- und Portraitmaler , war ein Schüler Wachs.</hi></note> und Henning'-) gemacht worden, ebenso auch bei Herrn Hübner, nach Vollendung seines noch rückständigen Bildes. Da alle diese Künstler den geehrten Mitgliedern des Vereins bereits längst bekannt sind, so bedarf es keiner Rechtfertigung des von dem Directorium und Künstler- ausschuss in sie gesetzten Vertrauens.</p>
+
+               <p>Aus der sogleich vorzulegenden Rechenschaft von den Einnahmen und Ausgaben des Vereins werden die hier anwesenden geehrten Mitglieder sehen, dass die Theilnahme an demselben sich nicht bloss erhalten, sondern sichtbar vermehrt hat. Wir zählen 339 im Laufe und grösstentheils in der letzten Hälfte des Jahres 1830. hinzugetretene neue Mitglieder. Es ist dies ein er- freulicher Beweis, dass auch die Ereignisse der Zeit unsrem Unternehmen die Aufmerksamkeit des Publicums nicht entwandt haben. Und in der That ist die Kunst vorzugsweise geeignet, nicht nur (denn dies wäre bloss eine Täuschung gewährende Unterbrechung) von zu ernsten Begebenheiten zerstreuend abzuV Eduard Daege (1805—1883), Historienmaler, war später Mitglied der berliner Akademie der Künste.<pb n="6.556" xml:id="pbVI556"/> ziehen, sondern auch dem Geiste gerade die Ruhe und Stärke zu verleihen, deren beider zugleich das glückliche und das wirk- same Leben bedürfen. In ihren, der Wirklichkeit fremden Regionen bietet sie dem Gemüth in jedem Augenblick eine sichere Freistätte dar; sie führt dasselbe zu der Höhe, wo das Zufällige sich scheidet von dem Wesentlichen und Ewigen in dem Daseyn der Mensch- heit, und obgleich ihr Gebiet nur ein Gebiet der Phantasie ist, so strömt daraus der Seele doch nicht minder, auch für das äussere und thätige Leben, Erhebung, Heiterkeit und Kraft zu.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,1705 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Die Griechensklavin</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Neunter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif09humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1912">1912</date>
+                  </imprint>
+                  <biblScope unit="page" from="93" to="151"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1822">1822</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="9.93" xml:id="pbIX93"/>
+            <p>9-</p>
+
+            <head>
+               <title type="main">Die Griechensklavin.</title>
+            </head>
+            <div type="section" n="1">
+               <head>
+                  <title type="main">Erster Gesang. Theodota.</title>
+               </head>
+               <p>Vom Schlachtruf plötzlich aufgewecket, den grässlich aus der Mund der Türken stiess, und der auch den, den wenig sonst erschrecket, nicht unerfasst von innrem Schauder liess, lief aus den Häusern, kaum mit Wehr bedecket, in Eil die Bürgerschaar Galaxidi's. Gelandet waren heimlich Feindeshaufen, die tosend schon durch alle Gassen laufen.</p>
+
+               <p>Die Dolche sind gezückt, die Schwerter klingen, man kämpft den schweren Kampf fürs Vaterland. Mit Wuth die Feinde in die Reihen dringen, doch die Hellenen eint ein ehern Band. Wie Ketten sich in Ketten gliedernd schlingen, so halten. Mann bei Mann, gedrängt sie Stand.</p>
+
+               <p>Handschriß (80 Quartseiten) irti Archiv in Tegel; unter dem Titel findet sich der Vermerk : „ Vermeh'te Umarbeitung in zehn Gesängen beendigt in Burg- örner im Junius, /&amp;2." Ebenda ist auch eine ältere, kürzere Fassung in einem Gesänge mit dem Titel „Theodota^' (2j Quartseiten) erhalten, deren Strophenbestand und Lesarten ich in den Anmerkungen unter der Bezeichnung A gebe.</p>
+
+               <p>I ^ I A. — 2 ^ 2 A.</p>
+
+               <p>I .^plötzlich furchtbar^'' A.<pb n="9.94" xml:id="pbIX94"/> 15 Sie kämpfen ja nicht für die eignen Leiber, für Heerd und Kind, und ihrer Jugend Weiber.</p>
+
+               <p>3Was hilft's? das Schicksal hat beschlossen, der Sieg soll nicht der Christenstreiter seyn! Die Feindesschaar trennt nicht sie, wild ergossen, 20 und nicht gelingt es ihr, sie zu zerstreun; allein ihr letztes Blut ist bald geflossen, und alle muthig sich dem Tode weihn. So deckt der Halm, vom Schnitter abgemähet, die Furche, wo der Sämann ihn gesäet.</p>
+
+               <p>4. 25 Nun in die Häuser dringen die Barbaren, und reissen von dem süssen Heimathsheerd der Weiber, und der Kinder bleiche Schaaren, sie treibend mit dem flach geschwungnen Schwert. Was männlich ist, unmündig auch an Jahren, 30 wird von dem Mordstahl unerbarmt verzehrt. Die Rohheit will, sie weihend schnöden Lüsten, der Weiber nur, und Mädchen Leben fristen.</p>
+
+               <p>5Gebunden werden diese dann mit Stricken im Raum der Schiffe grausam</p>
+
+               <p>Paar an Paar, 35 da liegen sie mit schmerzverweinten</p>
+
+               <p>Blicken, mit aufgelöstem, struppig staubgem</p>
+
+               <p>Haar, gebückt geschmiegt die nicht mehr freien</p>
+
+               <p>Rücken unter die Sitze der verruchten</p>
+
+               <p>Schaar.</p>
+
+               <p>Mit dieser wildergossnem</p>
+
+               <p>Siegeshöhnen 40 mischt sich ihr bang verhallend</p>
+
+               <p>Jammerstöhnen.</p>
+
+               <p>6.</p>
+
+               <p>Schnell rudernd glitt auf nassem Wellenpfade dahin das Kriegsgeschwader, stark bemannt. Es grüsseten mit heisser Thränen Bade die Weiber, scheidend, ihrer Heimath Land, ji. j2 „Die Weiber nur und Mädchen, ohne Säumen, die Wilden bergen in der Schiffe Räumen" A.<pb n="9.95" xml:id="pbIX95"/> 45 und rings Morea's nackte Felsgestade; sie sahn sie nicht, in Schilles Grund gebannt, aus dem Gespräche nur der stolzen Menge vernahm ihr Ohr der süssen Namen Klänge.</p>
+
+               <p>7Du, um des Lebens schönstes</p>
+
+               <p>Glück betrogen, 50 wo liegest einsam du, Theodota?</p>
+
+               <p>Ihr Sohn beschiffet kämpfend ferne Wogen, den Mann 2ur Gruft gesenkt ihr Auge sah, der Töchter Zahl war weit, vermahh, gezogen; so war kein theures Haupt ihr leidend nah. 55 Auch netzten ihre Wangen keine Thränen, es band die Brust ein wechslend Schmerzenssehnen,</p>
+
+               <p>8.</p>
+
+               <p>Denn ach! zu andren schön umkränzten Hügeln, weit von der Heimath jetzt verlassnem Ort, trägt heimlich oft auf leichtbeschwingten Flügeln öo die Luft die Seufzer ihres Busens fort.</p>
+
+               <p>Was kann der Jugendliebe Streben zügeln, die kennt nur Einen, Einen Lebensport, und in des Herzens stets vergebnem Bangen kann nimmer zu dem Einen hingelangen?</p>
+
+               <p>965 Aufs neue schwimmt, von des Geschicks Gewalten sie umgetrieben, auf unsichrem Meer. Wie wird des Zufalls Hand ihr Loos entfalten? Nur Wind und Welle sind rings um sie her, an jeder Küste kann das Schiff ja halten, 70 an jener auch, an welcher weilet Er.</p>
+
+               <p>Wird, denket sie, für mich sein Herz noch schlagen, die nur er sah fast in der Kindheit Tagen?</p>
+
+               <p>10.</p>
+
+               <p>Erst dreizehn Sommer damals mich umschwebten, verschwunden sind seitdem nun zwanzig Jahr.</p>
+
+               <p>j = 6A. — 8=jA. — g = 8A. — lo^gA.</p>
+
+               <p>^0 „trauerst'^ A. — 72 „er nur'' A.<pb n="9.96" xml:id="pbIX96"/> 75 O Tag, an dem die Knie mir zitternd bebten, wo, bang den Brautschwur stammelnd am Altar, dem laut entgegen die Gefühle strebten, ich schwor, mit opfergleich geschmücktem Haar. Da sah den Theuren ich zum letztenmale, 80 und sonnte mich an seiner Augen Strahle.</p>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">II.</title>
+               </head>
+               <p>Doch aus lässt kaum sie den Gedanken sprechen, und klagt sich selber an verletzter Pflicht.</p>
+
+               <p>Das Vaterland mög' an mir blutig rächen mein eigner Sohn in strafendem Gericht ! 85 Wie könnt' ich heiige Pflichten frevelnd brechen, und sündhaft lieben jenen, hassen nicht, der, mit dem Heer verbunden der Osmanen, bekämpft der frommen Christen Kreuzesfahnen?</p>
+
+               <p>12.</p>
+
+               <p>So auf und nieder wogten die Gefühle, 90 so lang das Meer durchschnitt der Ruder Schlag.</p>
+
+               <p>Doch mit des Grabes schaudervoller Kühle erfasste sie des Landens grauser Tag. Die Küste war es nicht, die, im Gewühle der Regungen, im Traum der Hoffnung lag; 95 zum Kauf gestellt in rohem Marktgedränge, ward sie beschaut von gierger Käufer Menge.</p>
+
+               <p>13.</p>
+
+               <p>Die Sklavin Jussufs bist du, Weib, geworden! ertönet ihrem Ohr der Schreckenslaut.</p>
+
+               <p>O! leicht ist's, seufzt sie, Menschenglück zu morden, 100 doch schwer und überschwer wird's aufgebaut. Und fortgetrieben von den wilden Horden, nun Thränenflut die Wangen reich bethaut. Wer wird aus dieser Knechtschaft schmähigen Ketten ihr Jammerloos je, freundlich hülfreich, retten?</p>
+
+               <p>II = 10 A. — /2 = // A. — 13 ^= ^2 A.</p>
+
+               <p>77 „bebten" (nach A verbessert). — 8^ „kann" A. — g6 „harter'^ A</p>
+
+               <pb n="9.97" xml:id="pbIX97"/>
+               <p>14. 105 In einem Thal, unfern Larissa's Mauern, muss leben sie im harten Sklavenstand, im sauern Frohndienst aus die Tage dauern bei schlechter Kost, in ärmlichem Gewand, und geisselschwingend harte Treiber lauern, "o scharf züchtigend mit unbarmherzger Hand. Es dienten mit ihr viel der andren Weiber, einst frei, jetzt tief verschmähte Sklavenleiber.</p>
+
+               <p>Um auszuruhen von des Kriegs Beschwerden, kam Jussuf auf dem stillen Landsitz an, 115 und wie er musterte die Sklavenheerden, gleich Schrecken bleich durch Aller Glieder rann. Denn furchtbar war an Minen und Geberden der eisenfeste, mitleidlose Mann. Auf seiner Stirne stand mit blutgen Zügen, 120 dass Alles muss sich seinem Willen fügen.</p>
+
+               <p>16.</p>
+
+               <p>Als einst er will sein muthig Ross besteigen, und schon den Boden stampft das edle Thier, ruft er: es soll den feilen Nacken beugen im Staub mir eine Christenhündin hier! 125 Ich will den Niederen, Verworfnen zeigen, dass, über alle Völker herrschend, wir, die zum erhabenen Propheten beten, wie's uns gefällt, sie, wie den W^urm, zertreten.</p>
+
+               <p>17Er spricht's, und gleich winkt drohendes Befehlen 130 Theodota'n, der stillen Dulderin.</p>
+
+               <p>Die Thränen bang sich aus dem Aug' ihr stehlen, doch schon gebrochen war der Freiheit Sinn,</p>
+
+               <p>14 = ij A. — 15 = 14 Ä..</p>
+
+               <p>log. 110 „am schwülen Sommertag , bei Regenschauern im Schweiss bebauen, schwer gebückt, das Land" A. — /// „viele mit ihr der Gespielen'' A. — 112 „die auch, wie sie, in gleiches Elend ßelen^^ A.</p>
+
+               <p>W. V. Humboldt, Werke. IX. 7<pb n="9.98" xml:id="pbIX98"/> sie kann nur demuthvoll Gehorchen wählen, und rollt zur Erde, wie ein Knaul, sich hin. 135 Da auf des armen Weibes starken Rücken steigt er, und schaut sich um mit Trotzes Blicken.</p>
+
+               <p>18.</p>
+
+               <p>So bleibt er stehn. Das feste Kreuz ihr schwanket, sie stöhnet unter des Gebieters Last, doch festgestemmt sie weichet nicht, noch wanket. 140 Es bäumt der Hengst, von Ungeduld erfasst,</p>
+
+               <p>Jussuf stampft mit dem Fuss, und schilt, und zanket ob seines Rosses ungeduldger Hast. Gesättigt dann am stolzen Zeitvertreibe, schwingt sich empor er von des Weibes Leibe. 145 Sie rafft sich auf, und wie er fort schon sprenget, stürzt sie ihm nach, dass laut ihr Busen keucht, doch ruht sie nicht, bis, an das Pferd gedränget, sie seines Fusses Spitze dicht erreicht; da küssend sie im Laufe an ihr hänget; 150 doch nichts sein felsenhartes Herz erweicht. Er stösst sie fort, nur als zurück sie gehet, er dreimal um nach ihr die Blicke drehet.</p>
+
+               <p>20.</p>
+
+               <p>Als er sich drauf zu kehren vorgenommen, wo Heldenmuth mit wilder Rohheit kriegt, 155 lässt er das Weib am Abend vor sich kommen. In stolzer Ruh er hingegossen liegt; ihr wallt empor der Busen, schwer beklommen, denn schwarze Ahndung durch das Herz ihr fliegt. Sie steht mit auf der Brust gekreuzten Armen i6o gebückt vor ihm, als flehte sie Erbarmen.</p>
+
+               <p>ig = i^ A. — 20 ^ 16 A.</p>
+
+               <p>14^ — 15/ „Wie er nu\i führet dort ein üppig müssig Lebeii, und stets die Schaar der Weiber um sich sieht, scheint bald den Vorzug sichtbar er zu geben Theodota'n, so sehr sie scheu ihn mied. Er lobet oft ihr emsig dienend Streben, und wie sie mit Verstand und Kraft sich müht; und wo sie nur erscheint, wo steht, wo gehet'^ A. — 1^2 „er aufmerksam^^ A.</p>
+
+               <pb n="9.99" xml:id="pbIX99"/>
+               <p>99 21.</p>
+
+               <p>Er forscht nach Aher, Kindern, Vaterlande, und hört sie an mit schweigender Geduld. Sie schliesst: jetzt da mich drücken Knechtschaftsbande, fleh' ich um Gnade, Herr, dich an, und Huld. 165 Nichts bieten kann ich dir zum Unterpfande von meiner Treu, doch bin ich rein von Schuld. Nicht reizen kann ein Weib, wie ich, verblühet, doch Pflicht ist's, dass sie sich in Arbeit mühet.</p>
+
+               <p>22.</p>
+
+               <p>Er sprach : das Unterpfand von deiner Treue, 170 Verworfne, ist die Geissei, und das Schwert.</p>
+
+               <p>Nie sey's, dass meiner Huld dein Herz sich freue. Vollbringen musst du, was mein Wort begehrt, sonst fühlen sollst du, Weib, mit bittrer Reue, dass kein Erbarmen meine Seele nährt. 175 Ins Lager sollst du morgen mich begleiten, und dich zum Magdesdienst bei mir bereiten.</p>
+
+               <p>23Sie sprach : in deiner Hand steht, Herr, mein Leben, du winkst, und Martern dringen auf mich ein. Dein Wort durchzückt mein Innerstes mit Beben, 180 wie wagt' ich, ungehorsam dir zu seyn? Zu hoch willst deine Sklavin du erheben, dass sie sich deiner Nähe soll erfreun.</p>
+
+               <p>Nur hängen stets will ich an deinen Minen, und was der Glieder Kraft vermag, dir dienen.</p>
+
+               <p>24. 185 Dann kroch sie sklavisch hin zu seinen Füssen, und küsste schluchzend seiner Sohlen Staub. — Gewiss, der Freiheit Seufzer selbst zu büssen, gerechtem Flehn zu finden jeden taub,</p>
+
+               <p>2/ = 77 A. — 22 = 18 A.</p>
+
+               <p>16". 168 „Nicht will ich Arbeit dir, und Mühe ßiehen, darf ich mir still mein Joch, und einsam ziehen"' A. — /70 ,,ist, wiss' es, meine Macht, und dieses'' A. — ^73 i4^ bald" A. — 176" „Sklavendienst'' A.</p>
+
+               <pb n="9.100" xml:id="pbIX100"/>
+               <p>sich hörend täghch nur mit Flüchen grüssen, 190 der Tirannei ein stets bereiter Raub, war dieses arme Volk, gequält, verhöhnet, sich knechtisch zu erniedern lang gewöhnet.</p>
+
+               <p>25Vor allen lebt' in Todesangsterbeben der unglückseigen Weiber Jammerschaar ; 195 da ihrer Männer, Kinder, Eltern Leben sie sahn in ewig drohender Gefahr um ihrer rohen Herrscher Launen schweben, so galt kein Stolz, nichts blieb, als immerdar ein Menschheit tief entehrend kriechend Schmeicheln, 200 und Dankbarkeit für Grausamkeiten heucheln.</p>
+            </div>
+
+            <div type="section" n="3">
+               <head>
+                  <title type="main">Zweiter Gesang.</title>
+               </head>
+               <p>Jussuf.</p>
+            </div>
+
+            <div type="section" n="4">
+               <head>
+                  <title type="main">I.</title>
+               </head>
+               <p>Der Sonne Morgenstrahl noch nicht erhellte der fernesten Gebirge dunkeln Saum, da hielt, den Herrn erwartend vor dem Zelte, das Weib das Ross schon an dem goldnen Zaum.</p>
+
+               <p>Er kam, bestieg's, und gleich sich ihm gesellte die Schaar, nachfolgend ihm in weitem Raum. Zu Fuss muss dicht das Weib beim Pferde traben, dass er zu jedem Dienst sie gleich kann haben.</p>
+
+               <p>2.</p>
+
+               <p>Bald etwas muss sie auf dem Weg bestellen, bald dies und iens ihm nehmen aus der Hand, bald mit dem Schild, wenn müd' an Baches Wellen er ruht, ihn schützen vor der Sonne Brand, bald Wasser holen ihm aus fernen Quellen,</p>
+
+               <p>I ^=^ ig A. — 2 ^ 20 A.</p>
+
+               <p>201 „kaum" A. — 202 „lichten" A. — 206 „Schaar" verbessert aus „Reuter- schaar" A. — 207. 208 „Sie muss dem Pferde bleiben dicht zur Seite, dass sie sich gleich zu jedem Dienst bereite" A.</p>
+
+               <pb n="9.101" xml:id="pbIX101"/>
+               <p>bald leiten ihm das Ross am Felsenrand. 215 Sie leistet jedes treu und unverdrossen, und hält dem Seufzer selbst die Brust verschlossen.</p>
+
+               <p>3.</p>
+
+               <p>Sie wischt den Schweiss sich von den glühnden</p>
+
+               <p>Wangen, und nach und nach ermattet ihre Kraft, die Füsse hat sie blutig sich gegangen, 220 doch, wie sie säumt, treibt sie der Lanze</p>
+
+               <p>Schaft, die matten</p>
+
+               <p>Glieder endlich</p>
+
+               <p>Ruh verlangen, doch Ruh der Armen nur die Nacht verschafft, und zitternd siehet sie die Sonne scheiden:</p>
+
+               <p>Wie soll ich, seufzt sie, Grässliches da meiden?</p>
+
+               <p>4-</p>
+            </div>
+
+            <div type="section" n="5">
+               <head>
+                  <title type="main">225</title>
+               </head>
+            </div>
+
+            <div type="section" n="6">
+               <head>
+                  <title type="main">Wenn</title>
+               </head>
+               <p>diese Arme müssen ihn umranken, wenn herrisch er verlangt der Sklavin Pflicht!</p>
+
+               <p>Nicht Martern mir zu wählen würd' ich schwanken, die grässlichsten, mit kühnem Angesicht verlassen des Gehorsams niedre Schranken, 230 allein, o grosser Gott, das rettet nicht.</p>
+
+               <p>Sah nicht ich Preis gegeben schnöden Knechten die Sträubenden, die die Gebundnen schwächten?</p>
+
+               <p>5O du, den unsichtbar ich trag' im Herzen, schon einmal ich die Treu dir, Theurer, brach, 235 als mich dem Gatten zu, beim</p>
+
+               <p>Schein der Kerzen, die Eltern führten in das Brautgemach.</p>
+
+               <p>Der Pflicht da opfert' ich mich, und mit Schmerzen, die niemand misst, kam dem Gelübd' ich nach.</p>
+
+               <p>Jetzt der Gewalt sollt' ich zum Opfer fallen? 240 Ach ! kann denn niemals frei der Busen wallen</p>
+
+               <p>?</p>
+
+               <p>Gespornet von des Kriegs gewaltgen Sorgen hält Jussuf an erst beim Beginn der Nacht,</p>
+
+               <p>^ ^ 21 A. — 5 = 22 A. — 6 = 2^ A.</p>
+
+               <p>21S „nach allmählich lässt der Füsse'^ A. — 2/9 „irn Sonnenbrand ist sie den Tag" A. — 220 „und fühlet Miith und Körperstärk erschlafft'^ A.</p>
+
+               <pb n="9.102" xml:id="pbIX102"/>
+               <p>und ordnet an den Aufbruch vor dem Morgen. Zum Schlaf sinkt Herr und Tross. Das Weib nur wacht, 245 sie muss allein für alle Rosse sorgen, und nur für sie wird nicht an Ruh gedacht. Doch glücklich so noch! andre Schrecken drohten, zu sich auch hatte Jussuf sie entboten.</p>
+
+               <p>7Die bleichen</p>
+            </div>
+
+            <div type="section" n="7">
+               <head>
+                  <title type="main">Wangen</title>
+               </head>
+               <p>nass von heissen</p>
+
+               <p>Zähren, 250 erduldet sie der Knechtschaft härtstes</p>
+
+               <p>Loos, nicht Täuschung kann sie mehr im Busen nähren, erfahren hat ihr unglückseiger Schooss, dass nichts die Sklavin darf dem Herrn verwehren am Leib, der ihm gehöret nackt und bloss. 255 Die Arme haben ihn umschlingen müssen, gehorsam ihn die Lippe zitternd küssen.</p>
+
+               <p>Was kümmert seine Brust des Weibs Empfinden? Ihn drücket mächtiger Gedanken Last. Den Ausgang aus dem grossen Krieg zu finden, 260 lässt seinen glühnden Sinnen keine Rast. Sie augenblicklich in Genuss zu binden, greift nach der niedren Sklavin er in Hast, der er die Luft ja gönnet nur zu hauchen, dass er als blindes Werkzeug sie kann brauchen.</p>
+
+               <p>9265 Und nöthgend so ist seiner Brauen Winken,</p>
+
+               <p>Gehorsam fordernd so sein Machtgebot, so herrschend seiner stolzen Stirne Blinken, sein Arm so sicher greifend, gleich dem Tod, so fest der heissen Sinne Wollusttrinken, 270 dass, trotz des Herzens tiefster Jammersnoth, der Gruft ein Todter eher sich entwände, als seinem Wort die Sklavin widerstände.</p>
+            </div>
+
+            <div type="section" n="8">
+               <head>
+                  <title type="main">8 = 24 A.</title>
+               </head>
+               <p>262 „er nach flüchtgem Reiz in blinder" A. — 26J. 264 „aus den Gefahren, die ihn rings umdräiien, die Wolken schwarzer Ahndung zu zerstreuen" A.</p>
+
+               <pb n="9.103" xml:id="pbIX103"/>
+               <p>10.</p>
+
+               <p>Im Lager, in des Waffenklanges Mitte wird unerhört der Dienst Theodota's. 275 Kein Schonen gih, die harte Kriegessitte ist unbekümmert um der Kräfte Mass.</p>
+
+               <p>Das arme Weib wagt keiner Silbe Bitte, auf Jussufs ehrner Stirn sie furchtbar las: und solltst. Verworfne, mit dem Tod du ringen, 280 miisstest du sterbend noch mein Wort vollbringen.</p>
+            </div>
+
+            <div type="section" n="9">
+               <head>
+                  <title type="main">II.</title>
+               </head>
+               <p>Des Waldgebirges Höh muss sie erklimmen, geheim der Feinde Haufen auszuspähn, durch breite Ströme, wogenkämpfend, schwimmen, im Schlachtgewühl mit Jussufs Ross sich drehn, 285 hinstürzen durch der Feinde drohnde Stimmen, wo fern sie siehet seinen Rossschweif wehn, ihm frische Pfeile bald, bald Lanzen bringen, bald helfen auf ein neues Pferd ihm springen.</p>
+
+               <p>12.</p>
+
+               <p>Sie wandert immerdar in Todsgefahren, 290 doch unerschüttert bleibt ihr sichrer Muth, wehrlos beut sie die Brust den Kriegesschaaren, und schreitet kühn durch Leichen, Mord und Blut, durch Schnelle sucht sie sich, durch List zu wahren, doch fehlet nie, wo Jussuf noth sie thut. 295 Was ist der niedren Sklavin elend Leben, kann sie es hin für den Gebieter geben?</p>
+
+               <p>13Sich immer also hätte sie entwunden des Feindes gierig ausgestreckter Hand. Doch die an fremden Willen ist gebunden, 300 wird, ohne ihre Schuld, oft übermannt.</p>
+
+               <p>So gieng es ihr; im Dunkel nächtger Stunden, in ihrer Knechtschaft mühevollstem Stand,</p>
+
+               <p>10 = 2S A. — // = 26 A. — 12 = 27 A.</p>
+
+               <p>28s „Stimmen" verbessert aus „Schaaren". — 295. 2g6 ,,Da das Geschick in Knechtschaß sie gegeben, geht ihr die Pßicht weit über irrdisch Leben" A.</p>
+
+               <pb n="9.104" xml:id="pbIX104"/>
+               <p>ward sie an des Tyrannen eigner Seite, durch seinen Argwohn selbst, des Feindes Beute.</p>
+
+               <p>14. 305 Auf schlauem Kriegszug wollte Jussuf dringen durch ein Gebirg, das war in Feindes Macht, um in ein Thal des Krieges Schwert zu bringen, wo niemand war auf Gegenwehr bedacht.</p>
+
+               <p>Mit wenig Mannschaft hofft' er zu bezwingen 310 die armen Wohner, welche, unbewacht, sich sicher wähneten in tiefem Frieden, weil sie die Ihren von dem Halbmond schieden.</p>
+
+               <p>15Als nach des ersten Tags eilfertger Reise, wo, schweissbedeckt, das Weib, und athemlos 315 vorm Ross gekeucht, sie, nach gewohnter Weise, und wie es mit sich bringet Sklavenloos, besorget Ross und Mann, schlich sie sich leise hin durch der Krieger Reihen, die im Schooss des Schlafes auf des Bodens Rasen lagen, 320 zu Jussufs Zelt zu neuen nächtgen Plagen.</p>
+
+               <p>16.</p>
+
+               <p>Sie schauet auf mit nassgeweinten Blicken zum luftig ausgespannten Sternenzelt. Wann, seufzt sie, wirst du huldreich mich entrücken, du, Allbarmherzger! dieser Jammerwelt? 325 Und wieder, soll des Todes Streich mir zücken, eh' mich im Arm der Ewigtheure hält? — Doch glaubt sie nur, wozu sie schien entboten, zu gehn, nicht ahndend neue Schicksalsknoten.</p>
+
+               <p>17So wie ein Pantherthier in Käfigs Enge 330 geht, ewig sich umwendend, her und hin, so schritt in wilder Waffennoth Gedränge Jussuf im Zelt in rasch bewegtem Sinn, Theodota warf mit des Körpers Länge zum Boden sich, sprach: dass ich fertig bin,<pb n="9.105" xml:id="pbIX105"/> 335 komm' ich dir meldend, Herr, im Staub gebeuget! und schwieg, das kummerschwere Haupt geneiget.</p>
+
+               <p>Lang lässt er so die Arme achtlos liegen, dann plötzlich schallts: her! elendes Gezücht! und schreckenbleich muss sie zum Lager (liegen 340 zu leisten, ohne Murren, ihre Pflicht.</p>
+
+               <p>Die Glieder furchtsam sich dem Dienste schmiegen, der Arme Paar den Wütrich treu umflicht.</p>
+
+               <p>So muss, besiegt von seinem Herrscherwillen, der Sinne Glut sie lassen an sich stillen.</p>
+
+               <p>19- 345 Schon, als er von sich stösst sie mit den Füssen, wie sonst, sie vor das Bett in Staub sich streckt, damit, wie er die Lust will wieder büssen, sein Ruf sie aus dem leichten Schlaf gleich weckt, als fluchend sie sich hört aufs neu begrüssen, 350 und neue Drohung sie, betäubend, schreckt: Willst, Hündin, du dem Schlafe träge fröhnen, sollst gleich du unter Geisseihieben stöhnen.</p>
+
+               <p>20.</p>
+
+               <p>Und schon umschwirrt das Werkzeug ihren Rücken; da reisst empor sie rasch sich auf die Knie, 355 und fleht: o, lass nur jetzt Erbarmen blicken, wenn auch dein Mund mir niemals sonst verzieh !</p>
+
+               <p>Mich still nur wollt' ich an den Boden drücken, und harrn, ob deiner Lipp' ein Wort entflieh. Sonst will ich gern nicht Rast, noch Ruhe schmecken, 360 bis sich zum Tod die matten Glieder strecken.</p>
+
+               <p>Nur niedre Sklavin bin ich, muss, zertreten von deinem Fuss, mich krümmen, wie der Wurm, und noch um Sieg für dich zum Himmel beten, wenn losgelassen ist der Feldschlacht Sturm.</p>
+
+               <p>&gt;4o „ihre^' verbessert aus „die ver/iasste".<pb n="9.106" xml:id="pbIX106"/> 365 Wie Unkraut, willst mein Volk du, Mächtger, jäten, und wenn der Halbmond glänzt von jedem Thurm, und du nicht mehr kannst meine Treue brauchen, wird auch mein Blut an deinem Schwerte rauchen.</p>
+
+               <p>22.</p>
+
+               <p>Drum sprich, befiehl, gebeut, ich will anspannen 370 das Mass der Kräfte, ohne Ruh, noch Rast, die Mattigkeit der armen Glieder bannen, fortwälzen Tag und Nacht der Arbeit Last, und noch zu deinem Dienst mich, Herr, ermannen, wenn sterbend mich des Todes Schauer fasst. 375 Still seufzet sie mit thränennassen Wangen: o möchte nie er Anderes verlangen!</p>
+
+               <p>23Er sprach: hin auf des Waldes Felsenpfaden musst augenblicklich, Weib, du wieder fort, ausspähen jedes, was mir könnte schaden, 380 und bringen mir der Kundschaft sichres Wort. In deinem Blut will ich die Geissei baden, wenn nicht zurück am Mittagsruheort, wenn ich herab vom treuen Ross will steigen, du kannst mir deinen Sklavenrücken beugen.</p>
+
+               <p>24. 385 Und kommen musst du jenseits bis zum Thale, das ich mit rauhem Krieg will überziehn, doch eh der Pflüger löst zum Mittagsmahle die Stiere, die in Pfluges Joch sich mühn, seyn oben wieder, wo aus voller Schale 390 der Felskluft Ström' und Bäche abwärts fliehn. Und jegliche versäumete Minute, merk's wohl! zahlst du mit deines Rückens Blute.</p>
+
+               <p>25Und dass nicht möge dich Gewalt erreichen, geb' ich dir dieses Mordstahls spitzge Wehr; 395 verbirg im Gürtel ihn, wo feindlich Zeichen du siehst, lass niedersinken gleich ihn schwer.</p>
+
+               <pb n="9.107" xml:id="pbIX107"/>
+               <p>Sinds einer, zwei, so müssen sie erbleichen von deiner Hand, sonst gieb den eignen Busen her. In deinem Herzblut musst du ihn umwenden, 400 eh treulos du dich giebst des Feindes Händen.</p>
+            </div>
+
+            <div type="section" n="10">
+               <head>
+                  <title type="main">Dritter Gesang.</title>
+               </head>
+               <p>Der Argwohn.</p>
+
+               <p>Gegangen war das Weib, und schwer von Sorgen bestürmten wilde Träume Jussufs Brust.</p>
+
+               <p>Als auf dem eilgen Marsch am andren Morgen er dann erzählt, wie fort das Weib gemusst, 405 um Kundschaft auszuspähn im Wald verborgen, und wie er sey sich ihrer Treu bewusst, da raunten Argwohn All' ihm in die Ohren, und kein Wort gieng der Boshaften verloren.</p>
+
+               <p>2.</p>
+
+               <p>Du sendest die verrätherische Schlange, 410 sprach einer, selbst, Herr, zu dem Feinde hin, dass Kunde unsres Zugs zu ihm gelange, und er uns Überfall' in tückschem Sinn. Es lügt ihr Wort, die Thräne ihrer Wange, sie opfert hin uns eigenem Gewinn. 415 Da frech gebuhlt sie, Herr, mit deiner Stärke, verkauft sie dich zum Lohn der schnöden Werke.</p>
+
+               <p>3Ein andrer sprach: sie wird sich schlau wohl hüten zu kommen, wohin ihr dein Wort befahl.</p>
+
+               <p>Der geil Verschmitzten spriessen neue</p>
+
+               <p>Blüthen 420 im Feindeslager, in das sie sich stahl.</p>
+
+               <p>Dort nun verlacht sie dein ohnmächtig Wüten, und lasset dir die sorgenschwere Wahl, ob du willst ab vom kühnen Vorsatz stehen? ob wissentlich in List und Schlingen gehen?</p>
+
+               <pb n="9.108" xml:id="pbIX108"/>
+               <p>4425 Nein, rief ein dritter, nicht wird sie ausbleiben, da seyn, und rollen kriechend sich in Staub, als friedlich, jeden Pfad und Steg beschreiben, und liefern uns den Ihrigen zum Raub. Sie ist nicht furchtsam, liebt waghalsig Treiben, 430 erzittert nicht, wie schwaches Espenlaub.</p>
+
+               <p>Wenn hart auch unsre Geissein sie zerfetzten, kaum Thränen die gepressten Lippen netzten.</p>
+
+               <p>5Das Weib, vom Augenblick, wo sie umfassen des Waldes</p>
+
+               <p>Dunkel still um Mitternacht, 435 ist, ohne Ruh sich je, noch</p>
+
+               <p>Rast zu lassen, auf ihren</p>
+
+               <p>Auftrag aufmerksam bedacht.</p>
+
+               <p>Des Todes</p>
+
+               <p>Mattheit liegt auf ihren blassen, erstorbnen</p>
+
+               <p>Wangen, doch sie läuft, und späht, und wacht,</p>
+            </div>
+
+            <div type="section" n="11">
+               <head>
+                  <title type="main">kommt</title>
+               </head>
+               <p>in das Thal, umschleicht es in der Runde, 440 und ist am Gipfel zur bestimmten</p>
+
+               <p>Stunde.</p>
+
+               <p>6.</p>
+
+               <p>Sie sank ins Gras; o Gott! die hier so triefet am ganzen Leib, seufzt sie, von glühndem Schweiss, die laufen musste, als ihr ruhig schliefet, für euch im Wald auf ihres Herrn Geheiss, 445 dass auf dem Weg, den mühvoll sie geprüfet, sich sicher euer stolzes Herz nun weiss, der werdet ihr mit schnödem Undank lohnen, und mit der Geissei kaum der Armen schonen.</p>
+
+               <p>7Das ist der Sklavin</p>
+
+               <p>Loos, von ihren rüstgen</p>
+
+               <p>Armen 450 wollt ihr bedient, besorgt in Arbeit seyn, an ihrer Brust, o grässlich ! Nachts erwarmen, mit ihrem Leibe soll sie euch erfreun, und wenn sie, händeringend, fleht Erbarmen, wollt unerbittlich ihr ihr nie verzeihn. —</p>
+
+               <p>44^ Jaufen tmisste" verbessert ans „musste laufen''^<pb n="9.109" xml:id="pbIX109"/> 455 Doch es ertönt der Hufschlag ihrer Rosse, rasch auf, entgegen ihrem rauhen Trosse !</p>
+
+               <p>8. In Einem Nu hält er des Rosses Zügel, und stürzt das Weib zum Boden tief gebückt. Er springt, als liehe ihm der Unmuth Elügel, 460 am Speer, den auf den Nacken er ihr drückt, berührend nicht einmal des Sattels Bügel, auf sie, sie liegt geduldig, unverrückt.</p>
+
+               <p>Zäum' ab das Ross, und kehre, Hündin, wieder! ruft er, und wirft ins Gras sich zornig nieder.</p>
+
+               <p>9465 Und schon erschallen um ihn leise Stimmen:</p>
+
+               <p>Es ist, wie wir gesagt, die Heuchlerin ist da, den Busen sorglos uns zu stimmen, und uns zu ziehn in das Verderben hin! Und lodernder entbrennet Jussufs Grimmen, 470 obgleich er war noch zweifelhaft im Sinn. Doch schuldig, oder schuldlos soll sie zittern, und furchtbar will ihr Loos er ihr verbittern.</p>
+            </div>
+
+            <div type="section" n="12">
+               <head>
+                  <title type="main">[O.</title>
+               </head>
+               <p>Das Weib hat schon an seiner Füsse Stampfen, als sie im Staub lag unter seiner Last, 475 den Zorn erkannt, eh seiner Nüstern Dampfen sie sah, und sie des Blickes Flammen fasst. Angst und Entsetzen ihr das Herz umkrampfen, sie sorget für das Ross in eilger Hast. Dann seufzt sie: hin! wo wird der Sturm ausbrechen, 480 den nur kann niedres Sklavenkriechen schwächen.</p>
+
+               <p>1 1.</p>
+
+               <p>Doch mit verhaltnem Grimm er vor sich stehen sie Hess, und hörte sie geduldig an. Sie sprach: seitdem du hiessest, Herr, mich gehen, bergauf, bergab ich unablässig rann. 485 Doch habe nichts ich Feindliches gesehen, mit Wahrheit dies mein Mund verbürgen kann.</p>
+
+               <pb n="9.110" xml:id="pbIX110"/>
+               <p>Des Berges Kamm ist frei, nur auf der Seite schwärmt noch der Feind, die du erstiegest heute.</p>
+
+               <p>12.</p>
+
+               <p>Und wie, sprach Jussuf, ward dir dessen Kunde? 490 da nicht ihn selbst dein spähend Aug' erblickt. Sie sprach: heut in des Morgens sechster Stunde hört' ich Geräusch, ich schlich mich leis', gebückt, den Odem haltend im verschlossnen Munde, heran, und sah zwei Kinder, die geschickt, 495 um Gras zu holen, von den Eltern waren; die sagten mir von jenen Kriegesschaaren.</p>
+
+               <p>13Du sahst zwei Kinder, niederträchtge Dirne, und hessest frei sie, und lebendig ziehn? Und wagst dies zu gestehn mit frecher Stirne, 500 und glaubst, du werdest meiner Räch' entfliehn? O, dass mir in von Gott verbranntem Hirne zu spät der Wahrheit klares Licht erschien! rief Jussuf wild: warum den Dolch nicht tauchtest du in ihr Blut, den du zu ziehn nur brauchtest?</p>
+
+               <p>14. 505 Von dem Gedanken schon so blutger Thaten geschreckt, rang mit dem Wort, entsetzensbleich, das Weib. Ich wusste nicht mir schnell zu rathen, so stammelt sie, und Weiberherz ist weich; erbarm dich gnädig, Herr! — Nein! langsam braten, 510 rief aus der Krieger Schaar, lass hier sie gleich! Ihr Stammeln gnügt, die Schuldge zu verkünden, wir wollen gleich die lichten Flammen zünden.</p>
+
+               <p>Doch Jussuf unterbrach das laute Toben: die Züchtigung, die auf dein Haupt sich senkt, 515 sey bis nach diesem Feldzug aufgeschoben. Allein wie Wetterwolke düster hängt, von luftgem Sturme nur emporgehoben, und zehnfach schmettert, schlägt, und brennt, und sengt,<pb n="9.111" xml:id="pbIX111"/> so soll die Marter auch dein Fleisch durchwühlen, 520 und mir den glühnden Durst der Rache kühlen.</p>
+
+               <p>16.</p>
+
+               <p>Und bis der Büssung Tage dir erscheinen, soll auf dir lasten centnerschwere Zucht.</p>
+
+               <p>Die Augen sollen blutge Thränen weinen, und nirgends Rettung bleiben dir, noch Flucht, 525 bis du in Todesfoltern mit den Deinen schmeckst des V^errathes überbittre Frucht. Ich Thor, dass ich mit Huld noch dein geschonet, die jetzt mir so mit schwarzem Undank lohnet.</p>
+            </div>
+
+            <div type="section" n="13">
+               <head>
+                  <title type="main">n-</title>
+               </head>
+               <p>Die Hände lässt er ihr in Ketten legen, 530 die sind gemacht an seinem Sattel fest.</p>
+
+               <p>Fort muss sie wieder auf den Felsenwegen, von Mattigkeit erschöpft, von Schweiss durchnähst, doch wie sich säumiger die Glieder regen, wie strohhalmbreit sie nur den Pfad verlässt, 535 muss sie aus Armes Kraft den Speer gleich fühlen; sie weinet still, und trägt die blutgen Schwielen.</p>
+
+               <p>18.</p>
+
+               <p>Je mehr entathmet ihr der Busen keuchet, je härter trift sie ihres Treibers Arm, dem Mitleid nicht das Felsenherz erweichet, 540 dem Spott und Tand sind Weibergram und Harm. Als endlich er des Rastens Ort erreichet, springt er vom Ross, vom raschen Ritte warm, sie übergiebt er einem der Barbaren, sie während ihres Magdsdiensts zu bewahren. 545 Lass sie die Arbeit, die ihr zugemessen, in Freiheit jetzt verrichten, bandelos, und wenn ihr alle, Ross und Mann, gegessen, bring sie ins Zelt zu mir; ein bittres Loos soll da mit Seufzern ihren Busen pressen, 550 und Thränenströme baden ihren Schooss.</p>
+
+               <pb n="9.112" xml:id="pbIX112"/>
+               <p>Für sie dann will ich selbst schon bis zum Morgen, mit schweren Fesseln sie belastend, sorgen.</p>
+
+               <p>Vierter Gesang. Die Nacht.</p>
+
+               <p>Als alle nun in Schlaf begraben lagen, ward in das Zelt des Herrn gebracht das Weib. 555 Sie bändiget des Herzens angstvoll Schlagen, kniet hin und spricht: hier ist, o Herr! mein Leib, er muss, was du verhängst, gehorchend tragen, du mögst, zu stolzem Sinnenzeitvertreib, ihn nöthgen, dir des Busens Lust zu stillen, 560 du mögest, zornentbrannt, mit Schmerz ihn füllen.</p>
+
+               <p>2.</p>
+
+               <p>O ! edel, Herr, ist raschen Zornes Flammen, der Leu auch zürnt, wenn durch den Wald er bricht. Recht ist ihr, dass, wie Espenlaub, zusammen die Sündrin schreckt vor deinem Angesicht. 565 Zu welchen Martern du mich mögst verdammen, ist stets zu mild dein strafendes Gericht. Doch Argwohn thronet nicht in edler Seele, und rein ist deine Brust von niedrer Fehle.</p>
+
+               <p>3Du liessest grossgesinnet frei mich ziehen, 570 bewehrtest noch der Christensklavin</p>
+
+               <p>Hand, und da, nach namenlosem Kampf und Mühen, den Weg ich, und zu dir den Rückweg fand, besprützete mich giftger Zungen Sprühen, doch meine Treu hielt Farbe dir, und Stand. 575 Schuld trag ich, weil dein Mund es ausgesprochen, allein die Treu dir hab' ich nicht gebrochen.</p>
+
+               <p>Und lerne, dass auch inneren</p>
+
+               <p>Gesetzen die Sklavin folgt, nicht bloss dem äussren</p>
+
+               <p>Drang.</p>
+
+               <pb n="9.113" xml:id="pbIX113"/>
+               <p>Mit Willen lass' ich nicht die Lust dich letzen 580 an meinem Leib; mich treibet bittrer Zwang. Ich weiss, dass deine Geissein mich zerfetzen, wie ich nicht stille deinen Wollusthang.</p>
+
+               <p>Und trüg' ich sie, so würdest du mich binden, und doch den Weg zu meinem Schoosse finden.</p>
+
+               <p>s. 585 Und also zählt ihrs zu des Weibes Pflichten.</p>
+
+               <p>Der Herr kauft nicht der Sklavin Leben bloss, nicht bloss das Recht, sie schuldlos hinzurichten, es drohet ihr ein zehnfach härtres Loos. Wie Arbeit sie am Tage muss verrichten, 590 muss sie ihm liefern Nachts des Leibes Schooss, und sich, er mag sich rauh, sich mild benehmen, zu willgem Dienst und Zärtlichkeit bequemen.</p>
+
+               <p>6.</p>
+
+               <p>Doch da ich einmal dich im Bett umfassen, nackt unter dir mich dienstbar strecken muss, 595 gehorsam reichen mit den thränennassen, angstbleichen Lippen dir der Sklavin Kuss, am ganzen, armen Leib gewähren lassen dich, wo du suchen willst der Brust Genuss, und dulden endlich, dass die Kraft der Lenden 600 du in mein Innerstes darfst herrisch senden;</p>
+
+               <p>7so kann auch meine</p>
+
+               <p>Treue nichts erreichen, und wie die Hündin vor den Herrn sich legt, zu winseln unter seiner</p>
+
+               <p>Peitsche</p>
+
+               <p>Streichen, bleibt meine</p>
+
+               <p>Treu dir fest und unbewegt. 605 Gern mag ich mich dem armen</p>
+
+               <p>Thier vergleichen, das ja, wie ich, die Sklavenkette trägt,</p>
+            </div>
+
+            <div type="section" n="14">
+               <head>
+                  <title type="main">und Hündinnen</title>
+               </head>
+               <p>nur sind wir ('hristenweiber auch in den Augen unsrer harten</p>
+
+               <p>Treiber.</p>
+
+               <p>8.</p>
+
+               <p>Ja, Hündinnen seyd ihr, und euch geblieben, 610 sprach er, ist auch der Hündin tückisch Herz;</p>
+
+               <p>584 nach „und" gestrichen: „würdest". W. V. Humboldt, Werke. IX. 8<pb n="9.114" xml:id="pbIX114"/> jetzt da die Angst vor meinen Geisseihieben dich treibt, und vor der harten Ketten Schmerz, fröhnst, Elende, du heuchelnd meinen Trieben, und blickest, reuig flehend, himmelwärts. 615 Doch da in Kinderbrust den Dolch du führen mir solltest, Hess sich deine Treu nicht spüren.</p>
+
+               <p>9Mir ist, rief sie, nicht in den Sinn gekommen, dass du verlangtest nur der Armen</p>
+
+               <p>Tod.</p>
+            </div>
+
+            <div type="section" n="15">
+               <head>
+                  <title type="main">Was konnte</title>
+               </head>
+               <p>dir ihr sterbend</p>
+
+               <p>Röcheln</p>
+            </div>
+
+            <div type="section" n="16">
+               <head>
+                  <title type="main">frommen?</title>
+               </head>
+               <p>620 Und wär's gewesen wirklich dein Gebot, dem Arm gewehret hätten, bang beklommen, Pflicht und Gewissen in der tiefsten Noth.</p>
+
+               <p>Doch fühl' ich wohl, dass dies dich nicht versöhnet, und hörte oft, wie Eure Lehre tönet.</p>
+
+               <p>10. 625 Die Sklavin darf nicht eigne Pflichten haben, sie ist gebannt in des Gehorsams Kreis. Wie, wenn ich muss vor euren Rossen traben, wenn ihr auch frei mich lasset, doch ich weiss, dass blutge Furchen meinem Rücken graben 630 die Geissei würde, wich' ich aus dem Gleis. Doch können dich die Kinder nicht verrathen, da sie, wie einem Weib des Thals, mir nahten.</p>
+            </div>
+
+            <div type="section" n="17">
+               <head>
+                  <title type="main">II.</title>
+               </head>
+               <p>Doch hab' ich Schweres, Herr, vor dir verbrochen, verdiene Schonung nicht, noch milde Huld. 635 Denn was der Herr hat richtend ausgesprochen, nicht ihr Gefühl bestimmt der Sklavin Schuld.</p>
+
+               <p>Die meine werde schwer an mir gerochen, ich will die Strafe tragen in Geduld, und reuig unter meiner Henker Händen, 640 mich schmerzvoll windend, stumm mein Leben enden.</p>
+
+               <p>12.</p>
+
+               <p>Es wechselten in Jussuf die Gedanken.</p>
+
+               <p>Er hatte fest erst auf das Weib gebaut;<pb n="9.115" xml:id="pbIX115"/> nun machten ihn der Krieger Reden wanken, doch sprach in ihm auch etwas für sie laut. 645 Zwar nicht für sie; denn in die düstern Schranl^en der öden Brust kein Liebesmorgen graut, doch für die Meinung, die ihn angezogen, und der auch jetzt er bleibet noch gewogen.</p>
+
+               <p>13Doch siegt Verdacht und Zorn. Mit finstren Blicken 650 ruft er: Verworfne, leiste deine Pflicht!</p>
+
+               <p>Wie Ungewitter, schwarz, die Wolken schicken, so stürzt auf sie sein lastendes Gewicht.</p>
+
+               <p>Sie winselt, Thränen ihr die Stimm' ersticken, ihr Jammerton erweicht den Wütrich nicht. 655 Als unumschränkter Herr des Sklavenleibes, rast in den Gliedern er des armen Weibes.</p>
+
+               <p>14.</p>
+
+               <p>Sie schmieget, wie sie kann, sich seinem Willen, und setzet ihm entgegen nur Geduld, sucht jede rohe Regung voll zu stillen, 660 und trägt sein Wüten, wie verdiente Schuld, wenn weniger nur Blut und Thränen quillen, dankt sie inbrünstig schon für Gnad' und Huld, und schürzt, zu öffnen ihm den Schooss entboten, um ihn der wund zerrissnen Arrne Knoten. 665 Verächtlich stösst er sie zum Boden nieder, wie Schale weg man wirft genossner Frucht. Dann rasselt mit der Kett' er hin und wieder: wohl hemmen will ich, Hündin, dir die Flucht. Sie hält die Hände selbst ihm hin, die Glieder 670 belaste, spricht sie, mit der Eisen Wucht.</p>
+
+               <p>Treu bin ich; doch warum sollst du es glauben? Mag mir der Fesseln Schmerz den Schlummer rauben.</p>
+
+               <p>16.</p>
+
+               <p>Dicht um des hohen Zeltes Mittelstange schloss er halb knieend sie so furchtbar an,<pb n="9.116" xml:id="pbIX116"/> 675 dass in der Ketten übermässgem Zwange die Brust kaum athmen, ruhn das Haupt nicht kann. Des Sklavenjochs Erfahrung hatte lange gelehrt sie, dass sie nichts durch Flehn gewann; so Hess sie leise Seufzer nur enthallen, 680 und stumme Thränen auf den Busen fallen.</p>
+            </div>
+
+            <div type="section" n="18">
+               <head>
+                  <title type="main">Fünfter Gesang.</title>
+               </head>
+               <p>Der Saumthierzug.</p>
+
+               <p>Als lang schon Jussuf schnarchte, höret Tritte das Weib, und schreit: flieh, Herr! es ist der Feind. Er springt empor, haut nach des Zeltes Mitte mit seinem Schwerdt, und ruft: nie, Hündin, scheint 685 dir Mond, noch Sonne! und mit Einem Schritte ist er im Wald; gefehlt hat er; sie weint: so hab' ich unbewusst ihn doch verrathen; warum den Lohn nicht trag' ich meiner Thaten?</p>
+
+               <p>2.</p>
+
+               <p>Sie wollte nach, und strebte sich zu retten, 690 damit er sehe, dass sie treu ihm bleibt.</p>
+
+               <p>Doch Todesangst auch, und Verzweiflung hätten, wie mächtig ihre Doppelkraft gleich treibt, geregt nicht diese straff geschnürten Ketten, und sie umsonst die Hände wund sich reibt. 695 Sie wird gegriffen, und ein jauchzend Höhnen: dies ist sein Kebsweib! hört sie laut ertönen.</p>
+
+               <p>3Sie ist's, die gestern er auf Kundschaft sandte, die mit den Mädchen auf dem Berge sprach.</p>
+
+               <p>Freiwillig sie zurück zu ihm sich wandte, 700 nicht ihm. nein uns des Herzens</p>
+
+               <p>Treu sie brach; von geiler</p>
+
+               <p>Lust zum Christenfeind entbrannte die tief Verworfene, und zog ihm nach.</p>
+
+               <p>681 nach „höret" gestrichen: „leise".</p>
+
+               <pb n="9.117" xml:id="pbIX117"/>
+               <p>Gespiesst muss werden, andren zum Exempel, die brandmarkt so, die ßübin, unsre Tempel.</p>
+
+               <p>4. 705 Sie sprach: wo habt, o Gott! ihr mich gefunden?</p>
+
+               <p>War ich belastet nicht mit Eisenwucht?</p>
+
+               <p>wie neugekaufte Hündin angebunden, von der zum vorgen Herrn man fürchtet Flucht?</p>
+
+               <p>Und trag' ich nicht in kaum verharschten Wunden 710 die Spuren ihrer unbarmherzgen Zucht?</p>
+
+               <p>des Lanzenschafts, der dornbewehrten Riemen um Brust und Schultern dick geschwollne Striemen?</p>
+
+               <p>5So mit unmenschlich</p>
+            </div>
+
+            <div type="section" n="19">
+               <head>
+                  <title type="main">zugemessnen</title>
+               </head>
+               <p>Hieben, die des Barbaren</p>
+            </div>
+
+            <div type="section" n="20">
+               <head>
+                  <title type="main">Hand</title>
+               </head>
+               <p>entsanken schwer, 715 ward durch den Wald ich Elende getrieben vor seinem stolzen</p>
+
+               <p>Siegerrosse her.</p>
+            </div>
+
+            <div type="section" n="21">
+               <head>
+                  <title type="main">Doch</title>
+               </head>
+               <p>glücklich sind die Zeichen mir geblieben, sie einzger</p>
+
+               <p>Schutz mir jetzt, und einzge</p>
+            </div>
+
+            <div type="section" n="22">
+               <head>
+                  <title type="main">Wehr,</title>
+               </head>
+               <p>da auf den Tod mich ihr, auch ihr, anklaget, 720 die gleiches</p>
+
+               <p>Glaubens</p>
+            </div>
+
+            <div type="section" n="23">
+               <head>
+                  <title type="main">Namen</title>
+               </head>
+               <p>mit mir traget.</p>
+
+               <p>6.</p>
+
+               <p>Da, wo am furchtbarsten sie ausgehalten, wo Strieme neben Strieme schmählig schwoll, und in des Wütrichs nächtlich finstrem Schalten um den zerrissnen Busen Blut auch quoll, 725 da lösete sie des Gewandes Falten, und wie die Brust nun da lag, schwer und voll, die Schulter fest, wie von polirtem Stahle, sah man der Mishandlungen Schmerzensmale.</p>
+
+               <p>7Verächtlich spricht, der an den Haufen führet: 730 Verlaufne</p>
+
+               <p>Dirne,</p>
+            </div>
+
+            <div type="section" n="24">
+               <head>
+                  <title type="main">wähne</title>
+               </head>
+               <p>thöricht nicht, dass dein mit Recht gezüchtigt Fleisch uns rühret, dein heuchlerisches Winseln uns besticht.</p>
+
+               <p>'?2 „Winseln" verbessert aus „Weinen".</p>
+
+               <pb n="9.118" xml:id="pbIX118"/>
+               <p>Verräthern immer gleicher Lohn gebühret, ihr Haupt trift immer doppeltes Gericht: 735 bei dem, dem tückisch sie Verderben spinnen, bei denen, die durch den Verrath gewinnen.</p>
+
+               <p>8.</p>
+
+               <p>Doch wollen nicht in Griechenblut wir tauchen, ihr Jünglinge, die Hand, und Weiberblut ist würdig nicht, an unsrem Schwerdt zu rauchen. 740 Nur kirren wollen wir ihr schon den Muth.</p>
+
+               <p>Wir können sie im Zug, als Saumthier, brauchen; verhöhnt, gepeitscht, versengt von Sonnenglut, mag unter saurer Last den feilen Rücken, mit Stricken festgeschnüret, da sie bücken.</p>
+
+               <p>9745 Sie seufzt bei sich: gern will ich Arme büssen in unbarmherzgen Martern, ohne Zahl, wenn sie des Herzens Blut nur nicht vergiessen, ertrag' ich willig ihrer Geissein Qual, und heimlich sollen meine Thränen fliessen; 750 darf ich nur dieses Lebens Jammerthal nicht, ehe ich Niketas seh', verlassen, so mag mich Jammer über Jammer fassen.</p>
+            </div>
+
+            <div type="section" n="25">
+               <head>
+                  <title type="main">[O.</title>
+               </head>
+               <p>Als eines Tages heiss die Sonne glühte, sie mühvoll schritt im langen Maulthierzug, 755 und in dem himmlisch duldenden Gemüthe in stillen Thränen ihre Bürde trug, das angstverquollne Antlitz Flammen sprühte, und unbarmherzig sie der Treiber schlug, so oft dem Thier, an das sie war geschnüret, 760 sie schnell nicht nach die matten Schritte rühret;</p>
+            </div>
+
+            <div type="section" n="26">
+               <head>
+                  <title type="main">II.</title>
+               </head>
+               <p>da kam ein Krieger rasch in Jugendmuthe herangesprengt, der lang zur Seit' ihr ritt, und sah, wie sie, bedeckt mit Schweiss und Blute, langsamer Marter Todesplage litt.<pb n="9.119" xml:id="pbIX119"/> 765 und doch, so oft sie traf die Züchtgungsruthe, nur weint', und stets geduldig vorwärts schritt. Nie hab' ich solche Barbarei gesehen ! sprach er, unmenschlich musst du, Weib, ausstehen.</p>
+
+               <p>12.</p>
+
+               <p>Sie sprach: ja, mehr, als Worte können sagen, 770 ist, Jüngling, meines Leidens Jammer gross ; doch schadets nichts. Denn wenn der Sonne Wagen sich senket in des Meeres dunkeln Schooss, hab' ich, wohin ich soll, die Last getragen, und vor dem Morgen gehts aufs neue los. 775 So zahl', als Lastthier, ich des Lebens Schulden, mein Elend gilt gleichviel, ich muss es dulden.</p>
+            </div>
+
+            <div type="section" n="27">
+               <head>
+                  <title type="main">LS-</title>
+               </head>
+               <p>W^ird Mittags nicht die Last dir abgenommen?</p>
+
+               <p>—</p>
+
+               <p>Um armes Weib giebt man die Müh sich nicht. —</p>
+
+               <p>Wie machst du's dann? — Ich seufze, bang beklommen, 780 und schmiege, wie ich kann, mich dem Gewicht.</p>
+
+               <p>—</p>
+
+               <p>Hast niemals du Erholung noch bekommen?</p>
+
+               <p>—</p>
+
+               <p>Getrieben werd' ich nur zu meiner</p>
+
+               <p>Pflicht. —</p>
+
+               <p>Und wenn die Geissei um das Kreuz dir schlaget?</p>
+
+               <p>—</p>
+
+               <p>Dann winsl' ich still, bis sich der Schmerz geleget.</p>
+
+               <p>14. 785 Denn alle Körperschmerzen, wisse, legen sich endlich in dem langen Strom der Zeit, die Wunden, die dem Weib ins Fleisch sie prägen, vernarben, bis man wieder sie erneut. Des Körpers Schmerz ist oft der Seele Segen, 790 und Geisseizucht wohl innre Heilung beut.</p>
+
+               <p>Doch Seelenschmerz, des Herzens Jammer nährend, ist ewig, und am Mark des Lebens zehrend.</p>
+
+               <p>15Er sprach: was du auch sagst, kann nicht ich fassen, wie du dein Elend so geduldig trägst? 795 wie du dich kannst so schnöd mishandeln lassen?</p>
+
+               <p>nicht hin dich wirfst, nicht Erd' und Himmel regst?</p>
+
+               <pb n="9.120" xml:id="pbIX120"/>
+               <p>nicht mit der Last auf die, die du musst hassen, dich stürzest wild, und sie daniederschlägst? Nur einmal können rauben sie dein Leben, 800 da zehnfach sie den Tod dir also geben.</p>
+
+               <p>16.</p>
+
+               <p>Das Weib versetzte: nicht ist mir zu Muthe zum Lachen, aber lächlen muss ich doch. Du redest, wie ein Mann von edlem Blute, der niemals hat gekannt der Knechtschaft Joch. 805 Allein ein Weib, die unter harter Ruthe vor unbarmherzgen Herrn im Staube kroch, trotzt nicht, gehorcht, arbeitet, fügt und schmieget der Mühsal sich, bis sie darin erlieget.</p>
+
+               <p>17Auch die am Markte feilgeboten standen, 810 betastet von der Käufer gierger Hand, können noch frei seyn in den Sklavenbanden, und sterbend trotzen ihrem grausen Stand. Doch die das Schicksal machte selbst zu Schanden, eh' sich um sie noch Sklavenkette wand, 815 eh' sie vor einem Herrn in Staub gekrochen, der ist im Tiefesten die Kraft gebrochen.</p>
+
+               <p>18.</p>
+
+               <p>Alorus, so hört sie den Jüngling nennen, der ihr so weich und antheilnehmend sprach, forschte, begierig, näher sie zu kennen, 820 nun ihrem Stand, und ihrer Herkunft nach.</p>
+
+               <p>Dann sagt' er: jetzo müssen wir uns trennen. Doch dich befrein will ich von dieser Schmach.</p>
+
+               <p>Der Abend heut soll deine Ketten brechen, dann mit der Freien will ich weiter sprechen. 825 Sie schritt still fort: o möcht' er mich vergessen!</p>
+
+               <p>seufzt sie, und lassen mich in meiner Qual. Mir muss seyn Sklavendienst hart zugemessen, mir muss in bittrer Noth nicht bleiben Wahl,<pb n="9.121" xml:id="pbIX121"/> mir müssen Fesseln schwer die Arme pressen, 830 mir darf nicht glänzen holder Freiheit Strahl!</p>
+
+               <p>Sonst kann ich nur mich stürzen in die Flammen, die Pflicht und Gott und Vaterland verdammen,</p>
+
+               <p>20.</p>
+
+               <p>Soweit des Kreuzes heiige Fahnen wehen, vor denen ehrfurchtsvoll sich beugt mein Knie, 835 kann niemals ich den Allgeliebten sehen, und meiner Sehnsucht Stillung finden nie. Zum stolzen Christenfeind muss ich mich drehen, und Gott! in seinem Dienst verrathen sie. Denn sklavisch muss ich seinem Willen fröhnen, 840 im Staub zu seinen Füssen winselnd stöhnen.</p>
+            </div>
+
+            <div type="section" n="28">
+               <head>
+                  <title type="main">Sechster Gesang. Alorus.</title>
+               </head>
+            </div>
+
+            <div type="section" n="29">
+               <head>
+                  <title type="main">I.</title>
+               </head>
+               <p>Der Abend kam. Vom heitren Himmel wieder wallt wollustathmend kühl ein sanfter Duft, des Weibes Last und Ketten sinken nieder, sie hebt das Antlitz in die freie Luft. 845 Wie neugeboren fühlet sie die Glieder. Gebückt, als stiesse man sie in die Gruft, musste sie gehn bisher; jetzt schaut die Sterne sie in des Aethers dunkler, weiter Ferne.</p>
+
+               <p>Sie blickt hinauf. Von allen goldnen Zeichen, 850 spricht sie, erwähl' ich dich, Andromeda.</p>
+
+               <p>Dir kann die dürftge Sklavin sich vergleichen, da Ketten auch dein himmlisch Auge sah. Des Schicksals Allgewalt musstest du weichen, doch stand dir der geliebte Retter nah, 855 Nun deckst den Himmel du mit mächtgem Leibe, ein Trostbild jedem armen Sklavenweibe.</p>
+
+               <pb n="9.122" xml:id="pbIX122"/>
+               <p>3Von solchen</p>
+
+               <p>Regungen der Brust begleitet, tritt vor die Thür sie von Alorus</p>
+
+               <p>Zelt, wohin die Krieger sie sogleich geleitet, 86o weil sie der Jüngling hatte hinbestellt.</p>
+
+               <p>Kaum vor ihn sie mit scheuem Fusse schreitet, sie seine Knie umfangen brünstig hält: dass ich zu deinem Haupt mein Haupt kann beugen, dafür empfang den Dank in diesem Schweigen.</p>
+
+               <p>4-</p>
+            </div>
+
+            <div type="section" n="30">
+               <head>
+                  <title type="main">865</title>
+               </head>
+               <p>Sie sprach's, und hielt den Blick aufs neu gesenket.</p>
+
+               <p>Er drauf mit heitrer Stimme sanft beginnt: Die Freiheit, Weib, ist dir so weit geschenket, dass freien Athemzug die Brust gewinnt, dass keiner Arbeit Müh, kein Schmerz dich kränket, 870 nur deiner Füsse Schritte frei nicht sind.</p>
+
+               <p>Verlassen darfst du nicht des Zeltes Schwelle, im Reuterzug nicht hinter mir die Stelle.</p>
+
+               <p>5So sind's die Führer mit mir eingegangen, doch wird auch mehr nicht zu erhalten seyn. 875</p>
+
+               <p>Sie sprach</p>
+
+               <p>: soviel schon könnt' ich nie verlangen.</p>
+
+               <p>Doch lass mich's frei gestehn, es wird dich reun, ich stamml' es dir mit thränennassen</p>
+
+               <p>Wangen: du thust nicht gut, mich milde zu befrein.</p>
+
+               <p>Lass nur die Bürde wieder auf mich werfen, 880 und lieber mir die bittren</p>
+
+               <p>Qualen schärfen.</p>
+
+               <p>6.</p>
+
+               <p>Nur da, wo ich muss saure Last schwer tragen, wo ich gebunden fast zum Boden bin, wo sie die armen Lenden blutig schlagen, wie rohe Laune fährt durch ihren Sinn, 885 wo nie mein Haupt kann zu dem Himmel ragen, nur da, o glaub' es mir! gehör' ich hin. — Erfüll mein Flehn, ich fleh nicht süsse Stunden, ^ Gott! Arbeitslast und Qual, und bittre Wunden.</p>
+
+               <pb n="9.123" xml:id="pbIX123"/>
+               <p>7Doch glaub' auch nicht, wess jene mich anklagen; 890 nein, treu bin ich, treu wirklich bis zum Tod, und müsst' ich vor den wildsten</p>
+
+               <p>Martern zagen, war' ich umstellet von der höchsten</p>
+
+               <p>Noth, könnt' ich es niemals in der Seele tragen, zu handeln gegen heiiger</p>
+
+               <p>Pflicht</p>
+
+               <p>Gebot. 895 Allein wo Pflichten streiten gegen</p>
+
+               <p>Pflichten, wie soll das arme Herz den Streit da schlichten?</p>
+
+               <p>Und fremd ist mir unwürdiges Gelüsten, ein armes Weib bin ich, doch keusch und rein. O ! wenn die also mich verleumden, wüssten, 900 vvie meine Brust rang weh mit Todespein, wenn ich an diesen bang umklommnen Brüsten sich musste lassen Männerbrust erfreun, wie diese bleichen Lippen küssend bebten, wie zu entziehn sich diese Arme strebten.</p>
+
+               <p>9905 Doch was geht dich an meiner Brust Empfinden?</p>
+
+               <p>Achte mich schuldig, oder frei von Schuld, lass mich in meine vorgen Bande binden, ich will sie seufzend tragen mit Geduld. Nur lass nicht unbenutzt das Wort entschwinden: 910 du thust nicht gut, mir zu erweisen Huld. Schwer treffen muss die züchtigende Rechte, die schwer verfolgen auch des Schicksals Mächte.</p>
+
+               <p>10.</p>
+
+               <p>Von Staunen ist des Jünglings Brust erfüllet, ein jedes Wort übt über ihn Gewalt. 915 Je mehr sich in Geheimniss dunkel hüllet des räthselhaften Sklavenweibs Gestalt, je mehr zu ihr sein Herz von Neigung schwillet, die anfangs zwar er schwach und thöricht schalt, doch die bald wuchs mit ringenden ^'e^langen, 920 dass er von tiefer Liebe ist befangen.</p>
+
+               <pb n="9.124" xml:id="pbIX124"/>
+            </div>
+
+            <div type="section" n="31">
+               <head>
+                  <title type="main">II.</title>
+               </head>
+               <p>Er kann sich nicht mehr von der Holden trennen, er sucht vom alten Harm sie zu zerstreun, man hört ihn sie mit süssen Namen nennen, er spähet eifrig, was sie kann erfreun, 925 und keiner könnt' in ihr die Sklavin kennen, wenn nicht sie selbst, bescheiden, zart und rein, in ihrer gramdurchfurchten Züge Minen nur schien' in stiller Ehrfurcht ihm zu dienen.</p>
+
+               <p>12.</p>
+
+               <p>Wie Gärtners Hände zart die Blume pflegen, 930 so jede Sorgfalt emsig sie ihm leiht.</p>
+
+               <p>Doch wie er sucht, sie kosend zu bewegen, sich hinzugeben süsser Traulichkeit, sieht gleich er sie verstummen, bang verlegen, und glühend ist nur ihre Dankbarkeit. 935 So gerne möcht' er andre Flammen schüren, doch ihr Gewand kaum wagt er zu berühren.</p>
+
+               <p>13Allein zuletzt er heftig in sie dringet, zu stillen ihm die lang ersehnte Lust, und da ihr abzuziehn ihn nicht gelinget, 940 so redet sie gelassen, selbstbewusst : da mich dein Wort, Alorus, dazu zwinget, so lass mich sprechen dreist aus freier Brust. Die Sklavin darf nicht jungfräulich sich sträuben, und ältres Weib muss wahr und ernsthaft bleiben.</p>
+
+               <p>14. 945 Du darfst nur kurz befehlen, und zu Willen werd' ich sogleich dir seyn, weil ich es muss. Du hast das Recht, die Lust an mir zu stillen, zu fordern meiner bleichen Lippen Kuss. Ich werde dienstbar, was du willst, erfüllen, 950 dir Brust und Schooss darbringen zum Genuss, den Leib entblössen, frei dich lassen schalten, und still des armen Busens Seufzer halten.</p>
+
+               <pb n="9.125" xml:id="pbIX125"/>
+               <p>12:</p>
+
+               <p>15Doch, fuhr sie fort mit schmeichlerischer Bitte, doch thu, o thu es nicht, du bist so gut; 955 nachahme nicht du der Barbaren Sitte, die thierisch folgen ihrer Sinne Glut. Bleib stehn nicht mit mir auf des Weges Mitte.</p>
+
+               <p>Was ist's, wenn von der Last mein Nacken ruht, allein den Busen ärgrer Schmerz durchwühlet, 9(jo als von der Geissei erst das Fleisch gefühlet?</p>
+
+               <p>i6.</p>
+
+               <p>Stumm hab' ich Jussuf mich gegeben, sein Wort war, wie des Mordes Eisen, kalt, das Weib, die es verurtheilt, kann nur beben, wo jeder Seufzer, wie an Fels, verhallt. 965 Nur die im süssen Hellas heimisch leben, nur sie kennen der Rede Allgewalt.</p>
+
+               <p>Noch einmal hör's: gehorchen muss ich, Arme, doch jammernd fleh' ich laut, erbarm', erbarme!</p>
+
+               <p>Der Jüngling zweifelt, was er soll beginnen, 970 doch Heftigkeit und Eifersucht gesellt sich plötzlich zu den aufgeregten Sinnen. Er stehet auf, tritt mitten in das Zelt, und spricht: es mögen deine Thränen rinnen! du nennst es selbst in meine Macht gestellt. 975 Nun wohl, ich fordere des Weibes Pflichten, nicht mehr, wie Jussuf, will ich drauf verzichten.</p>
+
+               <p>18.</p>
+
+               <p>Die Thränen rannen über ihre Wangen. Allein in stummer Unterwürfigkeit, erhebt, so wie sie den Befehl empfangen, 980 sie sich, und stehet da vor ihm, bereit, zu fügen sich dem herrischen Verlangen.</p>
+
+               <p>Hier bin ich, spricht sie, wie du's willst; gebeut! Ich muss der Lust mich, wie der Geissei, geben. Und schon den Günel löset sie mit Beben.</p>
+
+               <pb n="9.126" xml:id="pbIX126"/>
+               <p>1998s Da unumschränkter Meister ist sein Wille, kehrt ihm zurück die edle Griechenscheu. Entwaffnet hat ihn des Gehorsams Stille, doch Lieb' und Sehnsucht werden zehnfach neu.</p>
+
+               <p>Er kann nicht wehren, dass die Thrän' ihm quille, 990 er macht sich von des Weibes Anblick frei.</p>
+
+               <p>Er wirft sich hin, das Antlitz abgekehret, und sein Entsagen seine Trauer mehret.</p>
+
+               <p>20. Sie schleicht ihm nach, kniet hin an seiner Seite, und flüstert leis': o hoch Erhabner, du! 995 o, dass durch mich, dem Elende Geweihte, du solltst vermissen deines Busens Ruh, du, den, dem Engel gleich, zum Schutzgeleite die Gottheit sandte mir, als Retter, zu!</p>
+
+               <p>Allein was sollt' ich thun? sollt' ich dir schmeicheln? 1000 die nicht ich haben kann, Gefühle heucheln?</p>
+
+               <p>21.</p>
+
+               <p>O sieh! mein feiler Körper ist geschmähet, erkauft, entwürdigt von Barbarenhand, wie Hauch, sich lagernd, pestverbreitend wehet über ein armes, hingegebnes Land. 1005 Der Ehre Blume ist mir hingemähet, und öde starrt der Boden, glutverbrannt.</p>
+
+               <p>Ich musst' es sehn, musst' es, still seufzend, tragen, es war nicht Flucht, nicht Widerstand zu wagen.</p>
+
+               <p>22.</p>
+
+               <p>Doch da dem Zwang ich einmal unterlegen, loio und der Gewalt ein stummes Opfer fiel, muss in der Brust ich Treue dem auch hegen, der mich gebraucht zu seiner Lüste Spiel. Nicht dass für ihn sich mir Gefühle regen, nein, nur dem Irrn zu stecken endlich Ziel, lOOß nach „wie" gestrichen: „gißger'^.<pb n="9.127" xml:id="pbIX127"/> IOI5 und aus des Schicksals labyrinthschem Winden mich wieder doch, als züchtig Weib, zu finden.</p>
+
+               <p>23.</p>
+
+               <p>Ich suche — Gott! o, wüssten's deine Schaaren, es rettete mich nicht dein Herrscherwort, sie schleiften die Verworfne bei den Haaren, 1020 zu Tod gepeitschet, durch das Lager fort — die Treue suche Jussuf zu bewahren ich hier am feindlich ihm gesinnten Ort. Dir kann der Brust Geheimniss ich vertrauen, auf dich, wie auf des Himmels Gottheit, bauen.</p>
+
+               <p>24. 1025 Du ehretest des Busens Schmerzenswunden, ich stand, geliefert deiner Willkühr, da, des Hoffens letzter Strahl war mir verschwunden, ich fühlte schon die neue Schmach mir nah. Da in der Mitternacht einsamen Stunden 1030 ich deinem Schlüsse dich entsagen sah; nicht werth auch bin ich, dass du mich umarmtest, verdient' ich nur, dass du dich mein erbarmtest!</p>
+
+               <p>25Wenn Krieg und Zwietracht endlich sind geschieden fern von Ilissos und Asopos Strand, 1035 wenn wieder glänzet heimathlicher Frieden im weiberreichen, süssen Griechenland, ist dir die hochbeglückteste beschieden, die um die Schläfe je die Myrte wand. Geniesse dann der reichen Thaten Segen, 1040 bis Silberlocken um dein Haupt sich legen.</p>
+
+               <p>26.</p>
+
+               <p>Mich lass allein mein Jammerschicksal tragen, und achte die in Staub Getretne nicht.</p>
+
+               <p>Jetzt in des Kriegsgewirres finstren Tagen verschiebet jeder noch mein Strafgericht.</p>
+
+               <p>I0J2 „verdienf^ verbessert aus „verdien'".<pb n="9.128" xml:id="pbIX128"/> 1045 Noch frommen kann der Glieder mühvoll Plagen dem Harten, der mir Sklavenketten flicht. Doch wenn der Friede kommt, muss büssend rauchen mein Blut am Schwerdt, das sie ins Herz mir tauchen.</p>
+
+               <p>Siebenter Gesang. Die Flucht.</p>
+            </div>
+
+            <div type="section" n="32">
+               <head>
+                  <title type="main">I.</title>
+               </head>
+               <p>Zerrissen ist in schwankende Gefühle 1050 des armen Jünglings schwermuthsvolle Brust, und in dem herzverwirrenden Gewühle ist er sich kaum mit Klarheit noch bewusst. Wie aber in des Mittags heisser Schwüle ermattet sinkt der Lebensgeister Lust, 1055 so vor des Weibes düstrem Schicksalsschleier verstummt der süssen Liebe heitre Feier.</p>
+
+               <p>2.</p>
+
+               <p>Doch unaufhaltsam fühlt er sich gezogen zu der, der Heldenmuth den Busen stählt, die, einsam schwimmend auf den finstren Wogen, 1060 auf keines fremden Armes Hülfe zahlt, den Blick nur richtet auf den Himmelsbogen, und selbst den Leitstern ihrer Schiffarth wählt, die Strudel kennt, die sie zum Abgrund ziehen, und doch der Rettung Küste scheint zu fliehen.</p>
+
+               <p>3* 1065 Er strebt zu trocknen ihres Grames Zähren, forscht, was ihr heimlich tieferen noch weckt, doch schlau weiss sie den Zugang ihm zu wehren zu dem, was sorgsam ihre Brust versteckt, und wie er späht, kann nie sie ihm erklären, 1070 warum des Todes Bild sie also schreckt.</p>
+
+               <p>Süss, denkt er, müsst's ihr seyn, der bangen Leiden zu lang gesponn'nen Faden abzuschneiden.</p>
+
+               <pb n="9.129" xml:id="pbIX129"/>
+               <p>4Und nicht mit Unrecht doch er dess sie zeihet.</p>
+
+               <p>Sie, die so kühnen</p>
+
+               <p>Muth im Busen trägt, 1075 still jeglichem</p>
+
+               <p>Gefühle</p>
+
+               <p>Grösse leihet, der nicht der Liebe Flehn das Herz bewegt, sie sollte sehn in Zwang den Leib entweihet, und schmachvoll sich, in Sklavendienst, belegt mit Allem, was des Weibes Leben schändet, 1080 wenn nicht sie scheute, was es kühn auch endet?</p>
+
+               <p>5*</p>
+
+               <p>So oft der Jüngling diese</p>
+
+               <p>Scheu berühret, ist sie zerknirschet von dem tiefsten</p>
+
+               <p>Gram, und jedes weitre</p>
+            </div>
+
+            <div type="section" n="33">
+               <head>
+                  <title type="main">Wort</title>
+               </head>
+               <p>ihr schürt und schüret die Flammen bang verwirrter, innrer</p>
+
+               <p>Schaam. 1085 Wenn heissres</p>
+
+               <p>Jammerflehn, ruft sie, dich rühret, als je aus eines</p>
+
+               <p>Weibes</p>
+
+               <p>Busen kam, so zwing mich nicht, antworten dir zu müssen, und seine Hand deckt sie mit brünstgen</p>
+
+               <p>Küssen.</p>
+
+               <p>6.</p>
+
+               <p>Und gern dann floh sie zu einsamem Orte 1090 und hieng dem noch verhaltnen Jammer nach. Ja, wohl geöffnet hast du, Gott, die Pforte, wo jeder, dem das Herz in Kummer brach, den Tod erwählend sich zum sichren Horte, tritt leise aus des Lebens Qual und Schmach. 1095 Nur mir nicht können ihre Flügel rauschen, nur ich muss ehe Pein mit Pein vertauschen.</p>
+
+               <p>7Wie Martern mir den Busen auch umschränken, wie Qual ich ziehe</p>
+            </div>
+
+            <div type="section" n="34">
+               <head>
+                  <title type="main">mit dem Odem</title>
+               </head>
+               <p>ein, versüsset des Geliebten</p>
+            </div>
+
+            <div type="section" n="35">
+               <head>
+                  <title type="main">Angedenken</title>
+               </head>
+               <p>iioo mir doch des öden Jammerlebens</p>
+
+               <p>Pein.</p>
+
+               <p>Sie können nur das Fleisch mit Schmerzen tränken, der Geist kann still doch bei dem Theuren seyn, und in dem Fluge seliger Gedanken kann ich um ihn der Liebe Arme ranken.</p>
+
+               <p>W.V.Humboldt, Werke. IX. 9</p>
+
+               <pb n="9.130" xml:id="pbIX130"/>
+               <p>8. 1105 Allein nach dem verhängnissvollen Tage, wo sterbend hin des Körpers Hülle sinkt, vv^er weiss, ob nicht der Liebe stumme Klage vergeblich noch nach Ausdruck menschlich ringt. Nie ist gekommen dorther sichre Sage, II 10 ob hin da Kunde vom Geliebten dringt?</p>
+
+               <p>Und ach! vielleicht in sehnendem Verlangen kann ich noch einst den Lebenden umfangen.</p>
+
+               <p>9Doch nimmer hier; hier könnte nichts ihn retten, hier harrt sein schmählicher</p>
+
+               <p>Verräthertod. i"S In Jussufs grauses</p>
+
+               <p>Lager, seine</p>
+
+               <p>Ketten, der bittren Geissei, und der Knechtschaft Noth muss ich mich Unglückselge wieder betten, wenn mir der Liebeshoffnung Morgenroth ins arme Herz soll jemals wieder grauen, 1120 mit Wonne sanft den Busen mir bethauen.</p>
+
+               <p>IG. Wenn so, von glühnder Sehnsucht hingerissen, ihr Sinn nur nach des Feindes Lager stand, dann bang aus dem geängsteten Gewissen, wie Natterbiss, es um ihr Herz sich wand. "25 Zu fliehn von dem bist, Schlange, du beflissen, der dich mit edler Wohlthat Fessel band?</p>
+
+               <p>ruft es ihr zu, und hin zu seinen Füssen kriecht sie, die Fehle, reuzerknirscht, zu büssen.</p>
+            </div>
+
+            <div type="section" n="36">
+               <head>
+                  <title type="main">II.</title>
+               </head>
+               <p>Herr! lass in Ketten diese Arme schlagen, 1130 ruft sie, der Freiheit Lockungen entrückt, lass wieder sie die blutgen Male tragen, die Weiberarme hartes Eisen drückt.</p>
+
+               <p>So muss ich schmücken deinen Siegerwagen, das tief geschmähte Haupt zum Staub gebückt. 1135 Es frommt nicht, dass du frei mich lassest leben, mir braucht nicht Glück den Busen zu durchbeben.</p>
+
+               <pb n="9.131" xml:id="pbIX131"/>
+               <p>12.</p>
+
+               <p>Er spricht: lass ab von diesen Trauerbildern. Durch süsser Sprache Laut dir anverwandt, ist's Pflicht und Neigung mir, dein Loos zu mildern, 1140 und sucht' ich deiner Treue Unterpfand, da du nicht aufhörst, mir Gefahr zu schildern, so forderte ich von dir Wort und Hand. — Sie sprach: mög deine Güte nie dich reuen! Doch redest stets du, wie mit einer Freien. 1145 Und nie mein Loos der Knechtschaft sich entwindet.</p>
+
+               <p>Nicht die verloren hat der Freiheit Tag, die Schmach erlitt, die an die Sklavin kündet, erstehet nimmer von dem harten Schlag. Das Wort, das tönend löset, oder bindet, "5° zu geben drum ich niemals dir vermag. Kein Recht zu reden, noch zu schweigen hat, die muss fremdem Joch den Nacken beugen.</p>
+
+               <p>14.</p>
+
+               <p>Hervor ist's, denkt sie, will er nicht mir glauben, ist sein die Schuld; mehr sagen kann ich nicht. "55 Des Herzens einzig Glück kann er mir rauben, zu sehen je Niketas Angesicht, wenn schwere Fesseln keine Flucht erlauben; allein genügt hab' ich der sauren Pflicht. Doch mild hemmt nicht Alorus ihre Schritte, iiöo frei reitet sie in seiner Krieger Mitte.</p>
+            </div>
+
+            <div type="section" n="37">
+               <head>
+                  <title type="main">IS-</title>
+               </head>
+               <p>Frei konnte sie des Zelters Schritte lenken, der sich der schönen Last zu freuen scheint, doch magdlich sieht man sie die Blicke senken, und ihre Wange ist oft nassgeweint. -165 Mit dieser Freiheit, scheinet sie zu denken, es doch das Schicksal tückisch mit mir meint, und in des bleichen Angesichtes Minen ist ausgedrückt nur demuthvolles Dienen.</p>
+
+               <pb n="9.132" xml:id="pbIX132"/>
+               <p>16.</p>
+
+               <p>Als einstmals also an des Abhangs Rande II 70 sie ritten in Peneus Felsenthal — • er schäumte wild am dichtverwachsnen Strande, hell funkelnd in der Sonne heitrem Strahl, und weithin sah in festlichem Gewände um schönbelaubte Gipfel ohne Zahl II 75 in sanftgeschwungner Linien weichen Zügen vor sich der Blick die Zauberlandschaft liegen.</p>
+
+               <p>17ü! denkt sie, könnte mir das Glück verstatten, in dieser paradiesischen Natur, in dieser Haine tief verborgnen Schatten 1180 mit ihm zu leben wenig Wochen nur! Der Erde würde sich der Himmel gatten, verwischet wäre jede Leidensspur des Jammers, den die trübgeweinten Augen, bis Tod sie schliesst, nicht auszuweinen taugen. "85 Und wie das süsse Bild sie mehr umfanget, wie vor ihr steht sein Antlitz lebenswarm, wie täuschend schon die Phantasie vermenget den Strahl der Hoffnung mit des Zweifels Harm, bemerkt sie, dass lebendiger sich dränget II 90 der Reuter staunend aufgeregter Schwärm. Sie blicket auf, und ihre Augen Schaaren des Feinds am andren Stromesrand gewahren.</p>
+
+               <p>19.</p>
+
+               <p>Zum Angriff man sich hier, wie dort, bereitet, es schwellt den Muth den Tapfren die Gefahr, 1195 der Türken Schwärm zum flachen Ufer reitet, und späht, und forscht, wo durchzusetzen war. Der Griechen Pfad, der eng am Fels hin gleitet, bot keinen Niedergang zum Strome dar. Denn thurmhoch starret fort die Felsenkette, 1200 und wild schäumt unten tief des Stromes Bette.</p>
+
+               <pb n="9.133" xml:id="pbIX133"/>
+               <p>20.</p>
+
+               <p>Die Krieger ihres Herrn erkennt im Zuge das Weib, und wendet rasch des Rosses Zaum. Es bäumt und schnarcht mit schweissbedecktem Buge, sie lässt mit Hand und Schenkel ihm nicht Raum, 1205 und drängt, und zwängt es, bis in kühnem Fluge es sich verzweifelt stürzt vom Felsensaum, und wie sie sinken beid' im Strome nieder, schliesst sich die leicht getrennte Welle wieder.</p>
+
+               <p>21.</p>
+
+               <p>Doch einzeln bald sie auf der j^läch' erscheinen, 1210 und gleich verschiednem Ziele sie sich nahn; das Ross arbeitet muthig zu den Seinen, das W^eib folgt ihres Schicksals Unglücksbahn. O ! seufzt sie, mögen diese Augen weinen, der Liebe Sehnsucht, Gott! ist doch nicht Wahn. 1215 Tragt mich, ihr Fluten, zu den bittren Schmerzen, nah dem Geliebten doch ist wohl dem Herzen.</p>
+
+               <p>Der mächtgen Arme Marmormuskeln streben, durchkämpfend sich mit unverzagtem Muth, der Füsse Sohlen, flach gekehrt, sich heben, fortstossend kraftvoll unter sich die Flut, ums Haar des Schaumes Tropfen perlend beben, und rosig glänzt des Purpurnackens Glut, die Brust weiss sich, laut keuchend, kaum zu lassen, und sucht im weiten Raum die Luft zu fassen. 1225 So wie Alorus Krieger sahen eilen das Weib zum Feinde, griffen, zornentbrannt, sie zu den Bogen, und ein W^ald von Pfeilen flog nach ihr zu des Stromes andrem Strand. Allein wieviele auch die Lüfte theilen, 1230 bleibt einer nur geheftet im Gewand.</p>
+
+               <p>Auch that gleich mit gebieterischer Stimme Alorus Einhalt ihrem wilden Grimme.</p>
+
+               <pb n="9.134" xml:id="pbIX134"/>
+               <p>Achter Gesang. Der Lohn der Treue.</p>
+            </div>
+
+            <div type="section" n="38">
+               <head>
+                  <title type="main">I.</title>
+               </head>
+               <p>Als sich das Weib enthob dem Wellenbade, sah sie die beiden Schaaren handgemein. 1235 Alorus hatt' erreichet das Gestade an andrem Ort, und drang gleich wütend ein. Sie flöhe abwärts auf des Waldes Pfade, um sicher vor der Griechen Schaar zu se\'^n; da fanden sie von Jussuf andre Leute, 1240 und nahmen sie als frohe Lanzenbeute.</p>
+
+               <p>2.</p>
+
+               <p>Sie hatten nicht gesehn ihr kühnes Fliehen, und schnüren gleich mit hartem Strick sie fest. So mit ihr fort sie bis zum Morgen ziehen, als Jussuf grad zum Kampf sein Zelt verlässt. 1245 Er schäumt: es soll nicht ruhn mein Racheglühen! bis tropfenweise ist dein Blut entpresst, will ich mit Qual und Foltern dich bedecken! Heut lasst der Schmerzen Vorgefühl sie schmecken.</p>
+
+               <p>3So sprengt' er fort, und sein Befehl noch fachte 1250 zu neuem</p>
+
+               <p>Groll die Unbarmherzgen an.</p>
+            </div>
+
+            <div type="section" n="39">
+               <head>
+                  <title type="main">Doch</title>
+               </head>
+               <p>als des Siegesabends</p>
+
+               <p>Kühle lachte, dem Pascha zu erzählen treu begann ein Krieger, wie sich los vom Feinde machte die Sklavin, und zum alten Herrn entrann. 1255 Bei spätem</p>
+
+               <p>Sternenglanz</p>
+
+               <p>Hess noch sie Jussuf</p>
+            </div>
+
+            <div type="section" n="40">
+               <head>
+                  <title type="main">kommen,</title>
+               </head>
+               <p>sie knieete, von Angst die Brust</p>
+            </div>
+
+            <div type="section" n="41">
+               <head>
+                  <title type="main">beklommen.</title>
+               </head>
+               <p>4Sie muss den Harten mit dem Dienst begrüssen, vor dem am schrecklichsten ihr immer graut.</p>
+
+               <p>Als schweigend wieder sie ihm liegt zu Füssen, 1260 von Thränen ihre Wange reich bethaut, sagt er: du sollst nicht andre Züchtgung büssen; Verzeihung spricht dir meines Mundes Laut.</p>
+            </div>
+
+            <div type="section" n="42">
+               <head>
+                  <title type="main">i</title>
+               </head>
+               <pb n="9.135" xml:id="pbIX135"/>
+               <p>Gekehrt bist du, und was du hast verschuldet, dafür gewiss hast gnug du heut erduldet.</p>
+
+               <p>51265 Sie sprach: du hattest kaum dich weggedrehet.</p>
+
+               <p>so banden sie mich an den Züchtgungspfahl, und wie ein dichter Hagelschauer wehet, bekam ich Geisseihiebe ohne Zahl.</p>
+
+               <p>Nie hat Erbarmen so ein Weib geflehet, 1270 doch mehrten sie, und steigerten die Qual.</p>
+
+               <p>Dann musst' ich liegen doppelt krumm geschlossen, bis deine Huld sich über mich ergossen.</p>
+
+               <p>6.</p>
+
+               <p>Den Schmerz, von dem die armen Glieder flogen, als sie zerfleischete der Wilden Hand, 1275 fühl' ich durch den zerrissnen Leib noch wogen, und legen um die Brust ein krampfhaft Band.</p>
+
+               <p>Doch trag' ich still ihn, klage nicht verwogen; du hast ihn deiner Sklavin, Herr, gesandt, und da ich bin vor dir nun treu erfunden, 1280 erduld' ich gern der Geissei harte Wunden.</p>
+
+               <p>7Des armen</p>
+
+               <p>Weibes grenzenlose</p>
+
+               <p>Treue ward dem Barbaren klar jetzt offenbar, nicht dass darum er fühlte</p>
+
+               <p>Schmerz und Reue, und schonender ihr nun, und milder war, 1285 allein er sann im Geist auf tiefe, neue</p>
+
+               <p>Entwürfe gegen der Hellenen</p>
+
+               <p>Schaar, und da zum Werkzeug will er die erkiesen, die sich in harter</p>
+
+               <p>Prüfung stark bewiesen.</p>
+
+               <p>8. Was noch verwirrt ihm lag, und roh im Sinne, 1290 reift bald zu That, und sicherem Entschluss.</p>
+
+               <p>Er eilt, dass nicht die Stund' umsonst verrinne; das Weib in tiefer Nacht erscheinen muss.</p>
+
+               <p>7 = 28 A. — 8 = 2() A.</p>
+
+               <p>1282 „selbst jetzt" A. — 12QI „entrinne" A.</p>
+
+               <pb n="9.136" xml:id="pbIX136"/>
+               <p>Da, dass er sie für seinen Plan gewinne, beginnt er schlau in milder Rede Fluss: 1295 Nach reifer Prüfung deiner Wort' und Minen, wählt' ich dich, Weib, aus vielen, die mir dienen.</p>
+
+               <p>9Es reizte nicht mich deiner</p>
+
+               <p>Glieder</p>
+
+               <p>Blüthe, nicht deines schlanken</p>
+            </div>
+
+            <div type="section" n="43">
+               <head>
+                  <title type="main">Wuchses</title>
+               </head>
+               <p>Vollgestalt.</p>
+
+               <p>Der Sinne</p>
+
+               <p>Feuer lange mir verglühte, 1300 ein höhres</p>
+
+               <p>Streben mir im Busen wallt.</p>
+
+               <p>Ich ahndete dir Treue im Gemüthe, und Ernst, und selbstverläugnende</p>
+
+               <p>Gewalt, und irrte nicht.</p>
+
+               <p>Ich sah dein Thun und Tichten weit über dem, was Weiber sonst verrichten.</p>
+
+               <p>10. 1305 Nun ist aus Adramyti mir gekommen ein Mann von . deinem Volk, der seit dem Tag, an dem der frevlerische Krieg entglommen, der Gottes Fluch euch allen bringen mag, hat offenbar für uns Parthei genommen, 1310 und oft im Kampf schon mit den Seinen lag. Zu ihm sollst du mir diesen Brief besorgen, und Antwort bringen vor dem vierten Morgen.</p>
+
+               <p>1 1.</p>
+
+               <p>Der Weg ist weit; doch ist's an dir zu eilen; du kennest meinen Zorn, und deine Pflicht. 131 5 Es wird die Furcht dich nirgends lassen weilen, du weisst es einmal: ich verzeihe nicht. Von Tod und Mord sind schwanger diese Zeilen, und weh! wenn sie Verrätherhand erbricht!</p>
+
+               <p>Schwer ist's sie überbringen; dich hab' ich gewählet, 1320 weil Felsenkraft die treue Brust dir stählet.</p>
+
+               <p>12.</p>
+
+               <p>Du wirst die Wohnungen der Menschen meiden, Fusspfade suchen, Felsgebirg und Wald, g = ^0 A. — 10 =^ ^i A. — z/ = ^2 A. — 12 = jj A.</p>
+
+               <p>i^oj „Es geht" A. — IJ04 „über das" A. — ijoy „wo ist" A.</p>
+
+               <pb n="9.137" xml:id="pbIX137"/>
+               <p>und standhaft ehe von dem Leben scheiden, eh' deinem Mund ein einzger Laut enthallt, 1325 wenn auch in allen deinen Eingeweiden sie wühlten mit der Martern Allgewalt, woher du kommst? wohin du gehst? nichts sagen, und kaum zu athmen frei und laut nur wagen.</p>
+
+               <p>13Wo Strymons Fluten sich dem Meer gesellen, 1330 soll reifen mir zum Mord die schwarze Saat. Zu einer Hole, zugewandt den Wellen, führt dich untrüglich schroffer Klippenpfad. Dort Hess ich mir den Treuen hinbestellen, dort harrt er, bis von mir ein Bote naht. 1335 Den Brief gieb schweigend da in seine Hände, und bring, Wort oder Schrift, was er mir sende.</p>
+
+               <p>14.</p>
+
+               <p>Jetzt weisst du Alles. Doch zurück noch bleibet mir Eins, das fasse treulich in die Brust. Entgegen unsrem Joch den Nacken sträubet 1340 das ganze Land, durch das du ziehen musst. Wenn Mitleid dich mit deinem Volke treibet, wenn dir erwacht der süssen Freiheit Lust, hängt's ab von dir, die Deinigen zu retten, und zu zerbrechen deine eignen Ketten.</p>
+
+               <p>131345 Du fällest nicht, wie erst, in ihre Hände, ein elend Sklavenweib, nach Kriegesrecht. Die Schrift, mit der ich durch ihr Land dich sende, hat höhren Werth für sie, als Siegsgefecht, sie bringt in ihre Hand des Feldzugs Ende, 1350 und meine Macht wird auf den Grund geschwächt.</p>
+
+               <p>Wenn solcher \^'ohlthat Dienst sie dir verdanken, wird Preis und Lohn dir ohne Mass und Schranken.</p>
+
+               <p>^3 = J4 ^- — /-^ = 35 Ä. 1324 „der Wahrheit LauV^ A. — 132^- 1326 „erdichtend, sie in Trug mit Schlauheit kleiden, der List nicht weichen, und nicht der Geyvalt'^ A.</p>
+
+               <pb n="9.138" xml:id="pbIX138"/>
+               <p>16.</p>
+
+               <p>Ich droh dir nicht zu seyn des Todes Beute, verlachen würdest du mein Machtgeheiss, 1355 da sichrer Zuflucht sich dein Herz erfreute.</p>
+
+               <p>Ich locke nicht dich durch der Freiheit Preis.</p>
+
+               <p>Kehrst du zurück, so dienest du, wie heute, mir stöhnend in der Stirne saurem Schweiss.</p>
+
+               <p>Herr bleib' ich, Sklavin du; solang du lebest, 1360 stehts fest, dass ich befehle, du erbebest.</p>
+
+               <p>17Nicht Lohn, noch Züchtigung; dich kann nur leiten des Busens innerlich gefühltes Recht. Für deine Treue deine Werke streiten, und mein Vertrauen scheinet nur gerecht, 1365 dass sie auch jetzo werde dich begleiten. Doch bist du von verworfenem Geschlecht, du konntest jetzt vielleicht mir Treue lügen, um sicherer mich künftig zu betrügen.</p>
+
+               <p>18. Doch soviel Sklavenweiber ich sah zittern 1370 vor mir, ist keine, die sich dir vergleicht, die jeder Herrscherlaune Ungewittern so still ergeben ihren Busen reicht, so selbst es billig nennt, dass unter bittern, endlosen Plagen hin ihr Leben streicht. 1375 Die kriechend so, als Thier entmenscht, im Staube den Fuss mir leckt, an der wankt nie mein Glaube.</p>
+
+               <p>19.</p>
+
+               <p>Und nun Betheuerungen nicht, noch Schwüre! Stumm scheide, Weib, und kehre stumm zurück. — Sie taumelte mehr, als sie gieng, zur Thüre, 1380 in langverhaltnen Thränen schwamm ihr Blick.</p>
+
+               <p>16 = 36 A. — ly = j7 A. ~ ig = 38 A.</p>
+
+               <p>1361 „Ahndung, dich kann einzig'^ A. — ^363 — 1365 ,,^"/ deine Treu mir alle Zeichen deuten, und fest steht mein Vertraun, und ungeschwächt, sollf ich mir Tod auch, und Verrath bereiten" A. — 1366 „Du bist von Gottverworfenem" A. — 136'] „dein Blick kann, Schlange, heuchlerisch mir" A. — 1368 „allein der Himmel kann mich nicht" A.</p>
+
+               <pb n="9.139" xml:id="pbIX139"/>
+               <p>Wohin auch ihren Fuss das Schicksal führe, ihr blüht auf keinem Pfade irrdisch Glück, und in des irren Lebens Wechselschwanken, kann fest sie nichts, als nur den Tod, umranken.</p>
+
+               <p>Neunter Gesang. Niketas. 1385 In banger Dumpfheit lief die ersten Stunden, das Haupt gesenket auf den Pfad, sie hin. Die Brust war noch von Sklavenzwang gebunden, und Luft und Freiheit war ihr kein Gewinn.</p>
+
+               <p>Mit magischen Gewalten hielt umwunden 1390 sie Jussufs felsenstarrer Herrschersinn, dass, wie von fremdem Stoss, den Weg sie machte, und ihr vergebens Flur und Himmel lachte.</p>
+
+               <p>Sie sucht der Berge unwirthbarste Rücken, wo rings ist Menschenöde um sie her. 1395 Da öffnet unerwartet sich den Blicken, mit Inseln reich besät, das weite Meer. Es fasst ihr Herz ein langentbehrt Entzücken, der Busen wallt empor, von Sehnsucht schwer. Sie hemmt den Schritt, stürzt auf die Kniee nieder, 1400 und ruft: seh' ich dich, heimathliches, wieder!</p>
+
+               <p>:&gt;'</p>
+
+               <p>So oft hin über dich die Blicke flogen, du, aller xMenschenlreiheit süsses</p>
+
+               <p>Bild, und jetzt bestrahlt von heitrem</p>
+
+               <p>Himmelsbogen, erscheinst du mir so freundlich, süss und mild, 1405 und sendest grad von mir die stolzen</p>
+            </div>
+
+            <div type="section" n="44">
+               <head>
+                  <title type="main">Wogen</title>
+               </head>
+               <p>zu ihm, nach dem nichts meine</p>
+
+               <p>Sehnsucht stillt.</p>
+
+               <p>I = jg A. — 2 =^ 40 A. — j ^:^ 41 A. ij8s „schritt" verbessert ans Jief^ A. — ijS-j „vom'' A. — i^gS „ihr" A.</p>
+
+               <pb n="9.140" xml:id="pbIX140"/>
+               <p>Nicht zwischen uns sich starre Berge stellen, uns trennt nur deines Busens sanftes Schwellen.</p>
+
+               <p>4Vielleicht hat schon sein Schiff dich jetzt durchschwömmen, 1410 er ist's, der in der Hole auf mich harrt; doch nicht auf mich; für mich nicht hergekommen ist er, wünscht nicht der Liebe Gegenwart, sein Busen ist von Sehnsucht nicht beklommen, den Boten Jussufs will er, kalt und hart! 1415 O! tödten warum muss dies wilde Wüten mir auch des letzten Hoffens späte Blüthen.?</p>
+
+               <p>5Doch</p>
+            </div>
+
+            <div type="section" n="45">
+               <head>
+                  <title type="main">Wunsch</title>
+               </head>
+               <p>und Zweifel ihren</p>
+
+               <p>Schritt beflügeln, in ungehemmter</p>
+
+               <p>Eile hin sie stürzt, nichts kann die Ungeduld des Busens zügeln, 1420 ihr Schicksal seine letzten</p>
+
+               <p>Knoten schürzt, sie will, sie muss, was es verdeckt, entsiegeln; und jedes Säumen die Minuten kürzt, wo sie, wenn ihres Glückes Sterne scheinen, sich aus an des Geliebten Brust kann weinen.</p>
+
+               <p>6. M25 Bei Jussufs Worten schon war sie erbebet von Adramyti's süssem Namensklang, denn Kunde kam ihr einst, dass er gelebet an jener Küste reichem Bergeshang.</p>
+
+               <p>Es hatt' ihr auf der Lippe oft geschwebet, H30 zu fragen in dem tiefen Herzensdrang, wie denn der Fremdling heisse? doch zu fragen darf nicht den Herrn die arme Sklavin w^agen.</p>
+
+               <p>7-</p>
+            </div>
+
+            <div type="section" n="46">
+               <head>
+                  <title type="main">Gekommen</title>
+               </head>
+               <p>ist in wogender</p>
+
+               <p>Empfindung sie, als das Licht des zweiten</p>
+
+               <p>Morgens tagt, 1435 wo sich erhebt in schroffer</p>
+
+               <p>Klippenwindung der Pfad am Fels, der hoch zum Himmel ragt.</p>
+
+               <p>4 = 42 A. — s = 43 A. — 6 ^ 44 A. — y = 45 A- 1410 „isfs vielleicht' A.</p>
+
+               <pb n="9.141" xml:id="pbIX141"/>
+               <p>141</p>
+
+               <p>Da muss sie seyn, ruft sie, der Hole Mündung, hinauf nur frischen Muthes unverzagt, dort oben lösen müssen sich die Schmerzen 1440 der Zweifelsangst dem schicksalsmüden Herzen!</p>
+
+               <p>8.</p>
+
+               <p>Und gleich arbeitet rasch hinanzustreben das starke Weib am engen Bergesrand, hält kriechend, wo die Blicke schwindelnd beben, sich an Gestrippe fest mit sichrer Hand, M45 scheint plötzlich dann in freier Luft zu schweben, weitschreitend um die nackte Felsenwand.</p>
+
+               <p>Auftreten kann sie nur auf Klippenspitzen, die blutig ihr die müden Füssc ritzen.</p>
+
+               <p>9Sie seufzt</p>
+            </div>
+
+            <div type="section" n="47">
+               <head>
+                  <title type="main">zum Himmel</title>
+               </head>
+               <p>auf mit leiser</p>
+
+               <p>Bitte, 1450 doch überwindet muthig</p>
+            </div>
+
+            <div type="section" n="48">
+               <head>
+                  <title type="main">Schmerz</title>
+               </head>
+               <p>und Müh, treibt scheltend rascher nur die matten</p>
+
+               <p>Schritte, eilt unerbittlich, säumet, rastet nie — so steht sie plötzlich in der Hole</p>
+
+               <p>Mitte.</p>
+
+               <p>Theodota</p>
+
+               <p>! ruft er, Niketas</p>
+
+               <p>! sie, M55 und in die Arme beide sie sich fliegen, und bleiben lang in stummen Thränen liegen.</p>
+
+               <p>10.</p>
+
+               <p>So dank' ich, Weib, an das der Jugend Lieben, spricht endlich er, mich unverbrüchlich band, dass dieser Augenblick mir ist geblieben, 1460 dem tiefen Hasse denn, der, rachentbrannt, mich rastlos hat bis jetzt umhergetrieben, bis Nahrung er im wilden Kampfe fand. Gekommen war ich, Jussuf hier zu dienen, und Jussufs Bote bist du mir erschienen.</p>
+
+               <p>1 1. M05 Wie könnte sonst mich jemand hier erreichen?</p>
+
+               <p>und Sklavin bist du, seh' ich offenbar;</p>
+
+               <p>8 = 46 A. — g = 4y A. — 10 = 48 A. — II = 4g A. i4j8 „nun^^ A. — 1440 „schicksahnüden^' A.</p>
+
+               <pb n="9.142" xml:id="pbIX142"/>
+               <p>mir sagen's, unglückdeutend, alle Zeichen, der nackte Fuss, das unbesorgte Haar, die Wange, welche Müh und Kummer bleichen. 1470 Wenn so auch noch das zweimal zehnte Jahr uns hier zusammenführt aus dunkler Ferne, so leuchten noch uns unsres Glückes Sterne.</p>
+
+               <p>12. Und diese Huld des Himmels hat gewonnen uns deiner Treue felsenfest Bestehn, 1475 gebadet jetzt in diesem Meer der Wonnen, kann muthig ich durch jedes Schicksal gehn, und furchtbar droht das Leben; ach! zerronnen sind Ruh und Heiterkeit vom Sturmeswehn, das, in des theuren Vaterlandes Brande, 1480 uns, wild ergreifend, wirft von Land zu Lande.</p>
+
+               <p>'3Um dich verliess ich Hellas heitre Fahnen, um dich ergriff ich für den Feind das Schwert. Gestürzt bin ich aus allen Lebensbahnen, die Namen, die mir waren süss und werth, 1485 sind Klänge jetzt, die mich zur Rache mahnen, Geschlecht, Gespielen, Eltern, Heimathsheerd; da sie mich zwangen, Theure, dich zu missen, ist mir und ihnen jedes Band zerrissen.</p>
+
+               <p>14.</p>
+
+               <p>Und nichts soll fürder unser Schicksal trennen, 1490 zu Jussuf kehr' ich selbst mit dir zurück, und als die meine soll er dich erkennen. — O trau dein Leben nicht, mein einzig Glück, ruft sie, dem Wütrich an! Wie ich ihn nennen nur höre, schaudert, starr entsetzt, mein Blick. 1495 Ich muss zu ihm, bei ihm mein Schicksal enden, du nimm ein süsseres aus andren Händen.</p>
+
+               <p>Nie hab ich mehr vom Himmel mir erflehet, als dich zu schauen noch ein einzigmal.</p>
+
+               <p>so A. — 13 = 51 A. — 14 =- 52 A. — 15 = 53 A.</p>
+
+               <pb n="9.143" xml:id="pbIX143"/>
+               <p>der Liebe Odem hat mich jetzt umwehet, 1500 gesonnt mich deiner Augen Himmelsstrahl. Mir ward, was das Geschick mir zugestehet, und ach ! es bleibt mir keine andre Wahl.</p>
+
+               <p>Ich muss zurück, zurück zu dem Barbaren, mich treibts, mich reisst's nach seinen wilden Schaaren.</p>
+
+               <p>16. 1505 Nicht Wahn ist's, der die Phantasie entzündet, nicht eitlen Zaubers luftge Truggestalt, ach ! was ein armes Weib, die dienet, bindet, fasst nur zu sehr, wie Wahrheit, ernst und kalt, die bange Brust, die nimmer sich entwindet 1510 der Fessel unzerreissbarer Gewalt.</p>
+
+               <p>Der Tod unwiderruflich mehr nicht bettet, « als an ihr Loos die Sklavin ist gekettet.</p>
+
+               <p>17Sie spricht und fleht, beschwört, doch nichts beweget den liebend ihr nur zugewandten Mann. 1515 Er lieset Jussufs Zeilen, überleget, und Alles schnell im Geist er ordnet an.</p>
+
+               <p>Sag' ihm, dass meine Hand das Netz schon leget, dess Fäden er in tiefer Klugheit spann.</p>
+
+               <p>Jetzt geh, ich folge gleich; in deine Tritte 1520 setz' ich beglückt ja meiner Füsse Schritte.</p>
+
+               <p>18.</p>
+
+               <p>Und dann in heftger Inbrunst drücket auf ihre Lippen er den Abschiedskuss. Sie ahnden beide nicht, dass sie entrücket zu ewger Trennung jetzt des Schicksals Schluss, 1525 und dass der Schauer, der sie weh durchzücket, ist ihres Lebens letzter Wonngenuss. Er glaubt im schweren Streite kühn zu siegen, ihr bangt nur, dass er Jussuf werd' erliegen.</p>
+
+               <p>16 = 5^ A — /7 = 55 A. — 18 =- 56 A.</p>
+
+               <p>i^ij „spricht es, ßeht" A. — /526' „bangt, dtiss Jussufs Tück er" A.</p>
+
+               <pb n="9.144" xml:id="pbIX144"/>
+               <p>Zehnter und letzter Gesang. Constantius.</p>
+
+               <p>Durch Waldes Dickicht hatt' er sie gelehret 1530 zu finden minder mühevoll den Pfad; sie schreitet sinnend hin, in sich gekehret, zu ernten geht sie neue Jammersaat, der Knechtschaft Qual den Schmerz der Liebe mehret, doch ihrem Busen mild auch Hoffnung naht. 1535 Sie wird ja den Geliebten wiederschauen, an seiner Brust wird ihre Thräne thauen.</p>
+
+               <p>2.</p>
+
+               <p>Als eines Berges Rücken sie erstiegen früh in des dritten Tages Morgenstrahl, und sieht den Gipfel nah schon vor sich liegen, 1540 blinkt's ihr entgegen hell, wie Waffenstahl.</p>
+
+               <p>Sie staunt, will fliehn, doch Reuter plötzlich fliegen auf sie, versperrend ihr die Flucht ins Thal, und drohend schallt es gleich aus aller Munde: woher? wohin? wer bist du? gieb uns Kunde!</p>
+
+               <p>31545 Ein armes Sklavenweib, sagt sie, entlaufen dem Herrn, der an sich sie im Krieg gebracht. Ich habe nichts, von euch mich loszukaufen, und Unglück, ach ! erreget nicht Verdacht. O ! lasst mich ruhig ziehn. Der Rosse Schnaufen, 1550 der Waffen wildes Klirrn mich zittern macht. Ihr Bitten macht der Krieger Mitleid rege, und einer sprach : lasst ziehn sie ihrer Wege !</p>
+
+               <p>4Zu ihrem</p>
+
+               <p>Unglück kam heran gesprenget ein Reuter, der zurück geblieben war.</p>
+
+               <p>I = S7 A. — 2 = sS A. — ^ = S9 A. — 4 == 60 A. 1529 „hat" A. — i§s^ jyAuf ihre Bitte ward" A.<pb n="9.145" xml:id="pbIX145"/> 1555 Das Weib zu sehn, er in die Schaar sich menget, und ruft: sie ist's! an Wuchs, an Blick, an Haar! Ich sah sie oft, wo wild die Schlacht sich dränget, die Sklavin Jussufs ist es offenbar.</p>
+
+               <p>Sein Zeugniss siegt, und unerbarmt geschnüret 1560 in harte Fesseln, wird sie fortgeführet.</p>
+
+               <p>6Sie ist entlaufen nicht.</p>
+
+               <p>Froh, wie zum Tanze, erzählt er fort, durch</p>
+
+               <p>Blut und Morden hin bracht' ihrem</p>
+
+               <p>Pascha sie die Kriegeslanze, und dienet' ihm mit treu ergebnem</p>
+
+               <p>Sinn. 2565</p>
+
+               <p>Sie geizt nicht nach des Märterthumes</p>
+
+               <p>Glänze, sie will nur schnöden, irrdischen</p>
+
+               <p>Gewinn.</p>
+
+               <p>Uns Freiheit möchte sie, und Leben rauben, und theilet nicht mehr unsren heiigen</p>
+
+               <p>Glauben.</p>
+
+               <p>6.</p>
+
+               <p>So höret sie sich schmähn, und weint, doch schweiget, iS/o und wandelt hin in himmlischer Geduld, das kummerschwere Haupt zur Brust gebeuget, nur hoffend auf des mildren Himmels Huld, die sich verzeihend wohl herniederneiget, wo Unglückswahn und Liebe trägt die Schuld. ^575 Durch Zwang zerstört, zerrissen in der Seele, wie könnt' ich, seufzt sie, meiden Schuld und Fehle?</p>
+
+               <p>7*</p>
+
+               <p>Sie wollen ins Gebirge tief sie bringen, um sicher vor des Feindes</p>
+
+               <p>Macht zu seyn.</p>
+            </div>
+
+            <div type="section" n="49">
+               <head>
+                  <title type="main">Don</title>
+               </head>
+               <p>soll der Armen</p>
+
+               <p>Todesspruch erklingen, 1580 niit dem sie wütend schon sie jetzt bedräun.</p>
+
+               <p>Doch erst noch wichtge</p>
+
+               <p>Kunde abzuzwingen ihr hoffen sie durch harter</p>
+
+               <p>Foltern</p>
+
+               <p>Pein.</p>
+
+               <p>Denn jetzt entpresst ihr Antwort keine</p>
+
+               <p>Frage, und Drohn und Mishandlung kaum leise Klage.</p>
+            </div>
+
+            <div type="section" n="50">
+               <head>
+                  <title type="main">&lt;S.</title>
+               </head>
+               <p>'585 Die Starke nicht vor eigner Qual erzittert, sie drücket andren Grames schwer Gewicht.</p>
+
+               <p>S = 61 A. — 6 = 62 A. — y = 6j A. — 8 ^ 64 A. W. V. Hunibüldt, Werke. L\. lO</p>
+
+               <pb n="9.146" xml:id="pbIX146"/>
+               <p>Gehüllt in edles Schweigen unerschüttert, steht auch sie angeklaget vor Gericht, wo noch des Volkes Wuth ihr Loos verbittert,</p>
+
+               <p>1590 und Weib und Kind ihr höhnt ins Angesicht. Mit unsres Glaubens Feind steht sie im Bunde;</p>
+
+               <p>Fluch über ihr! so schallt's aus jedem Munde.</p>
+
+               <p>9Da racheschnaubend alle Wut nur hauchen, und nichts des Weibes starres</p>
+
+               <p>Schweigen bricht, 1595 so wird beschlossen, nun Gewalt zu brauchen.</p>
+
+               <p>Da öffnet ruhig sie den Mund, und spricht:</p>
+
+               <p>Die Hände könnet in mein</p>
+
+               <p>Blut ihr tauchen, doch zu Geständniss bringet ihr mich nicht.</p>
+
+               <p>Getrotzt hab' ich beherzt des Feindes</p>
+
+               <p>Schaaren, 1600 und weiss</p>
+
+               <p>Geheimniss in der Brust zu wahren.</p>
+            </div>
+
+            <div type="section" n="51">
+               <head>
+                  <title type="main">IG.</title>
+               </head>
+               <p>Den Glauben schwor ich ab zu keiner Stunde, ihm dienend, beugt, wie Eures, sich mein Knie.</p>
+
+               <p>Mit den Osmanen steh' ich nicht im Bunde, wie ihr, aus tiefer Seele hass' ich sie. 1605 Doch andren Theuren schlug' ich Todeswunde, wenn treulos den Gedanken Wort' ich lieh. Des Herzens lang ersehntes, einzges Streben verrath' ich nicht in feigem Schmerzensbeben.</p>
+            </div>
+
+            <div type="section" n="52">
+               <head>
+                  <title type="main">II.</title>
+               </head>
+               <p>In jener Zeit, der ihr euch müht zu gleichen, 1610 lag auch ein Weib einst auf dem Bett der Qual, doch biss sich lieber, als dem Schmerz zu weichen, der Rede Werkzeug ab, in harter Wahl; sie setzten eine Löwin ihr zum Zeichen, und Kekrops Stadt glänzt' in der Freiheit Strahl. ^) g = 6^ A. — 10 = 66 A.</p>
+
+               <p>V Die Hetäre Leaina, die als Geliebte des Aristogeiton von dessen Anschlägen auf das Leben der Söhne des Peisistratos wusste, starb auf der Folter und die Athener setzten ihr zur Erinnerung die eherne Bildsäule einer Löwin ohne Zunge: vgl. Pausanias i, 2j; Plinius, Naturalis historia j4, ■J2; Polyainos, Strate- gemata 8, 4ß.<pb n="9.147" xml:id="pbIX147"/> i6i5 Auch mir, die frei von Griechenstamm entsprossen, wird nicht von Marterzwang die Brust erschlossen.</p>
+
+               <p>12.</p>
+
+               <p>Die Richter sind von ihrem Muth betroffen, und sehn, dass tief Verborgenes da hegt. Der Aeltste spricht: Vergebens ist dein Hoffen, 1620 und Marter giebts, der jeder Trotz sich fügt. Doch lassen wir zur Reue Zeit dir oifen, da Milde stets in Griechenherzen siegt. Zurück wird morgen unser Führer kommen, da wird nicht mehr dir Tück' und Starrsinn frommen. 1625 Als einsam sie des Kerkers Mauern fassen, löst auf in tiefe Wehmuth sich ihr Herz, auf ewig soll sie vom Geliebten lassen, kein Hoffnungsstrahl mehr leuchten ihrem Schmerz.</p>
+
+               <p>Zwar, seufzt sie, sollt' ich Licht und Leben hassen, 1630 nichts sollte mehr mich ziehen erdenwärts.</p>
+
+               <p>Doch werd' ich auf des Todes dunkeln Wegen des Theuren Bild, wie jetzt, auch können hegen .^</p>
+
+               <p>14.</p>
+
+               <p>Sie ahndet nicht, dass nur auf diesen Pfaden schon jetzt ihr Fuss ihn noch erreichen kann. 1635 Des Volkes Führer kam zurück, Hess laden die Aeltesten zu sich, und saget' an, wie er des teuflischsten Verrathes Faden zerschnitt, den je des Feindes Tücke spann.</p>
+
+               <p>Niketas hatt' er mordend hingestrecket, 1640 und Jussufs Brief hatt' Alles ihm entdecket.</p>
+
+               <p>15Sein Inhalt, fuhr er fort, Hess mich ersehen, dass eine Sklavin ihn hat überbracht, und diese muss, sollt' auch sie's nicht gestehen, die sevn, die ihr bekamt in eure Macht,</p>
+
+               <p>J2 ^ 6-] A. — ^3 = ^S A. — 14 = (Jg A. — i^ = 'jo A.<pb n="9.148" xml:id="pbIX148"/> 1645 als sie zurück zu Jussuf wollte gehen. — So decke, schrien sie laut, sie Todesnacht I Sie braucht nicht gegen sich erst selbst zu zeugen, den Holzstoss mag die Schuldge gleich besteigen.</p>
+
+               <p>16.</p>
+
+               <p>Und rasch zum Kerker war das Volk gedrungen, 1650 erzählend Alles ihr von Anbeginn.</p>
+
+               <p>Wie da dem Ohr Niketas Tod erklungen, schloss sich ihr Aug', und leblos sank sie hin. Das eigne Leid wohl hat sie ausgerungen, doch darauf war gefasset nicht ihr Sinn. 1655 Er sollte leben, sein das Schicksal schonen!</p>
+
+               <p>dann will sie gern ihr stilles Grab bewohnen.</p>
+
+               <p>17Der ungestümen Menge sinnlos Rufen reisst aus der tiefen Ohnmacht sie empor. Geschleppt wird sie vor des Gerichtes Stufen, 1660 und Tod und Schmach tönt dem betäubten Ohr, und falsche Schuld, die sie zur wahren schufen. Da tritt ein edler Jüngling kühn hervor, blickt an sie, stutzt, ruft: Mutter! starrt erblassend — Auch sie erschrickt, und wankt; doch sagt, sich fassend:</p>
+
+               <p>18. 1665 Ja! deine Mutter man zum Tode führet, ich bin's, Constantius, die dich gebahr; doch wenn mein leises Flehn dein Herz noch rühret, lass werden nicht dein Mitleid offenbar. Den Flammen, die mir Wuth und Rache schüret, 1670 bring, willig opfernd, ich das Leben dar.</p>
+
+               <p>Möcht' ich nur je dir auch verzeihen können, dass ich dich muss Niketas Mörder nennen.</p>
+            </div>
+
+            <div type="section" n="53">
+               <head>
+                  <title type="main">IQ.</title>
+               </head>
+               <p>Den schmähigen Tod, den ihr mir geben wollet, hab' ich verdient, gerecht ist euer Rath.</p>
+
+               <p>16 = ji A. — 17 = 72 A. — 18 = 7j A. — 19 = 74 A.</p>
+
+               <p>1659 „Geführt" A. — 167^ „mir ihr" A.<pb n="9.149" xml:id="pbIX149"/> 1675 Denn Liebe hab' ich stets nur dem gezollet, der euch verfolgete mit Wort und That.</p>
+
+               <p>Leicht hätt' ich Jussufs Schlingen euch entrollet, es blieb ja ungeahndet der Verrath, wenn ich mich flüchtete in eure Mitte, 1680 doch zum Geliebten wandt' ich meine Schritte.</p>
+
+               <p>20.</p>
+
+               <p>Dem Volk gehörst du an, lass frei es schalten, den Deinen bleib, dem Vaterland getreu. Es dränget jetzt ein höhres Schicksalswalten, wo Weibertod verfliegt, wie leichte Spreu. 1685 Es gilt, ob aus tyrannischen Gewalten erstehet Hellas Freiheit rein und neu. —</p>
+
+               <p>Sie spricht's, und mit verhülltem Angesichte entstürzt der Sohn dem grausvollen Gerichte.</p>
+
+               <p>21.</p>
+
+               <p>Mit sichrem Schritt, begleitet von dem Schwärme, 1690 geht sie zum Platz, von dem der Tod ihr winkt.</p>
+
+               <p>Doch wie, rückwärts gebunden beide Arme, am Pfahl sie steht, in Wehmuth tief sie sinkt. Man sieht, wie mit des Herzens bittrem Harme in ungeheurem Leiden stumm sie ringt. 1695 Sie blickt empor; den Busen Seufzer dehnen, und nieder stürzt die Flut verhaltner Thränen.</p>
+
+               <p>22.</p>
+
+               <p>Da drängt ein Greis sich vor mit hastgem Schritte, und Ehrfurcht kühn gebietendem Gesicht.</p>
+
+               <p>Ein Priester war's; er stellt sich in die Mitte 1700 des Markts, und ruft: deckt, Griechen, Schaam euch nicht, ein Weib zu morden nach Barbarensitte? Dem Himmel überlasset ihr Gericht.</p>
+
+               <p>Im Streite lag sie mit des Schicksals Mächten, da muss der Mensch nicht mit dem Menschen rechten.</p>
+
+               <p>231705 Und ihre Bande löst mit eignen Händen er gleich, und führt vom Holzstoss sie herab. —</p>
+
+               <p>20 = ^5 A. — 21 = -jö A. — 22 ^ 77 A. — 25 = 7(S A.</p>
+
+               <pb n="9.150" xml:id="pbIX150"/>
+               <p>Wer ist's, den schützend mir die Engel senden, spricht sie, zu retten mich vom offnen Grab? — Frag nicht! sagt er, wohin du willst dich wenden, 1710 geh unverzagt, dich schützt mein Hirtenstab. — Gesenkten Haupts hin durch des Volks Gedränge geht sie, und stumm theilt sich vor ihr die Menge.</p>
+
+               <p>24.</p>
+
+               <p>Wohin den Pfad nicht Menschentritte finden, birgt sie den Fuss in Waldeseinsamkeit, 1715 in Athos tiefverwachsnen Felsenschlünden lebt sie, allein dem tiefen Gram geweiht, der von den Banden, die ans Leben binden, auf ewig nun die Dulderin befreit. Dem Grabe gleich, ist ihre Brust umschlossen, 1720 und nur aus ihr noch Freud' und Leid ihr sprossen.</p>
+
+               <p>25Bald wann die Sonne sich am Abend neiget, bald wann die Nacht erglänzt im Sternenheer, des Berges höchsten Gipfel sie ersteiget, und schauet hin aufs ungeheure Meer. 1725 Dort, wo sich fern die Küste nicht mehr zeiget, kam, liebeglühend suchend mich, er her. Im Tod hat er sein Schicksal nun erfüllet, doch erst den heissen Drang der Brust gestillet.</p>
+
+               <p>26.</p>
+
+               <p>O, Zeugen wäret ihr, geliebte Wellen, 1730 als ich entzückt ihm in die Arme sank; zwar in des ahndungschwangren Busens Schwellen schon da des Schicksals harter Spruch mir klang, nicht Hoffnung sah ich unsren Pfad erhellen, nur Tod und Trennung dröhn, und Sklavenzwang; 1735 doch Seligkeit schlürft' ich in jenen Stunden, worin auf ewig Ruh dies Herz gefunden.</p>
+
+               <p>24 = jg A. — 2^ = So A. — 26 = 81 A.</p>
+
+               <p>1721. 7722 „wenn" A. — ij^i „ahndungsschwangren" A. — ly^j „meinen" A.</p>
+
+               <pb n="9.151" xml:id="pbIX151"/>
+               <p>27.</p>
+
+               <p>Wenn fest um einen einzigen Gedanken kann von der Kindheit erstem Rosentraum der Mensch des Herzens tiefe Kräfte ranken, 1740 berührt ihn nur, wie leichter Wellenschaum, des Schicksals Wog', und aus des Lebens Schranken tritt still er in des eignen Busens Raum, wo, wie mit Aetherklarheit, ihn umfliesset das theure Bild, das in sich er verschliesset.</p>
+
+               <p>Inhalt.</p>
+
+               <p>Gesang. Theodota Jussuf</p>
+
+               <p>Der Argwohn Die Nacht Der Saumthierzug</p>
+
+               <p>Alorus Die Flucht</p>
+
+               <p>Der Lohn der Treue</p>
+
+               <p>Niketas Constantius</p>
+
+               <p>93</p>
+
+               <p>100</p>
+
+               <p>107</p>
+
+               <p>112</p>
+
+               <p>Il6</p>
+
+               <p>121 128</p>
+
+               <p>139 144</p>
+            </div>
+
+            <div type="section" n="54">
+               <head>
+                  <title type="main">27 = 82 A.</title>
+               </head>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

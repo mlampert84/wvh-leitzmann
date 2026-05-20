@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Kunstvereinsbericht vom 5. Februar 1827</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Sechster Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif0601humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1907">1907</date>
+                  </imprint>
+                  <biblScope unit="page" from="1" to="3"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1827">1827</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="6.1" xml:id="pbVI1"/>
+            <head>
+               <title type="main">I.</title>
+            </head>
+            <div type="section" n="1">
+               <head>
+                  <title type="main">Kunstvereinsbericht vom 5. Februar 1827.</title>
+               </head>
+               <p>Das Directorium ist in Verbindung mit dem Künstlerausschuss bemüht, diese vorhandenen Mittel, zu welchen noch die Einnahme des Jahres 1827. hinzutritt, zu neuen Ankäufen zu verwenden, und wird, mit Rücksicht auf die schon gemachten, durch die Mannigfaltigkeit der zu wählenden Gegenstände dem verschiedenen Talent der Künstler und dem verschiednen Geschmack des Publicums möglichst zu entsprechen versuchen. Denn die Kunst ist mannigfaltig, wie die Natur, und ein Verein, der sie zu befördern bestimmt ist, könnte in keinen schlimmeren Fehler verfallen, als in den der Einseitigkeit. Diejenigen,^) welche ihre Gegenstände unmittelbar aus der Natur, der leblosen oder lebendigen, ja selbst aus den Alltagskreisen des Lebens wählen, beobachten künstlerisch dasselbe Verfahren, als die, welche das Ideal körperlicher Schönheit oder sittlicher Grösse darzustellen'-) streben. Auch die letz- teren müssen, was nicht unmittelbar erscheint, in die Wirklichkeit hinüberführen, und alle, ehe das verschiedene Talent von diesem Punkte aus verschiedene Richtungen nimmt, aus der eng und augenblicklich bedingten Wirklichkeit hinüber in das Gebiet der</p>
+
+               <p>Handschrift ß halbbeschriebene Folioseiten) im Archiv in Tegel. — Erster Druck: Verhandlungen der am 28. Dezember 1S26 und 5. Februar 18-27 gehal- tenen Versammlungen des Vereins der Kunstfreunde im preussischen Staate S. 8—12 (1827).<note type="footnote" n="*)" resp="gnd-116890657"><hi>V „Diejenigen" verbessert aus „Der Landschaftsmaler, der Thiermaler, derjenige".</hi></note></p>
+
+               <pb n="6.2" xml:id="pbVI2"/>
+               <p>fing gewinnt, je bestimmter sie sinnlich gebunden ist. Keine Kunst kann bei der unmittelbaren, augenblicklichen Erscheinung stehen bleiben. Dies beweist vor Allem ein gelungenes Bildniss, wie die letzte Ausstellung mehrere in so verschiedener Art musterhafte aufwies. Die treueste und pünktlichste Aehnlichkeit ist die erste und unerlassliche Bedingung des Bildnisses, welches das Gefühl derer, für die es bestimmt ist, gewissermassen gan;^ der Freiheit der Kunst entreissen möchte, um so viel als möglich nur die Wirklichkeit selbst zu besitzen. Allein das wahrhaft gute Bildniss zeigt niemals die Züge des Augenblicks, sondern die Züge, wie sie dem ganzen Innren in allen ihm eigenen Stimmungen und Gedankenentfaltungen entsprechen, wie sie auf eine mit Worten nicht darzustellende Weise, über jedes abgeschnitten Einzelne hinausgehend, den ganzen Charakter umschliessen. Dies aber vermag nur das Genie des Künstlers, und je weniger ihm Schranken gesetzt werden,^) das Bildniss zum Gemälde zu erheben, desto mehr verstärkt der hellere Widerschein der Kunst auch den Eindruck der blossen Aehnlichkeit.</p>
+
+               <p>Den scheinbaren Widerspruch, dass die Kunst nur innerhalb der Natur lebet und webt, und der Künstler doch sich den Schranken der Wirklichkeit entheben soll, löst das ihm eigen- thümliche Studium der Natur, das sich von dem zu jedem andren Zwecke bestimmten unterscheidet. Wenn auch der Künstler sich nur mit Umriss und Farbe, also mit der äusseren anschaubaren Erscheinung und der Oberfläche der Körper zu beschäftigen scheint, so geht sein Verfahren doch nothwendig von innen nach aussen, vom Unsichtbaren zum Sichtbaren. Er ahmt die Erscheinung nicht einzeln und mechanisch nach, sondern forscht nach ihrem Begrilf und lernt sie erst aus diesem verstehen. Er dringt also in den Begritf, und nicht bloss des Individuums, sondern der Gattung ein, aber fasst denselben nur so auf, wie er sich auf die Erscheinung-) bezieht. Darin dass sich Begriff und Erscheinung nicht in ihm scheiden, sondern einander energisch durchdringen, beruht sein Künstlerberuf. ■'^) Er leiht der Natur nicht subjective.<note type="footnote" n="*)" resp="gnd-116890657"><hi>V „ihm — werden" verbessert aus „der Künstler in der Freiheit ge-</hi></note></p>
+
+               <pb n="6.3" xml:id="pbVI3"/>
+               <p>mittelbar und ohne mit seinem Auge angesehen zu werden, in der Wirklichkeit erscheint.</p>
+
+               <p>Dass die deutsche Kunst vorzugsweise einen hohen Grad der Vonreflichkeit schon in früheren Jahrhunderten erreichte, und dass sie sich auch in den heutigen Künstlern bewährt, liegt vor Allem in diesem so gearteten Studium der Natur. Denn es ist eine Eigenthümlichkeit des deutschen Geistes, von jeder Seite aus die Tiefe des BegritVs jedes Wesens zu ergründen und jedes in seiner ursprünglichen Beschaffenheit-) aufzufassen, so wie eine andre, von den äusseren Erscheinungen auf ihre inneren Gründe zurückzugehen, und beide sich von einander durchdrungen zu denken. Auch die Deutsche Sprache zeichnet sich durch reine Objectivitaet, philosophische Auffassung und tiefe Innerlichkeit des Ausdrucks aus. Ist nun das Kunstgenie mächtig genug, alle Vermögen des Geistes in vollendeter Reinheit zu seiner Form auszuprägen, so führt gerade jene Eigenthümlichkeit zu der ächten, von Manier freien, ganz der Natur angehörenden, und eben darum am meisten idealischen Kunst.</p>
+
+               <p>Ich muss die Nachsicht der A'ersammlung in xVnspruch nehmen, diese allgemeinen Betrachtungen hier eingestreut zu haben. Aber die Aufforderung dazu schien mir, in dem Zweck unsres Vereins und den höchst erfreulichen und zu noch grösseren Hoffnungen berechtigenden Resultaten der letzten Akademischen Ausstellung für die deutsche Kunst, zu nahe zu liegen, um sie unterdrücken zu können.<note type="footnote" n="*)" resp="gnd-116890657"><hi>V „entlehnte Verhältnisse" verbessert ai(S „geschöpfte Gebilde". y „ursprünglichen Beschaffenheit" verbessert aus „Eigenthümlichkeit".</hi></note></p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

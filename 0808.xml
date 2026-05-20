@@ -1,0 +1,435 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pindars vierte pythische Ode</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Achter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif08humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1909">1909</date>
+                  </imprint>
+                  <biblScope unit="page" from="37" to="66"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1792">1792</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="8.37" xml:id="pbVIII37"/>
+            <head>
+               <title type="main">7- Pindars vierte Pythische Ode.</title>
+            </head>
+            <p>An Arkesilaos, König von Kyrene, nach einem Wagensiege in den Pythischen Spielen.</p>
+
+            <p>Die vierte Pythische Ode zeichnet sich durch ihre Länge, durch den Reichthum und die Mannigfaltigkeit der Bilder, welche sie der Phantasie darbietet, und durch ihren zum Theil völlig epischen Gang unter allen, uns von Pindar übriggebliebenen Gedichten aus. Man hat ihr sogar diese Eigenthümlichkeiten zu einem Vorwurf gemacht, und die unverhältnissmässige Länge der episodisch eingewebten Schilderung des Argonautenzuges getadelt. Ich lasse es dahingestellt seyn, inwiefern eine solche Digression mit der Einheit der lyrischen Composition verträglich seyn mag, oder nicht. Aber gewiss, und auch sonst schon bemerkt ist es, dass die Beurtheilung der poetischen Einheit bei den alten Dichtern andre Regeln, als bei den neueren voraussetzt, und dass man nie vergessen darf, dass die erstem insgesammt, nur mehr oder weniger, öffentliche Personen waren, bei bestimmten Gelegenheiten, und vor bestimmten Versammlungen, nicht wie die letzteren, vor einem allgemeinen, unbestimmt gedachten Publikum, oder vielmehr bloss vor dem Richterstuhl des Geschmacks in ihnen selbst auftraten. Wenn diese Eigenthümlichkeit , die, ihrer Natur nach, sowohl Vorzüge als Mängel erzeugen muss, schon auf die Epopee, die Tragödie, vorzüglich auf die Komödie, endlich, da sie innigst in</p>
+
+            <p>Handschrifi: nur ein Entwurf (24 Quartseiten) ist erhalten; bei den Versen<pb n="8.38" xml:id="pbVIII38"/> die griechische ^^o^stellungsa^t verwebt war, auf alle Productionen des griechischen Geistes einen nicht geringen Einfluss ausübte; so ist sie in einem weit vorzüglicheren und nicht selten Nachsicht erheischenden Grade in den Siegeshymnen sichtbar, welche von Pin dar allein auf uns gekommen sind, und die schwerlich, wie- vortreflich sie auch selbst sind, den besten und interessantesten Theil seiner so mannigfaltigen Werke ausmachen mochten. Sollte man aber auch diese Bemerkung gleich in der gegenwärtigen Ode noch so sehr bestätigt finden, so zeigt doch keine andre Pindars Genie in einer solchen Erweiterung, da er in ihr zugleich bewundernswürdige Talente des epischen Dichters entwickelt, und seine meisterhafte Kunst in der Charakterschilderung nirgends so sehr, als hier, erscheint. Je sorgfältiger man die Stelle, wo Jason, zuerst nach Hause zurückkehrend, plötzlich unter seinen Bürgern auf dem Markt erscheint, untersucht, je genauer man die Gegeneinanderstellung des geraden und muthigen Jünglings mit der furchtsamen Verschlagenheit des alten Pelias vergleicht, desto mehr wird man finden, dass jeder kleinste Zug das Gepräge des Charakteristischen an sich trägt. Selbst bei der Aufzählung der einzelnen Helden, die sich dem Jason zugesellten, macht fast ein jeder ein individuelles, in scharfen Umrissen gezeichnetes Bild aus. Da aber Pindar auch bei der Erzählung des Argonautenzuges sich fast bloss an die Schilderung der Charaktere hält, und nur sehr wenig in die eigentliche fortlaufende Beschreibung der Handlung eingeht, so beweist er dadurch zugleich, wie künstlich und vorsichtig er seinen Gegenstand selbst da noch lyrisch behandelt, wo er in der That schon episch zu werden anfängt.</p>
+
+            <p>Immer bleibt es indess der Einbildungskraft schwer, das Ganze dieser Ode in Ein Bild zusammenzufassen, und diese Schwierig- keit wird noch dadurch erhöht, dass der Dichter auf mehrere historische Umstände anspielt, welche, da sie einen nicht gerade sehr wichtigen Theil der alten Geschichte betreffen, nur den wenigsten Lesern sogleich gegenwärtig seyn können. Um die Uebersicht des Ganzen zu erleichtern, dürfte es daher nicht überiiüssig se3'n, den Gang der Ode in wenigen Zügen vorzuzeichnen, und zugleich die nöthigsten historischen Notizen hier in einer zusammenhängenden Erzählung vorauszuschicken, damit die Aufmerksamkeit bei der Lesung des Gedichts selbst nicht zu oft durch einzelne Anmerkungen unterbrochen werde.</p>
+
+            <p>Pindar besingt in diesem Hymnus den Wagensieg, welchen<pb n="8.39" xml:id="pbVIII39"/> der Kyrenäische König Arkesilaos in den Pythischen Spielen davongetragen hatte. Allein ausser der Feier dieses Sieges, hat er, wie das Ende der Ode deutlich beweist, noch die Absicht, einen gewissen Damophilos, einen Kyrenäer, der, wie es scheint, bei ausgebrochnen innerlichen Unruhen vom Arkesilaos aus seinem Vaterlande vertrieben, und nach Theben geflüchtet war, wieder mit seinem Könige auszusöhnen. Nur aus diesem letztern Standpunkte angesehn, wird die sonst sonderbare Anlage des Ganzen verständlich.</p>
+
+            <p>Arkesilaos hatte in den Pythischen Spielen, also bei Delphi, gesiegt; das Delphische Orakel hatte auch zuerst die Anlegung der Kyrenäischen Kolonie veranlasst, und daher nimmt der Dichter Gelegenheit, unmittelbar von der Erwähnung des Sieges auf die Gründung der Stadt überzugehen, welche der Sieger beherrschte, und diese zum Hauptthema seines Gedichts zu wählen. Dadurch wird er erst auf die Geschichte der Insel Thera, und hernach auf den Argonautenzug geführt.</p>
+
+            <p>Arkesilaos Vorfahren stammten nemlich ursprünglich von den Argonauten ab. Denn als diese auf ihrem Zuge gerade zu der Zeit in Lemnos landeten, als die Lemnierinnen ihre Männer ge- tödtet hatten, so vermählten sie sich mit denselben, und die Abkömmlinge der von ihnen dort erzeugten Kinder kamen, von den Pelasgern aus Lemnos vertrieben, nach Lacedämon, wo man sie, vorzüglich in Rücksicht auf die Tyndariden, die dem Zuge beigewohnt hatten, aufnahm. Weil sie aber Unruhen zu stiften anfingen, wurden sie ins Gefängniss geworfen, und als sie von da mit List entkamen, berathschlagte man sich, wie man sie greifen und hinrichten wolle. Zu eben dieser Zeit war Theras, welcher als Vormund für seine Schwestersöhne die Regierung in Sparta geführt hatte, und nach ihrer Grossjährigkeit nicht wieder von ihnen beherrscht seyn wollte, im Begriff, eine Kolonie nach Kallista, die nachher Thera hiess (einer kleinen Insel im Aegäischen Meere), zu führen, um sich dort mit seinen Verwandten zu vereinigen. Denn KalHsta wurde damals von Abkömmlingen des Kadmos bewohnt, von welchem auch Theras sein Geschlecht durch Polynikes und Oedipus ableitete. Dieser schiffte die verurtheilten Abkömmlinge der Argonauten mit sich ein, und führte einen Theil von ihnen nach Thera. Unter den Nachkommen derselben war ein gewisser Battos, der in der siebzehnten Generation von Euphemos, einem der Argonauten, und einer Lemnierin abstammte. Dieser,<pb n="8.40" xml:id="pbVIII40"/> um mit Pindar der Sage der Kyrenäer zu folgen (denn die der Theräer wich hievon ab), hatte eine fehlerhafte stotternde Sprache und fragte das Delphische Orakel, wie er von diesem Uebel befreit werden könne ? Die Pythia aber antwortete hierauf nicht, sondern befahl ihm zu verschiedenen Malen, eine Kolonie nach Libyen zu führen. Auf den wiederholten Befehl des Orakels entschloss er sich endlich dazu, und baute, nach zweimal verändertem Wohnsitz, Kyrene, das auf diese Weise unmittelbar eine Pflanzstadt von Thera, mittelbar aber von Lacedämon war. Von Battos stammte Arkesilaos in der achten Generation ab.</p>
+
+            <p>Der erste Theil der Ode (^. i — 103.) beschäftigt sich allein mit der ersten Veranlassung zur Gründung von Kyrene. Auf der Nordküste von Afrika hatte eine Gottheit des Landes den zurückkehrenden Argonauten eine Erdscholle zum Gastgeschenk ange- boten. Euphemos hatte sie angenommen, brachte sie aber nicht mit sich nach Hause zurück; sondern da sie aus Versehen aus dem Schiffe fiel, schwamm sie an das Ufer der Insel Thera. Den Sinn dieses Vorfalls, und wie an diese Scholle das Recht auf die Bevölkerung und den Besitz von jener Küste geknüpft sey, erklärt Medea den Argonauten, indem sie ihnen zugleich den Zug ihrer Abkömmlinge nach Thera und die von dort nach Kyrene gesandte Kolonie weissagend vorherverkündigt.</p>
+
+            <p>Nachdem der Dichter hierauf die Erfüllung dieser Weissagung berührt, und sich an den Sieger gewendet hat (v. 104 — 123.), geht er zum Argonautenzuge, als der ursprünglichen Veranlassung der Bevölkerung von Kyrene, über.</p>
+
+            <p>Dieser war seiner Absicht in doppelter Hinsicht angemessen, da er ihm Gelegenheit gab , den Ahnherrn seines Siegers , den Euphemos, in einer glänzenden Verbindung mit den ersten Helden Griechenlands zu zeigen, und zugleich in Jasons grossmüthigem und gemässigtem Betragen gegen Pelias ein Muster der Versöhnlichkeit unter Verwandten und Bürgern aufzustellen. Er verweilt daher am längsten bei der Veranlassung des Zuges und der Abfahrt der Helden, und fasst alles Uebrige nur in wenigen Strophen zusammen, (v. 124 — 438.) Ueber den Weg, welchen Pindar den Argonauten anweist, ist viel von den Auslegern gemuthmasst worden. Um sich aber aus der Verwirrung zu retten, in welche diese Muthmassungen führen, und sich den Zug auf eine einfache und zugleich sinnliche Weise darzustellen, darf man nur einen Blick auf die Homerische Welttafel werfen, welche Voss seiner</p>
+
+            <pb n="8.41" xml:id="pbVIII41"/>
+            <p>41 Uebersetzung der Odyssee beigefügt hat — eine meisterhafte Arbeit und die allein hinreichend beweist, dass ihr Verfasser mit eben so tiefem Forschungsgeiste in die Vorstellungsweise des Alterthums eindringt, als er mit bewundernswürdigem Genie die dichterischen Produkte desselben in unsre Sprache überträgt. Auch Pindar bleibt im Ganzen genommen hier den ersten Begriffen der Erdkunde getreu, nur dass er einige, jener früheren Zeit unbekannte Namen einmischt. Seiner Beschreibung und jenen Begriffen nach, kann man sich, dünkt mich, die Reise der Argonauten nicht anders, als folgendermassen denken. Von Jolkos, Jasons Vaterstadt in Thessalien, schifften sie durch den Hellespont und Propontis (die Pindar jedoch nicht nennt) in den Pontus Euxinus, welcher aber damals noch nicht Euxinus (der wirthliche, von den griechischen Pflanzstädten an seinen Küsten), sondern Axinus (der unwirthliche, wegen der ihn umwohnenden Barbaren) hiess. Von dort gelangten sie durch den Phasis nach Kolchis. Den Rückweg nahmen sie gerade in der entgegengesetzten Richtung. Durch den Phasis strömte nemlich, wie man sich vorstellte, der die ganze Erde um- fliessende Okeanos auf der Ostseite ein. In diesen kamen sie vom Phasis aus, und so weiter an die östliche und südliche Küste von Libyen (Afrika), wo Pindar das rothe Meer nennt. Um Afrika segeln sie nicht hinum, sondern gehen von Süden nach Norden, indem sie die Argo auf den Schultern tragen, zu Fuss über das Land bis an den See Triton. Da, jenen Vorstellungen zufolge, Afrika überhaupt überaus schmal war, an dieser Stelle aber die Bucht bei der Syrte seine Breite noch vermindert, und man sich den Tritonischen See tief innerhalb des Landes und vermittelst eines schmalen Stromes ins Meer ausfliessend dachte, so war dieser Landweg, den Pindar auf zwölf Tagereisen bestimmt, nicht übermässig gross. Von dem Tritonischen See endlich steuerten sie durch das Aegäische Meer bei Thera vorbei nach Hause, kamen aber, vielleicht durch den Wind verschlagen, zuerst weiter nördlich nach Lemnos.</p>
+
+            <p>Mit einer Wendung, welche auch noch in andren Oden auf eine ähnliche Weise wiederholt ist, bricht der Dichter jetzt die lange Digression vom Argonautenzuge plötzlich ab, und wendet sich nunmehr allein zu seinem Hauptgegenstand, dem Sieger, und Damophilos Bitte um seine Rückkehr nach Kyrene. Hier (v. 439.) beginnt derjenige Theil des Gedichts, welcher leicht in den Augen der meisten Leser als der schönste und wichtigste erscheinen<pb n="8.42" xml:id="pbVIII42"/> dürfte. In einer Reihe treflicher Sentenzen, in welchen die Tiefe des Sinnes mit der Kürze und der Kühnheit der Dil?;tion wetteifert, fordert Pindar den Arlvesilaos zur Grossmuth und Mässigung gegen seine Feinde auf, zeigt ihm (v. 467—479.) zugleich in einer feinen und räthselhaften Einkleidung die nachtheiligen Folgen, mit welchen allzugrosse Strenge sich selbst zu bestrafen Gefahr läuft, und empfiehlt den verbannten Damophilos. Ob man nun gleich aus diesem Schlüsse wohl sieht, dass unter Arkesilaos Regierung bürgerliche Unruhen ausgebrochen seyn müssen, deren Theilnehmer Arkesilaos mit grosser Strenge verfolgte, so weiss man doch übrigens von dem genaueren Detail dieser Begebenheiten fast nichts, so wie überhaupt nur sehr wenig von der letzten Periode der Kyrenäischen Könige aus dem Geschlecht der Battiaden. Von Battos, dem ersten Erbauer von Kyrene, an, herrschten nemlich, wie auch das Orakel zu Delphi geweissagt hatte, acht Könige über Kyrene, v/elche wechselsweis den Namen Battos und Arkesilaos führten. Die Geschichte der ersten sechs derselben erzählt Herodot ausführlich. Aber von den beiden letzten finden sich nur wenige und zerstreute Nachrichten. Der Sieger, an den diese Ode gerichtet ist, war der letzte von ihnen, Arkesilaos IV, mit dessen Ermordung die Herrschaft der Battiaden über Kyrene aufhörte und eine Volksregierung an ihre Stelle trat. Seinen gegenwärtigen Sieg in den Pythischen Spielen trug er, wie der Scholiast des Pindar, übereinstimmend mit den übrigen Geschichtsumständen , bezeugt, in der 3isten Pythiade (461. V. Chr. G., wenn man die erste Pythiade in das Jahr 581. V. Chr. G. setzt) davon, und die Verfertigung dieser Ode fällt daher in die letzten zehn Lebensjahre Pindars.</p>
+
+            <p>Soviel wird zum Verständniss der Ode im Ganzen hinreichend seyn. Ueber die Uebersetzung füge ich hier, wo es nur vorzüglich darauf ankommt, Leser, die des Griechischen unkundig sind, mit einem der vorzüglichem Stücke Pindars bekannt zu machen, nichts weiter hinzu. Nur bemerken muss ich, dass sie schon seit einigen Jahren fertig liegt, und dass ich sie jetzt, bei nochmaliger Durchsicht, an noch mehreren einzelnen Stellen umgeändert haben würde, wenn ich nicht gefürchtet hätte, der Einheit des Ganzen zu schaden, von welcher die Hauptwirkung abhängt.</p>
+
+            <p>Das Silbenmaass kommt mit dem des Originals in der Wieder- kehr ähnlicher rh3^thmischer Perioden, nicht aber in Absicht der<pb n="8.43" xml:id="pbVIII43"/> einzelnen Verse überein, welches letztere ich erst späterhin versucht habe. Mich über die Nachbildung der lyrischen Silben- maasse der Griechen im Deutschen genauer zu erklären, verspare ich, bis ich, wie ich bald hoffe, im Stande bin, über die Pindarischen Silbenmaasse selbst Rechenschaft abzulegen, — eine Arbeit, die um so nothwendiger ist, als gerade die neuesten und berühm- testen Herausgeber des Pindar sie zum nicht geringen Nachtheil der genaueren kritischen Behandlung des Dichters so gut als gänz- lich vernachlässigt haben.</p>
+
+            <p>I. Strophe.</p>
+
+            <p>Heute ziemt es Dir, Muse, dem theuren Mann zur</p>
+
+            <p>Seite zu stehen, der rossereichen KjTene</p>
+
+            <p>Herrscher, heut', an Arkesilas Siegesfeste, Pytho der schuldigen Hymnen Hauch und den Kindern 5 Leto's zu schwellen; da, wo einst, in Kronions goldener Adler Mitte — Phöbos weilte nicht fern — die Jungfrau dem Battos Libyens lo fruchtbare Fluren zu bebauen, weissagend gebot, dass weichend vom heiigen Eiland, auf des Landes silberschimmernder HöhV) die wagenrüstige Stadt er gründe.</p>
+
+            <p>I. Antistrophe. ^5 Also sollt' er, nach sechzehn dahingeschwundnen</p>
+
+            <p>Menschengeschlechtern, das Wort Medeens vollbringen, welches einst mit begeistertem Mund' in Thera Kolchis Gebietrin, Aeetes muthige Tochter ahndend verkündet. 20 Also sprach sie zu Jasons götterentsprossnen Schiffern : „Hört mich. Söhne der tapfern Helden und Götter, denn ich sag' Euch, es pflanzt aus 25 diesem wogenirrenden Land<pb n="8.44" xml:id="pbVIII44"/> sich Epaphos Tochter in Kronion- Ammons Sizen einst einen Stamm von Städten, aller Irrdischen Sorgfah.</p>
+
+            <p>I. Epode. Mit kurzbeschwingten Delphinen 30 werden sie schnelle Rosse vertauschen, und an der Ruder Statt, Zügel lenken und windschnell eilende Wagen. Jenes Zeichen wird Erfüllung krönen, Thera zur Mutter mächtiger 35 Städte machen — jene Scholle Erde, welche zum Gastgeschenke, bei des Tritonischen Sees Mündung, springend herab vom Schiff, Euphemos aus des menschenähnlichen Gottes 40 Hand empfieng. Heilverheissend sandte Vater Zeus ihm einen rollenden Donner.</p>
+
+            <p>2. Strophe. Lichtend hängten wir eben den erzbeschlagnen Anker, der eilenden Argo Zaum, an das Schiff; da kam er zu uns. Zwölf Tage lang hatten wir das 45 wogendurchwandelnde Fahrzeug vom Oceane über der Erde wüsten Rükken — denn also rieth ich es Euch — getragen. Da begegnet', in eines 50 ehrwürdgen Helden hehres Antliz gehüllet, uns der einsamwaridernde Gott; und trauliche Worte sprach er — also ladet wohl der gastfreie Mann 55 den kommenden Fremdling freundlich zum Mahl.</p>
+
+            <p>2. Antistrophe. Doch die süssere Rükkehr verbot uns dort zu weilen. Da nannt' er Eurypylos seinen Namen, rühmte sich des nie alternden Erdumgürters Sohn, und erkannte die Eil der dringenden Heimfahrt.<pb n="8.45" xml:id="pbVIII45"/> 60 Schnell griff er Erde mit der Rechten vom Boden, uns zum Geschenk zu geben. Nicht die Gabe verschmähend, schwang sich Euphem ans Land, und 65 freudig empfieng er da die göttliche Scholle ^) von ihm.</p>
+
+            <p>Jezt aber, vernehm' ich, gieng sie plözlich von des Meeres salziger Flut hinv^eggespült aus dem schnellen Schiffe,</p>
+
+            <p>2. Epode. 70 hin mit des Oceans Wogen.</p>
+
+            <p>Oftmals befahl ich zwar sie zu hüten den mühentladenden Dienern, doch es entschwand dem Sinn der Vergessnen. Und zu früh ist nun in diesem 75 Eiland Libyens unvergänglicher</p>
+
+            <p>Saame verstreut. Denn wenn in der heiligen Taenaron, an des Aides unterirrdischer Mündung, einst heimkehrend Euphemos, Poseidaons 80 Sohn, des Rossbezähmers, ihn legte — er, den Tityos Tochter einst, Europa, an Kephissos Ufern gebohren —</p>
+
+            <p>3. Strophe. dann errang ihm sein Blut in der späten Enkel viertem Geschlechte mit Hellas Söhnen die weite, 85 unermessliche Küste. Denn dann verlassen sie Lakedämons Flur, dann Mykene und Argos trauernden Busen.</p>
+
+            <p>Doch nun zeugt er in fremder Weiber Umarmung einen 90 auserlesenen Stamm, dem ehrend die Götter dieses Eiland verleihen.</p>
+
+            <p>Und aus ihm entsprosset der Mann, y Im Entwurf: „schiksalschwere Erde".</p>
+
+            <pb n="8.46" xml:id="pbVIII46"/>
+            <p>der schwarzumwölkten ^) Gefilde Herrscher, 95 dem, vom goldumschimmerten Thron, wenn forschend zu Pythos Tempel er kommt,</p>
+
+            <p>3. Antistrophe.</p>
+
+            <p>einst Apollon weissagend gebeut, dass, Schiffe rüstend, er viele der Schaaren hin zu des Nilos,</p>
+
+            <p>Kronos Sohns, fetten, heiligen' Auen führe." 100 Also die Rede Medeens. Und unbeweglich</p>
+
+            <p>Sassen verstummend, ob der Weisheit der Deutung staunend, die Göttersöhne. Seelger Sohn Polymnestos, 105 Dich verherrlichte da der</p>
+
+            <p>Delphischen Jungfrau -) unentlokt ertönender Spruch. Denn dreimal mit freudigem Willkommen Dich begrüssend, nannte sie Dich HO Kyrenens schiksalbestimmten König,</p>
+
+            <p>3. Epode. als nach der stotternden Stimme</p>
+
+            <p>Lösung Du forschtest, welche die Götter verhiessen. Und jezt auch grünet, wie in des purpurblumigten Frühlings 115 Jugend, seiner hohen Enkel achter Sprössling, Arkesilas, welchen mit des Wagensieges Ruhm nun durch der Amphiktyonen Richterspruch Phöbos kränzet und Pytho. 120 Ihn soll heute mein Lied den Musen weihen, und des Widders goldenes Vliess. Denn als nach diesem die Minyer schifften, pflanzten hohe Würden ihnen die Götter.</p>
+
+            <p>4. Strophe. Welchem Anfang entspann sich der Zug der Helden? 125 Welcher Gefahren Macht drängte sie mit des f^rzes V Im Entwurf: „sc/nvarzversengten". y Im Entwurf: „Biene".</p>
+
+            <pb n="8.47" xml:id="pbVIII47"/>
+            <p>Keil? Verheissen war Pelias einst von Aeols muthvollen Söhnen zu fallen, ihrer Hand, oder siegendem Rathschluss. Denn von der heiligen Jungfrau 130 Mund auf der v^ald umkränzten</p>
+
+            <p>Erde Mitte ^) geweissagt, kam ihm ein schauervoller</p>
+
+            <p>Ausspruch und warnte ihn vor dem einschuhigen ^) Mann, 135 wenn von des Gebirges Heerden einst er zu Jolkos sonniger Flur, ein Fremdling, oder ein Bürger, käme.</p>
+
+            <p>4. Antistrophe. Und er kam mit den kreisenden Monden. Zween mächtige Speere schwang sein Arm, ein ungeheurer 140 Mann; ein doppeltumhüllend Gewand bedekt' ihn; eins nach Magnesischem Brauch der herrlichen Glieder Schönheit umfliessend; drüber wehrte des Pardels Haut den stürmenden Wettern. 145 Glänzend umwallten ringelnd, nimmer verlezt vom scharfen</p>
+
+            <p>Stahle, die Lokken seinen ganzen Rükken. So stand er furchtlos schreitend, erprüfend seines 150 Busens unerschütterten Muth, vom Volk umdrängt, in des Marktes Mitte.</p>
+
+            <p>4. Epode. Sie kannten ihn nicht, und staunend redete also einer zum andren:</p>
+
+            <p>„Diess ist nicht Phöbos Apollon; 155 nicht Aphroditens Liebling mit ehrnem^)</p>
+
+            <p>Wagen. Fern in Naxos Auen sanken Iphimedeens Kinder — so V Im Entwurf: „Mutter Nabel", y Im Entwurf: „halbbeschuheten". ") Im Entwurf: „goldnem".</p>
+
+            <pb n="8.48" xml:id="pbVIII48"/>
+            <p>geht die Sage — Otos hin, und Du, vermessener Epialtes. Auch 160 traf den Tityos mordend längst schon Artemis schneller Pfeil, der Göttin niebesiegtem Köcher entstürmend,^) dass erreichbare Liebe nur der Menschen</p>
+
+            <p>Busen-) zu erstreben sich wähle."</p>
+
+            <p>5. Strophe. 165 So der Staunenden Wechselgespräch. Da kam mit eilenden Mäulern im schöngeglätteten Wagen</p>
+
+            <p>Pelias plözlich herbei, und Entsezen fasst' ihn, als er den kenntlichen ^) Schuh allein an dem rechten Fusse bemerkte. 170 Doch verschlagen den bangen</p>
+
+            <p>Kummer im Herzen bergend, fragt er freundlich ihn: „Welches Landes Entsprossnen nennst Du rühmend Dich, Fremdling? 175 Welches erdgebohrene Weib trug Dich, als Mutter, im edlen Schooss? Nicht Deinen Mund mit schändlichem Trug entweihend, verkünd' uns Deine Abkunft."</p>
+
+            <p>5. Antistrophe.</p>
+
+            <p>Unerschrokken erwiedert' er ihm mit sanften 180 Worten: „Ich rühme mich Chirons Lehre zu üben.</p>
+
+            <p>Denn von seiner umschatteten Hole komm' ich, Philyra und Chariklo verlassend, wo sorgsam mich des Kentauren reine Töchter erzogen. 185 Aber nie sie mit Worten, noch mit Werken erzürnend,^)</p>
+
+            <p>V Im Entwurf: „Bogen entschwirrend". ^} Im Entwurf: „Geschlecht", y Im Entwurf: „schiksalverheissnen" .</p>
+
+            <p>*■) Im Entwurf: ,jenen mit keinem kindlichen Wort noch Wink mich öfnend".</p>
+
+            <pb n="8.49" xml:id="pbVIII49"/>
+            <p>kehr' ich jezo, nach zwanzig Jahren, nach Hause, um des Vaters, nun sonder Recht 190 verwaltete, alte Würde, die dem Völkerführer Aeolos einst und seinem Stamm Zeus verlieh, zu nehmen.</p>
+
+            <p>5. Epode. Denn frevlerisch hat sich, hör' ich, seines Ehrgeizes Uebermuth folgend, 195 gewaltsam Pelias meiner</p>
+
+            <p>Eltern uralter Herrschaft bemächtigt, die, als ich zuerst den jungen Tag erblikte, den unversöhnlichen Herrscher fürchtend, schnell mit düstrer 200 Trauer, als war' ich todt, und jammernder</p>
+
+            <p>Weiber Klagegeheul das Haus erfüllten, und mich, in Purpurwindeln eingehüllt, und heimlich die Nacht mir zur Genossin des Weges wählend, sandten 205 Chiron^) mich zur Pflege zu geben.</p>
+
+            <p>6. Strophe.</p>
+
+            <p>Doch jezt wisset Ihr kurz meines Lebens Schiksal.</p>
+
+            <p>Zeiget mir wahrhaft -) nun, edle Bürger, die Wohnung meiner Ahnherrn mit schimmernden Rossen. Denn ein</p>
+
+            <p>Sprössling des Landes, und Aesons Sohn, komm' ich, nicht ein aio Fremdling zu Fremden.</p>
+
+            <p>Jason nannte mich Chiron,</p>
+
+            <p>Kronos Erzeugter." Also sprach er, und es erkannt' ihn, wie es ihn sah, des Vaters 215 Auge; da beben</p>
+
+            <p>Thränen von der Wimper dem Greis, es freut sich innig das V^aterherz, nun wieder zu erblikken den Sohn, den schönsten der erdgebohrnen Männer.<pb n="8.50" xml:id="pbVIII50"/> 50</p>
+
+            <p>6. Antistrophe. 220 Schnell besuchen ihn freudig die beiden Brüder, hörend den schallenden Ruhm des Sohns/) aus der Nähe Pheres, den Hypereischen Quell verlassend, und aus Messenien Amythaon; auch eilen, dass sie des Oheims 225 Sohn begrüssen, Admetos hin und Melampos. Alle nimmt am fröhUchen Mahl mit kosender Rede Jason freundlich auf, spendet 230 süsse Freundschaftsgaben, und wekt jeglicher Freude Reiz. Also pflükken sie fünf Tag' und Nächte hindurch des Vollgenusses heilige Blume.</p>
+
+            <p>6. Epode. Am sechsten aber legt er von 235 Anfang die ganze männliche Rede den Freunden prüfend vor. Alle geben ihm Beifall, und er verlässt mit » ihnen schnell des Vaters Hütte. Eilend stehen sie bald an Pelias 240 Schwelle. Sie vernehmend gehet der schönlokkigen <note type="footnote" n="^)" resp="gnd-116890657"><hi>Im Entwurf: „die Ankunft des Jünglings". ■) Im Entwurf: „lokkenf reuenden". y Im Entwurf: „Felsbewohners". *J Im Entwurf: „folternder Reue Abgrund".</hi></note> Tyro hehrer Sohn freundlich ihnen entgegen.</p>
+
+            <p>Da beginnt mit sanfter Stimme, mit des Friedens süss hinströmender Rede, 245 Jason weiser Gespräche Grund zu legen.</p>
+
+            <p>„Sohn des Erdumgürters ^) Poseidon!</p>
+
+            <p>7. Strophe. Schneller eilet der Sterblichen Herz, des Truges schnöden Gewinnst, denn des Rechtes Pfade, zu wählen schleicht es gleich so zu bitterer Reue Qualen.*) 250 Uns aber ziemt es, der Brust Begierden besiegend,<pb n="8.51" xml:id="pbVIII51"/> friedlich der Zukunft Heil zu weben. Von Einer</p>
+
+            <p>Mutter — Du weisst es — stammte Kretheus ab, und Salmoneus 255 frevelnde Kühnheit. Und von ihnen, die dritten Enkel, sprossend, sehen jezt wir der Sonne goldene Kraft. Die Mören fliehen, wenn, verhüllend die Schaam, 260 Zwist Eines Blutes Entsprossne spaltet.</p>
+
+            <p>7. Antistrophe. Nicht mit schildezertrennenden Schwerdtern, nicht mit Lanzen gebühret es uns, der herrlichen Ahnherrn hohe Würde zu theilen. Ich lasse Dir die</p>
+
+            <p>Heerden der Schaafe, die röthlichen^) Rinder, und alle 265 Aekker, womit Du, meinen Eltern sie raubend, jezt Deinen Reichthum nährst. Es kränkt mich nicht, dass Dein Haus diess glänzend erhebe. Doch den 270 Scepter der Herrschaft und den Thron, von welchem herab einst der Kretheide des Rechtes Gränze seinem rossezähmenden-) Volk mit Weisheit schied, den gieb jezt uns wieder,</p>
+
+            <p>7. Epode. 275 dass friedlich wir uns schlichten, und nicht Du ein neues Unheil erwekkest." So sprach er, und schwieg. Da sagte freundlich erwiedernd Pelias ihm: „So will ich es. Doch schon umdämmert 280 mich des sinkenden Alters Abend. Dir glüht der Jugend Blüthe noch. Du könntest jezo der unterirrdischen Götter Rache mir wenden.</p>
+
+            <p>V Im Entwurf: „und gelben".</p>
+
+            <p>'^) Im Entwurf: „rossefreuenden".</p>
+
+            <pb n="8.52" xml:id="pbVIII52"/>
+            <p>Seinen Schatten zu rufen, ^) mahnt mich Phrixos, 285 ziehend zu Aeetes Pallästen, dort des wolligten Widders Vliess zu holen, der ihn einst des Oceans Wogen,</p>
+
+            <p>8. Strophe.</p>
+
+            <p>und der Stiefmutter frevelndem Arm -) entrissen. Also verkündete mirs ein Wundergesicht im 290 Traum. Da fragt' ich Kastaliens Seher, ob ich</p>
+
+            <p>Wahrheit erspähte? und schnell befahl mir den Schiffszug Phöbos zu rüsten.</p>
+
+            <p>Diese Arbeit vollbringe willig mir nun; dann, schwör' ich, 295 geb' ich weichend den Scepter Dir und die Herrschaft. Unsrer beiden Geschlechte</p>
+
+            <p>Vater, Zeus — ein mächtiger Schwur — sei Zeuge." Auf dieses Bündniss schieden 300 beide, nun geschlichteten Sinns.</p>
+
+            <p>Und Jason entbot Herolde eilend,</p>
+
+            <p>8. Antistrophe.</p>
+
+            <p>überall den gerüsteten Zug mit lautem Ruf zu verkünden. Da kamen, nimmerermüdend in des Kampfes Getümmel, drei Söhne Zeus, die 305 Kinder Alkmenens und der schwarzäugigen Leda.</p>
+
+            <p>Herrlich mit wehndem</p>
+
+            <p>Helmbusch ^) eilten, Poseidons Abkunft, zwei Helden, ehrend ihre Stärke, herbei von 310 Tänarons Höhn und Pylos.</p>
+
+            <p>Strahlend erhebt ihr Ruhm sich, Periklymenos Kraft, und Deine, Euphemos. Von Apollon naht' Orpheus, der Vater des Lieds, 315 der vielgepriesene Harfensänger!</p>
+
+            <p>V Ifn Entwurf: „sühnen". V Im Entwurf: „Pfeil". "J Im Entwurf: „im Glanz der Lokken".</p>
+
+            <pb n="8.53" xml:id="pbVIII53"/>
+            <p>8. Epode. Hermes mit goldenem Stabe sandte zur harten Arbeit der Helden das Zwillingspaar, Echion in schäumender Jugend, und Erytos. Auch 320 die des luftigen Pangäos</p>
+
+            <p>Fuss umwohnten, gesellten sich zu der Schaar. Denn frohen Muthes rüstet</p>
+
+            <p>V schnell der König der Winde, Boreas, seinen Kaiais, willig 335 seinen Zetes zum Zuge. Beiden dekken leichte Purpurschwingen den Rükken.</p>
+
+            <p>So entzündete süsser ^) Sehnsucht Zauber zu der schnellen Argo im Busen</p>
+
+            <p>9. Strophe. aller Götterentsprossenen Here, dass im 330 Schoosse der Mutter gefahrlos keiner die Tage fern verzehrte, den Freunden zur Seite lieber auch mit dem Tod seiner Tugend ewige Dauer jeder erränge. Schnell erreichte der Schiffer 335 ßlüthe Jolkos Fluren.</p>
+
+            <p>Rühmend musterte alle</p>
+
+            <p>Jason. Dann aus der Vögel günstigem Fluge, und des Looses heiligem Wurf 340 weissagend, vertraute Seher Mopsos sichern Muths der Argo die Schaar, und lichtend hängten sie hoch die Anker.</p>
+
+            <p>9. Antistrophe.</p>
+
+            <p>In den Händen die goldene Schall«*- fleht am Steuer der Führer des Zugs zum Vatcr der Götter 345 laut, dem blizebewafneten Zeus, der Wellen eilendem Sturz, und der Winde, rufet des Meeres Pfaden, den Nächten, heiter lächelnden Tagen,</p>
+
+            <p>V Im Entwurf: „fesselnden".<pb n="8.54" xml:id="pbVIII54"/> und der ersehnten Rükkehr. 350 Heilverkündend ertönt ihm hoch da des Donners Stimme; nieder vom Aether zükt des Blizes röthlicher Strahl. Des Gottes Zeichen sicher vertrauend, 355 stehen, neugewafnet mit Muth, die Göttersöhne, und treibend mahnet</p>
+
+            <p>9. Epode. der Seher sie jezt, furchtlose Hofnung verheissend, muthig zu rudern. Leicht eilte unter der Helden 360 Händen der Ruder rastloser Schlag. Von Notos schnellem Hauch geleitet, sahen sie des Axinos Mündung. Hier weihten sie dem Meerbeherrscher Poseidaon — denn eine Thrakische 365 Heerde röthlicher Rinder, und ein steinerner, gottgeformter Altar war dort — eine heilige Stätte; und nach tiefen Gefahren heissverlangend flehten sie zum Herrscher der Schiffe,</p>
+
+            <p>10. Strophe. 370 dass der donnernden Eile der nie bezähmten, wild sich begegnenden Felsen Argo entrönne. Denn sie lebten, die Zwillingsfelsen! schneller wälzten sie sich, denn der furchtbartosenden Stürme Heere zusammen. 375 Jener Zug aber brachte ihnen den Tod. Im Phasis landend, nahten den braunen Kolchern sie ihre Kraft, und König Aeetes. 380 Aber damals brachte zuerst den Sterblichen vom Olymp, unlösbar künstlich im vierspeichigen Rad gefesselt, den bunten lynx, jenen</p>
+
+            <pb n="8.55" xml:id="pbVIII55"/>
+            <p>10. Antistrophe.</p>
+
+            <p>lieberasenden ^) Vogel, der schärfsten Pfeile 385 Herrscherin, Kypris, und lehrte schmeichelnder Bitte</p>
+
+            <p>Zauberkraft den verständigen Aesoniden, dass er im Busen Medeens tilgte der Eltern ehrende Scheu, und Hellas lieblicher Reiz die 390 Geissei der Ueberredung auf die glühende schwänge. Und sie enthüllt des Vaters</p>
+
+            <p>Arbeit Vollbringung ihm, und giebt ihm, mischend mit Oel, 395 der folternden Schmerzen Gegenmittel.</p>
+
+            <p>Dann geloben beide sie sich der süssen Vermählung Band zu knüpfen.</p>
+
+            <p>10. Epode.</p>
+
+            <p>Doch als Aeetes, von Jasons Helden umringt, dem ehernen Pflug, und 400 den Stieren sich nahet, die aus leuchtendem Rachen glühenden Feuers Flammen sprühn, und mit dem Huf von Erze v^echselnd den Boden schlagen, da führt er leicht allein sie zum Joch. 405 Grade Furchen hinstrekkend, treibt er sie dann, und spaltet der Erde schollenthürmenden Rükken eine Klafter tief. „Diess Werk vollbringe," beginnt er „nun der Herrscher des Schiffes mir, und nehme 410 dann den unvergänglichen Teppich,</p>
+
+            <p>11. Strophe.</p>
+
+            <p>jenes Vliess hell von goldenen Quasten umschimmert." ^) Also der König, und Jason warf von der Schulter schnell das Safrangewand, und dem Gott vertrauend gieng er ans Werk. Es bewegt ^) die Flamme ihn nicht. Es</p>
+
+            <p>V Im Entwurf: „liebezaubernden". 'J Im Entwurf: „mit goldner Wolle schimmernd". 'J Im Entwurf: „umsprüht".<pb n="8.56" xml:id="pbVIII56"/> 415 wehrt ihr der Jungfrau zauberkundiger Rath. Drauf zieht er den Pflug zu sich hin, beugt den Nakken der Stiere unter des Joches Zwang, und 420 treibt die gewaltge</p>
+
+            <p>Seite mit dem stachelnden Erz.</p>
+
+            <p>So endet der Held das aufgegebne Maass. Aeetes birgt in der Brust den Schmerz, und jauchzt bewundernd ihm Beifall.</p>
+
+            <p>II. Antistrophe.</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">425 Freudig reicht dem gewaltigen Mann der Freunde</title>
+               </head>
+               <p>Haufe die Hände, umschmükt mit Kränzen von Gras ihn, und begrüsst ihn mit schmeichelnder Rede. Aber Helios strahlender Sohn entdekt ihm des Widders schimmerndes Vliess, wo 430 ausgebreitet es Phrkos</p>
+
+               <p>Schwerdt angeheftet. Diese</p>
+
+               <p>Arbeit würde, so hoft' er, nicht er bestehn. Denn tief im Dikkicht des Waldes 435 lag es, und mit gierigem Schlund bewacht' es ein Drache, länger und stärker, als das funfzigrudrige Schiff, das bildend des Stahles Schläge bauten.</p>
+
+               <p>1 1. Epode.</p>
+
+               <p>Lang ist es, kehr' ich auf ebnem 440 Wege zurük; es dränget die Stunde, und einen kurzen Pfad kenn' ich, vielen in dieser Weisheit ein Führer. Er erlegt, Arkesilas, schlau den blauäugichten, buntgesprenkelten 445 Drachen, und entführt Medeen heimlich, Pelias kühne Mörderin. So erreichen sie schiffend bald des Oceans Flut, das rothe Meer, und Lemnos männertödtende Weiber.<pb n="8.57" xml:id="pbVIII57"/> 450 Hier bewiesen sie kämpfend ihrer Glieder</p>
+
+               <p>Heldenkraft, enthüllt vom Gewände,</p>
+
+               <p>12. Strophe.</p>
+
+               <p>und umarmten die Weiber. Dort auf fremdem ^) Eiland empfieng der verhängnissschwangre Tag einst, oder heilige Nächte Eures Glükkes 455 werdende Stralen. Denn dort gesäet blühet ewige Tage nun Euphemos Geschlecht. Nach Spartas Gefilden wandernd, wählten sie mit der Jahre 460 Laufe Kallista sich zum</p>
+
+               <p>Wohnsiz. Von da gab Letos Sohn Euch, dass mit der Gunst der Götter Ihr Libyens Fluren schmüktet, und die goldenthronende Stadt 465 der göttlichen Kyrene beherrschtet,</p>
+
+               <p>12. Antistrophe.</p>
+
+               <p>weise strenger Gerechtigkeit Rath ersinnend. Fasse nun Oedipus Weisheit ! Wenn mit dem scharfen Beil ein Mann der gewaltigen Eiche hohe Zweige verstümmelt, und ihres herrlichen Wuchses 470 Bildung entstellet; giebt sie doch, auch der Früchte zeugende Kraft verlierend, ihrer Stärke Beweise, wenn sie des Winters Feuer 475 endlich verzehret, oder sie im Hause des Herrn, von schlanken Säulen gestüzt, in fremder Mauer unter drükkender Last erseufzt, der heimischen Flur entrissen.</p>
+
+               <p>12. Epode. 480 Du bist der beste der Aerzte,</p>
+
+               <p>Päan umstralet ehrend Dein Leben!</p>
+
+               <p>^J Im Entwurf: „Auf weitentferntem''</p>
+
+               <pb n="8.58" xml:id="pbVIII58"/>
+               <p>Sanft schonender Hand Berührung fordert der Wunde reizbarer Schmerz. Denn leicht ists, auch dem minder Starken, 485 schnell die Stadt zu erschüttern, aber auf festen Grund sie wieder stüzen, ist schwer, wenn unvermuthet nicht sich ein Gott den Herrschern als Führer zugesellet. Doch Dir ward dieses Glükkes 490 holder Reiz vom Schiksal gewoben.</p>
+
+               <p>Harre duldend nur aus, Kyrenens seeigen</p>
+
+               <p>Mauern jede Sorgfalt zu weihen ! <note type="footnote" n="^)" resp="gnd-116890657"><hi>Das ist, sagt man, des Unglüks Gipfel, das Schöne kennen, und gezwungen entbehren.</hi></note></p>
+
+               <p>13. Strophe.</p>
+
+               <p>Von Homeros erwäg' auch diesen Spruch im Herzen, und ehr' ihn. Ein weiser Bote verleihet, 495 sagt er, jedem Geschäfte die höchste Würde.</p>
+
+               <p>Auch die erhabenen Musen schmükket gerechte</p>
+
+               <p>Sendung. Kyrene kennt und Battos erlauchter</p>
+
+               <p>Pallast Damophilos stets 500 reinen, schuldlosen Busen.</p>
+
+               <p>Denn in der Jugend Schaar ein Jüngling, ist er im Rath ein hundertjähriger Greis. Er schweigt mit Weisheit des Lästrers kühner 505 Zunge laut entschallendes Wort; lernte den Uebermüthigen hassen;</p>
+
+               <p>13. Antistrophe.</p>
+
+               <p>streitet nimmer den Edlen entgegen, verzögert keines Beginnens Vollbringung. Denn schnell verblühet der Gelegenheit flüchtiger Augenblik. Er 510 kennt sie, ein folgsamer Diener-) begleitet er sie, kein flüchtiger Sklave. ^J Diese Stelle zitiert Humboldt in einem Briefe an seine Frau (j, jgij<pb n="8.59" xml:id="pbVIII59"/>515 Gegen des Himmels Bürde ringt jezt, ein Atlas, dieser, von der Heimath entfernt, und seinen Schäzen. Doch die Titanen löste selbst der ewige Zeus; 520 und schweigt der Sturm, so wechselt der Schiffer<note type="footnote" n="^)" resp="gnd-116890657"><hi>Im Entwurf: „weiser Gefährte". *j Diese Stelle zitiert Humboldt Band j, 202.</hi></note></p>
+
+               <p>13. Epode. die Segel. Er sehnt sich endlich, nach der durchkämpften schmerzenden Krankheit, sein Haus zu sehn, an Apollons heiligem Quell, bei fröhlichen Mahlen, 525 heitrer Jugendfreude wieder seine Seele zu geben; oft auch in weiser Bürger Mitte friedlich der melodischen Leier Saiten zu rühren, keinem Verderben 530 sinnend, wieder von keinem selbst es duldend.</p>
+
+               <p>Dann erzählt er auch, welchen neuen</p>
+
+               <p>Quell unsterblicher Lieder er für Arkesilas fand, jüngst ein Thebischer Gastfreund.</p>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">Anmerkungen.</title>
+               </head>
+               <p>V. 6 — 9. Delphi heisst bei den Alten häufig der Nabel, oder die Mitte der Erde. Einer alten Sage zufolge, hatte Zeus, um die Mitte der Erde kennen zu lernen, zwei Adler, einen von Westen und den andern von Osten ausfliegen lassen, um die Mitte der Erde zu finden. Beide begegneten einander auf dem Parnass bei Delphi. Zum Andenken dieser Begebenheit standen zwei goldne Adler zu beiden Seiten des Sizes der Pythia, die aber im Phokischen Kriege aus dem Tempel geraubt wurden. V. 12. Eiland) Thera.</p>
+
+               <p>V. 14. Stadt) Kyrene, die auf einem Hügel lag, und wegen ihrer Pferdezucht berühmt war.</p>
+
+               <p>V. 26 — 28. Epaphos Tochter ist die Nymphe Libya, nach welcher das Land den Namen führt. Ein Stamm von</p>
+
+               <p>Städten heisst Kyrene, weil sie die Mutterstadt mehrerer Colonien war.<pb n="8.60" xml:id="pbVIII60"/> 1'. 57. Eurypylos, dessen Gestalt der Gott hier annimmt, war ein Sohn Poseidons und ein Fürst jener Gegend. v. 77. Tänaron, das bekannte Vorgebirge zwischen dem Lako- nischen und Messenischen Meerbusen. Eine tiefe Hole in der Nähe hielt man für den Eingang in die Unterwelt. z: 82. Kephissos) ein Fluss in Böotien. v. 84 — 92. Medea erklärt den Unterschied, welcher gewesen sein würde, wenn die Erdscholle, mit welcher das Schik- sal der Gründung von Kyrene verbunden war, statt an Thera anzuschwimmen, mit in denPeloponnes gekommen wäre. In diesem lezten Fall hätte die v i e r t e Generation von Euphemos an, unmittelbar vom Peloponnes aus, Kyrene erbaut; jezt in dem ersteren thut es die siebzehnte von Thera aus, wohin jene vierten Abkömmlinge vorher schiffen mussten. z'. 93. Mann) Battos, Polymnestos Sohn. V. 94. schwarzumwölkten Gefilde) wegen des vielen Regens in der Gegend von K3Tene. So sagten, nach Herodot (B. 4. C. 158.), die Libyer, welche die, vorher östlicher wohnende Colonie des Battos in die Gegend von Kyrene führten, zu den Griechen: „Hellenische Männer, hier ist es Euch bequem zu wohnen; denn hier ist der Himmel durchbohrt." V. 98. 99. Nilos — Auen) Der Dichter nennt hier Aegypten poetisch für Lib3^en. Der Nil heisst Kronos Sohn, so wie auch sonst der Aegyptische Jupiter, weil ihn die Aegyptier als ihre grosseste Gottheit verehrten, und ihn manchmal mit dem Namen des Osiris belegten, obgleich sie ihn nicht mit diesem verwechselten, sondern ihn als einen Ausfiuss des Osiris ansahen. z&gt;. 107. Die Pythia antwortete manchmal nicht auf die vorgelegte Frage, sondern weissagte, oder befahl etwas andres — welches man vielleicht für einen noch gewisseren Orakelspruch hielt. So auch hier. Denn als Battos sie fragte, wie er des Stotterns los werden könne? befahl sie ihm zu drei verschiednen Malen die Kolonie nach</p>
+
+               <p>Libyen. v. 118. der Amphiktj^onen) Die Amphiktyonen waren die</p>
+
+               <p>Richter bei den Pythischen Spielen. V. 122. Minyer) die Argonauten, die auch Minyer genannt<pb n="8.61" xml:id="pbVIII61"/> werden, weil mehrere von ihnen von dem Minyas ab- stammten. 1'. 138. zween Lanzen) Die Helden des Alterthums haben immer zwei Lanzen im Kriege, eine um den Gegner damit niederzuwerfen, oder seinen Schild zu spalten, die andre ihn damit in der Nähe zu tödten. v. 143. des Pardels Haut) Die Heroen trugen die Häute der wilden Thiere, die sie erlegt hatten. V. 155. Aphroditens Liebling) Mars. u 158. J59. Otos — Epialtes) Otos und Ephialtes (Dorisch: Epialtes), Söhne der Iphimedea und Poseidons, gewöhn- hch von ihrem Stiefvater Aloeus die Aloiden genannt, waren die grossesten, und, nach Orion, schönsten Menschen. Schon im pten Jahre mass ihre Breite neun Ellen und ihre Länge neun Klafter. Sie banden den Mars und hielten ihn dreizehn Monate gefangen und versuchten auch den Olymp zu stürmen. Allein Apoll tödtete sie in Naxos. Vgl. Homers llias. G. 5. f. 385 —</p>
+
+               <p>391. Odyssee. G. 11. 7'. 304 — 319. v. 160. Tityos) Ein Sohn der Erde. Er wurde von der Artemis getödtet, weil er die Leto, als sie nach Delphi gehen wollte, zu entehren versuchte. V. 168. 169. Jason hatte den hnken Schuh beim Durchwaten durch den Fluss Anauros verloren. V. 182. Philyra — Chariklo) Philyra, Chirons Mutter; Chariklo, seine Gattin. v. 191. Zum besseren Verständniss der folgenden Strophen wird nachstehende Stammtafel dienen:</p>
+
+               <p>Aeolos Kretheus Salmoneus Athamas</p>
+
+               <p>Aeson Pheres Amythaon Thyro ^^ Neptun Phrixos I I I Pelias Jason Admet Melampos v. 222. Hypereischen Quell) in Thessalien. 'V. 254. 255. Salmoneus) Er ahmte den Bliz und den Donner nach und wurde deswegen von Zeus mit dem Blize getödtet. V. 284. Phrixos) Athamas hatte von der Nephele zwei Kinder,</p>
+
+               <p>Helle und Phrixos. Nach der Nephele Tode heirathete<pb n="8.62" xml:id="pbVIII62"/> er die Ino. Diese suchte den Phrixos zu verführen, und als ihr diess nicht gelang, trachtete sie ihm und seiner Schwester nach dem Leben. Zu diesem Ende überredete sie die Frauen des Landes, den zur Saat bestimmten Waizen vorher zu dörren. Diess geschah und auf die darauf erfolgende Unfruchtbarkeit beschloss Athamas, das Orakel in Delphi um Rath zu fragen. Nun bestach Ino die dahin Abgeordneten, und Hess sie berichten, Phöbos verlange Helles und Phrixos Tod. Als hierauf Athamas schon im Bergiff war, sie zu opfern, erschien ihnen ihre rechte Mutter, und brachte ihnen einen Widder mit goldenem Fell, um darauf zu entfliehen. Dieser trug sie auch glüklich durch die Luft über das Meer. Aber Helle fiel herab, und gab durch ihren Tod dem Hellespont den Namen. Phrkos entkam nach Kolchis, heirathete daselbst die Tochter des Königs Aeetes, zeugte vier Kinder mit ihr und starb dort. Den Widder schlachtete er dem Zeus, dem Flüchtlingserretter, und breitete sein Vliess als Weihgeschenk aus. v. 284. Schon aus dem Homer ist bekannt, dass man die, fern von der Heimath Gestorbenen noch mit einem dreimaligen Zuruf begrüsste, und hierauf könnte auch in der gegenwärtigen Stelle angespielt sein. Indess sagt der Scholiast zu diesem Verse, dass es Sitte gewesen sei, wenn jemand fern von seinem Vaterlande gestorben, seinen Schatten durch gewisse Mj'sterien zum Vaterlande zurükzurufen , und diess giebt hier freilich einen bei weitem angemessneren Sinn. V. 285. Aeetes) Sohn des Helios, und König in Kolchis. V. 290. Kastaliens) Kastalia, ein Quell am Fuss des Parnass, dicht am Delphischen Tempel. V. 298. Sowohl Jason, als Pelias stammten durch Aeolos von Zeus ab. V. 312. Periklymenos) Ein Sohn des Neleus und Bruder des Nestor. V. 313. 314. Orpheus) Gewöhnlich nannte man den Oeagros Orpheus Vater, und so, nach des Scholiasten Zeugniss, auch Pindar. Alsdann wird Orpheus nur darum gerade von Apoll geschikt, weil er ein Sänger ist. Indess war nach einem, in den Schollen angeführten Orakelspruch</p>
+
+               <pb n="8.63" xml:id="pbVIII63"/>
+               <p>Orpheus wirklich Apollons Sohn, und andre gaben ihm sogar die Kalliope zur Mutter, und den Hymenäos und Jalemos zu Brüdern. V. 320. Pangäos) ein Berg in Thrakien. V. 324. Zetes — Kaiais) Boreas und der Orithyia Söhne. V. 339. Looses Wurf) Das Loosen war eine bei den Alten übliche Art, die Zukunft zu erforschen. Es geschah auf den heiligen Opfertischen. Der Weissager dachte sich einen Wurf des Looses, und das Gelingen des Unternehmens hieng dann von dem Eintreffen desselben ab. V. 370 — 376. Die Symplegaden oder Kyaneischen Felsen sind zwei einzelne Felsen im Bosporos am Eingange des Pontos, der eine Europa, der andre Asien näher, und in einer Entfernung von 20 Stadien unter einander. In den ältesten Zeiten hielt man sie für beweglich, und glaubte, sie vereinigten sich und prallten dann wieder aus einander. Es war aber ein Orakelspruch vorhanden, dass, sobald ein Schiff zwischen ihnen durchgefahren sei, sie fest sein würden. Diess erste Schiff war nun die Argo. Die Veranlassung zu dieser Fabel gab wahrscheinlich, wie schon Plinius glaubte, ein optischer Be- trug. Denn da nur ein kleiner Zwischenraum sie trennte, so sah man sie bei der Einfahrt erst beide in ihrer natürlichen Lage ; darauf, wenn sich das Auge ein wenig wandte, bedekten sie einander, und man glaubte nur Einen zu sehen. V. 377. 378. Auch Herodot gedenkt der schwärzlichen Haut und des krausen Haars der Kolchier, woraus er ihre Aegyptische Abkunft schliesst. V. 380 — 385. Der lynx, die torquiUa des Linnäus, bei uns der Dreh- oder Wendehals, ist ein kleiner bunter Vogel mit einem sehr langen Halse und einer langen wurmförmigen Zunge. Sein Charakteristisches besteht in dem Herausstekken der Zunge und dem ewigen Drehen des Halses. Die Alten schreiben diesem Vogel eine bezaubernde Kraft zu, jemanden zur Gegenliebe zu zwingen. Zauberinnen banden ihn auf ein vierspeichiges Rad, oben mit den Flügeln, unten mit den Füssen festgemacht, und diess Rad drehten sie an einem Riemen schnell herum, und<pb n="8.64" xml:id="pbVIII64"/> murmelten Zauberformeln dabei. Der lynx war bald ein wirklicher, bald ein nachgebildeter von Erde u. s. f. Der Grund der Idee mochte vielleicht darin liegen, dass, da der Ixnx in beständiger Bewegung war, und diese noch durch das Umdrehen im Rade vermehrt wurde, derjenige, den man bezaubern wollte, auf ähnliche Weise in Angst gesezt werden sollte, bis er sich zur Gegen- liebe entschlösse. Der Scholiast erzählt: lynx, eine Tochter der Echo, oder nach andern der Peitho (Suada), habe den Zeus zur Liebe zur lo bezaubert, und sei deshalb von der Here in diesen Vogel verwandelt worden. V. 413. Safrangewand) Safranfarbig wurde bei den Alten für schön und geehrt gehalten, und ein Safrangewand ist also ein festliches Kleid. ^. 426. Eine sehr alte und wohl die älteste Art des ehrenvollen Bekränzens. v. 437. funfzigrudrige Schiff) Die Argo, welcher ausdrüklich fünfzig Ruder bei den alten Schriftstellern gegeben werden. V. 446. Pelias Mörderin) Medea versprach den Töchtern des Pelias, ihren Vater zu verjüngen, und beredete sie, ihn zu diesem Endzwek zu tödten. V. 449. Lemnos männertödtende Weiber) Die Lemnischen Weiber vernachlässigten den Dienst Aphroditens. Die Göttin, um sich zu rächen, machte ihre Männer von ihnen abwendig; und als nun diese, nach einem Feldzug in Thrakien, die gefangenen Weiber zu Beischläferinnen nahmen, beschlossen die Lemnierinnen, sie sämmtlich zu ermorden, und hatten diesen Entschluss gerade ausgeführt, als die Argonauten in Lemnos ankamen. V. 467. Oedipus Weisheit) Oedipus rettete Theben durch die Auflösung des Räthsels der Sphinx. Darauf bezieht sich dieser Ausdruk. Das Gleichniss selbst geht auf Arke- silaos Strenge gegen seine Gegner, vor deren gefähr liehen Folgen er ihn warnte. ^.481. Päan) Der Heilende, ein Beiname Apollons. Pindar ver-. gleicht den Arkesilaos einem Arzt, weil er die Unruhen in Kyrene stillte. Indess ist freilich diess Lob mehr als Ermunterung und Aufforderung zu nehmen.<pb n="8.65" xml:id="pbVIII65"/> V. 493. Homeros) Homers Ilias. G. 15. v. 207. (Vossische Ueber- sezung)</p>
+
+               <p>Warlich ein gutes Ding, wenn ein Bote weiss, was geziemet. IT. 515 — 518. Gegen — Schäzen) Atlas ist, der älteren Fabel zufolge, einer der Titanen, und muss zur Strafe den Himmel tragen. So erzählt in Aeschylos gefesseltem Prometheus der Chor von ihm:</p>
+
+               <p>Nur Einen sah' ich noch der Titanen, Atlas, in nieermüdender Arbeit gefesselt.</p>
+
+               <p>Mit ewig neuer, überschwänglicher Stärke trägt er seufzend des Himmels Pol auf den Schultern.</p>
+
+               <p>Es klagt mit ihm des Meeres nachbarliche Woge, die Tiefe stöhnt unter der Erd' ertönt Aides finstre Kluft, und der schimmernden Ströme reine Quellen beseufzen sein jammernswürdiges Schiksal.</p>
+
+               <p>^'- 425—435Pindar vergleicht hier den Damophilos mit ihm. V. 518. 519. Doch — Zeus) So gab es auch einen befreiten Prometheus des Aeschylos. V. 523. 524. Apollons — Quell) Dieses Quells gedenkt auch Herodot. Vielleicht spielt Pindar hier auf ein Fest an, das aus Lakedämon nach Thera, und von da nach Kyrene verpflanzt wurde, und Kannea hiess.</p>
+            </div>
+
+            <div type="section" n="3">
+               <head>
+                  <title type="main">Berichtigung.^)</title>
+               </head>
+               <p>In der Einleitung zu der im Novemberstück d. J. abgedruckten Uebersetzung von Pindars vierter Pythischer Ode ist aus einem zu spät bemerkten Versehen bei der Reduction der Pythiaden auf Jahre vor Christi Geburt S. 42 ein Irrthum begangen worden. Diejenige Feier der Pythischen Spiele nemlich, von welcher an</p>
+
+               <p>V Eine Handschrifi dieser „Berichtigung einer Stelle in der im November<pb n="8.66" xml:id="pbVIII66"/>die Pythiaden gerechnet werden, fällt nicht (wie dort gesagt wird und wie Barthelemy in seinen, der Reise des jüngeren Anacharsis angehängten chronologischen Tafeln, wahrscheinlich nach Dodwell de cyclis. diss. 5. §. i. und Corsini diss. agonist diss. 2. §. 5. annimmt) in das 581 Ü2 sondern in das 586 üf Jahr vor Christo, und daher die 3 1 Ü? Feier, in welcher Arkesilaos siegte, ebensowenig in das 461 Ü5 sondern in das 466!^ Jahr vor Christo. (Man vergleiche hierüber den Pausanias X. 7. und den Scholiasten des Pindar. ed. Oxon. p. 163.) Die Verfertigung der Ode trift daher auch nicht nothwendig in die letzten 10, sondern in die letzten 15 Lebensjahre Pindars, wenn nemlich sein Tod, wie gewöhnlich in Olympiade 82, i. gesetzt wird.</p>
+
+               <p>Der Uebersetzer.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

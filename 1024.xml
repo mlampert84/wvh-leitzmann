@@ -1,0 +1,304 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Die Errichtung einer wissenschaftlichen Deputation bei der Sektion des öffentlichen Unterrichts</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif10humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1903">1903</date>
+                  </imprint>
+                  <biblScope unit="page" from="179" to="198"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="10.179" xml:id="pbX179"/>
+            <head>
+               <title type="main">XXXVI.— XXXIX. Die Errichtung einer wissenschaft- lichen Deputation bei der Sektion des öffentlichen</title>
+            </head>
+            <div type="section" n="1">
+               <head>
+                  <title type="main">Unterrichts.</title>
+               </head>
+               <p>Oktober-November 1809.</p>
+
+               <p>Um die in der Verordnung vom 24. November 1808 vorgesehene wissenschaftliche Deputation ins Leben zu führen, entwarf Humboldt, wohl Anfang Oktober i8og, eine Denkschriß (No. XXXVI) und legte in einem ausführlichen, an Altenstein gerichteten Schreiben (No. XXXVII) besonders die finanzielle Seite der Angelegenheit dar. Nachdem dieser seine Zustimmung erklärt hatte, stellte er seinen Antrag beim Könige (No. XXXVIII). Inzwischen hatte Süvern im engsten Anschluß an Humboldts „Ideen" einen Entwurf zur Instruktion ausgearbeitet und sandte ihn am 14. Noveinber an diesen, der am folgenden Tage sein Votum (XXXIX) darüber abgab. XXXVI. Ideen zu einer Instruktion für die wissenschaftliche Deputation bei der Sektion des öffent- lichen Unterrichts. (Konzept, zum Teil eigenhändig, in den Akten des Kultusmitiisteriu?7rs, an der Spitze steht Königsberg, den i. (wahrscheinlich Oktober) ; gedruckt Werke V jjjff.)</p>
+
+               <p>I. Zweck der wissenschaftlichen Deputation im Allgemeinen, Sie hält die allgemeinen wissenschaftlichen Grundsätze, aus welchen die einzelnen Verw^altungs-Maximen herfliessen, und nach denen sie beurtheilt werden müssen, unverrückt gegenwärtig, und dient daher der Section, ihr Verfahren im Einzelnen immer nach seinen allgemeinen Richtungen übersehen und gehörig würdigen zu können; sie verrichtet ausserdem diejenigen ihrer Arbeiten, w^elche eine freiere wissenschaftliche Müsse erfordern, und mitten unter den Zerstreuungen der laufenden Geschäfte nicht gedeihen können. Es sind ihr endlich besonders alle Prüfungen übertragen, die nicht zur Competenz der geistlichen und Schul-Deputationen der Regierungen gehören.</p>
+
+               <p>2.</p>
+
+               <p>Organisation, Zahl und Classen der Mitglieder; gegenwärtige Verhältnisse derselben.</p>
+
+               <pb n="10.180" xml:id="pbX180"/>
+               <p>Die ausserordentlichen Mitglieder erwarten, um den Sitzungen beizuwohnen, die Einladung des Directors, und übernehmen nur, wo die ordentlichen Mitglieder nicht zureichen, einzelne Arbeiten.</p>
+
+               <p>Ausserdem hat die Deputation auswärtige Correspondenten. Die Zahl der ordentlichen Mitglieder ist bestimmt, es sind derselben 6 ohne den Director.</p>
+
+               <p>Jedes ordentliche und ausserordentliche Mitglied ist zu einem bei seiner Ernennung ausdrücklich namhaft zu machenden Fache vorzugsweise berufen.*)</p>
+
+               <p>Es wird soviel möglich dafür gesorgt, dass in der ganzen Zahl der ordentlichen und ausserordentlichen Mitglieder für kein bedeutendes Fach der Wissenschaften ein dasselbe vertretendes Subject fehle. Da aber die Section des öffentlichen Unterrichts hauptsächlich die Beförderung der allgemeinen Bildung im Auge hat, deren Erwerbung in den allgemeinen, keinem einzelnen Zweck besonders gewidmeten Schulanstalten beabsichtet wird, da sie ausserdem vorzugsweise bestimmt ist, soviel dies durch Staatsbehörden geschehen kann, dafür zu sorgen, dass die wissenschaft- liche Bildung sich nicht, nach äussern Zwecken und Bedingungen, einzeln zersplittere, sondern vielmehr zur Erreichung des höchsten allgemein menschlichen in Einen Brennpunkt sammle, — so wählt sie zu ordentlichen Mitgliedern ihrer Deputation ausschliessend Männer, die sich dem philosophischen, mathematischen, philologischen und historischen Studium, mithin denjenigen Fächern widmen, welche alle formelle Wissenschaft umschliessen, durch welche die einzelnen Kenntnisse erst zur Wissenschaft erhoben werden können, und ohne welche keine, auf das Einzelne ge- richtete Gelehrsamkeit in wahre intellectuelle Bildung übergehen und für den Geist fruchtbar w^erden kann. Wo für irgend ein Fach kein Mann in der Deputation vorhanden ist, hängt es, wie gleich weiter unten gesagt werden wird, vom Director ab, mit Zustimmung des Sectionschefs zu einer sich auf dasselbe beziehen- den Berathschlagung oder Arbeit einen andern Gelehrten ausserhalb der Deputation einzuladen. Die ordentlichen Mitglieder werden allemal nur auf Ein Jahr<pb n="10.181" xml:id="pbX181"/> nur auf die gleiche Zeit. Jedoch können dieser und jene, so lange als es gut scheint, in ihren Aemtern aufs neue bestätigt und ge- lassen werden. Die austretenden ordentlichen Mitglieder gehen in die Zahl der ausserordentlichen über.</p>
+
+               <p>Am I. Dezember jedes Jahres wird der Deputation die vom Könige bestätigte Liste der Mitglieder für das künftige Jahr von der Section zugefertigt.</p>
+
+               <p>Die Stellen bei der Deputation sind mit keiner fixen Besoldung verbunden. Allein jedes ordentliche Mitglied erhält, so lange es als solches in Thätigkeit ist, zur Entschädigung für die aufzuwendende Zeit, die jähriiche Summe von 400 Thlr. und die gleiche Remuneration geniesst der Director. Ausserdem erhalten sowohl die ordentHchen als ausserordent- Uchen Mitglieder einen Antheil an den Gebühren der Prüfungen, welche sie abhalten. Diese Gebühren werden nemlich aufgesammelt und vierteljährig unter diejenigen, welche dabei beschäftigt gewesen sind, dergestalt vertheilt, dass die ordentlichen Mitglieder einen einfachen, die ausserordentUchen Mitglieder einen doppelten Antheil geniessen.</p>
+
+               <p>3Arbeiten der Deputation.</p>
+
+               <p>Die Deputation hat derselben in drei verschiedenen Beziehungen : i) insofern sie die Aufträge der Section besorgt. 2) insofern sie Pläne und Vorschläge, die ihr von einzelnen Personen aus dem Publicum mitgetheilt werden, ihrer Prüfung unterwirft und beantwortet.<note type="footnote" n="3)" resp="gnd-118554727"><hi>insofern sie der Section unaufgefordert ihre Gedanken über bestehende Einrichtungen, vorhandene Misbräuche und mögliche Verbesserungen vorlegt.</hi></note></p>
+
+               <p>Die Aufträge der Section können von so mannigfaltiger Art seyn, als die Fälle, in welchen dieselbe die Meinung der Deputation zu vernehmen für gut findet. Die Section ist indess hierin an keine Regel gebunden, sondern richtet sich sowohl in der Häufigkeit, als in der Art ihrer Aufträge lediglich nach den Umständen und den Männern, welche jedesmal die Deputation aus<pb n="10.182" xml:id="pbX182"/>stand, der hauptsächlich wissenschaftliche Beurtheilung erforden, unbefragt lasse, auf der andern aber dieselbe nicht mit Aufträgen belästigen wird, die mehr für eine Geschäfts- als eine wissenschaftliche Behörde geeignet sind. \^orzüglich gehören für die wissenschaftliche Deputation :</p>
+
+               <p>Prüfung neuer Unterrichtsmethoden, oder Erziehungssysteme; Entwerfung neuer Lehrpläne und Beurtheilung schon vorhandener ;</p>
+
+               <p>Auswahl von Lehrbüchern, insofern die Section solche vorschreibt oder genehmigt, und zweckmässige Veranstaltung zur Ausarbeitung von neuen;</p>
+
+               <p>^'orschläge zu Stellenbesetzungen, Beurtheilung von Schriften, welche der Section eingesendet werden; Prüfungen, sowohl diejenigen, welche zur Besetzung der der Section vorbehaltenen Stellen erforderlich sind, als diejenigen, welchen alle, die künftig auf ein Schulamt Anspruch machen wollen, unterworfen werden sollen.</p>
+
+               <p>Da die wissenschaftliche Deputation eine öffentliche Behörde ist, so kann sich jeder in Angelegenheiten, die zu ihrer Competenz gehören, an sie wenden. Es hängt alsdann von ihrer Beurtheilung ab, ob sie diese Eingaben, als ganz unbedeutend, unbeantwortet lassen, oder kurz zurückweisen, oder endlich berücksichtigen und weiter zur Sprache bringen will. Nur ist es die Pflicht des Directors, genau dahin zu sehen, dass die Deputation in den ihr angewiesenen Schranken bleibe. Alle Eingaben also, die nicht zum Geschäftskreis der Deputation gehören, giebt er sogleich und ohne sie in der Deputation zur Sprache zu bringen, an die Section ab.</p>
+
+               <p>Der wichtigste Theil der Thätigkeit der wissenschaftlichen Deputation ist derjenige, den sie unaufgefordert ausübt. Em diese ganz auszufüllen, muss sie bemüht seyn, dasjenige, was für Unterricht und Erziehung in jedem einzelnen Theile geschehen sollte, immer gegenwärtig zu haben, und mit dem, was wirklich geschieht, zu vergleichen. Da aber die Frage, ob \"erbesserungen in Rücksicht auf die vorhandenen Mittel und Personen wirklich<pb n="10.183" xml:id="pbX183"/> Section, aber dergestalt berufen ansehen muss, dass sie, ohne je den Punkt der Ausführbarkeit aus dem Gesicht zu verlieren, mehr den rein wissenschaftlichen, die Section, ohne einen Augenblick dasjenige zu vergessen, was ohne alle Rücksicht auf Möglichkeit oder Unmöglichkeit der Anwendung geschehen müsste, mehr den praktischen Theil des Geschäfts betreibe. Bleibt sie diesem Gesichtspunkt gehörig treu; so wird sie von selbst fühlen, dass sie ihren Mittheilungen an die Section von dieser Art, die immer nur als Bedenken und Vorschläge betrachtet werden können, nur in dem Grade Nachdruck und Gewicht geben kann, in dem sie sich streng auf die ihr angewiesene Sphäre beschränkt.</p>
+
+               <p>4Geschäftsgang.</p>
+
+               <p>Der Geschäftsgang bei der Deputation muss so einfach, als möglich, und nur insofern es unvermeidlich ist, einer bestimmten Norm unterworfen seyn, sonst muss die Art der Besorgung der einzelnen Arbeiten soviel als möglich der Bestimmung des Directors und der Leitung der Section überlassen bleiben.</p>
+
+               <p>Um den Director nicht unnützer Weise mit mechanischer Arbeit zu beschweren, werden alle an die Deputation eingehenden Sachen bei der Section abgegeben, dort erbrochen, in ein eigenes Journal eingetragen, von welchem der Director der Deputation Abschrift erhält, und alsdann ungesäumt an denselben abgegeben.</p>
+
+               <p>Der Director verfügt hierauf nach Beschaffenheit der Umstände und beurtheilt, welche Sachen er bloss einzelnen Mitgliedern übergeben und welche er zum \^ortrag bei der ganzen Deputation bringen will. Bei den von der Section selbst übertragenen Arbeiten hat er indess diese Freiheit nur alsdann, wenn die Section ihm keinen bestimmten Weg vorgezeichnet hat, auch versteht sich, dass in der Antwort an die Section allemal das beobachtete Verfahren angezeigt wird. Schul-Reform, Lections-Plane, Beurtheilung von Unterricht- und Erziehungs - Methoden , Vorschläge zu Stellen<pb n="10.184" xml:id="pbX184"/>Die Distribution der Sachen an die einzelnen Mitglieder geschieht durch den Director. Jeder Gegenstand fällt nun zwar von selbst demjenigen ordentlichen oder, wenn es ein Fach betrifft, für welches es ein solches nicht giebt, demjenigen ausserordent- lichen Mitgliede zu, für dessen Competenz er gehört. Wenn aber ein solches Mitglied auch nicht übergangen werden kann, so hängt es doch allemal von dem Director ab, denselben Auftrag auch noch einem andern zu geben; ja er kann auch das Gutachten eines ausser der Deputation befindlichen Gelehrten einfordern, ohne demselben jedoch die Arbeit des Mitgliedes der Deputation, im Fall dies nicht ausdrücklich einwilligt, mitzutheilen.</p>
+
+               <p>Diese Bearbeitung durch einzelne Mitglieder ist vorzüglich zur Beurtheilung eingesandter Schriften und solcher Gegen- stände geeignet, die nur ein einzelnes Fach der Wissenschaften angehen.</p>
+
+               <p>Was die ersteren betrifft, so versteht es sich von selbst, dass ganz unbedeutende gleich vom Director, mit zwei Worten, als solche, angedeutet werden können, und dass es überhaupt, mit Vermeidung aller Pedanterei und Weitläufigkeit, seiner Beurtheilung anheim gestellt wird, welche Wichtigkeit er der Prüfung jeder einzelnen beilegen will.</p>
+
+               <p>Sitzungen werden wöchentlich eine an einem bestimmten Tage gehalten. Jedoch bleibt es dem Director vorbehalten, wenn keine hinlängliche Zahl von Geschäften vorhanden ist, die Sitzung abzusagen. Indess muss er dies allemal zugleich dem Chef der Section anzeigen. Auch darf ohne Zustimmung dieses die Sitzung nicht von einem auf einen andern Tag verlegt werden.</p>
+
+               <p>Zu jeder Sitzung finden sich alle ordentlichen Mitglieder, sie müssten denn gültige Entschuldigungsgründe haben, ein, ob auch von den ausserordentlichen dieser oder jener eingeladen werden soll, bleibt ledighch der Beurtheilung des Directors überlassen. Dieser kann auch andere nicht in der Deputation befindliche Gelehrte zu den Sitzungen zuziehen, muss jedoch hierzu vorher die Genehmigung des Sections-Chefs nachsuchen.</p>
+
+               <pb n="10.185" xml:id="pbX185"/>
+               <p>Die Beschlüsse werden nach der Mehrheit der Stimmen abgefasst, und sogleich von demjenigen, der die Sache bearbeitet hat, aufgesetzt. Mitglieder, welche von der Stimmenmehrheit in ihrer Meynung abweichen, können ihre Gutachten besonders hinzufügen.</p>
+
+               <p>Wichtige Gegenstände und deren Bearbeitung eine grössere Ausführlichkeit erfordert, lässt der Director vor dem mündlichen Vortrag zum schriftlichen Gutachten circuliren. Die einzelnen Gutachten bleiben bei den Akten, und wenn die Sache an die Section zurückgeht, werden sie dieser in extenso mitgetheilt.</p>
+
+               <p>Alle Ausfertigungen und officielle Schreiben der Deputation unterzeichnet allein der Director.</p>
+
+               <p>Die Deputation hat kein eignes Subalternen-Personal, sondern bedient sich der Kanzlei- und Registratur-Bedienten und der expe- direnden Secretaire der Section. Ueber die Art, die Prüfungen anzustellen, behält sich die Section vor, der Deputation noch eine eigne ausführliche Instruction zu ertheilen.</p>
+
+               <p>5Verhältnisse der Deputation zu andern</p>
+
+               <p>Behörden.</p>
+
+               <p>I. Zur Section des öffentlichen Unterrichts.</p>
+
+               <p>Die wissenschaftliche Deputation steht unter der ausschliesslichen Leitung der Section.</p>
+
+               <p>Der Chef der Section w^ohnt den Sitzungen der Deputation so oft es seine Zeit erlaubt bei, und führt überhaupt die Oberaufsicht auf den ganzen Geschäftsgang bei der Deputation.</p>
+
+               <p>Er verbindet, wenn er es für nöthig findet, die ganze Deputation, oder einzelne Mitglieder mit der Section zu allgemeinen Conferenzen. und bringt auch, wo er es für rathsam hält, ein oder anderes Mitglied der Section zu den Sitzungen der Deputation mit.</p>
+
+               <p>Um aber auch dem Director der Deputation das gehörige Ansehn und Gewicht zu verleihen, und beide Behörden in so enge w^echselseitige Verbindung, als möglich, zu setzen, ist der jedesmalige Director, so lange seine Functionen dauern, allemal zugleich Mitglied der Section, wohnt ihren Sitzungen bei, und nimmt an allen ihren Berathschlagungen Theil. Er hat hierin durchaus gleiche Rechte mit den Staatsräthen und rangirt mit ihnen lediglich nach der Anciennetät.</p>
+
+               <pb n="10.186" xml:id="pbX186"/>
+               <p>2. Zum Plenum der wissenschaftlichen und technischen</p>
+
+               <p>Deputationen. Dies Verhältniss wird erst bei vollendeter Organisation dieses Pleni gehörig bestimmt werden können.</p>
+
+               <p>']. Zu den übrigen Staatsbehörden.</p>
+
+               <p>Mit diesen steht die Deputation in dem Verhältniss von ein- ander unabhängigen Collegien, und keine, ausser der Section, kann befehlende Verfügungen an dieselbe ergehen lassen.</p>
+
+               <p>6.</p>
+
+               <p>Auswärtige Zweige der wissenschaftlichen Deputation. Wie in Berlin, so werden auch in Königsberg und Breslau eigne wissenschaftliche Deputationen errichtet. Alle drei sind unabhängig von einander, setzen sich aber soviel als möglich zur Bewahrung der Einheit der Grundsätze in Verbindung mit einander. Aber die Königsbergische und Breslauische stehen unmittelbar unter den Regierungen beider Oerter, und ihr Verhält- niss zu dieser ist wie das Verhältniss der Berlinischen zur Section. Was dort vom Sections-Chef gesagt ist, gilt hier vom Director der geistlichen und Schul-Deputation und dem Regierungs-Präsidenten. Jedoch schickt jede monatlich eine Liste der abgemachten Arbeiten und vorzüglich der abgehaltenen Prüfungen, letztere mit den Akten selbst, der Section ein.</p>
+
+               <p>Es wird den Regierungen zur besonderen Pflicht gemacht werden, die Deputationen weder bei Sachen ihrer Competenz zu übergehen, noch mit fremdartigen Geschäften zu beschweren. Wo die Deputationen Ursache zu haben glauben, sich über das eine oder das andere zu beklagen, wenden sie sich deshalb an die Section.</p>
+
+               <p>Von der Organisation, den Arbeiten und dem Geschäftsgange der Provinzial-Deputationen gilt alles von der in Berlin Gesagte, nur dass, da die Mitglieder offenbar weniger beschäftigt seyn werden, sie auch nur die Hälfte der Entschädigung und folglich nur 200 Thlr. geniessen. Die Directoren sind zugleich Mitglieder</p>
+
+               <pb n="10.187" xml:id="pbX187"/>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">XXXVII. An Altenstein.</title>
+               </head>
+               <p>(Konzept in den Akten des Kultusministeriums.)</p>
+
+               <p>Königsberg, den 28ten October i8oq. Durch die von Ew. Excellenz mir theils in dem geehrtesten Schreiben vom i8ten August, welches mir der Herr Staatsminister Graf zu Dohna Excellenz mitgetheilt haben, theils aber mündlich gütigst gemachten Bemerkungen geleitet, habe ich meine vor einiger Zeit über die Organisation der wissenschaftlichen Deputation bei der Section des öffentlichen Unterrichts gemachten Vorschläge dergestalt abgeändert, dass ich mir gegenwärtig Ew. Excellenz ge- neigter Zustimmung zu denselben schmeicheln zu dürfen glaube. Obgleich es auch früher bei dem Gedanken, der Deputation 2 Directoren zu geben, nie meine Absicht war, einen eigentlichen Unterschied zwischen Gelehrten und Geschäftsmännern zuzulassen, sondern ich immer darauf gesehen haben v/ürde, nur solche Männer zu wählen, welche den Punkt zu finden verstehen, in welchem wissenschaftliche Grundsätze und Verwaltungs-Maximen mit einander in Uebereinstimmung gebracht werden können; so halte ich es doch, um auch die Möglichkeit des von Ew. Excellenz so scharfsinnig bemerkten Missbrauchs auszuschliessen, für besser, der Deputation nur Einen Director zu geben, wie dies auch mit der Verordnung vom 24ten November 1808 übereinstimmt, hierzu zwar einen Gelehrten zu wählen, wie dies, wenn das Institut nicht ausarten soll, schlechterdings nothwendig ist, aber, soviel als immer möglich, den Sitzungen selbst beizuwohnen, und sowohl in denselben als überhaupt die Oberaufsicht über die Geschäfte der Deputation zu führen. Da alsdann zugleich der Director der wissenschaftlichen Deputation Sitz und Stimme in der Section selbst haben wird; so glaube ich nicht, dass noch zu besorgen sein wird, dass jemals die wissenschaftlichen und Verwaltungsansichten zu weit auseinandergehen könnten. Es ist überdies zugleich meine Absicht, die Stelle des Directors nur immer auf ein Jahr zu vergeben, um zwar, wenn es rathsam scheint, den Ge<pb n="10.188" xml:id="pbX188"/>nicht gewissermassen zu einer Versorgungs-Anstalt herabsinke, und nicht ein den Gelehrten höchst unanständiges eigennütziges Streben nach Stellen in derselben entstehe, trete ich in vollstem Masse bei. Da ich auch gerne zugeben will, dass es doch viel- leicht bedenklich sein könnte, die Verhütung dieses Missbrauchs bloss von der Sorgfalt bei der Wahl der Mitglieder zu erwarten; so stehe ich von dem Gedanken fixer und gewissermassen lebenslänglicher Besoldungen gänzlich ab. Dagegen kann ich mich nicht überzeugen, dass man die Arbeiten bei der Wissenschaftlichen Deputation, deren es vorzüglich in der ersten Zeit in Berlin sehr viele geben wird, von den bei denselben angestellten Gelehrten, selbst, wenn sie sonst anderweitige Einkünfte besitzen, ganz un- entgeldlich verlangen könne. Die verfassungsmässig den Depu- tationen obliegenden Prüfungen erfordern sehr viel Zeit, und es kann auf die Gebühren dabei, da dieselben nie werden hoch sein dürfen, nicht sonderlich viel gerechnet werden. Auch diejenigen Gelehrten, welche ihrer Wissenschaft am eifrigsten ergeben sind (und vielleicht diesen gerade schätzbarsten unter allen am meisten) kann es lästig werden, sich von der Laune ihrer Wahl in Absicht des Gegenstandes scientifischer Thätigkeit auf einen vorgeschrie- benen ablenken lassen zu müssen , wenn nicht ein besonderer Reiz ausserdem damit verbunden ist. Auch sind Ew. Excellenz selbst in Ihrem geehrtesten Schreiben für die Ertheilung billigerer Remunerationen. Diese aber bloss einigen, die derselben allen- falls mehr bedürfen und in verschiedenem Masse zuzutheilen, würde unfehlbar bei der Beurtheilung im Einzelnen sehr schwierig sein, und daher nie den Verdacht der Willkür ausschliessen, wodurch um so leichter Missgunst und Eifersucht unter den Mit<pb n="10.189" xml:id="pbX189"/>Mitglieder, und daher auch ihre Remuneration bloss auf i Jahr zu beschränken, an dessen jedesmaligem Schlüsse des Königs Majestät eine Liste neuer Ernennungen, worin die vorigen Mitglieder aufs neue bestätigt oder mit andern vertauscht würden, zur Allerhöchsten Genehmigung vorzutragen. Die Austretenden gingen in die Classe der ausserordentlichen und unbesoldeten Mitglieder über, welche nicht zu regelmässiger Thätigkeit verpflichtet, nur in seltenen Fällen gebraucht würden. Wo die ausserordentlichen Mitglieder zu Prüfungen gebraucht würden, erhielten sie aber einen doppelten Antheil an den Prüfungsgebühren. Diese Einrichtung scheint mir auch ohne Rücksicht auf die Remuneration sehr zweckmässig, um die Mitglieder der wissenschaftlichen Deputation nicht allzulange ihren wissenschaftlichen Beschäftigungen zu entziehen und die Deputation nicht zu einer Geschäftsbehörde werden zu lassen. Die Möglichkeit, auch dasselbe Mitglied länger zu behalten, bleibt bei dem hier vorgeschlagenen Wege allemal, aber der Wechsel muss da heilsam sein, wo man Routine und Geschäftsgewohnheit gerade aus- zuschliessen wünscht, und wo es wichtig ist, auch an die Stelle guter Subjecte neue noch bessere zu setzen. Die angegebene Remuneration aber wird immer jedem auch als ausserordentliche und nicht bleibende Einnahme willkommen sein, und von Bemittelten gewiss oft wieder zu litterarischen Zwecken verwendet v/erden.</p>
+
+               <p>Zu den ordentlichen Mitgliedern würde ich allemal Gelehrte aus solchen Fächern nehmen, welche, indem sie zum allgemeinen Schulunterricht gehören, die Section des öffentlichen Unterrichts noch näher interessiren, und daher nicht in den Fall kommen, zu ordentlichen Mitgliedern auch anderer wissenschaftlicher oder tech- nischer Deputationen gewählt zu werden, so dass derselbe Mann nie zwei solcher Remunerationen zugleich geniessen könnte.<pb n="10.190" xml:id="pbX190"/> tigt sein werden, macht es möglich, mit einer so geringen Summe auszureichen.</p>
+
+               <p>Hiernach würde daher der jährliche Geldbedarf für die w^issen- schaftliche Deputation bei der Section des öffentlichen Unterrichts sich auf 5600 Thlr. belaufen, nämlich<note type="footnote" n="i)" resp="gnd-116890657"><hi>für den Director derselben 400 Thlr. 2) 6 ordentliche Mitglieder der Deputation in Berlin 2400 „ 3) für die Deputation in Königsberg 1400 „ 4) für die Deputation in Breslau 1400 „ mithin zusammen 5600 Thlr.</hi></note></p>
+
+               <p>Die jetzt zu ernennenden ordentlichen Mitglieder werde ich verbindlich machen, ihre Functionen bis zum iten Januar 181 1 fortzusetzen; es kann indess auch der Fall eintreten, dass ich mich nicht gleich zur Besetzung aller Stellen in Berlin veranlasst finde, und in diesem Falle würde auch von der genannten Summe für jetzt soviel abgehen können, wenn nur die Möglichkeit, über das Ganze zu disponiren, sogleich offen wäre. Der Anstand könnte immer nur vom Mangel eines recht tauglichen Subjects herrühren, da die Zahl der Stellen in der That keine Beschränkung erlaubt.</p>
+
+               <p>So gewiss ich mir auch schmeichle, dass ich durch die sorg- fältige Benutzung Ew. Excellenz einsichtsvoller Bemerkungen meine Vorschläge so eingerichtet habe, dass Ew. Excellenz mit denselben übereinzustimmen kein Bedenken finden werden, so würde es mir überaus erwünscht sein, dies recht bald von Ihnen Selbst zu erfahren. Sobald ich alsdann unterrichtet bin, dass Ew. Excellenz bei der Anweisung der obigen für einen so wichtigen Zweck nur w^irklich gering scheinenden Summe keine Schwierigkeiten finden, so werde ich nicht verfehlen, sogleich die nöthigen Anträge deshalb bei des Königs Majestät zu machen. Ich darf mir aber bei Ew. Excellenz Eifer für alle wissenschaftlichen Institute die gehorsamste Bitte erlauben, diese Angelegenheit soviel vv'ie möglich zu beschleunigen, da die Einrichtung der wissenschaftlichen Deputation in jetzigem Augenblick von dringender Xothwendigkeit ist. Vorzüglich durch Ew. Excellenz thätige Enterstützung ist es der Section gelungen, den meisten litterarischen und Unterrichts<pb n="10.191" xml:id="pbX191"/>dings gelähmt, so lange sie nicht auf die Mitwirkung der wissenschaftlichen Deputation durch Prüfungen und selbst durch Gutachten über Lehr-Methoden, Lections-Pläne, einzuführende Lehr- Bücher u. s. f. rechnen kann.</p>
+
+               <p>Humboldt. An den Königl. Wirkl. Geheimen Staats- u. Finanz- minister Herrn Freiherrn von Altenstein Fxcellenz.</p>
+
+               <p>XXXVIII. Antrag an den König. (Konzept, teilweise eigenhändig, und Abschrift mit dem Datum 4. November in den Akten des Kultusministeriums; Abschriß mit dem Datum 7. November im</p>
+
+               <p>Geh. Staatsarchiv.)</p>
+
+               <p>Die Verordnung vom 24. November 1808, die veränderte Verfassung der obersten Verwaltungsbehörde betreffend, setzt eine wissenschaftliche Deputation für den öffentlichen Unterricht fest, welche unmittelbar der Section des öffentlichen Unterrichts untergeordnet sein soll.*) Diese Deputation ist unter andern auch bestimmt, die Prüfungen der höhern Schulbedienten, zu denen jetzt auch die zugleich zum Unterrichte der Porte d'epee-Fähnriche bestimmten Feldprediger kommen werden, zu übernehmen; und da die unterzeichnete Section die Absicht hat, diesen Prüfungen, um wo möglich alle kenntnisslose und unfähige Schullehrer künftig gänzlich auszuschliessen, eine weitere Ausdehnung zu geben, so ist ihr die Errichtung der wissenschaftlichen Deputation, welcher sie auch sonst zur innern Verbesserung des Schulwesens bedarf, schon hierzu schlechterdings nothvv^endig. Sie wagt es daher, bei Ew. Königl. Majestät folgende ehrerbietige Vorschläge deshalb zu machen.</p>
+
+               <p>An der Spitze der Deputation steht nach der schon vorher erw^ähnten Verordnung ein eigner Director. Da sehr viel darauf ankommt, die wissenschaftliche Deputation mit der Section in genaue Verbindung zu setzen, so scheint es gut, den Director der erstem, so lange er sein Amt bekleidet, auch zum Mitglied der</p>
+
+               <pb n="10.192" xml:id="pbX192"/>
+               <p>Die Mitglieder dürfte es zweckmässig sein, in ordentliche, zu regelmässiger Thätigkeit verpflichtete, und ausserordentliche, die nur in besondern Fällen zugezogen würden, abzutheilen. Zu den erstem würde die Section immer Gelehrte solcher Fächer wählen, welche wegen ihrer Beziehung auf allgemeine Bildung und den allgemeinen Schulunterricht ein besonderes Interesse für sie haben. Die Zahl derselben könnte auf Sechs beschränkt werden. Ausser diesen Mitgliedern soll schon der Verordnung vom 24. November 1808 gemäss die Deputation auch auswärtige Correspondenten mit sich verbinden können.</p>
+
+               <p>Die Betrachtung, dass es nicht gut sein würde. Gelehrte auf zu lange Zeit ihren wissenschaftlichen Arbeiten zu entziehen, und die gegründete Besorgniss, dass die wissenschaftliche Deputation mit der Zeit gegen ihren ursprünglichen Zweck zu einer Geschäftsbehörde werden könnte, machen es rathsam, die ordentlichen Mitglieder, welche allein in ununterbrochener Thätigkeit sein dürfen, immer nur auf Ein Jahr zu ernennen, nach dessen Ablauf sie entweder, was jedesmal freistehen müsste, aufs neue ernannt würden oder in die Ivlasse der ausserordentlichen Mitglieder übergingen. ]\Iit dem Director hätte es dieselbe Bewandtniss. Genehmigten Ew. Königl. Majestät diese Anordnung, so würde die unterzeichnete Section mit dem i. December jedes Jahrs Allerhöchstdenenselben die neue Liste der ordentUchen Mitglieder für das künftige zur Genehmigung ehrfurchtsvoll vorlegen.</p>
+
+               <p>Fixe Besoldungen für die ^Mitglieder der Deputation hält die unterzeichnete Section nicht für zweckmässig, weil auch die sorgfältigste Wahl kaum würde verhindern können, dass die Deputation nicht mehr oder weniger zu einer ^^ersorgungsanstalt herabsänke. Dagegen wird es nicht vermieden werden können, dass nicht den ordentlichen Mitgliedern eine billige Entschädigung gewährt werden sollte, die, um von der einen Seite den Schein der Willkür, von der andern Eifersucht und Missgunst zu vermeiden, allgemein und gleich sein muss. Die Section des öffent- lichen Unterrichts wagt es daher, für den Director und jedes</p>
+
+               <pb n="10.193" xml:id="pbX193"/>
+               <p>Da auch diese Entschädigung immer nur sehr massig ist, so würden Ew. Königl. Majestät vielleicht huldreichst zu erlauben geruhen, dass denjenigen Männern, welche der Deputation be- sonders wichtige Dienste geleistet hätten, oder öfter mit Erfolg bei ihr thätig gewesen wären, Hoffnung gemacht würde, bei vorkommenden Gelegenheiten vorzugsweise vor andern durch Beförderungen und Zulagen ausgezeichnet zu werden. Ein eigenes Subaltern-Personale wird für die Deputation durch das der Section entbehrlich, und überhaupt wird diese letztere auf alle Weise dahin sehen, dass der Geschäftsgang so kurz und einfach als möglich bleibe. Der Chef der Section des öffentlichen Unterrichts wird es sich angelegen sein lassen, den Sitzungen der wissenschaftlichen Deputation, so oft als möglich, selbst beizuwohnen und ihre ganze Geschäftsführung unter diejenige oberste Aufsicht zu nehmen, welche vielleicht, wenigstens was das Detail betrifft, von dem Director, als eigentlichem Gelehrten, nicht immer erwartet werden dürfte.</p>
+
+               <p>Eine specielle Instruction für die Geschäftsführung der Depu- tation nach der Beschaffenheit der einzelnen Arbeiten derselben wird die unterzeichnete Section sogleich auszuarbeiten nicht verfehlen. Bei einer ganz neuen Einrichtung könnte aber die Erfahrung des ersten Jahres leicht die Abänderung eines oder andern Punkts rathsam machen, und die Section hält sich daher hierdurch zu der Bitte berechtigt, diese Instruction für jetzt nur als ein interimistisches Regulativ ansehen zu dürfen.</p>
+
+               <p>Da die Section des öffentlichen Unterrichts wünschte, unter Ew\ Königl. Majestät Allerhöchsten Genehmigung allgemeine Prüfungen für alle diejenigen, welche sich dem Schulamte widmen, einzuführen, weil dies das einzige Mittel scheint, die Patronats- Rechte, vorzüglich der Magisträte, insofern sie noch künftig fort- dauern sollen, unschädlich zu machen, und diese Prüfungen der wissenschaftlichen Deputation zu übergeben; so hält sie es für nothwendig, Ew. Königl. Majestät ehrfurchtsvoll um die Erlaubniss zu bitten, auch in Königsberg und Breslau eigne wissenschaftliche Deputationen errichten zu dürfen, damit jedes Ober-Präsidial- Departement eine solche Prüfungsbehörde in seinem Bezirke besitze. Diese Deputationen können zugleich von den Geistlichen<pb n="10.194" xml:id="pbX194"/> braucht werden, ihnen über Angelegenheiten der innern Schulverfassung sachkundige Gutachten zu ertheilen.</p>
+
+               <p>Die Einrichtung dieser Provincial-Deputationen würde dieselbe sein als die der Berlinschen. Nur scheint, da der Arbeiten natürlich bei weitem weniger sein würden, eine jährliche Remuneration von 200 Rthlr. für jedes ordentliche Mitglied hinreichend. Auch dürfte es gut sein, diese Deputationen, ob sie gleich immer nur unter der Section standen und von den Regierungen selbst unabhängig wären, doch mit dem Präsidio derjenigen Regierung, bei welcher sie sich befände, in dieselbe Verbindung zu setzen, in welcher die Berlinsche Deputation mit dem Sections-Chef steht, so dass die Regierungs-Präsidenten in Königsberg und Breslau die oberste Aufsicht über den Geschäftsgang der dort befindlichen Deputationen führten und Sorge trügen, dass dieselben sich der Registratur und Kanzlei der Regierungen bedienen könnten.</p>
+
+               <p>Was nun die Mitglieder dieser Deputationen betrifft, so wagt es die unterzeichnete Section Ev/. Königl. Majestät folgende aller- unterthänigste Vorschläge deshalb zu machen:</p>
+
+               <p>1. für die Deputation in Berlin:</p>
+
+               <p>Director — der Geheime Rath Wolf.</p>
+
+               <p>Ordentliche Mitglieder:</p>
+
+               <p>Professor Spalding, „ Tralles, „ Schleiermacher, „ Bernhardi. Die Vorschläge zu den beiden noch fehlenden Stellen und zu den ausserordentlichen Mitgliedern bittet die Section Ew. Königl. Majestät ehrfurchtsvoll um Erlaubniss, sich für jetzt und vielleicht bis zu ihrer Rückkehr nach Berlin noch vorbehalten zu dürfen..</p>
+
+               <p>2. Für die Deputation in Königsberg:</p>
+
+               <p>Director — Professor Hüllmann.</p>
+
+               <p>Ordentliche Mitglieder:</p>
+
+               <p>Professor Vater,<pb n="10.195" xml:id="pbX195"/> vorzulegenden Antrag zum ausserordentlichen Professor und Director einer hiesigen Schulanstalt hierher zu berufen wünscht.</p>
+
+               <p>Die andern Stellen glaubt die Section, da ihr keine hinlänglich tüchtige Männer zu denselben bekannt sind, für's erste noch un- besetzt lassen zu müssen.</p>
+
+               <p>3. Für die Deputation in Breslau:</p>
+
+               <p>Director — Professor Manso.</p>
+
+               <p>Ihre ^"orschläge über die Mitglieder muss die unterzeichnete Section Ew. Königl. Majestät ehrerbietigst bitten, nachträglich einreichen zu können, da es ihr im gegenwärtigen Augenblick noch an hinlänglicher Kenntniss der Breslauschen Gelehrten mangelt.</p>
+
+               <p>In Absicht des Geheimen Raths Wolf glaubt die Section noch bemerken zu müssen, dass sie es für ihre Pflicht gehalten hat, zum Director der wissenschaftlichen Deputation in Berlin keinen andern als den Mann vorzuschlagen, welcher, ihrem Urtheile nach, der ausgezeichnetste Gelehrte ist, den Ew. Königl. Majestät Staaten in irgend einem Fache der Wissenschaften gegenwärtig besitzen. Indem er als Director der Deputation zugleich an den Geschäften der Section Theil nimmt, ist es die Absicht dieser, ihm die specielle Aufsicht auf die ihr unmittelbar untergeordnete Berlinsche G3'mnasien zu seinem besondern Geschäftskreis anzuweisen, und sie schmeichelt sich hierin Ew. Königl. Majestät allerhöchsten Ge- nehmigung.</p>
+
+               <p>In Gemässheit der hier ehrerbietigst gemachten Vorschläge trägt nunmehr die Section des öffentlichen Unterrichts bei Ew. Königl. Majestät allerunterthänigst darauf an:</p>
+
+               <p>1 . die Errichtung der wissenschaftlichen Deputation in Berlin und der Provincial-Deputationen in Königsberg und Breslau auf die angegebene Weise allergnädigst zu genehmigen ;</p>
+
+               <p>2. die von der Section vorgeschlagenen Mitglieder derselben huldreichst zu bestätigen;</p>
+
+               <p>3. das Finanz-Ministerium zu autorisiren, für die wissen- schaftliche Deputation in Berlin die Summe von 2800</p>
+
+               <p>Rthlr. jährlich zur Disposition der Section, jedoch dergestalt zu stellen, dass davon nur nach und nach, so wie</p>
+
+               <pb n="10.196" xml:id="pbX196"/>
+               <p>Königsberg, den yten November 1809.</p>
+
+               <p>Die Section im Ministerio des Innern für den öifentlichen Unterricht.</p>
+
+               <p>Humboldt. XXXIX. Votum zu Süverns Entwurf einer Instruktion für die wissenschaftliche D eputation.</p>
+
+               <p>15. November 1809.</p>
+
+               <p>(Konzept in den Achten des Kidtusministeriinns.)</p>
+
+               <p>Ich Stimme mit dem, von Herrn Staatsrath Süvern gemachten Entwurf zu einer Instruction für die wissenschaftliche Deputation vollkommen, und auch da überein, wo derselbe von meinen früheren Ideen abweicht oder Zusätze zu ihnen enthält.</p>
+
+               <p>Im Einzelnen finde ich Folgendes zu bemerken: ad § I.*) Da es in der That nicht richtig ist, dass die Verwaltungsmaximen der Section bloss aus den allgemeinen wissenschaftlichen Grundsätzen herfliessen, so würde ich diesen grösstentheils nach meinem eignen früheren Aufsatz gefassten Paragraphen folgender- gestalt abändern:</p>
+
+               <p>Die wissenschaftliche Deputation ist bestimmt, diejenigen allgemeinen wissenschaftlichen Grundsätze, auf welche die Section des öffentlichen Unterrichts bei ihrer Verwaltung beständig Rück- sicht nehmen muss, und welche in bloss theoretischer Hinsicht die höchste Norm ihres Verfahrens ausmachen, unverrückt gegenwärtig zu verhalten, und dient daher der Section i) dasselbe im Ganzen sowohl als im Einzelnen, nach seinen allgemeinsten Beziehungen, und ohne die beständige Rücksicht</p>
+
+               <p>*j § I lautet bei Süvern: Die wissenschaftliche Deputation ist bestimmt zur Bewahrerin der allgetneinen wissenschaftlichen Grundsätze, aus welchen die einzelnen Verwaltungs-Maximen der Section des öffentlichen Unten-ichts her- ßiessen, durch welche sie geregelt und nach welchen sie beurtheilt werden müssen. Diese hält sie der Section unverrückt gegenwärtig und dient ihr daher<pb n="10.197" xml:id="pbX197"/> auf die Schwierigkeiten der Ausführung, welche die Geschäfts- betreibung nothwendig mit sich bringt, reiner zu übersehen und besser würdigen zu können u. s. f.</p>
+
+               <p>ad § 4.*) Wie die Fächer in diesem Paragraph aufgestellt sind, bleibt eigentlich nichts ausgeschlossen. Es dürfte daher besser sein zu sagen:</p>
+
+               <p>Männer, die sich den philosophischen, historischen und philologischen Studien, der reinen Mathematik und allge- meinen Naturwissenschaft widmen.</p>
+
+               <p>ad § 5.</p>
+
+               <p>Da voraus zu sehen ist, dass der Austritt übel empfunden werden wird, so muss zur V^erminderung dieses Missbehagens hier hinzugefügt werden, dass der Grund des Wechsels vorzüglich der ist, die Gelehrten nicht auf allzu lange Zeit ihren rein wissen- schaftlichen Studien zu entziehen.</p>
+
+               <p>ad § 8.**) Obgleich dieser § gewissermassen durch den i3ten corrigirt wird, so bleibt er doch immer bedenklich, da er die wissenschaft- liche Deputation gleichsam zu einer ewigen Controlle der Section auffordert. Es ist daher wohl nothwendig, ihn w^eniger stringent zu fassen, etw^a so: in unablässlicher Beschäftigung — geschehen sollte und könnte, um das höhere Ideal, welches die reine Theorie<note type="footnote" n="^)" resp="gnd-116890657"><hi>Süvern schlägt in diesem § vor: Männer, die sich den philosophischen, mathematischen, naturwissenschaftlichen, historischen und philologischen Studien widmen, und einen wissenschaftlich gebildeten und kunstmässig geübten Pädagogen.</hi></note></p>
+
+               <p>**j § 8 lautet bei Süvern: Die Arbeiten der Deputation ergeben sich aus ihrem Zwecke und bestehen<pb n="10.198" xml:id="pbX198"/> ad § 34.</p>
+
+               <p>Die Worte : und von diesem gilt alles — beigelegt ist, müssen wohl als zu beschränkend wegbleiben; da man nach der Person des Präsidenten grössere oder geringere Vollmacht zu geben wünschen könnte. Folgende Fassung würde mir daher besser scheinen.</p>
+
+               <p>Ihr ^''erhältniss zur wissenschaftlichen Deputation richtet sich alsdann nach dem Umfange und der Art des ihnen gegebenen Auftrages.</p>
+
+               <p>Dem Gedanken, den Ober-Präsidenten das Präsidium der wissenschaftlichen Deputation in Königsberg und Breslau zu übergeben, kann ich nicht beistimmen:<note type="footnote" n="i)" resp="gnd-116890657"><hi>weil ihre Registratur und Canzley sehr beschränkt ist;</hi></note><note type="footnote" n="2)" resp="gnd-118554727"><hi>weil sie, ihrem Amte nach, sehr häutig abwesend seyn müssen;</hi></note><note type="footnote" n="3)" resp="gnd-118554727"><hi>weil sie unabhängig von der Section und daher schwerer als die Regierungs-Präsidenten zu leiten sind;</hi></note><note type="footnote" n="4)" resp="gnd-118554727"><hi>weil die Section sich des A^ortheils berauben würde, in Schlesien den ^^ice-Präsidenten Merkel brauchen zu können, und wir auf Schlesien doppelte Aufmerksamkeit richten müssen, da auf das uns so sehr bekannte Königsberg immer leicht ein direkter und indirekter Einfluss ausgeübt werden kann.</hi></note></p>
+
+               <p>Anspruch auf dieses Präsidium können übrigens die Ober- Präsidenten nicht machen, da die wissenschaftlichen Provincial- Deputationen immer allein unter der Section stehen, und diese Auftrag geben kann, wem sie will. In Königsberg könnte der Umstand, dass der Ober-Präsident zugleich Universitäts-Gurator ist, durch eine grössere Abhängigkeit der Mitglieder der Wissenschaftlichen Deputation von ihm gerade schädlich werden.</p>
+
+               <p>Den i5ten November i8og.</p>
+
+               <p>Humboldt.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

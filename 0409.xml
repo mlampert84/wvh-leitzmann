@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bemerkungen zur Entstehungsgeschichte der einzelnen Aufsätze</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Vierter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif04humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1905">1905</date>
+                  </imprint>
+                  <biblScope unit="page" from="436" to="441"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="4.436" xml:id="pbIV436"/>
+            <head>
+               <title type="main">Bemerkungen zur Entstehungsgeschichte der einzelnen Aufsätze.</title>
+            </head>
+            <p>/. über das vergleichende Sprachstudium in Beziehung auf die verschiedenen Epochen der Sprachentwicklung (vgl. Haym, Wilhelm von Humboldt S. 4^6. 5^2. s4^i Pott, Wilhelm von Humboldt und die Sprachwissenschaft S. CCLX; Steinthal, Die sprachphilosophischen Werke Wilhelms von Humboldt S. ^']). Mit dieser Abhandlung beginnt die lange Reihe der sprachwissenschaftlichen Arbeiten Humboldts, die sich, iyi enger Verbindung untereinander wie die Glieder einer kunstvoll geschniedeten Kette, durch die fünfzehn Jahre seiner Altersmuße hindurchziehen. Ein vollständiges Bild seiner immensen, stätig wachsenden Arbeitskraft auf dem weiten Gebiete der Linguistik erhält man jedoch erst dann, wenn man sich einen Überblick über den reichen handschriftlichen Nachlaß verschafft hat, den auf Grund seines letztwilligen Vermächtnisses die königliche Bibliothek in Berlin verwahrt. Diese große Zahl von Faszikeln mit ihren unzähligen kleineren und größeren Ausarbeitungen, Studien, Sammlungen, Exzerpten, Notizen über fast alle Sprachen der Erde zeigt ims mit sprechender Deutlichkeit die weitfassenden Interessen und den eisernen Fleiß des in beständigem Lernen alternden Mannes. Und eins vor allem lernt man aus dem Studium dieses Nachlasses erkennen, was dem allgemeinen Bewußtsein, wenn es sich Humboldt als Sprachforscher vorstellt, nicht immer gegenwärtig zu sein pßegt: daß seirie in das abstrakte Reich der Ideen allerwärts sich erhebenden sprachphilosophischen Ausführungen auf dem breiten Boden ausgedehntester Empirie erwachsen sind, daß er überall vom strengen grammatisch-philologischen Verständnis des Einzelnen ausging. Es konnte natürlich keine Rede davon sein, diesen Nachlaß im Rahmen dieser Ausgabe etwa nach der rein empirisch-linguistischen Seite ausschöpfen zu wollen: während die dahin gehörigen Arbeiten so gut wie das eigentliche Kawi- werk von unsrer Ausgabe ausgeschlossen imd der eventuellen Bearbeitung und Würdigung durch Fachspezialisten überlassen bleiben, haben dagegen alle diejenigen Aufsätze Aufnahme gefunden, welche allgemeinere sprachwissenschaftliche Probleme behandeln und von deren umfänglichsten und bedeutendsten man sich bisher in ihrem Verhältnis zu der großen Einleitung in das Kawiwerk nach Steinthals Darlegungen nur einen sehr imvollkommenen und vielfach unzu<pb n="4.437" xml:id="pbIV437"/> treffenden Begriff machen konnte. Was Humboldts Bedeutung innerhalb der Geschichte der Sprachwissenschaft anlangt, so verweise ich hier ein für allemal außer auf Haym und Pott, die ich noch jedesmal besonders zitiere, auf die ein- gehenden Auseinandersetzungen von Benfey (Geschichte der Sprachwissenschaft und orientalischen Philologie S. ^i^J und Delbrück (Einleitung in das Studium der indogermanischen Sprachen * S. 41).</p>
+
+            <p>Die Verpflichtung, in gewissen Zeiträumen in der Akademie der Wissenschaften sprechen zu müssen, von Humboldt selbst nicht immer angenehm empfunden, ward ihm doch mehr und mehr ein heilsamer Zwang, seine Untersuchungen in kleinere Ganze zu konzentrieren und ihnen für die früher von ihm so beharrlich geßohene Veröffentlichung eine abgerundete Form zu geben, in der sie nun imstande waren weiter zu wirken. Die vorliegende Abhandlung wurde am 2g. Juni 1820 in der Akademie gelesen imd in der öffentlichen Königssitzung vom j. August des Jahres wiederholt, wobei Humboldt, der abwesend war, durch Buttmann vertreten wurde. Im Mai des folgenden Jahres war sie noch nicht gedruckt (Humboldt an Welcker, 7. Mai 1821J; erst im November konnte sie an die auswärtigen Freunde versendet werden (an Schlegel, i. November 1821 ; an Welcker, ^. November 1821 ; an Goethe, 29. November 1821 ; Goethes Tagebücher 8, idj. 316). Sie sollten, wie I-Jumboldt an Goethe schreibt, aus ihr ein Bild der Art empfangen, wie er glaubte das Sprachstudium an die höchsten und allgemeinsten Fragen über Ideenentwicklung imd Völkerbildung anknüpfen zu können. Körner, der die Abhandlung noch vor der Drucklegung kennen lernte, erfreute den Verfasser iin September 1820 durch eine Reihe von Bemerkungen. Goethes bei der Lektüre am 7. Dezember 1821 gemachte „Bemerkungen" (Tagebücher 8, 144) sind nicht erhalten; er fand das treffliche, frisch aufklärende imd weiter deutende Heft übereinstimmend mit seinen und Riemers Überzeugungen und sah sich selbst darin einen Spiegel vorgehalten, was er als Dichter und Schriftsteller geleistet habe und hätte leisten sollen (Briefwechsel mit den Gebrüdern von Humboldt S. 268).</p>
+
+            <p>2. Über die Aufgabe des Geschichtschreibers (vgl. Haym S. 43-]. 464; Steinthal, Die sprachphilosophischen Werke Wilhelms von Humboldt S. loj; Wegele, Geschichte der deutschen Historiogravhie S. lO"]! ; Fester, Rousseau und die deutsche Geschichtsphilosophie S. 302; Kittel, Wilhelm von Humboldts ge- schichtliche Weltanschauung im Lichte des klassischen Subjektivismus der Denker und Dichter von Königsberg, Jena und Weimar, Leipzig igoi).</p>
+
+            <p>Schon während seiner wiener imd londoner Zeit hatten Humboldt die Probleme der Geschichtsphilosophie beschäftigt und er hatte seinen Ideen in der Ankündigung der Monographie über die Basken und dann eingehender in zwei sich eigens mit dem Thema der bewegenden Ursachen der Weltgeschichte beschäftigenden Aufsätzen Ausdruck gegeben. In dieser am 12. April 1821 in der Akademie gelesenen Abhandlung kommen diese Untersuchimgen in etivas andrer Wendung zum Abschluß, indem Humboldt hier ein Idealbild der historischen wissenschaftlichen Methode überhaupt entwirft. Den Grundgedanken seiner Ideenlehre teilte er noch vor der Drucklegung Welcker brieflich mit (an Welcker, 7. Mai 1821J. Im Frühjahr des folgenden Jahres ging die Abhandlung den auswärtigen Freunden zu (Humboldt an Stein, _^. März 1822; an Schön und Welcker,<pb n="4.438" xml:id="pbIV438"/> etn^a lO. März 1822; an Goethe, 18. März 1822; Goethes Tagebücher 8, J18J. In dem Begleitbrief an Goethe führt Humboldt aus, daß ein Wort Schillers, der einmal gelegentlicli eines Tadels des allzu dichterischen Charakters seiner historischen Schriften bemerkt hatte, der Geschichtschreiber müsse ganz wie der Dichter verfahren und den aufgenommenen Stoff ganz neu aus sich schaffen, der ganzen Arbeit zu Grunde liege; diese ihm. seinerzeit paradox und nicht recht verständlich erschienene Ansicht habe ihn ständig beschäftigt und der Bemühung, sie sich nach und nach klar zu machen, verdanke die Abhandlung großenteils ihr Entstehen. Welchen Eindruck Goethe von der Arbeit empfangen hat, wissen wir nicht, da Zeugnisse darüber tnangeln. Körner sandte wieder eine Anzahl einzelner Bemerkungen. Einige Dankschreiben von Bernstorff] Pfuel, Niebuhr, Stein und Karoline von Wolzogen hat Harnack (Biographische Blätter 2, 57J veröffentlicht (vgl. ferner Karoline von Humboldt an Rennenkampff, ig. November 1822).</p>
+
+            <p>j. Prüfung der Untersuchungen über die Urbewohner His- paniens vermittelst der vaskischen Sprache (vgl. Haym S. 4j^;.Pott, Wilhehn von Humboldt imd die Sprachwissenschaft S. CCXXX; Hübner, Monumenta linguae ibericae S. XXIV; Farinelli, GuiUaume de Humboldt et l'Espagne S. l']'])Ober Plan und Schicksale der großen Monographie über die Basken, von der diese historisch-linguistischen Untersuchungen ursprünglicii einen Teil bilden sollten, ist schon im vorigen Bande (S. j-j^J eingehend gehandelt worden. Die Ausarbeitung der Abhandlung in der vorliegenden Form fällt in das Jahr 1820, mit dessen Anfang sich Humboldt durch seinen Austritt aus dem Staatsdienst reichlichste Muße darbot, die abgerissenen Fäden seiner mannigfachen wissenschaftlichen Studien wieder anzuknüpfen. Nach dem Abschluß wurde sie Ritter zur Begutachtung vorgelegt, der die schwierige Frage der Urbevölkerung Westeuropas sehr gefördert fand, die vorsichtige Methode lobte imd sehr zur Veröffentlichimg riet (Himiboldt an Wolf, Winter 1820J. Wolf selbst scheint eine eigentliche genaue Durchsicht trotz Humboldts dahingehender Bitte abgelehnt zu haben. Im Februar und März 1821 wurde das Buch rasch gedruckt, wie im Nachlaß darüber befindliche Notizen beweisen (Humboldt an Welcher, 7. Mai 1821J. In letzter Stunde entstanden noch Zweifel über die endgültige Fassung des Titels, für die Humboldt den Rat Wolfs einholte (an Wolf, 21. März 1821J. Zur Frühjahrsmesse des Jahres erschien das Werk imd in einer Reihe von Begleitschreiben sprach sich der Verfasser, dann mehr oder weniger ausführlich über seine Absichten und seine Methode urgeschichtlicher Forschung aus (an Schlegel, 5. Mai 1821; an Welcher, 7. Mai 1821; an Goethe imd Creuzer , i§. Mai 1821 ; an Schlichtegroll, 16. Juni 1821 ; an Riemer, 2^. Juni 1821J. Goethe, der das Buch am 5. Juni erhalten hatte (Tagebücher 8, ^12), nahm im Anschluß daran Gelegenheit, in Konferenzen mit Riemer die „Schwierigkeiten der Sprachbearbeitungen" zu besprechen (ebenda 8, 6s; Briefwechsel mit den Gebrüdern von Humboldt S. 26^).</p>
+
+            <p>4. Versuch einer Analyse der mexikanischen Sprache.</p>
+
+            <p>Als Humboldt nach seiner Entlassung um Neujahr 1820 sich seinen lange unterbrochenen linguistischen Arbeiten wieder energischer zuwandte, knüpfte er an die amerikanischen Studien seiner wiener Jahre wieder an und versenkte sich zunächst<pb n="4.439" xml:id="pbIV439"/> Alexander und durch den Abt Hervas so reiches Material zur Verfügung stand (an Niebuhr, S. Juli 1820; an Welcher, 6. November 1821; vgl. auch Karoline von Humboldt an Welcher, 26. Juni 1820). Über den Gesamtplan dieser auf die amerihanischen Sprachen bezüglichen Arbeiten wird später zu handein sein. Auch darin, daß Humboldt zunächst das Mexikanische in den Mittelpunkt seines hxter- esses stellte (an Welcker, 7. Mai 1821J, knüpfte er an den Gang seiner wiener Studien an: ein Koilektaneenheft aus jener Zeit enthält schon eine vollständige alphabetische Behandlung des mexikanischen Wortschatzes nach Wurzelbegriffen, wie sie auch in unsrer Abhandlung gegeben werden sollte, und deren allgemeinere Erörterungen über die Sprachen Amerikas und über das Verhältnis einer einzelnen Sprache zur Sprache im allgemeinen sind eine fast wörtliche Übersetzung der Paragraphen i — 6 und g — // des damals in Wien verfafhen Essai sur les langues du nouveau continent (Band ^j 300). IJnsre Abhandlung war zum Vort&gt;-ag in der Akademie bestimmt (vgl. S. 24g), doch läßt sich weder der Zeitpunkt der Vor- lesuyig noch der der Niederschrift genauer feststellen. Daß sie nicht jünger sein kann als das Jahr 182L, geht aus der Tatsache der wörtlichen Benutzung jener älteren Arbeit im Zusammenhang mit der später zu erörternden Gesamtentwick- lung von Humboldts amerikanischen Sprachstudien hervor.</p>
+
+            <p>5. Über das Entstehen der grammatischen Formen und ihren Einfluß auf die Ideenentwicklung (vgl. Haym S. 4^-j. sjg; Pott, Wil- helin von Humboldt und die Sprachwissenschaft S. CCXCVII; Steinlhal, Die sprachwissenschaftlichen Wej-ke Wilhelms von Plumboldt S. b'j).</p>
+
+            <p>Diese Abhandlung wurde am 17. Januar 1822 in der Akademie gelesen und in der öffentlichen Friedrichssitzung vom 24. Januar wiederholt. Eine kurze Darlegung des Inhalts gab Humboldt bald darauf in einem Briefe an Welcker, in dem er zugleich in der Frage des Unterschieds zwischen Sprachen mit und ohne grammatische Formen seine Abweichung von dem von Friedrich Schlegel einge- nommenen Standpunkte hervorhebt (an Welcker, 12. März 1S22). Bis sie gedruckt erschien, dauerte es über zwei Jahre: erst im Frühjahr 1824 konnte sie Humboldt den auswärtigen Freunden zusenden (an Welcker, 22. Mai 1824; an Schlegel, 24. Mai 1824; an Jakob Grimm, 28. Juni 1824; an Pickering, 29. Juni 1824). In dem Briefe an Welcker führt er aus, daß er nur bei Wenigen volle Zustimmung zu seinen hier geäußerten Ansichten erhoffe, da die von gänzlicher Stumpf- heit gegen das echte Sprachgefühl ausgehende Ansicht alles noch so überdacht, vorsichtig und nüchtern Gesagte spitzfindig oder schwärmerisch finde und seine Anschauungen vom höchsten Altertutn und seiner vermeintlichen Vollkommenheit auch in der Sprache nicht teile; die andern Briefe gehen mehr auf einzelne bestimmte Pimkte der Vorlesimg ein. An Goethe scheint die Abhandlimg nicht geschickt worden zu sein: in seiner regelmäßig geführten Büchervermehrungsliste findet sie sich nicht. Ein eingehendes schönes Antwortschreiben von Jakob Grimm vom 8. August 1824 ist erhalten.</p>
+
+            <p>6. Über die allgemeinsten Grundsätze der Wortbetonung mit besonderer Rücksicht auf die griecliisclie Akzentlehre.<pb n="4.440" xml:id="pbIV440"/> Fragen der Akzentlehre un Beginn der zwanziger Jahre hervor. Geweckt wurde es, wie es scheint, vor allem während seines londoner Aufenthalts durch umfängliches genaues Studium der englischen Aussprache und ihrer mannigfaltigen Akzentqualiiäten : das zeigen die reichhaltigen die englische Akzentuation betreffenden Notizen und Ausarbeitungen des Nachlasses. Direkte Zeugnisse für die Entstehungszeit unsrer Abhandlung sind nicht vorhanden: das Wasserzeichen der Handschrift und andre äußere Zeichen weisen auf das Jahr 1821, wozu jene Briefstellen gut stiynmen.</p>
+
+            <p>7. Über die in der Sanskritsprache durch die Suffixa tvä und ya gebildeten Verbalformen.</p>
+
+            <p>Gegen Ende des Jahres 1820 begann Humboldt sich eingehender mit dem. Sanskrit zu beschäftigen und widmete ihm lange Zeit hindurch den größten Teil seiner Muße, mehr vom grammatischen Studium der Sprache und ihres reich gegliederten Baues als vom Gedankengehalt der Literaturwerke angezogen und dauernd gefesselt (an Bopp, 4. Januar 1821 ; an Schlegel, 5. Mai 1821 ; an Welcker, 7. Mai und 6. November 1821 ; an Goethe, 75. Mai und i. Juli 1821 ; an Riemer, 25. Juni 1821). Eine große Zahl von Präparationen , grammatischen Formen- sammlungen, Übersetzungen und Paraphrasen aus diesen Zeiten bewahrt der Nachlaß auf und wir ersehen daraus, wie ernst es Humboldt mit dem Bestreben nahm, der schwierigen Sprache und ihres komplizierten grammatischen Systems bis in alle Einzelheiten hinein Herr zu werden. Ein Beweis, wie weit ihm. dies in verhältnismäßig kurzer Zeit gelungen war, ist die vorliegende Abhandlung. Eine Bemerkung Schlegels über die Formen auf tvä in seiner Anzeige von Bopps Ausgabe des Nahes gab Humboldt die erste Veranlassung, auf diese merkwürdigen Absolutivformen und ihre Konstruktionen näher zu achten (an Bopp, 24. Februar 1822). Im März und April dieses Jahres wurde dann das Stellenmaterial gesammelt und mit Bopp eingehend besprochen, im Mai und Jimi die Abhandlimg selbst niedergeschrieben und dann nochmals Bopp zur Durchsicht vorgelegt (Humboldt an Bopp, 12. imd 18. März, 26. April, Juni, i., 4. und g. Juli 1822). Ajh 18. Oktober ging das Manush'ipt an Schlegel zur Aufnahme in dessen Indische Bibliothek ab. Schlegel antwortete am i. Dezember voll Lobes über die gründliche imd meisterhafte Arbeit, die den ersten Versuch darstelle, in das schwierige und verwickelte Gebiet der Sanskritsyntax einzudringen. Auch mit ihm wurden mm eine Anzahl von Stellen brieflich eingehend erörtert, wodurch sich Humboldt noch einige Verbesserungen ergaben (an Schlegel, ij. Dezember 1822, j. Januar, 8. April und 6. Mai 182JJ. In zwei aufeinander folgenden Heften der Indischen Bibliothek erschien die Abhandlimg im Frühjahr 182J und 1824. Ich erwähne hier noch das öffentliche Urteil Bopps, der in einer langen Rezension der betreffenden Hefte von Schlegels Zeitschrift, die sich fast ausschließlich mit Humboldts Untersuchung beschäftigt, sagt (Göttingische gelehrte Anzeigen 182^ S. 31s): „Wir bewundern in dieser gehaltvollen Abhandlung die Klarheit der Methode, den folgerechten, streng wissenschaftlichen Gang in der Entwicklung und Feststellung der Begriffe und den seltenen Scharfblick in der Wahrnehmung der feinsten Unterschiede ähnlich scheinender Woi-tfügungen."</p>
+
+            <pb n="4.441" xml:id="pbIV441"/>
+            <p>441</p>
+
+            <p>8. Über den Nationalcharakter der Sprachen (vgl. Steinthals Einleitung zum ersten Druck).</p>
+
+            <p>Diese fragmentarische, zum Vortrag in der Akademie bestimmte Abhandlung sollte sich an die Entwicklungen der Arbeit über das Entstehen der grammatischen Formen weiterführend ebenso anschließen, wie diese sich an die über das vergleichende Sprachstudium angeschlossen hatte. Ich glaubte sie am richtigsten hier einzuordnen und in das Jahr 1822 zu setzen, woliin sie durch äußere Zeichen des Manuskripts verwiesen wird; sicherlich ist Steinthals Ansatz 1824 zu spät, da sie schon in einer aus dem Jahre 182J stammenden Arbeit zitiert wird.</p>
+
+            <p>Jena, 12. August igosAlbert Leitzmann.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

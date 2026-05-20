@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Zur Aachener Verfassungsrevision</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Siebenter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif0702humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1907">1907</date>
+                  </imprint>
+                  <biblScope unit="page" from="556" to="566"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="7.556" xml:id="pbVII556"/>
+            <head>
+               <title type="main">7- Ueber die Ehrlosigkeit (Infamie) als eine Kriminalstrafe.</title>
+            </head>
+            <p>Der N a m e {reputation) eines Menschen ist die Meinung andrer von ihm, und wird nach der grösseren Allgemeinheit derselben bestimmt. Ist diese Meinung — von der wir hier nur insofern reden, als sie den moralischen Charakter betrift — vortheilhaft, so heisst er: guter Name, Ehre; im entgegengesezten Fall: böser Name, Schande, Ehrlosigkeit. Insofern Ehre und Schande durch die wirklichen, eigen- thümlichen Eigenschaften des Menschen veranlasst werden, dem man sie beilegt, ist jene sein Eigenthum, diese seine Schuld. Beide bleiben indess immer abhängig von dem Urtheile andrer. Diese allgemeinen Begriffe auf das Verhältniss der Bürger zum Staat angewandt, kann der Staat eben so wenig über die Ehre eines Bürgers im Allgemeinen Macht haben, als es ihm auch nur physisch möglich ist, die Meinungen andrer über denselben nach seiner Willkühr zu stimmen. Da er indess, als der herrschende Theil in der Nation, selbst zu den Bürgern gehört; so ist er, wie jeder unter ihnen, berechtigt eine Meinung über den moralischen Charakter eines Menschen zu hegen, und seine Handlungen darnach zu bestimmen. Er ist diess um so mehr, als er i., sogar die Verpflichtung auf sich hat, seine Meinungen in dieser Rüksicht zu bestimmen, indem von diesen sein Vertrauen, und davon wiederum sein eignes sowohl, als der einzelnen Bürger Wohl abhängt; und als er 2., am meisten im Stande ist, seine günstige oder ungünstige Meinung Handschrift (11 Quartseiten) im Archiv in Tegel.</p>
+
+            <pb n="7.557" xml:id="pbVII557"/>
+            <p>7- Über die Ehrlosigkeit (Infamie) als eine Krirainalstrafe. I. cr-y auf eine erlaubte Weise zu äussern, durch Entziehung oder Gewährung theils seines Vertrauens, theils derjenigen Vortheile, die wir Belohnungen nennen, und die, wenn sie nichts als den Ausdruk der vortheilhaften Meinung enthalten, Ehrenbezeugungen heissen. Insofern kann daher auch die Ehre Gegenstand einer Strafe sein. Es fragt sich jezt nur:</p>
+
+            <p>I., wann kann der Staat diese Strafe verhängen? 2., welche Folgen für den Bestraften kann oder muss er ihr beimessen ?</p>
+
+            <p>3., wenn sie verhängt ist, wann kann oder muss sie aufhören?</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">I.</title>
+               </head>
+               <p>Wann kann der Staat die Strafe der Ehrlosigkeit</p>
+
+               <p>\" erhängen?</p>
+
+               <p>Das erste Gesez ist hier folgendes: die Meinung des Staats über die Moralität eines Bürgers darf sich allein nach Handlungen, und zwar nur nach solchen bestimmen, die in dem Kreise derjenigen liegen, welchen die Geseze Maass und Schranken vorschreiben.</p>
+
+               <p>Denn nur Handlungen und nur diese sind der Beurthei- lung desselben unterworfen.</p>
+
+               <p>Diejenigen Handlungen nun, welche, unter den vorbeschriebenen, allein die Strafe der Ehrlosigkeit nach sich ziehen können, sie aber auch nach sich ziehen müssen, sind natürlich die, welche, ohne sehr wahrscheinliche Gefahr, kein Vertrauen auf die Recht- schaffenheit des Handlenden, d. i. auf seine Achtung für die vollkommenen Pflichten, die ihm gegen den Staat und seine Mit- bürger obliegen, erlauben. Diese Handlungen einzeln, auch nur nach Klassen zu bestimmen, ist schwer, und im Allgemeinen unmöglich. Denn diese Bestimmung beruht allein auf einer Berechnung der Wahrscheinlichkeit, ob der Verbrecher auch künftig ähnliche Eingriffe in die Rechte andrer wagen werde ? bei welcher sich zwar sogleich zwei zu vermeidende Extreme zeigen, nemlich einmal nicht, zum Nachtheil der unschuldigen Bürger, zu sorglos, dann nicht, zum Nachtheil des schuldigen, auf eine grausame Weise zu vorsichtig zu sein, welche aber hierzwischen unendliche Grade der nothwen- digen Vorsicht, und der nothwendigen Milde lässt. Da es hier<pb n="7.558" xml:id="pbVII558"/> allein auf Vertrauen auf Rechtschaffenheit ankommt ; so muss die Untersuchung natürlich darauf gehn: in welchem Grade der Verbrecher Nicht-Achtung gegen die Rechte des Staats oder seiner Mitbürger gezeigt habe? Diess aber lässt sich beurtheilen: i., aus der Art des Verbrechens. 2., aus der Seelenstimmung des Verbrechers zur Zeit der Handlung. Diess alles genau erwogen zeigt sich nun hier dennoch wenigstens ein einschränkender Grundsaz, nemUch: keine Handlung kann Ehrlosigkeit nach sich ziehen, durch welche nicht wissentlich und mit direkter Absicht ein vollkommenes Recht des Staats, oder seiner Bürger verlezt wird.</p>
+
+               <p>Anm. Alle Handlungen dieser Art müssen bei jeglicher guten Gesezgebung wirldich durch Geseze verboten sein. Dieser Saz widerspricht daher nicht dem oben aufgestellten, ob er gleich die eben genannte Eigenschaft nicht ausdrüklich als Bedingung hinzusezt. Die Fassung des obigen Grundsazes bestimmt aber positiv noch nicht, ob auch alle solche Handlungen die Strafe der Ehrlosigkeit nach sich ziehen sollen? Wollte man auch diesen Saz aufstellen ; so würde derselbe Ausnahmen erfordern, wenn i ., entweder die Art der verlezten Pflicht, oder 2., die individuelle Seelenstimmung des Verbrechers zur Zeit der That nicht auf eine so grosse Nicht-Achtung fremder Rechte zu schliessen erlaubte, als nothwendig ist, um ein gegründetes Mistrauen zu erregen.</p>
+
+               <p>In Absicht des ersten Moments würde ich in der allgemeinen Theorie der Gesezgebung keine Ausnahme gestatten. Denn jede vollkommene Pflicht hat gegründete Ansprüche auf gleiche Achtung, und wenn gleich die Strafe Grade fordert, so ist hier doch nicht bloss ^) von Bestrafung, sondern zugleich von gerechten Gründen des Mistrauens die Rede. Selbst Verbrechen, die ganz specielle Lagen und Umstände erfordern, wie z. B. der Kindermord, würde ich nicht ausnehmen. Denn wenn auch von der Nicht- Achtung der Rechte des neugebohrnen Kindes nicht gleich auf die Nicht- Achtung andrer Rechte geschlossen werden kann; so ist die Ehrlosigkeit auch zugleich Strafe, und das Verbrechen kann von der- selben Person wiederholt, oder von andren, nach ihrem Beispiel, begangen werden. Der einzige wahre Grund der Ausnahme würde in der verschiedenen Anerkenntniss dieser oder jener Pflichten von</p>
+
+               <p>V Nach „bloss" gestrichen: „nicht einmal eigentlich".<pb n="7.559" xml:id="pbVII559"/> den Bürgern liegen, wo denn das Gesez freilich ihre Vorurtheile nicht auf einmal über den Haufen werfen kann, sondern nachgeben muss. Diese Ausnahmen aber gehören in diejenige besondre Wissenschaft, die man, insofern sie die verschiednen physischen, intellektuellen, und politischen Lagen der Nationen, welche andre Modifikationen der Geseze nothwendig machen, gleichsam als Zeichen der Nothwendigkeit dieser Modifikationen, angiebt, Se- miotik, aber insofern sie einzelne Fälle hypothetisch aufstellt, und auflöst, vielleicht auch Kasuistik der Gesezgebung nennen könnte. In Absicht des oben angeführten zweiten Moments finden sich zwei Ausnahmen, i ., wenn der Verbrecher nicht völlig frei handelte (welche jedoch in einem vollständigen S3'stem nicht hier, sondern schon unter den allgemeinen Grundsäzen ihren Plaz finden würde), 2., wenn eine solche Kollision obwaltete, die einen ungewöhnlich hohen Grad der Moralität zur Verm^eidung des Verbrechens er- forderte. Denn der seltne Fall erlaubt keinen Schluss auf die gewöhnlichen. Eine dergleichen Kollision kann jedoch nicht leicht anders entstehen, als durch einen Mangel in der Einrichtung des Staats, und insofern gehört auch diese Ausnahme nicht in die reine Theorie der Gesezgebung, vv^elche von allen Hindernissen und Mängeln in einzelnen Anwendungen abstrahirt. Was aber ein ungewöhnlicher Grad der Moralität zu nennen ist, erwartet, als etwas Relatives, abermals seine Bestimmung von der vor- erwähnten Kasuistik, welche, um noch genauer zu Werke zu gehen, auch Grade des Mistrauens, und mithin der Strafe, fest- sezen könnte.</p>
+
+               <p>Tl.</p>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">Welche Folgen kann, oder muss der Staat der Strafe der Ehrlosigkeit für den Bestraften beilegen?</title>
+               </head>
+               <p>I., Die Strafe der Ehrlosigkeit besteht in der Erklärung des Mistrauens gegen die Rechtschaffenheit dessen, der damit belegt wird.</p>
+
+               <p>2., Diese Strafe wird vom Staate verhängt, und ist daher nur eine Erklärung seines Mistrauens.</p>
+
+               <p>Aus diesen beiden Grundsäzen wird sich alles herleiten lassen, was zur Beantwortung der aufgeworfenen Frage dient.</p>
+
+               <p>Da nach dem ersteren diese Strafe nur insofern Aenderungen in den Verhältnissen des Bestraften herv^orbringen kann, als in<pb n="7.560" xml:id="pbVII560"/> denselben von Rechtschaffenheit und Vertrauen darauf, oder Mistrauen dagegen die Rede sein kann; so folgt: a., der für ehrlos Erklärte bleibt, wie er vorher war, Bürger des Staats, und behält dieselben vollkommenen Rechte, und vollkommenen^) Pflichten; insofern die ersteren sich nicht auf seinen guten Namen und seine Ehre beziehen.</p>
+
+               <p>Denn jene Rechte hängen nicht von seiner Rechtschaffenheit und seinen Ansprüchen auf Vertrauen auf dieselbe, sondern allein davon ab, dass er Bürger ist, und hören daher nicht anders auf, als wenn er überhaupt unwerth Bürger zu sein erklärt, und aus der Gesellschaft gestossen wird.</p>
+
+               <p>Diese Pflichten aber sind natürliches Korrelatum der Rechte, und solange der Staat ihre Erfüllung fordert, kann sie der, welcher zum Staate gehört, nicht verweigern.</p>
+
+               <p>Wo hingegen auch hier Ehre und guter Name in Betracht kommen, muss natürlich eine Ausnahme Statt finden.</p>
+
+               <p>b.. Hingegen ist der Staat in Ansehung des ehrlos Erklärten entbunden «., der Pflicht, die ihm sonst vollkommen obliegt, die Ehre jedes Bürgers zu achten, und wenigstens das Gegentheil weder auf eine positive noch negative Art zu äussern; /j., der nicht ursprünglichen, sondern durch Vertrag entstandnen Rechte, insofern er bei Schliessung des Vertrags auf die Rechtschaffenheit des andren Theils rechnete; ferner y., berechtigt, demselben alle Vortheile zu entziehen, die in seiner blossen Willkühr stehen, auf die jedoch jeder Bürger, wenn gleich kein Recht, dennoch einen Anspruch hat.</p>
+
+               <p>Alle diese Befugnisse des Staats werden nun durch die Betrachtung, dass derselbe für sein eignes und der Bürger Wohl sorgen muss, und dass von einem für ehrlos Erklärten Gefahr zu befürchten ist, in wirkliche Verbindlichkeiten verwandelt.</p>
+
+               <p>Jezt nur noch ein Paar Worte zur Erläuterung des obigen Sazes.</p>
+
+               <p>«., Jeder Bürger hat das vollkommene Recht, dass der Staat seine Ehre unangetastet lasse.</p>
+
+               <p>Verlezungen derselben von Seiten des Staats lassen sich denken positiv, durch direkte Erklärungen ; negativ durch Ausschliessung von den Vortheilen, zu denen zwar kein vollkommenes Recht vorhanden ist (weil sie alsdann in eine andre Klasse gehören), die</p>
+
+               <p>V Nach „vollkommenen" gestrichen: „negativen".</p>
+
+               <pb n="7.561" xml:id="pbVII561"/>
+               <p>561 aber alle Bürger, weil sie Bürger sind, gemessen, und den posi- tiven Pflichten, deren Erfüllung ein ausschliessendes Recht der Bürger ist, und die man Bürgerpflichten nennt. Denn eine solche Ausschliessung wäre mit Recht eine Beleidigungzu nennen.</p>
+
+               <p>Der ehrlos Erklärte würde nun von der Erfüllung dieser Pflichten gänzlich ausgeschlossen ; er dürfte nicht Vormund, nicht Zeuge in einer Sache des Staats (von andren Sachen weiter unten), nicht Nationalsoldat, nicht Retter bei Feuersgefahr u. s. f. sein. Nothwendig wäre diese Ausschliessung nun zwar nur, insofern als diese Bürgerpflichten Ausübung von Handlungen fordern, nicht insofern sie in Abgaben bestehen. Auf diese hat seine Rechtschaffenheit keinen Einfluss, hierbei ist von seiner Ehrlosigkeit nichts zu fürchten. Allein ein weiser und tugendhafter Staat wird ihn auch von diesen ausschliessen. Er ist ein zu reines heiliges Wesen, um aus unreinen Händen zu empfangen.</p>
+
+               <p>/?., Der Staat ist, wie jeder Bürger berechtigt, neue Verbindungen durch Verträge einzugehen, und hieraus entstehen gleich- falls vollkommene Rechte und Verbindlichkeiten. Schon in der allgemeinen Lehre von den A^erträgen aber ist es ein bekannter Saz, dass ein Vertrag zugleich mit den Umständen aufhört, ohne welche er nicht geschlossen sein würde. Wo also der Staat bei Schliessung eines Vertrags, der Natur des Geschäfts nach, auf die Rechtschaffenheit des andren Theils rechnen musste, da ist er seiner Verpflichtungen entbunden, sobald dieser andre Theil des Vertrauens auf seine Rechtschaffenheit für unwürdig erklärt wird. Jedoch versteht es sich von selbst, dass hier nur von ^&gt;^trägen, deren Erfüllung noch fortdauert, nicht von völlig abgemachten Geschäften die Rede ist, und dass der Staat den für Ehrlos Erklärten in Absicht der vergangenen Zeit insoweit entschädigen muss, als er sich sonst mit seinem Nachtheil bereichern würde.</p>
+
+               <p>7., Die lezte aufgeführte Befugniss und Verbindlichkeit des Staats in Absicht der Strafe der Ehrlosigkeit bezieht sich auf die Ertheilung von öffentlichen Aemtern, Belohnungen, Ehrenbezeugungen u. s. f. Da nach dem zweiten der oben aufgeführten HauptGrundsäze der Staat durch die Strafe der Ehrlosigkeit nur sein Mistrauen erklärt; so hat daher diese Strafe keinen weiteren direkten Einfluss auf das Verhältniss des für ehrlos Erklärten zu seinen Mitbürgern. Vielmehr haben diese die uneingeschränkteste Freiheit über den</p>
+
+               <p>W. V. Humboldt, Werke. VII. 36<pb n="7.562" xml:id="pbVII562"/> moralischen Charakter des für ehrlos Erklänen eine Meinung^ welche sie wollen, zu hegen, und diese Freiheit muss so weit gehen, dass es zwei streitenden Partheien, insofern sie bloss über ihr Privatinteresse streiten, auch den Ehrlosen als tüchtigen Zeugen unter sich gelten zu lassen, erlaubt sein muss, und dass der vom Staat angeordnete Richter, der nicht bestimmt ist. Recht und Wahrheit überhaupt und an sich, sondern nur insofern die Partheien es wollen, und durch diejenigen gesez- lichen Mittel, die sie anwenden wollen, auszumachen, ihn zulassen, und seinen Ausspruch nach der Aussage desselben richten muss. Auf der andren Seite aber können auch die Bürger dem Urtheil des Staats folgen, und, da nur der Staat, auch den Ehrlosen gegen Angriffe zu schüzen, verbunden ist, so entsteht hier die Frage : inwiefern diese Abänderung ihres Unheils auf ihre Handlungen Einfluss haben darf?</p>
+
+               <p>Hier zeigt sich nun gleichsam von selbst folgender sehr ein- fache Grundsaz : der Staat muss den Bürgern, ihr Mistrauen gegen den für Ehrlos Erklärten demselben zu äussern, überall da erlauben, wo er selbst, nach dem Vorigen, zu dieser Aeusserung berechtigt ist, und wo die Bürger sich in gleichem Falle mit ihm belinden; schlechterdings aber nicht weiter.</p>
+
+               <p>Denn die Untersagung des Ersteren würde eine Ungerechtigkeit gegen die schuldlosen Bürger — denen der Staat versagte, was er sich in vollkommen gleichem Fall erlaubte — , die Ausübung des Lezteren eine Ungerechtigkeit gegen den Ehrlosen enthalten.</p>
+
+               <p>Gehen wir also auf das vorhin Gesagte zurük, so folgt: a., der Staat muss den Ehrlosen in allen seinen vollkommenen Rechten gegen seine Mitbürger schüzen, insofern diese Rechte sich nicht eigentlich auf seine Ehre und seinen guten Namen beziehen.</p>
+
+               <p>b., hingegen muss er sie a., der Pflicht, seine Ehre unangetastet zu lassen, insoweit entbinden, dass es ihnen freistehe, ihm ihr NichtVertrauen auf seine Rechtschatfenheit auf eine negative, schlechterdings aber keine positive Weise zu äussern, /?., ihnen erlauben, die vertragsmässigen Verbindlichkeiten aufzuheben, bei deren Schliessung sie seine Rechtschaffenheit, der Natur des Vertrags nach, nothwendig voraussezen mussten.</p>
+
+               <p>«., Positiv wird die Ehre eines Menschen durch ausdrük- liche Erklärungen der Verachtung aller Art beleidigt; auf nega<pb n="7.563" xml:id="pbVII563"/>ist, was indess der Sitte und Gewohnheit nach (der allgemeinen oder besondren eines Standes u. s. f.) jeder, insofern er nur nicht als ein Mensch ohne Ehre anzusehen ist, von jedem erwarten darf. Die Folge für den Ehrlosen in Absicht dieses Punkts wäre nun bloss die, dass er für eine solche Entziehung, nicht als für eine Beleidigung Genugthuung verlangen könnte. Diess ist in Absicht der unschuldigen Bürger nothwendig, da es eine Kränkung ihrer Rechte sein würde, wenn sie demjenigen Achtung be- zeigen sollten, den der Staat für unwerth aller Achtung und alles Vertrauens erklärt hat. Jede eigentliche Beleidigung aber bliebe, als ein Eingriff in die wirklichen Rechte des andren, immer strafbar, und wenn der Ehrloserklärte gleich nicht eine eigentliche Ehrenerklärung verlangen könnte; so wäre der Beleidiger ihm dennoch Abbitte schuldig.</p>
+
+               <p>ß., Zu den Verträgen, wobei auf Rechtschaffenheit gerechnet wird, würde ich vor allen zählen Ehe, Vertrag zwischen Herrschaften und Gesinde, Handlungsgesellschaften u. s. f., allgemein aber alle Verträge, bei welchen der eine Theil durch die Unredlichkeit des andren in Schaden gesezt werden könnte. Anm. Wenn in Hinsicht auf bestimmte Nationen in bestimmten Lagen, wie im Vorigen erwähnt worden ist, Grade der Ehrlosigkeit festgesezt würden, so zeigt sich hier von selbst, wie man, nach Verschiedenheit dieser Grade, der Ehrlosigkeit mehrere oder wenigere Folgen beilegen könnte.</p>
+            </div>
+
+            <div type="section" n="3">
+               <head>
+                  <title type="main">III.</title>
+               </head>
+               <p>Wann kann, oder muss die verhängte Strafe der</p>
+            </div>
+
+            <div type="section" n="4">
+               <head>
+                  <title type="main">Ehrlosigkeit aufhören.^</title>
+               </head>
+               <p>Jeder, auch der verderbteste Mensch ist der moralischen Besserung, oder vielmehr, da der Staat kein Recht hat, sich um die Moralität eines Menschen, sondern nur um die Gesez- mässigkeit seiner Handlungen zu bekümmern, auch der Mensch, welcher die gesezwidrigsten Handlungen begeht, ist der Umänderung, und mithin der Wiedergewinnung des Vertrauens des Staats fähig.<pb n="7.564" xml:id="pbVII564"/> Die Strafe der Ehrlosigkeit darf daher nicht lebensläng- lich sein. Ihr jedoch eine Zeit im Urthel zu bestimmen, scheint bedenklich, und könnte nur aufs Gerathevvohl geschehen. Ich würde also Herrn Ivlein[s] Vorschlage ^) folgen, und dem Ehrloserklärten erlauben, nach einiger Zeit selbst auf die Auf- hebung anzutragen. Indem so die Dauer noch mehr in seiner Gewalt stände, würde er sich eifriger eines gesezmässigen Lebens bestreben ; da eine Abweisung seines Gesuchs gleichsam eine neue Ehrloserklärung und mithin eine neue Schande wäre; so würde er sich auch hüten, eher um die Aufhebung einzukommen, als er der Gewährung gewisser sein könnte. Die Aufhebung geschähe alsdann nur nach vorgängiger Untersuchung, die nemlich dahin gerichtet sein müsste : ob sein Lebenswandel in der seitdem ver- flossnen Zeit hinlängliche Gründe enthalte, das bisherige Mistrauen aufzuheben.</p>
+            </div>
+
+            <div type="section" n="5">
+               <head>
+                  <title type="main">Anm. Bei bestimmten Graden könnten auch Milde-</title>
+               </head>
+               <p>rungen der Strafe vor der gänzlichen Aufhebung vorhergehen. Alles Vorhergehende ist fast allein aus den blossen Begriffen der Ehre und des guten Namens, und aus den allgemeinen Verhältnissen der Bürger zum Staate und umgekehrt, hergeleitet worden; und die eigentliche gesezgeberische Klugheit ist dabei fast gänzlich unerwähnt geblieben. Insofern nun jene Begriffe, und die Herleitung der Folgerungen nichts Falsches enthalten, könnte in den Resultaten, selbst wenn sie dieser Klugheit widersprechen sollten, nichts geändert werden. Indess lässt sich auch, glaube ich, leicht zeigen, dass dieselben auch mit ihr über- einstimmen. Das Unterscheidende der vorigen Theorie liegt: I., darin, dass der Ehrlose schlechterdings nichts verliert, als was völlig streng von seiner Rechtschaffenheit und dem Vertrauen darauf abhängig ist. 2., dass derselbe Mensch vom Staat für ehrlos erklärt sein, und die höchste Achtung aller seiner Mitbürger öffentlich be- sizen kann. Was nun das Erste betrift; so ist sie in Absicht des physiV T^/. seine Vermischten Abhandlungen über Gegenstände der Gesetzgebung und Rechtsgelehrsamkeit 2, 74.</p>
+
+               <pb n="7.565" xml:id="pbVII565"/>
+               <p>als eine Kriminalstrafe. III. 565 sehen Wohls des Bestraften menschlicher und milder als die bisherige; sie greift nur seine Ehrliebe, sein sittliches Selbstgefühl an, und ihre ganze Wirksamkeit ist daher nur auf den Menschen auf einem beträchtlich hohen Grade der Moralität berechnet. Auf noch ungebildete, rohe Nationen fände sie, in ihrer ganzen Ausdehnung, schlechterdings keine Anwendung. Denn der Ehrlose geniesst fernerhin alle ursprünglichen Rechte, als Bürger, als Mitglied seiner Familie, eines gewissen Standes u. s. f., er empfängt vom Staat, der ihn schüzt, von seinen Mitbürgern, die für ihn den Staat mit erhalten; er entbehrt bloss des, nur edlen Menschen theuren Gefühls, auch selbst zum Wohl andrer beizutragen, und empfängt nur das nicht, was das beglükkendste aller Gefühle, das Bewusstsein seiner Innern Würde, erhöhen könnte. In dieser Hinsicht ist diese Strafe schreklich, und würde selbst den Namen der Grausamkeit verdienen, wenn nicht Grausamkeit bloss eine ungerechte Härte wäre. Gewissermaassen kann man sie härter nennen, als die gewöhnliche. Denn indem man dem Ehrlosen sonst alle Mittel des Unterhalts abschneidet, indem man ihn mit dem Abscheu der ganzen Nation beladet, kann er wenigstens Troz und Erbittrung dieser Grausamkeit entgegensezen. Hier w^ird er der Schuldner des Staats und seiner Mitbürger, und sogar unwerth geachtet, diese Schuld abzutragen.</p>
+
+               <p>Der zweite der obigen Grundsäze gewährt den Vortheil, dass die Nation im Stande ist die Urthelssprüche des Staats noch ein- mal zu richten, sie auch durch ihr Urtheil zu bestätigen, oder ihre W^irkungen zu vernichten. Diess Leztere würde zwar, da es den Staat einer Ungerechtigkeit zeihte, überaus nachtheilig sein. Allein gerade diese Besorgniss würde den Staat bei seinen Urthels- sprüchen desto vorsichtiger machen. Da es bekannt ist, wie leicht, vorzüglich bei den weniger gebildeten Klassen einer Nation, mit demselben Wort auch derselbe Begriff verbunden wird, wie vorsichtig man sich auch durch Definitionen verwahren mag; so möchte es vielleicht nicht übel sein, diese Strafe nicht die Strafe der Ehrlosigkeit, sondern die Strafe des erklärten Mis- trauens des Staats zu nennen. Der erstere Ausdruk wäre nur dann richtig, wenn die Ehre eines Menschen, eben so, wie die physischen Güter, in der Gewalt des Staats stände.</p>
+
+               <p>Zum Schluss füge ich noch die genaue Bestimmung des End- zweks dieses Aufsazes hinzu.</p>
+
+               <pb n="7.566" xml:id="pbVII566"/>
+               <p>Er sollte nemlich versuchen zu zeigen, inwiefern die Ehre, ihrer Natur und der Natur des Staats nach, Gegenstand der Bestrafung sein könne? Ob es aber überhaupt rathsam ist, dieselbe hierzu zu wählen, und unter welchen Modifikationen? lässt sich vollständig nicht anders, als unter Voraussezung einer bestimmten Nation, in einer bestimmten Lage, beantworten.</p>
+
+               <p>Diese juristische Abhandlung stammt dem Wasserzeichen der Handschrift nach aus den ersten burgörnerschen Monaten nach Humboldts Heirat, also aus dem So7nmer oder Herbst ijgi- Über die nähere Veranlassung derselben ist nichts bekannt.</p>
+
+               <p>Die Schrift über die Grenzen der Staatswirksamkeit (Band i, g'j. 4^2) ist neuerdings von Meinecke {Weltbürgertum und Nationalstaat S. j^) eingehend gewürdigt worden. Ich erwähne hier einer Vermutung zur Entstehungsgeschichte, die ich in einer Rezension (Euphorion 14, jj4) zuerst ausgesprochen habe. Aus Humboldts Briefwechsel mit seiner Braut (Wilhelm und Karoline von Humboldt h 369- 385) erfahren wir von einem für Dalberg bestimmten Aufsatz, der Anfang i-jgi nach Erfurt geschickt wurde und mit dem dieser trotz einer Menge eigenartiger Ideen, über die er sich bald mündlich mit dem Verfasser auszusprechen wünschte, sehr zufrieden war. Über den Inhalt wird nichts gesagt: vielleicht handelt es sich um einen ersten Entwurf der die Polizei-, Zivil- und Kriminalgesetze behandelnden Kapitel g — 14 unsrer Schrifl, die dann in ihrem ganzen Bestände auf älteren Niederschriften beruhen würde. Dalbergs soyistiger Anteil an ihrer Abfassung, den wir schon kannteyi, gibt dieser Annahme eine gewisse Wahrscheinlichkeit.</p>
+
+               <p>Über den Aufsatz über den Geschlechtsunterschied (Band i, jii. 4j^J ist jüngst ein briefliches Urteil der Prinzessin Luise, der Gemahlin des Prinzen Friedrich Christian von Schleswig-Holstein-Augustenburg , bekannt geworden (Deutsche Rundschau ji, 358): sie findet, die Ähnlichkeit, die der Verfasser zwischen den Äußerimgen der organischen und der geistigen Natur des Menschen aufweise, liege wesentlich in den von Uuyi zu ihrer Bezeichnung gewählten V/orten, schreibt übrigens den ganzen Aufsatz Hufeland zu.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

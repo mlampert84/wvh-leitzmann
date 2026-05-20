@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Note an Metternich</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Elfter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif11humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1904">1904</date>
+                  </imprint>
+                  <biblScope unit="page" from="47" to="48"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="fr">Français</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="11.47" xml:id="pbXI47"/>
+            <p>Les süiissignt^s proliient de celte occasion pour reiterer a S(jn Kxcellcncc Tassurance de leiir haute consid^ration et de leiir attachement sincere.</p>
+
+            <head>
+               <title type="main">Humboldt m. p. Knesebeck m. p.</title>
+            </head>
+            <p>A S. K. Monsieur le ( dornte de Metternich, Ministre d'l'.tat et des AlVaires etrangeres de Sa Majeste Imperiale et K ovale Apostoliquc.</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">XIX. Note an Metternich.</title>
+               </head>
+               <p>i;-;. März iSr^.</p>
+
+               <p>iAhcliriß als BeilJi,^e zu Jen Berichten Humboldts im Geh. StJJtsjrcJiiv.J</p>
+
+               <p>Am i'(S'. Februar iSij wurde der Vertrug von Kiiliscft abgeschlossen; mit der folgenden Note machte Humboldt dem Wiener Hof die offizielle Mittheilung davon.</p>
+
+               <p>Au (Äjmte de Metternich.</p>
+
+               <p>A Vienne ce 13 Mars 181 3.</p>
+
+               <p>Le Soussigne Envoye Extraordinaire et Ministre Plenipoten- tiaire de S. M. le Roi de Prasse, vient de recevoir des ordres de sa Cour dont il s'empresse de s'acquitter envers S. E. Mr. le (&gt; Metternich, Ministre d'Etat et des AlVaires Etrangercs de S. M. Imperiale.</p>
+
+               <p>Le Soussigne n'a pas besoin de rctracer a S. E. le tableau de la Situation penible dans laquelle S. M. le Roi, Son Maitre, se trouvait pendant ces derniers mois, Ic Cabinet de }3erlin ayant toujours eu soin d'informcr cxactement celui de \'ienne de tout ce qui pouvait Tinteresser a cet egard.</p>
+
+               <p>La F'rance ne remplissait aucun des cngagemens quV-lle avait pris dans les dill'erens Traites conclus avcc la Prusse; toutes les rdclamations du Ministerc du Roi furent vaines; et les Gdndraux<pb n="11.48" xml:id="pbXI48"/> eniVeinte peu de momens apres qifelle avait ete faite et d'apres les Ordres de rKmpereur lui-meme.</p>
+
+               <p>IViin autre cöx6 les Armdes Russes s'approcherent des frontieres de la Prusse, ellcs les depasserent et s'avancerent jusques vers la capitale de la Monarchie. Mais au milieu de ces Operations mili- taires S. M. rKmpereur de Russie ne troubla point la neutralit^ de cette partie de la Sil^sie pour laquelle eile avait ete stipulee dans le Traitd avec la France.</p>
+
+               <p>Dans cette Situation, aggravee par les maux auxquels le pa3^s avait d^jä pendant les dernieres annees ete en proye, il n'y avait plus un moment a perdre pour fixer le Systeme de la Prusse. L'Empereur Napoleon doit se dire, qu'il n'a rien fait pour la con- sers'er dans le sien ; il lui a donne au contraire les motifs les plus puissans pour l'attacher a celui de ses adversaires. Le salut de l'Etat; le voeu de la nation, tout y appelait.</p>
+
+               <p>Un Traite de paix, d'amitie et d'alliance entre la Prusse et la Russie a donc ete signe le 27 Fevrier*) et ratifie par les deux Souverains; et c'est par ordre expres de Sa Cour que le Soussigne a l'honneur de le communiquer confidentiellement ä S. E. Mr. le Comte de Metternich. II se flatte que Son Excellence observera avec plaisir que cette communication a ete expressement stipulee dans l'article XI du Traite.**) Elle verra egalement que les prin- cipes sur lesquels se fonde ce Traite, sont des principes de paix et de justice et analogues par consequent a ceux professes publi- quement par la Cour de Vienne elle-meme.</p>
+
+               <p>Sa Majeste le Roi en ordonnant au Soussigne la communication du Traite, lui a enjoint en meme temps de temoigner en son nom par rOrgane de S. E. Monsieur le Comte de Metternich ä S. M. l'Empereur d'Autriche qu'Il met la plus haute confiance dans les sentimens de S. M. Imperiale et qu'Il compte bien certainement que les mesures qu'Il se voit dans la necessite -de prendre, ne troubleront en rien l'intimite et la bonne harmonie qui existent si heureusement entre S. M. l'Empereur et Lui et ä la conser- vation desquelles 11 attache tant de prix. Sa Majeste sera toujours y An diesem Tage wurde der Vertrag von Hardenberg und Anstett in Breslau gezeichnet, am 28. von Scharnhorst und Kutusof in Kaiisch.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

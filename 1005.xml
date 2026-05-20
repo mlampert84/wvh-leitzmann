@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Über die Medaille der Magistratsmitglieder</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif10humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1903">1903</date>
+                  </imprint>
+                  <biblScope unit="page" from="22" to="24"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="10.22" xml:id="pbX22"/>
+            <head>
+               <title type="main">III. Über die Medaille der Magistratsmitglieder.</title>
+            </head>
+            <p>14. März 1809.</p>
+
+            <p>(Konzept in den Akten des Kultusministeriums.)</p>
+
+            <p>An Dohna.</p>
+
+            <p>Ew. Excellenz haben die Güte gehabt, mir in Ihrem geehrtesten Schreiben vom 13 pr. einen sich auf die den Magistrats-Gliedern, Stadtverordneten und Bezirksvorstehern als Amtszeichen zu gebende Medaille beziehenden Auftrag zu ertheilen.</p>
+
+            <p>Ich habe über diese Angelegenheit einige hiesige Künstler und andere einsichtsvolle Personen zu Rathe gezogen, und lege Ew. Excellenz die von denselben gemachten Vorschläge und Zeichnungen in der Anlage gehorsamst vor. Ew. Excellenz werden daraus ersehen, dass die verschiedenen Ideen, wie es auch beinahe nicht anders möglich ist, ungefähr alle auf Eins hinauslaufen. Indess schmeichle ich mir mit der Hoffnung, dass wenigstens jetzt eine und die andere Ausführung da ist, welche in künstlerischer Hinsicht den Vorzug vor den bisherigen verdient.</p>
+
+            <p>Ein einziger Gedanke ist neu, und bedarf dieser vielleicht einiger Erklärung. Ew. Excellenz werden nemlich sehen, dass der Herr Director Schadow das Bildniss Friedrichs II. auf die eine Seite der Medaille gesetzt hat. Dieser Einfall rührt ursprünglich von dem Herrn Geheimrath Wolf her und gründet sich darauf, dass Friedrich II. als derjenige zu betrachten ist, der den ersten Anstoss zu allem Grossen und Schönen in der Preussischen Monarchie gegeben hat, und gleichsam jetzt als der Schutzgeist derselben angesehen werden kann. Ich stelle Ew. Excellenz gehor- samst anheim, inwiefern Ihnen dieser Gedanke Aufmerksamkeit zu verdienen scheinen wird, und bemerke nur noch, dass bei dieser Gelegenheit auch des grossen Kurfürsten und sein Bildniss auf die Medaille zu setzen gedacht worden ist. Sähe man gerade auf den ersten zu grossen und nützlichen Einrichtungen bei uns gegebenen Impuls, so w^äre dies letztere unstreitig historisch wahrer. Die Embleme auf der Rückseite der Schadowschen Medaille sind zwar an sich recht zweckmässig gewählt, nur ist ihre Anordnung so wenig malerisch, dass ich auf keine Weise zu der- selben rathen kann. Herr Schadow verzweifelte auch selbst daran,<pb n="10.23" xml:id="pbX23"/> finden, so Hesse sich auf der Rückseite auch der blosse Adler anbringen und zwischen dem Schadowschen auf der Beilage A und dem des Bau-Inspectors Langhans*) auf der Beilage C**) eine Wahl treffen.</p>
+
+            <p>Zu Inschriften sind, wie Ew. Excellenz sehen werden, theils biblische Sprüche, theils Stellen aus den Werken Friedrichs IL, theils blosse selbst gemachte Sentenzen vorgeschlagen. Sollte ein Spruch gewählt werden, so würden unstreitig von bibelkundigen Geistlichen noch bessere als die hier angeführten ausgefunden werden können. Sentenzen aus den Werken Friedrichs IL könnten wohl nur Beifall finden, wenn die Medaille mit seinem Bildniss geziert wäre, und es bleibt immer eine Unbequemlichkeit bei denselben, dass sie nur übersetzt gegeben werden können. Da Ew. Excellenz die Gewogenheit haben, meine eigene Meinung über diesen Gegenstand zu verlangen, so gestehe ich, dass mir die einfachste Ausführung die beste und am wenigsten Missverständnissen oder falschen Deutungen ausgesetzte scheint. Ich bin daher weder für Embleme, die nur irgend verwickelt sind, noch für zu bestimmte, oder gar zu lange Inschriften. In dieser Rücksicht sowohl als weil auch sein Vorschlag mir am geschmackvollsten ausgeführt scheint, würde ich, wenn sich nicht noch eine bessere Idee finden sollte, die des Bauinspektors Langhans auf der Beilage C wählen.</p>
+
+            <p>Der Adler scheint mir die malerischste Stellung zu haben, ohne sich doch zu sehr von dem gewöhnlichen Wappenadler zu entfernen. Nur das Band unten könnte einfacher geschlungen sein.</p>
+
+            <p>Sollte indess dieser Adler nicht recht gefallen, so könnte der Schadowsche an die Stelle desselben treten. Die Inschrift über dem Adler***) scheint mir nicht passend. Es wäre aber, dünkt mich, hinlänglich, bloss den Namen des Königs und den Tag der neuen Städteordnung (Friedrich Wilhelm III. iq. November 1808) an ihre Stelle zu setzen. Von den beiden Vorschlägen des Herrn Langhans zur Rückseite würde ich die fasces vorziehen, und sogar, da das Bild gehörig für sich allein spricht, und durch die<pb n="10.24" xml:id="pbX24"/> daneben geschriebenen Worte auch nur halb erklärt wird, die Inschrift weglassen. Auch wird sonst die Medaille, vorzüglich wenn sie nicht mehr als Thalergrösse hätte, zu voll.</p>
+
+            <p>Gefiele diese Rückseite nicht, so ist der Einfall, die drei Dinge, an welche der iio. § der Städte-Ordnung*) die Stadtverordneten statt aller Instruktion verweiset, zu setzen, gewiss nicht tadelns- wnürdig. Die von Herrn Langhans vorgeschlagene müsste meiner Meinung nach mit einer ganz gewöhnlichen einfachen vertauscht werden, und die Mauerkrone über dem Ringe ja wegbleiben.</p>
+
+            <p>Dies wäre ungefähr meine unmassgebliche Meinung. Indess leugne ich nicht, dass im Grunde kein einziger unter den ge- machten Vorschlägen durchaus und von allen Seiten befriedigend ist, und muss nur verzweifeln, jetzt noch bessere zu erhalten. Sollte sich künftig eine ähnliche Gelegenheit finden, so dürfte es wohl zw^eckmässig sein, durch öffentliche Bekanntmachung einen wahren Concurs zu veranlassen. Auch Personen, die man sonst nicht kennt, oder an die man nicht denkt, schicken dann ihre Ideen ein, und selbst von der Akademie erhält man auf diese Weise mehr und bessere Vorschläge, als wenn dieselbe in einer ausdrücklich dazu angestellten Versammlung sich über eine Idee vereinigt, da alsdann gewöhnlich nur ein paar Mitgheder die eigentlichen stimmführenden sind.</p>
+
+            <p>Was das wirldiche Prägen der Medaillen betrifft, so nehme ich mir die Freiheit, Ew. Excellenz auf einen jungen Künstler, Herrn Jachtmann, aufmerksam zu machen, der bei dieser Arbeit gewiss nicht übergangen werden dürfte. Er beschäftigt sich auch mit Stein- und Wappenschneiden, und sowohl der Direktor Schadow, als der Gen.-Münzdirektor Herz geben seinen Talenten, seiner Geschicldichkeit und seinem Fleisse das ausgezeichnetste und beste Zeugniss. Er hat vor einiger Zeit auch in der Münze gearbeitet, und diese Arbeit war, wie ich durch den General- Münzdirektor Herz genau weiss, auf eine Art verloren, die ihm schlechterdings nicht zum Xachtheil gereicht. Damit Ew. Excellenz selbst von seiner Arbeit zu urtheilen im Stande sind, füge ich diesem gehorsamsten Schreiben, jedoch sub. pet. remiss. einige in einem Schächtelchen verpackte Abdrücke von Sachen, die er</p>
+         </div>
+      </body>
+   </text>
+</TEI>

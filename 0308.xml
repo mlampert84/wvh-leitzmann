@@ -1,0 +1,935 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Berichtigungen und Zusätze zum ersten Abschnitte des zweiten Bandes des Mithridates über die kantabrische oder baskische Sprache</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Dritter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif03humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1904">1904</date>
+                  </imprint>
+                  <biblScope unit="page" from="222" to="287"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1811">1811</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="3.222" xml:id="pbIII222"/>
+            <p>Berichtigungen und Zusätze zum ersten Abschnitte des zweiten Bandes des Mithridates über die Cantabrische oder Baskische Sprache.</p>
+
+            <p>Es sind jetzt mehr als 'zehn Jahre, dass ich anfing, mich mit der Vaskischen Sprache zu beschäftigen, und dass ich, nach einer Reise durch ganz Spanien, eine zweite bloss in die Spanisch- und Französisch- Vaskischen Provinzen allein in der Absicht unternahm, durch mündliche Mittheilung zu vervollständigen, was in gedruckten Schriften nur sehr mangelhaft angetroffen wird. Seitdem haben meine Beschäftigungen ebenso sehr als mein Aufenthalt gew^ech- selt; die Bearbeitung meiner Materialien über das Vaskische hat sich von einem Jahre zum andern verschoben, und ich habe mehr als einmal fast den Gedanken aufgegeben, sie noch je für das Publicum zu benutzen. Gerade in der Zeit, in welcher ich, überhäuft mit Berufsgeschäften, am wenigsten hoffen durfte, je eine eigene Schrift über diesen Gegenstand liefern zu können, hatte</p>
+
+            <p>Erster Druck: Adelung und Vater, Mithridates oder Allgemeine Sprachenkunde mit dem Vaterunser als Sprachprobe in beinahe fünßiundert Sprachen und Mundarten 4, 2']S—^6o (181']). Der Titel hat dort den Zusatz: „von Wilhelm von Humboldt, königlich preussischem Staatsminister, Gesandten an dein königlich französischen Hofe imd Ritter vieler hohen Orden". Zugleich erschien eine fast gleichlautende Separatausgabe : Berichtigungen imd Zusätze zum ersten Ab- schnitte des zweiten Bandes des Mithridates über die Cantabrische oder Baskische Sprache von Wilhelm von Humboldt. Berlin, i8ij. In der Vossischen Buchhandlung. VI und 99 Seiten. Dem obigen Abdruck liegt diese vom Verfasser selbst korrigierte Separatausgabe (vgl. Schlesier, Erinnerungen an Wilhelm von Humboldt 2, 22jJ zugrimde.</p>
+
+            <pb n="3.223" xml:id="pbIII223"/>
+            <p>2 2 7 Herr Professor Vater die Güte mir vorzuschlagen, in den dritten Band seines Mithridates einen ausführlichen Aufsatz über die Vas- kische Sprache einzurücken, und ich nahm diesen Vorschlag mit Vergnügen an. Allein da sich meine Lage abermals veränderte, und ich hei freierer Müsse mit doppeltem Eifer zu meinen Sprach- studien zurückkehrte, fand ich die Ausführung dieses Vorschlags sowohl dem Plane des Mithridates, als meinem eigenen unangemessen. Meine Untersuchungen über die ^'askische Sprache sind immer zugleich mit andern über das Land und die Nation, über den Zustand und die Bewohner des alten Spaniens, über die Spuren, welche man ausser der Halbinsel, z. B. in Italien — wo, um nur diess Eine anzuführen, das Schloss Astura bei Nettuno einen ganz \'askischen Namen trägt — von den Vasken zu finden glaubt, verbunden gewesen; sie müssen daher auch ein Ganzes bilden, und würden noch von dem wenigen Interesse verlieren, welches sie schon besitzen mögen, wenn sie auseinandergerissen, und wenn allein dasjenige herausgehoben würde, was in einer blossen Sprachkunde Platz finden darf. Hätte ich mich indess auch innerhalb dieser Gränzen halten wollen, so würde wieder, meinem Plane nach, der grammatische und lexikalische Theil meiner Arbeit eine zu grosse Vollständigkeit für ein Werk erhalten haben, das der gesammten Sprachkunde gewidmet ist, und nicht ausführliche Beschreibungen der einzelnen Sprachen, sondern nur historische Nachrichten über sie liefern , nur die Eigenthümlichkeiten jeder, dasjenige, was sie von andern unterscheidet, oder ihnen nahe bringt, gründlich, aber kurz angeben, und den Platz bestimmen soll, welchen jede im ganzen Gebiete der menschlichen Sprache einnimmt. Ich habe daher, sobald meine jetzige Lage mich die Möglichkeit davon absehen Hess, eine eigene Schrift über die Vasken auszuarbeiten angefangen, und hoffe dieselbe in nicht allzulanger Zeit vollenden zu können. Um jedoch indess den Wunsch meines würdigen Freundes zu erfüllen, und einem so wichtigen und schätzbaren Werke, als der Mithridates ist, wenigstens einigermassen nützlich zu werden, will ich in den folgenden Blättern einige Berichtigungen und Zusätze zu dem Artikel des Mithridates über die Vaskische Sprache liefern, und zugleich ein paar neue Sprachproben hinzufügen, von welchen die eine auch durch ihr Alter und ihren Inhalt interessant ist. Wien, im Sommer i8ii.</p>
+
+            <pb n="3.224" xml:id="pbIII224"/>
+            <p>Berichtigungen und Zusätze zu Bd. 2. S. 9 — 30.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Adelung, von dem dieser Artikel im Mithridates noch herrührt, hat bei demselben nicht einmal den Larramendi , sondern, wie es scheint, bloss Oihenarts</hi></note></p>
+
+            <p>§. I. Geschichte und Name. — S. 9 — 12. Von der Geschichte und dem Ursprünge des A askischen kann hier nicht gehandelt werden ; beide erfordern eine eigene, tiefe und ausführliche Untersuchung. Ueber den Namen nur folgende wenige Worte.</p>
+
+            <p>§. 2. Der Name der Basconen, Vasconen, wird nicht selten von dem A^askischen Basocoa: Waldbewohner, von Basoa: Wald, und der Endung co^ abgeleitet.</p>
+
+            <p>§. 3. Ence ist kein Vaskisches Wort, sondern nur ancea^ das aber eigentlich natürliche Anlage, Talent, heisst, anza und anzoa: Art und Weise; anzo wird auch als Conjunction für gleichwie gebraucht.</p>
+
+            <p>§. 4. Dass man die Gascogner, obgleich ihr Name ohne Zweifel derselbe als der der Vasconen ist, je Basquen nennen sollte, ist mir nie vorgekommen.</p>
+
+            <p>§. 5. In Eiiscaldunac und Eiiscara ist die Stammsilbe bloss E}isc\ ara heisst nach Art und Weise, woher arara, arauz: nach {selon) und araua'. die Regel, herkommt.</p>
+
+            <p>§. 6. In der That rührend ist es, dass die unglückliche Vas- kische Nation so zerrissen worden ist, dass man in Verlegenheit geräth, sobald man sie mit einem allgemeinen Namen belegen will. Wirklich ist keiner, welchen Franzosen, Spanier und Deutsche einstimmig gebrauchten. Die ersteren kennen gar keine allgemeine Benennung des gesammten Stammes; sie sagen Biscayens^ wenn sie von den Spanischen, Basques^ wenn sie von ihren eigenen notitia utriusque Vasconiae und Astarloa's Apologie (also das älteste und neueste) benutzen können.<note type="footnote" n="^)" resp="gnd-116890657"><hi>Larramendis „El impossible vencido, arte de la lengua bascongada" war Salamanca iJ'Jfj, Oihenarts ,, Notitia utriusque Vasconiae tum ibericae tum aquitanicae" Paris lOj'S, Astarloas ,,Apologia de la lengua bascongada ö ensayo critico ülosoüco</hi></note> Kein Wunder daher, wenn er, dessen gründlicher Fleiss sonst selten Berichtigungen und Zusätze zulässt, hier eine unvollkommenere Arbeit lieferte. Bloss der zufällige Umstand, den ich gewiss weit entfernt bin, mir zum Verdienst anzurechnen, aus bessern Quellen geschöpft zu haben, macht es mir leicht, ihn hier zu berichtigen und zu vervollständigen. de SU perfeccion y antigüedad" Madrid iSoj erschienen.<pb n="3.225" xml:id="pbIII225"/> Vasken reden, und nehmen im Xothfall ihre ZuHucht zu dem alten Namen: Caiifabrcs. Die Spanier schränken den Namen Vtscaya nur auf die eigentliche Herrschaft El Sefiorio ein, und benennen die Bewohner gewöhnlich nach den einzelnen Provinzen: Vizcahios , Guipuzcoauos und Alavcscs. Ich werde, um zugleich kurz und deutlich zu seyn, die ganze Nation nach Schlözer Vasken, den Spanischen Antheil des Landes Biscaya, den Französischen Basquenland, und das Scfwrio V i z c a y a nennen. In Bis- oder Vizcaya ist die Stammsilbe wieder nur Bis oder Viz\ Caya heisst Stoff, Sache.</p>
+
+            <p>§.7. Mundarten. S. 23. 24. — Ich ziehe diesen Artikel hierher, weil sonst vieles im Folgenden nicht recht verständlich seyn dürfte. — Wenn von Hauptmundarten die Rede ist (denn einzelne Verschiedenheiten giebt es fast von Ort zu Ort, da die Nationaleifersucht der kleinsten Ortschaften so weit seht, dass für Gegenstände, die in der Sprache mehr als eine Benennung haben, benachbarte Dörfer sich nicht gern derselben bedienen, und die Sprache entfernter Ortschaften daher oft ähnlicher ist, als die näherer), so giebt es nur drei, und alle gute Vaskische Sprachlehrer nehmen nur soviel an, nemlich: i.) den Labortanischen im Basquenlande und Navarra; 2.) den Guipuzcoa- ni sehen in Guipuzcoa und Alava; 3.) den Vizcayischen in Vizcaya. Die Benennungen des Autrigonischen und Vardulischen sind vermuthlich aus Oihenarts Notitia utriusque Vasconiae p. 72. genommen, aber wenigstens jetzt nicht mehr üblich.</p>
+
+            <p>§. 8. In allen diesen drei Dialekten ist die Sprache, nach ihrem Bau und Wörtervorrathe, durchaus und ganz und gar die selbe. Die Verschiedenheit der Mundarten liegt nur in der Ver schiedenheit der Aussprache, der Rechtschreibung, einiger Flexionsformen, vorzüglich beim Verbum, und endlich darin, dass eine Mundart gewisse Wörter braucht, welcher sich die andre nie, oder nur höchst selten bedient.</p>
+
+            <p>§. 9. Um hierbei in einiges Detail einzugehen, und zu verhindern, dass nicht dieselben Wörter für verschieden gehalten werden, mögen hier folgende Bemerkungen stehen: Die Laborta- nische Mundart aspirirt mehrere Anfangsvocale, und setzt ihnen alsdann ein h vor, so handia'. gross, für andia. Die Guipuzcoani- sche hat diess Ji selten, doch in einigen Fällen, wie in hitza: das Wort ; lässt es aber in der Aussprache so gut als gar nicht hören. Der Vizcayischen ist es ganz fremd. Die Labortanische spricht</p>
+
+            <p>W. V. Humboldt, Werke. III. 15<pb n="3.226" xml:id="pbIII226"/> das ch wie im Französischen aus, die beiden andern wie das Italienische ci vor einem Vocal, mithin wie tscli. Die Labortanische setzt also vor das ch, um den härtern Laut auszudrucken, noch ein t. So sind etchea und echea (Haus) ganz dasselbe Wort. Die Labortanische Mundart braucht sehr oft statt des z ein c mit Cedille. Zamaria und Camarm: das Pferd. Daher kommt es, dass manches Mal dasselbe Wort auf drei und vierfache Weise geschrieben wird. So heisst Wind im Labortanischen haicea, im Guipuzcoanischen aicca, im Vizcayischen (da hier noch eine zweite Veränderung hinzukommt) axia. klein wird tipia, ttipia, cliipia und x-ipia geschrieben.</p>
+
+            <p>§. IG. Der Vizcayische Dialekt lässt keinen Endvocal, wenn bei der Umbildung des Worts ein anderer Vocal auf ihn folgt, so stehen, wie er ist, und verändert dadurch die Gestalt sehr vieler Wörter, sowie sie mit dem Artikel verbunden werden. E und a verwandelt er, doch das letzte nur im Nominativ (da es sonst ganz wegfällt) in /, o in ?/ ; nach i setzt er ein /, nach 7i. ein b. Er sagt daher abia : die Säule, für abm ; arditria : die Sorge, für ardura\ usua'. die Taube, für usoa\ eiirija: der Regen, für euria\ escuba'. die Hand, für escua.</p>
+
+            <p>§. II. Ich werde hier alle Vaskischen W^örter, die ich anzuführen habe, im Guipuzcoanischen Dialekt anführen, oder im entgegengesetzten Fall immer genau bemerken, welcher Mundart sie angehören.</p>
+
+            <p>§. 12. Sprache. S. 12 — 15. Ob und inwiefern Deutsche und Lateinische Wörter (es ist wunderbar, dass Adelung hier die Griechischen übergeht, deren sich beim ersten Anblicke mehrere finden) im Vaskischen angetroffen werden? lässt sich nicht durch Anführung von 50 oder 100 Wörtern, die wieder nicht sorgfältig erst in sich untersucht, und auf ihre Stammlaute zurückgeführt werden, (welches überhaupt eine, alle gründlichere und bessere Sprachforschung untergrabende Methode ist), ausmachen, sondern bedarf einer viel vollständigeren und tieferen Untersuchung. Ich werde also nur die einzelnen angeführten Wörter durchgehen, und wo es nöthig ist, berichtigen, vorher aber bloss bemerken, dass, um die im Vaskischen vorkommenden Germanischen Wurzelwörter zu erklären, der Aufenthalt der Westgothen in Spanien wohl ein zu neues Ereigniss seyn dürfte.</p>
+
+            <p>§. 13. Ala: all. Ist mir unbekannt. Ala heisst so, oder, ein breiter Nachen, und in Zusammensetzungen (wo es selbst<pb n="3.227" xml:id="pbIII227"/> zusammengezogen ist aus aiial) wie in almoia'. die Kraft, das Vermögen. Alles \\€\s%x. gucia.</p>
+
+            <p>Arranoa^ nicht Ara)wa. Aranoa finde ich nirgends. Ausa ist kein Wort. Aiiisa, allgemein Staub, doch auch Asche, die jedoch auch crrautsa, von crre: verbrennen, heisst. In auscna ist nur aus Stammsilbe, und das Wort heisst genau genommen: Stoff zu Asche.</p>
+
+            <p>Ardia heisst nicht \'ieh überhaupt, sondern das Schaf (auch der Floh), womit denn die Aehnlichkeit mit Herde wegfällt.</p>
+
+            <p>Bantza, Pantza, offenbar nicht echt Vaskisch. Baldra finde ich nirgends. Nach Larramendi ist das Spanische zamarra echt Vaskisch, und heisst Pelz.</p>
+
+            <p>Das Fett heisst gantza, licayoa, Itimera, coipea, guicena, lodin. Bctca ist ein Adjectivum und heisst: voll, rund, und nur insofern auch fett. Also fällt auch hier die Verwandtschaft hinweg.</p>
+
+            <p>Das Loch heisst nicht cullo, sondern ohne allen /v-Laut zuloa, chuloa, ciloa.</p>
+
+            <p>Dorrca ist mir als Thor ganz unbekannt; Thor, Thür ist atea. Dorrea, torrea heisst der Thurm, ist aber wohl das Spa- nische Wort. Estrata muss estratca heissen. Ar heisst nie Erde. Es ist aber das Pronomen der dritten Person, und offenbar unserem er ähnlich.</p>
+
+            <p>Nicht estida, sondern eztula'. der Husten. Nicht gordi, sondern gorde.</p>
+
+            <p>Galda ist nicht kalt, sondern wird in den Schmieden vom Glühen des Eisens gebraucht. Kalt: otza.</p>
+
+            <p>Garinea ist mir gänzlich unbekannt. Garma: Feuergewehr. Betrübniss, Harm heisst atsecabea, ansia, larrua, estua, ersia, laiitua.</p>
+
+            <p>Jacaya finde ich nirgends, wohl aber, dem Deutschen noch näher, jaca, jaqitea, und jazcaya.</p>
+
+            <p>Potzoa wird ebenso w^ohl für den Hund, als die Hündin ge- braucht.</p>
+
+            <p>Äz/z ist mir durchaus unbekannt. See, Teich heisst aintzira, umancia. Auch habe ich nie ein Vaskisches Wort gesehen, dass ein // zum Endbuchstaben hätte.</p>
+
+            <p>Nicht titicoa, sondern tifia^ und im Diminutivo tiUcJwa.</p>
+
+            <p>§. 14. Ab ihm ist ebenso wenig echt Vaskisch, als abillamendna. Die eigentlichen Wörter für Kleid, Kleidung sind: soüccoa, jazcaya, jaunzcaya, aldagarrta.</p>
+
+            <pb n="3.228" xml:id="pbIII228"/>
+            <p>Knochen: czurra, azurra, nicht assnra. An eine Longo- bardische Endung ist dabei nicht zu denken. Urra ist eine im Vaskischen sehr gewöhnliche.</p>
+
+            <p>Luft nicht azera, sondern airca. Die Rose heisst auch larrosa.</p>
+
+            <p>Astiyo, nicht astigo\ eine andere Form ist astitu. Altzatii, alchatu : erheben, aufheben. Hoch heisst goia, goratua.</p>
+
+            <p>Ajtgiistia (nicht angoestn) wird bloss von Gemüthsbeengung, Angst, gebraucht, und ist vielleicht nicht einmal echt Vaskisch. Körperlich heisst die Enge cshifasiina, ersitasmia und ckidorfasiina.</p>
+
+            <p>Aberc heisst zwar nicht eigentlich Vermögen, sondern aberea, abrca'. das Thier, vorzüglich das Lastthier (Vieh). Allein aberatsa heisst: reich, und aberastasuna: Reichthum.</p>
+
+            <p>Bär, im Guipuzcoanischen Dialekt arfza. Mehr echt Vaskische Wörter für Baum sind arecha, zuhaitza. Blase auch mascuria.</p>
+
+            <p>Baba, nicht boba. Die Bemerkung in Absicht der Blaselaute ist sehr richtig. Nach Astarloa kommt das / im Vaskischen gar nicht vor, sondern fehlt ganz, so wie auch im Litthauischen und einigen Amerikanischen Sprachen. Doch giebt es einige beständig mit f geschrie- bene Wörter, die ich aus keiner andern Sprache abzuleiten weiss. Bortus. Stark heisst i7idarfsua, erscona, sendoa, azcarra. Freilich hat Larramendi auch ftiertea, portitza, und das Pariser handschriftliche Lexicon bortcha: Gewalt. Allein diess sind fremde, später aufgenommene Wörter, die Adelung überhaupt in diesem Artikel nicht genug von den wirklich und echt Vaskischen unterschieden hat.</p>
+
+            <p>Besser als büoa sind ülea, tdea.</p>
+
+            <p>Echt Vaskische Wörter für Stimme sind aozquia und (Labort.) oihuanga.</p>
+
+            <p>Collina finde ich nirgends, wohl aber vmnoa (was, im Vorbeigehen gesagt, mit ßovvog dasselbe Wort scheint), meiidisca. Chancrea finde ich nicht. Der Krebs heisst cai-amarroa, chan- giirriia, aviarra.</p>
+
+            <p>Cantatu, nicht cantu. Dea ist mir nie vorgekommen. Der Tag heisst eguna.</p>
+
+            <p>Ein handschriftliches Wörterbuch, das ich besitze, sagt: Esto- mac, estomacoa, far corruption, sed urdalla.</p>
+
+            <p>Frucht: friitua. Die heutige Vaskische Sprache kennt kein<pb n="3.229" xml:id="pbIII229"/> anderes Wort dafür. Doch ist unter den Kindern in \'i2ca3^a chacha dafür üblich.</p>
+
+            <p>Bessere Wörter für Wille sind naya, giira, gogoa. Bciraka ist Glasfenster; Glas: bcira, beiraqaia, vidrioa. Bocha finde ich nicht, wohl aber hochina. Sscrua ist eine falsche Art zu schreiben.</p>
+
+            <p>Errtguea. Kein Vaskisches Wort fängt mit einem r an. Königin : crngiiüia. Harina finde ich nirgends. Senarra, nicht Siiiara. Arra ist Endung. §. 15. Anstatt jetzt fortzufahren, noch die wenigen Vaskischen Wörter zu berichtigen, welche S. 14. 15. aufgeführt sind, scheint es mir besser, hier den Liebhabern der Sprachforschung ein eigenes kleines Wörten-erzeichniss zu geben, das ihnen vielleicht um so willkommener seyn wird, als ich bemerkt habe, dass die meisten Anführungen Vaskischer Wörter in andern Schriften von Unrichtigkeiten wimmeln.</p>
+
+            <p>Auswahl \^askischer W^örter in alphabetischer Ordnung. A der bestimmte Anikel, und das Pronomen 3!!" Person, der, die, das; er, sie, es. Abia, das Nest. Acha, aitza, der Fels. Achuria, arcumea, bildotsa, umerria, das Lamm. Aci, wachsen, gewöhnen, erziehen. Acia, der Same. Acilla, azaroa (Saatmonat); cemendia (lichter Wald) November. Adarra, adaquia, adacaya, Hörn, Ast. Adina, Alter, Reife. Aditu, hören, verstehen, merken. Ago, mehr. W^ird hinten angehängt. Agorra, trocken, daher unfruchtbar. Agorrilla, (Monat der Trockenheit) August. Aguertu, aussehen, erscheinen. Agurea, Greis (von Männern). Von Weibern, alte Frau, aisoa. S. Zartatu. Ahal, al, mächtig, vermögend, (mit dem Hülfsverbum) können. Aia, (Labort.) AJiia, der KJndsbrei.<pb n="3.230" xml:id="pbIII230"/> Aicea, ai'za, der Wind. Aidea, der ^'e^\vandte. Aiseria, azeria, azaria, der Fuchs. Aita, der Vater. Aitagiiiarraba, -giiinarreba, -giiiarraoa, der Schwiegen'^ater. Aitzineaji, atzinean, vor, in Gegenwart. Aizpa, aizta, Schwester, wenn nemhch die Schwester zu ihr spricht, da, wenn der Bruder redet, er arreha sagt. Alaba, Tochter. Alargiina, verwittwet. Alboa, Seite (Halbe). Aldamena, Seite, besonders eines Hügels (Halde); aldean, neben. Aldia, Arbeit, jedoch nur in Zusammensetzungen. Aüzurraldia, Arbeit des Grabens; goldealdia, des Pflügens. Aldiz, mal, {hiru aldiz, dreimal). Aldatu, verändern. Alferra, alperra, aroya, naguia, faul, müssig. Ama, die Mutter; amagtiiarraba cct. (s. aita)^ die Schwiegermutter. Amar, zehn. Amaica, eilf. Nicht, wie Hervas Aritmetica dcllc nazioni p. 1 16. 1 17. behauptet, von einem alten W^orte ca, eins, (welches nicht existirt), sondern über zehn, von ica, am Abhänge liegend, steil; igaii, steigen. Ametsa, der Traum. Ametza, eine Art Eiche (Span. Carvallo). Das Span. Encina ist artea, und das Span. Roble, aritza, ezatri'a. Ana, die Amme. Auaya, anagea, der Bruder. Anci, ahanztii, vergessen. Ajidia, gross, weit. Andrea, vornehme Frau, Dame. Antzutii, austrocknen, besonders von belebten trocken werdenden Dingen. Aoa, aba, aboa, atiba, der Mund. Aoa, auch die Schneide (vielleicht als der Mund des Schwertes). Apa, der Kuss. Apotca, der Eber. Aqucrra, der Bock. Aragiiia, das Fleisch. Aratza, rein, reinlich. Aratu, untersuchen, ausmitteln. Arbina, schmal. Arbia, die Rübe. Ardatza, die Spindel.<pb n="3.231" xml:id="pbIII231"/> Ardia, i.) das Schaf, 2.) der Floh. Ardoa, ardaiia, arnoa, noa, der Wein; eigentlich jede Art Getränk, daher vialiatz anioa, Weintraubengetränk; saganioa, Aepfel- getränk, Cider. Arcatii, egen. Arguia, das Licht. Ari, jardun, sich mit etwas beschäftigen, etwas thun. Arina, beweglich, leicht. Aroa, Reifezeit. Zeit zum Säen. Gastaroa, Jugendzeit. Arra, männlich (im Gegensatze des Weiblichen). Arratsa, der Abend. Arraultza, das Ei. Arraya, arraina, der Fisch. Arrca, aschgrau, trübe. Arrta, der Stein. Arte, arte an, zwischen. Artoa, Mais; ursprünglich jedes Korn; Maisbrot. Artu, nehmen, empfangen. Artza, der Bär. Asabac, burasoac, gtirasoac, die Von^äter. Aitasoa, der Grossvater. Ase, sättigen. Asmatii, errathen, vorhersagen, erfinden. Asnase artu, ats egtiin, Athem holen. Astea, die Woche. Astia, beta, Zeit zu etwas, Müsse. Astelena, üena, Montag. Asteartea, Dienstag. Asteazquena, eguastena, Mittwoche. Astoa, der Esel. Astoaren arima, (die Seele des Esels) der Schmet- terling. Aiorra, Hemde, besonders Frauenhemde ; Mannshemde, Alcandora. Atza, I.) der Finger, auch erhia\ 2.) das Jucken; 3.) die Krätze.</p>
+
+            <p>Letztere auch zaragarra. Atzo, gestern. Atzean, ostean, hinter. Ac, dieser, diese, dieses. Auntza, die Ziege. Aurra, i.) vorn; Aurpegnia, das Gesicht; 2.) das Kind. Letzteres auch seiila. Aiitsa, der Staub. Aza, der Kohl. Azala, oscola, die Rinde, Schale. Azaoa, die Garbe.<pb n="3.232" xml:id="pbIII232"/> Azcarra, stark, kräftig. Aztala, nach Verschiedenheit der Gegenden: die Kniekehle, die Wade, der Hacken, auch das ganze Bein. Azuna, trächtig, von Thieren; izorra, schwanger, von Weibern. Das letztere kommt von der Form des schwangern Leibes her; denn igorrcirinac heissen im Labort. Schwielen. Bahn, die Bohne. Babaziica, abasiisa, der Hagel. Bacarra, allein, einzig. Bada, darauf, also. Balcha, belcha, schwarz. Ilbalza (schwarzer Monat), Urtarrilla (Wassermonat) Januar. Bana, abgesondert, verschieden, je einer von mehreren; banay aber, jedoch. Bano, als, nach den Comparativis. Baratza, der Garten. Bardin, schnurgleich, eben, (von einer Fläche) gleich. Bardincahi, vergleichen. Barea, die Milz. Bariciia, ostirailla, osiirala, orcirala, Freitag. Barrabüla, der Hoden. Barrca, farra, Iiirria, das Lachen. Bat, einer, eine, eines. Batsaya, die Jungfrau. Batu, bildu, biribillatu, versammeln, einsammeln. Beafi (Labort. behera)^ unten; wenn es hinten an ein Wort angehängt wird, pean. Lurpean, unter der Erde. Bearra, die Nothwendigkeit. Bearda, es ist nothwendig, man muss. Beaztma, ugormina, khcldcrra (Labort.), die Galle. Becinta, bcpurua, die Augenbraune. Becoquia, betondoa, belarra, belarria, die Stirn. Bederatzi, neun. Beguia, das Auge. Bäazala, (Augenschale) Augenlied. Bcatu, beguitsi, beguiratu, sehen. Be^uitartea, (wörtlich : zwischen den Augen) Gesicht. Beta (Labort. bchia)^ die Kuh. Beiana, belaima, das Knie. Belarra, bedarra, das Gras. Belarria, bearria, das Ohr. Beorra, die Stute.<pb n="3.233" xml:id="pbIII233"/> Bercea, besten, der andere. Beroa, die Warme, Hitze. Bcrniea, garra, carra, die Flamme. Birria, neu. Bcsoa, der Arm. BezeJioa, schwärzlich, braun. Bi, zwei. Biar, Morgen. Bicia, das Leben. Bidea, der Weg. Bigiina, locker, schwammig, weich. Bihia, das Korn [le grain). Bildurra, beldurra, die Furcht. Biotza, das Herz. Biribilla, bunibüla, boilla, rund. Biria, birica, Jiauscoa, die Lunge. Bitsa, der Schaum. Bitsuria, der Reif. Bizarra, der Bart. Bortz, bosi, fünf. Bostortza, (Fünfzahn) die Egge. BuhatiL (Labort. bohatced)^ blasen. Bularra, Brust. Die des Weibes insbesondere heisst auch noch ugatza, boillezna (Milchkugelj. Ugatza heisst auch die Mutter- oder Ammenmilch selbst, als Abkürzung von ugazeznea\, die Milch der eben in Wochen Gekommenen heisst oritsa. Von ugatza kommt iigazaita und ngazama, der Stiefvater und die Stiefmutter. Biirdina, biirnia, das Eisen. Burua, der Kopf, auch im metaphorischen Sinne; die Aehre. Biistia, ecea, feucht, nass. Bustana, buztana, atzequta, opa, der Schwanz. Das letzte Wort gilt nur von den sehr haarigen Schwänzen, wie der des Fuchses u. s. f. ist. S. oparo. Buzoca, der Geier. Caltea, der Schade, Nachtheil. Canipoa, i.) das, was draussen ist, das Aeussere. Campo ederra, ein schönes Aeusseres. Campoan, draussen. Camporatu, herausnehmen, ausreissen, Ausnahme machen. 2.) das Feld, auch landa, munagiica (das berglose). Diese letzte Bedeutung scheint bloss abgeleitet. Carea, gutsua, der Kalk. Carrica, die Strasse.<pb n="3.234" xml:id="pbIII234"/> Caäm, der Kater. Cataemca, (von cmea, weiblich) die Katze. Caya, gaya , Materie, Stoff, vorzüglich in Zusammensetzungen. Jolascaya, Stoff des Gesprächs. Ceatii, zerstücken, zerschmettern, zerschlagen, (von der verneinen- den Partikel ce, eigentlich vernichten). Cecena, der Stier. Ceccilla, (Stiermonat), otsaüla, (Wolfs- oder Kältemonat) Februar. Cerua, der Himmel. Chaherama, die Schildkröte. Chacurra, zacurra, fotzoa, ora, der Hund. Das letzte Wort gilt insbesondere von den grossen Hunden, Packern, Bullen- beissern. Orahi, angreifen, anfallen. Der Hirtenhund heisst artzanora (für artzainora, der Packer des Schäfers), zabidoa. Chala, das Kalb, vorzüglich, wenn es noch jung ist. Charria, cherria, urdea, das Schwein, die Sau. Chaua, chaiiha, garbia, rein, klar, (im Gegensatze des Trüben). Chea, chiqiiia, klein, winzig, (von ganz kleinen zerriebenen, fast zu Staub gewordenen Dingen). Chcgosi (klein kochen), ehoitii, icinnfzi, verdauen. Chidorra, eng, schmal, (Labort. Fusssteig). Chiloa, ciloa, chuloa, zuloa, das Loch, die Grube, Hole, Mündung. Chüborra, cila, chilcoa, cücoa, der Nabel. Chinda, chingarra, inharra, der Funke. Chindiirria, chingurria, inhaurria, die Ameise. Choria, der Vogel. Chorrocha, zorroiza, spitzig, scharf. Charta, itoya, tanta, der Tropfen. Churta, zuria, weiss. Cia, cica, cichoa, ciria, die Spitze, der Stachel, (Labort. auch die Eichel). Cillarra, das Silber. Cülatu, jacondti, seine Nothdurft verrichten. Cimaurra, cismaiirra, inaiLrquina, gorofza, der Mist. Cimurra, die Runzel. Ci7ia, der Eid; cinez, in Wahrheit, im Ernst. Cocotza, ocotza, das Kinn. Colcoa, galtzarra, der Schooss. Cosca, zacona, zocona. Beule. Das erstere Wort zeigt eine Erhöhung auf einer Fläche an; die beiden letzten mehr eine runde Aushölung, so dass alle drei den Begrilf der Beule<pb n="3.235" xml:id="pbIII235"/> von beiden Seiten nehmen. Zaquc, zaca , als Anhängsilbe (Postposition) heisst: ohne. S. paltoa. Cuclia, Hcha, Kasten, nemlich ein kleiner; ein grosser heisst arca. Cuciisa, der Floh. Curulloa, Icrfsuna, Icrsuna, der Kranich. Curufm'noa, lisforra, die Wespe. Dcbccatu, verbieten. Dcä?f, (jemanden) rufen, einladen. Dens, etwas; mit hinzugesetzter \'erneinung: nichts, wie das</p>
+
+            <p>Franz. ricu, vergl. iiior. Dia, die Menge, ^"olksmenge. Uilista, chiUstca, die Linse. Dinia, das Geld. Disfiafii, tistiatu, glänzen. Doan, umsonst (ohne Lohn). Doya, recht, passend. Doitu, recht machen, anpassen. Dtipa, npclu, tipca, die Kufe, ein grosses Fass. Ea, Interjection. Auf! siehe! Ean, wann, in. Wird nur hinten an die Wörter angehängt. Ehaiiia, crbala, schwach. Ecarn, tragen, ziehen, holen, bringen. Ece, weil, denn. Echea, das Haus. Ecin, nicht können. Edan, (Labort. edated)^ trinken. Edas, edasi, erran, esan, sprechen, sagen. Eransi, erastea, schwatzen. Ederra, schön. Edo, oder. Edoya, odeia, osa, die Wolke. Egaa, egala, egoa, der Flügel. Egoa, egoya, der Südwind. Wohl wegen der Heftigkeit vom</p>
+
+            <p>Vorigen. Egarria, der Durst. Egon, bestehen, seyn, stehen. Egosi, kochen. Egostoqida, der Magen (vom Verdauen). Von</p>
+
+            <p>Eiern besonders ugosi, sieden, brühen. Eguia, die Wahrheit. Eguin, machen. Eguna, der Tag. Egun, heute. Egurra, zura, Holz.<pb n="3.236" xml:id="pbIII236"/> Ehea (Labort.), die Lauge. Elea. I.) die Fabel, auch die Rede überhaupt, welches die ursprüngliche Bedeutung scheint; 2.) die Herde. Die letztere auch taldea, soldea. Ehirra, der Schnee. Emmi, emon (Labort. cmaitea)^ geben. Emea, ema, emaciunea, ejiiaztea, emaztequia, i.) cmca, lieblich, angenehm, (auch edea heisst süss); 2.) das Weibliche überhaupt, das Weib. Emca und cma sind allgemein. Die andern werden in einigen Gegenden nur von verheiratheten Frauen gebraucht. Emeretzt, neunzehn. Enea, mein. Eo, eho, eotii, ehaitu, eheatu, i.) mahlen auf der Mühle; 2.) weben. Epailla, Alärz. Era, I.) Art des Aussehens, Anstand (Span. aire)\ 2.) die Zeit. Letztere auch demhora und mendca. Das letztere Wort scheint aber in besonderer Bedeutung genommen zu werden; denn im Pariser Manuscript heisst es: mendea, siccle\ bere inende gucian, diirant tonte sa vie. Eralora^ (Blüthenzeit) Frühling. Auch zidaberria, neuer Sommer. Erabera, die ^Mannbarkeit. Eraldea, die Vernunft. Erbia, der Hase. Erdia, i.) die Mitte, halb; eguerdia, der Mittag; gauer dia, die Mitternacht. 2.) crdi, erditzea, gebähren, (gleichsam sich theilen). Emerdia, die Wöchnerin. Erein, ereindu, säen. Eria, krank. Erioa, nach Larramendi bloss der Mord. {Eriotii, morden, tödten). Nach der Pariser Handschrift überhaupt der Tod. Eriotza, der Tod, den man leidet. Erlea, die Biene. Eroa, choroa, zoroa, wahnsinnig. Die eigentliche Bedeutung von eroa ist eine hole, blasenähnliche Sache. Errana, die Schwiegertochter. Errapea, das Euter. Erre, brennen. Erria, das Land. Erroa, die Wurzel.<pb n="3.237" xml:id="pbIII237"/> Erroya, bclaa, bclea, der Rabe. Erscona, stark. Ersia, esfiui, eingeengt, eng. Escua, die Hand. Escuicoa, cscuma, cscnmacoa, cscuna, esciinecoa, esaiya, recht, (entgegengesetzt dem linken). Escqui, aufhängen. Est, erst, icJii, einschliessen, umzingeln. Esfali\ bedecken, verbergen. Estcac, die Gedärme. Eta, und. Etsaya, der Feind. Etzi, übermorgen ; cfzidavm, über-übermorgen ; etzidazu, über-über- übermorgen. Eulia, 2ilia, die Fliege. Eun, hundert. Eilgut, idiiqui, haben, thun ; das allgemeine Hülfsverbum im Activo. In ctiqiii ist bloss die erste Silbe radical. Euria, uria, der Regen. Ez, nein, nicht. Ezcondu, heirathen. Eztayac, czteyac, Hochzeit. Eznea, die Milch. Ezpaüa, die Lippe. Ezquerra, link. Ezqiiilla, izqiiüla, die Glocke. Eztarria, die Kehle. Eztera, der Wetz-, Schleifstein. Eztia, I.) süss; 2.) der Honig. Ezurra, der Knochen. Faua, fatma, unfruchtbar. Foafotu, blasen. Fumac, gartinac, das Gehirn. S. huna in Mamia. Gabe, bague, gue, baga, zaque, zaca, ohne. Alle diese Wörter werden, wie alle Präpositionen im Vaskischen, hinten an- gehängt. Gacha, gaitza, schwer, beschwerlich. Gada, sauer (vom Geschmack). Gaina, die Oberfläche. Gana, gana, der Gipfel. Galdn, verlieren, (von einem Schiff: untergehen), verwüsten. Gan, j'oan, jun, ibilli, gehen.<pb n="3.238" xml:id="pbIII238"/> Gantza, das Fett. Garagarra, die Gerste. Garagarrüla, (Gerstenmonat), baguilla (Bohnenmonat), Erearoa (liebliche Jahrszeit) Junius. Garagarrüla wird auch zugleich für den Julius gebraucht. Garaian, über. Garaüu, übertreffen, besiegen. Garia, der Hagel. (Nur in der Soule üblich.) Garia, ocaya, der Weitzen. Garüla (Weitzenmonat), ustaiUa (Monat des Ueberflusses), uztaüla (Erntemonat) Julius. Garrondoa, das Genick. Gasna, gazta, der Käse. Gaua, gauba, zaroa, die Xacht. Die beiden erstem sind die gewöhnlichen. Zaroa kenne ich nur in Zusammensetzungen : aizaroa, die Nacht des grünen Donnerstags; oncnzaroa, (die beste Nacht), die Weihnachtsnacht. Gaztea, der Jüngling. Gogoa, die Neigung, Begierde; der Gedanke, das Gedächtniss. Gogorra, hart, auch im metaphorischen Sinn. Goia, hoch. Goiza, der Morgen. Goldea, der Pflug; im engeren Verstände, das Pflugeisen, Sech, {soc). Gorra (Labort. auch gorra, clkhorra)^ taub. Gorria, roth. Gosea, der Hunger. Gubia, uztaya, der Bogen (die Form desselben überhaupt). Giibioa, eztarria, samea, die Kehle. Gucia, alles. Gilda, gudua, der Streit, das Gefecht. Gueüii, vergrössern, vermehren; von Aeckern, auch verbessern. Gueyago, mehr. Gueldia, langsam; wird auch von stehendem Wasser gebraucht.</p>
+
+            <p>Gucldazatu, nach und nach durchdringen, von einer Flüssig- keit. Gtielditu, aufhören. Giicldiro, sanft. Guernua, garnura, cerisuria, pisya, chysya, der Harn. Giiero, nach, nachher. Gticroa, die Zukunft. Gueratu, aufhören, zurückhalten. Guibelean, hinter. Nach der Pariser Handschrift ist gidbela, der Hintere. Gura, nai, wollen. Gtiria, die Butter. Nach der Pariser Handschrift auch als Adjec- tivum, weich.<pb n="3.239" xml:id="pbIII239"/> Gurpilla, giircila, ciirpilla, das Rad. Ligununi, im Kreise, rings herum; macurra, krumm, gekrümmt. Gurtii, verehren, hochachten. Agurtii, agurregnin, grüssen, woher der in Spanien übliche Gross: agur. \''ergl. Agurca. Gttsua, Geschwisterkind, ^&gt;tter. Guti, gucki, ginclii, wenig. Haguna, abi/ifia, aparra, bifsa, pifsa, der Schaum. Die Pariser Hand Schrift beschränkt das erste Wort auf Schaum vor dem Munde. Halsarrac, crrayac, die Eingeweide. Haztatu, befühlen, tappen. {Hastamii, tatonnement. Pariser Hand- schrift.) Hiru, drei. Hifza, mintza, mvntzoa, das \\"ort. /&lt;7, üiia, ya, die Binse. Ibarra, iriira, crrepira, hara, haraiia, belaua, das Thal. Ibaya, der Fluss. Icaratu, zittern. Icasi, lernen. Icatza, iquetza, die Kohle. Iceba, icecoa, die Vater- oder Mutterschwester, Tante. Iccna, der Name. Icerhi, schwitzen. Ichasoa, itsasoa, das Meer. Ichua, ttsua, blind. Icust, sehen. Ideac, die gleiches Alters sind. Idta, der Ochs. Ma, das Fest. lesta, die Flucht. lesi joan, fliehen. Ifarra, tparra, artecaicea, der Nordwind. Ihicia, eiza, die Jagd. //, sterben, tödten. lila, der Monat. Illarguia, der Mond. Illoba, loiba, Enkel, Neffe. Indagora, endagora, oindagora, orpoa, die Ferse. Indarra, die Anstrengung, das Bestreben. Indartsua, stark. Inorjfior^nihor^ irgend einer, mit der Verneinung: keiner. Vergl. deus. Ifiotsi^ regnen, schneien. Doch heissen beide auch von ihren Substantiven curiari und clurrari. Intza^ der Thau; inuntza^ der Nebel.<pb n="3.240" xml:id="pbIII240"/> /(?, i^o^ iyo^ igan^ gaindu^ steigen. Igandea^ iandea^ Sonntag. Iracoitza^ larumhata^ laurembata^ Sonnabend, Sabbath. Iracurri^ auskörnen, aber im physischen Sinn; auslesen, lesen. Iragoa^ vergangen. Dcmbora iragana^ vergangene Zeit. Jratzea, Farrenkraut. Iraüla (Farrenl^rautmonat), Burulla^ September. Ij'indu^ iranci^ chiquiratu^ osatii^ verschneiden. Irim^ spinnen. Isü^ igil^ schweigen. Isterra^ istarra^ die Lende. Istoa^ istorra^ der Pfeil. //(?, ersticken, ein Act. und Neutr. Iturria^ der Quell. Itzala^ guereiza^ quereiza^ der Schatten. Izan^ tican^ seyn. Izan ist das Hülfsverbum des Pass. und</p>
+
+            <p>Neutr. Izarra^ der Stern. Izpia^ ein sehr feiner Faden Gold, Seide oder dergl. überhaupt, sowie auch dinncha^ zuntza^ ein sehr kleines Stück von etwas</p>
+
+            <p>{brin). Arizpiak^ Fleischfibern. Izurra, die Falte (in Kleidern). jfan^ essen. Jaquin^ wissen. Jario^ fliessen. jfasan^ jaso^ emporheben. Jauci^ springen, fallen. Jauna^ jabea^ nabusia^ nagusta^ der Herr. Jaungoicoa^ jaincoa^ jincoa^ Gott. Jaunci^ janci^ bekleiden, anziehen. Jayera^ die Neigung im figürlichen Sinne. Jayo^ gebohren werden, entstehen. Jo^ schlagen. Jorra^ die Hacke. Jorraüla^ (Monat des Hackens), opaüla^ (Monat der Gaben) April. Josi^ Nähen. Lacha^ latza^ sauer, herbe, rauh. Lachoa^ schwach, schlaff {flasque\ faul. Lagtma^ der Gehülfe, Genoss. Lavibroa^ feiner Sprühregen. Lafioa^ lanua^ lanchoa^ der Nebel. Landa^ das Feld. Landu^ ein noch ungebauetes Land zum ersten Mal umackern.<pb n="3.241" xml:id="pbIII241"/> Lapurra^ oliotna, der Dieb. Räuber. Larrafia^ largaria^ Tenne auf dem Felde. Larranza^ (jcsichtslarbe und Haut, (Span, fcz) Aussehen. Larrca^ \'iehweide. Larritu^ i.) wachsen; /arn'a, gross. 2.) betrüben, ängstigen; larria^ die Angst. Larnia, iiarnia, das Fell, Leder. Lannca., iiannca, die Haut (von</p>
+
+            <p>Menschen). Larfaa, sasia, der Dornbusch. Lasferra^ schnell, behende. Lasfoa, der Strohhalm, das Stroh. Lau„ vier. Laya^ ein Ackerwerkzeug, wie eine Gabel gestaltet, zum Aufreissen des Bodens. Layatit^ mit diesem Werkzeuge arbeiten.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Diese Arbeit wird immer von mehreren neben einander stehenden Arbeitern zugleich verrichtet. Daher die Spanischen Redensarten: Son de la misma laya, sie</hi></note> Lcgarra^ ondarra., der Sand, Kies. Leguna^ leima^ gl^tt. Lenena^ der, die, das erste; lena., figürlich das Haupt, das Erste in einer Sache. Lepoa^ iduna^ der Hals, das Genick. Lezoya^ die Grube. Z/irö-, die Klebrigkeit. Limicatu^ lecken. Ltüaya, der Spinnrocken. Lo^ loacartu^ schlafen; loa., der Schlaf; loac, haldoquiac, die Schläfe. Lodia.^ gidcena.) dick, feist. Lora., lorca., die Blume. Lotacüla., (nach Astarloa, Apologia de la lengua Bascongada^ p. 38q.</p>
+
+            <p>der Monat, in welchem das Jahr still steht), Abcnduba (nach</p>
+
+            <p>Astarloa. Apol. 394. Vaskischen Ursprungs, aber meiner Meynung nach aus Advent verdorben), December. Lotu., binden, festbinden. Lotcq2iia., der Leibeigene. Liicea., lang, weit, gross. Lurra., die Erde. Madaria.^ udarea., die Birn. Magala., der Schooss. sind eines Gelichters, esto es de Otra laya, diess ist von anderer Art. Die Erklärungen des ins Spanische übergegangenen Wortes durch: Art, Gattung, Beschaffenheit in den Spanischen Wörterbüchern sind daher bloss metaphorisch, und hierdurch zu erklären.</p>
+
+            <p>W. V. Humboldt, Werke. III. l6<pb n="3.242" xml:id="pbIII242"/> Maguia^ maguina^ die Degenscheide. Mainatu^ baden. Maingua^ maqiiia^ lahm. Maitatu^ onetsi^ oiiiritzi^ lieben; das erste auch liebkosen. Malcoa^ negarra^ nigarra^ die Thräne. Malsoa^ langsam. Malsotu^ zähmen. Mamia^ muna^ muna^ tma {unatu^ ermüden, abarbeiten) (Labort. hund)^ das Mark. Im Labortanischen Dialekt wird miiina für</p>
+
+            <p>Mark, mamia aber für Brodlo'ume gebraucht. Die letztere heisst dagegen im Guipuzcoanischen Dialekt apurra^ papiirra^ liperra^ pantala. Mandoa^ der Maulesel. Maneatii^ zurechtmachen, schmücken, verschönern. Maquila. maquilla^ uha^ iihea^ der Knüttel. Ein sehr grosser insbesondere heisst aga^ (ig^yo^i ein langer und dünner zardaya. ein langer aber dicker zurruna. Marra^ die Gränze, auch die Linie, doch schreibt es Larramendi dann mit Einem r. Marriatii^ faulen. Matsa^ die Weintraube; mastia^ der Weinberg. Maubatu^ zangatii^ bellen. Mea^ dünn, fein, auch von mehreren zusammengehörenden, oder an einander befindlichen Dingen, weit auseinanderstehend; licht. Menipetu^ besitzen, beherrschen. Menasta^ das Metall. Mendia^ der Berg; munoa^ der Hügel. Menea^ mendea^ die Macht, das Ansehen. Maiiatu^ befehlen. Meta^ der Haufe. (Franz. tas^ amas.) Mia^ mihia^ mina^ die Zunge. Migana^ mingana^ (über der Zunge) der Gaumen. Wenn Larramendi das letzte Wort auch für die Zunge selbst setzt, ist es wohl nur ein Irrthum von ihm, oder eine unrichtige Art zu sprechen. Mina^ somifia^ der Schmerz. Mola^ die Menge, Vielheit; mziUsic^ \\t\. Mulgoa^ tas^ amas. Pariser Manuscript. Mora^ moraga^ die Gedärme. Mota^ viueta^ Gattung, Art. Motea^ die Knospe. Motza^ abgestumpft, verschnitten, kahl; haar-, feder-, blattlos. Moztu, verstümmeln. Buru motz., Kahlkopf; besamotz., einarmig.<pb n="3.243" xml:id="pbIII243"/> Muga^ die Gränze. Jl/ugua^ Gelegenheit; Zeit und Ort in dem Sinn, es ist nicht On, oder Zeit dazu. Muguitii, iguiudu^ igiiitu^ bewegen. Murua^ der Gipfel; der Haufe. Mutüdii^ rupfen (von den Vögeln gebraucht). Mutilla^ jung, von beiden Geschlechtern. Nagustu^ wachsen. Xaroa^ fruchtbar. Narra^ i.) einfältig, närrisch; 2.) eine Schleife (zum Ziehen). Nasaya, lasaya^ abgespannt, kraftlos, müde. Nasarquia^ der Muskel. Nava^ die Ebene, das Blachfeld. Necatu^ ermüden, abarbeiten; neqiiea^ Arbeit, Mühseligkeit. Negua, der Winter. NeÜH^ aufhören, endigen. Nerabea^ jung. Nach dem Pariser Manuscript von Kindern beiderlei Geschlechts. Nesca, das ^lädchen, von dem schon ausgewachsenen, kräftigen; nescacha^ von dem Jüngern. Xeurria^ das Mass; ncurhi^ messen. Oarra^ die Aufmerksamkeit; oartu^ wahrnehmen, aufmerken. Ohe^ besser. Obena^ hobena^ hoguena^ der Fehltritt, das Verbrechen. Obia. I.) das Grab. 2.) Obiac^ Plur., das Zahnfleisch. S. Oea. Odola, das Blut. Oea^ ohea^ oya^ oatzea^ i.) das Bett. 2.) O«/^^«, das Nest. 3.) Oeac^ oyac^ das Zahnfleisch. Oguei^ zwanzig. Oguia^ Weitzenbrot. Oi^ ei^ wird als Hülfsverbum zu den Verbis gesetzt, um den Begriff des Pflegens, Gewöhnens auszudrucken; oitu^ gewöhnen. Oina^ ona^ der Fuss, noch bestimmter der Spann, von der Erhöhung, als der Grundbedeutung. Oloa^ der Hafer. Ona^ gut. Onacea^ der Schmerz. Onatza^ aztarna^ hatza^ Fussstapfen. Onazhia^ oneztua^ onaztargida^ iyurzuria^ chimista^ der Blitz. Ondoa, das Ende, der Grund, das Letzte einer Sache; daher der</p>
+
+            <p>Stamm, der Ursprung. Ondoan^ neben.<pb n="3.244" xml:id="pbIII244"/> Oparo, fruchtbar, reichlich. S. Bustana. Oquela^ guelia^ das Rindfleisch. Oquerra^ i.) schräge, schief; 2.) einäugig. Orain^ oran^ jetzt. Oraijidic^ noch. Orhaina^ die Narbe. Ordotsa^ i.) männhch. Harriet. p. 316.^) 2.) der Eber, Bär.</p>
+
+            <p>Ordongoa^ gross, stark. Der Gegensatz ist urricha^ i.) weibHch.</p>
+
+            <p>Harriet. •p. yii. 2.) die junge Kuh. Urritu^ abnehmen, sich vermindern. Oreiia^ orina^ der Hirsch. Orria^ ostoa^ ostroa^ das Blatt. Orrüla (Blättermonat), ostaroa^</p>
+
+            <p>(Blätterzeit) May. Ortza^ der Zahn. Osaba^ des Vaters Bruder, Onkel. Osoa^ ganz, dem nichts fehlt, von Thieren und Menschen, dem</p>
+
+            <p>Fehlerhaften, Verschnittenen, Krüppelhaften entgegengesetzt; heil. Osastma, die Gesundheit. Osquea^ (Labort. oskid)^ der Schuh. Ostiga^ ostotsa, odotsa^ turmoya^ iurtzuria^ (Labort. eurcirid)^ igorciria^ inusturia^ iitsturia^ calerna^ Donner. Osteguna^ orceguna^ e^uena, Donnerstag. Ostu^ stehlen. Otsa^ der Laut, das Geräusch. Otsoa^ der Wolf. Olu, otoiztu^ bitten, beten. Otza., kalt. Oyana^ hasoa^ der Wald. Ozcatu^ autsiqiiitu^ iitsiquüu^ beissen. Oztea^ die Menge. Paltoa^ cosca^ cosqueta^ die Hirnschale. S. cosca. Paviichia^ pampulda (Vizcayischer Dialekt), ersteres ein dünnes, letzteres ein rundes Brod. Papua^ Ttiasalla^ matralla^ matela^ autza^ die Wange. Pipia^ ein Korn. Piztu^ anzünden. Pospolina^ galcperra^ die Wachtel. Poztu^ erfreuen. Puda^ aizcora^ die Axt.</p>
+
+            <p>V Gemeint ist Harriets Bayonne i']4i erschienene „Grammatica escuarez eta francesez".<pb n="3.245" xml:id="pbIII245"/> Pttsca, aatia, ein Stück (Theil von etwas). Quarafsa^ (Labort. kirafza), bitter. Quia^ guca^ der Rauch. Qucmcna^ das Bestreben, die Anstrengung. Qiicfitia (Labort. kcimia)^ die Geberde, das Winken mit den Augen, oder dem Kopfe. Sabchu der Bauch. Sabia^ Sarbia^ eine Pflanzung junger Bäume. Sa^arra. der Apfel. Saldu^ verkaufen. Sarea^ das Netz. Sarrasquia^ illotza^ der Leichnam. Sarri, bald, schnell. Sar, sartu, in etwas hineingehen, sich in etwas hineinwerfen. Satitu, geniessen. Satorro, satsiiria^ der Maulwurf. Sei^ sechs. Semea^ der Sohn. Senarra^ der Ehemann. Sendoa^ gesund, stark. Sepa. seta, die Hartnäckigkeit, Streitsucht. Seyala, die Decke. Sildaiu, zidcatu^ tincatu, heften, feststecken, bestimmen. Singlea^ letzia^ iyetzia^ abgenutzt. Sinistu^ sinistatti^ sinetsi^ glauben. Sisihia^ cicelhia^ triiesa^ (Labort. alkia)^ die Bank. Soca^ ein Seil von Binsen. Soilla^ carsoilla^ kahl. Soildu^ kahl machen, entkleiden, berauben. Soina^ der Rücken. Soloa^ soroa^ die Wiese. Soinatu^ vorhersagen. Soria^ erlaubt. Sorra^ fühllos, betäubt. Sortcea (Labort. j, gebohren werden, entstehen. Sortaldea^ (Seite des</p>
+
+            <p>Entstehens) Orient. Sorsaina^ der die Geburth der Menschen lenkende Schutzgeist. S. Zaina. Sost. sostaguiro^ plötzlich, aus dem Stegreif. Siia. das Feuer. Sudurra^ surra^ die Nase. Sumindu^ erzürnen, im Neutr. zornig werden, wüthen, toben.<pb n="3.246" xml:id="pbIII246"/> Suya, (Labort. su/iza), der Eidam. Talazta, der Zeuge. Talcatu, stossen (besonders von gehörnten Thieren), anstossen, straucheln. Taloa^ galoa, Art unter der Asche gebackenen Brodes. Teguia, toqiiia^ werden hinten an die Wörter angehängt, um den Begriff des Orts zu bezeichnen. CJioritoquia^ Ort, wo sich Vögel befinden. Taldia^ der verhältnissmässige Theil, der einem unter mehreren zufällt. Tela^ maloa^ vialota^ die Flocke (vom Schnee). Tipia^ chiquia^ klein. Tirrina^ das Nachtstuhlbecken. Tolestu^ zusammenlegen, falten. Tortica^ lapa^ liga^ die Hefen. Trebatu^ unterrichten, weisen ; im Neutr. sich geschickt machen. Triciia^ quiriqiiioa, sagarroya, der Igel. Tua^ istiia^ chistiia^ der Speichel. Ubela^ uspela^ oria, gelb, blass. Nach dem Pariser Manuscript ist es die dunkle, beinahe schwärzliche Farbe, die bei Stössen und Schlägen entsteht. Ucabilla^ ucaraya, die Faust ; das letztere besonders auch das Handgelenk. Ucalondoa^ iicotidoa^ der Ellbogen. Ucha^ der Kasten (nur von kleineren gebräuchlich). Uchaldu^ Msyaldu, welken, im Act. und Neutr. Ucitu^ theilen. Ucordea, der Aermel. Ucotu, ucatu^ ezeztii, verneinen. Uda^ der Sommer. Udazqiiena^ udatzena, iidarrazqiäa^ der Herbst (der letzte Sommer). Ugarotu^ schiffen. Ugucatu^ sich anstrengen, mit Kraft bestreben. Uija (Vize), das Pech. Ulea^ illea^ das Haar, die Wolle. Ultzea^ iltzea^ itzea^ der Nagel. Unea, i.) Ort, Gegend. Astarloa ApoLS. 235. 2.) Natürliche An- lage, Neigung. Untzia^ ontzia^ das Schiff. Ura^ das Wasser. Urdina^ urdina^ blau, grau.<pb n="3.247" xml:id="pbIII247"/> Utguitii^ zusammenziehen, einschränken. Uria^ iriiX^ die Stadt. Urrea^ nrregorria^ das Gold. Urraida, (dem Golde verwandt) das</p>
+
+            <p>Kupfer. Urria, churra, sparsam, dürftig. Urrilla (Monat der Sparsamkeit), bildilla^ (des Aufhaufens) October. Urten^ irten^ hen^orkommen , hervorbrechen, ausschlagen (von</p>
+
+            <p>Bäumen). Urica ^ das Jahr. Urtaiza^ der Ostwind. Usafia^ iisaya, der Geruch (den man empfindet). Usoa^ die Taube. Uste (mit dem Hülfsverbo isatt)^ scheinen. Utsa, hohl, leer; utsunca^ die Grube; bloss, ogui iitsa^ blosses Brod; utsitu^ ustu^ ausleeren. Utsa^ auch figürlich Mangel, Fehler. Uzcaldu^ binden, anbinden. Uzquia^ eperdia^ epiirdia^ der Hintere. Uzta^ die Ernte. Yeiosgotu^ wetteifern, nacheifern. Yotorra^ der Wiederhall, nemlich der wirklich wiederholte Laut.</p>
+
+            <p>Der Ort des Wiederhalls heisst oyarziina^ arribicia (lebender Stein). Zabala^ weit, ausgedehnt. Zabarra^ langsam. Zabaya^ das Gerüst, die Bühne. Zagiieitu^ vegetiren, (ein Pflanzenleben führen). Zailla, hart, stark. Zaina^ zaya^ zaitzallea^ zaitzaria^ der Wächter, Hüter. Die beiden ersten werden gewöhnlich den Substantiven hinten angehängt. Arzaya (von ardia)^ der Schäfer. Zaina^ zaiia, zafla^ Ader (im menschlichen Körper), dann auch</p>
+
+            <p>Spannader, Sehne. Zalantza^ das Zweifeln, Schwanken. Zaldia^ zainaria (s. zama), das Pferd. Zavia, das Bündel, die Last. Zanzoa, eyagora, ojna^ marrasca^ das Geschrei. Zapaldu^ zapatu^ zermalmen, zertreten. Zapallorra^ iguela^ inguela^ tigarayoa^ zarrapoa^ der Frosch. Zapoa^ apoa^ die Kröte. Zaralea^ zuhaina^ Futter, (Franz. foiirage). Zarea, otarra^ sasqiiia^ der Korb. Zarica^ iiincia^ der Weidenbaum.<pb n="3.248" xml:id="pbIII248"/> Zartatu^ zarteguin^ zerspringen, platzen. Zar^ zarra^ (Labort. gaharra), alt; bei Menschen von beiden Geschlechtern üblich. S. Agiirea. Zartu^ alt werden. Zarzoa^ arazoa^ otsandea^ der Lärm, das Geräusch. Zaulia^ geschmeidig, behende. Zaiiria^ die Wunde. Zazpi^ sieben. Zocoa, chocoa, der Winkel, die Ecke. Zocorra^ soqidlla^ die Erdscholle. Zoria^ reif. Zorna^ zoldia^ der Eiter, die Materie. Zortzi^ acht. Daher zortzico ^ der Name der gewöhnlichen Vaskischen Gedichte, die aus achtzeiligen Strophen bestehen. Zubia^ die Brücke. Zucena^ chuisena^ gerade, nicht gewunden. Zuhaitza^ der Baum. Nach der Pariser Handschrift wird das Wort auch insbesondere von der Eiche gebraucht. Z2iperna^ der Sturm. Zurrupatu^ chiirriipatu^ urrupatu^ schlürfen. Zurtza^ verwaist. Zut^ ziitic^ zutinic, chiit etc.^ stehend. (Franz. debont.)</p>
+
+            <p>So wenig auch diess, natürlich immer sehr unvollständige Verzeichniss, welches der Raum und der Zweck dieses Werkes weiter auszudehnen verbot, zu eigentlichen Untersuchungen über die Vaskische Sprache hinreichen kann ; so wird es doch den aufmerksamen Vergleicher der einzelnen Wörter auf manche Bemerkung, sowohl über die innere Abstammung und Verwandtschaft der Vaskischen Wörter, als über ihre Aehnlichkeit mit fremden führen, und einen, wenigstens einigermassen vollständigen Begriff von einer bisher in Deutschland gar nicht, oder höchstens durch einige grammatische Sonderbarkeiten bekannten Sprache geben. Ich habe zu diesem Endzweck mit Fleiss den Weg, den Familien der Vaskischen Wörter alphabetisch zu folgen, dem in Schriften über wenig bekannte Sprachen gewöhnlicheren, die in jeder Sprache vorkommenden Hauptbegriffe Vaskisch anzugeben, vorgezogen. Nur der erstere ist im Stande zur Einsicht in die innere Oekonomie einer Sprache in ihrer Wortbildung zu führen; auf dem letztern erhält man lauter einzelne, aus dem Ganzen zufällig herausgerissene Stücke, oft zusammengesetzte, manches<pb n="3.249" xml:id="pbIII249"/> Mal fremde, ja wohl gar erst von den Grammatikern, nicht vom Volke gebildete Wörter; in das eigentliche Wesen der Sprache aber, in ihre einfachen Stammwörter, thut man kaum flüchtige und unsichere Blicke. Werke, wie das grosse Russische Wörterbuch <note type="footnote" n="^)" resp="gnd-116890657"><hi>„Vocabolario poligloUo con prolegomeni sopra piü di 150 lingue", Cesena IjSj.</hi></note> (wenn dasselbe auch in der Ausführung weniger mangel- haft wäre), die Schrift von Barton über die Amerikanischen Völkerschaften,-) Hen'as noch überdiess im Einzelnen sehr unzuverlässiges Vocabolario Poliglotto'^) und andere sind daher allerdings insofern äusserst schätzbar, als sie Nachrichten von Sprachen enthalten, über die alle vollständigere Quellen mangeln, allein für die Sprachforschung überhaupt von sehr beschränktem Nutzen. Die in denselben befolgte Methode begünstigt zwar scheinbar die etymologische Vergleichung , allein ich möchte ebensowohl behaupten, dass sie dieselbe oft irre führt. Nicht die einzelnen, ohne weitere Analyse aufgegriffenen Wörter zweier Sprachen, sondern die Analogie ihrer Wortbildung, zusammengenommen mit dem ganzen Umfange ihrer Wurzellaute, muss man vergleichen, um über ihre Abkunft und ihre Verwandtschaft ein gegründetes Urtheil zu fällen. Es ist gewiss in hohem Grade verdienstlich , wenn Reisende von gänzlich unbekannten Sprachen auch nur einige Dutzend Wörter zurückbringen; sie können immer zu \'ermuthungen führen, und es ist unmöglich, in diesen Fällen mehr zu leisten. Aber über Sprachen , die eine vollständige und systematische Behandlung zulassen, sollte man nie wagen, auf einem andern W^ege Urtheile zu fällen. Mög- lichst genaue Feststellung der Aussprache, und strenges Studium der Innern Analogie sind die Grundfesten alles etymologischen Studiums, und nur weil man sie zu oft vernachlässigt hat, ist das- selbe schwankend und unvollständig geblieben. Auf der andern Seite müssen allerdings auch die Begriffe, in möglichster Allgemeinheit aufgeführt, (denn dass, wie die Pasigraphie, Pasilalie, und Pasitelegraphie, und wie alle diese Spielereien w^eiter heissen mögen, verlangt, die Bedeutung eines Worts, unabhängig von aller wirklichen Bezeichnung, abzuziehen unmöglich ist, und dass jedes W^ort ein Individuum ist, das ebenso gut seine bestimmten</p>
+
+            <p>V Bas große in russischer Sprache abgefaßte vergleichende Wörterbuch aller Sprachen war Petersburg ij8-j—f^r erschienen; vgl. darüber Adelung, Katharinens der Großen Verdienste um die vergleichende Sprachenkunde S. ß-j</p>
+
+            <p>-) Barton, „New views of the origin of the tribes and nations of America" Philadelphia i-jg-j — g8.<pb n="3.250" xml:id="pbIII250"/> Züge, als ein Gesicht seine Augen, Nase und Mund hat, über die hinaus man nach einem Schattenbilde greift, dem man wieder, durch eine eingebildete Sprache, neue Gestalt geben muss, weiss jeder nur irgend Kundige), allerdings, sage ich, müssen diese möglichst allgemein aufgefassten Begriffe mit ihren Bezeichnungen in den einzelnen Sprachen verglichen, und der Wörten^orrath der Sprachen von dem doppelten Gesichtspunct aus. dem seines innern Zusammenhanges, als System articulirter Laute, und dem seiner äussern Beziehung auf den Zweck der Bezeichnung, als Repräsentant der in dieser bestimmten Gestalt in den Begriff aufgenom- menen Welt, betrachtet werden. Allein man muss beides mit einander verbinden, nicht eines dem andern aufopfern. Die obige Auswahl Vaskischer Wörter macht, und darf keinen Anspruch auf irgend einige Vollständigkeit machen. Allein ich habe doch die beiden hier erwähnten Zwecke zu verbinden gesucht, und dahin getrachtet, dass die hauptsächlichsten und ausgebreitetsten Vaski- schen Wörterfamilien, vorzüglich diejenigen, welche auf die ein- fachsten Stammlaute führen, darin vorkämen, und zugleich nicht zu viele der, einer wenig cultivirten Nation geläufigsten Begriffe fehlen möchten. Einige Male hat mich auch zur Aufnahme eines Wortes die interessante Aehnlichkeit desselben (die nicht immer eine gleich in die Augen fallende zu seyn braucht) mit Wörtern bekannter Sprachen bestimmt.</p>
+
+            <p>Die Art der Ableitung und Zusammensetzung der Vaskischen Wörter wird den Sprachforschern an mehr als einem Beispiel in dem obigen Wörterverzeichnisse klar werden; manches Mal habe ich die Einsicht durch die Zusammenstellung der Wörter zu erleichtern gesucht. Den eigenthchen Bau der Sprache in dieser Rücksicht auseinanderzusetzen, muss natürlich meiner ausführlichen Schrift vorbehalten bleiben. Zwei Dinge aber werden, auch beim ersten Anblicke, Verwunderung erregen:</p>
+
+            <p>I.) Die grosse Menge von Formen vieler einzelnen Wörter, sowie auch die oft bedeutend grosse Anzahl verschiedener Ausdrücke für denselben Begrilf. 2.) Die grosse Einfachheit mehrerer Stammwörter, die fast systematisch alle Wurzellaute, in ihren einfachsten Verbindungen, erschöpfen.</p>
+
+            <p>Das erste (wodurch ich veranlasst worden bin, eine, manchem vielleicht entbehrlich scheinende Vielfachheit dieser Formen aufzuführen) beweist die ehemalige Verbreitung der Sprache, und ihre<pb n="3.251" xml:id="pbIII251"/> Zerstückelung in vielerlei Mundarten, wie sie bei einer Nation, deren Stämme, ursprünglich in geringer Verbindung, ein meisten- theils bergiges Land bewohnen, natürlich ist; das zweite ihr hohes Alter, und ihre von andern ihrer Schwestern unabhängige Selbstständigkeit. \'on den \'erbindungen zweier Vocale, unstreitig den einfachsten unter allen, finden sich z. B. ohne alles mühsame Aufsuchen, und künstliche Zerlegen der Wörter, ai^ ao^ au^ ca., cc [chea)^ ei (soviel als c/'), co^ cii^ ia^ tt\ (7'eia), ü {ihia soviel als ia)^ io^ iu {tun so^'iel als gan\ oa (Imperat. von joan: gehen), oe^ oi^ ua^ u€ {iiha^ uhca^ beide soviel als viaqidla)^ tct\ wie man sich leicht durch das obige WörterA^erzeichniss davon überzeugen kann. Zum Beweise der Regelmässigkeit der Verbindungen der Gonsonanten mit Vocalen kann noch folgendes Beispiel dienen. Nimmt man den Buchstaben s, so findet man denselben nicht nur mit allen \'ocalen verbunden, ase^ cs^i, ml, oso, iisqui (soviel als uzquid), sondern es werden auch aus as-, es-, is-, os-, us- neue Wörter durch völlig gleiche Verbindung mit andern Gonsonanten gebildet, wie folgende Tabelle beweist:</p>
+
+            <p>/s sf j X c/i tz</p>
+
+            <p>/v P c cits. s. astuna, ajola, \axekhaacha.</p>
+
+            <p>atzean, azala.</p>
+
+            <p>aspia.</p>
+
+            <p>asco, as asiiase. schwer. Sorge,</p>
+
+            <p>Bedräng- niss.</p>
+
+            <p>beac,</p>
+
+            <p>Beleidigungen.</p>
+
+            <p>s. atzo.</p>
+
+            <p>niedergedrückt.</p>
+
+            <p>viel.</p>
+
+            <p>etsi, estua, echun, etzin, ezarri, espea, escoa, es vers. ersta. sich soviel sich die Unnass. zweifeln.</p>
+
+            <p>nieder- legen.</p>
+
+            <p>als echun.</p>
+
+            <p>setzen.</p>
+
+            <p>terdrückung.</p>
+
+            <p>itsua, istuna, ixil, ichua, itzi, izquia. ispetu.</p>
+
+            <p>iscamgleichCanal, soviel soviel verSorge.</p>
+
+            <p>vor-.</p>
+
+            <p>billa, sam: be- von der als als lassen.</p>
+
+            <p>zurückder is deckt, ver- schlos- sen.</p>
+
+            <p>Enge. isil. itsua. behalten.</p>
+
+            <p>Lärm, das Ge- räusch.</p>
+
+            <p>otsa. ostean, soviel ocha, soviel otza. oztea. ospela, die oscola, soviel als atzean.</p>
+
+            <p>als Otsa.</p>
+
+            <p>Frost- beule. als azala.</p>
+
+            <p>iitsa. ustu, s. ujola, uxtua, utzi, uzquia.</p>
+
+            <p>uspela, iisquea, litsa. 1 Ueberdas soviel soviel Hirse. schwemZischen.</p>
+
+            <p>als als</p>
+
+            <p>1 mung, figürlich Häufung.</p>
+
+            <p>itzi. ubela.</p>
+
+            <pb n="3.252" xml:id="pbIII252"/>
+            <p>Selbst in der weiteren Ableitung bleibt dieselbe Analogie. So entstehen aus ers z. B. in ersia^ wieder, wie aus es- Wörter in erts- {ertsi^ soviel als ersi)^ erst- {er stur a'. die Angst), erch- [er- chatw. stossen, drängen), ertz- {ertzaula: der Wall, von dem Umgeben), erz- [erzatua^ von Schiffen, angehakt, geentert), ersc- {ers- cona). Auf die Verwandtschaft der Bedeutungen in den hier angeführten Wörtern habe ich mit Fleiss jetzt keine Rücksicht genommen ; die Beziehungen der Laute und die ihrer Bezeichnungen müssen nothwendig erst von einander getrennt betrachtet werden, und hier ist mehr nur von verschiedenen Formen die Rede. Indess wird eine genaue Ansicht bald zeigen, dass alle angeführte Wörter wenigstens bloss innerhalb eines gewissen Umfanges von Begriffen liegen.</p>
+
+            <p>Ueber die Aehnlichkeit der in dem obigen Verzeichnisse enthaltenen Wörter mit fremden habe ich mich aller Bemerkungen enthalten. Nur eine vollständigere Vergleichung, als der Raum hier zuliess, könnte ein Urtheil hierüber begründen.</p>
+
+            <p>Uebrigens muss ich noch bemerken, dass ich zwar im Ganzen bei Anfertigung des obigen Verzeichnisses dem Larramendischen Wörterbuche ^) gefolgt bin, allein zugleich doch alle meine Hülfs- mittel dabei benutzt, und aus allen Zusätze und Berichtigungen hinzugefügt habe.</p>
+
+            <p>§. i6. Charakter der Sprache. S. 15. Einen besondern Hang zu Vocalen habe ich nie im \^askischen bemerkt. Wahr ist es indess, dass diese Sprache durchaus von aller unangenehmen Häufung von Consonanten frei ist. Astarloa behauptet sogar, dass nie zwei Consonanten eine Silbe weder anfangen, noch beschliessen, und Vv^enn man ts^ iz, st, als einen Buchstaben ansieht, wie es die beiden ersten denn wirklich sind, und sehr wenige mit dr, är, tr anfangende Silben, von denen einige noch durch Zusammenziehung entstehen, ausnimmt; so ist die Behauptung allerdings richtig. Das Zusammenstossen des / mit einem andern Conso- nanten kommt, soviel ich bemerkt habe, wirklich nie vor.</p>
+
+            <p>§. 17. Die Bemerkung, dass die Consonanten nur starke Aspirationen seyen, mag wohl besser auf sich beruhen. Vicly Larramendis „Diccionario trilingue del Castcllano, Bascucnce y Latin" war San Sebastian 1^4^ erschienen.<pb n="3.253" xml:id="pbIII253"/> leicht kommt dieselbe durch Misverstand daher, dass Oihenart in der Vorrede zu seinen Sprichwörtern \) bemerkt, dass mehrere Consonanten, ausser ihrem gewöhnlichen, noch einen aspirirten, und einen diminutiven (gebrochnen, dem Spanischen // und n ähnlichen) Laut haben. Er nennt von denselben r, d^ /, ;/, /, r, ^, A Das gebrochene d und t muss dem Ungarischen gy und // gleichkommen. Allein diess alles gilt höchstens vom Labortanischen Dialekt, und auf jeden Fall haben diese Feinheiten der Aussprache für den blossen Sprachforscher keine Wichtigkeit.</p>
+
+            <p>§. 18. Uebrigens heisst aochoa nicht küssen, sondern ist Diminutivum von aoa.</p>
+
+            <p>%. IQ. S. 1(5. Z. 12. statt anditosuna^ 1. anditasiina. Zwischen anditu und andiagotu ist der Unterschied der, dass das erstere vom Positivus, das zweite vom Comparativus gebildet ist: ich mache gross, grösser. Tu ist die Endung des Infin. im Präs.; im Labortanischen Dialekt tea^ und tcea. Andieiitsua kommt vom Superlativ andiena her. Argiiitua ist das Part. Pass. oder der mit einem Artikel versehene Infinitiv; denn argtntu heisst nicht ich erleuchte, sondern erleuchten. Argtisu ist kein Vaskisches Wort. Z. 27. statt goicova, 1. goicoa. Z. 28. statt eguz^ 1. eguna. Z. 2q. statt arguitzaita^ 1. arguizaita. Duena ist im La- bortanischen Dialekt das Part. Präs. von dut mit dem Artikel.</p>
+
+            <p>§. 20. Die Silben, durch welche die verschiedenen Redetheile gebildet werden, sind sehr vielfach, allein in ihrer Bedeutung nicht so fest bestimmt, als in einigen andern Sprachen. Ausserordentlich gross aber ist die Freiheit, fast jedes Wort in einen andern Redetheil zu verwandeln, und dadurch neue Wörter zu bilden. Die blosse Anhängung von tu ist hinreichend, ein Verbum zu erhalten, und so kann ein Casus obliquus, ein Substantivum mit seiner Postposition u. s. w. in ein Zeitwort übergehen. Aitaren heisst des Vaters, aitarena: das des Vaters, aitarenatu: zu dem (Eigenthum) des Vaters machen. Aitagana heisst zum Vater; aitaganatu: zum Vater hin machen (kommen).</p>
+
+            <p>Einen äusserst sinnigen Unterschied macht die Vaskische Sprache durch die Endungen -tasuna^ welche einen Ueberfluss, einen Vorzug, und -queria (von eria: Krankheit), welche einen</p>
+
+            <p>^j „Proverbes basques" und „Poesies basques", Paris l6^j.<pb n="3.254" xml:id="pbIII254"/> Mangel anzeigt. Jede gute Eigenschaft wird nemlich durch -iasuna^ jede schlechte durch -qiieria bezeichnet. Ontasuna'. Güte, ordiqueria'. Trunkenheit. Wenn eine Eigenschaft sowohl Vorzug als Mangel seyn kann, so bestimmt die Anhängung der einen oder andern Endung, in welchem Sinne sie genommen wird. Mentasuna : Einfalt, kann nur die liebenswürdige eines edeln Gemüthes seyn. Umetasuna: Kindlichkeit, umeqiieria'. Kindischheit. Ist endlich ein Fehler durch die Natur entstanden, mithin moralisch gleichgültig, oder ist er der Zurechnung fähig, so wird im ersten Fall immer -tasiina^ im letztern -queria gebraucht, Zoratasuna: Narrheit, als Krankheit ; zoraqueria^ als Verkehrtheit des Verstandes. Arrotasuna^ das Hohlseyn eines Baumes, oder einer andern Sache ; arroqueria : die Aufgeblasenheit eines eiteln Menschen.</p>
+
+            <p>Die meisten Vaskischen Wörter sind vielfach zusammengesetzt, und die Spuren ihrer Zusammensetzung sind meistentheils sehr sichtbar geblieben, ^o be-co-quia: die Stirn, von (^-^^z^:/« : Auge, und den Ableitungssilben co^ und quia^ dasjenige, was zu den Augen gehört; zi-g-atza: die Weiberbrust, von ura (Wasser und jede Flüssigkeit), und atza (Finger, Speiche, jeder länglich vorstehende Körper); od-otsa'. der Donner, von odeia und otsa: das Geräusch der Wolke. Diese Aufsuchung der Wurzellaute ist daher ein wichtiger Theil der Zergliederung dieser Sprache. Die gleichsam abergläubigen Verehrer des Vaskischen treiben diese Anatyse der Wörter so weit, dass sie jeden Buchstaben bedeutungsvoll erklären.</p>
+
+            <p>Um nur ein Beispiel hiervon aus Astarloa anzuführen, so soll atza : der Finger, von a, dem Zeichen der Stärke, und tz, dem des Ueberflusses, eigenthch lieber fluss von Stärke heissen. Inwiefern diess gewiss zu weit getriebene Sj^stem dennoch wirklich Grund hat, verdient bei der ausführlichen Behandlung der Sprache eine genaue Auseinandersetzung.</p>
+
+            <p>Von der Zusammensetzung will ich hier nur das Einzige bemerken, dass nicht, wie in den meisten andern Sprachen, immer das ganze Wort, sondern oft nur eine Silbe, mithin manches Mal nur ein Buchstab in die Composition übergeht. So kommt der Familienname U-g-arte^ zv^dschen Wassern, von Ura und arte\ g ist nur des Wohlklanges wegen eingeschoben. Ebenso ist z/-^z«-^, lebendiges Wasser. Diess verursacht manches Mal Undeutlichkeit, wenn die in das Compositum übergehende Silbe zwei Wörtern gemeinschaftlich ist. So heisst ar-caya zugleich Pökelfleisch und<pb n="3.255" xml:id="pbIII255"/> Kerze, das erste von ara-^nia^ das zweite von ar-giiia. Indess sagt man auch vollständig ar-gui-caya.</p>
+
+            <p>Wie viel es zur richtigen Auffindung der Etymologie beiträgt, wenn man alle Ableitungssilben abschneidet und daher z. B. in aragnia, arguia^ beguia^ iizqiiia^ eiiqui nur die Wurzellaute ara^ ar, be^ US. und eu erkennt, bedarf keiner eigenen Bemerkung. Manches Mal aber ist diese Aufsuchung des Wurzellautes nichts weniger als leicht. Was soll man z. B. als solchen in dem Vaskischen Worte : W e i n annehmen, wenn man zugleich ardoa^ ariioa und noa sagt?</p>
+
+            <p>§. 21. S. 17. Was von der Vaskischen Declination gesagt ist, scheint aus Oihenarts notitia iitrmsque Vasconiae entlehnt, ist aber wenigstens sehr unvollständig und giebt zum Theil durchaus unrichtige Begrifte.</p>
+
+            <p>Die Casus der Vaskischen Declination, wie sie gewöhnlich, z. B. in Larramendi, aufgezählt werden, sind grösstentheils aus dem unveränderten Stammworte und einer angehängten Postposition zusammengesetzt. Jaiin-arentzat^ für den Herrn. Ogui- gabe^ ohne Brod. Allein in einigen erkennt man eine solche Postposition gar nicht, wie in giäzon-a-c, der Mensch (in Handlung begriffen), ait-a-r-i {a ist Artikel, r Wohllautbuchstab, bloss i Casuszeichen), dem Vater; in andern dunkel, als am-a-r-en^ der Mutter («;/, e7t bedeuten als Postposition in). Man muss daher entweder alle mögliche Postpositionen (welches aber sehr unzweckmässig seyn würde) vollständig aufgezählt unter die Casus rangiren, oder die offenbaren Postpositionen von den Casibus ab sondern. In der vorliegenden Stelle ist beides so vermischt, dass das für den Ablativus angeführte s (im Labortanischen Dialekt für z gebräuchlich), welches hier, gerade wie z, eine Flexion scheint, die abgekürzte Postposition az, gaz^ mit, ist; bicriiz, mit dem Kopfe.</p>
+
+            <p>Wahre Casus, wenn man auf die Verschiedenheit der Casuszeichen sieht, hat das Vaskische nur drei : Nominativ, Genitiv und Dativ. Der Accusativ und Vocativ sind dem Nominativ gleich, und unter dem Namen des Ablativs zählt Larramendi einige, jedoch bei weitem nicht alle Verbindungen mit Postpositionen auf. Eben solche Verbindungen sind das, was er andere besondere Artikel des Nomens nennt.</p>
+
+            <p>Die Declination ist allerdings eine mit, und eine ohne Artikel. Der Unterschied ihres Gebrauchs ist sehr bestimmt. Die erste<pb n="3.256" xml:id="pbIII256"/> dient in allen Fällen, wo das Substantivum seinen Artikel mit sich führt, wofür im Ganzen dieselben Regeln, als im Deutschen, gelten. Die zweite ist zunächst für die, immer ohne Artikel vor- kommenden Eigennamen bestimmt, wird indess auch da gebraucht, wo das Substantivum unbestimmt ist. In manchen dieser Fälle bedient man sich aber einer Postposition statt eines Casus dieser Declination. So sagt man nicht ogiiien^ sondern oguiz asea^ satt an Brod. Die Endungen sind in beiden für alle Casus, bis auf kleine Verschiedenheiten im Nominativ des Handelns dieselben, wie folgende Gegeneinanderstellung zeigt, nur dass die erste dieser Declinationen den Artikel und alsdann im Singular ein r eiiphonicum mit sich führt.</p>
+
+            <p>mit</p>
+
+            <head>
+               <title type="main">Declination</title>
+            </head>
+            <p>Artikel ohne</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">Singular.</title>
+               </head>
+               <p>Nom. des Handelns a-c</p>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">Sing</title>
+               </head>
+               <p>Wenn das Subst. sich in einen Conso- nanten endigt.</p>
+
+               <p>ular.</p>
+
+               <p>Wenn es in einen Vocal ausgeht.</p>
+
+               <p>c 1 ec N 0 m. des Leidens oder neutralen Zustandes das Wort mit Accus, und Vocat. ^^^ ^^^^^^^</p>
+
+               <p>Der Name oder das Wort selbst. Soll jedoch bei Fragen, Zweifeln, Verneinungen der Begriff: irgendein ausgedruckt werden, so wird ic r-ic angehängt. Genitiv a-r-en en r-en Dativ a-r-i i r-i</p>
+            </div>
+
+            <div type="section" n="3">
+               <head>
+                  <title type="main">Plural</title>
+               </head>
+               <p>Nom. des Handelns a-c Diese Declination hat keinen Plural, da, sowie das Substantivum ganz unbestimmt genommen wird, auch die Zahlbestimmung überflüssig ist. Nom. des Leidens u. s. f. Accus, und Vocat. a-c Genitiv en Dativ a-i</p>
+
+               <p>Dialektverschiedenheiten, wie z. B. der Labortanische im Nominativ und Dativ plur. ec^ ei hat, sind hier übergangen.</p>
+
+               <p>Dass die Vaskische Sprache ein eigenes Casuszeichen für den Fall besitzt, wenn das Subject im Handeln begritten ist, scheint<pb n="3.257" xml:id="pbIII257"/> mir auch in Rücksicht auf die allgemeine Grammatik nicht unwichtig. Wenn man nemlich über den Unterschied der Casuszeichen und Präpositionen (da beide immer Beziehungen der Wörter auf einander bezeichnen) nach allgemeinen Grundsätzen nachdenkt, so scheint mir überall da ein Casuszeichen stehen zu können, wo die Beziehung aus dem Begritle der Relation selbst hertiiesst. eine nothwendige Art derselben, und daher, ohne andern Mittelbegriff, verständlich ist. Wo hingegen ein solcher Mittel- begritf eintritt, da muss eine Prä- oder Postposition gebraucht werden, woraus denn von selbst fliesst, dass die Zahl der Casuum unmittelbar durch die Tafel der Kategorien bestimmt, die der Präpositionen aber ganz willkührlich ist, sowie auch, dass die Präpositionen meistens noch kenntliche Substantive sind, welche diesen Mittelbegrit! andeuten, und als solche am natürlichsten den Genitiv regieren. Nun ergiebt sich aus der Beziehung der Substanz und Eigenschaft der Genitiv, aus der der Ursache und Wirkung der Accusativ und in dem ersteren der beiden Begriffe der des handelnden Nominativs. Diesen aber übergehen, ausser der Vaskischen, die meisten andern Sprachen. Der Nominativ bei Verbis netitris ist eigentlich gar kein Casus, da er gar keine Beziehung auf einen andern Gegenstand anzeigt, und auch der des Leidens (oder bei Verbis ein Pass.) wird es erst, wenn man die Ursache des Leidens hinzunimmt. Aus dem Begriffe der Wechselwirkung könnte noch ein vierter Casus entspringen, doch kommt diese Beziehung, strenge genommen, zu selten vor, um ein eignes Zeichen zu verdienen. Dagegen entsteht ein vierter Casus: der Dativ, alsdann, wenn zu der ersten Beziehung noch eine zweite dergestalt hinzukommt, dass dieselbe zu einer wahren Doppelbeziehung, wie in der Redensart: ich gebe dem Menschen das Buch, wird.</p>
+
+               <p>Der in Handlung gesetzte Nom. sing, unterscheidet sich von dem, ihm sonst ganz gleichen Nom. Plur. nur dadurch, dass der erstere den Accent auf der letzten, der letztere auf der vorletzten Silbe hat: giäzonäc^ der handelnde Mensch, ^wz&gt;&lt;7;z^^, die Menschen.</p>
+
+               <p>Beiläufig erhellet auch aus dem hier Gesagten, dass die Vas- kische Sprache nicht zu denjenigen gerechnet werden kann, welche nur Aggregation oder Composition, nicht Flexion kennen, wenn überhaupt ein solcher Unterschied unter Sprachen mit Grunde und mit Nutzen gemacht werden kann. In der Flexion des</p>
+
+               <p>W. V. Humboldt, Werke. III. 17<pb n="3.258" xml:id="pbIII258"/> Dativs in / kommt das Vaskische mit dem Griechischen und Lateinischen überein, in denen, genau genommen, auch i der einzige Dativ ist.</p>
+
+               <p>§. 22. Die Conjugation ist allerdings der schwierigste und eigenthümlichste Theil der Vaskischen Grammatik. Ob sie gleich in ein System gebracht werden kann, so muss man doch gestehen, dass dasjenige, was beim Lesen Vaskischer Bücher das Verstehen am meisten erschwert, die Vielfachheit der Flexionen des Verbi ist. Denn da dieselben wieder in jedem Dialekte verschieden sind, so stösst man alle Augenblicke auf solche, deren Auflösung auch dem der Sprache sehr Kundigen schwer fällt. Das S3^stem selbst aber ist weder aus Larramendi's noch Harriets Grammatik zu erkennen ; beide haben offenbar selbst keinen deutlichen und vollständigen Begriff davon gehabt. Harriet giebt bloss einzelne, zufällig gewählte Paradigmen. Larramendi hat allerdings eingesehen, dass aus der Eigenthümlichkeit dieser Sprache, mehrere Nebenverhältnisse der Handlung, welche andre Sprachen nur da be zeichnen, wo es nothwendig ist, immer, und zr^^ar unmittelbar am Zeitworte selbst anzudeuten, die verschiedenen Gattungen der Conjugation entstehen, allein er hat, ohne die ganze mögliche Zahl derselben zu übersehen, nur einige wenige herausgerissen, und keinen deutlichen Begriff von dem gehabt, was in den oft sehr langen Flexionsformen, die er nur im Ganzen hingiebt, jedem einzelnen Verhältniss angehört. Man findet bei ihm also nur Paradigmen, von den Regeln aber, welche den Sprachforscher am meisten interessiren, nur einen sehr kleinen Theil. Astarloa ist der erste und einzige, der die systematische Anordnung der Vaskischen Conjugation entdeckt und auseinandergesetzt hat; allein seine gedruckte Schrift enthält nur sehr wenig darüber; und ich habe seine Ideen nur aus seinen noch handschriftlichen Arbeiten gezogen. Bei diesen selbst ist wieder zu bedauern, dass zu der Zeit, in der ich sie sah, auch in ihnen noch nicht alles ganz ausgearbeitet und völlig im Klaren war, und es vorzüglich, neben den Regeln, an den doch auch nothwendigen Paradigmen fehlte. Indess gehn diese Mängel meistentheils nur die Flexionsformen selbst, nicht das Gesetz ihrer Bildung an. Die Natur des Vaskischen Verbi ist in Astarloa's Darstellung durchaus klar, und sogar, weil dieselbe, bei grosser scheinbarer Verwickelung, doch auf ein- fachen Grundsätzen beruht, in ziemlicher Kürze auseinanderzu<pb n="3.259" xml:id="pbIII259"/>setzen. Diess nun werde ich hier versuchen, und bemerke nur, dass, wo ich wirklich Vaskische Formen anführe, dieselben (da ich lediglich Astarloa folge) bei diesem §. immer aus dem Viz- cayischen Dialekte genommen sind.</p>
+
+               <p>Die Vaskische Sprache hat, genau genommen, nur Eine einzige Conjugation; denn jedes Verbum, welche Endung es haben, oder wie es immer lauten möge, wird nur auf eine und dieselbe Art conjugirt.</p>
+
+               <p>Diese Conjugation ist entweder regulär oder irregulär. Die reguläre ist immer zusammengesetzt, und besteht aus dem Zeitworte und seinem Hülfsworte. Die irreguläre (unstreitig die ältere und ursprüngliche) ist einfach, und tlectirt, wie im Lateini- nischen und Griechischen, das Wort selbst. Sie ist nur bei einer gewissen Anzahl von Zeitwörtern üblich; eben diese Zeitwörter können aber zugleich auch regulär conjugirt werden ; nur haben sie dann die Nebenbedeutung des Pflege ns. Z. B. nator^ ich komme (von etorri)^ eto7'ten naz^ ich pflege zu kommen.</p>
+
+               <p>Zu Hülfswörtern werden, sowohl in verschiedenen, als in demselben Dialekte mehrere gebraucht: euqui^ ncan^ adi^ eguin^ eruan^ izan u. s. f., doch ist das erste das gewöhnlichste im Activo, das letzte im Passivo. Die Hülfswörter selbst sind natürlich bloss irregulär conjugirte Zeitwörter.</p>
+
+               <p>Die erste Eintheilung des Verbi bei Astarloa ist die in diejenigen Verba, wo jemand die angedeutete Handlung selbst vornimmt, und diejenigen, wo er macht, dass sie durch einen andern geschieht. Es sind diess die beiden Gattungen, welche nach S. 20. durch Einschiebung der Silbe ra verschieden sind. Die (der unsrigen in den Wörtern: liegen, legen, hangen, hängen u. s. f. ähnliche) Art, diesen, freilich nicht eigentlich in das Capitel der Conjugation, sondern in das der Bildung verschiedener Arten von Zeitwörtern gehörenden Unterschied zu bezeichnen, beweiset, dass die \^askische Sprache, um Modificationen anzuzeigen, bei weitem nicht bloss an sich bedeutsame Silben aneinanderhäuft. Denn hier wird eine, von der es ganz unbekannt ist, ob sie je Bedeutung gehabt hat, mitten eingeschoben, und dabei manches Mal, nemlich wo der Anfangsbuchstab ein Consonant ist, dieser verändert : juaii^ eruan^ gehen, gehen machen.</p>
+
+               <p>Jedes Verbum dieser beiden Gattungen nun besteht in jeder seiner Flexionen</p>
+
+               <pb n="3.260" xml:id="pbIII260"/>
+               <p>I.) aus dem Verbum selbst, und <note type="footnote" n="2.)" resp="gnd-118554727"><hi>auf welche Person das Verbum gerichtet ist; und zwar wiederum :</hi></note> aus der Flexionsform, d. i. dem flectirten Hülfsverbo.</p>
+
+               <p>Das Erste steht meistentheils im Participio.</p>
+
+               <p>An der Flexionsform wird ausgedruckt:</p>
+
+               <p>I.) von welcher Gattung der Handlung oder des Zustandes die Rede ist; einem Vkärklich thätigen, leidenden u. s. w. ?</p>
+
+               <p>a) ob auf eine allein, oder auf zwei, von denen die eine hauptsächlich, die andre nur nebenher betroffen ist; und b) welche Personen, die i. 2. u. s. f. sich in diesem Falle befinden.</p>
+
+               <p>Die Arten der Abwandlung des Zeitworts, welche aus der Verschiedenheit des thätigen, leidenden oder gemischten Zustandes, verbunden mit dem Umstände, ob eine nebenher betroffene Person zu dem Begriffe des Zeitworts hinzukommt, entstehen, nennt Astarloa die Genera oder Voces\ diejenigen, welche aus der Verschiedenheit der Personen selbst entspringen, Conjugationen, obgleich dieser Ausdruck in andern Sprachen in ganz verschiedenem Sinn genommen wird.</p>
+
+               <p>Jedes Verbum hat daher verschiedene Voces\ jede Vox verschiedene Conjugationen; nachher jede Conjugation (wie in allen anderen Sprachen) verschiedene Modos, Zeiten, Zahlen und Personen.</p>
+
+               <p>Voces sind in jedem Verbum 8; Conjugationen in allen Vocibus zusammen 206.</p>
+
+               <p>Voces. Da jedes reguläre Verbum aus dem Participio und dem Hülfsworte besteht, so können beide im Activo, oder beide im Passivo, oder umzechig eins im Activo und eins im Passivo stehen. Hieraus entspringen die 4. ersten Voces auf folgende Weise.</p>
+
+               <p>I.) Vox activa pura. Maitetuten d-o-t\ Part, und aux. im Act. Maitetuten., liebend, d Characteristica der 3. Pers. Sing, accnsativa (d. i. der, auf welche die Handlung gerichtet ist), 0 Wurzel des Hülfsworts; t Characteristica der 1. Pers. Sing, nominativa (d. i. der, welche die Handlung verrichtet). — Ich liebend habe ihn, ich liebe ihn.<note type="footnote" n="2.)" resp="gnd-118554727"><hi>Vox Passiva pura. Maitetuba naz\ Part, und aux. im Pass. Maitetuba., geliebt; naz., ich bin. — Ich bin, oder werde ge- liebt.</hi></note><note type="footnote" n="3.)" resp="gnd-118554727"><hi>l'ox activa mixta. Maitctiitcn naz^ Part, im Act. und aux. im Pass. — Ich bin liebend. Bei dieser Form wird alle Mal die I. Pers. Sing, accus, verstanden, sie ist daher das wahre Verbiim reciprocum^ ich liebe mich.</hi></note><note type="footnote" n="4.)" resp="gnd-118554727"><hi>Vox Passiva mixta. JSIaitetuba dot. Part, im Passiv und aux. im Activ. Geliebt ihn habe (besser: halte ich), d. i. er ist oder wird von mir geliebt. Diese Form ist zwar, dem Sinn der Worte im Ganzen nach, dieselbe mit der ersten, ich liebe ihn. Allein es liegt eine nicht zu verkennende Feinheit darin, die andere Sprachen, wo sie dieselbe brauchen wollen, nur durch Umschreibung erhalten können, den Gegenstand seiner Handlung, als im Zustande des Leidens begriffen, zuerst herausheben, und nachher doch sich selbst (als den Handelnden) activ darstellen zu können.</hi></note></p>
+
+               <pb n="3.261" xml:id="pbIII261"/>
+               <p>Bei der ganz activen oder ganz passiven Form geht immer entweder der Nachdruck, dass der andre so von mir behandelt wird, oder dass ich ihn so behandle, verloren, da hier beides erhalten wird. Die Lateinische Redensart: te cognititiii., perspectum habeo., würde dieser Vasldschen gleich seyn, wenn nicht der in habeo liegende Begriff des Besitzes, ob er gleich in anderer Rücksicht die Energie vermehrt, doch den blossen der Handlung (die einfache Bedeutung des Hülfswortes) wieder unrein machte.</p>
+
+               <p>Die andern 4 Voces (nach Astarloa Voces recipientes) entstehen, indem man zu jeder von den vorigen den Fall hinzufügt, dass, ausser der Hauptperson, eine andere Nebenperson bei der Hand- lung betroffen ist. Diese steht dann gewissermassen im Dativo, und die Uebersetzung eines solchen Verbi in eine andere Sprache muss mit dem sogenannten Dativus commodi gemacht werden. Denn die Beziehung dieser Person auf die Handlung ist immer ganz allgemein, ihr \^ortheil oder ihr Nachtheil, oft aber ist auch gar keine vorhanden, als diejenige, welche der Redende willkühr- lich annimmt. Dass dieser Dativus commodi in allen alterthümlichen Schreibarten und in dem Alunde des Volkes viel häufiger, als im gebildeteren Stil vorkommt, und daher bei einer wenig cultivirten Nation leichter ganz in die Sprachform übergehen kann, bedarf kaum bemerkt zu werden.</p>
+
+               <p>Maitetuten und Maitetiiba d-eu-ts-u-t.</p>
+
+               <p>n-a-ch-a-zu.</p>
+
+               <p>Ich liebe ihn dir u. s. f.</p>
+
+               <pb n="3.262" xml:id="pbIII262"/>
+               <p>In deutsut ist d charact. 3. pers. sing, accus.., eii Wurzel, ts cha- racteristica des verbi recipientis (sowie auch ch in nachazu)., u charact. 2. pers. sing, dativae (nemlich derjenigen, zu deren Nutzen oder Schaden die Handlung geschieht); t cJiaract. i. pers. sing. 7ioniina- tivae. In nachazn., n charact. i. pers. nominal.., a Wurzel, cJi (wie eben gesagt), a ein dazwischen geschobener Wohllautsbuchstab, zii charact. 2. pers. dativae.</p>
+
+               <p>Conjugationen. Die Zahl derselben wird durch die Zahl der verschiedenen Personen bestimmt, auf welche das Verbum sich, entweder hauptsächlich, oder zugleich und nebenher, beziehen kann. Nun aber kennt die Vaskische Sprache, ob sie gleich nur zwei Numeros, Singular und Plural, hat, doch 8 Personen, da sie im Singular eine dreifache zweite Person annimmt, und wenn das Verbum die i. oder 3. Person im Accusativ mit sich führt, die Conjugation desselben nach der Beschaffenheit der Person, die man anredet, (die man gleichsam die personam vocativam nennen kann,) verschieden ist. Geht man nun die einzelnen Voces des Zeitwortes durch, und untersucht, welche Verschiedenheit der Personen jede zulässt, so kommt durch eine Rechnung, die es zu weitläuftig seyn würde, hier ausführlich anzustellen, die vorhin angegebene Zahl der Conjugationen heraus.</p>
+
+               <p>Die Dreifachheit der 2. Person im Singularis entsteht dergestalt, dass es eine höfliche Form giebt, deren sich Geringere gegen Vornehmere bedienen, und eine vertraulichere, oder weniger höfliche für den umgekehrten Fall, und dass diese letztere wieder zwiefach, anders gegen Männer und anders gegen Frauen ist. Mit Männern nemlich bedient man sich, um du zu sagen, des Kennbuchstabens c, mit Weibern n\ bei dem höflicheren zu war ein weicherer Buchstab für das andere Geschlecht nicht nothwendig. Solche Verschiedenheit der Anreden, nach Verschieden- heit der Geschlechter und der Stände, findet man in vielen Sprachen uncultivirter Nationen.</p>
+
+               <p>Um wenigstens nun Ein Beispiel der hier erklärten Conjugationen zu geben, will ich die der Verborum activorum mixtorum hersetzen. Da diese vollkommene reciproca sind, so kann, wenn diese \"erba nicht recipieyitia sind, nur Eine persona accusativa darin vorkommen, die nemlich immer dieselbe mit der persona nominativa ist. Es kann daher von diesen Zeitwörtern nur so viel Conjugationen, als personas vocativas., d. i. drei geben :<pb n="3.263" xml:id="pbIII263"/> il doc \ er hat sich getödtet, o ■</p>
+
+               <p>\don</p>
+
+               <p>Herr, Frau ! Mann ! Weib !</p>
+
+               <p>In diesen drei Formen des Auxiliars ist der i. Buchstab das Kennzeichen der 3. pers. singul. accnsat.^ der 2. die Wurzel, der '\. das Kennzeichen der 1. pers. fainil. vocat. viascid. und fem. Die •:•. pcrs. sing, nominat. wird niemals ausgedruckt, sondern zeigt sich durch die Abwesenheit eines Kennbuchstabens an.</p>
+
+               <p>Aus diesem Beispiel, und allem so eben Gesagten erhellet nun deutlich, dass es keinesweges nothwendig ist, diese 206 Conjuga- tionen auswendig zu lernen, sondern nur die Regeln der Kennbuchstaben, sowohl der verschiedenen vociim verbiß als der Personen, und ihrer Verbindung zu kennen, um im Lesen und Sprechen die Flexionsformen mit Fertigkeit aufzulösen und zu bilden. Denn jeder Buchstab in diesen lässt sich erklären; die einzigen Elemente, die darin vorhanden se5'^n können, sind: die Wurzel, die Kennbuchstaben der Pers. nominat.^ dat.^ accus, und vocat., und endlich eingeschobene Wohllautsbuchstaben, und alle diese Kennbuchstaben sind theils an sich, theils durch ihre Stellung bestimmt. Ueberhaupt verschwindet, bei genauerer Ansicht, die anfangs verv^^irrt scheinende Vielheit gar sehr. Denn i.j sind die Flexionsformen der Conjug. act. mixt, sowohl so, als wenn sie recipientes sind, durchaus gleich mit diesen bei den pass. pur., da der Unterschied dieser Conjugationen nur in dem verschiedenen Participio besteht; und eben so sind es die Formen der conjug. act. pur., auch wenn sie recipientes sind, mit denen der pass. mixt., nur dass, weil in diesen beiden gleichsam das Subject ändert, immer die i. Person der einen (ich Hebe ihn) der 3. der andern (er wird durch mich geliebt) entspricht.<pb n="3.264" xml:id="pbIII264"/> Ver- bum. Flexions formen. Bedeutung.<note type="footnote" n="2.)" resp="gnd-118554727"><hi>Ist eine wirklich auffallende und merkwürdige Regelmässigkeit und Einförmigkeit in den verschiedenen Flexionsformen. Um auch hien'on einen Begriff zu geben, will ich in folgender Tabelle die 16 Conjug. act. puras zusammenstellen.</hi></note></p>
+
+               <p>9-1</p>
+            </div>
+
+            <div type="section" n="4">
+               <head>
+                  <title type="main">'S ^</title>
+               </head>
+               <p>3 .</p>
+
+               <p>S 5- Z Ei,</p>
+            </div>
+
+            <div type="section" n="5">
+               <head>
+                  <title type="main">u</title>
+               </head>
+            </div>
+
+            <div type="section" n="6">
+               <head>
+                  <title type="main">II</title>
+               </head>
+               <p>■2 N-g «^ 1 £| i</p>
+
+               <p>5 = 3 —</p>
+
+               <p>3 3</p>
+
+               <p>&gt; j4</p>
+            </div>
+
+            <div type="section" n="7">
+               <head>
+                  <title type="main">TS S</title>
+               </head>
+            </div>
+
+            <div type="section" n="8">
+               <head>
+                  <title type="main">^^ 'S</title>
+               </head>
+               <p>0 g CS =:</p>
+
+               <p>0 ;^</p>
+
+               <p>-5 '5</p>
+
+               <p>I. .7U er hat dich getödtet, 0 Mann !</p>
+
+               <p>2. au 7Ifl Weib !</p>
+
+               <p>3Z az&lt; Herr!</p>
+
+               <p>4n au - - mich</p>
+
+               <p>5d au - - ihn</p>
+
+               <p>6. 2 au Z - - euch - - - - 7g au</p>
+
+               <p>- - uns 77. 8. d au z - - sie - - - - 9n ai j 0 c - - mich - - - Mann !</p>
+
+               <p>10. J 0 c - - ihn</p>
+
+               <p>II. g ai j 0 c - - uns</p>
+
+               <p>12. j 0 z a c - - sie</p>
+
+               <p>13- n ai j 0 n - - mich - - - Weib !</p>
+
+               <p>14. J 0 n - - ihn</p>
+
+               <p>15- g ai J 0 n - - uns x6. j 0 z a n - - sie</p>
+
+               <p>Sowie man in dieser Tabelle diejenigen Conjugationen mit einander vergleicht, die eine Bestimmung mit einander gemein haben, so findet man vollkommene Gleichheit der Bildung in ihnen. So wird z. B. sow^e der Kennbuchstab der vertraulichen Anrede vor die Wurzelsilbe tritt, diese immer in o verwandelt, und wenn vor jenen Kennbuchstaben ein Consonans kommt, immer ai dazwischen geschoben. Die person. acaisat. hat nie zwei Kennbuchstaben, als im Plural, und dann immer ein s und diess immer der Wurzel nachgesetzt. Die (Konjugationen der vertraulichen Anrede an Mann und Weib unterscheiden sich immer nur durch ein c oder n am Ende u. s. f.</p>
+
+               <p>Die einzige Frage, die ich mir bei dieser systematischen An<pb n="3.265" xml:id="pbIII265"/>Ordnung der Conjugationen erlauben möchte, ist, ob diese Regelmässigkeit nicht \ielleicht erst durch die reinigende Sorgfalt des ordnenden Grammatikers entstanden ist, sondern wirklich auf diese Weise im Munde des Volkes existirt? Astarloa behauptet diess Letztere, und man muss einem Wahrheit liebenden Manne hierin Glauben beimessen. Wahr bleibt es indess, dass, da noch niemand den Guipuzcoanischen und Labortanischen Dialekt so bearbeitet hat, und im ^'i2cayischen bloss ein kleiner Catechismus vorhanden ist, die Erlernung dieses ganzen S3'stems das Auflösen der in den andern Dialekten vorkommenden Formen zwar sehr erleichtert, aber doch noch bei weitem nicht ganz möglich macht.</p>
+
+               <p>So sonderbar endlich die ganze Vaskische Conjugation beim ersten Anblick erscheint, so wird es denen, welche sich mit Ver- gleichung mehrerer Sprachen beschäftigt haben, nicht entgehen, dass die sie auszeichnenden Eigenthümlichkeiten theilweise auch in anderen vorkommen. Ohne von weniger bekannten Sprachen zu reden, ist schon in der Hebräischen das Anhängen der prono- inina^ welche die pers. accus, andeuten, an die Personen des Verbi diesen Conjugationen ähnlich; in der Ungrischen hat sich eine solche verschiedene Flexion für die einzige 2. Person, wenn sie im Accusativ steht [Idtlak^ ich sehe dich) erhalten; jedes Verbum reciprocum ist eigentlich ein Verbum mit der i . pers. acciisat. u. s. f. Das Merkwürdige in der Vaskischen ist nur, dass sie diese Modi- ficationen, bis zur Erschöpfung aller möglichen Fälle, vollständig durchführt. Die Frage, woher diess kommt, ob aus einer Eigen- thümlichkeit des Geistes der Nation, oder daher, dass andere Sprachen nur von der Vollständigkeit, die sie ehemals besassen, durch die Zeit einbüssten, führt zu schwierigen, aber interessanten Untersuchungen.</p>
+
+               <p>Die einzelnen Modos durchzugehen, welche wiederum jede dieser Conjugationen hat, verstattet der Raum hier nicht. Ich bemerke hier nur, dass die Modi des Könnens, Piiegens, Wollens und Müssens theils durch blosse Hinzufügung der, diese Begriffe ausdruckenden Vv^örter ä/, 0/, nai und gura., bear (s. das Wörterverzeichnisse zum Participio des Zeitworts, theils vermöge anderer Auxiliare gebildet w^erden. Diese Modi erschweren daher sehr wenig die Erlernung der Conjugation, und sind mehr verschiedene Gattungen von Zeitwörtern, als Modi der Conjugationen.</p>
+
+               <p>Eine in der That Kürze und Nachdruck ungemein befördernde Art Participien zu bilden, die ich in andern Sprachen nicht kenne,<pb n="3.266" xml:id="pbIII266"/> verdient noch besondere Erwähnung. Jede Person eines Verbi in jeder Zeit, jedem Modus und jeder Conjugation, mithin jede Modi- fication einer Handlung Ivann durch blosse Hinzufügung eines Ji am Ende des flectirten Auxiliars in ein Participium verwandelt werden. Maiteiuten dogu, wir lieben ihn; maitetuten dogu-n^ wir ihn liebende. Ein hübsches Beispiel, das zugleich den Nachdruck dieser Art zu reden zeigt, enthält folgende Strophe eines Wiegenliedes, in dem die Amme zum Kinde spricht:</p>
+
+               <p>Uauachiiba, lo^ lo^ lo^</p>
+
+               <p>Kindchen, schlafen, schlafen, schlafen,</p>
+
+               <p>Ceuc orain^ eta neue guero\ du jetzt, und ich nachher;</p>
+
+               <p>Cejic gura -d- o - zu-n egunen baten du wollen -cs-thust-du-end Tages eines d. i. eines Tages, wo du es -willst,</p>
+
+               <p>Bijoc eguingo dogu lo.</p>
+
+               <p>beide thun werden es wir schlafen.</p>
+
+               <p>d. i. werden wir beide schlafen.</p>
+
+               <p>Guradozun ist hier Participium, welches sich auf egunen baten bezieht, gleichsam eines du schlafen wollenden Tages. Da das n wohl nur eine Abkürzung von an^ en^ unserm in, ist, so wird durch diese Postposition die ganze Verbalform eben so fixirt, als wenn es hiesse: in dem, dass du willst. Es kann natürlich von diesen Participien so viele geben als Modificationen des Zeitworts vorhanden sind, und daher nimmt Astarloa bei jedem Verbo über 30,000 derselben an, was aber eine an sich unnütze, und in Rücksicht auf den Begriff' irre führende Rechnung ist. Larramendi erklärt in seiner Grammatik /. 274. diese Art zu reden so, als wäre das hinten angehängte n ein pron. relativwn. Allein diess ist offenbar unrichtig, und der Analogie der Sprache unangemessen.</p>
+
+               <p>Die Zeiten werden auf zwiefache Weise bestimmt: durch das Auxiliare und durch das Participium des Verbi. Das Auxiliare hat zwei Zeiten: eine vollkommene und eine unvollkommene (in sich ganze, oder noch fortwährende), die zum Praesens, Praete- ritum und Futurum gebraucht werden können. Diese drei letzteren Hauptabtheilungen zeigt das Participium, das darnach dreifach ist, an. Hieraus werden nun alle Zeiten ohne Schwierigkeit zusammengesetzt. Denn die beiden Zeiten des Auxiliars bilden<pb n="3.267" xml:id="pbIII267"/> mit dem pari, pracs. das Praesens und Imperfectum; mit dem pari, pract. das Perfectam und Plusquamperfectum u. s. f.</p>
+
+               <p>Von den Personen ist, nach dem schon im Obigen Gesagten, um einen Begrilf von dem Vaskischen ^'erbo im Allgemeinen zu geben, nur noch zu bemerken, dass das Wurzelwort jedes Zeit- worts immer die 3. pcrs. sing, noniin. mit der 2. pers. sing, accus. in der vertraulichen Anrede an Männer ist; z. B. Maitetuten au^ er liebt dich, o Mann!</p>
+
+               <p>Ehe ich diesen Paragraphen beschliesse, sollte ich noch der irregulären Conjugation erwähnen. Indess wird hier, wo eine vollständige Auseinandersetzung doch nicht Platz finden könnte, die Bemerkung hinreichend seyn, dass dieselbe gerade so gebildet wird, als die des Verbi aiixiliaris. Um diess genauer zu zeigen, setze ich die Personen des Praes. von dem Auxiliar etiqui und von dem irregulären ^"erbo jaqiiin in der 5. Conjugation (ich habe, weiss es) nach Larramendi (also im Guipuzcoanischen Dialekt) her.</p>
+
+               <p>Singular. Pers. I. d-e-t</p>
+
+               <p>2. d-e-c d-e-n d-e-zu</p>
+
+               <p>3d-eii</p>
+
+               <p>I. d-e-gu</p>
+
+               <p>2. d-e-zute</p>
+
+               <p>3d-u-te</p>
+
+               <p>Plural.</p>
+
+               <p>d-aqui-t d-aqiii-c d-aqui-n d-aqui-zu d-aqiii d-aqui-gu d-aqui-zute d-aqiii-te</p>
+
+               <p>§.23. S. 21. Litteratur.</p>
+
+               <p>Larramendis Wörterbuch ist bloss Spanisch-Vaskisch. Da nun diese Anordnung dem Sprachforscher wenig Hülfe gewährt; so ist meine erste Arbeit gewesen, nach dem Larramendischen Lexicon ein anderes Vaskisch-Spanisches (gleichsam ein Register zu dem- selben) anzufertigen. Dieses, das ich nachher aus andern Hülfs- mitteln vermehrt habe, ist dasjenige, dessen ich mich immer bei meinen Arbeiten über das Vaskische bediene.</p>
+
+               <p>Die S. 21. angeführte Schrift von de Lloris war mir bisher unbekannt; jetzt habe ich sie auf der Kaiserlichen Bibliothek in Wien gefunden. Nur ist der Verfasser nirgends in derselben genannt, und ich weiss nicht, wo Adelung die Notiz hergenommen<pb n="3.268" xml:id="pbIII268"/> hat, dass sie von de Lloris ist. Sie Ivann auf keine Weise dem Pater Larramendi den Vorzug streitig machen, das erste Vaskische Wörterbuch geliefert zu haben, da sie ein blosses Vocabularium und einige Paradigmen enthält. Sie ist übrigens im Labortanischen Dialekt geschrieben.</p>
+
+               <p>Eine der vorigen ähnliche, aber nicht ganz dieselbe Schrift mit ihr ist ein Tresor des trois langties Frangoise Espagnole et Basqiie — avec un memoire — compose de toutes sortes de inots tres curieux etc. A Bayo?me. Die Gespräche in beiden Schriften scheinen zum Theil aus einander, jedoch immer mit Veränderungen, entlehnt. Das Vocabularium fehlt in meinem Exemplar. Harriets Grammatik und Wörterbuch ist allerdings nur Ein Werk. Denn das letztere ist bloss ein, der ersteren angehängtes Vocabularium. Auch diese Schrift ist im Labortanischen Dialekt.</p>
+
+               <p>Bei Astarloa's Apologie hätte die Gerechtigkeit erfordert, zugleich zu sagen, dass, wenn sie auch viele sonderbare und übertriebene Ideen enthält, sie doch auch reich an treflichen Bemerkungen über die Vaskische Sprache ist, zuerst wahres Licht über ihren wunderbaren Bau anzündet, und nebenher interessante Untersuchungen über die Bedeutung der alten Städte- Völker- und Flussnamen der Spanischen Halbinsel und über den Vaskischen Kalender liefert.</p>
+
+               <p>Diese letzteren sind zum Theil gegen die auch von Adelung angeführte Schrift von Sorreguieta gerichtet, und beide müssen daher mit einander verglichen werden.</p>
+
+               <p>In dem Vocabularium Petropolitanwn sind die Vaskischen Wörter so unrichtig angeführt, dass unter den ersten 20 nur 8 fehlerfrei genannt werden können.</p>
+
+               <p>Eine Liste der bis zu seiner Zeit Vasldsch gedruckten Bücher liefert Larramendi in den Proleg. zu seinem Wörterbuche S. XXXIV.</p>
+
+               <p>Den hier von Adelung angeführten Schriften werde ich, da ein Werk, wie der Mithridates , vorzüglich bestimmt ist, das Sprachstudium durch litterarische Notizen zu erleichtern, noch einige gedruckte, dann ein Verzeichniss der handschriftlichen Hülfsmittel, die ich gesammelt, und endlich einige Nachrichten über Handschriften, die ich, aller angewandten Mühe ungeachtet, nicht habe auflinden können, beifügen.</p>
+
+               <p>Nomenclatura de las voces Guipuzcoanas, sus correspondientes Viz- caynas y Castillanas, para qiie sc puedan entender ambos dialectos.<pb n="3.269" xml:id="pbIII269"/> 4. S. S. Ein, nur bei weitem zu unvollständiges Verzeichniss derjenigen Wörter, welche dem Guipuzcoanischen und Vizcajdschen Dialekt eigenthümlich sind. Die erstcren sind in alphabetischer Ordnung mit den daneben gesetzten Mzcayischen und Castellanischen aufgeführt. Der \^erfasser, der Pfarrer Moguel in Mar- quina. einer der sprachkundigsten Männer in Bisca^^a, verspricht zugleich ein vollständiges Wörterbuch der drei Vaskischen Dialekte, das aber nie erschienen ist.</p>
+
+               <p>Die interessanteste in Vaskischer Sprache geschriebene Schrift, die ich kenne, ist eine Sammlung von ^^askischen Sprichwörtern, welche Oihenart gesammelt und \^askisch und Französisch heraus- gegeben hat. unter den Sprichwörtern kommen zugleich Bruchstücke von Volksliedern und in den Erläuterungen auch allerlei Volkssagen vor. Ich habe diese äusserst seltene Schrift nur auf der Pariser Bibliothek angetroffen, aber dort so gut als ganz abgeschrieben.</p>
+
+               <p>Ein unter dem sonderbaren Titel: giieroco guero (wörtlich: künftiges Künftig) von einem Priester Ascular in Sar, 1642. im Labortanischen Dialekt über den Aufschub der Busse herausgegebenes Buch ist darum merkwürdig, w^il der Verfasser vorzügliche Sorgfalt auf den Stil gewandt und seine philosophischen und religiösen Raisonnements mit Stellen aus den Alten durch- w^ebt hat.</p>
+
+               <p>Mmiual devotionezcoa. Eine Sammlung geistlicher Lieder, nebst einem Anhange von Gebeten im Labortanischen Dialekt. Bordeaux 1669. 8.</p>
+
+               <p>Testamen galiarreco eta berrico historica. Diese in Capitel ab- getheilten Erzählungen aus dem alten und neuen Testament sind aus dem (vermuthlich Französischen) Original eines Herrn von Royaumont ins Vaskische übersetzt, und in Bayonne 1777. herausgegeben. Ich besitze nur den 2. Theil.</p>
+
+               <p>Zw^ei neuere Catechismen, als die von Adelung angeführten; einer von D. Juan de Yrazuzta im Guipuzcoanischen, und ein anderer von D. Juan Antonio Moguel im Vizcayischen Dialekte.</p>
+
+               <p>Origen de la Nacion Bascongada y de sii le^tgiia. Compuesto por el coronel D. Juan de Perochegui, Teniente Provincial de Artilleria y Coinandante de la de este Reyno de Navarra. Pamplona 1760. 8. 105. S. durchaus unbedeutend.</p>
+
+               <p>Plan de antiguedades Espanolas reducido a 2. Articidos y 80 proposiciones, cuyo principal objeto se dirige a probar que las Monedas<pb n="3.270" xml:id="pbIII270"/> — antigicas Espanolas de car acter es Celtibericos y Beticos estan escritas por lo coinim en lengiia Bascofigada, por D. Luis Carlos y Zuniga. Madrid 1801. 8. 55. S.</p>
+
+               <p>Alfabeto de la lengua prhnitiva de Espana y explicacion de sus inas antiguos monumentos etc. por D. Juan Bautista de Erro y As- piroz, Contador principal por S. M. de Kenias reales, propios y arbi- trios de la ciudad y Provincia de Soria. Madrid 1 806. 8. ^00. S.</p>
+
+               <p>Diese beiden letztern Schriften erfordern eine genaue und umständliche Prüfung, zu welcher hier nicht der Ort seyn würde.</p>
+
+               <p>Georg August Friedrich Goldmann Commentatio, qua trinarinn Linguarum Vasconum, Belgariim et Celtariim, quaruin Reliquiae in Linguis Vasco7iica, Cymry et Galic super sunt, discrimen et diver sa cujusque ifidoles docetur, in certamine literario civiuin Academiae Georgiae Augustae 1807. praemio ornata. Gottingae 4. S. 64.</p>
+
+               <p>Diese kleine Schrift ist die einzige mir bekannte in Deutsch- land erschienene, in welcher mit einiger Ausführlichkeit von der Vaskischen Sprache gehandelt wird, und verdient insofern Aufmerksamkeit. Nur wäre zu wünschen gewesen, dass der Verfasser tiefer in das Wesen des Vaskischen, auch nur in so weit es nach Larramendi's Grammatik möglich war, eingegangen wäre, und wenigstens aus dieser einen vollständigen und gedrängten Auszug geliefert hätte. Jetzt dürfte, was er von dem eigenthümlichen Bau der Sprache anführt, ob er gleich ganze weitläuftige Paradigmen abdruckt, dem Deutschen Leser wenig genügend, noch nur überall verständlich se3^n. Was die Hauptfrage der Schrift betrift, so hätte sie gleichfalls anders gefasst werden müssen. Dass die drei auf dem Titel genannten Sprachen verschieden sind, bedurfte keines ausführlichen Beweises, da es beim ersten Anblick in die Augen leuchtet. Aber eine wichtige Frage ist es, ob diese Sprachen nicht, bei genauer etymologischer Untersuchung, eine nähere Verwandtschaft unter einander zeigen, als z. B. zwischen ihnen und der Deutschen oder der Griechischen vorhanden ist, und diese Frage hat der Verfasser kaum nur berührt. Denn statt auf die Wurzelwörter zurückzugehen, und diese zu vergleichen oder zu untersuchen, welche Silben und Lautverbindungen — ein Punct, auf welchem ganz vorzüglich die Aehnlichkeit und Verschiedenheit der Sprachen beruht — jeder derselben eigenthümlich sind, hat er nach den vornehmsten, bei allen Völkern vorkommenden Begriffen Register von Wörtern aufgestellt, welche, was das Vaskische betrift, viele zusammengesetzte, und einige offenbar<pb n="3.271" xml:id="pbIII271"/> fremde Wörter, ohne alle nähere Erläuterung und Absonderung, enthalten. Indess war es immer gut, durch die Beantwortung einer eigenen Preisaufgabe das noch sehr allgemein herrschende Vorurthcil, als wären die Vaskische, Kymrische und Galische Sprache nur drei verschiedene Mundarten der Celtischen, Ein für allemal auszurotten.</p>
+
+               <p>Handschriftliche H ü 1 f s m i 1 1 el.</p>
+
+               <p>Dictionnaire de la latigue Basqiie expUqtii en Frangois, compose par Silvain Pouvreaii, Pritrc du Diocese de Bourges, avec les obscr- vatiotis d/Arnaud Oilicnart cnvoyees a VAtitciir. Diess Wörterbuch befindet sich in der Pariser Kaiserlichen Bibliothek unter Nr. 7700. 'X,. 4. in zwei fast gleichen Handschriften, von denen die eine, welche Oihenarts Bemerkungen enthält, diesem geschickt gewesen zu seyn scheint, und Montfaucon gedenkt desselben in seiner Bibliotheca Bibliothccarum Mss. noua. T.W. Bibl. Colbertina p. 975. Nr. 3104. 3105. Obgleich diess Wörterbuch dem Larramendischen im Ganzen allerdings an Vollständigkeit und Brauchbarkeit nachsteht, so enthält es doch viele Wörter, w^elche jenem fehlen. Bei andern führt es mehrere, besser bestimmte, und gerade oft die ursprünglichen Bedeutungen an, die man in der Zeit, wo es verfasst wurde, wie auch Oihenart's Schriften beweisen, viel mehr aus der \'olkssprache zu schöpfen bemüht war, als es nachher bei Larramendi der Fall gewesen zu seyn scheint. Ausserdem aber lehrt es durch eine grössere Vielfachheit von Formen die Vaskische Wortbildung genauer kennen, und dient, da es im Labortanischen Dialekt verfasst ist, zu einer durch die ganze Sprache gehenden Vergleichung dieses Dialekts mit dem von Guipuzcoa. Von diesen beiden Handschriften besitze ich eine, von mir selbst in Paris gemachte Abschrift, bei der nur das durchaus Unnütze hinweggelassen ist.</p>
+
+               <p>Catalogo de voces Bascongadas con las con'espondencias Castel- lanas, dispuesto por D. T. M. de Aizpitarte, por cncargo del S. Conde de Peiiaflorida, Diredor de la R(eal) S(ocicdad) Bfascon^ada). (In Guipuzcoanischem Dialekt). Eine Probe eines Wörterbuchs, welches die Biscayische Gesellschaft herausgeben wollte. Sie enthält in alphabetischer Ordnung alle Vaskischen mit Ar anfangenden Wörter, und gewährt den einzigen Vortheil, dass sie alle Derivata und Composita jedes Worts vollständig angiebt, und dadurch die Vaskische Wortbildung besser übersehen lässt. Stammwörter be<pb n="3.272" xml:id="pbIII272"/>finden sich in diesem Stück nur sehr wenige mehr, als in Larramendi.</p>
+
+               <p>Tables des choses les plus iisuclles e7i gut'sc de Dicttofinatre Frangois et Basqiie pour im Frangois commengant a apprendre le Basque. Ein im Labortanischen Dialekt geschriebener Aufsatz von 28 Quartblättern. Diess, nach den Französischen Wörtern alphabetisch geordnete, aber nur bis in den Buchstaben S gehende Wörterverzeichniss kommt grösstentheils, doch nicht immer, mit dem in Harriets Grammatik überein, und obgleich die ganze Arbeit sehr mangelhaft und planlos ist, so enthält sie doch einige, sonst sich nicht findende Wörter und Bedeutungen.</p>
+
+               <p>Diese beiden letzten Aufsätze habe ich auf meiner Reise durch Biscaya erhalten.</p>
+
+               <p>Essai dhme graniinaire de la langue Basque par Fr er et. (f 1749.) Diese mir von Herrn St. Croix in Paris mitgetheilten Blätter enthalten eine kurze und nicht vollständige, aber zweckmässig abge- fasste Grammatik, in der man sogar einige wichtige Bemerkungen antrift, die man in den andern Sprachlehren vergebens sucht.</p>
+
+               <p>Plan de Lenguas, 0 Grammatica Bascoiigada e?i el dialecto Viz- caino por D. Pablo Pedro de Astarloa y Aguirre. 2. Voll. 4. Der Verfasser dieser, als ich sie sah, zum Druck bestimmten, aber noch nicht herausgegebenen Handschrift ist derselbe Astarloa, von dem die in Adelung angeführte Apologie herrührt. Er war Pfarrer in Durango, wo ich ihn besuchte, und wo er mir die Benutzung seines Manuscripts erlaubte, kam aber nachher nach Madrid. Wo er in den neuesten, für Spanien so verhängnissvollen Zeiten geblieben seyn mag? ist mir unbekannt. Dieses Werk sollte eine vollständige Auseinandersetzung des grammatischen und lexikalischen Baues der Vaskischen Sprache liefern, war aber, als ich es benutzte, noch nicht vollendet, und nicht in allen seinen Theilen gleich ausgearbeitet. Ich besitze genaue und vollständige, bei dem \' erfasser selbst gemachte Auszüge aus dem- selben, sowie auch von einzelnen Capiteln und Tabellen wörtliche Abschriften. Notizen von Manuscripten, die ich in Schriften angeführt finde, und in deren Aufsuchung vielleicht andere glücklicher, als ich, sind.</p>
+
+               <p>Ein Vaskisch - Spanisch - Französisch - Lateinisches Wörterbuch von dem D. D. Juan de Echeberria, gebürtig aus Sare im<pb n="3.273" xml:id="pbIII273"/> Ländchen Laoour, und zu Larramcndi's Zeit ausübendem Arzt in A2Coitia in Guipuzcoa, das er Larramendi hei einer Durchreise durch Azcoitia auf einige Tage miitheilte, und dessen auch Oihenart in seinen Zusätzen zu Pouvreaus Arbeit erwähnt.</p>
+
+               <p>Der bekannte Jesuit Du Halde (ein Basque, der eigentlich Uhaldia, ein nah am Wasser Wohnender, hiess, woraus mit Vorsetzung des Artikels &lt;/' sein gewöhnlicher Name entstand;! 1743.) hinterliess, aber in sehr unleserlicher Handschrift ein Vaskisches Wörterbuch in 3 Foliobänden, welches sich, wie man mir versichert hat, wenn es noch vorhanden ist, in Bordeaux finden muss.</p>
+
+               <p>Endlich ist ein sehr kurzes, mangelhaftes, mit Irrthümern angefülltes und durchaus unbrauchbares Vaskisches Wörterbuch, das ein gewisser Nicolaus Landuchius, ein Italiener, mit Hülfe einiger Biscayer zusammengestoppelt hat, nach Larramendi, noch in einer Handschrift der Königlichen Bibliothek in Madrid, wo es einem Italienischen und Französischen von demselben Verfasser angehängt ist.</p>
+
+               <p>§. 24. Sprachprobe.</p>
+
+               <p>Ich begreife nicht, warum Adelung, da er das S. 25. ange- führte Vater unser nach dem Guipuzcoanischen Dialekt aus Hen'as entlehnt hat, die dort richtige Orthographie durchgängig abgeändert hat. Da aber auch in Hervas dicss Gebet noch ganz fehlerhaft abgedruckt ist, so setze ich es hier, nach dem in Guipuzcoa gedruckten Catechismus, selbst her:</p>
+
+               <p>AzYa gtirea, Ceruetan zaudena'. santificatua izan bedi zure Icena'. betör gugana zure Rcinua i ) : eguin bedi zure vorondatea, nola ceruan, ala Im'reaw. egun iguzu gure egunoroco oguia: eta harca guizquigutztt <note type="footnote" n="2)" resp="gnd-118554727"><hi>2. pers, sing. Imperat. der Conj'ug. recipientis mit 3. pers. plur. accus, und i. pers. plur. dat. vergieb uns sie.</hi></note> gure zorrac, guc gure zordunai barcatcen diegun'i^ becela\ eta ez gaitz atzula 4) utci tentacioan er orten '. baicican 5) libra gaüzazu 6) gaitcetic 7). Amen Jesus.</p>
+            </div>
+
+            <div type="section" n="9">
+               <head>
+                  <title type="main">Anmerkungen.<note type="footnote" n="1)" resp="gnd-118554727"><hi>Sollte eigentlich Erreinua heissen.</hi></note><note type="footnote" n="3)" resp="gnd-118554727"><hi>Part. I. pers. plur. praes. iiidicat. der Conju^at. recipientis W. V. Humboldt, Werke. III. l8</hi></note></title>
+               </head>
+               <pb n="3.274" xml:id="pbIII274"/>
+               <p>mit der 3. fers, smg, accus, und 3. pers. plur. aat. wir sie ver- geben.</p>
+
+               <p>Die Formel S. 28. des Vizcayischen Dialekts ist noch unrich- tiger abgedruckt. Sie lautet nach dem Vizcayischen Catechismus folgendergestalt :</p>
+
+               <p>Aita guria Ceruhitan zagozana <note type="footnote" n="i)" resp="gnd-116890657"><hi>Zagoz ist die, auch im Guipuzcoanischen Dialekt übliche, und weniger von der gewöhnlichen Formation abweichende Flexion für zaude. Da sie sich mit einem Consonanten endigt, so wird zur Bildung des Participiums daraus, statt n, an darangesetzt.</hi></note> : saiitificadu bedi zure icena'. betör gugana zure Erreinuha'. eguin bedi zure borondatia, nolan cerubatt, ala lurrian'. egtcnian eguniango 1) gueure oguija egun tguzu '. eta parcatu eiguzuz gueure zorrac, guc gueure zordunai parquetan deutseguzan leguez 3) : eta <note type="footnote" n="4)" resp="gnd-118554727"><hi>la ist die Anhängsilbe, welche dass bedeutet, und eine Art den Optativ zu bilden ausmacht. Es ist also 2. pers. sing, praes. optat. der conjugat. mit der i. pers. plur. accus, dass du uns nicht lassest.</hi></note> ichi ez eiguzu <note type="footnote" n="5)" resp="gnd-118554727"><hi>Sondern vielmehr. 6) Dieselbe Form, als die vorige, aber ohne /0, und daher ein Imperativ: befreie uns.</hi></note> tentacionian 6) jausten <note type="footnote" n="7)" resp="gnd-118554727"><hi>Eüc, Postposition: von.</hi></note> bana libradu gaizuz gachetic. Amen.</p>
+
+               <p>Die Vergleichung dieser Formel mit der vorigen zeigt beim ersten Anblick den Unterschied beider Dialekte. Er besteht bloss in den oben angeführten ßuchstabenveränderungen, und den Flexionsformen der Zeitwörter. An die Stelle von ein Paar andern Wörtern sind in dieser Formel verschiedene, aber gleichbedeutende gesetzt.</p>
+            </div>
+
+            <div type="section" n="10">
+               <head>
+                  <title type="main">Anmerkungen.<note type="footnote" n="2)" resp="gnd-118554727"><hi>Diese beiden Wörter heissen zusammen täglich. E^un, Tag, ean, in, go, für, von der Zeit, also an dem Tage für an dem Tage, d. i. täglich.</hi></note><note type="footnote" n="3)" resp="gnd-118554727"><hi>Leguea, die Art, und mit der Postposition 5, von Art d. i. wie, gleichwie.</hi></note><note type="footnote" n="4)" resp="gnd-118554727"><hi>Ichi, itzi, 7äzi, itfci sind sämmtlich nur verschiedene Formen desselben Wortes.</hi></note><note type="footnote" n="5)" resp="gnd-118554727"><hi>Diese Beugung ist dieselbe, wie die obige, nur dass das Zeichen des plur. der pcrs. accus., das s am Ende, fehlt. So wie ich sie daher verstehe, heisst sie nicht, wüe die in der vorigen Formel: lass uns nicht fallen, sondern lass es mit uns nicht fallen, kommen u. s. f. Denn da die Characteristik der I. pcrs. plur. nicht vorn (wie in g-aitzat-zula)^ sondern in der Mitte steht, so ist sie nicht pcrs. accus., sondern dat.</hi></note><note type="footnote" n="6)" resp="gnd-118554727"><hi>T€ntacio7iia und tcntacioa sind Eins. 7) Jauci, wie crori, fallen. ^</hi></note></title>
+               </head>
+               <pb n="3.275" xml:id="pbIII275"/>
+               <p>Die Formel S. 28. des Labortanischen Dialekts ist bis auf folgende Kleinigkeiten richtig abgedruckt:</p>
+
+               <p>Z. 3. (des Gebets nemlich) statt here 1. hire. Z. 7. statt Ssorrac und Z. 8. Ssorduney 1. gorrac und gorduney. Z. 10. statt Jiirca 1. hirea, statt due 1. duc.</p>
+
+               <p>Z. II. muss Sccidacotz ein Wort seyn.</p>
+            </div>
+
+            <div type="section" n="11">
+               <head>
+                  <title type="main">Anmerkungen.</title>
+               </head>
+               <p>Aicena, Ais ist pers. 2. sing, praes. von naiz, ich bin. Hire. Die Französischen Basquen reden Gott im Gebet mit derjenigen 2. pers. sing, an, die nach den Biscayischen Dialekten in Spanien die vertraulichere, aber weniger höfliche ist. Daher hire, dein, in dieser Person (nicht zure) und daher die c am Ende der Beugungen der Zeitwörter, wo die andern Formeln zu haben.</p>
+
+               <p>Ere, auch.</p>
+
+               <p>E^imcco, täglich, die Endung des Adject. co mit einem da- zwischengeschobenen e an das Substantivum gehängt.</p>
+
+               <p>Gucere, wir auch.</p>
+
+               <p>Etzgaitzala, das Anfangs-^/fe ist die dem Verbo angehängte Negation.</p>
+
+               <p>Eraci'isi das Facti tivum \on Jauci, fallen, daher fallenmachen. Statt also, dass die vorigen Formeln sagen: lass uns nicht mit 2. Verbis, heisst es hier mit Einem: mach uns nicht. Sar ist hineingehen, hineinkommen. Etzgaitzala sar eraci heisst also: mache uns nicht hineinfallen.</p>
+
+               <p>Seculacotz, in Ewigkeit. Co die Adjectiv-, z die Adverbialendung.</p>
+
+               <pb n="3.276" xml:id="pbIII276"/>
+               <p>Ueber die Beugungsformen in allen drei Dialekten habe ich fast nichts gesagt, weil es zu weit geführt hätte. Wenn man sie aber folgendergestalt zusammenstellt:</p>
+
+               <p>Guipuzcoaniächer Vizcayischer Labortanischer Dialekt igu-u iguzu igiic guizquigutzu eiguzuz ietzaguc diegu deutsegu baitrauegu gaitzatzula</p>
+
+               <p>Ist nicht dieselbe.</p>
+
+               <p>S. Anm. 6.</p>
+
+               <p>gaitzala gaitzatzu gaizuz gaitzac SO findet man bei aller Verschiedenheit doch immer dieselbe Analogie. Denn dieselben Kennbuchstaben der Personen kehren immer in derselben Ordnung, erst accus., dann dat., dann nominat. wieder. Z. B. in den Formen dicgu, dciitscgti, haitraucgit., ist das d der beiden ersten und das / der letzten (denn bat ist Vorschlagssilbe des Conjunctivs) Char. 3. pers. sing, accusat, das e 3. pers. plur. dat., das gu i. pers, plur. nomiiiat. Die Wurzelsilben sind i, £11, rate. Dann bleibt bloss in der Vizcayischen ts, die Oiar. der conjug. recipientis übrig, die in den beiden andern nur durch die Anwesenheit von 3 Personen, welche nur in der Conjugat. reci- piente vorkommen können, angezeigt wird. Die Formen gaitzat- zula und gaitzala sind ganz gleich. Denn la gehört dem Optativ an; tzu in der ersten ist die 2. höflichere Person; statt dessen müsste die letztere gaitzac-la sagen, wenn nicht c des Wohllauts wegen wegfiele; und auf gleiche Weise lassen sich alle übrigen zergliedern.</p>
+
+               <p>Proben Vaskischer Schreibart und Dichtung,^) Das Vater unser enthält so einfache und kurze Sätze, dass kaum die Construction einer Sprache, viel weniger aber das, was den Stil in derselben bildet, darin sichtbar werden kann. Um nun auch in dieser Hinsicht, wenigstens durch kurze Proben,</p>
+
+               <p>V Erster Druck dieses Kapitels (ohne den ersten Absatz): Delbrücks, Erfurdts, Herbarts, Hüllmanns, Krauses und Vaters Königsberger Archiv für Philosophie, Theologie, Sprachkunde und Geschichte i, 277 — 29/ 11812J. Vater begleitet den Abdruck mit folgender Anmerkung: „Das zweite Jahr dieser Zeitschriß kann nicht interessanter beginnen als mit dem vaskischen Liede, dessen Alter und<pb n="3.277" xml:id="pbIII277"/> einen Begriff von der Vaskischen zu geben, werde ich hier zuerst einige \^erse aus dem ersten Capitel des Evangelium Lucas nach der Vaskischen Bibelübersetzung, dann eine aus Gefälligkeit für mich durch den Pfarrer Moguel übersetzte Stelle des Sallust, und endlich ein Altvaskisches Lied hersetzen, welches letztere hoffentlich sogar ein noch grösseres Interesse, als das bloss der Sprache envecken wird. I. Capitel des Evangelium Lucas. (Labortanischer Dialekt.)</p>
+
+               <p>V. I. 12345 Ccren anhitzec escic ccarri baitu</p>
+
+               <p>Da mancher Hand angelegt hat 87 6 10 narratione baten scribatzcra cornErzählung einer Schreiben-zum voll- 12 13 11 14 plitiiqiii giire arte-an certificatu kommen unsrer Mitte-in bestätigt 15 16 9 izan diraden ganze -z gewesen seyenden Dingen von</p>
+
+               <p>Da viele Hand angelegt haben zum Schreiben einer Erzählung von den (sich) in unsrer Mitte vollkommen bestätigt habenden Dingen ;</p>
+            </div>
+
+            <div type="section" n="12">
+               <head>
+                  <title type="main">V. 2.</title>
+               </head>
+               <p>14 13 15 16 Egagutze-ra eman draü eilten erkennen zu gegeben es uns haben</p>
+            </div>
+
+            <div type="section" n="13">
+               <head>
+                  <title type="main">I 3425 6</title>
+               </head>
+               <p>hegala lehen hats-etic ikussi dituzwie ersten Anfang-vom gesehen habenWie es uns zu erkennen gegeben haben die vom ersten Anfang es Inhalt gewiss jeden Leser ergreift und welchem Herr Minister Wilhelm von Humboldt eine treffliche Übersetzung und Erläuterungen beigefügt und einige prosaische Sprachproben vorausgeschickt hat; ich freue mich das Werkzeug ihrer Bekanntmachung sein zu können. Je wichtiger und noch uneröffneter das Feld der alten vaskischen Sprache und Literatur ist, desto mehr werden alle Freunde der Sprachen- und Menschenkunde dem gelehrten Staatsmann, der lange in dem itzt doppelt interessanten Spanien dem Studium seines ältesten Volksstammes und der Sprache desselben lebte, für das ausführliche Werk über denselben danken, dessen gehaltvolle Ankündigung diesen Blättern angeheftet ist."</p>
+
+               <pb n="3.278" xml:id="pbIII278"/>
+            </div>
+
+            <div type="section" n="14">
+               <head>
+                  <title type="main">7 10 9 8 II</title>
+               </head>
+               <p>tenec eta hitz-aren mmistre ican gesehen habenden, und Diener den und Wortes des Diener gewesen</p>
+
+               <p>12 diradenec seyenden des Wortes gewesenen; Niri - ere on iruditu tgan mir auch gut scheinen (perfectum) II 5 769 ciaitadac giicia Jiats - etic fin- hat es für dich alles Anfang von Ende 84 3 erano düigentqut comprehen- bis genau verstanden</p>
+
+               <p>12 19 18 20 dituric hiri pimctu - 5 puncäi habend dir Punct von Punct</p>
+
+               <p>17 22 21 13 16 hegaz scribaize -ra, 0 Theophile, davon schreiben zu o Theophilus 14 15 gucizko excellentea gänzlich vortreflicher so hat es auch mir für dich, o du ganz vortrefHcher Theophilus, gut geschienen, da ich alles vom Anfang bis zum Ende genau verstanden habe, dir von</p>
+
+               <p>Punct zu Punct davon zu schreiben ;</p>
+            </div>
+
+            <div type="section" n="15">
+               <head>
+                  <title type="main">V. 4.</title>
+               </head>
+            </div>
+
+            <div type="section" n="16">
+               <head>
+                  <title type="main">3 2 1 7</title>
+               </head>
+               <p>Hobiqui egagiit degan - gat ikassi Dass du besser die Wahrheit besser verstehen dass du thust lernen 8 9654 dituan gaiic - en egui - a habenden Dinge der Wahrheit die der Dinge, die du erfahren hast, verstehest.</p>
+            </div>
+
+            <div type="section" n="17">
+               <head>
+                  <title type="main">V. 5.</title>
+               </head>
+            </div>
+
+            <div type="section" n="18">
+               <head>
+                  <title type="main">3 564 Herodes Jitdcaco regue - ren</title>
+               </head>
+               <p>Herodes Jüdischen Königs - des 217 9 10 e^un-eta7i cen Zacharias deitzen Tagen - in den war Zacharias nennend</p>
+
+               <p>In den Tagen des Jüdischen</p>
+
+               <p>Königs Herodes war ein Priester,</p>
+
+               <pb n="3.279" xml:id="pbIII279"/>
+               <p>II 12 S i6 15 ccH Sacnficadorc bat Abia-rcn werdend Priester ein Abias - des</p>
+
+               <p>14 13 17 19 18 20 arald-dic: eta haroi cniaztca ceii Stamm - vom und dessen Weib war</p>
+
+               <p>24 23 22 21 25 27 Aaron-en alab - daric, da harcn Aarons des Töchtern-aus den imd deren 26 2S icoia Elisabeth Name Elisabeth genannt Zacharias, aus dem</p>
+
+               <p>Stamm des Abias; und seine</p>
+
+               <p>Frau war aus den Töchtern</p>
+
+               <p>Aaron, und ihr Name war EUsabeth.</p>
+
+               <p>2. Salin st ii Catilina. c. 58. (Guipuzcoanischer Dialekt.)<note type="footnote" n="*)" resp="gnd-116890657"><hi>Vom Pfarrer Moguel übersetzt.</hi></note></p>
+
+               <p>Ich weiss, Soldaten, dass Worte 2 I Ezagiduric daducat, Soldaduac, ich-halte-es Soldaten Erkannt</p>
+
+               <p>7 9 4 6 5 13 ez die - la itz - ac giiizon- nicht ihnen-thun-dass Worte-die Menschen- 12 II 10 8 14 ai azcortasun - ic er asten; ta den Stärke-irgend einige hinzufügen und 26 25 22 23 agiiiniari-aren iraiintsi ta Feldherrn - des Aufmunterungen und 24 21 18 20 15 eqiiiü - equin ez da - la Ermahnungen-mit-den nicht wird - dass 17 16 29 30 Soldautegui - a , nagui baldana</p>
+
+               <p>Heer - das träge weichlich 27 28 19 31 36 32 ba- da, pizcortzen , ez da ere wenn- ist abgehärtet nicht wird auch 34 33 35 beldurti - a sendotzen. furchtsame - das gestärkt.</p>
+
+               <p>den Menschen keine Kraft einflössen, und dass durch die Aufmunterungen und Ermahnungen des Feldherrn das Heer, wenn es träge und weichlich ist, nicht abgehärtet noch auch das furchtsame gestärkt wird.</p>
+
+               <pb n="3.280" xml:id="pbIII280"/>
+               <p>Anm. Die Endung ic in ezagutu-r-ic und azcortasun-ic hat einen eigenen, im Deutschen mit gleicher Kürze nicht hervorzubringenden Nachdruck. Sie bedeutet, dass die Sache sich auf alle und jede Weise und schlechterdings so, oder nicht so, verhalte. Ezagniiiric ersetzt also vollkommen das Lateinische : compertum ego habeo, und ez azcortasunic verneint viel mehr, als das blosse virtutem non addere.</p>
+
+               <p>546 871 Bere - z ta jalorri-z bezala Sich selbst-von und Xatur - von wie</p>
+
+               <p>Wie jeder von sich und von hacoitzac duena, aguertu - co jeder thuend erscheinen ('C/zar.yi&lt;fJ 10 15 14 13 12. du escu - etara datorren - ean. er-thut Händen-zu-den er-kommend-wenn.</p>
+
+               <p>Natur handelt, so wird er, zum</p>
+
+               <p>Handgemenge Ivommend , er- scheinen. Alperr - zc Vergebens - gänzlich 5 2 egtnn - go</p>
+
+               <p>3 4 jardu7i ta sich mühen und 6 9 diozii, irriscu ermahnen (Char.flit.) duihmthust Ehrgeiz 10 13 12 II 14 8 ta icen on - ac iguitzen ez und Name gute - der bewegen nicht</p>
+
+               <p>15 7 duen - ari. thuenden-dem</p>
+
+               <p>Vergebens wirst du dich abmühen, und denjenigen ermahnen, welchen der Ehrgeiz und gute Name nicht bewegen.</p>
+
+               <p>Timor aiiimi auribus officit. 2 3 I Biotzeco beldurr - ac conAdject. von Herz Furcht - die 456 cortzen ditu belarri - ac.</p>
+
+               <p>thut-sie Ohren - die.</p>
+
+               <p>Anm. Concortzen ist mir durchaus unbekannt, und fehlt in meinen Wörterbüchern. Es kann jedoch vielleicht von gorra, taub, herkommen.</p>
+
+               <p>Fragment eines Altvaskischen Liedes.</p>
+
+               <p>Es war einer der hauptsächlichsten Zwecke meiner Reise durch Biscaya, die Spuren aufzusuchen, welche aus der ältesten<pb n="3.281" xml:id="pbIII281"/> Geschichte und dem ältesten Zustande des Volks etwa noch in alten Sagen oder Xationalgesängen übrig gehlieben seyn möchten. Ich fand mich aber bald gänzlich in der Hofnung getäuscht, hien'on etwas Bedeutendes aufzufinden. In keinem Lande vielleicht ist es dem misverstandenen Eifer der ersten christlichen Bewohner so sehr gelungen, alle Ueberreste des heidnischen Alter- thums zu vernichten, als in diesem. Weder von der Verfassung, noch der Religion, noch den Sitten der alten Vasken kann man sich einen, nur irgend befriedigenden Begrilf verschalten, und kaum haben sich einige dürftige Spuren dieser älteren Zeit in der Sprache, den einheimischen Benennungen der Monate und Wochentage, einigen wenigen (da der grössere Theil auch durch die Namen der Heiligen verdrängt ist) Eigennamen, Nationaltänzen, Volksmärchen u. s. f. erhalten. \^on alten Nationalliedern habe ich schlechterdings nur das folgende, leider höchst mangelhafte Frag- ment aufgefunden, dessen Alter selbst noch, aus mehr als einem Grunde, zweifelhaft scheinen kann.</p>
+
+               <p>Es wurde mir im Lande selbst mitgetheilt, und rührt aus einer in mehr als 14 Foliobänden bestehenden Manuscripten- sammlung her, welche ein gewisser Juan Ibaiiez de Ibarguen machte, als er um das Jahr 1590. den Auftrag erhielt, die Archive von Simanca und von Vizcaya zu durchsuchen. Fünf dieser Bände befanden sich noch zu meiner Zeit in dem Hause des Herrn Illugartegui in Marquina, und in einem derselben steht das gegen- wärtige Bruchstück. Ibarguen fand, wie er dabei anmerkt, diess Lied auf einem alten, schon halb von Würmern zerfressenen Pergament, es war sehr lang, er begnügte sich aber, nur die hier folgenden iß Strophen abzuschreiben. Der Ueberrest ging un- streitig nachher verloren. Zum leichteren Verständnisse dieses Fragments, das ich hier im Original und in einer Uebersetzung, die, bei fast buchstäb- licher Treue, doch auch zugleich einen Begriff des Rhythmus geben kann, hersetze, muss ich folgende Bemerkungen voraus- schicken.</p>
+
+               <p>Als August die Cantabrer besiegte, zogen sie sich auf einen hohen Berg zurück, auf dem die Römer sie durch Abschneidung aller Lebensmittel zur Uebergabe zu zwingen suchten. Auf diesen Umstand spielt das Lied, das, soviel man sehen kann, vom Can- tabrischen Kriege handelt, an. Der Cantabrische Feldherr hiess üchin. Diess scheint aus dem Gedichte selbst hervorzugehen.<pb n="3.282" xml:id="pbIII282"/> Ibarguen bestätigt es auch, als eine ihm sonst bekannte Sache, und setzt hinzu, dass dieser Uchin nach dem Frieden nach Italien überging, dass er auch Urtino hiess, und dass von ihm das Italienische Geschlecht der Urbinos abstammt. So verdächtig auch durch diesen letztern Umstand seine vielleicht nur zur Bestätigung dieser Etymologie erfundene Erzählung wird, so ist doch gevv'iss, dass Urbinum ein Vaskischer Name ist. Als Ortsname bedeutet er einen an zwei Wassern liegenden Ort, und es giebt in Alava noch jetzt ein Dorf Urbina. Unmittelbar nach dem Frieden scheinen die Cantabrer einen Anführer Lecobidi gehabt zu haben.</p>
+
+               <p>Die erste Strophe bezieht sich auf eine Sage, welche gleich- falls Ibarguen, und wie er versichert, nach dem Zeugniss einer alten Schrift erzählt. Lelo war ein angesehener Mann in Vizcaya. Während eines Feldzuges, den er ausserhalb seines Vaterlandes zu machen genöthigt war, trieb seine Frau Tota Buhlschaft mit einem gewissen Zara, und wurde von demselben schwanger. Lelo kehrte zurück, und die beiden vereinigten sich, ihm das Leben zu rauben. Der Mord gelang ihnen, aber die That wurde ruchtbar, und man beschloss in einer Versammlung des Volks, in der die beiden Ehebrecher aus dem Lande verwiesen wurden, dass bei dem Anfange jedes Gesanges immer zuerst des unglücklichen Lelo erwähnt werden sollte. Wirklich erinnern sich alte Personen noch eines Liedes, dessen Refrain ist:</p>
+            </div>
+
+            <div type="section" n="19">
+               <head>
+                  <title type="main">Lelua7i, Lelo, An Lelo, Lelo,</title>
+               </head>
+               <p>Leluan dot gogo. An Lelo gedenk' ich. und das Vaskische Sprichwort betico Leloa, das ewige Lelo, welches man gegen die zu häufige Wiederholung derselben Sache gebraucht, scheint sich auf diese Erzählung zu beziehen. Be- merkenswerth ist noch die Aehnlichkeit dieser Sage mit der Ge- schichte Agamemnons. Allein auch in andern Biscayischen Volksmärchen kommen Griechische Geschichten und Mythen unter einheimischen, und selbst oft unter Heiligennamen vor.</p>
+            </div>
+
+            <div type="section" n="20">
+               <head>
+                  <title type="main">I. I.</title>
+               </head>
+            </div>
+
+            <div type="section" n="21">
+               <head>
+                  <title type="main">Lelo! il Lelo, Lelo! — todt Lelo, Lelo! ü Lelo, Lelo! — todt Lelo, Leloa! Zarac Lelo! — Zara ward</title>
+               </head>
+            </div>
+
+            <div type="section" n="22">
+               <head>
+                  <title type="main">// Leloa. Mörder Lelo's.</title>
+               </head>
+               <pb n="3.283" xml:id="pbIII283"/>
+               <p>Romaco aronac alcgiiin, cta Vizcaiac daroa ^ajisoa.</p>
+
+               <p>2.</p>
+
+               <p>Die Fremdlinge Roma's entboten Kraft, und Mzcaya erhob da Siegsgesang. Odahiano mimduco jauna, Lecohidi Vizcaicoa.</p>
+
+               <p>4. Ichasotatic, eta leorrez iviini deuscu 77iolsoa.</p>
+
+               <p>Octavianus der Welt Beherrscher; Lecobidi</p>
+
+               <p>Vizcayischer.</p>
+
+               <p>4.</p>
+
+               <p>Her von dem Meere und von der Feste setzet' er rings um uns Belagrung. Lcor celaiac bereac dira, mendi tajitaiac leusoac.</p>
+
+               <p>6. Lecu tronean gagozanean, norberac sendo dau gogoa.</p>
+
+               <p>Die dürren Ebnen die seinen waren; des Berges Dickicht Dunkelheit.</p>
+
+               <p>Wenn an günstigen Ort gestellt wir sind, hat sicheren Muth jeglicher.</p>
+
+               <p>/• Büdiirric guichi arvia bardinas, oraviaia zu guexoa.</p>
+
+               <p>8. Soyac gogorrac badirüuis, narru bülotsa surboa.</p>
+
+               <p>Des Zagens wenig bei Waffengleichheit; Trog des Brodes, du erkranktest.</p>
+
+               <p>Hartes Waffenkleid wenn jene tragen, der wehrlose Leib behende.</p>
+
+               <pb n="3.284" xml:id="pbIII284"/>
+               <p>Bost urteco egun gahean gueldi bagaric bochoa.</p>
+
+               <p>10.</p>
+
+               <p>Gtireco lata il badaguian. bost amarren galdua.</p>
+
+               <p>II. Aec anis ta gu guichitaia ; azqiien indugu lalboa.</p>
+
+               <p>Fünf Jahre lang,</p>
+
+               <p>Tages und Nachtzeit ohn' einige Ruh Umzinglung.</p>
+
+               <p>10.</p>
+
+               <p>Der Unsren einen wenn sie mordeten, fünf Zehende sie verloren.</p>
+
+               <p>1 1. Doch jene viele, und wir geringe Schaar; zuletzt machten wir Freundschaftsbund.</p>
+
+               <p>12. Gueure lurrean, ta aen errian, biroch am baten zamoa.</p>
+
+               <p>13- Ecin gueyago (Die andern Verse dieser Strophe waren nicht mehr zu lesen.)</p>
+
+               <p>14. Tiber lecua gueldico zabal, Uchin tamaio grandoja.</p>
+
+               <p>15Unlesbar.</p>
+
+               <p>16.</p>
+
+               <p>Andi arühac guesto sindoas betigo naiaz nardoa.</p>
+
+               <p>12.</p>
+
+               <p>In unserm Lande und jener Gebiet, — passend Band jeder Saumthierslast !</p>
+
+               <p>13Nicht möglich ist mehr</p>
+
+               <p>14.</p>
+
+               <p>Die Stadt des Tibris ruht weit gelagert,</p>
+
+               <p>Uchin (tamaio ist unbekannt, vielleicht ein Beiname Uchins.) übergross.</p>
+
+               <p>15lö.</p>
+
+               <p>Die starken Eichen erkranken an Kraft von des Spechtes stetem Besteigen.</p>
+
+               <pb n="3.285" xml:id="pbIII285"/>
+               <p>Ich bin bei der Uebersetzung dieses, in einigen Stellen sehr dunkeln Liedes dem Commentar eines Biscayischen Gelehrten gefolgt, und behalte die Erläuterungen der einzelnen Wörter meiner ausführlichen Schrift vor. Hier war es genug, das Original zu liefern, und die Uebersetzung demselben so nahe zu bringen, als, ohne gänzliche Unverständlichkeit, nur immer möglich war. Der Zusammenhang der Gedanken in diesen Strophen, in denen fast alle vermittelnde Uebergänge fehlen, — dass nemlich die Römer die Ebne besassen, und die Vasken von den Bergen aus, und mehr mit List, als mit Gew^alt, sie abwehrten, dass, ungeachtet der ungleichen Bewaffnung, nicht sowohl der Krieg selbst, als jNIangel an Lebensmitteln sie zum Vertrage nöthigte, dass, wie jede Last mit einem ihr angemessenen Bande befestigt worden, so auch jedes Volk seinen \^erhältnissen gemäss handeln muss, dass doch auch nach dem Kriege Mzcaya kräftig blieb, und das grosse Römische Reich durch diesen Krieg, wie die Eiche durch das ewige Bohren des Spechtes, beträchtlich litt — ist jedem, ohne weitere ausführlichere Erläuterung, von selbst klar.</p>
+
+               <p>Die Biscayischen Gelehrten schreiben diesem Liede ein über- aus hohes Alter zu, und setzen es in die ersten Jahre nach dem Cantabrischen Ivriege. Hiergegen lassen sich nun zwar manche Zweifel erheben, unter denen der darin vorkommende Name Viz- caya, den man erst viel später findet, einen der bedeutendsten er- regt. Allein sicher bleibt es immer, dass, sowohl der Sprache, als dem Rhythmus nach, diess Lied weit über alle uns bekannte älteste Spanische Dichtung hinauszugehen scheint. In der Sprache herrscht eine gewisse rauhe, abgebrochene Kürze; fast alle verbindenden Zeirsvörter sind ausgelassen, (das dau in der sechsten Strophe scheint mir, da es das Silbenmass stört, eine später hineingekommene Verbesserung*),) alle in diesen Strophen gebrauchte Wörter sind, gänzlich ohne Vermischung mit fremden, echt Vas- kisch, das einzige grandoja ausgenommen, das aber selbst vielleicht auch Vaskisch (von gora, hoch, und andia, gross) ist; einige sind jetzt ausser Gebrauch, und fast unverständlich. Der ganze Ton endlich hat etwas Alterthümliches, und trägt das Gepräge</p>
+
+               <p>•) Der letzte Vers hat nemlich immer nur drei Silben. Zwar hat die erste und dritte Strophe auch viersilbige Endverse. Allein in jener liest man vielleicht besser:</p>
+
+               <p>Lelol il Zarac Leloa und in Vizcaicoa flössen die beiden letzten Silben vielleicht zusammen.<pb n="3.286" xml:id="pbIII286"/> der Rauhheit eines ungebildeten Bergvolks; die beiden einzigen darin vorkommenden Gleichnisse (Str. 12. 16.) sind von einer Einfachheit, und man kann wohl sagen, Dürftigkeit, dass sie sich ein späterer Dichter nicht erlaubt haben würde. Was endlich das Silbenmass betrift, so sind nicht bloss die jetzigen, sondern alle Vaskischen Lieder, die mir vorgekommen sind, offenbar den Spanischen und andern ausländischen nachgemacht. Sie haben Reime, oder xVssonanzen, und bestehen aus vier-, acht-, zehnzeiligen Strophen. Das gegenwärtige Lied aber hat offenbar keine Reime, wenn auch zufällig sich zwei in der fünften und sechsten und allenfalls zwölften Strophe, sowie Assonanzen in der zweiten und achten finden; dagegen giebt der letzte Vers jeder Strophe, der immer in a, nur ein einziges Mal in ac ausgeht, dem Ganzen doch einen Anklang von Reim. Die drei ersten Verse jeder Strophe sind, mit wenigen, noch vielleicht durch fehlerhaftes Ab- schreiben entstandenen Ausnahmen, immer fünfsilbig, und der, ohne Ausnahme, aus einem einzigen dreisilbigen Vv^'ort bestehende Schlussvers verbindet die Verse jeder Strophe zu einem Ganzen und trennt eine von der andern auf eine dem Ohre nicht ungefällige Weise. Um den Contrast zwischen diesem und den andern Vaskischen Gedichten noch deutHcher zu zeigen, will ich hier eine Strophe desjenigen abschreiben, das unter allen bisher bekannten das älteste war, und das Schlözer (Allgemeine Weltgeschichte Th. 31. S. 341.) in den Anfang des 14'!!? Jahrhunderts setzt. Jeder- mann wird dann unstreitig fühlen, dass diese Strophe in Ton und in Rhythmus den Spanischen Romanzen sehr nahe steht, da hingegen das gegenwärtige Lied einen durchaus fremden, und mehr alterthümlichen Charakter an sich trägt.</p>
+
+               <p>Mila iLfte ygarota, ura vede videan,</p>
+
+               <p>Guipuzcoarrac sartu dira Gaztekico echean,</p>
+
+               <p>Nafarroqid7i hatiL dira Beotibaren pelean.</p>
+
+               <p>Als tausend Jahre vergangen waren, das Wasser seinen Weg floss, da drangen die Guipuzcoaner in das Haus des Gaztelu, stiessen zusammen mit den Navarrern in dem Kampfe Beotibars.<pb n="3.287" xml:id="pbIII287"/> Der Dialekt, in welchem diess Lied gedichtet ist, scheint zwar nach den Formen des Hülfszeitworts dciiscu, dau der von Vizcaya. Allein dann müssten die sich in o endigenden Substantiva diess o in u verwandeln. Es herrscht also hierin, vcrmuthlich durch Schuld des Abschreibers, keine rechte Gleichförmigkeit. Ich habe mir indess keine Aenderung erlauben wollen, sondern überhaupt die Orthographie so gelassen, wie sie in der mir mitgetheilten Abschrift war, obgleich, wo hier ^ gebraucht sind, gewöhnlich z ge- braucht werden.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

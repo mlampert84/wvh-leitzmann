@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gedichte der Königsberger Zeit</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Neunter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif09humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1912">1912</date>
+                  </imprint>
+                  <biblScope unit="page" from="64" to="71"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1809">1809</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="9.64" xml:id="pbIX64"/>
+            <p>6.</p>
+
+            <head>
+               <title type="main">Gedichte der königsberger Zeit.</title>
+            </head>
+            <p>a. Verlobungslied. ^) An Graf Friedrich von Dohna und Fräulein Julie von Scharnhorst.</p>
+
+            <p>Wer ist, die dort — wie in Morgens Erglühen die Rose mit Thaue getränket — die Blicke, die schüchtern den Blicken entfliehen, erröthend zur Erde senket, 5 die schauet vom Vater zum Vater hin?</p>
+
+            <p>als flüsterte leis sie in zweifelndem Sinn: „Ach! soll ich vom trauten Hause denn scheiden? und kühn mich dem neuen vertraun? Ich bebe vor Schmerz, ich bebe vor Freuden, lo kann vorwärts, kann rückwärts nicht schaun.</p>
+
+            <p>Mich hält, und mich ziehet der Liebe Band, mich fesselt und löset liebende Hand." Es ist, es ist die liebliche Braut; sie steht am Verlobungsaltar, 15 vom Dufte der blühenden Jugend umthaut, die Myrte im bräunlichen Haar.</p>
+
+            <p>Es hat ihr der Jüngling das Herz bezwungen, der treu sich ihr lange geweihet, er hat den köstlichen Preis nun errungen! 20 Was seltenes Schicksal verleihet. V Handschrift ß Folioseiten) im Archiv in Tegel. 2 „mit" verbessert ans „von". — 14 „sie" verbessert aus „die".</p>
+
+            <pb n="9.65" xml:id="pbIX65"/>
+            <p>die Krone der Bräute, sie ward ihm zum Lohn; zu den Eltern nun führt sie der glückUche Sohn. Nichts reichet von allem, was Menschen beschieden, an der Liebe des Weibes Glück. 25 O ! wer sie besitzet, der athmet in Frieden, auch mitten in schwarzem Geschick.</p>
+
+            <p>Auf Felsen hat er sein Haus gebaut, und sicher er nun dem Busen vertraut.</p>
+
+            <p>Denn wohl, wie Felsen, ist Weibes Treu, 30 und nimmer und nimmer sie wankt.</p>
+
+            <p>Sie wird mit jeglichem Morgen neu, wo einmal sie fest sich gerankt.</p>
+
+            <p>O, möchten, wie die Stirn in lieblichem Spiele die bräutlichen Locken umwehen, 35 die Lose des Lebens in frohem Gewühle sich auch um Euch, Glückliche, drehen ! Doch, ach ! es vermählt Euch stürmische Zeit, gewapnet zu blutigem, wildem Streit. Doch wo sich Kämpfe dem Starken bereiten, 40 da wächst ihm die Kraft in der Brust, und Männer und W'eiber erziehn sich die Zeiten, des Muths sich hochherzig bewusst. Und nirgend, soweit sich die Welle wiegt, uns ein Land in dem Preise der Frauen besiegt. 45 Als mächtig mit Varus ihr Herrmann stritt, da zagte Thusnelde nicht; sie trat entgegen mit kühnem Schritt dem Feinde ins Angesicht.</p>
+
+            <p>O, segnet, die hoch ihr den Himmel umthronet, 50 und die Lose des Schicksals bewahret, die Stirn, wo weibliche Hoheit wohnet, mit weiblicher Demuth gepaaret, den Jüngling, erglühend für Wahrheit und Recht: lasst beiden entspriessen ein herrlich Geschlecht! SS Es welken die Menschen dahin, und fallen, wie herbstlich erschrumpfendes Laub; 53 „erglühend" verbessert ans „der heiss entbrennt". W. V. Humboldt, Werke. IX.</p>
+
+            <pb n="9.66" xml:id="pbIX66"/>
+            <p>nicht Einer bleibt von den Tausenden allen, der Zeit wird jeder zum Raub. Doch der Funke, der hell der Brust entsprüht, 60 auch ewig und ewig die Menschheit durchglüht.</p>
+
+            <p>Was einmal lebendig im Busen war, das pflanzet und pflanzet sich fort, und stellet sich, nimmer vergehend, dar in That und in sinnigem Wort. 65 Geh, Lied, nun und sprich: „o lasset mich ein, der Liebe auch Blumen der Freundschaft zu streun!</p>
+
+            <p>Doch wer mich gesendet, dem fraget nicht nach ; was kümmert ein Name am glücklichen Tag? Er liebet euch beide, er sah euch im Stillen, 70 er sendete Wünsche fromm für Euch empor, die möge mit günstigem Ohr gerecht nun der Himmel erfüllen!</p>
+
+            <p>Auch er stand einst am Verlobungsaltar, in zukunftahndendem Sinn; 75 es reichte die Liebe die Rechte ihm dar; hin schwand seitdem manch scheidendes Jahr, und glücklicher wurde sein glückliches Loos in häuslichen Kreises liebendem Schooss, und hätt' ihm das Schicksal nicht früh sie geschicket, 80 und fand' er erst heute, die jetzt ihn beglücket, er stellte noch heute sich hin."</p>
+
+            <p>Königsberg, den 4. Julius, 1809.</p>
+
+            <p>b. In Graf Strogonoffs Stammbuch.^) Wie zu eines heiigen Tempels Hallen, an der Hofnung schwesterlicher Hand, Gläubige von weit entferntem Land scheu, der Liebe nur vertrauend, wallen; 5 also zeichn' ich meiner Töne Lallen</p>
+
+            <p>66 „der Liebe auch" verbessert aus „die"; nach „Freundschaft" gestrichen: „zu Blumen der Liebe".</p>
+
+            <p>y Handschrift (i Folioseite) im Archiv in Tegel. — Erster Druck: Wilhelm und Karoline von Humboldt in ihren Briefen ^, 206 (igog).</p>
+
+            <p>i „eines heiigen Tempels" verbessert aus „heiigen Tempels stillen".</p>
+
+            <pb n="9.67" xml:id="pbIX67"/>
+            <p>schüchtern in dies Buch, wo, nah verwandt, von des Lemans und des Tibris Strand theure Laute mir entgegenschallen. Sehnsucht, wehmuthsvoll und schwer zu zügeln, hat beim Lesen mir die Brust durchbebt. Lass sie unsern Freundschaftsbund besiegeln, Edler Fremdling! denn auch Dich belebt stets Verlangen nach den heiigen Hügeln, um die ewig stille Grösse schwebt.</p>
+
+            <p>Königsberg, den 31. Julius, 1809.</p>
+
+            <p>c. Der Garten.^)</p>
+
+            <p>Ich lebt' in einem holden Wundergarten, wo Blumen schönen Dufts und bunter Farben, die, ohne dass sie Gärtnershände warten, der Anmuth nie, und nie der Frische darben; 5 ich wandelte mit innigem Ergetzen, an dieser bald, an jener mich zu letzen.</p>
+
+            <p>Doch jetzt hat über felsumstarrte Pfade das Schicksal mich dem Paradies entrücket, und mich geführt an ferne Meergestade, 10 wo schwier Gewölk den trüben Himmel drücket; ich sah die sieben Hügel rückwärts fliegen, und hinter mir blieb, was ich liebte, liegen.</p>
+
+            <p>Auch hier schaut' ich der Blumen manche spriessen, die süsser Reiz und holde Anmuth kränzet, 15 und laden zart zu sinnigem Geniessen, wenn minder auch der Farben Teppich glänzet. Denn fester hält mit tieferem Verlangen der würzge Duft den irren Sinn gefangen.</p>
+
+            <p>V Handschrift (2 Folioseiten) im Archiv in Tegel. — Erster Druck: Deutsche Rundschau 144, JJ5—336 (Septemberheft igio).</p>
+
+            <p>I „weilte'' über „lebte lang"' über „war" über „lebt". — 2 „stehen Blumen viel" über „Blumen schönen Dufts". — 10 „schwer" verbessert aus „trüb"; „trüben" verbessert aus „schweren". — ij „schaut'" verbessert aus „sah"; „manche" verbessert aus „viele". — 16 „der Farben Teppich" verbessert aus „der Schmelz der Farben" aus „der bunte Teppich". — 17 „Denn fester" verbessert aus „so"; „tieferem" verbessert aus „tiefer innigem".</p>
+
+            <pb n="9.68" xml:id="pbIX68"/>
+            <p>Allein zu keiner sehnend hingezogen, 20 wähnt' ich mich frei von jenem zarten Neigen, bei dem, in süssem Auf und Nieder Wogen, in Einem jegliche Gefühle schweigen. Ich scherzte kühn mit unbefangnen Lippen, und glaubt', aus vollem Becher leicht zu nippen. 25 Da kam — ich ging nicht nah — da bog — sie wandte sich nicht zu mir: wie trafen wir zusammen.' — ein Blümchen, das bisher mir keiner nannte. mir ins Gesicht, und Funken wurden Flammen.</p>
+
+            <p>\'on allen Blumen, die im Ganen stehen. 3«i will nun der Blick allein zu ihr sich drehen.</p>
+
+            <p>Und aus streckt sich die Hand, denn sanfte Milde strahlt aus dem zartgefärbten Blätterbaue, doch starret plötzlich, wie vor heiigem Bilde, wenn schwer der Kelch sich neigt von Himmelsthaue. 35 O! wem dies Blümchen nicht gelingt zu pflücken, den können Blumen fürder nicht beglücken.</p>
+
+            <p>Soll ich die Holde schildern nun und nennen : — Sie stehet still an einer Ganenecke, sche'mt ihrer Würze Balsam nicht zu kennen, ^^ und trachtet nur, dass sie sich mehr verstecke; doch wer sie einmal sah, geht nie vorüber: das Blümlein heisst: je länger, ach! je lieber!</p>
+
+            <p>Königsberg, den 20. September, 1S09.</p>
+
+            <p>d. Der Herbstmorgen.*) Tn Nebel Hegt die Gegend halb verhüllet. und rings umziehet sie ein dichter Flor. JO j^ttäla^ über ,yzarlen". — 2/ gangem" über „süssem^. — 26 ,p-afen** — - ' .)iameit*. — jo „nnll nun der" verbessert aus „wollte der" aus</p>
+
+            <p>:• aus Jiann ich den". — ^ .^zartgefärbten" verbessert aus „zarts ^angefärbten". — jj. t,neigl" verbessert aus ,JüUt". — jC Jiönneft</p>
+
+            <p>."t 1 aus Jionn auch Liebe". — J7 ^e — uni" verbessert aus</p>
+
+            <p>•ie HoiS Euch" aus y^ch nun die holde Blume". — 40 „sie</p>
+
+            <p>. n aus ,/nehr sie sich". — 4.1 „nie" verbessert aus „nicht".</p>
+
+            <p>2 Quartseäen) im Archiv in Tegel. — Erster Druck: Deutsche</p>
+
+            <p>- (Septemberheß igio).</p>
+
+            <p>i aus „Dttnkef ; yjialb verhüllet" verbessert aus ,pej ge- 2 entziehet — Flor" verbessert aus „umzieht sie dichter Nebelßor^'.</p>
+
+            <pb n="9.69" xml:id="pbIX69"/>
+            <p>der Strahl, der matt der Sonne Bild entquillet, bricht mühsam durch den grauen Duft hervor. 5 Und die mir ewig Herz und Busen füllet, ruht noch an später Träume Morgenthor. O! möchten nun ihr durch die luftge Pforte vernehmlich schallen meiner Sehnsucht Worte.</p>
+
+            <p>Oft ging ich hier, sah auf den frischen Matten lo der Bächlein Krümmungen sich lieblich ziehn, sah ihre Ufer Bäume hoch umschatten, und mit des Himmels Blau des Laubes Grün in dichtverschränkter Aeste Wölbung gatten. und Blumen ihre Wurzeln breit umblühn. IS Doch stillte nichts die schweifenden Verlangen, die stets umsonst mit ferner Sehnsucht rangen.</p>
+
+            <p>Jetzt wie erscheint neu alles meinen Blicken! Sinds nicht die altbekannten Gründe mehr?</p>
+
+            <p>der Thäler Buchten, und der Hügel Rücken, 20 des Stromes Flut, eilend zum nahen Meer?</p>
+
+            <p>Können Gefühle, die die Brust durchzücken, so wandeln die Gestalten hin und her?</p>
+
+            <p>Die kalt und fühllos sonst mich stets gelassen, vermag jetzt kaum das arme Herz zu fassen? 25 Muss ich denn von der neuen Heimath scheiden?</p>
+
+            <p>sie blutend reissen aus der wunden Brust, die niegefühlten Schmerz und neue Freuden ins tiefe Herz zu senken mir gewusst?</p>
+
+            <p>in banger Trennung bängre Trennung leiden? 30 entsagen jeder kaumgenossnen Lust?</p>
+
+            <p>und ihres Busens zart verwundbar Leben</p>
+
+            <p>Preis ohne mich dem rauhen Schicksal geben?</p>
+
+            <p>5 „mir ewig" verbessert aus „allein mir" aus „die ewig" ; „Busen" verbessert aus „Brust jetzt" aus „Brust niir". — 6 „später" verbessert aus „goldner". — 8 „vernehmlich" verbessert aus „vernehmbar" ; „Sehnsucht" verbessert aus „Liebe". — f) nach „hier" gestrichen: „und". — 12 „mit" verbessert aus „zu". — 14 „breite' verbessert aus „hold". — 20 „des — eilend" verbessert aus „ists nicht der Strom, der eilt" aus „des — eilend". — jj „kalt — t7iich" verbessert aus „sonst mich kalt und fühllos". — 24 „vermag" verbessert aus „kann". — 26 „sie" verbessert aus „die".</p>
+
+            <pb n="9.70" xml:id="pbIX70"/>
+            <p>In unversöhntem, nie verstandnen Streite liegt mit dem innren Sinne das Geschick. 35 Er strebt mit Muth in unbegrenzte Weite, es drängt arglistig grausam ihn zurück; was du geliebt, reisst es von deiner Seite, zerstört, was du dir schaffest, jedes Glück; und möchte gern mit tückisch argem Tichten 40 bis auf des Busens letzte Kraft vernichten.</p>
+
+            <p>Allein es lebt ein unvertilgbar Streben im Busen durch der Liebe Wunderkraft, das auch aus Tod und Trennung quillend Leben, auf ewig unzerstörbar, mächtig schafft; 45 sich, wie die Eiche starr in Sturmes Beben, im Mann empor entgegenkämpfend rafft, im Weibe biegsam zwar wohl scheinbar schwanket, doch unzerreissbar fest, wie Epheu, ranket.</p>
+
+            <p>So, Theure, lass uns durch das Leben schreiten, 50 treu dem Gefühl, das keine Trennung schwächt.</p>
+
+            <p>Es bleibt auch in unseiger Flucht der Zeiten ihm doch sein ewig unvergänglich Recht. Wo Aeusseres und Innres mühvoll streiten, tritt es zurück aus ungleichem Gefecht, 55 doch senkt sich tief, wo nimmer Band' es engen, und Drang und Sehnsucht jede Fessel sprengen.</p>
+
+            <p>Königsberg, 25. October, 1809.</p>
+
+            <p>e. Die Trennung.^) Hast jemals du der Pflanzen Loos beneidet, die sicher sich dem Boden anvertrauen, und niemals einen andren Himmel schauen, als der ihr Laub mit Huld zuerst geweidet.? ^^ „unversöhntem" verbessert aus „dunklem'' aus „stetem". — 45 „starr" verbessert aus „fest" ; „in Sturmes" verbessert aus „und sonder" aus „in Sturmes". — 4ß „empor" verbessert aus „hervor" aus „dem Sturm". — 47 „ Weibe — scheinbar" verbessert aus „ Weib (aus „ Weib oft") zwar biegsam hin und her oß". — 4ß „unzerreissbar — Epheu" verbessert aus „wie der Epheu, unzerreissbar". — 5/ über „unseiger" gestrichen .-„bittrer". —54 „tritt" verbessert aus „eniw[eichi]" aus „weicht". V Handschrift (i Quartseite) im Archiv in Tegel.</p>
+
+            <pb n="9.71" xml:id="pbIX71"/>
+            <p>er fühlts, wenn Thränen seinen Blick umthauen, wenn fern auf nichts er kann mehr hoffend bauen, wenn Trennung, bittrer als den Tod, er leidet. Nie wird mein Blick im Blick entzückt mehr lesen ! lo Auf ewig ist der Liebe Glück verschwunden, und einsam fortan meine Tage rollen ! Und auch verschönet ward ihr himmlisch Wesen, wenn still sie, Mittags, und in nächtgen Stunden, sah den, der ihr nur wollte Liebe zollen!</p>
+
+            <p>Königsberg, 23. November, 1809.</p>
+
+            <p>f. In Göthe's Werke.') Leicht entschwindet, sagt man, das Angedenken des Freundes, wenn ihn die Hand des Geschicks fern von den Freunden entführt. Aber dem Herzen, das treu, was es einmal empfunden, bewahret, bleibt der Entfernete nah, trennt' ihn auch Meer und Gebirg. 5 Drum nicht, dass Du gedenkst, nur dass lieblicher sey das Ge- denken, weiht dir der Bücher Buch, Freundin, der scheidende Freund.</p>
+
+            <p>Königsberg, 2. December, 1809. V Handschrift (i Folioseite) im Archiv in Tegel. — Erster Druck : Deutsche Rundschau 144, ^jj ( September heft igio).</p>
+         </div>
+      </body>
+   </text>
+</TEI>

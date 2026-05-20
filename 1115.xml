@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ein Zeitungsaufsatz über die sächsische Frage</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Elfter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif11humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1904">1904</date>
+                  </imprint>
+                  <biblScope unit="page" from="197" to="198"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="fr">Français</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="11.197" xml:id="pbXI197"/>
+            <p>verderblich seyn, da diejenigen, welche in diesem b^ill seine Bundesgenossen wären, weil sein Interesse mehr in das ihrige verwebt ist, es immer nachdrücklicher unterstützen müssten.</p>
+
+            <p>Aus diesen (iründen denen es unnütz seyn würde, noch andre, weniger wesentliche hinzuzufügen, kann ich, nach der reiflichsten und gewissenhaftesten Ueberlegung, in der jetzigen Krise keinen andern politischen Gang, als den folgenden, anrathen:</p>
+
+            <p>I. ( )esterreich und Kngland die oben entwickelten Bedingungen zur Annahme vorzulegen;</p>
+
+            <p>■2. wenn sie dieselben eingehen, sich eng und imverbrüchlich in Absicht der Polnischen Angelegenheit an sie anzuschliessen;</p>
+
+            <p>3. Russland olVen und unumwunden die Gründe darzulegen, aus welchen Preussen nicht anders handeln kann;</p>
+
+            <p>4. in der \"erbindung mit Oesterreich und England Alles nur immer Mögliche zu thun, um allen Bruch und vorzüglrch den wirklichen Krieg zu vermeiden:</p>
+
+            <p>3. wenn dies aber unmöglich seyn sollte, die gemeinschaftliche Sache mit aller Kraft, und der höchsten Anstrengung durchzusetzen.</p>
+
+            <p>Wien, den 9. November, 1814.</p>
+
+            <p>Humboldt.</p>
+
+            <head>
+               <title type="main">XL. Ein Zeitungsanfsatz über die sächsische Frage.</title>
+            </head>
+            <p>Anfang Dezember 1H14.</p>
+
+            <p>Eigenhändiger Entwurf im Geh. Siaatscirchiv. '</p>
+
+            <p>On lit dans le Moniteur*) des rellexions sur la Saxe d'autant plus singulieres qu'un article de gazette ne prend gueres le ton positif qui est le langage des (^abinets. On denature dans ces r^flexions les faits, on ddplace les points de vue desquels il faut les juger, et, au lieu de discuter avec calme la question, on tächc de r^veiller les passions.</p>
+
+            <p>On qualilie d'injusiice les projets de la Prussc sur la Saxe, Sans se donner la peine de les ddvelopper. ( )n fait semblant de croirc que la Prusse pretende juger et condamner le Roi de Saxe,<pb n="11.198" xml:id="pbXI198"/> tandis ^]uc, bien loin de s'arroger ce droit, cllc Taccorderoit tout aussi pcu au Souvcrain que Tarticle en qucstion investit d'une maniere peu cons^quente en quelque facon de ce droit. On nie que la Prusse, en exdcutant ses plans, puisse devenir une garantie pour rind^pendance de TAllemagne, et Ton voudroit assurer cette ind^pendance par des institutions qui ne sauroient ctre protectrices Sans la force de ceux qui en deviendront les gardiens. On soutient que la Prusse na pas besoin d'etre forte contre la Russie, puisque seule eile ne le seroit pourtant jamais assez, et l'on etablit par lä un raisonnement par lequel on prouve indirectement que la Prusse n'a pas du tout besoin d'etre forte, puisque seule eile ne le sera jamais assez contre les grandes Puissances qui l'avoisinent.</p>
+
+            <p>II n'appartient pas a un article de gazette de d^rouler aux }eux du Public les negociations des Cabinets; cette methode qui appartient entierement au Systeme reprouve avec raison dans les rertexions ci-dessus citees, ne sera point repetee aujourd'hui. Mais Sans etre trop initie dans les secrets des Cabinets, en jugeant simple- ment d'une maniere impartiale la Situation veritable des choses, on peut avancer avec assurance ce qui suit:</p>
+
+            <p>1. que la Prusse se borne ä demander ce que ses traites d'alliance lui assurent, la reconstruction entiere de ses forces sous tous les rapports politiques, militaires et statistiques, telles qu'elles etoient au commencement de I'annee 1806;</p>
+
+            <p>2. que les projets formes contre le Roi de Saxe se fondent sur la conquete de ses Etats faite dans une guerre evidemment juste, puisque ce Prince fut somme ä diverses reprises de se joindre aux Allies, que la protection d'une grande Puissance, egale- ment alliee depuis, le mit ä l'abri de tout danger, et que volon- tairement il quitta cet asyle pour s'unir de nouveau ä l'ennemi;</p>
+
+            <p>3. que, malgre cela, la Prusse n'a jamais pense ä enlever au Roi ses Etats, sans lui offrir une indemnite convenable par une Principaute independante ä tous les egards;</p>
+
+            <p>4. mais qu'elle s'est opposee ä un demembrement de la Saxe qui seroit pernicieux a la nation que la Prusse n'a jamais voulu incorporer, comme une Province conquise, mais unir ä ses Etats sous la garantie de sa propre Constitution;</p>
+
+            <p>5. que la Prusse se doit, avant toute autre consideration, ä</p>
+         </div>
+      </body>
+   </text>
+</TEI>

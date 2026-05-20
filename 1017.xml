@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Über städtische Schuldeputationen</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif10humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1903">1903</date>
+                  </imprint>
+                  <biblScope unit="page" from="115" to="121"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="10.115" xml:id="pbX115"/>
+            <p>Der jetzige Zustand dieser Nation führt allerdings sehr grosse äusserliche und gleichsam physische Nachtheile mit sich, allein moralisch wirkt die Nichtachtung, in welcher sie steht, weder auf sie selbst noch auf die Christen sehr stark. Denn man sieht diesen Zustand als ein Ueberbleibsel alter Barbarei und ehemaliger Vorurtheile an und setzt voraus, dass der Staat selbst ihn missbilligt, allein nur durch manche damit verknüpfte Schwierigkeit von der Abänderung desselben zurückgehalten wird.</p>
+
+            <p>Allein in einem neuen Gesetz spricht die Regierung die Meinung aus, welche sie jetzt von den Juden und der Möglichkeit ihrer bürgerlichen Verbesserung hegt, und diese Meinung muss nun nothwendig von der grossesten Wichtigkeit sein, zugleich die allgemeine der Nation zu bestimmen. Eine nicht ganz weise neue Gesetzgebung über die Juden hebt daher zwar vielleicht viele physische Nachtheile auf, läuft aber Gefahr, auch vielleicht noch grössere moralische, als selbst der jetzige Zustand (durch Mis- leitung der allgemeinen Meinung und Befestigung der alten Vorurtheile) nach sich zu ziehen.</p>
+
+            <p>17. Juli 1809.</p>
+
+            <p>Humboldt.</p>
+
+            <head>
+               <title type="main">XXIL, XXIII. Über städtische Schuldeputationen.</title>
+            </head>
+            <p>Ende Juli 1809.</p>
+
+            <p>(Eigenhändige Konzepte im Kultusministerium.)</p>
+
+            <p>Die Städteordnung setzte im § lyg fest, daß in jeder Stadt errichtet werden sollen a) eine Deputation für die äußern Angelegenheiten der städtischen Schul- und Erziehungs-Anstalten, gemischt aus dem Magistrat und den Stadtverordneten ; b) eine Behörde für die Innern Angelegenheiten des Schulwesens. Humboldt be<pb n="10.116" xml:id="pbX116"/>XXII. Humboldts Votum zu dem von Süvern entworfenen Plan für städtische Schuldeputationen.</p>
+
+            <p>Juni- Juli 1809.</p>
+
+            <p>(Eigenhändiger Entwurf in den Akten des Kiiltiisminisleriums.)</p>
+
+            <p>Eine so strenge Trennung der Mitglieder für gelehrte und Bürgerschulen halte ich nicht zweckmässig.</p>
+
+            <p>Die höchste Zahl der Mitglieder würde ich auf 6, die geringste auf 2 setzen.</p>
+
+            <p>Eine eigene Direction für die Berlinischen 5 Gymnasien scheint mir, da die Section am Orte ist, durchaus überflüssig. Ein Mitglied der Section, wozu ich, sobald er als Director der wissenschaftlichen Deputation unter uns sitzt, Wolf bestimme, reicht vollkommen dazu hin, und bei Schul-Directionen ist das Homerische dg ycoiQavog larto! sehr gut.</p>
+
+            <p>Die beiden magistratischen Gymnasien müssten schon unter dem Stadt-Collegio stehen. Allein dies schadete auch nicht, da sie auch jetzt dem Ephorat des Magistrats unterworfen sind, und das Stadt-Collegium wieder unter der Section steht.</p>
+
+            <p>Die Hälfte der Mitglieder müsste aus Litteratis bestehen, und diese müssten von der Regierung aus 3 Vorgeschlagenen gewählt</p>
+
+            <p>*j 1^ I in Süverns Entwurf lautet: Die Behörde für die innern Angelegenheiten des städtischen Schid- und Erziehungswesens, oder das städtische Schul- Collegium bestehet, Je nachdem es in einer Stadt eine oder mehrere Gelehrten- Schulen giebt, aus einem oder verhällnissmässig mehreren sachverständigen Mitgliedern für diese, und in einer verhältnissmässigen Anzahl sachverständiger Mitglieder für die übrigen Schulen ; in Städten, wo keine Gelehrten-Schule ist, aus den letzteren allein. Die Zahl der Mitglieder der Schul-Collegien nach dem Verhältniss der Einfachheit oder Weitläufigkeit des ScJiulwesetis in verschiedenen Städten zu bestimmen, bleibt den Magistraten, unter Genehmigung der Regierungen, überlassen. Städte, die nach den Bestimmuyigen des § 10 der Städte-Ordnung unter die kleinen zu rechnen sind imd wenig Schüler besitzen, haben gar kein Schul-Collegium , sondern in ihnen wird für die innern Angelegenheiten der Schulen ein sachverständiges Mitglied der Schid-Deputation der Stadtverordneten zugesellt. In Berlin, dessen fünf Gynmasien imviittelbar unter der Section des öffentliclien Unterrichts stehen, wird für diese eine besondere Direction und für alle übrigen Lehr- und Erziehwigsanstalten ein besonderes Schul-Collegium formirt.<pb n="10.117" xml:id="pbX117"/> werden. Die andre Hälfte wählten die Stadtverordneten frei und suchten bloss verständige, rechtliche und bei den Bürgern beliebte Leute.</p>
+
+            <p>Die Königlichen Institute gehören nur vermöge ausdrücklicher Bestimmung zur Aufsicht der Schul-Collegien ; die Privat-Institute insofern sie der Polizei unterworfen sind.</p>
+
+            <p>§ 3.*)</p>
+
+            <p>Statt der Nothwendigkeit eines geistlichen Inspectors, als Mitgliedes, würde ich verordnen, dass der, oder die ersten Geistlichen der Stadt, nach ihren Sprengein, das Recht und die Verbindlichkeit hätten, den Religions-Unterricht zu controlliren und darüber dem Schul-Collegio ihre Bemerkungen mitzutheilen, und jedoch nur für diesen Punkt, sich als Mitglieder desselben zu geriren.</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">§ 4n</title>
+               </head>
+               <p>Der Director muss immer wissenschaftlich gebildet seyn und also zu den von der Regierung gewählten Mitgliedern gehören.</p>
+
+               <p>§ ().*<note type="footnote" n="**)" resp="gnd-116890657"><hi>§ 4. Jedes städtische Schul-Collegium hat einen Director, der in den Confe- renzen den Vorsitz hat, die Deliberationen leitet, und die Geschäfte imler die Mit</hi></note>Ausnahme der Königlichen Institute. der Stadtverordneten gemeinschaßlich mit dem Magistrate der respectiven Regierung drei Siibjecte vor, aus welchen diese eins ernennt. Ebendies geschieht in Ansehung des Mitgliedes der Schid-Deputation für die innern Angelegenheiten in kleinen Städten. Die Regierimg behält sich diesen Antheil an der Besetzung der Schul-Collegien vor, weil ihre Aufsicht sich nicht nur auf die Institute, welche magistratualischen Patronats sind, sondern auch auf die königlichen und Privatinstitute erstrecken soll. Eingesetzt werden indess die Ernannten von den Magisträten.</p>
+
+               <p>*j § ^: Bei der Wahl der Mitglieder der Schul-Collegien kommt es hauptsächlich darauf an, dass sie des Schul- und Erziehungswesens kundig und wissenschaftlich gebildet sind. Es dürfen daher nicht gerade lauter Geistliche, sondern es können auch geschickte Männer andrer Stände, vorzüglich müssen praktische Pädagogen dazu gewählt, und wo Schiden verschiedener Confessionen in einer Stadt sind, muss bei der Formation des Schul-Collegii Rücksicht darauf genommen werden. Immer aber muss ein geistlicher Inspector Mitglied des Schul-Collegii seyn. Zu wichtigen allgemeinen Berathschlagungen kann dieses aber in grossen Städten sämtliche Schul-Directoren , -Inspectoren und -Rectoren, in kleinren sämtliche Prediger und erste Lehrer zusammenberufen.</p>
+
+               <p>glieder vertheilt. Die Regierung bestimmt ihn aus den Mitgliedern des Collegii.</p>
+
+               <pb n="10.118" xml:id="pbX118"/>
+               <p>§ 7— lo-<note type="footnote" n="*)" resp="gnd-116890657"><hi>Süvern bestimmt in diesen ^§: Gegenstand der Thätigkeit des Schul- Collegii ist die innere Verfassung der Anstalten: Erziehung, Unterricht, Dis- ciplin etc., aber nicht eigentlich Besetzung der Stellen, Gehalt, Schulgeld, also die äussere Verfassung. Aber auch hinsichtlich der Innern steht ihm nur die Aus</hi></note>Diese §§ bestimmen, meines Erachtens, die Rechte viel zu weit, und beschränlven dadurch die Wirksamkeit der Rectoren, die viel zu sehr untergeordnet werden. Mir scheint vielmehr das wahre Mittel die Schulen zu heben, gute Rectoren zu wählen, und diesen viel Freiheit zu lassen. Das Schul-Collegium muss mehr ein inspicirendes, als selbst befehlendes seyn. Ich würde es so bestimmen.</p>
+
+               <p>Den Gegenständen nach erstreckte sich die Aufsicht des Schul-Collegii auf alles was das Innere der Schule betrifft, also Unterricht und Erziehung ohne Ausnahme.</p>
+
+               <p>Allein bei diesen Gegenständen ist seine unmittelbare und eigentliche Bestimmung die Aufsicht auf die Beobachtung der allgemeinen Gesetze und die besondern Verfügungen der Oberbehörde, mit einem Worte auf die Pflichterfüllung. Dadurch bestimmt sich nun auch die Gränze der Aufsicht auf öffentliche und Privatanstalten. Den letzten muss die Freiheit gelassen werden, welche der Staat ihnen zugesteht.</p>
+
+               <p>Innerhalb des Kreises, den die Oberbehörde und das Gesetz auf die Le/u-- Anstalten, ohne Unterschied, ob sie protestantisch oder katholisch, öffentliche oder Privatanstalten, Knaben- oder Mädchen- Institute, für Arme oder Bemittelte bestimmt sind; auch die königlichen Erziehungs- und Lehr- Anstalten werden zur Vereinfachung der Behörden ihnen untergeordnet.</p>
+
+               <p>führung von Massregeln, die höhern Ortes vorgeschrieben, und die Inspection über die Einriclitungen zu. Es erhält also die höheren Ortes ergangenen Ver<pb n="10.119" xml:id="pbX119"/>frei lassen, darf die Stimme des Rectors nicht weniger, sondern muss mehr gelten, als die des Schul-Collegiums. Lehrbücher, Lehrmethode und Lectionsplan , ferner Methode der Disciplin, insofern nicht dadurch bestimmte Vorschriften überschritten werden, hängen lediglich vom Rector ab. Das Schul-Collegium kann und muss sich darum bekümmern, kann aber nur Rath ertheilen, und wo er nicht befolgt wird, sich an die Ober-Behörde wenden.</p>
+
+               <p>Dadurch bestimmt sich nun auch das Subordinationsverhältniss der Rectoren. Gehorchen dürfen sie bloss, wo sie zur Pflicht zurückgerufen werden; nicht aber, wo man ihnen innerhalb der Schranken ihrer gesetzmässigen Freiheit, andere Wege vorschreiben will.</p>
+
+               <p>Hierin erreicht das Schul-Collegium vielmehr nur dann seinen Endzweck, wenn es sich mit den Rectoren zusammen zum deli- berations Collegium macht, gemeinschaftlich mit ihnen handelt, nicht vergisst, dass seine Pflicht nicht bloss ist, den Rector zu controlliren, sondern vielmehr ihn zu unterstützen, seinen Vorschlägen beim Collegium der Stadtverordneten, dem Magistrat und der Oberbehörde Eingang zu verschaffen, und seine Rechte zu vertreten. Denn dies Collegium soll ja vorzüglich dienen, die Bande zwischen Stadt und Schulen enger zu machen, wozu das der Stadtverordneten, etwa weil es sich nicht auf die Beurtheilung der Innern Güte der letzteren einlassen kann, minder geschickt ist.</p>
+
+               <p>Die Oberbehörde wandet sich daher auch, wenn sie will, unmittelbar an die Rectoren, und diese ebenso an sie.</p>
+
+               <p>Die Stellenbesetzung gehört gewiss bei Schulen zu den Internis und also zum ressort des Schul-Collegii. Um aber die Stadtverordneten nicht auszuschliessen, so schlägt das Collegium diesen die 3 der Oberbehörde zu praesentirenden Mitglieder vor, und nur derjenige unter diesen fällt aus, der % der Stimmen der Stadtverordneten gegen sich hat. Für den Ausfallenden schlägt das Collegium einen andern vor.</p>
+
+               <p>Sehr gut.</p>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">§ II.*)</title>
+               </head>
+               <pb n="10.120" xml:id="pbX120"/>
+               <p>§ 14.*)</p>
+
+               <p>Ist im vorigen schon mit bestimmt.</p>
+
+               <p>§ 17.<note type="footnote" n="**)" resp="gnd-116890657"><hi>§' ^1- Anträge iji Betreff der äussern Angelegenheiten Königlicher Institute können die Schulcollegien nur bei den vorgesetzten Königlichen Behörden machen.</hi></note></p>
+
+               <p>Fände nur noch statt, wenn Königliche Institute den Magisträten mit anvertraut würden.</p>
+
+               <p>Ist genau genommen schon in den vorigen allgemeinen Bestimmungen enthalten.</p>
+
+               <p>Humboldt.</p>
+
+               <p>XXIII. Über Schul-Kollegien. Ende Juli 1809. (Eigenhändiger Entwurf in den Akten des Kultusministeriums.)</p>
+
+               <p>Zur Erläuterung der inliegenden Entwürfe, die, wenn man einmal über die Grundsätze einig ist, einer noch sorgfältigeren Redaktion unterworfen werden sollen, können noch folgende Bemerkungen dienen.</p>
+
+               <p>Es scheint vielleicht, dass durch ein Schul-Collegium, das auch die Innern Schulangelegenheiten in seinen Geschäftskreis zieht, eine überflüssige, hier und da vielleicht sogar hinderliche Zwischeninstanz gebildet w^ird. Allein für eine solche Einrichtung sprechen auf der andern Seite folgende Gründe:<note type="footnote" n="i)" resp="gnd-116890657"><hi>Die St. O. setzt schon wirklich § 179 solche Behörden fest, und ihre Organisation wird hier vielmehr vereinfacht, da man die äussern und Innern Angelegenheiten nur Einem und ebendemselben Collegio übergibt.</hi></note><note type="footnote" n="2)" resp="gnd-118554727"><hi>Da die Magisträte einmal eine gewisse Aufsicht auf die</hi></note></p>
+
+               <p>*j § 14: Die Magistrate sollen bei den Wahlen der Lehrer das Gutachten des Schid-Collegii einholen und beachten.<pb n="10.121" xml:id="pbX121"/> Schulen ausüben müssen und auch bis jetzt durch das Patronat und Ephorat wirklich ausübten, so ist es wichtig, für die Organisation eines Collegii zu sorgen, durch welches sie sich ausschliess- lich diesem Geschäft unterziehen.<note type="footnote" n="***)" resp="gnd-116890657"><hi>§ jS: Die äussern Angelegenheiten der Privatinstitute gehen das Schul- collegium eigentlich nichts an, doch hat es darauf zu sehen, dass keiner ein solches anlegt, ohne königliche Approbation, und keine Mitarbeiter und Mit-</hi></note><note type="footnote" n="4)" resp="gnd-118554727"><hi>scheint es nicht einmal wünschenswürdig, den Magisträten, wenn es auch geschehen könnte, die Aufsicht auf das Schulwesen oder selbst das Patronatsrecht ganz zu entziehen. Es ist keine wahre Theilnahme der Bürgerschaft und der Stadtobrigkeit am Schulwesen denkbar, wenn ihnen nicht, sogar ein bedeutender Einfluss auf dasselbe verstattet wird; von einer solchen Theilnahme aber kann man sich mit Recht theils für die Unterstützung des- selben, theils für die Benutzung der Anstalten und die eigene häusliche Erziehung grossen Gewinn versprechen; und ist diese Theilnahme einmal hervorgebracht und gehörig geleitet, so wirkt sie w^eniger unterbrochen und gleichmässiger als Staatsbehörden es thun können, die weit mehr dem Wechsel der Personen und Grundsätze und dem Einflüsse politischer Ereignisse unter- worfen sind.</hi></note></p>
+
+               <p>Alle jetzt anzuordnenden Aufsichtsbehörden behalten aber auch einen hinlänglich geschiedenen Wirkungskreis. Es gibt nemlich nach dem gegenwärtigen Entwürfe für jede Schule folgende drei :</p>
+
+               <p><note type="footnote" n="i)" resp="gnd-116890657"><hi>Die Directoren oder Rectoren, 2) das städtische Schul-Collegium, <note>an denjenigen Orten, welche nicht selbst Regierungssitze sind, fehlt es, ohne ein solches Collegium, den geistlichen und Schul-Deputationen selbst an einem Organ auf die Schulen gehörig einzuwirken, und sogar nur ihren Zustand genau kennen zu lernen.</note> die Staatsbehörden, nemlich die geistliche und Schul-Depu- tation der Provinz und die Section des öffentlichen Unter- richts.</hi></note> Den Rectoren in allen Sachen des Unterrichts und der DiscipUn, soviel als möglich, freie Hand zu lassen und ihnen in ihrem Wirkungslo^eis eine grosse Autorität zu erhalten, ist das kräftigste Mittel, die Schulen zu heben, und muss daher in dem künftigen Reglement als Grundsatz bestimmt ausgesprochen werden.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

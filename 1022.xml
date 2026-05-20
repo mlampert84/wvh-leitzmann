@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Über den Unterricht im Zeichnen</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif10humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1903">1903</date>
+                  </imprint>
+                  <biblScope unit="page" from="175" to="175"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="10.175" xml:id="pbX175"/>
+            <head>
+               <title type="main">XXXIV. über den Unterricht im Zeichnen.</title>
+            </head>
+            <p>19. Oktober 1809.</p>
+
+            <p>(Eigenhändiges Konzept und Abschrift in den Akten des Kultusministeriums.) An den Senat der Königlichen Akademie der Künste zu Berlin.</p>
+
+            <p>Wir bemerken nemlich, dass der Unterricht im Zeichnen theils auf den Gymnasien, theils aber auch auf den Provincial- Kunstschulen selbst sehr unvollkommen ertheilt würde, und es darin durchaus an einer sichern Methode, einer Vertheilung in Klassen, wo man schrittweise vom Leichteren zum Schwereren übergehet u. s. f. mangelt. Daher kommt denn natürlich, dass ein solcher Unterricht theils, indem er auch die wirklich in den Lehrlingen vorhandenen Talente wenig entwickelt, der Kunst, theils aber auch der allgemeinen Bildung wenig hilft, indem der Schüler selten dadurch die nothwendige L^ebung des Anschauungs- und Darstellungsvermögens, richtige Kenntniss der Verhältnisse vorzüglich des menschlichen Körpers, die Fertigkeit, Gegenstände der Natur unmittelbar selbst auf das Papier überzutragen und sich also des Zeichnens als einer Art von Sprache zu bedienen (der Bildung des Schönheitsgefühls und Geschmacks gar nicht einmal zu gedenken) gewinnen, sondern höchstens eine Fertigkeit erlangen, nach Mustern sauber ausgeführte Zeichnungen zu entwerfen, welche ihnen theils wenig Nutzen gewährt, theils im Leben sehr bald wieder verloren geht. Liegt der Grund hiervon oft in der Mittelmässigkeit der Lehrer und selbst darin, dass die Aufseher der Schulen den Zeichenunterricht fälschlich wie eine Nebensache, und das Zeichnen selbst als eine gewissermassen nur zum Luxus der Erziehung gehörige Kunst ansehen, so ist die Hauptschuld doch dem Mangel an einer guten und festen Methode zuzuschreiben, die, wie jede Methode, auch den mittelmässigen Lehrer mehr zu leisten in Stand setzt, und deren Anwendung die Schul-Directoren bald überzeugen würde, dass der Zeichen-Unter- richt keinem andern an Nothwendigkeit nachsteht. Die Section wünscht daher die Gedanken der Akademie über die Einrichtung des Zeichen-Unterrichts, seinen stufenweisen Fortgang von den ersten Anfängen bis zu den letzten Arbeiten derer, die sich aus- schliessend der Kunst widmen, und die Behandlungen desselben</p>
+         </div>
+      </body>
+   </text>
+</TEI>

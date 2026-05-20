@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aus Aristophanes' Ekklesiazusen</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Achter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif08humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1909">1909</date>
+                  </imprint>
+                  <biblScope unit="page" from="260" to="261"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1795">1795</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="8.260" xml:id="pbVIII260"/>
+            <head>
+               <title type="main">6. Aus Aristophanes' Ekklesiazusen. ^)</title>
+            </head>
+            <p>Praxagora. Denn ich mache sie alle für alle gemein, dass mit jeglichem</p>
+
+            <p>Manne sie schlafen, und sich Kinder erzeugen, mit wem es gefällt.</p>
+
+            <p>Blep3^ros.</p>
+
+            <p>Wie aber wenn alle auf Einmal zu der Jungfraun schönsten verlangend dann gehn, sie in</p>
+
+            <p>Lust zu umfangen begehrend.</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">Praxagora.</title>
+               </head>
+               <p>640 In der nemlichen Reihe gesellet erblickst Du die Hässlichen neben den Schönen, und gelüstets Dir dann nach der letzten, so musst Du die</p>
+
+               <p>Hässliche vorher bedienen.</p>
+
+               <p>Blepyros. Doch wird da uns Alten nach diesem Gesetz, wenn die</p>
+
+               <p>Hässliche erst wir umarmen, nicht mangeln des Schwanzes vermögende Kraft, eh', wohin Du uns sagst, wir gelangen?</p>
+
+               <p>Praxagora. Kein Streit ist alsdann.</p>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">Blepyros. Und warum?</title>
+               </head>
+               <p>Handschrift von fremder Hand ohne Titel (^ Quartseiten) in Brinkmanns Nachlaß in Trolle-Ljungby. V Vgl. Vers 63^-651.</p>
+
+               <pb n="8.261" xml:id="pbVIII261"/>
+            </div>
+
+            <div type="section" n="3">
+               <head>
+                  <title type="main">Praxagora.</title>
+               </head>
+               <p>Nichts brauchst Du zu fürchten , kein Streit ist alsdann mehr.</p>
+
+               <p>Blepyros. 645 Und warum?</p>
+
+               <p>Praxagora. Um der Liebe verbotene Lust. Frei l^annst im Genüsse Du schwelgen. Wohl haben wir diess nun mit Weisheit erdacht. Denn aufs gründlichste ist nun auf ewig, dass nicht Einer der Schooss leer bleibe,, gesorgt.</p>
+            </div>
+
+            <div type="section" n="4">
+               <head>
+                  <title type="main">Blepyros.</title>
+               </head>
+               <p>Wie aber ergeht es den Männern? Denn es werden die Weiber die Hässlichen fliehn, und allein nach den Schönen nur laufen.</p>
+            </div>
+
+            <div type="section" n="5">
+               <head>
+                  <title type="main">Praxagora.</title>
+               </head>
+               <p>Nicht doch, es lauern alsdann die Hässlichen auf, wenn vom</p>
+
+               <p>Schmause zurück nun die schönsten 6=;o Jünglinge kommen und so auch wiederum harr'n an den Ecken der Gassen und Märkte die verschmäheten Männer, und kein Weib darf sich zur</p>
+
+               <p>Seite dem Schöneren legen, bis erst sie die Kleinen und Garstigen all', nach der Reihe, genügend bedienet.</p>
+            </div>
+
+            <div type="section" n="6">
+               <head>
+                  <title type="main">Blepyros.</title>
+               </head>
+            </div>
+
+            <div type="section" n="7">
+               <head>
+                  <title type="main">Praxagora.</title>
+               </head>
+               <p>Volkliebend, Ha! scheint beim Apollon der Rath, und gar treflich nun können wir spotten 655 der so mächtig sich brüstenden Herrn, die stolz und mit</p>
+
+               <p>Ringen beladen einhergehn. Denn kurz ist, wenn einer nun kommt, der Bescheid: „Erst dem Früheren weiche, und warte, bis, wenn ich behaglich vollendet das Werk, ich zum zweiten sie Dir übergebe."</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

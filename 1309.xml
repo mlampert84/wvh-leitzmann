@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nachwort (von Konrad Burdach)</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Dreizehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif13humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1920">1920</date>
+                  </imprint>
+                  <biblScope unit="page" from="320" to="320"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="13.320" xml:id="pbXIII320"/>
+            <p>317 ZU sagen, wen ich am liebsten mit derselben bekleidet sehen möchte. Gewiss würde es in ganz Deutschland zu den wichtigsten Vorzügen der Universität hier gerechnet werden, wenn Ew. p. Sich entschliessen könnten, einen Ruf hierher anzunehmen. Ich fühle aber, dass dies unmöglich ist. Ihr Institut in Mögelin und die Annehmlichkeit, unabhängig und auf dem Lande zu leben, werden natürlich der Ausführung eines solchen Plans immer im Wege stehen. Dennoch kann ich den Gedanken nicht ganz aufgeben, dass gerade Sie und selbst Ihr Institut der hiesigen Universität von dem wichtigsten und erspriesslichsten Nutzen seyn könnten, und ich wünschte nur, Ihre eignen Ideen über die Ausführbarkeit hievon zu vernehmen. Mir scheint ein doppelter Weg möglich.</p>
+
+            <p>Der erste wäre der, dem ich in ieder Rücksicht den Vorzug ertheilen würde. Er bestände darin, dass Ew. p. sich entschlössen, wenigstens den Winter immer hier zuzubringen, und alsdann ordentliche ^"orlesungen zu halten. Der Sommer könnte, da ich so in diesen alle Ferien beider Semester fallen zu lassen denke, in Rücksicht auf das Studium des Ackerbaus dem eignen Studium und Besuchen in Mögelin gewidmet seyn. Glaubten Ew. p., dass die Ausführung einer solchen Idee nicht unmöglich wäre, so würde ich Sie, Sich näher mit mir über die Art und die Bedingungen zu erklären, ergebenst einladen.</p>
+
+            <p>Der zweite Weg wäre allerdings viel weniger wohlthätig für die Universität. Es wäre der, dass Ew. p. mir jemanden vorschlügen, der die Vorlesungen hier hielte, aber so, dass Ew. p. dieselben aus der Ferne dirigirten, manchmal selbst die Zuhörer zu prüfen und kennen zu lernen herkämen, und bestimmten, welche davon nach und nach durch das theoretische Studium zum praktischen in Mögelin reif geworden wären. Auch hierüber er- bitte ich mir Ihren Rath. Im Fall Ew. p. Sich leider nicht im Stande sehen sollten, meinen ersten Vorschlag anzunehmen, und der zweite Ihnen für das Studium selbst nicht hinlänglich schiene, so bliebe nichts andres übrig, als dass man einen andern Gelehrten zum Professor des Ackerbaus wählte. Je schwieriger hier die Wahl seyn dürfte, desto mehr muss ich Ew. p. ergebenst ersuchen, mir auch deshalb in diesem Fall Ihre Gedanken zu eröffnen, und mir überhaupt und ganz nach Ihren eignen Erfahrungen zu sagen, was Sie überhaupt von der Einrichtung des Studiums der Sie interessiren den Wissenschaft auf der hiesigen Universität gerade halten. Die</p>
+         </div>
+      </body>
+   </text>
+</TEI>

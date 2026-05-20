@@ -1,0 +1,332 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Zur Gründung der Universität Berlin</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif10humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1903">1903</date>
+                  </imprint>
+                  <biblScope unit="page" from="139" to="159"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="10.139" xml:id="pbX139"/>
+            <head>
+               <title type="main">XXVI.— XXXII. Zur Gründung der Universität Berlin.</title>
+            </head>
+            <p>Den ersten Antrag an den König, in Berlin eine Universität zu errichten, arbeitete Humboldt zwischen dem 12. und 14. Mai i8og (No. XXVI) aus; er fügte ihm noch einige Ausführungen für den Kabinettsvortrag bei (No. XXVII). Beide Schrißstücke legte er aber beiseite und ging erst im Juli iSog wieder an die Angelegenheit: er entwarf den Bericht, den der Finanzminister und der Minister des Innern abstatten sollten (No. XXVIII), und den Antrag namens der Sektion (No. XXIX), bei dem er das Konzept vom Mai zwar benutzte, aber doch so vielfach änderte, daß wir beide Schrißstücke mitteilen. Er übersandte ihn mit einem motivierenden Schreiben an Altenstein (No. XXX). In einer Darlegung an den Geh. Staatsrat v. Klewiz (No. XXXI) behandelte er die finanzielle Seite der Angelegenheit und entwarf „unmaßgebliche Vorschläge" (No. XXXII) für eine Konferenz, die ayn 28. August i8og stattfand.</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">XXVI. Antrag auf Errichtung der Universität Berlin.</title>
+               </head>
+               <p>12 — 14. Mai i8og.</p>
+
+               <p>(Eigenhändiges Konzept und Abschrift in den Akten des Kultusministeriums mit dem Zusatz „Cassirt" versehen.)</p>
+
+               <p>Königsberg, den 12"=" Mai i8og. (Universität zu Berlin.) Es wird befremdend erscheinen, dass ich im gegenwärtigen Augenblick einen Plan zur Sprache zu bringen w^age, dessen Aus- führung ruhigere und glücklichere Zeiten vorauszusetzen scheint. Allein Ew. Königl. Majestät haben auf eine so vielfache und einleuchtende Weise gezeigt, dass Sie, auch mitten im Drange beunruhigender Umstände, den wichtigen Punkt der National-Erziehung und Bildung nicht aus den Augen verlieren, dass mir diese ebenso erhabene als seltene Gesinnung den Muth zu dem folgenden An- trage einflösst. Ew. Königl. Majestät geruhten durch eine Allerhöchste Kabinetsordre vom 4. Sept. 1807 die Einrichtung einer neuen Universität in Berlin zu genehmigen ; seitdem ist bei verschiedenen Einrichtungen und Anstellungen darauf Rücksicht genommen worden; allein es wird zur wirklichen Ausführung noch immer ein zweiter entscheidender Schritt erfordert, und ich halte es aus einem doppelten Grunde für nothwendig, diesen im gegenwärtigen Moment zu thun.<pb n="10.140" xml:id="pbX140"/> ehemals zu dem Einfluße Preussens auf wahre Aufklärung und höhere Geistesbildung hegte, durch die letzten unglücklichen Ereignisse gesunken sey; so ist es vielmehr gestiegen. Man hat gesehen, dass in allen neueren Staatseinrichtungen Ew. Königl. Majestät der Sinn herrscht, welcher in jenen wichtigsten aller Vorzüge auch den höchsten Zweck jeder Staatsvereinigung erkennt; man hat die Bereitwilligkeit bewundert, mit welcher auch in grossen Bedrängnissen wissenschaftliche Institute unterstützt und selbst ansehnlich verbessert worden sind. Ew. Königl. Majestät Staaten können und werden daher fortfahren von dieser Seite den ersten Rang in Deutschland zu behaupten, und auf seine intellectu- elle und moralische Richtung den entscheidendsten Einfluss aus- zuüben.</p>
+
+               <p>Sehr viel hat zu jenem Vertrauen der Gedanke der Einrichtung einer Universität in Berlin beigetragen. Schulen und Gymnasien sind von dem wichtigsten Nutzen für das Land, in dem sie sich befinden. Allein nur Universitäten können demselben Einfluss auch über seine Gränzen hinaus zusichern, und auf die Bildung der ganzen, dieselbe Sprache redenden Nation einwirken. Wenn Ew. Königliche Majestät nunmehr diese Einrichtung förmlich bestätigten und die Ausführung sicherten, so würden Sie Sich aufs neue Alles, was sich in Deutschland für Bildung und Aufklärung interessirt, auf das festeste verbinden ; einen neuen Eifer und neue Wärme für das Wiederaufblühen Ihrer Staaten erregen, und in einem Zeitpunkt, wo ein Theil Deutschlands vom Kriege verheert, ein andrer in fremder Sprache von fremden Gebietern beherrscht wird, der deutschen Wissenschaft eine vielleicht kaum jetzt noch gehofte Freistatt eröfnen.</p>
+
+               <p>Diese zusammentreffenden Umstände machen aber auch, und dies giebt einen zweiten wichtigen Grund ab, grade jetzt mehr Männer von entschiedenem Talent als sonst, geneigt, neue Ver-</p>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">bindungen einzugehen. * *</title>
+               </head>
+               <pb n="10.141" xml:id="pbX141"/>
+               <p>das Ausland gewinnen; die Wahl eines neuen Orts bietet noch mehr Schwierigkeiten dar, und es bleibt nur Eins von beiden übrig; man muss eine Universität in Berlin errichten, oder überhaupt auf eine glänzende, auch Ausländer anziehende Universität Verzicht thun.</p>
+
+               <p>Ausserdem aber sprechen noch zwei besondere Umstände für Berlin.</p>
+
+               <p>Es besitzt schon jetzt eine Menge grosser Institute und brauch- barer Männer, und ist bereits wirklich eine medicinische Universität. Jede Trennung von Facultaeten aber ist der nicht wissenschaftlichen Bildung, so wie man sie bisher wirklich nur in Deutschland recht kennt, verderblich.</p>
+
+               <p>Auch der Name: Universität wird, schmeichle ich mir, bei Ew. Königlichen Majestät keiner Entschuldigung bedürfen. Er soll nur anzeigen, dass keine Wissenschaft ausgeschlossen seyn, und dass die Lehr-Anstalt auch akademische Würden ertheilen wird.*) Alles sonst Veraltete und Nachtheilige fällt natürlich hin- weg. Aber eine Lehranstalt gründen, die höhere, und doch nicht Universität sey, ist, w^e anlockend auch den Gedanken die Neu- heit und die gewissermassen leichtere Ausführung macht, misslich, da sich nicht einmal der Begriff eines solchen Instituts fest bestimmen lässt; eine bloss praktische Anstalt würde, weil Theorie und Praxis beym Unterricht nie so geschieden seyn darf, noch gefährlicher seyn. Wie man es überhaupt ei'wägen mag, so lässt sich zwischen die alten drei durch die Natur der Sache selbst bestimmten Gattungen wissenschaftlicher Institute und Schulen, Universitäten und Akademien, nie anders, als willkührlich, eine neue einschieben.</p>
+
+               <p>Allein nothwendig dürfte es seyn, zugleich einen Blick auf die andern Preussischen Universitäten zu werfen.</p>
+
+               <p>Königsberg bliebe, schon seiner entfernten Lage wegen, in seinen bisherigen Verhältnissen.</p>
+
+               <p>Frankfurt könnte ich Ew. Königlichen Majestät nicht rathen, gleich jetzt aufzuheben. Vielmehr dürfte es, jedoch nur durch Berufung neuer Lehrer, nicht durch Anlegung von Instituten, ver- bessert werden müssen. Das Alte zerstören, ehe das Neue die gehörige Haltbarkeit gewonnen hat, ist überaus misslich. Dann<pb n="10.142" xml:id="pbX142"/> geriethen auch bei einer Aufhebung Frankfurts die im Königreich Westphalen Hegenden Güter dieser Universität in eine Gefahr, welche der gelindere Name der Verlegung schwerlich aufheben dürfte. Wäre aber Berlin emporgekommen, und könnten vielleicht die Westphälischen Güter vortheilhaft veräussert werden, so würde die Aufhebung alsdann zweckmässig se3^n, da zwey Universitäten in den Preussischen Staaten vollkommen allen Bedürfnissen Genüge leisten. Dass in Breslau eine bloss catholische Universität, und diese im Grunde eine blosse theologische Fakultät ist, hat so bedeutende Nachtheile, dass dies am Stärkesten für die gleichfalls in Vorschlag gewesene Verlegung Frankfurts nach Breslau spricht. Allein pflichtmässig muss ich auch diese widerrathen. Jeder der drei Haupttheile der Monarchie hätte alsdann seine eigene Universität; die Einwohner eines jeden würden sich vorzugsweise zur ihrigen halten; was in Wissenschaft und Bildung das ganze Land vereinigen soll, trennte sich nach Provinzen und es entstände eine gewiss nachtheilige Einseitigkeit.*) Vielmehr würde es gut seyn, wenn die andern Universitäten auch catholisch-theologische Lehr- stühle hätten, und die Catholiken sich nach und nach dergestalt auf Protestantischen Universitäten zu studiren gewöhnten, dass die jetzige Breslausche Universität in ein blosses Gymnasium ver- wandelt werden könnte. Auf diese Weise würde es in der Folge von selbst dahin kommen, dass man nur zwey Universitäten, Berlin und Königsberg in Ew. Königliche Majestät Staaten übrig zu lassen brauchte. Die Kosten der Errichtung einer Universität sind in Berlin bei weitem minder bedeutend als an einem andern Orte. Allein man darf sie sich dennoch nicht zu gering denken. Unter 60000 Thaler sicherer jährlicher Einkünfte würde ich nichts Bedeutendes zu unternehmen wagen. Vielmehr wenn einige sonst unmittelbar durch die Königlichen Kassen unterhaltene Institute, wie die medi- cinischen Bildungs-Anstalten, die Thierarzeneyschule u. s. f. ihre Einkünfte verlieren sollten, würde diese Summe keinesweges gross genannt werden können.</p>
+
+               <p>Ich bin weit entfernt Ew. Königliche Majestät zu bitten, eine solche Summe auf die Königlichen Gassen anzuweisen. Es wird<pb n="10.143" xml:id="pbX143"/> vielmehr immer für mich ein Haupt-Grundsatz bei der Verwaltung des mir anvertrauten Amtes seyn: mich zu bemühen, es nach und nach (weil es auf einmal freylich unmöglich ist) dahin zu bringen, dass das gesammte Schul- und Erziehungswesen nicht mehr Ew. Königlichen Majestät Gassen zur Last fallen, sondern sich durch eignes Vermögen und durch die Beyträge der Nation erhalte.</p>
+
+               <p>Die Vortheile dabey sind mannigfaltig. Erziehung und Unterricht, die in stürmischen wie in ruhigen Zeiten gleich nothwendig sind, werden unabhängig von dem Wechsel, den Zahlungen des Staats so leicht durch die politische Lage und zufällige Umstände erfahren. Auch ein unbilliger Feind schont leichter das Eigenthum öffentlicher Anstalten. Die Nation endlich nimmt mehr Antheil an dem Schulwesen, wenn es auch in pecuniairer Hinsicht ihr Werk und ihr Eigenthum ist, und wird selbst aufgeklärter und gesitteter, wenn sie zur Begründung der Aufklärung und Sittlichkeit in der heranwachsenden Generation thätig mitwirkt.</p>
+
+               <p>Es würde daher am zweckmässigsten seyn, wenn die neue Universität ihr jährliches Einkommen durch Verleihung von Domänen-Gütern erhielte.</p>
+
+               <p>Die Nachtheile, welche man bei der Dotation öffentlicher An- stalten gewöhnlich von schlechter Verwaltung und von der durch die Veränderung der Preise entstehenden Veränderung des Quanti selbst besorgt, sind zwar nicht abzuläugnen, lassen sich aber durch mehrere Mittel bedeutend vermindern.</p>
+
+               <p>Ich wage es daher, bei Ew. Königlichen Majestät ehrerbietigst darauf anzutragen:</p>
+
+               <p>1. die Errichtung einer Universität in Berlin förmlich zu be- schliessen und der Section des öffentlichen Unterrichts aufzugeben, sogleich zu derselben zu schreiten;</p>
+
+               <p>2. der neuen Universität durch eine feyerliche Urkunde aller- gnädigst so viele Domänen-Güter, als nöthig sind, ein sicheres und reichliches Einkommen von jährlich 60000 Thlr. zu bilden, dergestalt zu verleihen, dass die Revenuen vom Tage der Urkunde an zu laufen anfangen und zum Besten der Universität bis zu ihrer Verwendung aufgesammelt werden können ; dabei aber fest<pb n="10.144" xml:id="pbX144"/>haltung und Verbesserung des Schulwesens bestimmtes Eigenthum der Nation bleiben sollen;</p>
+
+               <p>3. der Section des öffentlichen Unterrichts zu erlauben, Ew. Königlichen Majestät einen Plan vorzulegen: die Akademien der Wissenschaften und Künste (die jedoch beide immer ihre Selbstständigkeit behalten müssen) und die mit der letztern zu vereinigende Bau-Akademie, die sämmtlichen Medizinischen Anstalten, jedoch so, dass ihr hauptsächlicher Zweck nur dabei gewinnen könne, und die übrigen wissenschaftlichen oder technischen Institute und Sammlungen, als den botanischen Garten, die Thier- Arzeney-Schule, die Bibliothek, die Sternwarte u. s. f. in ange- messene Verbindung mit der Universität zu setzen, und diese Institute alsdann nach Maßgabe dieses Plans zu dieser Verbindung, die ihnen selbst nur vorteilhaft seyn kann, anzuweisen;</p>
+
+               <p>4. dem Grosscanzier und Finanz-A'Iinister aufzugeben, mit dem Ministerium des Innern und der Section des öffentlichen Unterrichts in demselben die nötige Rücksprache zu nehmen, wie eine solche Domänen-Verleihung, auf die sicherste, der Landes- verfassung angemessenste und der Universität vorteilhafteste Weise, eingeleitet werden könne;</p>
+
+               <p>5. endlich die 7000 Thlr. des ehemaligen Schlesischen Jesuiten- Fonds, von denen 5000 Thlr. Halle gehörten, 2000 Thlr. aber neuerlich von Ew. Königliche Majestät zur Verbesserung des Schul-Fonds bestimmt sind, von jetzt an zur Verbesserung der Universität Frankfurt zu bestimmen.</p>
+
+               <p>Wollten Ew. Königliche Majestät bey dieser Gelegenheit zugleich für die beiden Akademien der Wissenschaften und der Künste sorgen, deren Fortdauer sonst den Königlichen Gassen eine unaufhörlich wiederkehrende Last seyn wird, und deren gänzliche Aufhebung doch zu mannigfachen Schaden hervorbrächte; so wäre der angemessenste Weg dieser, jene Domänen- Verleihung noch auf 40000 Thlr. mehr auszudehnen.</p>
+
+               <p>Wenn Ew. Königliche Majestät erwägen, dass beyde Institute bisher über 20000 Thlr. aus Königlichen Gassen erhielten, die jetzt hinwegtielen, so wäre diese Summe, als eine Verbesserung betrachtet, in der That nicht gross zu nennen.<pb n="10.145" xml:id="pbX145"/> aber Allerhöchstdieselben Sich vorbehielten, die Vertheilung und Verw^endung derselben zugleich mit einer vorzunehmenden Reorganisation be3'der Akademien vorher zu bestimmen. Denn eine solche Reorganisation dieser Institute ist schlechterdings noth- wendig, wenn dieselben der Wissenschaft und Kunst ernstlich und wahrhaft nützen sollen.</p>
+
+               <p>Königsberg, den 14. Mai 1809. An des Königs Majestät.</p>
+
+               <p>XXVII. Zum Kabinettsvortrag. 14. Mai 1809.</p>
+
+               <p>(Eigenhändiger Entwiiff in den Akten des Kultusministeriums.)</p>
+
+               <p>Ich halte es für nothwendig, dem inliegenden Bericht noch Folgendes zum Behuf des mündlichen Vortrags im Cabinet bei- zufügen.</p>
+
+               <p>Die politische Lage Europas im gegenwärtigen Augenblick erlaubt keinem Staate, sich der Fortdauer des Friedens versichert zu halten. Auch der unsrige kann auf eine oder die andere Weise in den jetzigen Krieg verwickelt werden.</p>
+
+               <p>Diese Betrachtung macht, dass ich mit dem inliegenden Antrag noch einen andern, zwar nicht wichtigeren, aber dringenderen Zweck verbinde.</p>
+
+               <p>Die meisten Schul- und Lehranstalten haben während des letzten Krieges unglaublich gelitten; einige sind ihrer Auflösung nahe gekommen. Ein neues Ereigniss ähnlicher Art würden viele nicht überleben; und es w^ürde in der wichtigsten National-Ange- legenheit eine verderbliche Stockung entstehen.</p>
+
+               <p>Diesem Uebel könnte durch die jetzt geschehende Anweisung einer sicheren Revenue von 100 000 Thlr.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Im eigenhändigen Konzept heißt es hier noch : „die ich nur aus Schüchtern-</hi></note> zum grossen Theile abgeholfen werden.</p>
+
+               <p>Denn bis die Ungewissheit über Krieg und Frieden, die höchstens bis gegen Ende des Sommers fortdauern kann, sich entschieden hat, wird noch nicht über einen grossen Theil jener Summe disponirt se3'n.</p>
+
+               <pb n="10.146" xml:id="pbX146"/>
+               <p>Komme es nun zum Kriege, so erklärten Se. Alajestät der König, dass die Errichtung der Universität zu Berlin und die Verwendung des üeberrests der Gelder für die Akademien bis zum Frieden suspendirt bleibe ; dass aber die verliehenen Domänen mit ihrem gesammten Einkommen immer ausschliessliches Eigen- thum der Nation seyen, und autorisirte die Section des öffent- lichen Unterrichts, von diesen Revenuen die hülfsbedürftigen Schulanstalten des ganzen Landes zu unterstützen.</p>
+
+               <p>Für das ganze Land sind allerdings looooo Thlr. nicht ausserordentlich viel. Aber mit Sparsamkeit vertheilt, könnten sie etwas Bedeutendes ausrichten.</p>
+
+               <p>Man müsste nemlich denn vorzugsweise den mittleren Schulen, nemlich den höheren Bürger-Schulen und Gymnasien^ da die Land- und blossen Elementarschulen sich durch den Beitrag der Gemeinden erhalten können, zu Hülfe kommen, jedoch schlechterdings nur: 1. wo ihre eignen Hülfsquellen und die Provinzialfonds nicht zureichten ;</p>
+
+               <p>2. nur durch Unterstützung derjenigen Personen, welche wirk lieh bei dem Unterricht und der Erziehung selbst thätig sind;</p>
+
+               <p>3. auch diesen nur (da man im Fall des Kriegs auf allge- meinen Patriotismus rechnen müsste, und mit Sicherheit rechnen könnte) die höchst nöthigen Zuschüsse geben.</p>
+
+               <p>Was die höheren Institute betrifft, so müsste man sich bescheiden :</p>
+
+               <p>1. die wesentlich nützlichen, wie den botanischen Garten, die medicinischen u. s. f. da zu unterstützen, wo ihre gewöhnlichen Fonds nicht zureichten;</p>
+
+               <p>2. den Mitgliedern beider Academien, insoweit ihre Fonds nicht dazu hinlänglich sind, ihr Gehalt nach Massgabe des Bedürfnisses und der Beschaffenheit der Umstände ganz oder zum Theil zu sichern;</p>
+
+               <p>3. ebenso den Professoren beider Universitäten.</p>
+
+               <p>Bloss die Aufsicht führende Collegien, namentHch alle Mitglieder der Section des Cultus und öffentlichen Unterrichts, als solche, müßten von der Theilnahme an diesen Revenuen gänzlich ausgeschlossen seyn.</p>
+
+               <pb n="10.147" xml:id="pbX147"/>
+               <p>Verbindet man daher diesen Plan mit dem inliegenden Antrag, so erreichten Se. Majestät der König, wenn Sie den Antrag Allerhöchst genehmigten, aber auch unmittelbar vollzögen, einen drei- fachen überaus wichtigen Zweck. 1. Gäben Sie einen öffentlichen Beweis, der gewiss überall den tiefsten Eindruck machen würde, Ihrer Liebe und Ihres Eifers für Wissenschaft und Kunst, und zeigten zugleich, welche Verblendung des Staatsvermögens, und welche Gegenstände der Regierungssorgfalt, wenn nicht höhere Gründe etwas Anderes ge- bieten, Ihrem Herzen die theuersten sind. 2. Sicherten Sie die Existenz sämmtlicher Schulanstalten des Landes in einer äusserst gefahn^ollen Epoche.</p>
+
+               <p>3. Bereiteten Sie drei allgemein nützliche und selbst glänzende höhere wissenschaftliche Institute vor: Die Universität von Berlin, und zwei neu organisirte Academien für Wissenschaft und Kunst.</p>
+
+               <p>14. Mai 1809.</p>
+
+               <p>Humboldt.</p>
+            </div>
+
+            <div type="section" n="3">
+               <head>
+                  <title type="main">XXVIII. Antrag namens der Minister von Altenstein</title>
+               </head>
+               <p>und Graf Dohna. ig. Juli 1809.</p>
+
+               <p>(Eigenhändiger Entwurf in den Akten des Kultusministeriums. J</p>
+
+               <p>Königsberg, den 19. JuHus 1809. Der inliegende Antrag der Section des ö. U. hat zum Zweck : Die schon in Berlin vorhandenen höchsten wissenschaftlichen Anstalten durch die Verbindung einer Universität mit denselben vollständig zu machen; diesen vereinten Instituten ein abgesondertes und sicheres Eigenthum in liegenden Gründen zu verleihen ; dies Eigenthum zwar für jetzt aus den Königlichen Domänen zu nehmen, allein dem Staate, sobald es nur immer geschehen kann, durch die Saecularisation gleichviel katholischer geistlicher Stiftungen zu ersetzen. Wir halten uns, nach reiflicher Erwägung des ganzen Plans, überzeugt, dass die wirklich schon in Berlin vorhandenen wissenschaftlichen Institute in der That erst durch eine hinzukommende<pb n="10.148" xml:id="pbX148"/> Königsberg bestehen bleiben sollen; ich, der unterzeichnete Minister der Finanzen, glaube insbesondere, dass wissenschaftlichen Instituten liegende Gründe zu verleihen, sowohl für sie selbst, als den Staat vortheilhafter ist, als ihnen, wie bisher geschah, Zuschüsse aus Königlichen Gassen zu geben; und der auf 150000 Thlr. gemachte jährliche Umschlag scheint uns, wenn wir die Menge der dadurch versorgten Anstalten, und die Summe, welche sie, vor dem Kriege, vom Staate erhielten, erwägen, keineswegs zu hoch. Die Section d. ö. U. bescheidet sich indess von selbst, dass diese Summe erst bei günstigeren Zeiten wirklich hinzugeschossen werden kann, und trägt für jetzt nur auf die wirkliche Verleihung der Güter durch Ausfertigung einer feierlichen Urkunde dergestalt an, dass die Einkünfte, bis auf einen kleinen, gleich zur Disposition zu stellenden Theil, dem Staate als Darlehen gelassen werden. Auf diese Weise entgehet nichts den Bedürfnissen des Augenblicks, und da übrigens durch die Sanctionirung des Plans ein nützliches, glänzendes u. E. K. M. und Ihrer grossmüthigen Unterstützung der Wissenschaft und Kunst würdiges Unternehmen gegründet wird, und es in vielem Betracht und auch in A^bsicht auf die öffentliche Meynung wichtig ist dasselbe nicht aufzuschieben, so wagen wir bei E. K. M. ehrfurchtsvoll darauf anzutragen: den inliegenden Entw^urf in allen seinen Punkten zu genehmigen und die zur Ausführung desselben nöthigen Befehle allergnädigst zu ertheilen.</p>
+
+               <p>Königsberg, den 19. Julius 1809.</p>
+
+               <p>Namens Ihrer Excellenzien des Herrn Staatsministers Frh. V. Altenstein und des Herrn Staatsministers Grafen zu Dohna. XXIX. Antrag auf Errichtung der Universität Berlin.</p>
+
+               <p>24. Juli 1809. (Eigenhändiger Entwurf und Absdu-ift in den Akten des Kultusministeriums, Abschrift im Geh. Staatsarchiv; gedruckt Werke V j2^; Köpke, Die Gründung der Königlichen Friedr'ich-Wilhelms-Universität zu Berlin S. i8g No. ig.)</p>
+
+               <p>Königsberg, d. 24. Juli 1809. An des Königs Majestät.</p>
+
+               <p>Es wird befremdend scheinen, dass die Section des öffentlichen<pb n="10.149" xml:id="pbX149"/> ZU bringen wagt, dessen Ausführung ruhigere und glücklichere Zeiten vorauszusetzen scheint.</p>
+
+               <p>Allein Ew. Königl. Majestät haben auf eine so vielfache und einleuchtende Weise gezeigt, dass Sie, auch mitten im Drange beunruhigender Umstände, den wichtigen Punkt der National-Er- ziehung und Bildung nicht aus den Augen verlieren, dass ihr diese ebenso erhabene als seltene Gesinnung den Muth zu dem folgenden Antrage einflösst.</p>
+
+               <p>Ew. Königl. Majestät geruheten durch eine Allerhöchste Cabinets-Ordre vom 4'^° September 1807 die Einrichtung einer allgemeinen und höheren Lehranstalt in Berlin zu genehmigen ; seitdem ist bei verschiednen Einrichtungen und Anstellungen da- rauf Rücksicht genommen worden; allein es wird zur wirklichen Ausführung noch immer ein zweiter entscheidender Schritt erfordert, und sie hält es aus einem doppelten Grunde für noth- wendig, diesen im gegenwärtigen Moment zu thun.</p>
+
+               <p>Weit entfernt, dass das Vertrauen, welches ganz Deutschland ehemals zu dem Einflüsse Preussens auf wahre Aufklärung und höhere Geistesbildung hegte, durch die letzten unglücklichen Er- eigniße gesunken se}^, so ist es vielmehr gestiegen. Man hat gesehen, welcher Geist in allen neueren Staats-Einrichtungen Ew. Königl. Majestät herrscht, und mit welcher Bereitwilligkeit, auch in grossen Bedrängnißen, wissenschaftliche Institute unterstützt und verbessert worden sind. Ew. Königl. Majestät Staaten können und werden daher fortfahren von dieser Seite den ersten Rang in Deutschland zu behaupten und auf seine intellectueile und moralische Richtung den entschiedensten Einfluss auszuüben.</p>
+
+               <p>Sehr viel hat zu jenem Vertrauen der Gedanke der Errichtung einer allgemeinen Lehranstalt in Berlin beigetragen. Nur solche höhere Institute können ihren Einfluss auch über die Gränzen des Staates hinaus erstrecken. Wenn Ew. Königl. Majestät nunmehr diese Einrichtung feierlich bestätigten und die Ausführung sicherten; so würden Sie Sich auf's neue Alles, was sich in Deutschland für Bildung und Aufklärung interessirt, auf das Festeste verbinden; einen neuen Eifer und neue Wärme für das Wiederaufblühen Ihrer Staaten erregen, und in einem Zeitpunkte, wo ein Theil Deutschlands vom Kriege verheert, ein anderer in fremder Sprache von fremden Gebietern beherrscht wird, der deutschen Wissen<pb n="10.150" xml:id="pbX150"/>bindungen einzugehen. Der erste Gedanke an eine allgemeine und höhere Lehranstalt in Berlin entstand unstreitig aus der Betrachtung, dass es schon jetzt in Berlin ausser den beiden Akademien, einer grossen Biblio- thek, Sternwarte, einem botanischen Garten und vielen Sammlungen eine vollständige medicinische Fakultät wirklich giebt. Man fühlte, dass jede Trennung von Fakultäten der acht wissenschaftlichen Bildung verderblich ist, dass Sammlungen und Institute, wie die oben genannten, nur erst dann recht nützlich werden, wenn voll- ständiger wissenschaftlicher Unterricht mit ihnen verbunden wird, und dass endlich, um zu diesen Bruchstücken dasjenige hinzuzusetzen, was zu einer allgemeinen Anstalt gehört, nur um einen einzigen Schritt weiter zu gehen nöthig war.</p>
+
+               <p>Auch die Section bleibt diesem Gesichtspunkte getreu. Ihr Wunsch geht dahin die Akademie der Wissenschaften, die der Künste, die wissenschaftlichen Institute, namentlich die klinischen, anatomischen und medicinischen, überhaupt in so fern sie rein wissenschaftlicher Natur sind, die Bibliothek, das Observatorium, den botanischen Garten, und die naturhistorischen und Kunst-Sammlungen und die allgemeine Lehranstalt selbst dergestalt in Ein orga- nisches Ganzes zu verbinden, dass jeder Theil, indem er eine angemessene Selbständigkeit erhält, doch gemeinschaftlich mit den andern zum allgemeinen Endzweck mitwirkt.</p>
+
+               <p>Aus dieser Ansicht der Sache ergiebt sich die örtliche Bestimmung, dass nämlich eine solche Anstalt nur in Berlin ihren Sitz haben könne, von selbst. Es würde, wenn nicht unmöglich sein, doch unglaubliche Kosten verursachen, die genannten Institute in einen andern Ort zu verlegen. Auch darf eine Anstalt, die Alles, was zur höhern Wissenschaft und Kunst gehört, wie in einen Brennpunkt vereinigt, sich nirgend anders, als an dem Sitz der Regierung befinden, wenn nicht sie sich der Mitwirkung vieler schätzbarer Männer, und beide sich gegenseitig des Beistandes berauben wollen, den sie einander zu leisten im Stande sind.</p>
+
+               <pb n="10.151" xml:id="pbX151"/>
+               <p>legen, und ihr, indem sie übrigens von allen veralteten Missbräuchen gereinigt wird, das Recht einräumen zu dürfen, aka- demische Würden zu ertheilen. In der That und Wirklichkeit müsste sie, welchen Titel man ihr auch beilegen möchte, doch alles enthalten, was der Begrif einer Universität mit sich bringt. Sie könnte, von richtigen Ansichten allgemeiner Bildung ausgehend, weder Fächer ausschliessen, noch von einem höhern Standpunkt, . da die Universitäten schon den höchsten umfassen, beginnen, noch endlich sich bloss auf praktische Uebungen beschränken.</p>
+
+               <p>Ohne den Xamen aber und ohne das Recht der Ertheilung akademischer Würden, würde sie immer nur wenig auswärtige Zöglinge zählen. Man würde im Auslande weder einen bestimmten Begriff von ihrer Beschaffenheit, noch eigentliches Vertrauen zu ihr haben, und sie mehr für einen wissenschaftlichen Luxus, als für ein ernstes und nützliches Institut halten.</p>
+
+               <p>Dagegen würde die Section bei Ew. Königl. Majestät allerunter- thänigst darauf antragen, Frankfurth und Königsberg bestehen zu lassen, damit jeder In- und Ausländer Freiheit behielte, Berlin entweder zu seiner ganzen, oder, wie es ehemals so häutig mit Göttingen geschah, nur, nachdem er eine andere Universität besucht hatte, bloss zu seiner hohem und letzten Ausbildung zu wählen.</p>
+
+               <p>Auch ist ausserdem die Beibehaltung Königsbergs wegen seiner Entfernung, und die von Frankfurth (wenigstens für jetzt) deswegen rathsam, weil es nie gut ist zu zerstören, ehe etwas Anderes völlig an die Seite getreten ist, und weil die ausländischen Besitzungen Frankfurths bei einer Aufhebung der Universität leicht eingezogen werden könnten. Wären indess diese Besitzungen einmal veräussert, und hätte sich Berlin auch als schlichte und einfache Universität bewährt; so könnte durch die Aufhebung Frankiurths alsdann das bewirkt werden, was allerdings das Wünschenswürdigste wäre, dass nämlich Berlin und Königsberg die beiden einzigen Universitäten der Preussischen Staaten blieben. Bis dahin müsste Frankfurth, jedoch nur mit wenig Aufwand, und bloss durch Berufung von immer und überall brauchbaren Männern, nicht durch Anlegung von Instituten verbessert werden.</p>
+
+               <pb n="10.152" xml:id="pbX152"/>
+               <p>Nach einer zwar nur ungefähren, allein weder zu reichlichen, noch allzu sparsamen Berechnung, lassen sie sich zu i5ooooThlrn. jährlich anschlagen, wobei für die Akademie der Wissenschaften nur auf einen Zuschuss zu den ihr eigenthümlich zugehörenden Einkünften gerechnet ist.</p>
+
+               <p>Die Section des öffentlichen Unterrichts ist weit entfernt, Ew\ Königl. Majestät zu bitten, eine solche Summe auf die Königlichen Gassen anzuweisen. Es wird vielmehr immer für dieselbe ein Hauptgrundsatz bei ihrer Verwaltung seyn: sich zu bemühen, es nach und nach (weil es auf einmal freilich unmöglich ist) dahin zu bringen, dass das gesammte Schul- und Erziehungswesen nicht mehr Ew. Königl. Majestät Gassen zur Last falle, sondern sich durch eignes Vermögen und durch die Beiträge der Nation erhalte.</p>
+
+               <p>Die Vortheile dabei sind mannigfaltig. Erziehung und Unterricht, die in stürmischen, wie in ruhigen Zeiten gleich nothwendig sind, werden unabhängig von dem Wechsel, den Zahlungen des Staates so leicht durch die politische Lage und zufällige Umstände erfahren. Auch ein unbilliger Feind schont leichter das Eigenthum öffentlicher Anstalten. Die Nation endlich nimmt mehr Antheil an dem Schulwesen, v\Tnn es auch in pecuniairer Hinsicht ihr Werk und ihr Eigenthum ist, und wird selbst aufgeklärter und gesitteter, wenn sie zur Begründung der Aufklärung und Sittlichkeit in der heranwachsenden Generation thätig mitwirkt.</p>
+
+               <p>Es würde daher am zweckmässigsten seyn, wenn die Universität und die mit ihr verbundenen Institute ihr jährliches Einkommen durch Verleihung von Domainen-Gütern erhielten. Die Nachtheile, welche man bei der Dotation öif entlicher Anstalten gewöhnlich von schlechter Verwaltung und von der durch die Veränderung der Preise entstehenden Veränderung des Quanti selbst besorgt, sind zwar nicht abzuleugnen, lassen sich aber durch mehrere Mittel vermindern.<pb n="10.153" xml:id="pbX153"/> ist, dass die Berlinischen wissenschaftlichen Institute, die, ihnen durch die Königliche Milde zu verleihenden Güter in der Nähe besitzen, um durch keinen Zufall von ihren Einkünften getrennt zu werden, ist es aus den vorhin ausgefühnen Gründen, und bei der Ungewissheit aller Ereignisse in der That wichtig, dass dies Eigenthum der Nation für ihre höchsten wissenschaftlichen Bedürfnisse sobald als nur immer möglich zugesichert w^erde. Die Säkularisation jener Güter aber dürfte im gegenwärtigen Augen- blick weder in politischer noch finanzieller Rücksicht rathsam sein. Die Section wagt es daher, bei Ew. Königl. Majestät ehr- erbietigst darauf anzutragen</p>
+
+               <p>1. Die Errichtung einer Universität in Berlin und die Verbindung der in Beriin bereits existirenden wissenschaftlichen Institute und Sammlungen, die medicinischen mit eingeschlossen, und der Akademie der Wissenschaften und Künste mit derselben förmlich zu beschhessen und der Section des öffentlichen Unterrichts aufzugeben, einen Plan dazu zu entwerfen, und sogleich nach und nach zur Ausführung desselben zu schreiten, als die Disposition über die Einkünfte möglich sein wird;</p>
+
+               <p>2. diesen sämmtlich unter der alleinigen Direction der Section des öffentlichen Unterrichts zu verbindenden Anstalten so viele Domainen-Güter, als nöthig sind, ein sicheres und reichliches Einkommen von jährlichen 150000 Reichsth. zu bilden, und das Prinz Heinrichssche Palais unter dem Namen des Universitäts-Gebäudes und den Ueberrest des grossen viereckigen Gebäudes, in welchem sich die x\kademien jetzt befinden, das ihnen aber jetzt nicht ganz gehört, zu verleihen, und dabei festzusetzen, dass diese Güter und Gebäude auf ewige Zeiten hinaus Eigenthum dieser Anstalten, und wenn dieselben einmal aufhören sollten, ein für die Unterhaltung und Verbesserung des Schulwesens bestimmtes Eigenthum der Nation bleiben sollen;</p>
+
+               <p>3. den von der Section anzufertigenden Vertheilungsplan dieser Güter der aüerhöchsten Genehmigung vorzubehalten;<pb n="10.154" xml:id="pbX154"/> leihen, einige schon für die Universität in Berlin bestimmte und jetzt auf andere Gassen angewiesene Gelehrte auf diesen Etat zu übernehmen, und einige andere, nur etwa drei oder vier, auswärtige vorzüglich wichtige sogleich zu berufen, ehe sie anderweitige Verbindungen eingehen, — der Ueberrest aber, sobald die Lage des Staats es erlaube, gleichfalls ganz, oder in zwei oder drei Theilen zur Disposition der Section gestellt werde;</p>
+
+               <p>6. dem Gross-Ganzler und Finanz-^linister aufzugeben, mit dem Ministerium des Innern und der Section des öffentlichen Unterrichts in demselben die nöthige Rücksprache zu nehmen, wie eine solche Domainen-Verleihung auf die sicherste, der Landes- verfassung angemessenste und der Universität vortheilhafteste Weise eingeleitet werden könne;</p>
+
+               <p>7. endlich die 7000 Thlr. des ehemaligen Schlesischen Jesuiten- Fonds, von denen 5000 Thlr. Halle gehörten, 2000 Thlr. aber neuerlich von Ew. Königl. Majestät zur Verbesserung des Schulfonds bestimmt sind, von jetzt an zur ^"erbesserung der Univer- sität Frankfurt!! zu bestimmen, bis vielleicht auch für Frankfurth, Königsberg und die übrigen wissenschaftlichen Anstalten, welche jetzt Zuschüße aus Königlichen Gassen erhalten, statt dieser Zuschüße Domainen-Verleihung einzuführen für rathsam erachtet wird.</p>
+
+               <p>24</p>
+
+               <p>Königsberg, den (lo)ten Juli 1809.*)</p>
+
+               <p>Die Section des öf. Unterr.</p>
+
+               <p>Humboldt.</p>
+
+               <p>XXX. Über den Antrag zur Gründung der</p>
+
+               <p>Universität Berlin. 20. Juli 1809.</p>
+
+               <p>(Schreiben im Geh. Staatsarchiv ; gedruckt Historische Zeitschriß Bd. 6^.J</p>
+
+               <p>An Altenstein.</p>
+
+               <p>Es würde mir schwer werden, Ew. Excellenz auszudrücken, mit welchen Empfindungen von Freude und wirklicher Dankbar<pb n="10.155" xml:id="pbX155"/>sätzen und Maximen Ew. Excellenz gehandelt hätte ! Ich gebe mir die Ehre, jetzt Ew. Excellenz meinen Bericht nebst dem schon, so wie Sie es wünschten, vom Herrn Grafen von Dohna Excellenz unterzeichneten Begleitungsbericht abermals vorzulegen. Wenn Ew. Excellenz ihn einer Durchsicht würdigen, werden Sie finden, dass ich ihn durchaus nach Ihren Ideen umgearbeitet habe, und dass besonders der Vorschlag mit der Berliner Universität danach eine ganz andere und in der That richtigere Stellung erhalten hat. Ueberhaupt schmeichle ich mir, dass auch in diesem Punkte meine Ansichten eigentlich wenig oder gar nicht von denen Ew. Excellenz abweichen. Auch in bin innig überzeugt, dass eine Universität in einem kleinen Orte unendlich besser und angemessener ist. Allein ich bin es auch ebenso sehr, dass die Anstalten in Berlin schon ehemals zu weit gediehen Vv-aren, um sie noch jetzt verlegen oder unvollständig lassen zu können, und dass eine höhere und allgemeine Lehranstalt, für deren Errichtung im Ganzen auch Ew. Excellenz zu stimmen scheinen, nur dadurch noch mit Ernst und Solidität einer gewissen in Berlin befürchteten Frivolität begegnen kann, wenn sie sich so streng, als es der Geist der Zeit erlaubt, an die Formen der bis- herigen Universitäten bindet und diesem Namen getreu bleibt. Sollten Ew. Excellenz noch jetzt einzelne Aenderungen nöthig finden, so ersuche ich Sie gehorsamst, sie mir anzuzeigen. Ich werde mit grösstem Vergnügen auf dieselben Rücksicht nehmen, und dasselbe wird gewiss auch Herr Graf v. Dohna in Absicht seines Begleitungsberichtes thun.</p>
+
+               <p>Die Summe habe ich nunmehr, da alle Institute mit in den Plan aufgenommen sind, auf 150000 Thaler gesetzt. (Die einzige Oper und Kapelle kosteten ehemals fast so viel.) Meinen Unter<pb n="10.156" xml:id="pbX156"/>lungen der leblosen (?) Institute 50000 Thaler, und unter diesen 15000 Thaler auf die medizinisch-wissenschaftlichen, 10 000 Thaler auf die Bibliothek, 5000 Thaler auf den botanischen Garten gerechnet habe. Hoffen würde ich freiHch allerdings, dass bei der wirklichen Anweisung der Domainen die Einkünfte dieser nur so, ^^'ie sie jetzt waren, nicht wie sie leicht höher ausgebracht werden können, angenommen würden, und auf Ew. Excellenz liberale Geneigtheit, wissenschaftlichen Instituten zu helfen, könnte ich hierin gewiss mit Zuversicht Rechnung machen.</p>
+
+               <p>Da die Staatskassen jetzt nur eine kleine Summe, die, zum Theil wenigstens, doch aufgewandt werden müsste, verlieren, so scheint es mir höchst wahrscheinlich, dass Se. Majestät der König auch jetzt gleich den von Ew. Excellenz unterstützten Antrag zu genehmigen geruhen dürften, und es scheint mir in der That von der äussersten Wichtigkeit, dass die Sache gleich jetzt so weit gediehe : i . dass der Antrag durch eine Kabinets-Ordre sanktionirt werde; 2. dass die wirkliche namentliche Ausmittelung der anzu- weisenden Domainenstücke erfolge; 3. dass die Einkünfte als Eigenthum der Anstalten und an den Staat gemachtes Darlehen betrachtet werden.</p>
+
+               <p>Ich wage es daher, Ew. Excellenz gehorsamst zu ersuchen, sobald es nur immer möglich ist, die Sache aufs neue Ihrer Aufmerksamkeit zu würdigen und mich durch Rücksendung des unterzeichneten oder auch zugleich abgeänderten Begleitungsberichts in Stand zu setzen, den Antrag wirklich an Se. Majestät gelangen zu lassen. Ew. Excellenz werden Sich in der That durch die Unterstützung dieses Unternehmens, das vorzüglich nur durch Ihre Zustimmung gelingen kann, ein neues ^^erdienst um den Staat und die Wissenschaft erwerben.</p>
+
+               <p>Königsberg, den 20. Juli 1809. Humboldt. XXXI. Über die finanzielle Dotierung der wissenschaftlichen Institute. 4. August 1809. (Konzept in den Akten des Kultusministeriums; gedruckt bei Köpke a. a. O.</p>
+
+               <p>S. igj No. 20.)</p>
+
+               <p>Bei dem Mangel aller iVcten hier und der Schwierigkeit Er<pb n="10.157" xml:id="pbX157"/>die Universität Halle empfing etatsmässig . 36000 Thlr. die Akademie der Wissenschaften circa . . 3 500 „ die Kunst- Akademie circa 17000 „ die Haupt-Kunstschul-Casse 1 000 „ die Bau-Akademie circa qooo „ das Walter'sche Museum circa i 500 „ die Thierarznei-Schule war so ausserordentlich reich dotirt, dass ich Einkünfte oft habe angeben hören auf 20000 „</p>
+
+               <p>Ausserdem waren eine Menge von Gehalten sowohl Hallischer als Berlinischer Gelehrten, wie ich mich täglich überzeuge, besonders und einzeln, und zum Theil mit sehr ansehnlichen Pensionen und Gehalten auf die Dispositions-, General-, Do- mainen- und extraordinarien Gassen angewiesen und man irrt sich wohl nicht, wenn man dies Quantum auf wenigstens 10 bis 15000 Thlr. anschlägt. Was endlich die medizinischen Anstalten gekostet haben, ist mir nicht bekannt.</p>
+
+               <p>Ew. Hochwohlgeboren sehen aber hieraus gewiss selbst, dass was mit mathematischer Gewissheit angenommen werden kann, das ist, dass auf bisherige Weise für diese Anstalten 100 000 Thlr. ausgegeben wurden, und es war dabei eine wirklich erbärmliche Summe auf Vermehrung der Bibliothek und gar nichts auf Vermehrung der andern Sammlungen gerechnet. Es entstand hieraus nun, dass der König alljährlich ausserordentliche Ankäufe machen musste, oder einige weniger begünstigte Institute, wie z. B. die Bibhothek, wirklich in Verfall geriethen. Endlich wäre es wohl kein Wunder, wenn eine neue Universität, bei der die Professoren noch nicht viel auf Collegia rechnen können, theuerer wäre, als ehemals Halle, und wenn wirklich das wissenschaftliche Fach einen gewissen Schwung erhalten, und Preussen, statt dass es ehemals eine grosse politische Macht besass, jetzt eine moralische gewinnen soll, so darf man nicht von dem Grundsatze ausgehen, dass nur so viel als sonst, oder gar nach Maassgabe der Ver<pb n="10.158" xml:id="pbX158"/>selben sich Ihrer Vertretung zu erfreuen haben.</p>
+
+               <p>Königsberg, den 4. August 1809. An den Herrn Geheimen Staatsrath von Ivlewitz, Hochwohlgeboren.</p>
+
+               <p>Humboldt.</p>
+
+               <p>XXXII. „Unmaßgebliche Vorschläge zu der wegen Errichtung einer Universität in Berlin angesetzten</p>
+
+               <p>Konferenz." 28. August i8og. (Eigenhändiger Entwurf in den Akten des Kultusministeriwns.) I.</p>
+
+               <p>§ I. Es darf öffentlich bekannt gemacht werden:</p>
+
+               <p>I. Dass der König aufs neue den Entschluss, eine UniA^ersität in Berlin, dem Fortbestehen von Frankfurt und Königsberg unbeschadet, zu errichten, bestätigt hat.</p>
+
+               <p>§ 2. 2. Dass Se. Maj. befohlen, dazu alle vorläufig noth- wendigen Schritte zu thun, damit die Universität, unmittelbar nach wiederhergestellter Ruhe in Deutschland, eröfnet werden könen.</p>
+
+               <p>§ 3. 3. Dass die Akademien der Wissenschaften und Künste mit der Universität und mit den wissenschaftlichen Instituten ein Ganzes bilden sollen, in welchem jedoch jeder einzelne der drei Theile seine Selbständigkeit erhält.</p>
+
+               <p>§ 4. 4. Dass folglich die bis jetzt mit der Akademie der Wissenschaften verbundenen Institute von derselben künftig getrennt werden, und zum gemeinschaftlichen Gebrauch der Universität und Akademien dienen sollen.</p>
+
+               <p>§ 5. 5. Dass Se. Majestät diesen höchsten wissenschaftlichen Anstalten, soviel als die gegenwärtige Lage des Staats erlaubt hat, eine ihrem Zw^eck angemessene Dotation verliehen, und ihnen das Prinz Heinrichsche Palais und das ganze Akademie-Gebäude eingeräumt haben. § 6. 6. Dass es für die Anstalten am nützlichsten, und für die Staats-Cassen am leichtesten geschienen hat, diese Dotation in Landeigenthum zu gewähren.<pb n="10.159" xml:id="pbX159"/> Section zu erlassenden A^erfügung geschehen. Nach der Redaction beider piecen legt die Section die Concepte sämmtlichen dir. Herrn Ministern Excellenzen zur Durchsicht vor.</p>
+            </div>
+
+            <div type="section" n="4">
+               <head>
+                  <title type="main">IL</title>
+               </head>
+               <p>§ 9. Zur Vollziehung des Königlichen Willens dürfte jetzt Folgendes zu veranstalten se}^:</p>
+
+               <p>I. Die Domainen-Güter, welche das Einkommen gewähren sollen, zu bestimmen.</p>
+
+               <p>Dies Geschäft würde ich am liebsten dem Regierungs-Präsidenten von Vincke übertragen sehen. § 10. Bei der Bestimmung müsste ich bitten den jetzigen Ertrag, nicht die etwaige mögliche Melioration in Anschlag zu bringen. Eher Hesse sich nach 30 Jahren eine Revision des Ertrages festsetzen. § II. 2. Die Urkunde auszufertigen. Weil es möglich wäre, dass man auf die Domainen einen früheren Anspruch geltend zu machen versuchte, so müssten wohl in dieser zugleich schon jetzt die geistlichen, zu saecularisirenden Güter festgesetzt werden, an welche sich die Anstalt alsdann halten sollte. Doch schlüge ich hierzu zwei Urkunden vor.</p>
+
+               <p>§ 12. 3. Die Administration anzuordnen. Ich bitte die Anstalt und die Section der Administration zu überheben, und dieselbe Räthen der Kurmärkischen Regierung, welche mit Zuziehung des Praesidii den Namen einer Admi- nistrations-Commission führen, aber unter der obersten Leitung der Section stehen, zu überlassen.</p>
+
+               <p>§ 13. 4. Die Art des Darlehens zu bestimmen.</p>
+
+               <p>Ob und wie etwas über die Zahlung bestimmt werden soll?</p>
+            </div>
+
+            <div type="section" n="5">
+               <head>
+                  <title type="main">IIL</title>
+               </head>
+               <p>§ 14. Jetzt wünsche ich nur bewilligt:</p>
+
+               <p>1 . Für die Akademie der Wissenschaften und mit ihr verbundene Institute 8700 Thlr.</p>
+
+               <p>2. Für die Bibliothek noch besonders . . . 1 414 „ 3. Für die Universität Frankfurt statt Wolfs (?) 2 100 „ 4. Für Schmalz 800 „</p>
+
+               <p>5. Für 3 neu zu berufende Subjecte . . . 8000 „</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

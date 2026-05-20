@@ -1,0 +1,272 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Einleitung in das gesamte Sprachstudium</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Siebenter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif0702humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1907">1907</date>
+                  </imprint>
+                  <biblScope unit="page" from="619" to="628"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="7.619" xml:id="pbVII619"/>
+            <head>
+               <title type="main">15. Einleitung in das gesammte Sprachstudium.</title>
+            </head>
+            <p>Begriff des Werks. I. Allgemeiner Theil. 1. Untersuchung der Sprache, ihrer Natur, ihrer Verthei- lung in mehrere einzelne, und ihres Verhältnisses zu dem Menschen und zur Welt. A. Beschaffenheit der Sprache, und Verhältniss derselben zum Menschen überhaupt genommen. B. Charakter einer einzelnen Sprache, und Verhältniss der- selben zu ihrer Nation. (] a. Verschiedenheit der Sprachen von Seiten ihrer Wirkung, ihres Einflusses auf die Sprechenden, betrachtet. C.^" Darstellung der Entstehung, Verwandtschaft, der Umänderungen, und des Untergangs der Sprachen. D. Umfang aller Verschiedenheiten der Sprache, und Beschaffenheit der Sprache des Menschengeschlechts. E. Zergliederung der einzelnen Theile der Sprache, und Untersuchung, auf welchen derselben ihr Total Einfluss beruht. F. Summarische Darstellung, welcher Einfluss auf das Menschengeschlecht durch die uns bekannten Sprachen wirklich hervorgebracht worden ist, oder noch hervorgebracht wird. 2. Methodenlehre. Praktische Anwendung der Resultate der vorigen Untersuchung auf die A. Erlernung, B. Beurtheilung, und C. Behandlung und Bearbeitung der einzelnen Sprachen. Handschriß (ij halbbeschriebene Quartseiten) im Archiv in Tegel.</p>
+
+            <pb n="7.620" xml:id="pbVII620"/>
+            <p>IL Specieller Theil. Einleitung.</p>
+
+            <p>1. Allgemeine vergleichende Grammatik. A. nach ihren Gesetzen und Analogien.</p>
+
+            <p>B. nach ihren Bezeichnungsmitteln. C. nach ihrem Einfluss auf die Darstellung der Gedanken.</p>
+
+            <p>2. Allgemeine vergleichende Lexikographie. A. nach ihren Gesetzen und Analogien.</p>
+
+            <p>B. nach ihren Wurzellauten.</p>
+
+            <p>C. nach ihrem Verhältniss zum ßedürfniss des Sprechenden.</p>
+
+            <p>3. Verwandtschaftsbestimmung der Sprachen.</p>
+
+            <p>III. Philosophische Geschichte der Sprachen, und Bestimmung ihres Einflusses auf die verschiedenen Nationen, und in verschiedenen Zeiten.</p>
+
+            <p>Hierin liegt der Stoff zu drei Werken, wie die Römischen Zahlen sie anzeigen.</p>
+
+            <p>Die grossen lateinischen Zahlen theilen das erste in zehn Bücher ab.</p>
+
+            <p>Begriff des Werks. I.</p>
+
+            <p>Unter einer Einleitung in das gesammte Sprach- studium verstehe ich den systematisch geordneten Inbegriff aller derjenigen leitenden Grundsätze und geschichtlichen Angaben, welche dazu dienen können, das Sprachstudium — es sey nun auf mehrere, oder alle Sprachen, oder auf eine einzelne, oder endlich auf die Natur der Sprache selbst gerichtet — zu erleichtern, zu berichtigen, zu erweitern, und fruchtbar zu machen.</p>
+
+            <p>2.</p>
+
+            <p>Eine solche Einleitung muss daher das Allgemeinste umfassen, dem Tiefsten sich so sehr, als möglich nähern, und zugleich so weit zum Besondren hinabsteigen, als der Verstand noch Analogie und Zusammenhang aufzufinden vermag, und sein Geschäft nicht bloss dem Gedächtniss und der Uebung anvertrauen darf.</p>
+
+            <p>Man konnte der hier angedeuteten</p>
+
+            <p>Lehre aber nur den Namen einer</p>
+
+            <p>Einleitung in ein Studium geben, da weder von allen, noch<pb n="7.621" xml:id="pbVII621"/> von Einer Sprache eine Wissenschaft, oder Kunde, sondern von jeder nur ein Studium möglich ist. Denn jede Sprache ist unendlicher Natur, und erlaubt daher nicht, dass sie je vollständig ergründet, und noch viel weniger vollständig dargestellt werde.</p>
+
+            <p>4So wie eine einzelne Sprache das Gepräge der Eigenthüm- lichkeit der Nation an sich trägt ; so ist es höchst wahrscheinlich, dass sich in dem InbegriiF aller Sprachen die Sprachfähigkeit, und insofern derselbe davon abhängt, der Geist des Menschengeschlechts ausspricht.</p>
+
+            <p>Denn die Sprache ist ein selbstständiges, den Menschen eben so wohl leitendes, als durch ihn erzeugtes Wesen; und der Irr- thum ist längst verschwunden, dass sie ein Inbegriff von Zeichen von, ausser ihr, für sich bestehenden Dingen, oder auch nur Begriffen sey. Nichts berechtigt uns anzunehmen, dass die Mehrheit der Sprachen nur die Absonderung der Nationen, als eine natur- nothw^endige Folge, begleite, und dass derselben nicht eine viel wichtigere Absicht der Weltanordnung, oder eine viel tiefere Thätigkeit des menschlichen Geistes zum Grunde liege. Wir wissen vielmehr, dass jede einzelne Wirksamkeit desselben eine gewisse Einseitigkeit an sich trägt, die aber durch andre, zu ihr passende ven^ollständigt wird; und wir sehen, dass sich mehrere, genau erforschte Sprachen in ihren Vorzügen und Mängeln gegen- seitig ergänzen. Vermuthlich ist dies daher bei allen, wenn gleich viele vor ihrer völligen Ausbildung untergehen, der Fall ; und vermuthlich ist der eigentliche Grund der Vielheit der Sprachen das innere Bedürfniss des menschlichen Geistes, eine Mannigfaltigkeit intellectueller Formen hervorzubringen, welche ihre Schranke auf uns gleich unbekannte Weise, als die Mannigfaltigkeit der belebten Naturbildungen, findet. Will man diese Aehnlichkeit weiter verfolgen; so lässt sich vielleicht auch behaupten, dass eigentlich neue Sprachen nicht mehr entstehen; allein Spielarten viel mehr als in der, überhaupt weit fester begränzten physischen Natur.</p>
+
+            <p>Jede Sprache setzt dem Geiste derjenigen, welche sie sprechen, gewisse</p>
+
+            <p>Gränzen, schliesst, insofern sie eine gewisse</p>
+
+            <p>Richtung giebt, andre aus.</p>
+
+            <p>Die Erforschung aller Sprachen kann daher<pb n="7.622" xml:id="pbVII622"/> darauf führen, zu sehen, welches der weiteste Aufflug ist, den eine gestattet, und auf welche Weise die Gränzen des menschlichen Geistes von dieser Seite gleichsam historisch zu bestimmen sind.</p>
+
+            <p>6.</p>
+
+            <p>Diese Hauptaufgabe, so weit es geschehen kann, zu lösen, die Sprachfähigkeit des Menschengeschlechts auszumessen, muss das eigentliche Geschäft einer Einleitung in das gesammte Sprachstudium seyn.</p>
+
+            <p>Indem sie dahin strebt, erfüllt sie von selbst alle untergeordneten Forderungen.^)</p>
+
+            <p>7Sie hat aber nur Bruchstücke des Werks der menschlichen Spracherzeugung vor sich.</p>
+
+            <p>Das Meiste ist untergegangen;</p>
+
+            <p>Vieles bleibt ewig unergründlich.</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">Man muss</title>
+               </head>
+               <p>sich daher vorzüglich auf dasjenige stützen, was die Vernunft über das Vorhandne hinaus, allein immer mit Hülfe desselben, zu erkennen im Stande ist.</p>
+
+               <p>Die erste hier nothwendige Untersuchung richtet sich daher auf die Sprache, und ihren Einfluss auf den Menschen, beide in ihrem allgemeinen Begriff genommen, und ohne Rücksicht auf individuelle Vielheit und Eigenthümlichkeit.</p>
+
+               <p>9Zwischen dem Punkte,</p>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">wo man</title>
+               </head>
+               <p>alle Eigenthümlichkeit ausschHesst, bis zu dem,</p>
+            </div>
+
+            <div type="section" n="3">
+               <head>
+                  <title type="main">wo man</title>
+               </head>
+               <p>alle bekannte zusammenfasst, zwischen dem Begriff des Menschen und dem Menschengeschlechte, liegt das ganze</p>
+
+               <p>Gebiet der lebendigen</p>
+
+               <p>Mannigfaltigkeit der wirklichen Sprachen,</p>
+
+               <p>Nationen und Individuen; welches die Untersuchung vollständig prüfen, ausmessen, und bearbeiten, allein vorher die leitenden</p>
+
+               <p>Grundsätze dazu in^) dem Charakter, welcher eine einzelne</p>
+
+               <p>Sprache bestimmt,</p>
+            </div>
+
+            <div type="section" n="4">
+               <head>
+                  <title type="main">und</title>
+               </head>
+               <p>in ^) dem Zweck und der Beschaffenheit</p>
+            </div>
+
+            <div type="section" n="5">
+               <head>
+                  <title type="main">der Absonderung</title>
+               </head>
+            </div>
+
+            <div type="section" n="6">
+               <head>
+                  <title type="main">des Menschengeschlechts</title>
+               </head>
+               <p>in</p>
+            </div>
+
+            <div type="section" n="7">
+               <head>
+                  <title type="main">Stämme,</title>
+               </head>
+               <p>Nationen und Individuen aufsuchen muss.</p>
+
+               <p>V Nach „Forderungen" gestrichen: „welche man billigerweise an sie machen kann".</p>
+
+               <p>2j „in" verbessert aus „aus".</p>
+
+               <pb n="7.623" xml:id="pbVII623"/>
+               <p>10.</p>
+
+               <p>Die Nothwendigkeit eigner und tief eindringender Untersuchungen über diese Gegenstände ergiebt sich bei der ersten selbst oberflächlichen Betrachtung der Sprachen. Denn wie Wolken auf einem Berggipfel nur, von fern gesehen, eine bestimmte Ge- stalt haben, allein wie man hineintritt, sich in ein nebligtes Grau verlieren ; ^) so ist die Wirkung und der Charakter der Sprachen zwar im Ganzen deutlich erkennbar, allein so wie man anfängt zu untersuchen, woran nun dieser Charakter im Einzelnen hängt, entschlüpft einem der Gegenstand gleichsam unter den Händen.</p>
+
+               <p>Eine zweite Schwierigkeit ist dass der Mensch von der Sprache immer in ihrem Kreise gefangen gehalten wird, und keinen freien Standpunkt ausser ihr gewinnen kann. Sobald er von irgend einem Wort auf den durch dasselbe bezeichneten Begriff übergehen will, so bleibt ihm (Gegenstände der Anschauung ausgenommen) kein anderes Mittel übrig, als Uebersetzung in eine andre Sprache, oder eine wieder nur durch Worte zusammen- zusetzende Definition.</p>
+
+               <p>Der innige Zusammenhang zwischen der Sprache und dem Nationalcharakter lässt sich ferner darum schwer enträthseln, weil auch die ganze Materie des Charakters und seiner Abstufungen nach Nationen, und Individuen ganz neuer, mehr durch- dringender Erörterungen bedarf, zum Theil aber in ein nie ganz durchforschbares Gebiet gehört.</p>
+
+               <p>Endlich lässt sich der im Vorigen angegebene Zweck nur erreichen, wenn man immer wieder auf den Grund der Erfahrung auftritt, und immer zu ihm zurückkehrt. Die Erfahrung führt aber hier unvermeidlich zu Irrthum und Einseitigkeit, wenn man nicht den ganzen vorhandenen Sprachstolf vollständig sammelt, sichtet, systematisch zusammenstellt, und mit einander vergleicht.</p>
+
+               <p>Ohne daher über diesen ganzen Gegenstand eine neue, eigne, in sich vollständig, und im Zusammenhange mit allen angrän- zenden Gebieten durchgeführte Untersuchung aufs Neue anzustellen, wird es nie möglich seyn, das Sprachstudium auf eine wahrhaft fruchtbringende Weise in die übrigen menschlichen Kenntnisse eingreifen zu lassen.</p>
+
+               <p>V AuJ diese Stelle dürfte sich wohl Alexander von Humboldts Band j, ji8 Anm. I erwähntes Zitat beziehen, das er mit dem ynerkwürdigen Titel ,,Sur les monographies des langues § /" anführt; dann wäre nicht notwendig eine franzö- sische Abhandlung Humboldts anzunehmen, von der wir sonst nichts wissen.</p>
+
+               <pb n="7.624" xml:id="pbVII624"/>
+            </div>
+
+            <div type="section" n="8">
+               <head>
+                  <title type="main">II.</title>
+               </head>
+               <p>So grosse Fortschritte aber auch in unsrer Zeit Philosophie und Philologie gemacht haben, so sehr das Studium aller culti- virten Sprachen zugenommen hat, und so sehr, vorzüglich durch Missionarien und Reisende, die Aufmerksamkeit auch auf die rohen und nur durch ihren Bau interessirenden ^) gerichtet worden ist; so ist dennoch für den hier angegebenen Gesichtspunkt noch unglaublich wenig geschehen.</p>
+
+               <p>In Absicht der philosophischen Ideen ist man fast nur innerhalb des dürftigen Gebietes der allgemeinen Grammatik stehen geblieben, hat aber auch diese nur selten als eine reine Vernunftwissenschaft, und nie als eine allgemein vergleichende Grammatik behandelt, sondern meistentheils als eine Mischung von Vernunftsätzen und höchst unvollständig gesammelten, mehr zufällig aufgegriffenen factischen Angaben. In Absicht des historischen Stoffs hat man sich begnügt, Materialien zusammenzutragen, allein auch dies weder vollständig, noch rein genug, um zu allen Zwecken dienen zu können, gethan. Zu noch grösserem Unglück hat man fast überall daran Urtheile geknüpft, denen man es nur zu sehr ansieht, dass es ihnen an der sicheren Grundlage gehörig aufgestellter leitender Ideen fehlt.</p>
+
+               <p>Daher haben bis jetzt weder die philosophischen Wissenschaften, noch die Geschichte, am wenigsten aber die Einsicht in die Sprache selbst aus dieser so bearbeiteten allgemeinen Sprach- kunde bedeutenden Gewinn gezogen. Die Etymologie aber, und die Lehre von der Abstammung und Verwandtschaft der Völker müssen sogar in sehr verdächtigen Ruf kommen, wenn man noch immer fortfährt, aus einigen Duzend mühselig aufgefundenen, in ihrem inneren Zusammenhang mit den übrigen ihrer Sprache gar nicht untersuchten Wörtern auf eine Verwandtschaft der Sprachen zu schliessen.</p>
+
+               <p>Daher kommt es denn natürlich, dass selbst wissenschaftlich gebildete Männer das Aufsuchen jedes Sprachüberrestes, als solchen, nur wie eine höchstens verzeihliche Neugierde ansehen, dass Philologen die Beschäftigung mit sogenannten barbarischen Sprachen für einen Entschluss der Verzweiflung derer achten, die in den klassischen nicht fortkommen können, und nur sehr Wenige begreifen, dass eine Sprache gar nicht allein durch ihre Literatur,<pb n="7.625" xml:id="pbVII625"/> auch nicht bloss durch den sich in ihr offenbarenden Charakter der Nation, und die sich aus ihr ergebenden historischen Aufschlüsse interessirt, sondern den Geist und die Empfindung noch viel anders durch ihren innern Bau und die Natur ihrer Grund- bestandtheile anzieht und fesselt.<note type="footnote" n="*)" resp="gnd-116890657"><hi>V „nur — interessirenden" verbessert aus „wilden".</hi></note></p>
+
+               <p>12,</p>
+
+               <p>Die innere Harmonie dieses Baues, oft am jugendlichsten und einfachsten in den Sprachen der rohesten Völker, diese Beziehungen der Ausdrücke auf die feinsten Abstufungen des Gefühls, diese Andeutungen tiefer Einsicht in den Zusammenhang der Dinge durch die Verwandtschaft ihrer Bezeichnungen, und so manche andre überraschende Schönheit offenbart sich nur dann, wann man eine Sprache rein objectiv, und, mit Beiseitesetzung jedes andern Zwecks, um ihrer selbst willen untersucht. Und das verdient unstreitig dasjenige, was nicht eine Erfindung des Menschen, nicht ein Erzeugniss der Natur, sondern ein dem Menschen ohne sein Zuthun, und über alles sein im Bewusstseyn liegendes Ver- mögen hinaus gegebenes Instrument ist, das einen von keinem, der es spielt, je erschöpften Reichthum von Tönen, und in jedem einen nur nach und nach erkannten Gehalt bewahrt, das für die weiteste Tonleiter der Empfindungen besaitet ist, und indem es nur dem Geist und dem Gefühle zu folgen scheint, beiden erst die rechten Bahnen anweist, und ihnen die Flügel leiht, sie zu verfolgen. Wer von der Schönheit dieses Baues nicht ergriffen ist, hat ihn nie in seinem Zusammenhange zu durchschauen versucht; und in der That w^erden die Sprachen dermassen, als Mittel zu andern wichtigeren Zwecken betrachtet, dass die Meisten, Gelehrte und Sprachgelehrte nicht ausgenommen, ihr ganzes Leben hindurch in ihnen herumwandern, ohne sich einmal auf den Standpunkt zu stellen, von welchem sie das Ganze und seine Anordnung zu übersehen im Stande wären.</p>
+
+               <p>Wenn die gegenwärtige Arbeit Anleitung giebt, dass man die Sprache mehr als Sprache erkennt und fühlt, und dass das Wort, auch ausser seinem Alltagsgebrauche, anders an uns und in uns fruchtbar wird; so hat sie damit den vorzüglichsten, von ihr zu erwartenden ^^ortheil erreicht, und braucht sich nicht weiter um von selbst erfolgenden Nebennutzen zu kümmern.</p>
+
+               <p>W. V. Humboldt, Werke. VII. 4O</p>
+
+               <pb n="7.626" xml:id="pbVII626"/>
+               <p>Es würde eine ganz andre Klarheit der Begriffe, Bestimmtheit des Ausdruclis, und Besonnenheit des Bewusstsevns herrschen, wenn eine richtige Einsicht in den Zusammenhang der Mutter- sprache allgemeiner wäre; die Liebe zu ihr und zum Vaterlande und mit dieser die Innigkeit jedes Gefühls würde wachsen; der Mensch würde einen ihn immerfort anregenden, immer, unabhängig von seiner äusseren Brauchbarkeit, auf ihn zurückwirkenden Gegenstand mit sich herumtragen, wenn er aufhörte, die Sprache als ein fast verabredetes gleichgültiges Zeichen zu betrachten, und sie wie ein auf seinem Stamm empor geschossenes Gewächs ansähe, wenigstens eben so sehr seiner Aufmerksamkeit würdig, als die Gebirge und Flüsse, welche seinen Geburtsort umgeben. Eben dadurch würde er auch fremde Sprachen richtiger beurtheilen, und selbst bei geringerer Kenntniss derselben, als jetzt sehr gewöhnlich ist, ihr Verhältniss zu der seinigen fehlerfreier würdigen. Der Zahl der selbstthätigen Kräfte, welche sich mit ihm in Wechselwirkung stellen, würde sich eine mehr beigesellen; und da der Mensch und seine Sprache immerfort in gegenseitigem Einflüsse auf einander stehen, so würde derselbe eindringender, fruchtbarer und geregelter werden.</p>
+
+               <p>Mit der erwachenden Lust an der Sprache, als Sprache würde auch der stolze Ekel hinwegfallen, mit dem noch so häufig jetzt auf Provinzial- und Volkssprache herabgesehen wird, und welcher den Keim des Hinsterbens aller Tüchtigkeit und Lebendigkeit in der Sprache und Nation in sich trägt. Dadurch würden die höheren Stände und das Volk einander näher treten, die Cultur würde eine gesundere Richtung erhalten, und man würde bei dem Volke williger für die Veredlung seiner Sprache Sorge tragen, wenn man anfienge ihre Frische, Innigkeit und Derbheit lieb- zugewinnen.</p>
+
+               <p>Aller wissenschaftliche Nutzen endlich, welchen Sprachunter-- suchungen, auf welche Weise es immer se}', der Sprache und der Geschichte leisten können, erhält erst seine Vollendung, wenn alle Sprachen zusammengenommen werden, und man auf einmal den ganzen Stoff bearbeitet, welchen ihr gesammtes Gebiet um- fasst. Es fehlt bis dahin der Untersuchung nicht bloss an Vollständigkeit, sondern auch die Richtigkeit des auf mangelhafte Kenntniss Gegründeten wird verdächtig.</p>
+
+               <pb n="7.627" xml:id="pbVII627"/>
+               <p>14.</p>
+
+               <p>Kein Einzelner kann hotYen, ein so ungeheures Gebiet ganz zu bearbeiten; dies kann nur den auf einander folgenden Bemühungen Vieler gelingen, die sich einander berichtigen und ergänzen. Am wenigsten könnte ich, und unter den Umständen, unter welchen ich diese Blätter beginne, mir schmeicheln, irgend etwas Vollständiges zu leisten. Es hat mir nur besser geschienen, selbst Hand an den Versuch zu legen, als bloss einen Entwurf dazu vorzuzeichnen. Sowohl die aufstossenden Schwierigkeiten, als die sich ergebenden Vortheile zeigen sich besser, wenn man den Weg selbst zu gehen unternimmt, als wenn man sich bloss ihn von einer Anhöhe zu übersehen versucht.</p>
+
+               <p>Um ihn ganz zurückzulegen, muss man drei Theile vollenden, welche man beinahe als drei verschiedene Werke ansehen kann: einen allgemeinen, welcher aus dem weiten Umfange aller Sprachen nur dasjenige herausnimmt, was über die Sprache, ihre Natur und ihren Einfluss überhaupt Licht zu verbreiten vermag; einen speciellen, der Alles in den wirklichen Sprachen Vorhandene, bloss darum, weil es vorhanden ist, sammelt, sichtet, und ordnet; einen bloss geschichtlichen, welcher die Resultate der beiden ersten mit einander verbindet.</p>
+
+               <p>16.</p>
+
+               <p>Der allgemeine Theil enthält in zwei Abschnitten: die reine, nur auf die Erkenntniss desselben bezogene Untersuchung des Gegenstandes; und die Anwendung der auf diesem Wege gefundenen Resultate, die Methodenlehre.</p>
+
+               <p>17.</p>
+
+               <p>Der erste Abschnitt des allgemeinen Theils ist die Grundlage des ganzen Vs^erks, und derjenige, welcher über die Möglichkeit und das Gelingen desselben entscheidet. Er muss, wenn er voll- kommen durchgeführt wird. Alles erschöpfen, was über die Sprache, ihre Xatur, ihre Vertheilung in mehrere einzelne Sprachen, ihr Verhältniss zu dem Menschen und zur Welt im Allgemeinen ge- sagt werden kann.</p>
+
+               <pb n="7.628" xml:id="pbVII628"/>
+               <p>Er behandelt diesen weitläuftigen Stoff in folgenden sieben Büchern :</p>
+
+               <p>Das erste entwickelt die Natur der Sprache und ihr Verhält- niss zum Menschen im Ganzen, mit Beiseitesetzung aller in ihr möglichen Verschiedenheiten, und ohne in die Zergliederung ihrer einzelnen Theile einzugehen.</p>
+
+               <p>Wasserzeichen und äußerer Charakter der Handschrift weisen dieses Fragment eines großen sprachphilosophischen Werkes, den ersten der mannigfachen unvollendet gebliebenen Ansätze zur Begründung dieser Wissenschaft, in die erste wiener Zeit, also in die Jahre 1810 oder 1811. Damit sti^nmt, wenn ich es richtig hierher beziehe, das Zitat in Alexander von Humboldts Reisewerk: dieser dürfte bei seinem Besuche des Bruders in Wien im Herbst 181 1 vor seiner projektierten Reise nach dem Himalaya (Bruhns, Alexander von Humboldt 2, -jß) von dem Manuskripte Kenntnis genommen haben.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

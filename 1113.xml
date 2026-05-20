@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Über den Geschäftsgang des Kongresses</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Elfter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif11humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1904">1904</date>
+                  </imprint>
+                  <biblScope unit="page" from="163" to="171"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="fr">Français</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="11.163" xml:id="pbXI163"/>
+            <p>partic qii'il cddcrait au Ivoi de Naples. ( )n Iiii rcsiituerait cn rc- vanche les trois Lc^gations jusqirau Vn vcrs Ic Nord et le I^anarc^ vers !'( )iiest. II aurait par k\ environ un million et demi de sujcts. 11 nc peilt point etrc dans les inientions gendreuses des Puissances alli^'cs de diminuer le patrimoine du Souverain Pontife, qui, par la nature meme de scs fonctions, peut olTrir au milieu de TKurope, souvent agit^e, dans ses Etats un refuge toujours paisible aux Sciences, aux arts et a tout sentimcnt noble et elev^.</p>
+
+            <head>
+               <title type="main">XXXV. über den Geschäftsgang des Kongresses.</title>
+            </head>
+            <p>September 1S14. , Abschrift mit eis^enluindigeti Kurrelituren , Bemerkungen und l'nterschrift im Geh. Staatsarchiv.^</p>
+
+            <p>Um die Mitte September i^'i4 waren die Herrscher und Staatsmänner in Wien zum Kongresse eingetroffen, und die Vertreter der vier verbündeten Mächte traten zu Konferenzen zusammen. Sie einigten sich dahin, daß die Menge der zu behandelnden Gegenstände eine Teilung und separate Behandlung nötig mache, und daß die Zahl der am Kongreß teilnehmenden Höfe und die Lage der Dinge es erfordere, daß eine kleine Anzahl die Unterhandlungen überwache tmd leite. An diese Beschlüsse knüpfte Humboldt seine Vorschläge für den Geschäftsgang des Kongresses in der folgenden Denkschrift, die kein Datum trägt, deren Abfassung aber etwa um den 18. September herum fällt, da die erste Zusammenkunft am lO. September stattfand (Treitschke, Deutsche Geschichte im iq. Jahrhundert I* Ol- zitiert sie als „ Vorschläge über den Geschäftsgang des Kongresses", verhandelt am 16'. September u. s. f.}.</p>
+
+            <p>On est convenu dans les Conferences precedcntes : que la multiplicite des objets rend necessaire de les diviser et de les traiter separement; que le nombre des (]ours qui prennent part au (]ongres.</p>
+
+            <p>et la Situation des choses exigent qu'un petit nombre di- rige et surveille la negociation.</p>
+
+            <p>I/application de ces principes demande<pb n="11.164" xml:id="pbXI164"/> qu'on tache, ce qui plus est, de menager lamour propre des Puissances et des Princes moins considerables ; enfin qu'on evite que des Puissances qu'on ne peut ni ne veut exclure de la Direction generale de la negociation, ne prennent par la une part directe a des affaires auxquelles d'apres la nature des choses elles ne peuvent point inter- venir d'une maniere principale.</p>
+
+            <p>II est indispensable apres cela qu'a l'ouverture du Congres meme on s'explique d'une maniere franche et prdcise vis-ä-vis des autres Puissances et ä la face de l'Europe dont les regards atten- tifs sont fixes sur une reunion aussi extraordinaire, sur la nature, le but et la forme du Congres.</p>
+
+            <p>C'est de ces considerations que sont nees les idees suivantes qui, en renfermant des propositions sur la forme a donner au Congres pourraient en meme temps faire le fond de la Declaration qui doit preceder son ouverture et qui pourraient 3^ entrer, quoi- que seulement en partie et avec de certaines restrictions.</p>
+
+            <p>Le Congres de Vienne n'est pas un Congres de paix. Car la paix est faite. II se distingue des Congres de Münster et d'Osna- brück, de Ryswick, d'Utrecht etc., non-seulement par le plus grand nombre ou la plus grande variete des objets, mais aussi par lä qu'il n'a point du tout un but unique, fixe et determine.</p>
+
+            <p>Le Congres de Vienne n'est point une assemblee deliberante de l'Europe. Car l'Europe ne forme pas un ensemble consti- tutionnel, et pour qu'il put y avoir une pareille assemblee, la part que chaque Puissance devrait y prendre ä la decision, devrait etre fixee, ce qui n'est, ni ne saurait etre le cas.</p>
+
+            <p>Qu'est-ce donc que le Congres de Vienne.'</p>
+
+            <p>Ceci ne peut s'expliquer qu'historiquement. La revolution Francaise et le regime de Napoleon avaient change presque toute la face politique de l'Europe. La guerre actuelle a mis fin ä l'une et ä 1 autre, mais les differents rapports politiques des Puissances n'ont ete fixes qu'en egard de la France et que par le traite de Paris. II reste encore ä completer cette pacification generale,<pb n="11.165" xml:id="pbXI165"/> qui mcnaccnt d'inqui^ter rKurope. PüLir parvcnir ä cc but, on a appel^ ä un mcmc endroit les IMdnipotcntiaircs de tous les Princes et Etats qui de part et d'autre ont pris part i\ la guerre. On dvitc par ]ä que les ndgociations pariiculieres de Puissance a l\iissancc ne fasscnt naitre des malentendiis dangercLix, on s'assurc que les arrangemcnis qui rc^sultent de ces n^gociations, ne soient point contraires a rinteret gdndral, et on leur donne plus de force par la sanction ou du moins la rcconnaissance commune; on peut enfin convenir de certains arrangemcnts gdndraux contribuant a la tranquillite et au bonheur de TEurope. Par une pareille marche on supplde en quelque facon a Tinstitution d'unc Republique H^uropdenne, ä jamais et par elle-meme impossible.</p>
+
+            <p>Le C&gt;ongrcs de \'ienne n'est donc pas une negociation seule- ment, pas mcme un ensemble de negociations diroitement liees par un mcme but, mais simplement un complexe de negociations dilT^rentes qui conduisent a autant de trait^s particuliers, et qui n'ont d'autre rapport ensemble que l'interet gendral de l'Europe. La question Europeenne se retrouve dans toutes; mais du reste elles se sont plus ou moins etrangeres. II resulte de la que toutes les Puissances qui y interviennent, doivent s'abandonner mutuellement avec la confiance, command^e par la grandeur des circonstances, le soin de faire entre elles les arrangemcnts qui leur semblent convenables, et de d^lib^rer librcment et isolement sur ces objets jusqu'ä ce qu'elles viennent ä s'accorder sur les mcmes principes; mais aussi prendre Tengagement de proposer ce dont elles sont convenues, aux autres, de demander qu'elles le sanctionnent par leur accession aux traites, et d'ecouter et de discuter les objections qu'elles pourraient leur opposcr; d'oü il suit de soi-mcmc que chaque negociation peut etre entamde isolement, que plusieurs peuvent marcher de front, mais que toutes doivent rcntrer au ccntrc pour y ctre munies de Tassentiment et de la rcconnaissance de</p>
+
+            <p>PEurope enticre, rassemblde ici dans les personncs des difVerents IMdnipotentiaires.</p>
+
+            <pb n="11.166" xml:id="pbXI166"/>
+            <p>par qucllcs Puissances et dans quelle forme tel ou tel doit etre traite?</p>
+
+            <p>11 y a trois de ces genres d'objeis entierement dilVerents Tun de Tautrc.</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">I.</title>
+               </head>
+               <p>La distribution des provinces qui par suite de la guerre et de la paix de Paris sont devenues disponibles.</p>
+
+               <p>La discussion sur cette distribution et la conclusion des traitös qui la r^gleront, appartiennent exclusivement aux Puissances Coalisees<note type="footnote" n="*)" resp="gnd-116890657"><hi>Der erste Geheimartikel des Pariser Friedens vom jo. Mai 1814 bestimmt dies. Er lautet: La disposition ä faire des territoires anxquels S. M. Tres-Chre-</hi></note> contre la France qui en ont fait la conquete. Ce sont leurs Plenipotentiaires seuls qui peuvent se reunir en Conferences sur cet objet. La France et les Etats Neutres en restent exclus. Ceux ä qui ces conquetes ont premierement rendu la vie, y inter- viennent, non comme juges qui decident, mais co.mme parties qui demandent ä etre ecoutees, et alleguent leurs titres.</p>
+
+               <p>En meme temps la France a un double interet ä la decision de cet objet. Elle a le droit d'y juger la conformite avec le traite de Paris, et la question Europeenne. Cette derniere question y Interesse tous les Etats Neutres. Des que la negociation est parvenue jusqu'au moment de la conclusion, la France et ces Etats doivent par consequent en recevoir connaissance et etre ecoutes s'ils trouvent ä y objecter.</p>
+
+               <p>Les Princes qui ont pris part ä la guerre, ne peuvent pas non plus etre appeles tous simultanement ä cette distribution; il y en aurait evidemment qu'on aurait egalement tort d'admettre et d'ex- clure Sans distinction. II faut donc separer la distribution: de la Pologne, de TAllemagne, de ritalie.</p>
+
+               <p>f.</p>
+
+               <p>La distribution de la Pologne et la forme qui doit etre donnee ä la partie qui deviendra Russe, sont du ressort de la Prusse, de</p>
+
+               <pb n="11.167" xml:id="pbXI167"/>
+               <p>I.'Anglcterrc y iniervicnl pour la qiiestion 1-^uropcennc, mais eile y intcn-ient aussi d'abord, puisque Ics trois autres Piiissanccs sont int^rcssdes ä se prdvaloir de son intcrvention.</p>
+
+               <p>Quant a la distribution de rAliemagnc, il laut distinguer entre la discussion: sur les bases et Ics principes qui doivcnt la dirigcr, et siir Tapplication des principes et Ic detail qui en rcsultc.</p>
+
+               <p>II faut considercr ensuite qu'outre la question gdneralement Europ^enne la distribution de rAllemagne Interesse: a) les Princes de rAllemagne sous le rappon de leurs forces respectives et de leur Organisation interieure; b) l'Angleterre par Timportance qu'elle doit attacher ä fortifier la Hollande et a empccher un agrandisscmcnt excessif de la France; la Russie par Texperience qu'elle a faite qu'elle peut etre inquietee jusque dans son sein, si rAllemagne n'est point independante; sans parier des autres Etats limitrophes.</p>
+
+               <p>L'Autrichc et la Prusse sont dans tous ces rapports a la fois et ont par consequent eminemment le droit d'attendre qu'on ait ^gard a leurs propositions.</p>
+
+               <p>Or la discussion sur les bases et les principes ne peut appar- tenir parmi les Puissances appelees en general ä cette discussion qu'ä Celles qui peuvent sc placer et se maintenir dans un point de vue Europ^en.</p>
+
+               <p>Ces Puissances sont la Prusse, l'Autriche, la Russie et TAngle- terre. II faut en exclure: la France, la Hollande, le Danemark, la Suissc, puisque, quoiqu'ayant un grand intcret a Tobjct, ils n'ont, par ditVe- rentes raisons, aucun droit d'y intenenir; la Suede, puisque, quoiqu ayant sans contredit le droit d'intervenir, comme Puissance Allide et Belligdrante, eile n y a plus aucun intdret direct, ayant echangd la Pomdranie*) et s'etant concentree dans le Nord.</p>
+
+               <pb n="11.168" xml:id="pbXI168"/>
+               <p>disciission. puisqu'ils y ont droit et interet ä la fois; mais il nc fallt les ^couter que lorsqu'on sera d^jä d'accord, puisqifils n'ont pas de point central hors de la question et ne sauraient jamais la juger d'une maniere grande et impartiale. Les questions qui se lient ä cette discussion, sont, pour en citer quelques exemples, celle de la Saxe, celle si la rive gauche du Rhin doit appartenir exclusivement a de grandes Puissances? si la Belgique et meme toute la Hollande doit faire partie int^grante de l'Allemagne? Si les Princes agrandis par les Mediati- sations doivent conserver toutes leurs acquisitions, ou si l'on veut leur demander des sacrifices?</p>
+
+               <p>Les principes une fois fixes, l'application en detail doit appar- tenir aux Princes Allemands exclusivement. (]ar une bonne Constitution exige une certaine repartition des forces respectives, et la division des cercles demande de certains arrondissements.</p>
+
+               <p>La distribution de l'Italie est etrangere aux Puissances du Nord et ä la Prusse.</p>
+
+               <p>Elle est du ressort de l'Autriche, de la Sicile, de l'Espagne, de l'Angleterre, comme Puissance maritime, eminemment interessee ä la Situation politique des cötes de la Mediterranee et ayant une possession importante dans cette Mer.</p>
+
+               <p>Le Roi de Sardaigne et le Pape y inten-iennent, comme Etats formant des pretensions.</p>
+
+               <p>Le Roi de Xaples est par la nature des choses exclu de toute part au Congres, auquel ne peuvent etre admis que des Souverains qu'on veut generalement reconnaitre.</p>
+
+               <p>Comme ces trois divisions de la distribution des provinces con- quises sont malgre leur Separation pourtant liees par des rapports generaux, il est ä savoir s'il ne faudrait pas creer pour cette partie si imponante de la negociation un Comite dirigeant general, qui, Sans entrer dans les negociations particulieres, surv^eillerait et r^gle<pb n="11.169" xml:id="pbXI169"/>Second genrc d'objets. Lcs arrangcments particuliers quc quelques Puissances peuvent faire entr'clics et qu'elles soumettent seulemcnt aux autres pour etre reconnus d'elles. Os arrangements peuvent etre de dilVerente naturc, et il est memc impossible de les pr^voir a prösent.</p>
+
+               <p>Mais il y en a un inliniment imponant qui apparticnt a cctte classe: Torganisation Interieure de TAllcmagne ou une nouvelle lignc düit remplacer TEmpire qui a disparu.</p>
+
+               <p>La discussion sur cette aüaire interieure et domestique appar- ticnt exclusivement aux Princes de rAllemagne. Meme la Russie et l'Angleterre ne voudront point intervenir ä une alfaire ä laquelle elles ne peuvent prendre qu'un interet general et oü Tinteret parti- culier qu'elles y prendraient, naitrait toujours seulement de con- siderations egalement particulieres et par consequcnt etrangeres au bien-ctre commun.</p>
+
+               <p>La Hollande, le Danemark et la Suisse pourraient y etre appeles, la premiere pour s'unir en partie ou en entier ä rAllemagne. Ic second pour y rattacher le Holstein, et la troisieme, puisqu'une alliance ä perpetuite entre l'Allemagne et la Suisse serait, on ne peut pas plus, desirable.</p>
+
+               <p>Troisieme et dernier genre d'objets. Arrangements communs pour le bien de TEurope.</p>
+
+               <p>Les objets qui se rangent sous cette classe, sont les suivants: I. Les dissensions interieures dans la Suisse. Les Puissances ne peuvent point permettre une guerre intestinc dans le centre de l'E^urope, et la (^onfed^ration Helvetique elle-meme demandera probablement la Mediation des grandes Puissances. Si eile s'adresse au Congres, c'est-ä-dire ä toutes, ou si les Puissances sont forc^es a sc declarcr M(^diatriccs sans sa dcmandc, la discussion sur cet objet scra du ressort des Puissances ä qui il apparticnt de ddlibdrcr sur cctte classe d'obiels en gendral.») Si la Conf^ddration ne s'adrcsse qu'ü quclques-uncs des Puissances, le cas rcntre dans la seconde classe des ubicts. c'cst-a-dirc des</p>
+
+               <pb n="11.170" xml:id="pbXI170"/>
+               <p>2. Le Royaumc de Xaples actuel. Les Puissances ne peuvent pas soutVrir qifil continue ä exister en Europe un Souverain que quelqucs-Lines des plus considdrables entre elles se refusent ä reconnaitre: on ne saurait soulTrir non plus que Xaples et la Sicile restent dans une attitude continuellement hostile.</p>
+
+               <p>•:;. Le sejour de Napoleon a l'Ue d'Elbe et les individus de sa famille. On ne peut plus nier que Napoleon et les individus de sa famille inquietent l'Italie la Suisse et la Erance. La Convention du II avriL) ne peut pas etre un obstacle a lui assigner, meme malgre lui, un autre sort. Gar l'xVngleterre et la France ny ont accede que pour de certains points qui ne les lient pas envers Napoleon, et si l'on veut parier impartialement d'apres les principes de la justice, les Puissances contractantes n'avaient aucunement le droit de placer au sein meme des autres une cause et un pretexte de troubles. Quant aux individus de la famille, rien n'empeche de les faire aller oü l'on voudra.</p>
+
+               <p>4. L'abolition de la traite des Negres.</p>
+
+               <p>5. La navigation libre des grandes rivieres sur laquelle la discussion a ete expressement reservee dans le traite de Paris.**)</p>
+
+               <p>6. Le rang entre les Ministres de differentes Cours, objet dont il a dejä ete parle dans les Conferences de Paris.</p>
+
+               <p>La discussion sur les objets de cette classe appartient a toutes les Puissances sans exception. C'est la question Europeenne qui y est principalement, pour ne pas dire uniquement, agitee. Mais toutes les Puissances ne peuvent point deliberer ä la fois, ni avec une egalite parfaite, il faudrait donc abandonner la discussion sur ce point et la fixation des principes aux six grandes Puissances,</p>
+
+               <p>*J Der Vertrag von Fonlainebleau, dem Frankreich und England nur teil- weise zugestimmt hatten. Lord Castlereagh erklärte (Note vom 17. April 1814): S. A. R. le prince regent ayant pleine connaissance du contenu dudit T?-aite, y accede au nom et pour Sa Majeste, en tant qu'il concerne les stipulations relatives ä la possession en toute souverainete de l'ile d'Elbe et des duches de Parme, de Plaisance et de Guastalla; mais Son Altesse Royale ne devra pas etre consideree comme etant, par cet acte d'accession, devenue partie co-contrante au nom de Sa Majeste ä aucune des autres stipulations qui y sont contenues. Nach der Er<pb n="11.171" xml:id="pbXI171"/>qui (fcoutcraicni apres les aiitrcs siir Ics principcs qu'cllcs auraicni pos^s.</p>
+
+               <p>Unc rc^iinion teile que le (]ongres aciucl, mcme avcc la division la plus exacte de tous les objets, nc saurait iravailler, sans etre dirig^e; Ic cas se presentcra d'aillciirs qu'on s'adressera au (^on- gres et que le (]ongres, comme lel, dcvra r^pondrc i\ des demandes. l'our le pouvoir, il faut qu'il ne soit pas simplement un etre ideal, pas sculemcnt un complcxe d'un grand nombre de Pleni- poientiaires.</p>
+
+               <p>II faut en consequence au (^ongres un Co mite dirigeant, et ce Comite doit etre forme par les memes Puissances qui deci- dent la question dminemment Kurop^enne qui forme la troisieme classe des objets de la negociation. Car le Congres lui-meme est une aflaire Europ^enne, et une des plus imponantes. Ce Comit^ forme le centre du Congres, le (.'ongres n'existe qu'en autant que ce (]omite s'est constitue, il est termine, lorsqu'il se dissout. Toutes les negociations particuliercs et les trait^s qui en resulteni, doivent rentrer dans lui, et c'est lui qui doit les proposer ä la discussion generale de toutes les Puissances et y soigner leur ac- cession. 11 doit encore avoir le droit de presser les negociations particuliercs pour ne pas laisser devenir le Congres interminable.</p>
+
+               <p>Comme les ndgociations particulieres doivent etre soumises a l'accession et ä la reconnaissance de toutes les Puissances Kuro- peennes, il faut encore detcrminer le nombre des Etats et des Princes qu'on veut admettre comme sidgeant dans le Congres Europeen; le mode de les consulter.</p>
+
+               <p>11 a deja €l€ obsen'^ que les Etats qu'on se refuse de recon- naitre et aupres desquelles la continuation de l'existence est mise en doute, ne peuvent point entrer dans ce nombre. (]eux qui, venant d'etre retablis, ne sont par la point encore reconnus generalement, sont dans le cas diamötralement oppose. Ils com- mencent, tandis que les autres fmissent. ILs ont un int^ret manifeste a chaque question Europ^enne, et leur voix ne saurait etre exclue. En ayant egard au degr^ de forces et d'independance, on</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

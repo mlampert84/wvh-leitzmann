@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bemerkungen zur Entstehungsgeschichte der einzelnen Aufsätze</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Sechster Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif0601humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1907">1907</date>
+                  </imprint>
+                  <biblScope unit="page" from="331" to="334"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="6.331" xml:id="pbVI331"/>
+            <head>
+               <title type="main">Bemerkungen zur Entstehungsgeschichte der einzelnen Aufsätze.</title>
+            </head>
+            <p>/. Kunstvereinsbericht vom 5. Februar 1S2-.</p>
+
+            <p>Dieser Bericht wurde Anfang April 182"] an die auswärtigen Freunde, so :. B. an Welcher, Schlegel und Niebuhr versandt (Humboldt an Welcher, 6. April 182-).</p>
+
+            <p>■2. Über den Dualis (vgl. Haym, Wilhelm von Humboldt S. 442). Die Ausarbeitung dieser Abhandlung fällt in den Februar, Mär: und April 182-, während welcher Monate Humboldt angestrengt ttnd fast ausschließ- lich, gedrängt von dem herannahenden Termin der im April fälligen akademischen Vorlesung, mit den an den Dual sich anschließenden Problemen beschäftigt war (an Niebuhr, 28. März 182-^; an Welcher, 6. April 182-/ 1. Man hatte diese Sprachform bis dahin immer als ganz iiberßüssig und beinahe widersinnig angesehen : dadurch beivogen machte Humboldt sie zum Gegenstande näherer Betrachtung und kam zu dctn Resultat, daß sie tiefer als manche andre in der Natur des Menschen und des Sprechens begründet sei (an Schön, 5. Januar i82r/ '. Die Abhandlung ist ein Torso geblieben. Der erste, die Natur des Duals im allgemeinen behandelnde Teil wurde am 26. April in der Akademie gelesen und lag wenige Tage darauf dem gerade in Berlin anwesenden August Wilhelm Schlegel im Manuskript vor (Humboldt an Schlegel, 4. Mai 182-]). Eine ins einzelne gehende Erörterung der Dualformcn der verschiedenen Sprachen, bei denen solche lebendig: sind oder waren, in der im allgemeinen Teil angedeuteten Gruppierung sollte sich anschließen und der Verfasser sah voraus, daß durch i/V.vf Einzelanalyse manches in der ersten Abhandlung in andre Beleuchtung geriickt werden würde an Schlegel, 4- Mai iS2-\ Materialien zu der geplanten Fortsetzung haben sich im I^achlaß nicht gefunden.</p>
+
+            <p>j. M c m o i r c s u r 1 a s c p a r a t i o n li c s m o t s d ;i II ^ 1 ■ &gt; i ■ v i . ^ - .. n ■. v i 1 1 -.<pb n="6.332" xml:id="pbVI332"/> und gegenseitig fortwährend aufeinander bezogen werden, die den ideellen Hintergrund für alles sprachmssenschaftliche Arbeiten Humboldts abgaben. Mit dem Jahre i82~ treten die Südseesprachen in den Mittelpunkt von Humboldts Studien, in dem sie auch für den Rest seines arbeitsreichen Lebens stehen geblieben sind. Der allgemeine Sprachtypus der malaiischen Idiome erschien ihm besonders darum so wichtig imd eingehendsten Siudimns wert, weil er mit der bisherigen Behandlungsart desselben sehr wenig einverstanden war und in ihm ein wichtiges Mittelglied zwischen dem chinesischen und dem sanskritischen Typus zu erkennen glaubte (an Bunsen, 8. Juni 182-j ; an Grimm und Welcher, 8. Juli 182-]; an Pickering, 22. September 182-]). Zudem boten sich hier reiche und mannigfaltige historische und geographische Zusammenhänge dar, die der Forschimg mehr Anknüpfungspunkte lieferten als die isolierte Sprachenwelt Amerikas. Als erste Pi'obe der Studien über malaiische Sprache und Kultur, die in einem umfassenden Werke an die Öffentlichkeit zu bringen schon damals geplant war, hat imsre Abhandlung zu gelten, die in der öffentlichen Friedrichssitzung der Akademie am 24. Januar 1828 gelesen, aber dem Druck vorläufig entzogen wurde, imt sie für das Kawiwerk aufzusparen.</p>
+
+            <p>5. Kunstvereinsbericht vom i. Februar 1828.</p>
+
+            <p>(j. Über die Verwandtschaft des griechischen Plusquamperfektum, der reduplizierenden Aoriste und der attischen Per- fekta mit einer sanskritischen Tempusbildung.</p>
+
+            <p>Während seines Aufenthalts in Paris im April und Mai 1828 hat Humboldt diese schwerlich lange vorher verfaßte Abhandlung in der gleichfalls vorliegenden Übersetzung in einer Sitzung des französischen Instituts vorgetragen, dessen auswärtiges Mitglied er seit 182-^ war. Er sah sie selbst als einen Beleg dafür an, daß in sprachlichen Dingen wissenschaftliche Resultate zu gewinnen seien, zu denen die Philologie auf dem herkömmlichen Wege nicht führe (an Welcker, j. Dezember 1828). Der geplante Abdruck scheint nicht zur Ausführung ge- kommen zu sein.</p>
+
+            <p>j. An cssay on thc best mcans of ascertaining the affinities of orjcntal languages (vgl. Playin S. 41 1; Pott, Wilhelm von Himiboldt imd die Sprachwissenschaft S. CCXLIJ.<pb n="6.333" xml:id="pbVI333"/> ij. November 1828'. In einer Sitzun&lt;( der asiatischen Gesellschaft, deren aus- wärtiges Mitglied der Verfasser war, wurde sein am 10. Juni beendigter Brief am 14. Juni vorgelesen. Er war ursprünglich in französischer Sprache, sehr eilig und ohne eigentliche literarische Hilfsmittel abgefaßt; die englische Übersetzung, die allein erhalten ist, hatte Babington besorgt (Humboldt an Schlegel, 16. Juni iSjqK Humboldt selbst maß der Arbeit, deren Grundgedanken ja für Deutschland nichts Neues wat-en, wenig inneren Wert bei, hoffte aber, daß sie reformierend auf die Anschauungen der englischen Forscher cinwirla-n würde (an Welcher, 24. Februar 1820).</p>
+
+            <p>&lt;V. Kunstvereinsbericht vom yo. Dezember 1828.</p>
+
+            <p>Humboldt versandte diesen Bericht Anfang Februar i82(t an die auswärtigen Freunde (an Schön, 5. Januar j82rj; an Goethe, 12. Februar i82f)J. Besonders von Goethe versprach er sich Teilnahme für die allgemeinen, darin ausgesprochenen Ideen über Kunst und Kunstentwicklung und bat ihn in dem Begleitschreiben der Sendung, falls er etwa in „Kunst und Altertum" etwas darüber zu sagen Lust haben sollte, ganz frei damit zu schalten und beliebig daraus abdrucken zu lassen. In seiner Antwort betonte Goethe die volle Übereinstimmung seiner Ansichten mit denen Humboldts, ging aber auf dessen Vorschlag einer Besprechung des Berichts, die denn auch unterblieben ist, nicht näher ein (Briefweclisel mit den Gebrüdern von Humboldt S. 2%,'.</p>
+
+            <p>9. Anhang zu Rückerts Rezension von Durschs Ghata- karparam.</p>
+
+            <p>Durschs Ausgabe des sanskritischen Gedichts Ghatakarparam hatte Friedrich Rückert in den Jahrbüchern für wissenschaftliche Kritik (Jahrgang 182g i, 52/ ' einer eingehenden Besprechung imterzogen, an die Humboldt einen zweiten Artikel anfügte, um damit sein den Herausgebern jener Zeitschrift vor längerer Zeit gegebenes Versprechen, etwas für sie zu schreiben, dessen Nichteinlösung zu Mißdeutungen Veranlassung geben konnte, zu erfüllen (an Schlegel, j. Juli i8jf)'. In seiner Vorrede hatte Dursch sich gegen Humboldts 182- veröffentlichte Ab<pb n="6.334" xml:id="pbVI334"/>baues (vgl. Steinthal , Die sprachphilosophischen Werke Wilhelms von Humboldt S. S).</p>
+
+            <p>Während Humboldt früher [Vgl. Band 5, 476". 481) seine allgemeinen Er- örterungen über die Sprache, ihr Leben und die verschiedenen Typen ihres Baues mit einer Analyse der amerikanischen Idiome hatte verbinden wollen, nimmt seit iSzy der jnalaiische Sprachstamm diese Stelle ein. In dem Kawiwerk liegt dieser Plan fertig ausgeführt vor uns, soweit es dem Verfasser überhaupt ihn auszu- führen beschieden war. Als letzte Vorstufen zu der allgemeinen Einleitung in das Kawiwerk sind die vorliegende und die damit in xmmittelbarem zeitlichem und gedanklichem Zusammenhang stehende zwölfte Abhandlung dieses Bandes anzusehen. Die Abfassung beider grojier unvollendeter Abhandlungen fällt in die Jahre 182-]— 2g, ohne dafS im einzelnen über ihre Entstehimg Genaueres auszu- machen wäre. Wenn Humboldt einmal brieflich seine allgemeine Abhandlung halbfertig nennt (an Pickering, 12. Juli 1828), so ist mit dieser Angabe nicht viel zu machen, weil der damals geplante Umfang und die Disposition nicht bekannt sind. Eine Reihe von Paragraphen im Beginn des zweiten Abschnitts sind wörtlich mit nur geringen Abänderungen den älteren „Grundzügen des allgemeinen Sprachtypus'' entnommen.</p>
+
+            <p>11. Über die Verwandtschaft der Ortsadverbien mit dem Pronomen in einigen Sprachen (vgl. Haym S. 442).</p>
+
+            <p>Diese ihrem wesentlichsten Teile nach aus den Erörterungen der vorhergehenden Nummer herausgelöste Abhandlimg wurde am ij. Dezember 182g in der Akademie gelesen und zu Anfang Sommers i8jo an die auswärtigen Freunde versandt (Humboldt an Welcker, 8. Mai 18^0; an Schlegel, 11. Juni i8jo).</p>
+
+            <p>Jena, 18. Januar igo'j.</p>
+
+            <p>Albert Leitzmann.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

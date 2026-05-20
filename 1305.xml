@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Über die Organisation des Medizinalwesens</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Dreizehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif13humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1920">1920</date>
+                  </imprint>
+                  <biblScope unit="page" from="253" to="258"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="13.253" xml:id="pbXIII253"/>
+            <p>B. Über die Organisation des Medizinalwesens. ^)</p>
+
+            <p>Königsberg, den i8. Junius, 1809. Da ich aus den mir durch Ew. Excellenz mitgetheilten, und anliegend zurückerfolgenden Papieren gesehen habe, welche gütige und wirklich freundschaftliche Absichten Sie in Ansehung des Medicinalwesens für mich gehegt haben; so glaube ich dadurch gerechtfertigt zu werden, wenn ich so frei bin, Ihnen meine Mey- nung über diesen Gegenstand freimüthig und offen mitzutheilen.</p>
+
+            <p>Ich brauche Ew. p. nicht auf die grosse Wichtigkeit desselben aufmerksam zu machen; ich brauche Ihnen nicht zu sagen, in welchem unvollkommenen Zustande, nach dem Urtheile aller Un- partheiischen, sich das (y^oxCollegium medicmn et sanitatis und das Collegium medtco-chirurgüum befand; es ist genug, wenn ich Ihnen in wenigen Grundzügen andeute, wie, meines Erachtens,</p>
+
+            <p>1. die neuen oberen Medicinalbehörden organisirt, und 2. dieselben mit der Section des Cultus und öffentlichen Unterrichts in Verbindung gesetzt seyn müssten.</p>
+
+            <head>
+               <title type="main">I.</title>
+            </head>
+            <p>Die Organisation setzt schon die V^erordnung vom 24. No- vember, pr. fest, und ich bin ganz mit derselben einverstanden, dass künftig eine wissenschaftliche Deputation und ein OberMe- dicinalRath vorhanden seyn muss.</p>
+
+            <p>Allein die Organisation des letztern wünschte ich ein wenig anders zu modificiren.</p>
+
+            <p>Er soll nemlich bestehen aus dem Chef, einem Staatsrath, dem Director der wissenschaftlichen Deputation und einem Mit- glied derselben, also nur zur Hälfte aus Aerzten, und wenn man annimmt, dass bei Gleichheit der Stimmen der Chef entscheidet, mit 3 Laienstimmen gegen 2 sachkundige. Stellung und Ansichten erhalten. Aus diesem Grunde ersuche ich Ew. Hoch- und Wohlgeboren künftigesmal eine generelle Uebersicht von dem ganzen Jahre gefälligst beizufügen, imd sie so zu fassen, dass sie des Königs Majestät eingereicht werden könne.</p>
+
+            <p>Königsberg, 77. Octbr. iSog.</p>
+
+            <p>Dohna." Der hier geforderte Hauptbericht ist abgedruckt Band 10, igg. Weitere Berichte scheinen nicht erstattet zu sein.</p>
+
+            <p>V Eigenhändiger Entwurf Humboldts.</p>
+
+            <pb n="13.254" xml:id="pbXIII254"/>
+            <p>Dies ist offenbar unzweckmässig; der OberMedicinalRath muss, soviel möglich, bloss aus Aerzten bestehen; es ist viel leichter, dass diese sich die nöthige Geschäftskenntniss erwerben, als dass Geschäftsleute mit Verstand über medicinische Gegenstände ur- theilen; auch sind die Fehler, die aus dem Mangel der erstem entstehen können, bei weitem leichter zu heben und minder gefährlich.</p>
+
+            <p>Ich würde daher von Laien bloss den Chef zulassen, und auch zu diesem nur einen Mann wählen, der wenigstens histo- risch ziemlich vollständige Kenntnisse besässe. Ausserdem aber müssten die andern Mitglieder bloss Aerzte seyn, und der Director der wissenschaftlichen Deputation gehörte natürlich zu ihrer Zahl. Auch wünschte ich eine gleiche Zahl von Käthen, weil in diesem Collegio schlechterdings nicht der nicht sachkundige Chef, sondern nur Stimmenmehrheit entscheiden müsste, nun doch nur Eine Laienstimme in die Entscheidung einträte, da man bei ungleicher Zahl der Räthe im gleichen Fall dem Chef nothwendig zwei einräumen muss.</p>
+
+            <p>Der Chef der Abtheilung mit 4 oder 6 Aerzten, als Käthen bildete also das Collegium, das an die Stelle des Ober Colle^-ü medici et sanitatis träte. Zu Bearbeitung juristischer, ökonomischer und allgemein polizeilicher Gegenstände würde dem Collegium noch ein Kath zugeordnet, der aber bloss ein votum consiiltativum nicht decisiuum hätte.</p>
+
+            <p>Das Collegium medico-chirur^icuvi hörte gleichfalls auf und die wissenschaftliche Deputation träte in dessen Stelle. Diese hätte einen Arzt zum Director und lauter Aerzte zu Mitgliedern. Allein Mitdirector zur Erhaltung des Geschäftsganges wäre das dem OberMedicinalKath zugeordnete Mitglied; allein auch hier ohne entscheidende Stimme. Diese könnte sich hier nicht einmal der Chef der Abtheilung anmassen, ob es gleich von ihm abhinge, auch selbst den Vorsitz in der Deputation zu führen.</p>
+
+            <p>Die Prüfungen machen einen Theil der Geschäfte der wissenschaftlichen Deputation für das Medicinalwesen. Eine eigne Com- mission für dieselben ist alsdenn nicht mehr nothwendig; nur werden sie zweckmässig eingerichtet, wie sie bisher, worin ich mich abermals auf das allgemeine Zeugniss berufen kann, nicht waren.</p>
+
+            <p>Von den medicinischen Bildungsanstalten, deren es bei der Medicinalbehörde allerdings auch noch ganz unabhängig von der<pb n="13.255" xml:id="pbXIII255"/> Section des öffentlichen Unterrichts geben kann, werde ich gleich jetzt bei der Verbindung der Abtheilung für das Medicinalwesen und der Section des öffentlichen Unterrichts reden.</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">II.</title>
+               </head>
+               <p>Diese beiden Abtheilungen hängen allerdings sehr genau zusammen, und genauer, als die letztere mit andern Verwaltungszweigen, da, obgleich keiner der Grundlage einer guten wissenschaft- lichen Bildung entbehren kann, doch das Medicinalwesen am meisten einer rein wissenschaftlichen bedarf. Steckt man hingegen, was sehr gut möglich ist, die Gränzen genau ab, so lassen sie sich auch sehr füglich trennen. Nur ist freilich bei der Trennung bloss in dem einzigen Falle Gewinnst, wenn der Chef der MedicinalAbtheilung doch Arzt ist. Dies hielte ich allerdings für das Beste, nur müsste er dann auch Chef im vollen Sinne des Worts, und ebenso frei in seiner Abtheilung seyn, und in einem ebenso liberalen Verhältniss zum Minister des Innern stehen, als dies die Verordnung vom 24. November für die Sectionschefs überhaupt festsetzt. Soll aber dieser Chef nicht selbst Arzt seyn, so ist es unstreitig besser, die MedicinalAbtheilung gleichfalls dem Chef der Section des Cultus und öffent- lichen Unterrichts zu geben, als einen Fremden dazu zu nehmen, oder sie unmittelbar dem Minister zuzuordnen. Denn es werden dadurch viele Collisionen vermieden, und Fächer, die durch das wissenschaftliche Interesse nahe verwandt sind, auch in der Geschäfts- form verbunden; auch kann man von dem Chef des öffentlichen Unterrichts am meisten erwarten, dass er ein CoUegium, das aus blossen Aerzten besteht, zu ehren und zu leiten verstehe, und indem er die nöthige Ordnung erhält, ihm auch die gehörige Freiheit gewähren wird.</p>
+
+               <p>Sind beide Abtheilungen verbunden, so bestimmt sich ihr gegenseitiger Einfiuss von selbst, und ohne weitere ausdrückliche Festsetzungen, deren es nur, wenn sie getrennt sind, bedarf.</p>
+
+               <p>Ueber diese nun ist es nothwendig zu reden</p>
+
+               <p>1. im Allgemeineren 2. in besondrer Beziehung auf die in Berlin jetzt existirenden medicinischen Unterrichtsanstalten.</p>
+
+               <pb n="13.256" xml:id="pbXIII256"/>
+               <p>Aus einem Briefe des Herrn Geheimen Rath Hufeland ^) an mich, den ich diesem Schreiben beilege, werden Ew. p. ersehen, dass die Erörterung der Frage, inwiefern die Section des öffentlichen Unter- richts abhängig, oder unabhängig von dem MedicinalRath seyn soll, keineswegs überflüssig ist, und ich fange daher mit dieser an.</p>
+
+               <p>In keiner Stelle dieser Verordnung wird der Section des öffentlichen Unterrichts zur Pflicht gemacht, die MedicinalBehörde auch nur zu Rathe zu ziehen. Die Universitäten werden ihr ohne Einschränkung untergeordnet. Nicht einmal der Name der Medi- cinalBehörden kommt in dem ganzen Abschnitt vom Departement des Cultus und öffentlichen Unterrichts vor.</p>
+
+               <p>In dem vom Departement des MedicinalWesens werden zwar unter den Stellen, die der OberMedicinalRath nicht ohne höhere Anfrage besetzen soll,</p>
+
+               <p>„die ersten Aerzte oder Directoren grösserer Medicinallnstitute in den Hauptstädten, auf Universitäten," und</p>
+
+               <p>„die medicinischen Lehrer bei den BildungsAnstalten für das MedicinalPersonale" genannt.</p>
+
+               <p>Allein die ersteren gehören an sich nicht, oder nur wenn sie zugleich Professoren sind, in dieser Eigenschaft zum Ressort der Section des öffentlichen Unterrichts, und bei den letzteren sind, so wie bei den dem OberMedicinalRath ganz untergebenen allgemeinen BildungsAnstalten für das Medicinal Wesen gewiss nicht die medicinischen Facultaeten der Universitäten, sondern die bloss medicinischen Schulen verstanden, die entweder auf den UniversitätsUnterricht folgen, oder denselben umgehen.</p>
+
+               <p>Bei diesen ist dagegen der OberMedicinalRath gemeinschaftlich mit dem Departement des öffentlichen Unterrichts zu handeln angewiesen, und also mehr jener von diesem, als dies von jenem abhängig gemacht.</p>
+
+               <p>Und in der That folgt dies auch aus richtigen Grundsätzen» Selbst ein wissenschaftliches Institut, sobald es nur einen einzelnen Zweig der Wissenschaft betrifft, wird leicht einseitig, und muss daher, da es um zu gedeihen doch der allgemeinen Ansichten<pb n="13.257" xml:id="pbXIII257"/> bedarf, wieder auf die allgemeine wissenschaftliche Behörde recurriren.<note type="footnote" n="1)" resp="gnd-118554727"><hi>Über Christoph Wilhelm Hufeland {ij62—i8^6), seit iSoi Direktor des Collegiummedico-chirurgicum, vgl. Lenz, Geschichte der Universität Berlin 1,51- 197.</hi></note></p>
+
+               <p>Es würde auch vergeblich seyn zu sagen, dass die Section des öffentlichen Unterrichts kein competentes Urtheil über zu berufende medicinische Lehrer, die Anordnung des medicinischen Lehrcursus, die Direction der klinischen Lehranstalten u. s. f. fällen könne, und dass man ihr deshalb ein Mitglied des OberMedicinalRaths zuordnen müsse. Sie w^rd schon dafür sorgen, in ihrer wissenschaftlichen Deputation auch Mediciner zu haben, sie hat ausser- dem die medicinischen Facultäten ihrer Universitäten und kann, wenn sie will, jeden berühmten inländischen und auswärtigen Arzt um Rath fragen. Es stehen ihr also Mittel zu Gebote, die gewiss wirksamer und besser sind , als ein ärztliches Mitglied. Ueberzeugt, dass unsre deutschen Universitäten, nur weil sie freie Corporationen waren, viel Gutes wirkten, wird sie auch die medicinischen Facultaeten derselben nicht selbst gängeln, sondern sie sich selbst, nur unter Aufsicht überlassen. Selbst auf die Wahlen neuer Mitglieder wird sie ihnen immer sehr gern hauptsächlichen</p>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">Einfluss gestatten. ♦</title>
+               </head>
+               <p>Dem OberMedicinalRath einen Einfluss auf die Universitäten zu gestatten, würde (ausserdem dass die Universitäten ungern von '2wei Behörden abhängen würden) für die allgemeine medicinische Bildung im Ganzen offenbar zweckwidrig seyn, da hingegen freie Wirksamkeit der Universitäten und MedicinalBehörden zugleich erst zusammen ein wohlthätiges Ganzes bildet. Denn Medicinal Behörden nehmen fast unvermeidlich eine mehr praktische, und ■den LocalUmständen ihrer Lage angemessne, also einseitige, und nicht rein wissenschaftliche Richtung; die FacultaetsGelehrten befinden sich in dem entgegengesetzten Falle. Beide zusammen wirken also ungemein heilsam. Die Section des öffentlichen Unterrichts wird die rein wissenschaftliche Tendenz, auch in der Medicin, immer von selbst befördern, bei dem Uebergewichte der Medicinal Behörde liefe sie dagegen schlechterdings Gefahr, unterdrückt oder anderswohin gerichtet zu werden.</p>
+
+               <p>Nicht einmal also, wenn man alles durchaus neu organisirte, dürfte die Section des öffentlichen Unterrichts von den Medicinal Behörden abhängig gemacht werden, jetzt aber, da es der Verordnung vom 24. November entgegenläuft, und die Section alsdann :mcht einmal soviel, als der mit weit wenigeren Mitteln zu guten Wahlen auch in der Medicin versehene Minister des geistlichen<pb n="13.258" xml:id="pbXIII258"/> Departements vermöchte, würde sie durch eine solche, auch noch so geringe Abhängigkeit in ihren wesentlichsten Rechten ge- kränkt. Stünde die Section ihrem Amte nicht recht vor, lieferte sie den Medicinalbehörden unfähige angehende Aerzte, so hätte diese dasselbe Recht im Staatsrath oder beim König darüber ge- rechte Klage zu führen, wie der Grosskanzler über schlechte Juristen, und der Sectionschef 'der allgemeinen Gesetzgebung über schlechte Staatsbeamte in anderen Fächern. Aber solange die Section ihre Unfähigkeit nicht bewiesen hat, muss man ihr freie Hand lassen.</p>
+
+               <p>Da nun aber gewisse Bildungsanstalten zum ressort der Medicinalbehörden gewiesen werden sollen, so fragt es sich welche ? und wie hier die Gränzen zwischen beiden Sectionen zu bestimmen sind?</p>
+
+               <p>Es giebt dreierlei Arten medicinischer Bildungsanstalten:</p>
+
+               <p>1. Die Universitäten, also theoretisch-wissenschaftlichen Unterricht in Verbindung mit dem ganzen Gebiet der Wissenschaft, und mit soviel praktischer Einleitung als zum Uebergange aus der Theorie in die Praxis und zur Verbindung beider nöthig ist;</p>
+
+               <p>2. medicinisch-practische Anstalten, nach vollendetem Univer- sitätsUnterricht ;</p>
+
+               <p>3. medicinische SpecialSchulen und zwar entweder: a. wissenschaftliche, wie es in Paris und leider seit langer Zeit auch in Berlin giebt; b. empirische für diejenigen, die nicht studiren können. Die erstere Classe dieser Specialschulen ist verderblich und kann weder von der Section des öffentlichen Unterrichts, noch den Medicinalbehörden in Schutz genommen werden. Die letztere ist, da man einer zu grossen Menge von Aerzten bedarf als dass alle ordentlich studiren könnten, und bloss empirische Bildung besser als halbstudirte ist, unentbehrlich, muss aber erst geschaffen werden, um das Curiren und Operiren der Bader auszurotten, und Chirurgie und Medicin zweckmässig zu verbinden. Hierher gehört Reils^) Vorschlag über die Bildung der Routiniers.</p>
+
+               <p>Die ersten dieser drei Anstalten gehören nun ausschliesslich zum ressort der Section des öffenthchen Unterrichts;</p>
+
+               <p>') Im Konzept ist der Absatz und die Ziffer 2 vergessen.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Vgl. Band 10, 231.</hi></note></p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

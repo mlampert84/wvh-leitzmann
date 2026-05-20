@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Über die Berufung von Gauss und Oltmanns</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif10humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1903">1903</date>
+                  </imprint>
+                  <biblScope unit="page" from="233" to="236"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="10.233" xml:id="pbX233"/>
+            <p>sitätsgebäude aufgestellt werden können und augenblicklich ein sehr bedeutendes Museum für die Naturgeschichte abgeben, das hernach und allmählig vermehrt werden dürfte. Die Kosten aber des Ausstopfens und Transports könnten höchstens looo Thlr. zusammen betragen. Die Section wagt es daher, Ew. Königl. Majestät allerunterthänigst vorzuschlagen: die Berufung des Professors llliger als Aufsehers des zoologischen Museums mit einem Jahrgehalt von 1500 Thlr., vom I. Juli c. ab, und die Autorisation des Finanz- Ministerii, während des Laufes dieses Jahres bis auf 1000 Thaler nach und nach zum Behuf des Museums anzuweisen, allergnädigst zu genehmigen. Schliesslich bemerkt die unterzeichnete Section noch, dass durch die Berufung des Professors Rudolphi und llliger zugleich der Wunsch der Akademie der Wissenschaften erfüllt werden würde, welche diese beiden Männer zu ihren Mitgliedern zu wählen gewagt hat und sie hierher versetzt zu sehen wünscht. Die Section kann hiebei zur Empfehlung dieses Wunsches nicht unbemerkt lassen, dass es der beabsichteten Vereinigung der Akademie mit der Universität sehr vortheilhaft ist, w^enn die durchaus freie Wahl der Akademie, wie die jetzige gewesen ist, auf Personen fällt, welche auch die Section von ihrem Gesichtspunkte aus Ew. Königl. Majestät ehrfurchtsvoll vorzuschlagen \^eranlassung findet. Berlin, den 31. März 1810.</p>
+
+            <p>Die Section für den öffentlichen Unterricht. Humboldt. An des Ivönigs Majestät.</p>
+
+            <head>
+               <title type="main">XLV. Über die Berufung von Gauss und Oltmanns.</title>
+            </head>
+            <p>31. März 1810.</p>
+
+            <p>{Eigenhändiges Konzept in den Akten des Kultusminister iinns, Abschrift dort und im Geh. Staatsarchiv.)<pb n="10.234" xml:id="pbX234"/> füllung folgenden allerunterthänigsten Bericht abzustatten, als in der That ein disponibler Fonds in der Akademie-Kasse vorhanden ist.</p>
+
+            <p>Der Professor Gauss gehört so sehr zu den vorzüglichsten Mathematikern,*) dass man vielleicht nicht Anstand nehmen darf, ihn geradezu für den ersten jetzt in Deutschland lebenden zu erklären. Er geniesst desselben Rufs im iVuslande. Der unterzeichnete Sections-Chef hat bereits darauf gedacht, ihn für die Universität zu gewinnen, und ihn auf eine indirecte Art über seine Neigung hierher zu kommen befragen lassen. Obgleich er nun zwar auf diesen Vorschlag nicht eingegangen ist, so hat sich aus seiner Antwort doch so viel ergeben, dass er, vorzüglich seiner Gesundheit wegen, nicht liebt, \^orlesungen zu halten, dass aber wohl Hoffnung ist, ihn hierher ziehen zu können, wenn man ihm eine Stelle in der Akademie, die ihm zu wissenschaftlichen Arbeiten, in denen er ungemein thätig ist, ungestörte Müsse gäbe, mit einem Gehalte von 1500 Thlr. antrage, und da sein Besitz wirklich von ausserordentlicher Wichtigkeit für die Akademie wäre, die, wie sie ihren ehemaligen Ruf, vorzüglich im A.uslande, am meisten Mathematikern dankt, so auch jetzt ihn am sichersten auf sie gründen kann; so kann die unterzeichnete Section einen neuen A'ersuch von Seiten der Akademie nichts anders als überaus zweckmässig halten. Oltmanns würde vorzüglich für die astronomische Geographie nützlich sein, er ist neuerlich in einem öltentlich über den Zustand der ^Mathematik im Pariser Institut abgestatteten Bericht ausdrücklich als ein Astronom geschildert worden, der sich immer neue Bahnen zu eröffnen und verbesserte Methoden zu erfinden verstehe. Der unterzeichnete Sections-Chef kann überdies für ihn noch das Zeugniss seines Bruders anführen, dessen astronomische, auf Geographie Bezug habende Beobachtungen er berechnet, und mit seinen Berechnungen herausgesehen hat. Er wünscht hierher<pb n="10.235" xml:id="pbX235"/> ZU kommen, und den Professor-Titel zu erhalten, und würde sich mit einem Gehalte von 500 Thlrn. begnügen.</p>
+
+            <p>Auf diese Weise würde die Berufung beider Männer eine jährliche Ausgabe von 2000 Thlr. verursachen. Hierzu sind nun iioo Thlr. nach dem jetzigen Akademie-Etat wirklich frei und disponibel, nemlich</p>
+
+            <p>400 Thlr. durch die schon seit längerer Zeit reservirten Besoldungen zweier Directoren, welche nach der neuen Verfassung unnütz werden;</p>
+
+            <p>300 „ durch den Tod des Mechanikus Ring, und</p>
+
+            <p>400 „ durch den des Geheimen Ober-Tribunals-Rath Klein, da auch das Justitiariat, für welches derselbe 200 Thlr. genoss, nicht wieder besetzt zu werden braucht, folglich Summa 11 00 Thlr. zusammen.</p>
+
+            <p>Von diesen vv^ürde nun die unterzeichnete Section vorzuschlagen wagen, 500 Thlr. dem Oltmanns zu geben, zu den übrigbleibenden 600 Thlr. aber für den Professor Gauss, wenn er, da dies freilich noch zweifelhaft ist, herzukommen geneigt sein sollte, auf die Fonds der Universität 900 Thlr. allergnädigst zuzulegen. Da die Section mit PIrnst darauf bedacht ist, einige der Akademie durchaus unnütze Ausgaben aufzuheben, so darf sie mit Grund hoffen in nicht langer Zeit auch diese 900 Thlr. auf den Akademie- Fonds übernehmen zu können. Sie trägt daher aus diesen Gründen ehrfurchtsvoll darauf an: dass Ew. Königliche Majestät allergnädigst geruhen möchten, die Wahl des Gauss und Oltmanns zu bestätigen, und die Akademie und die Section des öffentlichen Unterrichts zu autorisiren, beide als ordentliche Mitglieder der Akademie und als Professoren bei der hier zu errichtenden Universität, den erstem mit 1 500 Thlr., den andern mit 500 Thlr. Gehalt (von welchen iioo Thlr. aus dem Akademiefonds flössen, 900 Thlr. aber für jetzt auf Rechnung der hiesigen wissenschaftlichen Anstalten aus Staatskassen genommen würden) hierher zu berufen, wobei aber der Gauss zum Lesen von Collegien nur eingeladen werden müsste, ohne ihm solches zur Pflicht zu machen.<pb n="10.236" xml:id="pbX236"/> unterthänigst anzeigen, dass der Ober-Gerichts-Rath Bastide mit einem Gehalt von 300 Thir. auf dem Etat der Akademie steht, und nicht allein niemals der Akademie einige Dienste geleistet hat, sondern sich auch schon seit Jahren*) in Paris aufhält. Dieser Mann wurde im Jahr 1792 durch einen Immediat-Befehl zum Academicien ernannt, und der damalige Staatsminister Graf von Herzberg erklarte schon damals in einem noch bei den Acten befindlichen Immediat-Bericht, dass, da er schlechterdings kein Gelehrter sey, er zwar aufgenommen worden se}', aber zu keiner Klasse der Akademie werde gerechnet werden können.</p>
+
+            <p>Im Jahre 1806 ging er nach Paris, und Ew. Königliche Majestät geruhten in einer Allerhöchsten Kabinets - Ordre vom 23. August 1806 zu befehlen, dass sein Rathsgehalt beim Französischen Obergericht von 500 Thlr., solange er sich in Paris aufhalte, dem Ober-Gerichts-Rath Jordan interimistisch gezahlt werden sollte. An die Akademie war eine gleiche Ordre nicht ergangen, und der p. Bastide hatte es nicht einmal der Mühe werth geachtet, der Akademie seine Abreise anzugeben. Demungeachtet hat er seine Besoldung beziehen wollen, ist aber von den Rendanten mit diesem Gesuch darum abgewiesen worden, weil er sich nicht über seine mit Ew. Königliche Majestäts Genehmigung erfolgte Abwesenheit legitimirt hat, so dass er seit den i. Juni 1806 kein Gehalt bekommen hat.</p>
+
+            <p>Unter diesen Umständen glaubt die unterzeichnete Section den Antrag wagen zu dürfen: den p. Bastide mit seinem Gehalte von ':;oo Thlr. aus dem Etat der Akademie zu streichen , wenn Ew. Königliche Majestät nach Allerhöchstihrer Milde nicht vorziehen, dass ihm für jetzt nur erklärt werde, dass, wenn er nicht binnen</p>
+
+            <p>3 Monaten zurückkomme, er, als ein der Akademie durch- aus unnützes Mitglied, als nicht mehr zu derselben gehörig angesehen, und aus der Liste der Akademiker ausgelassen würde.</p>
+
+            <p>Gewönne der Akademie -Fonds diese 300 Thlr. wieder, so könnten sie dem Gauss dergestalt gegeben werden, dass dieser nur noch (5oo Thlr. anderweitig erhielte.</p>
+
+            <p>Endlich freut sich die unterzeichnete Section, Ew. Königlichen Majestät mit Grunde sagen zu können, dass die Ernennung von</p>
+         </div>
+      </body>
+   </text>
+</TEI>

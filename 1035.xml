@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Über die innere und äussere Organisation der höheren wissenschaftlichen Anstalten in Berlin</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif10humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1903">1903</date>
+                  </imprint>
+                  <biblScope unit="page" from="250" to="260"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="10.250" xml:id="pbX250"/>
+            <p>rückzuziehen. Da ich meine Kräfte immer nur habe ausschliesslich Ew. Königlichen Majestät und meinem ^^ate^lande widmen wollen; so wird meine Treue an Allerhöchst Ihre Person unerschütterlich dieselbe bleiben, und ich werde es zu meinem grössten Glücke rechnen, wenn Ew. Königliche Majestät diese Gesinnungen anzuerkennen geruhen wollen. Ich darf mir alsdann mit der sicheren Hoffnung schmeicheln, dass Ew. Königliche Majestät huld- reichst verzeihen werden, wenn ich meine ehrfurchtsvolle Bitte wiederhohle, mich nicht länger in einer Lage zu lassen, in der ich an sich den Geschäften nicht mehr nützlich werden kann, in der es mir ausserdem nicht mehr möglich ist, mit Muth und Freudigkeit zu arbeiten, und die aus diesen beiden Gründen mein Leben nothwendig verbittern müsste.</p>
+
+            <p>Ich ersterbe in tiefster Ehrfurcht</p>
+
+            <p>Ew. Königlichen Majestät allerunterthänigster</p>
+
+            <p>Humboldt.</p>
+
+            <p>Berlin, den 29ten April 1810.</p>
+
+            <p>An Seine Königliche Majestät.</p>
+
+            <head>
+               <title type="main">L. „Über die innere und äussere Organisation der höheren wissenschaftlichen Anstalten in Berlin."</title>
+            </head>
+            <p>1810? (Eigeyihändiger Entwurf im Archiv der Akademie der Wissenschaflen ; gedruckt bei Gebhardt, Wilhebn v. Humboldt als Staatsmann I 118 ff., und bei Harnack,</p>
+
+            <p>Geschichte der Königl. preußischen Akademie der Wissenschaften zu Berlin n 361 ff. No. igj.j</p>
+
+            <p>Diese unvollendete Denkschrift läßt sich Jiicht genau datieren ; Harnack hält es für wahrscheinlich, daß das Exemplar, welches ims erhalten ist, erst nach dem Sommer 1810 niedergeschrieben ist, da es mit derselben Tinte geschrieben auf der ersten Seite den Vermerk von Humboldts Hand enthält: „Herrn p. Uhden brevi manu vorzulegen f. . .) er vielleicht von diesem Bruchstücke Gebrauch zu machen im Stande sei". „Uhden hatte also bereits," sagt Harnack, „die Durch<pb n="10.251" xml:id="pbX251"/>lassung hatte, sich mit dem Gegenstand zu beschäftigen. Die Übersendung an Uhden erfolgte auf Auffordenmg von Nicolovius allerdings erst im November 1810; doch erwähnt er in seinem Bericht an Dohna vom g. Mai 1810 einen „ausgearbeiteten Organisations-Plan", mit dem wahrscheinlich der vorliegende Aufsatz gemeint ist.</p>
+
+            <p>Der Begriff der höheren wissenschaftlichen Anstalten, als des Gipfels, in dem alles, was unmittelbar für die moralische Cultur der Nation geschieht, zusammenkommt, beruht darauf, dass die- selben bestimmt sind, die Wissenschaft im tiefsten und weitesten Sinne des Wortes zu bearbeiten, und als einen nicht absichtlich, aber von selbst zweckmässig vorbereiteten Stoff der geistigen und sittlichen Bildung zu seiner Benutzung hinzugeben.</p>
+
+            <p>Ihr Wesen besteht daher darin, innerlich die objective Wissenschaft mit der subjectiven Bildung, äusserlich den vollendeten Schulunterricht mit dem beginnenden Studium unter eigener Leitung zu verknüpfen, oder vielmehr den Uebergang von dem einen zum anderen zu bewirken. Allein der Hauptgesichtspunkt bleibt die Wissenschaft. Denn sowie diese rein dasteht, wird sie von selbst und im Ganzen, wenn auch einzelne Abschweifungen vorkommen, richtig ergriffen.</p>
+
+            <p>Da diese Anstalten ihren Zweck indess nur erreichen können, wenn jede, soviel als immer möglich, der reinen Idee der Wissen- schaft gegenübersteht, so sind Einsamkeit und Freiheit die in ihrem Kreise vorwaltenden Principien. Da aber auch das geistige Wirken in der Menschheit nur als Zusammenwirken gedeiht, und zwar nicht bloss, damit Einer ersetze, was dem Anderen mangelt, sondern damit die gelingende Thätigkeit des Einen den Anderen begeistere und Allen die allgemeine, ursprüngliche, in den Ein zelnen nur einzeln oder abgeleitet hervorstrahlende Kraft sichtbar werde, so muss die innere Organisation dieser Anstalten ein un unterbrochenes, sich immer selbst wieder belebendes, aber ungezwungenes und absichtsloses Zusammenwirken hervorbringen und unterhalten.</p>
+
+            <pb n="10.252" xml:id="pbX252"/>
+            <p>bindung der geübten, aber eben darum auch leichter einseitigen und schon weniger lebhaften Kraft mit der schwächeren und noch parteiloser nach allen Richtungen muthig hinstrebenden.</p>
+
+            <p>Was man daher höhere wissenschaftliche Anstalten nennt, ist, von aller Form im Staate losgemacht, nichts Anderes als das geistige Leben der Menschen, die äussere Müsse oder inneres Streben zur Wissenschaft und Forschung hinführt. Auch so würde Einer für sich grübeln und sammeln, ein anderer sich mit Männern gleichen Alters verbinden, ein Dritter einen Kreis von Jüngern um sich versammeln. Diesem Bilde muss auch der Staat treu bleiben, wenn er das in sich unbestimmte und gewisser- massen zufällige Wirken in eine festere Form zusammenfassen will. Er muss dahin sehen,</p>
+
+            <p>1. die Thätigkeit immer in der regsten und stärksten Lebendigkeit zu erhalten; 2. sie nicht herabsinken zu lassen, die Trennung der höheren</p>
+
+            <p>Anstalt von der Schule (nicht bloss der allgemeinen theoretischen, sondern auch der mannigfaltigen praktischen besonders) rein und fest zu erhalten. Er muss sich eben immer bewusst bleiben, dass er nicht eigentlich dies bewirkt noch bewirken kann, ja, dass er vielmehr immer hinderlich ist, sobald er sich hineinmischt, dass die Sache an sich ohne ihn unendlich besser gehen würde, und dass es sich eigentlich nur so damit verhält: dass, da es nun einmal in der positiven Gesellschaft äussere Formen und Mittel für jedes irgend ausgebreitete Wirken geben muss, er die Pflicht hat, diese auch für die Be<pb n="10.253" xml:id="pbX253"/>fahrens, so muss sich doch der A^ortheil dann auch im Resultat ausweisen, da der Staat, wenn er die Sache von dieser Seite betrachtet, immer bescheidener eingreifen wird, und im praktischen Wirken im Staat auch überhaupt eine theoretisch unrichtige Ansicht, was man immer sagen möge, nie ungestraft bleibt, da kein Wirken im Staat bloss mechanisch ist.</p>
+
+            <p>Dies vorausgeschickt, sieht man leicht, dass bei der inneren Organisation der höheren wissenschaftlichen Anstalten Alles darauf beruht, das Princip zu erhalten, die Wissenschaft als etvv^as noch nicht ganz Gefundenes und nie ganz Aufzufindendes zu betrachten, und unablässig sie als solche zu suchen.</p>
+
+            <p>Sobald man aufhört, eigentlich Wissenschaft zu suchen, oder sich einbildet, sie brauche nicht aus der Tiefe des Geistes heraus geschaffen, sondern könne durch Sammeln extensiv aneinandergereiht werden, so ist Alles unwiederbringlich und auf ewig verloren; verloren für die Wissenschaft, die, wenn dies lange fortgesetzt wird, dergestalt entflieht, dass sie selbst die Sprache wie eine leere Hülse zurücklässt, und verloren für den Staat. Denn nur die Wissenschaft, die aus dem Innern stammt und in's Innere gepflanzt werden kann, bildet auch den Charakter um, und dem Staat ist es ebenso wenig als der Menschheit um Wissen und Reden, sondern um Charakter und Handeln zu thun.</p>
+
+            <p>Um nun auf immer diesen Abweg zu verhüten, braucht man nur ein dreifaches Streben des Geistes rege und lebendig zu erhalten : einmal Alles aus einem ursprünglichen Princip abzuleiten (wodurch die Naturerklärungen z. B. von mechanischen zu dynamischen, organischen und endlich psychischen im weitesten Verstände gesteigert werden); ferner Alles einem Ideal zuzubilden; endlich jenes Princip und dies Ideal in Eine Idee zu ver- knüpfen. Allerdings lässt sich das geradezu nicht befördern, es wird aber auch Niemand einfallen, dass unter Deutschen dies erst be<pb n="10.254" xml:id="pbX254"/>Da jede Einseitigkeit aus den höheren wissenschaftlichen Anstalten verbannt sein muss, so werden natürlich auch viele in denselben thätig sein können, denen dies Streben fremd, einige, denen es zuwider ist; in voller und reiner Kraft kann es überhaupt nur in wenigen sein; und es braucht nur selten und nur hier und da wahrhaft hervorzutreten, um weit umher und lange nachher zu wirken; was aber schlechterdings immer herrschend sein muss, ist Achtung für dasselbe bei denen, die es ahnen, und Scheu bei denen, die es zerstören möchten.</p>
+
+            <p>Philosophie und Kunst sind es, in welchen sich ein solches Streben am meisten und abgesondertsten ausspricht. Allein nicht bloss dass sie selbst leicht entarten, so ist auch von ihnen nur wenig zu hoffen, wenn ihr Geist nicht gehörig oder nur auf logisch oder mathematisch formale Art in die anderen Zweige der Erkenntniss und Gattungen der Forschung übergeht.</p>
+
+            <p>Wird aber endlich in höheren wissenschaftlichen Anstalten das Princip herrschend: Wissenschaft als solche zu suchen, so braucht nicht mehr für irgend etwas Anderes einzeln gesorgt zu werden. Es fehlt alsdann weder an Einheit noch Vollständigkeit, die eine sucht die andere von selbst und beide setzen sich von selbst, worin das Geheimniss jeder guten wissenschaftlichen Methode besteht, in die richtige W^echselwirkung. Für das Innere ist alsdann jede Forderung befriedigt. Was nun aber das Aeussere des Verhältnisses zum Staat und seine Thätigkeit dabei betrifft, so hat er nur zu sorgen für Reich- thum (Stärke und Mannigfaltigkeit) an geistiger Kraft durch die Wahl der zu versammelnden Männer und für Freiheit in ihrer Wirksamkeit. Der Freiheit droht aber nicht bloss Gefahr von ihm, sondern auch von den Anstalten selbst, die, wie sie beginnen, einen gewissen Geist annehmen und gern das Aufkommen eines anderen ersticken. Auch den hieraus möglicherweise entstammenden Nachtheilen muss er vorbeugen.</p>
+
+            <p>Die Hauptsache beruht auf der Wahl der in Thätigkeit zu setzenden Männer. Bei diesen wird sich ein Correctiv, eine</p>
+
+            <pb n="10.255" xml:id="pbX255"/>
+            <p>Nach ihr kommt es am meisten auf wenige und einfache, aber tiefer als gewöhnlich eingreifende Organisationsgesetze an, von denen eben wiederum nur bei den einzelnen Theilen die Rede sein kann.</p>
+
+            <p>Endlich müssen die Hülfsmittel in Betracht gezogen werden, wobei nur im Allgemeinen zu bemerken ist, dass ja nicht die Anhäufung todter Sammlungen für die Hauptsache zu halten, vielmehr ja nicht zu vergessen ist, dass sie sogar leicht beitragen, den Geist abzustumpfen und herabzuziehen, weshalb auch ganz und gar nicht die reichsten Akademien und Universitäten immer diejenigen gewesen sind, wo die Wissenschaften sich der tiefsten und geistvollsten Behandlung erfreuten. Was aber in Absicht der Thätig- keit des Staates von den höheren wissenschaftlichen Anstalten auch in ihrer Gesammtheit gesagt werden kann, betrifft ihr Verhältniss als höhere Anstalten zur Schule und als wissenschaftliche zum praktischen Leben.</p>
+
+            <p>Der Staat muss seine Universitäten weder als Gymnasien noch als Specialschulen behandeln, und sich seiner Akademie nicht als einer technischen oder wissenschaftlichen Deputation bedienen. Er muss im Ganzen (denn welche einzelnen Ausnahmen hiervon bei den Universitäten stattfinden müssen, kommt weiter unten vor) von ihnen nichts fordern, was sich unmittelbar und geradezu auf ihn bezieht, sondern die innere Ueberzeugung hegen, dass, wenn sie ihren Endzweck erreichen, sie auch seine Zwecke und zwar von einem viel höheren Gesichtspunkte aus erfüllen, von einem, von dem sich viel mehr zusammenfassen lässt und ganz andere Kräfte und Hebel angebracht werden können, als er in Bewegung zu setzen vermag.</p>
+
+            <p>Auf der anderen Seite aber ist es hauptsächlich Pflicht des Staates, seine Schulen so anzuordnen, dass sie den höheren wissenschaftlichen Anstalten gehörig in die Hände arbeiten. Dies beruht vorzüglich auf einer richtigen Einsicht ihres Verhältnisses zu denselben und der fruchtbar werdenden Ueberzeugung, dass nicht sie als Schulen berufen sind, schon den Unterricht der Universitäten zu anticipiren, noch die Universitäten ein blosses, übrigens gleichartiges Complement zu ihnen, nur eine höhere Schulklasse sind, sondern dass der Uebertritt von der Schule zur Universität ein Abschnitt im jugendlichen Leben ist, auf den die Schule im Falle des Gelingens den Zögling so rein hinstellt, dass er physisch,</p>
+
+            <pb n="10.256" xml:id="pbX256"/>
+            <p>Ihr Weg, dahin zu gelangen, ist einfach und sicher. Sie muss nur auf harmonische Ausbildung aller Fähigkeiten in ihren Zöglingen sinnen; nur seine*) Kraft in einer möglichst geringen An- zahl von Gegenständen an, so viel möglich, allen Seiten üben, und alle Kenntnisse dem Gemüth nur so einpflanzen, dass das Verstehen, Wissen und geistige Schaffen nicht durch äussere Umstände, sondern durch seine innere Präcision, Harmonie und Schönheit Reiz gewinnt. Dazu und zur Vorübung des Kopfes zur reinen W^issenschaft muss vorzüglich die ^Mathematik und zwar von den ersten Uebungen des Denkvermögens an gebraucht werden.</p>
+
+            <p>Ein so vorbereitetes Gemüth nun ergreift die Wissenschaft von selbst, da gleicher Fleiss und gleiches Talent bei anderer Vorbereitung sich entweder augenblicklich oder vor vollendeter Bildung in praktisches Treiben vergraben und sich dadurch auch für dieses unbrauchbar machen, oder sich, ohne das höhere wissenschaftliche Streben, mit einzelnen Kenntnissen zerstreuen.</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">Von dem Eintheilungsgrunde der höheren wissen- schaftlichen Anstalten und den verschiedenen Arten</title>
+               </head>
+               <p>derselben. Gewöhnlich versteht man unter höheren wissenschaftlichen Anstalten die Universitäten und Akademieen der Wissenschaften und Künste. Es ist nicht schwer, diese zufällig entstandenen In- stitute wie aus der Idee entstanden abzuleiten; allein theils bleibt in solchen seit Kant sehr beliebten Ableitungen immer etwas Schiefes zurück, theils ist das Unternehmen selbst unnütz.</p>
+
+               <p>Sehr wichtig dagegen ist die Frage: ob es wirklich noch der Mühe werth ist, neben einer Universität eine Akademie zu errichten oder zu erhalten? und welchen Wirkungskreis man jeder abgesondert und beiden gemeinschaftlich anweisen muss, um jede auf eine, nur ihr mögliche Art in Thätigkeit zu setzen?</p>
+
+               <p>Wenn man die Universität nur dem Unterricht und der Verbreitung der Wissenschaft, die Akademie aber ihrer Erweiterung bestimmt erklärt, so thut man der ersteren offenbar Unrecht. Die<pb n="10.257" xml:id="pbX257"/> lose Verbindung einer akademischen Genossenschaft. Der Gang der Wissenschaft ist offenbar auf einer Universität, wo sie immerfort in einer grossen Menge und zwar kräftiger, rüstiger und jugendlicher Köpfe herumgewälzt wird, rascher und lebendiger. Ueberhaupt lässt sich die Wissenschaft als Wissenschaft nicht wahrhaft vortragen, ohne sie jedesmal wieder selbstthätig aufzufassen, und es wäre unbegreiflich, wenn man nicht hier, sogar oft, auf Entdeckungen stossen sollte. Das Universitätslehren ist ferner kein so mühevolles Geschäft, dass es als eine Unterbrechung der Müsse zum Studium und nicht vielmehr als ein Hülfsmittel zu demselben gelten müsste. Auch giebt es auf jeder grossen Universität immer Männer, die, indem sie wenig oder gar nicht lesen, nur einsam für sich studiren und forschen. Sicherlich könnte man daher die Erweiterung der Wissenschaften den blossen Universitäten, wenn diese nur gehörig angeordnet wären, anvertrauen, und zu diesem Endzweck der Akademien entrathen.</p>
+
+               <p>Der gesellschaftliche Verein, der allerdings unter Universitätslehrern als solchen nicht nothwendig gleich regelmässig vorhanden ist, dürfte auch schwerlich ein hinreichender Grund sein, so kostbare Institute zu gründen. Denn einestheils ist dieser Verein auch auf den Akademien selbst locker genug, anderntheils dient er nur vorzüglich in denjenigen Beobachtungs- und Experimentalwissen- schaften, wo schnelle Mittheilung einzelner Thatsachen nützlich ist. Endhch entstehen in diesen Fächern, ohne Schwierigkeit, immer auch ohne Zuthun des Staats Privatgesellschaften.</p>
+
+               <p>Geht man der Sache genauer nach, so haben Akademien vor<pb n="10.258" xml:id="pbX258"/>Um daher beide Institute in lebendiger Thätigkeit zu erhalten, ist es nothwendig, sie dergestalt mit einander zu verbinden, dass, obgleich ihre Thätigkeit abgesondert bleibt, doch die einzelnen Mitglieder nicht immer bloss ausschliessend der einen oder andern gehören. In dieser Verbindung lässt sich nun das abgesonderte Bestehen beider auf eine neue und iretfliche Art benutzen.</p>
+
+               <p>Dieser Nutzen beruht aber alsdann viel weniger auf der Eigen- thümlichkeit der Thätigkeit beider Institute (denn in der That kann durch Universitätslehrer, ohne Einrichtung einer eigenen Akademie, vollkommen erreicht werden, was man durch diese bezweckt, vorzüglich da, Vv^as noch immer sehr verschieden von einer eigentlichen Akademie ist, diese letzteren wieder, wie in Göttingen, eine eigne gelehrte Gesellschaft bilden können), sondern auf der Eigenthümlichkeit ihrer Form und ihrem Verhältniss zum Staate.</p>
+
+               <p>Die Universität nemlich steht immer in engerer Beziehung auf das praktische Leben und die Bedürfnisse des Staates, da sie sich immer praktischen Geschäften für ihn, der Leitung der Jugend, unterzieht; die Akademie aber hat es rein nur mit der Wissenschaft an sich zu thun. Die Lehrer der Universität stehen unter einander in bloss allgemeiner Verbindung über Punkte der äusseren und inneren Ordnung der Disciplin; allein über ihr eigentliches Geschäft theilen sie sich gegenseitig nur insofern sie eigene Neigung dazu führet, mit; indem sonst jeder seinen eigenen Weg geht. Die Akademie dagegen ist eine Gesellschaft, wahrhaft dazu bestimmt, die Arbeit eines Jeden der Beurtheilung Aller zu unterwerfen.</p>
+
+               <p>Auf diese Weise muss die Idee einer Akademie als die höchste •und letzte Freistätte*) der Wissenschaft und die vom Staat am meisten unabhängige Corporation festgehalten werden, und man muss es einmal auf die Gefahr ankommen lassen, ob eine solche Corporation durch zu geringe oder einseitige Thätigkeit beweisen wird, dass das Rechte nicht immer am leichtesten unter den günstigsten äusseren Bedingungen zu Stande kommt oder nicht. Ich sage, man muss es darauf ankommen lassen, weil die Idee in sich schön und wohlthätig ist, und immer ein Augenblick eintreten kann, wo sie auch auf eine würdige Weise ausgefüllt wird.<pb n="10.259" xml:id="pbX259"/> ein Wetteifer und Antagonismus und eine solche Wechselwirkung, dass, wenn man in ihnen einen Excess und einen Mangel an Thätigkeit besorgen muss, sie sich gegenseitig von selbst in's Gleichgewicht bringen werden.</p>
+
+               <p>Zuerst bezieht sich dieser Antagonismus auf die Wahl der Mitglieder beider Corporationen. Jeder Akademiker muss nemlich das Recht haben, auch ohne weitere Habilitation Vorlesungen zu halten, ohne jedoch dadurch Mitglied der Universität zu werden. Mehrere Gelehrte müssen füglich Universitätslehrer und Akademiker sein, aber beide Institute müssen auch andere besitzen, die nur jedem allein angehören.</p>
+
+               <p>Die Ernennung der Universitätslehrer muss dem Staat ausschliesslich vorbehalten bleiben, und es ist gewiss keine gute Einrichtung, den Facultäten darauf mehr Eintiuss zu verstatten, als ein verständiges und billiges Curatorium von selbst thun wird. Denn auf der Universität ist Antagonismus und Reibung heilsam und nothwendig, und die Collision, die zwischen den Lehrern durch ihr Geschäft selbst entsteht, kann auch unwillkührlich ihren Gesichtspunkt verrücken. Auch ist die Beschaffenheit der Universitäten zu eng mit dem unmittelbaren Interesse des Staats ver- bunden.</p>
+
+               <p>Die Wahl der Mitglieder der Akademie aber muss ihr selbst überlassen und nur an die Bestätigung des Königs gebunden sein, die nicht leicht entsteht.*) Denn die Akademie ist eine Gesellschaft, in der das Princip der Einheit bei weitem wichtiger ist, und ihr rein wissenschaftlicher Zweck liegt dem Staat als Staat weniger nahe.</p>
+
+               <p>Hieraus entsteht nun aber das oben erwähnte Correctiv bei den Wahlen zu den höheren wissenschaftlichen Anstalten. Denn da der Staat und die Akademie ungefähr gleichen Antheil daran nehmen, so wird sich bald der Geist zeigen, in welchem beide handeln, und die öffentliche Meinung selbst wird beide, wo sie sich verirren sollten, auf der Stelle unparteiisch richten. Da aber nicht leicht beide zugleich, wenigstens nicht auf dieselbe Weise fehlen werden, so droht wenigstens nicht allen Wahlen zugleich Gefahr, und das Gesammtinstitut ist vor Einseitigkeit sicher.</p>
+
+               <p>Vielmehr muss die Mannigfaltigkeit der bei demselben in</p>
+
+               <pb n="10.260" xml:id="pbX260"/>
+               <p>Eine ihr ganz eigenthümliche Thätigkeit ausser ihren akademischen Arbeiten aber kann die Akademie auch durch Beobachtungen und Versuche gewinnen, welche sie in systematischer Reihe anstellt. Von diesen müssten einige ihr freigestellt sein, andere aber ihr aufgetragen w^erden, und auf diese aufgetragenen müsste wiederum die Universität Einfluss ausüben, so dass dadurch eine neue Wechselwirkung entstände.</p>
+
+               <p>Ausser der Akademie und der Universität gehören zu den höheren wissenschaftlichen Anstahen noch die leblosen Institute.</p>
+
+               <p>Diese müssen abgesondert zwischen beiden, unmittelbar unter Aufsicht des Staates stehen. Allein beide, Akademie und Universität, müssen nicht bloss, nur unter gewissen Modificationen, die Benutzung, sondern auch die Controlle darüber haben.</p>
+
+               <p>Jedoch können sie die letztern nur dergestalt üben, dass sie ihre Erinnerungen und ihre Verbesserungsvorschläge nicht unmittelbar, sondern beim Staate anbringen. Die Akademie gewinnt bei den Instituten durch die Universität, dass sie nun auch solche benutzen kann, die, wie das anatomische und zootomische Theater, sonst mit keiner Akademie verbunden waren, weil man dieselben von dem beschränkten Gesichtspunkte der Medizin und nicht von dem weiteren der Naturwissenschaft aus ansah.</p>
+
+               <p>Akademie, Universität und Hülfsinstitute sind also drei gleich unabhängige und integrante Theile der Gesamtanstalt.</p>
+
+               <p>Alle stehen, allein die beiden letzteren mehr, die erstem weniger, unter Leitung und Oberaufsicht des Staates.</p>
+
+               <p>Akademie und Universität sind beide gleich selbständig; allein insofern verbunden, dass sie gemeinsame Mitglieder haben, dass die Universität alle Akademiker zu dem Recht Vorlesungen zu halten zulässt, und die Akademie diejenigen Reihen von Beobachtungen und Versuchen veranstaltet, welche die Universität in Vorschlag bringt.</p>
+
+               <p>Die Hülfsinstitute benutzen und beaufsichtigen beide, jedoch das letztere, wo es auf die Ausübung ankommt, nur mittelbar durch den Staat.</p>
+
+               <p>Von der Akademie.*)</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

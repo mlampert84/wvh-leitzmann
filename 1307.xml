@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bericht an Altenstein über die Finanzgrundsälze der Sektion</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Dreizehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif13humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1920">1920</date>
+                  </imprint>
+                  <biblScope unit="page" from="283" to="289"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="13.283" xml:id="pbXIII283"/>
+            <p>Dies ist ungefähr, was es mir gut schien, im Ganzen voraus zu erinnern, da es im Zusammenhang überlegt seyn will und sich für eine Conferenz mit der Deputation nicht passt. Uebrigens, diese bestrittenen Punkte abgerechnet, in denen auch die Section, wenn ich auch vielleicht nicht über ihre Meynung hinausginge, irren kann, ist ein tref licher Geist in dem ganzen Plan ; sehr viel Einzelnes stimmt ganz mit dem System der Section überein, andre Kleinigkeiten, wie dass die Lehrer noch viel zu sehr mit Lectionen überhäuft bleiben, lassen sich mündlich besprechen.</p>
+
+            <p>Gumbinnen, den 27. September 1809.</p>
+
+            <p>Humboldt. D. Bericht an Altenstein über die Finanzgrundsätze der Sektion. <note type="footnote" n="^)" resp="gnd-116890657"><hi>Von Sehr eiber hand.</hi></note> Die von Ew. Excellenz veranstaltete Conferenz über die Kirchen und Schul-Etats der verschiedenen Regierungen mit dem Herrn Staats-Rath Schultz <note type="footnote" n="^)" resp="gnd-116890657"><hi>Christoph Ludwig Friedrich Schultz {ij8i — i8j4), durch seinen Brief-</hi></note> veranlasst mich. Denselben folgende Gedanken über die ganze Finanz-Parthie der Section des Cultus und öffentlichen Unterrichts gehorsamst vorzulegen.</p>
+
+            <p>In dem ersten Augenblick, wo ich die Leitung derselben über- nahm, bemühte ich mich, die Totalität sowohl der vorhandenen Schul-Fonds, als der dem Schulwesen aus Königlichen Gassen bisher zugeflossenen Zuschüsse mit einiger Genauigkeit kennen zu lernen. In der Registratur des ehemaligen Geistlichen Departements und OberSchul-CoUegii fanden sich schlechterdings nur einzelne und zerstreute Data hierüber. Ich wandte mich an die vormalige General-Controlle, allein auch da würde der Total-Betrag nur mit Mühe haben zusammen gesucht werden können, und die gewiss nicht unwichtige Frage: wie viel die Unterhaltung der kirchlichen und SchulAnstalten dem Lande überhaupt gekostet habe? schien daher nie aufgeworfen worden zu seyn.</p>
+
+            <p>wechsel mit Goethe weiter bekannt geworden, seit 1808 Staatsrat im Finanzministerium, seit 1814 im Ministerium des Inneren, von dort i8ij in das neu abgezweigte Ministerium der geistlichen und Unterrichtsangelegenheiten übernommen; vgl. sein Lebensbild im Briefwechsel zwischen Goethe und Staatsrat Schultz von Düntzer [Leipzig 18^3)<pb n="13.284" xml:id="pbXIII284"/>Als ich nach Königsberg kam, führte mich Ew. Excellenz bei einigen Gelegenheiten geäusserte Bemerkung, dass es weniger auf die historische Untersuchung des bisherigen Zustandes, als die Ausmittelung des jetzigen wahren Bedüfnisses ankomme, um so mehr von diesen Nachforschungen ab, als ich mit lebhaftem Vergnügen bemerkte, dass Ew. Excellenz diesen Grundsatz sehr häufig zum Vortheil der wissenschaftlichen Institute anzuwenden die Geneigtheit hatten. Es wurden daher die alten Zahlungen nur einzeln wieder in Antrag gebracht, grösstentheils hergestellt, zum Theil aber auch,, wie die zu dem Joachimsthal und der Monas pütafis-CdiSse^ noch suspendirt gelassen.</p>
+
+            <p>Da ich die Schonung fühlte, deren die Staats-Cassen bedürften^ so zog ich es vor, Ew. Excellenz durch wiederholte einzelne Gesuche lästig zu werden, als ganze Etats, in denen einige Zahlungen vielleicht noch ruhen konnten, auf einmal wieder aufzunehmen, und wandte mich daher nur da an Ew. Excellenz, wo die Institute es schlechterdings erforderten, oder die zahlungsberechtigten Per- sonen dringend wurden. Wo es möglich war, machte ich gegen die vorigen Etats be- deutende Ersparungen. So bei der Academie der Künste und Wissenschaften.</p>
+
+            <p>Auf der andern Seite machte ich meine Anträge, wo sich ein kirchliches, Lehr- und wissenschaftliches Bedürfniss zeigte, einzeln, und Ew. Excellenz genehmigten die mehresten dieser An- träge entweder geradezu, oder unterstützten dieselben bei des Königs Majestät. Das Normal-Institut zu Königsberg, das Colle- gium Fridericianum ebendaselbst, die Universität Königsberg und die neue Lehranstalt hier in Berlin werden dauernde Beweise der Fürsorge Ew. Excellenz für Erziehung und Wissenschaften bleiben.</p>
+
+            <p>Allein so sehr, und für die von allen Seiten bedrängten Zeit- umstände unglaublich viel auch wirklich geschehen ist, soviel bleibt, wie ich Ew. Excellenz unumwunden gestehen muss, noch zu thun übrig.</p>
+
+            <p>Wenn auch die schlechterdings nothwendige Verbesserung der Landschulen grösstentheils durch die Gemeinen geschehen könnte und sollte, so wird doch die Anlegung anderer Normal-Institute, deren Nutzen jetzt das Königsbergsche bereits durch die Erfahrung bewährt hat, schlechterdings nothwendig seyn, wenn die Verbreitung, einer bessern Methode nicht allzu langsam von Statten gehen solL</p>
+
+            <pb n="13.285" xml:id="pbXIII285"/>
+            <p>Die gelehrten Schulen in allen Provinzen, fast ohne Ausnahme, sind auf eine den Forderungen, die man billigerweise jetzt an sie machen muss, durchaus unangemessene Art dotirt, und die Verlegenheit in Absicht derselben ist um so grösser, als die Städte, in welchen sie sich befinden, meistentheils zu klein sind, als dass ihre Verbesserung von ihnen gefordert werden könnte.</p>
+
+            <p>Die neue Lehranstalt hier erfordert, worüber ich mich auf ein am lo. Junius an des Herrn StaatsMinisters des Innern erlassenes Schreiben, welches derselbe Ew. Excellenz mittheilen wird, zu beziehen die f^hre habe, noch eine immer für die Umstände nicht unbedeutende Summe, um aufzuhören ein blosses Project zu seyn.</p>
+
+            <p>Für kirchliche ^^erbesserungen ist bis jetzt noch fast nichts geschehen. Da aber dies vorzüglich daher rührte, dass die Sec- tion des Cultus, in Ermangelung ihrer geistlichen Mitglieder, in Königsberg nur wenig thätig seyn konnte, so wird auch hiefür das Bedürfniss bald fühlbar w^erden.</p>
+
+            <p>Ganz besonders dringend ist die Schulverbesserung in West- preussen und dem Ermeland. Schon vor dem Kriege war der Zustand des Schulwesens dort wenig erfreulich. Allein der Krieg und die Folgen, welche derselbe auf den, noch überdies vielleicht nicht mit der nothwendigen Sorgfalt administrirten Jesuiter-Fonds gehabt hat, haben dasselbe so zerrüttet, dass man es ohne alle Uebertreibung als gänzlich zerstört ansehen kann. Es wird hierüber dem Herrn Staats-Rath Schultz ein eigener detaillirter Auf- satz mitgetheilt werden. Die Hülfe in dieser Provinz ist um so nothwendiger, als wegen der Mischung deutscher und polnischer Einwohner in derselben die National-Bildung schwieriger ist, und die Folgen des Mangels an derselben so leicht auch politisch be- denklich werden. Auf der andern Seite fehlt es aber auch nicht an inneren schon vorhandenen Hülfsmitteln, und es ist nur zu bedauern, dass nicht gegenwärtig schon über dieselben disponirt werden kann. In jedem Falle ist daher das Zutreten der Staats- Cassen nur auf eine Zeitlang nothwendig.</p>
+
+            <p>Für Schlesien und namentlich für Breslau würde schon bedeutend gesorgt seyn, wenn, indem die 7000 Rth. von den Stiftern und Klöstern jetzt auf den Kurmärkschen Regierungs-Etat übergehen, diese Summe nebst den 3000 Rth. von den Militär-Pensionen auf die gelehrten Anstalten verwendet würden. Ueberhaupt bieten für Schlesien die Stifter und Klöster immer eine noch im hohen<pb n="13.286" xml:id="pbXIII286"/> Grade ergiebige Hülfsquelle dar, wenn nur der Gesichtspunkt im Auge behalten wird, dass im Fall sie einmal eingezogen werden sollten, ihre Einkünfte, so weit es erforderlich ist, zur Schulverbesserung zu verwenden seyn würden. Ich glaube also mit Recht voraussetzen zu dürfen, dass Ew. Excellenz, wenn Sie jetzt die Feststellung des Etats veranstalten, doch nicht damit bloss die Berichtigung der bisher bewilligten Summen im Sinne haben, sondern auch wirklich nothwendige Verbesserungen, die im Laufe des Etats-Jahres zu machen seyn werden, schon jetzt zu berücksichtigen gemeynt sind, sey es nun, dass gleich jetzt eine disponible Summe eveiihialüer bestimmt werde, oder nur allgemein vorbehalten bliebe^ neue Anträge wie bisher bei Sr. Majestät dem Könige, auch im Laufe des Jahres zu machen.</p>
+
+            <p>Ew. Excellenz sind gewiss überzeugt, dass ich lebhaft fühle, welche Schonung im gegenwärtigen Augenblick die erschöpften und noch auf so mannigfaltige Weise in Anspruch genommenen Kräfte des Staats nothwendig fordern. Allein gerade diese unvermeidliche Erwägung führt mich auf die Idee der Ausmittelung eines General-Etats für die, nothwendige Verbesserungen mit in sich begreifenden Bedürfnisse der Section zurück. Denn gewiss ist es gleich peinlich, Seine Majestät den König mit Anträgen zu behelligen, die nun einmal nicht für jetzt ausgeführt werden können, und aus dieser Besorgniss nützliche Reformen zu unterlassen. Auch ist es unläugbar, dass die Section, wenn sie die Summe kennt, auf welche sie sich über das bisherige Quantum würde Rechnung machen können, besser im Stande ist, dieselbe zu den einzelnen Zwecken zu repartiren, als wenn über die Prioritaet dieses oder jenes Antrags, wie jetzt unvermeidlich oft der Fall seyn muss, der Zufall entscheidet.</p>
+
+            <p>Ein solcher Etat sollte nun eigentlich freilich von Seiten der Schulbehörde, welche ihr Bedürfniss angeben muss, vorgelegt werden, und die Section würde hiezu sehr bereitwillig seyn. Es würde ihr hierin allerdings die Neuheit sowohl ihrer eigenen, als der Organisation der Provinzial-Schul-Behörden entgegen stehen, die eine hinlänglich genaue Kenntniss aller einzelnen Anstalten schon jetzt unmöglich macht. Allein auch ausserdem würde ein solcher Etat, in seiner ganzen Ausdehnung, jetzt ohne reellen Nutzen seyn. Es ist augenscheinlich, dass man jetzt nur bei demjenigen stehen bleiben muss, was unter den gegebenen Umständen zu thun möglich ist, und ein von Seiten der administrirenden<pb n="13.287" xml:id="pbXIII287"/> Behörde so beschränkter und doch allgemeiner Etat würde in die Einrichtung jeder Anstalt schiefe Gesichtspunkte bringen. Von dieser Seite aus kann die Section Ew. Excellenz nur eine, ihren Ansichten nach gemachte Auswahl des Nothwendigsten vorlegen und hierauf hat dieselbe die zur Conferenz mit Herrn StaatsRath Schultz deputirten Räthe instruirt.</p>
+
+            <p>Wenn man aber das Kirchen- und Schulwesen als etwas an- siehet, das gewissermassen einer unbestimmten Verbesserung fähig ist, das in einem Staate von einigem Umfange schon äusserst bedeutende Mittel bedarf um überall nur gut und hinlänglich dotirt zu seyn, und für das, wenigstens bis auf einen, auch vielleicht dem reichsten Staate schwer zu erreichenden Punkt, nie zuviel geschehen kann; so rechnet man vielleicht diesen Verwaltungszweig nicht unbillig zu denjenigen, für die ein Etat nicht nach dem immer zu relativen Bedürfniss, sondern nach den Kräften, es zu befriedigen, und mithin nach der StaatsEinnahme gemacht werden müsste, und diese Methode möchte wohl in einem Staate, wie der unsrige, in seiner jetzigen Lage, der nicht alles thun kann, was er möchte, wo man aber mit Wahrheit von Sr. Majestät dem Könige und dem Ministerio behaupten kann, dass der bereiteste Wille vorhanden ist, das Mögliche in vollem Maasse zu thun, die sicherste se3'n.</p>
+
+            <p>Wenn daher Ew. Excellenz vorzögen, eine Summe im Ganzen zu bestimmen, bis auf welche Sie (ohne Rücksicht auf die einzelnen Fälle des Bedürfnisses) den Anträgen der Section über die bisherigen Etats hinaus, während des jetzt beginnenden Etats-Jahres, vom blossen Interesse des Finanz-Punktes aus nicht entgegen seyn würden; so würde die Section gewiss das aufrichtige Vertrauen hegen, dass Ew. Excellenz hiebei eben die Grundsätze und Maximen befolgen würden, welche schon so oft den Lehr- und wissenschaftlichen Anstalten wohlthätig geworden sind, und sie selbst könnte ihre Mittel besser übersehen, und richtiger das Verhältniss zwischen den möglichen Verwendungen treffen.</p>
+
+            <p>Auch hierüber sind die mit dem Herrn Staats-Rath Schultz zu conferiren bestimmten Räthe der Section gehörig instruirt, so wie sie sich überhaupt theils für sich aus den Acten, theils in einer eigenen Sections-Conferenz und endlich durch einen Vortrag in Pleno des Minislerii des Innern auf die Verhandlungen mit Ew. Excellenz Ministerium so vollständig vorbereitet haben, als die Lage der Umstände es erlaubte. Indess konnte diese Vorbereitung<pb n="13.288" xml:id="pbXIII288"/> immer nur mangelhaft seyn, da die Zeit, seitdem Ew. Excellenz Ihr Verlangen zu diesen gemeinschaftlichen Verabredungen geä ussert haben, so überaus kurz, und der Weitläuftigkeit des Gegenstandes nicht angemessen ist, und bei der Section auch nur von vier Regierungen, nemlich den drei Preussischen und der Breslauischen, die Etats vorhanden sind. Ich kann dieses Schreiben nicht schliessen, ohne Ew. Excellenz noch auf eine Idee aufmerksam zu machen, die ich, gleich beim Antritt meines Amts, hatte, die ich während der Führung desselben nur kaum hier und dort habe auszuführen versuchen können, die ich aber noch jetzt für hinlänglich wichtig halte um wenigstens ■auf das reiflichste erwogen zu werden.</p>
+
+            <p>Es schiene mir nemlich viel zweckmässiger, die für das Kirchen- und Schulwesen bestimmten Gelder unmittelbar aus dem Vermögen der Nation in eine abgesonderte Geistliche Casse, von welcher die schon vorhandenen Schul- und Kirchen-Fonds den Hauptbestandtheil ausmachten, fliessen zu lassen als sie, wie jetzt geschieht, mit den übrigen Staatsausgaben zu vermischen.</p>
+
+            <p>Die Vortheile einer solchen Einrichtung, die grössere Selbstständigkeit dieser Casse, das höhere Interesse der Nation an Instituten, die nun sichtlicher ihr Werk wären, liegen am Tage. Ja, es entstände vielleicht dann, wenn es solche, nicht mit den Re- gierungs-Cassen vermischte, sondern von den Administratoren der Communen selbst verwaltete Gassen gäbe, wieder der alte fromme Gemeingeist, der sich in zu oft und ungerecht geschwächten Schenkungen und Vermächtnissen thätig erwiese. Die Art der Erhebung könnte alsdann eine doppelte seyn. Entweder erhöbe der Staat neben den Königlichen Abgaben «inen für das ganze Land ungefähr berechneten Ueberschuss, und dieser flösse unmittelbar in die Casse.</p>
+
+            <p>Oder jeder Theil der Nation erhielte unmittelbar die für ihn besonders bestimmten Anstalten und Personen.</p>
+
+            <p>In diesem letztern Fall müsste jedoch der Staat, der schon durch die Bildung seiner Diener ein unmittelbares und evidentes Interesse bei der Schulreform hat, die Unterhaltung der Universitäten ganz, und der gelehrten Schulen wenigstens zu dem Theile, in welchem sie gelehrte, nicht bloss mit denselben verbundene Elementar- und Bürgerschulen sind, tragen.</p>
+
+            <p>In wie fern aber die Unterhaltung der Land- und niedern Stadtschulen durch Einrichtung von Schul-Societäten im ganzen<pb n="13.289" xml:id="pbXIII289"/> Lande, durch Zuschüsse aus den Stadt-Cassen und durch Bildung von Provincial-Cassen zu bewirken seyn möchte, würde näher ^usgemittelt werden müssen.</p>
+
+            <p>Wichtige Hindernisse hierbei sind allerdings einestheils die noch mangelnde Organisation des ländlichen Gemeinwesens und der Kreistind Provincial- Verfassung, anderntheils der traurige Finanzzustand sowohl der Städte, als Provinzen im gegenwärtigen Augenblick.</p>
+
+            <p>Allein nicht bloss das Kirchen- und Schulwesen, sondern auch andere Gegenstände, von welchen ich nur hier das mich gleich- falls unmittelbar angehende MedicinalWesen und die Armenpflege namhaft machen will, sind von der Art, dass dabei auf die Gemeinen wird gerechnet werden müssen, und dass dies wirklich geschieht. Es lässt sich in der That keine wahre und erschöpfende Sorge für die Befriedigung der Bedürfnisse der Nation und des Staats denken, wenn nicht genau gesondert ist, was Communal-Last werden und was aus Staats-Mitteln bestritten werden muss, den Gemeinen in allen Stufen ihres Umfanges, in den Dörfern, Städten, Kreisen, und Provinzen eine übereinstimmende Verfassung, in welcher die StädteOrdnung noch immer isolirt da steht, gegeben wird, und endlich das jetzige Schuldenwesen der Städte und Provinzen auf eine feste Weise geregelt ist. Da nun die Xothwendigkeit dieser Einrichtungen allgemein anerkannt ist, da die verschiedenen Ministerien schon sehr viel für dieselben gethan haben und unablässig an ihrer Vollendung arbeiten; so kann, dünkt mich, hieraus keine gegründete Einwendung gegen den Vorschlag im Ganzen hergenommen werden. Sollte nun dieser Gedanke nur im Allgemeinen mit Ew. Excellenz Ansichten übereinstimmen, so bin ich sehr bereit, einen detaillirten Plan hierüber ausarbeiten zu lassen und zu gemein-</p>
+
+            <head>
+               <title type="main">schaftlicher Berathung zu bringen. Berlin, den 12. Mai iSio. Humboldt.</title>
+            </head>
+            <p>An des Königlichen Wirklichen Geheimen Staats- und Finanzministers, Herrn Freiherrn von Altenstein, Excellenz.<note type="footnote" n="^)" resp="gnd-116890657"><hi>Präsentiert ij. Mai 1810, von Altenstein an Schult:: zum Referat überwiesen. Dieser bemerkt am Rande der ersten Seite:</hi></note></p>
+
+            <p>„Resp. Man sey bereit, mit ihm über die Bedürfnisse des SchulWesens in ^iner dem Abschluss des GeneralStaatsLastenEtats vorangehenden Conferenz zu</p>
+
+            <p>W. V. Humboldt. Werke. XUI. 19</p>
+         </div>
+      </body>
+   </text>
+</TEI>

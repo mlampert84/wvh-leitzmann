@@ -1,0 +1,483 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aus der Zeit der Zurückgezogenheit in Tegel 1820— 1835</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Siebzehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif17humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1904">1904</date>
+                  </imprint>
+                  <biblScope unit="page" from="349" to="379"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1820">1820</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="17.349" xml:id="pbXVII349"/>
+            <head>
+               <title type="main">V</title>
+            </head>
+            <div type="section" n="1">
+               <head>
+                  <title type="main">AUS DER ZEIT DER ZURÜCKGEZOGENHEIT</title>
+               </head>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">IN TEGEL</title>
+               </head>
+               <p>1820 — 1835</p>
+            </div>
+
+            <div type="section" n="3">
+               <head>
+                  <title type="main">(AUSWAHL)</title>
+               </head>
+               <pb n="17.350" xml:id="pbXVII350"/>
+               <pb n="17.351" xml:id="pbXVII351"/>
+            </div>
+
+            <div type="section" n="4">
+               <head>
+                  <title type="main">381. An Stein Berlin, den 20. Februar, 1820</title>
+               </head>
+               <p>Stein-Archiv ; 3 eigenh. Quartseiten; gär. Stein, Briefwechsel, hrsg. Botzenhart V 614.</p>
+
+               <p>Ew. Excellenz haben mir über die Herausgabe der deutschen Quellenschriftsteller geschrieben, und wünschen, den Bericht zu sehen, welchen die Academie der Wissenschaften über Ihren Plan abgestattet hat<note type="footnote" n="^)" resp="gnd-116890657"><hi>Das Gutachten der historisch-philologischen Klasse der Akademie über den Plan einer Quellensammlu7ig für die deutsche Geschichte vom 26. X. i8ig ist gedruckt in Harnacks Geschichte der preußischen Akademie der Wissenschaften. Urkundenhand Nr. ig8; die ,, Gesellschaft für ältere deutsche Geschichtskunde" war am 20. I. i8ig gestiftet worden.</hi></note>. Ich theile Ihnen denselben anliegend in Abschrift mit, nur muß ich Sie bitten, diese Mittheilung lediglich als eine vertrauHche anzusehen, und den Bericht weiter niemandem zu zeigen. Da die Academie denselben an das Ministerium gerichtet hat, so ist es billig, daß er, vor der Antwort des letzteren, auch nicht seinem Inhalte nach bekannt werde, und er enthält außerdem eine SteUe über H. Dümge, die dem Manne doch unangenehm seyn könnte<note type="footnote" n="^)" resp="gnd-116890657"><hi>,,indem Herr Dümge, unbeschadet seiner gelehrten Verdienste, nur durch wenige und fast lauter unvollendete Arbeiten bekannt ist".</hi></note>. Ew. ExceUenz werden die Bemerkungen über das Unternehmen nicht sehr wichtig fin- den. In der That lassen sich auch keine bedeutende machen. Das Wichtigste ist, daß angefangen, und rasch fortgefahren werde. Ob es dann in folio, oder Quart sey, ob eine Chronik ein wenig mehr, oder weniger vollständig ist, darüber geht der, welcher dann benutzen kann, was ihm jetzt verschlossen ist, leicht hinweg. Auch sieht die Academie zu sehr auf bloß gelehrten Gebrauch. Man kann wohl voraussetzen, daß auch die, welche nicht gelehrte Benutzung beabsichtigen, einen und den andern dieser Schriftsteller lesen werden,<pb n="17.352" xml:id="pbXVII352"/> und dies gerade wäre der wichtigste Nutzen, Aus einigen Stellen möchte es scheinen, als wolle sich die Academie zu sehr in das Unter- nehmen mischen. Allein die Gränzen davon werden immer von der Gesellschaft der Herausgeber abhängen. Was das Wichtigste ist, daß die Regierung das Unternehmen mit Gelde unterstütze, so können Ew. Excellenz mit Zuverlässigkeit annehmen, daß Min. Altenstein dazu den besten Willen hat. Es liegt in seiner Gesinnung, wenn er auch allerdings Vorliebe für Naturwissenschaften besitzt, doch alles eminent Gute in Wissenschaft und Kunst befördern zu wollen. Ob er aber dazu kommen wird, und wie bald, müssen wir abwarten. Der Mann ist überhäuft mit Geschäften, gerade diese eben an ihm gelobte BereitwiUigkeit macht auch, daß sich die vorhandenen Mittel sehr auf eine Menge von Gegenständen zerstreuen, und neuerlich sind diese Mittel wohl auch, wie ich höre, sehr beschränkt worden. Ich sehe ihn von Zeit zu Zeit, obgleich selten, und werde nicht verfehlen, ihn anzumahnen und zu erinnern. In Rom muß man nicht zu viel BereitwiUigkeit erwarten, aUein auch die Besorgniß nicht übertreiben. Was man auf der Vaticana aus den Handschriften einzeln fordert, erhält man dort, ohne Bedenken, mitgetheilt, allein selbst aufzusuchen wird nicht erlaubt, und ist auch Niebuhr versagt worden. Ueber H. Stenzel wird Graf Spiegel Ew. Excellenz schreiben.</p>
+
+               <p>Ich freue mich unendlich, Sie wieder so eifrig mit Ihrem Lieblings- werke beschäftigt zu sehen. Ich bin auch ganz zu meinen ehemaligen Studien zurückgekehrt. Wenn man aber, wie es mein Fall war, sie auf mehrere Jahre hat verlassen müssen, so findet man viel zu thun, um sich wieder ganz hineinzusetzen, vorzüglich wenn man die wis- senschaftlichen Beschäftigungen als ein Ganzes ansieht, und nicht fragmentarisch arbeiten will.</p>
+
+               <p>Mit der Gesundheit meiner Frau, die Ew. Excellenz herzlich grüßt, geht es doch auf alle Weise besser, als bisher. Die Stimme ist wieder da, die Brust freier, und das noch übrige Uebel mehr in den äußeren Theilen. So gehen wir für unsre häusliche Existenz dem Frühjahr mit frohen Hofnungen entgegen.</p>
+
+               <p>Ich schicke Ew. Excellenz einen Brief des guten Bandelow, und werde mich gern dem Geschäft unterziehen, von dem Sie wünschen, daß ich es übernehmen möge<note type="footnote" n="^)" resp="gnd-116890657"><hi>Als Friedrich Wilhelm Abraham Graf von Arnim Boitzenburg 181 2 starb, übernahm Stein die Vormundschaft über die beiden Söhne; doch lag die eigent-</hi></note>. Da der Vater ein sehr ausführliches liche Sorge für sie in den Händen des Kriegsrats Bandelow. Bei der Teilung der väterlichen Güter fiel dem Grafen Adolf Heinrich das Majorat zu.<pb n="17.353" xml:id="pbXVII353"/> und vernünftiges Testament gemacht, und darin die zu verloosenden Theile genau bestimmt hat, so ist die Sache jetzt nur eine Förmlich- keit. Auch wetteifern die Brüder eher in Großmuth, als daß sie um Interessen streiten sollten. Wären beide großjährig, so würden sie sich wahrscheinhch dahin vereinigen, daß der jüngere Boitzenburg nähme. Jetzt werden sie freiUch loosen müssen. Der jüngere Arnim war mit Bandelow bei mir. Er hat mir sehr gut gefallen. Er spricht verständig und bescheiden, und man lobt seinen Fleiß, und seine Kenntnisse. Leben Sie herzlich wohl, beste ExceUenz. Mit der herzhchsten Verehrung, und der freundschaftüchsten Anhänglichkeit ganz der Ihrige</p>
+            </div>
+
+            <div type="section" n="5">
+               <head>
+                  <title type="main">Humboldt</title>
+               </head>
+            </div>
+
+            <div type="section" n="6">
+               <head>
+                  <title type="main">382. An Stein Berlin, den 22. März 1820</title>
+               </head>
+               <p>Stein-Archiv Ra 3; gdr. Stein, Briefwechsel, hrsg. Botzenhart V 618.</p>
+
+               <p>Gagems Abreise giebt mir eine günstige Gelegenheit, Ihnen, liebe ExceUenz, einige Worte zu sagen. Ich habe vermieden, Ihnen durch die Post etwas über die öffentlichen Angelegenheiten und mich, insofern ich damit zusammenhänge, zu sagen. Alle Briefe von uns werden geöfnet, und wenn auch in unsern Briefen nichts an sich selbst Bedenkliches steht, so ist der Gedanke schon unangenehm, von Andern gelesen zu werden, lieber meine Entfernung aus dem Dienst ist es eigenthch nur wichtig, das zu sagen, daß sie gar keine bestimmte und einzelne Ursache (keinen einzelnen Streit oder dergleichen) gehabt hat. Ich habe mich aber, und dies werden Ew. ExceUenz ge- wiß natürUch finden, vom Augenblick meines Herkommens an, soviel ich es ohne Unhöfhchkeit konnte, vom Staatskanzler abgesondert. Ich kann die Art seiner Verwaltung nicht anders, wie misbiUigen; persönlich hat er mir die gerechtesten Gründe zur Beschwerde gegeben. Beides konnte nicht durch Freundschaftsversicherungen, durch Einladungen, ja mit ihm einig zu seyn, und denselben Weg mit ihm zu gehen, gut gemacht, oder geändert werden. In den Geschäften konnte es gar nicht fehlen, daß Gelegenheiten kamen, wo ich über die bisherige und jetzige Verwaltung urtheilen mußte, ich habe es immer ohne Partheihchkeit und Gehässigkeit, aber auch mit strenger Wahrheitshebe gethan, und so ist also aUerdings in meinen Aufsätzen oft eine Kritik des Geschehenen, wenn auch ohne Nennung des Staatskanzlers, gewesen. Manches davon ist an den König gekommen, und vieles nun natürlich in der Folge denselben Weg ge- 23 Humboldt, Briefe U.</p>
+
+               <pb n="17.354" xml:id="pbXVII354"/>
+               <p>len zusammen genommen entstand bei dem Staatskanzler die Meynung und die recht eigentliche Ueberzeugung, daß er oder ich wei- chen müßten, er hat dies fast unverholen gesagt und dem Könige so vorgestellt. Dies ist der einfache Hergang der Sache. Wir drei einigen Minister haben zwar auch dem Könige Memoiren gegen die Carlsbader Beschlüsse übergeben, allein dies war Monate vorher, und hat bei unserer Entfernung nicht einmal zum Vorwande gedient. Der König ist, wie ich weiß, nicht ungehalten auf mich gewesen, er hat sogar darüber, daß ich kein Gehalt weiter habe annehmen wollen, sehr vortheiUiaft für mich geurtheilt. Allein ich zweifle nicht, daß man Alles anwendet, um mich in Rücksicht auf die demagogischen Umtriebe verdächtig zu machen. An sich ist das zwar unmöglich, da ich in den zahlreichen weggenommenen Correspondenzen nie genannt bin, da ich mit keinem Menschen dieser Art in irgend einer andern, als zufälligen oder vorübergehenden Verbindung gestanden habe, und da vielmehr diese Menschen großes Mistrauen in mich setzten. Allein da ich die Maaßregeln gegen dies gewiß wahre und große Uebel, so wie man sie nimmt, nicht billigen kann, da ich, ob ich mich gleich jetzt nie irgend öffentlich darüber äußere, dies, wo es an seiner Stelle war, als Minister immer gesagt habe, so übertreibt man dies und verdreht es. Sichere Beweise habe ich davon nicht, allein Spuren hinlänglich. Der Kronprinz ist vorzüglich gnädig und freundlich mit mir, ich sehe ihn oft und ganze Abende lang bei Prinzessin Louise, die Ew. Excellenz sehr viel Schönes sagen läßt. Ebenso alle andern Prinzen. — Wie jetzt die Verwaltung geht, ist schwer zu sagen. Gut ist unmöglich, da ich die Gebrechen kenne, welche die Menschen, die jetzt da sind, nicht heilen können. Das Wünschens- wertheste scheint mir, daß einige Jahre, ohne äußere Stöße, und ohne daß man im Innern wesentlich neue Dinge beginnt, hingehen, damit die Zeit des Mistrauens und der Erbitterung nach und nach aufhöre und man alsdann an wahre wesentliche Verbesserungen denken könne. Jetzt zittere ich eigentlich vor jeder neuen Einrichtung, und es ist mir ordentlich beruhigend, daß man die Constitutionssache ganz ruhen läßt, wie es scheint. Das Wichtigste ist, ob die Finanzen sich halten werden. Es erscheint mir indeß nicht unmöglich, wenn die Abgaben, die man jetzt einführt<note type="footnote" n="^)" resp="gnd-116890657"><hi>Durch die Steuerreform von 1819/20 wurde eine allgemeine Konsum-</hi></note> (so wenig ich sie auch billige) tionensteuer und eine Personalsteuer, die sogen. Klassensteuer, eingeführt.<pb n="17.355" xml:id="pbXVII355"/> ausgeführt werden können, und man nur auf einige Ersparung denkt (was aber jetzt freilich nur beim MiHtair geschehen ist, wo man es allein der kräftigen und consequenten Einwirkung des Königs unmittelbar und selbst dankt). Die wahre drohende Gefahr ist, auch meiner Meynung nach, demagogische Gesinnung, und Auflösung der Bande des Gehorsams und der Ehrfurcht. Dagegen aber giebt es nur Ein gründlich helfendes Mittel : Gerechtigkeit und Weisheit der Verwaltung; es wird nie eine Regierung angegriffen, ehe sie nicht selbst gefährliche Blößen giebt. Die jetzigen Maaßregeln können nur schaden, da ihnen zugleich Zweckmäßigkeit, Energie und Würde mangelt. Käme nun, wie man immer besorgen muß, bei neuen Einrichtungen, noch unzeitige Liberalität hinzu, so wäre Alles zu fürchten. Es ist schon nicht zu billigen, daß sich in dem neuesten Schulden Edict die Regierung gegen Stände, die noch nicht einmal existiren, die Hände gebunden hat<note type="footnote" n="^)" resp="gnd-116890657"><hi>Die Verordnung wegen des Staatsschuldenwesens vom ly. I. 1820 bestimmte sogleich die Rechte der künftigen Reichsstände bei der Staatsschuldenverwaltung ; nur unter ihrer Mitgarantie sollte der König künftig neue Anleihen aufnehmen; jährlich sollte ihnen Rechenschaft abgelegt werden.</hi></note>. — Ew. Excellenz sagen, daß ich mich nicht zu sehr in die Vergangenheit vertiefen, und der Ansprüche gedenken soll, welche die Zeit noch an mich machen kann. Ich werde mich der letzten nie entziehen. Allein mit dem Staatskanzler zugleich kann ich nie wieder an Geschäften Theil nehmen.</p>
+
+               <p>Ich habe zwar, als ich neuhch zum erstenmal bei einem großen Ministerdiner bei Graf Lottum mit ihm zusammen war, aus der Art, wie er sich von selbst einige Male zu mir wandte, und mit mir sprach, gesehen, daß er einer Wiederannäherung zwar nicht abgeneigt wäre, aUein ich thue es auf keinen Fall. Aendem sich indeß auch die Umstände in einigen Jahren, so bin ich älter, und Ew. Excellenz kennen meine Gesinnung, die ja der Ihrigen auch gleich ist, daß man nicht vom Actentisch ins Grab taumeln muß. Mein herzlicher Wunsch ist, daß man nie wieder an mich für ein Amt denke, daß aber die Sachen durch andere, als mich, gut gehen mögen. Für mich beschäftige ich mich jetzt mit Wissenschaft wie sonst, und sollte ich je zum Geschäft des öffentlichen Lebens zurückkehren, so wird es mir nicht schaden, mich eine Zeit hindurch ganz von diesen Gegenständen entfernt zu haben. Wenn man sonst den Geist durch Nachdenken übt und stärkt und ihn nicht durch Schlaffheit sinken läßt, thut dies vielmehr nur in jeder Rücksicht wohl. — Ihren Auftrag für Erfurt werde ich bestens zu besorgen suchen. — Meine Frau grüßt Sie herzlich. Leben</p>
+
+               <pb n="17.356" xml:id="pbXVII356"/>
+               <p>Ihr H.</p>
+            </div>
+
+            <div type="section" n="7">
+               <head>
+                  <title type="main">383. An Stein Januar 1823</title>
+               </head>
+               <p>Stein-Archiv ; gdr. Stein, Briefwechsel, hrsg. Botzenhart VI 147.</p>
+
+               <p>Herr v. Mirbach reist heute Abend ab und bietet mir an, einen Brief an Sie, theuerste Excellenz, mitzunehmen. Ich benutze dies Anerbieten, um Ihren Brief, den ich durch ihn bekam, zu beantworten. Wenige Worte werden hinreichen, Ihnen meine Meynung über die Dinge zu sagen, die uns beiden natürHch, wie aUen denen, welche den König und das Land lieben, am Herzen liegen<note type="footnote" n="^)" resp="gnd-116890657"><hi>Am 5. Juni 1823 wurde das Gesetz über Anordnung der Provinzialstände erlassen.</hi></note>.</p>
+
+               <p>Es hat mich über Alles gefreut, daß man Sie über die Stände zu Rathe gezogen hat. Es ist ein Regen eines ungleich besseren Prin- cips und ein Beweis, daß man die Berathschlagung über eine so wich- tige Angelegenheit nicht innerhalb des Kreises Einer Meynung und Einer Ansicht festbannen will. Ich stimme auch mit Ihnen in dem, was Sie über die Ihrige sagen, in den meisten Punkten überein. Allein viel wichtiger, als die Art, wie man die beabsichteten Provincial- stände bilden will, kommen mir einige, noch allgemeinere, und das Ganze des jetzigen Vorhabens betreffende Punkte vor.</p>
+
+               <p>I. Es scheint mir nemlich, daß man die Sache zu stückweise beginnt. Es muß unter den Provincialständen Gemeindebehörden und Kreisstände, über ihnen allgemeine Stände geben, man sage, was man wolle. In der Ausführung konnte man das allerdings theilen, allein der Plan mußte das Ganze umfassen und mußte sogar als Ganzes bekannt seyn. Provincialstände, die nicht wissen: ob, wann und wie sie einmal allgemeine haben werden, nehmen von Anfang an eine schiefe Richtung, indem sie ganz nothwendig, und selbst, wenn es zuerst gar nicht ihre Absicht wäre, zu dem Streben kommen, den Mangel von allgemeinen aus ihrer Stellung ergänzen zu wollen. Nun aber beruht aUe Sicherheit bei ständischen Einrichtungen darauf, daß jeder ihre passende Stelle angewiesen, und es ihr unmögUch gemacht sey, aus ihrem Gleise herauszugehen. Sollte es ferner, wie es, meiner Meynung nach, nicht fehlen kann, zu allgemeinen Ständen einmal kommen, so wird die Regierung nie mehr, so wie jetzt, freie Hände haben, sie gerade so, wie sie sie will, zu bilden. Dies wird<pb n="17.357" xml:id="pbXVII357"/> einerseits in den Umständen liegen, welche den Entschluß zu allge- meinen Ständen hervorbringen werden, andererseits aber in dem Wirken der Provincialstände, welches, wenn es einige Jahre gedauert hat, auch natürhch schon bestimmte Verhältnisse gebildet hat, die auf die allgemeinen Stände bedingend einwirken. Man überläßt also, indem man die allgemeinen Stände nicht in den ersten Plan aufnimmt, ihr Entstehen zum Theil dem Zufall und den Ereignissen, was man in einer so wichtigen Sache nicht thun sollte.</p>
+
+               <p>2. Wenn man stückweise arbeiten wollte, so war es die unglücklichste Wahl, bei Provincialständen anzufangen, die gerade in der Mitte der ständischen Einrichtungen schweben. Warum fing man nicht bei Kreisständen an ? Die Fähigkeit, sich in ständischen Verfassungen zu bewegen, ist noch nicht groß bei uns, weder in der Nation, noch in der Verwaltung. Jene und diese fühlen noch nicht ein- mal recht das Bedürfniß. Man kann daher nicht zu sehr bei dem Einfachsten beginnen, und es schadet wenig, langsam zu Werke zu gehen. Wenn, wie es jetzt seyn soll, die Gemeindeverfassung und Kreisverfassung von den Provincialständen ausgehen soll, so ist sehr zu besorgen, daß die allgemeinen Provincialstände einen zu beschränkenden Einfluß auf jene Institute ausüben. Dennoch hängt von den letzten gerade die Bildung des Volks zu einer ständischen Einrichtung ab, und wenn man eine ständische Einrichtung will, muß man auch diese Bildung wollen.</p>
+
+               <p>3. Man scheint viel zu große Provincialstände bilden zu wollen. Ich setze nemlich voraus, daß Eine Versammlung ausmachen soll, was jetzt zugleich hierher berufen worden ist. Soll das nicht seyn, so hätte man nicht politisch gehandelt, nicht auch die Berufungen an- ders einzurichten. Provincialstände, wie man sie bilden mag, erregen schon das Bedenken, daß sie das Land, und das unsrige bedarf mehr der Einheit, als ein andres, leicht zerreißen, was sehr gefährlich ist. Diese Gefahr vermehrt sich, wenn es keine allgemeinen Stände giebt, und würde steigen, wenn die Provincialversammlungen groß sind. Welche Masse die ganzen etwa Rheinischen Provinzen ! Wie will ein Ministerium, was auch seine Macht und selbst sein Talent seyn möge, stark genug seyn, 8 — 10 solchen Versammlungen gegenüber Einheit zu erhalten ?</p>
+
+               <p>Kommen ja, wie man noch immer sagen hört, Provinciakninister hinzu, so weiß ich gar keine Rettung mehr.</p>
+
+               <p>4. Wenn, wie ich nicht beurtheilen kann, der Adel, d. h. die großen Gutsbesitzer ein zu überwiegendes Gewicht in den Versammlungen</p>
+
+               <pb n="17.358" xml:id="pbXVII358"/>
+               <p>5. Ich fürchte sehr, daß die jetzigen Stände, ohne allgemeine, und ohne wahren Einfluß auf allgemeine Gesetze und Einrichtungen, das Recht der Beschwerdeführung für die ihnen ertheilte wesentlichste Befugniß halten werden. Dies ist aber sehr schlimm. Dadurch erhalten die Schreier, die nie selbst etwas besser machen könnten, am meisten Luft. Man pflegt zu glauben, daß dies Recht zu den harmlosen, nicht zu fürchtenden gehört. Mir scheint es eins der gefährlichsten. Es streut den Saamen zur Unzufriedenheit mit der Verwaltung aus, und benimmt, wenn es gemisbraucht wird, dieser ihre beste und schönste Kraft, nemlich die aus dem Vertrauen der Nation entspringende. Sollten die Stände dahin kommen, sich vorzüglich mit solchen Beschwerden zu beschäftigen, so nehmen sie vom Ursprung an eine schiefe Richtung. Will man weise handeln, muß man sie nur so handeln und berathen lassen, daß es nicht ohne Verantwortlichkeit von ihrer Seite, vor der Regierung und der Nation, geschehen kann. Bei der Beschwerdeführung wird aber, ohne alle eigene Gefahr, immer nur die Verantwortlichkeit andrer in ein helles Licht gesetzt. Auch kann die Verwaltung, einem im Uebermaaß ausgeübten Recht der Beschwerde gegenüber, fast nie, wie sie es machen will, Recht behalten, da die Beschwerdeführenden, wie es ihnen gefällt, über die Schwierig- keiten hinweggehen, die Verwaltung aber, wenn sie bessern will, mit diesen Schwierigkeiten zu kämpfen hat.</p>
+
+               <p>6. Der jetzige Zeitpunkt scheint mir nicht geeignet, die Stände ins Leben zu rufen. Die Verwaltung hat jetzt Mängel und giebt Blößen, die niemandem entgehen können, und wirklich niemandem entgehen. Diejenigen, welche selbst darin, und die, welche draußen sind, stimmen darin überein. Kommen jetzt Stände zusammen, so werden und können beinahe diese Blößen nicht unangegriffen bleiben. Dies wäre aber nicht gut, die ersten Versuche der Maschine müßten ohne Reibung seyn. Ich wünsche von Herzen und hoffe, daß diese Mängel der Verwaltung durch sie selbst werden verbessert werden,^ allein es wäre weiser, abzuwarten, daß es geschehen, und das Vertrauen zur Verw^altung wieder erwacht und hergestellt seyn wird, ehe man Versammlungen zusammen beriefe, die immer schon viel zu sehr darauf hingewiesen zu seyn scheinen, zu beurtheilen und zu tadeln.</p>
+
+               <p>7. Aus dem ad 2, 3 und 5 Bemerkten scheint mir hervorzugehen, daß unter den mehreren Wegen, die man einschlagen konnte, un<pb n="17.359" xml:id="pbXVII359"/>serm Lande ständische Einrichtungen zu geben, derjenige, welchen man jetzt wählen zu wollen scheint, nicht allein viel Unbequenüich- keiten hat, sondern wdrldich zu den gefährlichen gehört, und sehr leicht die Verwaltung auf die bedenklichste Weise hemmen kann. Die Stände, die man jetzt zu errichten denkt, und die ich nur als ein Fragment, einen Theil eines, wenn man einmal diesen Theil baut, unvermeidlichen Ganzen ansehe, können außerdem früh oder spät (da sich Ereignisse und Umstände nicht berechnen lassen) die Regierung veranlassen (um nicht zu sagen nöthigen, nemlich nicht auf revolutionäre Weise, allein so wie man im Schachspiel durch unmerk- lich gesetzte Steine weiß, welchen Zug der Gegner nach acht oder zehn Zügen wird thun müssen) die Vollendung des Ganzen auf eine ganz andere Weise vorzunehmen, als sie es sich eventuell gedacht haben mag. Ich gestehe daher offen, daß ich zur Einführung bloßer Provincialstände in diesem Moment nie würde rathen können; und eine solche Einführung scheint man doch vorzuhaben.</p>
+
+               <p>Ich muß noch Eins hinzufügen.</p>
+
+               <p>Ich fürchte sehr, daß auf den jetzigen Entschluß, Stände einzusetzen, doch das bekannte Edikt von 1815 bedeutenden Einfluß hat<note type="footnote" n="^)" resp="gnd-116890657"><hi>Das Edikt vom 22. V. 18 15 hatte Preußen eine Landesrepräsentation ver- sprochen.</hi></note>, und daß man sie nicht gründen würde, wenn dies Edict nicht vorhan- den wäre. Dies wäre nun sehr schlimm. Denn, meines Erachtens, sind Stände nur dann gut und möglichst gefahrlos, wenn ihrer gan- zen Einsetzung die tiefe und innige Ueberzeugung zum Grunde liegt, daß sie wohlthätig und heilsam sind. Nur dann geht man ohne Aengstlichkeit zu Werke, und giebt auch keiner unbilligen Forderung nach, weil man genau weiß, was, und wie viel man wiU, weil dies durch den erkannten Zweck bedingt ist, und weil keine schiefe und falsche Rücksicht weder zu weit zu gehen verführen kann, noch auch verbietet, innerhalb der Gränze stehen zu bleiben. Wenn die Regierung Stände nicht aus dieser vollen Ueberzeugung einsetzt, sondern dazu einen Nebengrund hat, so handelt sie, soweit sich die Wirkung dieses Nebengrundes erstreckt, entweder nicht freiwillig, oder aus Rücksichten, die der ständischen Einrichtung selbst fremd sind. Nun entsteht natürlich Unsicherheit, nun weiß man nirgends mehr die rechte Gränze zu finden, nun thut man für alle leicht zu viel, und zugleich doch für keinen genug.</p>
+
+               <p>Die höchste Klarheit der Ansicht, die voUste Ueberzeugung von der Wohlthätigkeit der Einrichtung, und der festeste Muth bei der<pb n="17.360" xml:id="pbXVII360"/> Ausführung sind die unerläßlichsten Voraussetzungen zur Begründung einer so wichtigen und so totalen Veränderung unseres jetzigen Regierungssystems. Wie gern ich es möchte, so kann ich nicht glauben, daß diese Voraussetzungen vorhanden sind, und dann bleibt es ewig meine Ueberzeugung, daß, so innig ich von der Nützlichkeit und Nothwendigkeit von Ständen durchdrungen bin, so wenig ich Minister ohne Stände sejm möchte, es doch viel besser wäre, das Land, wie bisher, ohne Stände zu verwalten, als Stände zu gründen, die nicht wenigstens die wesentlichen Bedingungen einer solchen Einrichtung erfüllen. Soviel hierüber. Nun zwei Worte, theuerster Freund, über Ihr Kommen, da Herr v. Mirbach mir spät geschrieben hat, daß er heute Abend geht, und ich wenig Zeit mehr habe.</p>
+
+               <p>Ich freue mich ungemein, Sie zu sehen, ich fühle auch, wie Sie eine Reise, die auch manches Unangenehme hat, nur in der edlen und selbst verläugnenden Absicht beschlossen haben, dadurch Gutes zu wirken. Allein doch läugne ich Ihnen nicht, daß ich nicht weiß, ob Sie die wahre Befriedigung davon finden werden. Ihr Gutachten ist hier. Ob Ihr mündliches Reden mehr wirken wird, scheint mir zweifelhaft. Oft macht hier das am Wenigsten Eindruck, was nicht ausdrücklich herbeigeholt worden ist. Da Sie immer lieben, daß ich Ihnen die Dinge gerade so sage, wie ich sie denke, so gestehe ich, daß ich in Ihrer Stelle eine ausdrückliche Berufung abgewartet hätte. Sie haben — eine Sache, die Sie weniger fühlen, da Sie immer nur an die Sache, nicht an Sich denken, und was also Ihre Freunde Ihnen eher sagen können — durch das, was Sie gethan haben, durch Ihren Geist, Ihre Gesinnungen, Ihre Lage, eine innere und äußere Würde, der es immer gebührt, daß man sich recht eigentlich und ausdrückhch um sie bemüht. Ich möchte Ihnen aber darum auch nicht eigentlich ab- rathen zu kommen, und gewiß ist es immer, daß die Sache auch jetzt schon darin anders steht, daß man weiß, daß Sie haben kommen wollen.</p>
+            </div>
+
+            <div type="section" n="8">
+               <head>
+                  <title type="main">H.</title>
+               </head>
+            </div>
+
+            <div type="section" n="9">
+               <head>
+                  <title type="main">384. An Stein Berlin, den 4. April 1823</title>
+               </head>
+               <p>Original unbekannt; gdr. Pertz, Leben Steins V, yyy.</p>
+
+               <p>Ich muß Sie, theuerste ExceUenz, tausendmal um Verzeihung bitten, Ihren ausführlichen und so ungemein gehaltreichen Brief vom 2isten Januar c. so sehr spät zu beantworten. Ich glaubte aber im<pb n="17.361" xml:id="pbXVII361"/>mer, Ihnen über die Entwicklung der hiesigen Verhältnisse etwas Bestimmteres sagen zu können, und schob darum mein Schreiben von Woche zu Woche auf. Jetzt weiß ich zwar hiervon nicht mehr, wie denn wirklich nur das Eine gewiß ist, daß man alle die so vielfältig verbreiteten Gerüchte für ungegründet ansehen muß, allein die Zeit rückt vor, der Augenblick naht, wo Sie und ich die Stadt zu verlassen pflegen, und so eile ich, Ihnen meinen wärmsten und herzlichsten Dank abzustatten für alle gütigen und interessanten Mittheilungen, welche Sie die Güte gehabt haben, mir zu machen.</p>
+
+               <p>Es ist nicht möglich, diese eigentUch in einem Briefe zu beantworten. Sie enthalten reichlichen Stoff zu vielen Tagen mündlicher Unterhaltungen. Es thut mir sehr leid, nicht hier die Bekanntschaft des Dr. Schulz gemacht zu haben. Sein Brief charakterisirt ihn als einen wohlwollenden, patriotischen und äußerst geistvollen Mann<note type="footnote" n="^)" resp="gnd-116890657"><hi>Über diesen Brief, der das Urteil des Dr. Schulz über die Einberufung der Vertreter der westfälischen Stände und die Verhandlungen mit dem Verfas-</hi></note>. Er kommt mir, nachdem ich ihn mehrere Male und mit der größesten Aufmerksamkeit gelesen habe, in der Art geschrieben vor, die man zwar nicht unmittelbar praktisch anwenden kann, die aber denjenigen, der handeln muß, in hohem Grade über sein Unternehmen aufklärt, aUe verdeckende und die richtige Ansicht verhindernde Nebenumstände hinwegräumt, und geradezu zeigt, wohin jedes Beginnen eigentlich führt, und was es in seinem wahren ungeschminkten Wesen ist. Indeß scheint mir doch auch er zu scharf zu theoretisiren. Wie er die ständische Verfassung in seinem Sinn dem Moloch des Zeitgeistes entgegenstellt, so schroff ist es nicht in der Wirkhchkeit. Er hält diesen Zeitgeist auch für viel allgemeiner als er ist, und wenn er die allgemeinen Ausdriicke verlassen und zu speciellen Bestimmungen heruntersteigen müßte, so würde er in diesem Geiste, nach Ort, Nation, Ständen, die mannigfaltigsten Nuancen finden. Es scheint mir aber auch viel zu theoretisch, wenn er eine wirkhch individuelle, historische und ständische Verfassung in solchen Ausdrücken verlangt, daß man glauben sollte, er woUe gerade dasjenige, was und wie es gewesen ist, wieder herstellen, und wenn er der neuen, beab- sichteten Verfassung bei uns diese Absicht unterlegt. Eine ständische Verfassung wiU man freilich, individuell muß jede seyn, die im Leben soU lebendig ausdauem können. Historisch hat schon einen weniger gewiß zu erfassenden Sinn. Man kann darunter wahre Herstellung des Ehemahgen oder Anknüpfung des Neuen an das Bisherige versungsausschuß enthält, vgl. Pertz, Leben Steins V, y68.<pb n="17.362" xml:id="pbXVII362"/> in dem Briefe geschieht, einen Gegensatz scharf aufzustellen, auszusprechen, daß das Eine oder Andere streng ausgeführt werden muß, und Mischung sich streitender Principien oder Accommodation des einen an das andre zu verwerfen. Allein dies wahrhaft auf die Wirklichkeit zu übertragen, in der das Meiste halb und unrein ist, darin liegt der schwer zu lösende Knoten. Gerade in einer Ständeversammlung zeigt sich das nahe an Unmöglichkeit gränzende Hinderniß. Um sie zu besitzen, müßte man, streng genommen, erst die Stände wieder schaffen. Die Kirche, von der auch in dem Briefe, so sehr es einen wundern muß, mit keinem Worte die Rede ist, hat bei den Evangelischen ein wahrer Stand nun seyn zu können aufgehört ; bei den Katholiken sind nur Trümmer übrig geblieben. Der Adel hat, schon vor der Einwirkung der Revolutionen, durch eigene Lauig- keit und Schlaffheit, frivole Verschuldung, Veräußerung seiner Güter, wo ihm nur das Gesetz nicht geradezu in den Weg trat. Abwei- chen von der Einfachheit und Reinheit vorväterlicher Sitte sich selbst die Grube gegraben. Städte und plattes Land sind, es möge nun gut seyn oder schädlich, an einigen Orten, wie in den Rheinprovinzen, so gut als ganz, an andern, wie bei uns, durch die neueste Gesetzgebung, sehr stark in einander übergegangen. Es hat sich ein Mittelstand erhoben, der weder zu den ehemaligen Zünften, noch zum Adel gehört, dem man Tüchtigkeit, Betriebsamkeit, Intelligenz und wohlwollenden Vaterlandseifer nicht absprechen kann. Dieser Mittelstand dringt auf der einen Seite in den Bauernstand, auf der andern in den Adel, indem er bäuerliche und adliche Güter kauft ; selbst, wo er nicht Landbesitzer ist, findet man ihn in allen Beschäftigungen, keine einzige ausgenommen, und nach dem von Dr. Schulz ganz richtig festgestellten Begriff kann er doch nur gewaltsam in den bloßen Stand der Städter oder Bürger eingegränzt werden. Als Landbesitzer macht er den Bauern- und Adelstand zu Zwittergestalten, da er weder Bauer noch Adlicher ist. In dieser und zum Theil in einer noch schhmmem Verfassung findet der Versuch, Stände Versammlungen zu machen, den zu bearbeitenden Stoff. Dieser Zustand ist aber nicht bloß Folge fehlerhafter Gesetzgebungen und revolutionairer Gesinnungen, er entsteht vorzüglich aus der Erweiterung und Vervielfachung, welche die ganze industrielle und commercieUe Thätig- keit in der Welt erfahren hat, daher daß man das rohe Material, das<pb n="17.363" xml:id="pbXVII363"/> sich von jeher zur Benutzung darbot, auf ganz andre Weise zu bearbeiten, in Umlauf zu bringen, und daraus neue Mittel zu schaffen gelernt hat, und gewohnt geworden ist. So wie aber dies nicht ohne intellectuelle Thätigkeit möglich war, so wirkt es auf dieselbe zurück, und die Ansicht wird auch freier, und läßt sich auch weniger in gewisse Formen binden. Forderte nun die individuelle historische Ansicht, daß man dies ganze regere Leben, das allerdings, aus einem an- dern Gesichtspunkt betrachtet, viel weniger werth seyn mag, als das einfachere und schhchtere, aber gediegenere von ehemals, wieder in ein engeres Geleis zurückdrängte, das Eigenthum vincuhrte, das Gewerbe schlösse, und in gleichem Sinn überall verführe, so gestehe ich, halte ich das für unmöglich. Die Schranken würden, meines Erach- tens, auf eine oder andre Weise durchbrochen werden, oder, wenn man dies verhindern könnte, würde ein Starren eintreten, man würde wohl Tod dessen hervorgebracht haben, was jetzt da war, aber nicht Leben erweckt was man aus der Vergangenheit hervorrufen wollte. Ich kann daher die Sache nicht anders ansehen, als daß man sich über etwas Vermittelndes verstehen muß, nicht gerade herstellen, was war, sondern das, was ist, in eine an Recht und Billigkeit gebundene Form, allein in eine solche gießen, die ferneren Vervollkommnungen nicht sich starr entgegensetzt. Es ist möglich, daß ich Herrn Schulz Unrecht thue, und ihn nicht hinlänglich verstehe, allein seinen Forderungen würde auch ich verzweifeln, genügen zu können, so treffend er übrigens das Verfahren der Commission schildert, wo man ihm, wenn die Dinge sind, wie er sagt, nicht anders, als Recht geben kann.</p>
+
+               <p>Ihre Arbeit hat mir, theuerste Excellenz, den größesten Genuß gewährt<note type="footnote" n="^)" resp="gnd-116890657"><hi>,, Bemerkungen über die allgemeinen Grundsätze des Plans zu einer pro- vincialständischen Verfassung" vom 5. XI. 1822, gär. Pertz, Leben Steins V. 7 32 ff.</hi></note>. Gleich die Einleitung ist vortreflich, und ebenso der sich im Ganzen aussprechende Geist. Was Sie über die Punkte sagen, daß man kein Grundeigenthum beim Gewerbe verlangen muß, daß den Ständen eine entscheidende Stimme über Provincial Gesetze und Provincial Abgaben einzuräumen ist, daß die kleinen Städte gänz- lich ausgeschlossen werden müssen, daß das jus eundi in partes hier ganz falsch angewendet ist u. s. f., ist durchaus auch meine Mey- nung. In der Herstellung des Gewerbezwanges, oder doch der Zunfteinrichtung, kann ich Ihnen, beste Excellenz, gegen meine alten Lehren nicht beistimmen. Der Zersplitterung der Bauerngüter Grän<pb n="17.364" xml:id="pbXVII364"/>keit einer geschlossenen adlichen Genossenschaft, wie Sie sie schildern, und selbst an die Zuträglichkeit glaube ich weniger. Wenn man sie gesetzlich machen wollte, so frage ich zuerst : was fängt man mit den nicht adlichen Besitzern adlicher Güter an ? Es giebt da nur zwei Antworten, und keine befriedigt mich. Man muß alle diese entweder adeln, dies würde aber den Adel so herabsetzen, daß ich nie dazu rathen könnte, und die Geadelten in die Genossenschaft aufnehmen, oder man muß sie in Absicht der ständischen Rechte mit den Bauern verbinden. Dann macht man aber den Stand des Bauern, so zu sagen, unrein, mischt eine Classe, die nichts mit ihm gemein hat, ihm bei, und verfehlt ganz den Grundsatz, auf dem aller Nutzen ständischer Einrichtungen beruht, nemlich das Gleiche zum Gleichen zu gesellen. Viel weniger Ungleichheit ist zwischen dieser Classe und dem Adel. Es ist sogar zu erwarten, daß, da Erziehung, Sitten, Lebensart dieselben sind, bei Kindern und Enkeln gar keine Ungleichheit mehr sichtbar seyn wird. Wollte man aber gar aus dieser Classe einen eignen Stand bilden, an welchen Criterien hielte man seine Eigen- thümlichkeit fest ? und welcher Nutzen würde daraus entstehen ? In allen Provinzen aber sind schon sehr viele Güter in solchen Händen, und die Sache verdient gewiß große Aufmerksamkeit. Würden aber nicht auch, wenn es eine ganz rein geschlossene adliche Genossenschaft gäbe, doch auch Güter aus derselben in Hände von Nicht- adlichen übergehen ? Gewiß. Sollte man nun etwa dies verbieten ? Die Ausschheßung der Bürgerlichen von adlichen Gütern erneuem ? Ich gestehe, daß ich dafür nie stimmen könnte. Die große Frage ist immer: soll bei der Standschaft (abgesehen von den Städten) das Landeigenthum oder die persönliche Qualität das Entscheidende, dasjenige, auf dem sie ruhet, seyn ? Im ersteren Fall muß man auf die QuaHtät des Besitzers, wenn er nur überhaupt landtagsfähig ist, meines Erachtens nicht sehen. Im letzteren Fall hat man Adliche und Bürgerhche, außer den Stadtmauern, die nicht Bauern sind, d. h. die nicht selbst Hand an ihre Wirthschaft legen, nicht zu dem Stande gehören, der eine, nur durch die verschiedene Gesetzgebung modificirte, aber immer eigenthümliche Verfassung hatte. SoUten nun diese für die ständischen Verhältnisse ganz nichtig sejni ? WiU man sie zwingen, Adliche oder Städter zu werden ? Ich zweifle an der Möglichkeit und dem Nutzen zugleich. Bleiben sie aber in Ab<pb n="17.365" xml:id="pbXVII365"/>sieht des Landtags Nullen, so ist es sehr nachtheilig für die ständische Verfassung, die dann auf ungleichen Landesflächen auf sehr ungleicher und mit der Zeit wechselnder Repraesentation beruht. Denn da es, nach Ihrem Sinn, in einem Kreise nicht mehr adliche Wähler geben kann, als es von AdHchen besessene Güter darin giebt, so kann diese Zahl geringer und größer seyn und endlich ganz zusammenschmelzen. Sieht man nicht auf den adUchen Besitzer, so ist keine Ungleichheit zu befürchten. Die Güter bleiben dieselben; nur wenn sie allenfalls parcellirt und so parcellirt würden, daß gar kein Kern eines Ritterguts übrig bliebe, wüchsen sie dem Bauernstände zu. Auch dies nun ist zwar geschehen, allein doch nur ungemein selten. Ich gebe Ihnen indeß gern zu, daß mit dem Ausweg, auf die Quahtät der Güter zu sehen, die Schwierigkeit gar nicht beseitigt ist. In der Mark, Pommern (zum Theil) und Preußen gilt allenfalls noch der Begriff eines Ritterguts, aber in andern Provinzen läßt er sich an nichts mehr festhalten. Die Einberufenen der so sehr vermischten Provinz Sachsen machten 21 Definitionen eines Ritterguts, von denen man keine ganz falsch, und doch keine erschöpfend fand. Dies führe ich eigentlich gegen mich, und nur zum Beweise an, daß es in dieser höchst schwierigen Materie weit leichter ist, die Meynungen anderer anzugreifen, als selbst unangreifbare auf- zustellen.</p>
+
+               <p>Ueber Provincialstände überhaupt geht, liebste ExceUenz, unsere beiderseitige Mejmung bestimmter auseinander. Sie halten sie, auch allein stehend, für nützlicher, als ich, der ihren wahren Nutzen nur in der Verbindung mit allgemeinen findet. Sie scheinen Ihnen femer gefahrlos, da ich, sie müßten denn, wie man doch auch nicht wünschen kann, ganz nichtig werden, vielerlei Hemmung der Regierung von ihnen, und große Störung der Einheit der Verwaltung befürchte. Man sagt wohl, daß man sie auf provincieUe Gegenstände beschränken soU, allein die Abwesenheit von allgemeinen muß ihnen die Neigung geben, immer auch ins Allgemeine übergehen zu wollen, und dann ist das ewige Bemühen, sie in Schranken zurückzudrängen, für die Regierung sehr unangenehm und nachtheilig. Das ProvincieUe und Allgemeine greift auch überaU in einander über. Sie erwähnen z. B. das Gesetz über die Regulirung der bäuerlichen Verhältnisse als einen provinciellen Gegenstand, und es ist es auch gewiß, insofern diese Gesetze nach den Provinzen verschieden seyn müssen. Allein dies triff nur Modificationen, die leitenden Grundsätze sind und müssen allgemeiner Natur seyn, und wenn man dies Gesetz, oder die</p>
+
+               <pb n="17.366" xml:id="pbXVII366"/>
+               <p>Werden diese Provincialstände eingeführt, wie es denn kaum mehr anders möghch ist, so wird es immer der vorsichtigsten und behutsamsten Leitung derselben bedürfen, und vorzüghch wird man Acht geben müssen, daß man nicht von da zu allgemeinen auf eine sehr unvorbereitete und nicht wünschenswerthe Weise, kommt. Denn so sehr ich für allgemeine Stände bin, so hege ich doch die Ueberzeu- gung, daß sie nur dann heilsam sind, wenn sie ganz aus freiem, auch nicht durch Umstände gedrängtem Willen der Regierung und aus wirkhcher Ueberzeugung von ihrer Nützlichkeit hervorgehen.</p>
+
+               <p>Ich lege die beiden mir&gt; mitgetheilten Briefe, welche das Einzige sind, was Sie zurückverlangen, diesen Blättern bei, und schicke das Ganze durch den Major von Selasinski nach Frankfurt.</p>
+
+               <p>Leben Sie herzhch wohl, meine Frau trägt mir die angelegenthch- sten Grüße auf. Wir gehen Ende Mai, vielleicht früher, nach Ott- machau ; dann meine Frau nach Carlsbad. Wenn ich sie nicht dorthin begleite, kehre ich Ende Juhus nach Tegel zurück. Erhalten Sie uns Ihr Hebevolles Andenken, und pflegen Sie Ihre Gesundheit. Es wäre sehr schön, wenn Sie künftigen Winter in Berhn zubrächten; und wenn Sie Ihre Einrichtung gleich auf einen ganzen Winteraufenthalt machten, so sehe ich nicht ab, warum es Ihnen nicht hier so wohl, als wo Sie jetzt sind, gefallen sollte. Uns wenigstens machten Sie eine herzhche Freude.</p>
+
+               <p>Mit inniger und unveränderhcher Verehrung der Ihrige H.</p>
+            </div>
+
+            <div type="section" n="10">
+               <head>
+                  <title type="main">3^5- ^w Stein Rudolstadt, den 3. Januar. i82y</title>
+               </head>
+               <p>Stein-Archiv, Korr. I 31; 4 eigenh. Quartseiten. Z. T. gdr. Pertz. Lehen Steins Via, 355.</p>
+
+               <p>Da Sie, verehrtester Freund, meine alte Vorhebe für den hiesigen Ort noch von der Schlacht bei Leipzig her kennen, so wird Sie diese Ueberschrift nicht wundern. Die hiesige Fürsthche Famihe, und besonders die verwittwete Fürstin hat immer soviel Güte und Freundschaft seit langen Jahren für meine Frau und mich gehabt, und die verwittwete Fürstin ist eine so geistreiche und seelenvolle Frau, daß<pb n="17.367" xml:id="pbXVII367"/> es mir nicht möglich ist, in Weimar zu seyn, ohne wenigstens auf einen Tag auch hierher zu kommen. So ist es mir auch diesmal gegangen, wo ich, bei Gelegenheit von Geschäften auf den Gütern meiner Frau im Mansfeldischen und Magdeburgischen, mich eine Woche in Jena bei Frau v. Wollzogen und etwas länger in Weimar aufgehalten habe. Die arme Wollzogen ist zwar durch den Verlust ihres einzigen Sohnes noch sehr niedergedrückt, aber sie hat, bei aller Größe ihres Schmerzes, doch eine so schöne Fassung, und eine so große Klarheit der Ansicht, daß es wirklich recht merkwürdig zu sehen ist. Selbst eine gewisse stille Heiterkeit ist ihr nicht fremd geworden, und ihr Antheil an Allem, was in den Begebenheiten des Tages und den Bestrebungen des Geistes interessirt, ist gleich groß gebheben. Hier habe ich, da ich mich zufällig hier befand, der Verlobung des Prinzen Carl mit der Prinzessin Maria beigewohnt. Auch Sie, theuerste Excellenz, wird gewiß diese Verbindung sehr gefreut haben. Alle Umstände vereinigen sich, ihr Segen und Gedeihen zu versprechen. Die Prinzessin ist nicht nur von sehr schönem Wuchs und sehr einnehmender Gesichtsbildung, sondern auch von dem sanftesten, besten Charakter, und besitzt, außer den Kenntnissen und der äußeren Bildung, die man in ihrem Stande voraussetzen kann, auch die innere deutsche, die sie gerade in Weimar vorzüglich gut erhalten konnte. Sie und der Prinz lieben sich wirklich und der erste Anlaß zur Verbindung war die eigene freie Wahl. Die Schwester, die Prinzessin Auguste, soll schon in dieser frühen, kaum der Kind- heit entgangenen Jugend noch einen festeren und selbständigeren Charakter haben. Ihr lebendiger und durchdringender Geist spricht aus ihrem Bück, ihre Züge sind im. höchsten Grade bedeutungsvoll und ihre ganze Gestalt wird sich, wenn sie nicht ein wenig zu stark wird, in einigen Jahren gewiß noch schöner, als sie jetzt schon erscheint, entwickeln. Der Großherzog und die Großherzogin sind wohl und heiter, ich habe sie die Tage in Weimar über täglich und den Großherzog Mittag und Abend gesehen. Er nimmt an so vielem Vergangenen und Gegenwärtigen Theil, daß das Gespräch mit ihm nicht leicht des Stoffes ermangeln kann. Ebenso wohl, heiter und theilnehmend habe ich Göthe gefunden, ob er gleich jetzt im 78. Jahre ist. Er hat mich ganz mit der alten Freundschaft behandelt, und kam mir eine halbe Meile vor Weimar entgegengefahren. Die neue Ausgabe seiner Werke veranlaßt ihn, viel noch Ungedrucktes hervor- zusuchen, es umzuändern und zu vollenden, und so wird, wie er mir sagte, an ein Drittheil der neuen Ausgabe theils neu gemacht, theils<pb n="17.368" xml:id="pbXVII368"/> die Sie sehr richtig aufstellen. Allein kein Ding ist, und am wenig- sten gleich am Anfang vollkommen, und ich halte doch immer auch so, wie Sie gewiß auch thun, die Bildung dieser Stände und ihre Wirksamkeit für ungemein heilsam. Sollten auch gerade nicht viel einzelne Sachen dadurch zu Stande kommen, so wird ein geregeltes Interesse an demjenigen, was die öffentlichen Angelegenheiten der Provinz betriff, dadurch geweckt, und eine einsichtsvolle Theil- nahme daran nach und nach vorbereitet. Wo die Stände nun gar das Glück haben, einen Landmarschall, wie Sie, zu besitzen, muß alles eifriger, thätiger, consequenter auf Einen Punkt hin gerichtet gehen. Ich habe mich unendlich gefreut, als ich hörte, daß Sie das Geschäft hatten übernehmen wollen. — Sehen wir Sie aber nicht nach vollendetem Landtage in Berlin ? Man machte uns schon im vorigen Jahre die Hofnung dazu, und in diesem sollten Sie dieselbe in der That erfüllen. Ihre Anwesenheit in Berlin würde gewiß von vielen Seiten nützlich se}^, und uns, meiner Frau und mir würde sie zu einer ungemein großen Freude gereichen. Sie kämen doch wohl im Frühjahr oder Anfang des Sommers, und bis zum Ende des Junius hin sind wir sicherlich in Berlin oder Tegel. Nachher gehen wir, aUer Wahrscheinlichkeit nach, nach Gastein, das wieder zu gebrauchen meine Frau nicht versäumen darf. Denn ob es gleich wirkUch jetzt recht leidlich mit ihrer Gesundheit geht, und Gastein sie wirklich gerettet hat, so ist doch ein nochmaliger und vielleicht ein wieder- holter Gebrauch nothwendig. Denn ein so eingewurzeltes Uebel, als es die Gicht leider bei meiner Frau ist, läßt sich wohl überhaupt vielleicht nicht, und wenigstens nicht durch eine einjährige Badecur heben. — Wenn Ew. Excellenz nach Berlin kommen, so nehmen Sie wohl auch die nöthigen Abreden mit meiner Frau wegen des Saals<note type="footnote" n="^)" resp="gnd-116890657"><hi>Bei der A usschmückung des Saals in Steins Haus war Caroline von Hum-</hi></note>. Ich habe die Auszüge indeß übersetzen lassen.</p>
+
+               <p>Ich gehe von hier noch ins Mansfeldische und Magdeburgische, und dürfte wohl vor dem 15. oder selbst 20. nicht in Berhn zurück sejm. Mein seltenes Schreiben müssen Sie, beste Excellenz, verzeihen. Ich habe keine eigentliche Tintenscheu, denn ich schreibe doch ziemboldt als künstlerische Beraterin, besonders auch bei der Auswahl der heranzuziehenden Künstler, beteiligt.<pb n="17.369" xml:id="pbXVII369"/> lieh viel. Aber so oft und angelegentlich ich an die Personen denke, die ich verehre und liebe, so habe ich eine gewisse Abneigung gegen Briefe, die in weite Fernen gehen, wo man sich weder recht aussprechen, noch unmittelbar Antwort erwarten kann. Auch muß ich meine Augen sehr schonen. Eins dient mir zum Lesen und Schreiben schon garnicht mehr, und das andere ist, ohne eigentlich krank zu seyn, viel schwächer geworden. — Nun leben Sie herzlich wohl, theuerster und verehrungswürdigster Freund. Möge Gott Sie dieses eben begonnene und noch recht viele folgende Jahre zur Freude aller Guten und zur Förderung alles Edlen und NützHchen erhalten, und mögen Sie mir die Fortdauer Ihres Wohlwollens und Ihrer Freundschaft schenken. Ich bleibe mit der herzhchsten und unver- änderhchsten der Ihrige.</p>
+            </div>
+
+            <div type="section" n="11">
+               <head>
+                  <title type="main">H.</title>
+               </head>
+            </div>
+
+            <div type="section" n="12">
+               <head>
+                  <title type="main">386. An Metternich Berlin, 26. April 182g</title>
+               </head>
+               <p>Original unbekannt , wohl in Plaß; Abschrift von Gebhardt.</p>
+
+               <p>Mon eher Prince,</p>
+
+               <p>La preuve d'interet et d'amitie que Vous avez bien voulü me donner par Votre lettre pleine de bienveillance et de bonte m'a profondement touche. Vous avez vraiment confirme par lä la conviction que j'avois toujours, que Vous appartenez, mon eher Prince, au bien petit nombre des personnes qui, au milieu des plus grandes affaires et de toutes les distractions de la societe, conservent dans toute leur purete les sentimens qui sont chers ä toute äme profonde et sensible. Je ne puis assez Vous exprimer quel doux plaisir m'a cause la part que Vous prenez ä la perte cruelle et irreparable que je viens d'eprouver. J'ai entierement partage Votre douleur ä la funeste nouveUe de ceUe qui Vous a frappe egalement; je n'osois seulement pas ni alors, ni ä l'occasion de la mort de ma femme interrompre par une lettre Vos occupations importantes et multipliees. Ce que Votre Altesse dit des motifs de consolation qu'on allegue ordinairement, est infiniment vrai. Ils sont bien foibles et bien inefficaces. Ce n'est que dans la solitude que je cherche ceUe dont je me sens capable. Ce n'est qu'en tournant ses pensees sans cesse vers l'objet cheri, en se rappellant le bonheur dont on a joui, en s'occu- pant uniquement de ses propres idees, qu'on se retrouve soi-meme dans la douleur et qu'on reussit ä resister ä la force des regrets qui dechirent l'äme sans pouvoir Jamals atteindre leur but. 24 Humboldt, Briefe n.<pb n="17.370" xml:id="pbXVII370"/> nous reunissoit tous les soirs dans un meme cercle. C'est bien certaine- ment l'epoque la plus memorable de ma vie, et en meme tems une de Celles que je me rappelle avec le plus de plaisir. Le souvenir ne s'en effacera jamais de ma memoire. Vous me combliez alors de marques de confiance et de bonte; je sentois depuis longtemps le besoin de Vous en renouveller toute ma reconnoissance ; il m'est infiniment doux, mon eher Prince, que Vous ayez bien voulü m'en fournir Vous-meme l'occasion. Veuillez...</p>
+            </div>
+
+            <div type="section" n="13">
+               <head>
+                  <title type="main">Berlin, ce 26 avril, 1829 Humboldt</title>
+               </head>
+            </div>
+
+            <div type="section" n="14">
+               <head>
+                  <title type="main">387. An den König Tegel, 15. Mai 182g</title>
+               </head>
+               <p>G. St. A . Rep. 8g, B XV 2, vol. II; i eigenh. Folioseite. Abschrift: Kultusministerium, U IV Specialia, Kgl. Museen in Berlin i, Nr. 4, vol. IX.</p>
+            </div>
+
+            <div type="section" n="15">
+               <head>
+                  <title type="main">Allerdurchlauchtigster, Großmächtigster König, Allergnädigster König und Herr,</title>
+               </head>
+               <p>Ew. Königliche Majestät eile ich, meinen tiefsten und ehrfurchts- vollsten Dank für den mir durch die allerhöchste Cabinets Ordre vom 8. d. M. die Commission des Museums betreffend, gegebenen neuen Beweis Allerhöchst Ihres Huldreichen Vertrauens abzustatten<note type="footnote" n="^)" resp="gnd-116890657"><hi>Humboldt hatte die Leitung der Einrichtungskommission erhalten.</hi></note>. Ich werde mich dem mir ertheilten allerhöchsten Auftrage sogleich unterziehen, und die ernannte Commission ihre Arbeiten sogleich beginnen lassen. Ich wünschte nichts angelegentlicher, als daß es mir gelingen möchte, mir auch in diesem Geschäft Ew. Königlichen Majestät allerhöchste Zufriedenheit erwerben zu können.</p>
+
+               <p>Indem ich mich auf diese Weise beeifere, den allerhöchsten Befehlen Ew. Königlichen Majestät allerunterthänigst nachzukommen, wage ich es zugleich, mich an die Gnade zu wenden, von der ich so oft so große und huldreiche Merkmale erfahren habe. Ich kann Ew. Königlichen Majestät nicht läugnen, daß ich mich seit dem Verlust, den ich erlitten, in einer Gemüthslage befinde, welche mir die größeste Einsamkeit und gänzliche Zurückgezogenheit zum sehn- hchsten Wunsche macht. Wenn es daher Ew. Königlichen Majestät möglich wäre, das mir so gnädig übertragene Geschäft andren Hän- den anzuvertrauen; so würde ich es, so sehr mich auch diese Bitte selbst schmerzt, doch mit dem gerührtesten und ehrerbietigsten<pb n="17.371" xml:id="pbXVII371"/> Danke erkennen müssen. Ich bitte indeß Ew. Königliche Majestät alleranterthänigst, überzeugt zu seyn, daß ich mich darum nicht mit geringerem Eifer, sondern viehnehr aus allen meinen Kräften dem neuen Geschäfte so lange widmen werde, bis Ew. KönigHche Majestät geruht haben werden, über diese meine ehrfurchtsvolle Bitte allergnädigst zu entscheiden.</p>
+
+               <p>Ich ersterbe in allertiefster Ehrfurcht</p>
+
+               <p>Ew. Königlichen Majestät allerunterthänigster</p>
+            </div>
+
+            <div type="section" n="16">
+               <head>
+                  <title type="main">Tegel, den 15. Mai 1829 Humboldt</title>
+               </head>
+            </div>
+
+            <div type="section" n="17">
+               <head>
+                  <title type="main">388. An Nicolovius Tegel. 20. Februar. 1830</title>
+               </head>
+               <p>Weimar, Goethe-Schiller-Archiv ; 2 Quartseiten, Schreiberhand. Gdr. Haym i8g4.</p>
+
+               <p>Ew. Hochwohlgebohren danke ich auf das lebhafteste für Ihr gütiges Schreiben vom 16. d. M. Sie verzeihen mir gewiß, daß ich die Kirchenzeitung meinem Bruder mitgetheilt habe. HoffentUch ist sie Ew. Hochwohlgebohren schon wieder zugestellt worden. Es ist wohl nicht möglich, eine hämischere Zusammenstellung aus dem Zusammenhang gerissener Stellen zu machen, als in der bewußten Recension geschehen ist. Der Verfasser scheint wenigstens die christliche Liebe für kein Ingrediens einer Kirchenzeitung zu halten, und wenn er wirklich ein Gläubiger ist, so wird man wenigstens nicht länger behaupten können, daß der Glaube den Verstand verhindere, in seiner einseitigen boshaften Schärfe zu wirken. Allein auch auf der andern Seite sind, wie ich immer im Stillen bemerkt habe, große Blößen gegeben worden. Viele Stellen hätte ich nie so hinschreiben oder überhaupt so denken mögen. Eine noch größere Anzahl hätte nicht gedruckt werden sollen. Dieser Misbilligung ungeachtet, sehe ich mir doch schon, da auch mein Briefwechsel mit Schiller jetzt gedruckt werden wird, meine Stelle in der Kirchenzeitung offen erhalten<note type="footnote" n="^)" resp="gnd-116890657"><hi>Die Rezension in der Evangelischen Kirchenzeitung vom 3., 6. und 10. Fe- bruar 1830 über den Briefwechsel zwischen Schiller und Goethe verdächtigte beide Dichter moralisch wie religiös.</hi></note>.</p>
+
+               <p>Ueber die Ilgensche Angelegenheit bald ein Mehreres mündlich. Sie beunruhigt mich doch sehr. Ist aber meine Ansicht nicht richtig, daß das Pensionsreglement nur über Pensionen aus Königlichen<pb n="17.372" xml:id="pbXVII372"/> kann, wo eine Pension aus der Casse einer Anstalt ertheilt wird?<note type="footnote" n="^)" resp="gnd-116890657"><hi>Der erblindete Ilgen ließ sich zum Herbst 1830 pensionieren. 2) Auf einen denunziatorischen Artikel der Evangelischen Kirchenzeitung vom 16. und 20. Januar 1830 hin über den Rationalismus auf der Universität Halle hatte der König am 14. Februar eine Untersuchung gegen die Hallenser Professoren Gesenius und Wegscheider veranlaßt.</hi></note></p>
+
+               <p>Gesenius thut mir unendlich leid. Daß ein Mann in seinen gelehrten Arbeiten durch solche Plackereien gestört werden muß ! Hülfe hätte ich ihm natürlich nicht gewähren können, aUein gesehen hätte ich ihn sehr gern^).</p>
+            </div>
+
+            <div type="section" n="18">
+               <head>
+                  <title type="main">Empfangen Ew. Hochwohlgebohren die Versicherung meiner ausgezeichnetesten Hochachtung, und freundschafthchen Anhäng- lichkeit.</title>
+               </head>
+            </div>
+
+            <div type="section" n="19">
+               <head>
+                  <title type="main">Tegel, den 20. Februar, 1830. <note type="footnote" n="3)" resp="gnd-118554727"><hi>Angeheftetes Fragment eines Briefes vom 14. II. 30. Schreiber hd.: ,,Ich höre, daß in der Kirchenzeitung ein Artikel über Goethes Briefwechsel mit Schiller steht, in welchem auch ich genannt seyn soll. Könnten Ew. Hochwohlgeboren</hi></note> Humboldt</title>
+               </head>
+               <p>38g. An den Großherzog von Mecklenhurg-Strelitz</p>
+
+               <p>Tegel, 9 April 1830</p>
+
+               <p>Hauptarchiv NeustKeliiz. 31. II. i; i eigenh. Quariseite.</p>
+            </div>
+
+            <div type="section" n="20">
+               <head>
+                  <title type="main">Durchlauchtigster Großherzog,</title>
+               </head>
+            </div>
+
+            <div type="section" n="21">
+               <head>
+                  <title type="main">Gnädigster Großherzog und Herr,</title>
+               </head>
+            </div>
+
+            <div type="section" n="22">
+               <head>
+                  <title type="main">Ew. Königlichen Hoheit eile ich einen Abdruck der Zeichnung meiner Frau ehrfurchtsvoll zu übermachen, die Sie neulich hier</title>
+               </head>
+               <p>sahen, und mit Ihrem Beifall zu beehren die Gnade hatten*). Die Lithographie läßt allerdings, gegen das Original gehalten, noch zu wünschen übrig, sie ist doch aber mit großer Sorgfalt behandelt und im Ganzen gelungen. Die Art, wie mir Ew. Königliche Hoheit neulich hier über die Verstorbene gesprochen haben, hat mir aufs neue bewiesen, wie tief und wahr Sie ihr eigenthümliches Wesen, diese wundervolle Verbindung von Geist und Gefühl, diese klare und einfache Ansicht und Behandlung aller Verhältnisse des Lebens mir nicht dieses Blatt auf einen Tag verschaffen? Tegel 14. Febr. 1830." Auf der Rückseite: ,, . . . mit Unrecht sehr beunruhigt worden, und wünscht aus diesem Grunde das Pensionsreglement selbst zu sehen. Da er mich nun um dasselbe bittet, so ersuche ich Ew. Hochwohlgebohren, mir gütigst zu sagen, welches Pensionsreglement hier eigentlich gemeint ist, und von welchem ..." *) Sie ist wiedergegeben in den Briefen Wilhelm und Caroline von Humboldts. Bd. VII, S. 342.<pb n="17.373" xml:id="pbXVII373"/> erkannt und gefühlt haben. Es macht mich daher besonders glücklich, ein gelungenes Bild von ihr gerade in den Händen Ew. Könighchen Hoheit zu wissen.</p>
+
+               <p>Ich ersterbe in tiefster Ehrfurcht</p>
+
+               <p>Ew. Königlichen Hoheit unterthänigster,</p>
+            </div>
+
+            <div type="section" n="23">
+               <head>
+                  <title type="main">Tegel, den 9. April, 1830 Humboldt</title>
+               </head>
+            </div>
+
+            <div type="section" n="24">
+               <head>
+                  <title type="main">jgo. An Stein Tegel, den gten April 1830</title>
+               </head>
+               <p>Stein-Archiv; 2 eigenh. Oktavseiten. Gdr.: Pertz, Leben Steins VI 2, g2i.</p>
+
+               <p>Ich bin so frei, theuerste ExceUenz, Ihnen eine lithographirte Zeichnung meiner verstorbenen Frau zu schicken, die Ihnen ihre Züge lebendig ins Gedächtniß zurückführen wird. Meine Kinder und ich finden sie sehr ähnlich. Sie ist von Prof. Wach, der sie bloß aus dem Gedächtniß gemacht hat. Die Künstler selbst sagen, daß sie ihm wie durch eine Art von Inspiration gelungen ist. Ich kann Ihnen nicht sagen, wie beruhigend und erfreulich es mir ist, nun ein so wohlgelungenes Bildniß beständig um mich haben zu können. Stirn und Augen besonders finde ich von sprechender Aehnlichkeit. Ew. ExceUenz hatten soviel Freundschaft und Güte für die Verstorbene, Sie werden ihrem Bilde gern eine Stelle um Sich gewähren. Ich habe den Winter hier in absoluter Einsamkeit, aber in wehmüthig süßer Stille verlebt. Meiner Gesundheit hat diese regelmäßige Lebensart, und die tägliche Bewegung in der freien Luft sehr wohl- gethan. Dennoch gehe ich wieder nach Gastein und vorher nach Schlesien. So werde ich den Junius und Julius von hier abwesend seyn. Leben Sie herzlich wohl! Mit der innigsten Verehrung und Freundschaft der Ihrige</p>
+            </div>
+
+            <div type="section" n="25">
+               <head>
+                  <title type="main">Humboldt</title>
+               </head>
+            </div>
+
+            <div type="section" n="26">
+               <head>
+                  <title type="main">3gi. An Gneisenau Tegel, 24. April 1830</title>
+               </head>
+               <p>G. St. A. Rep. g2, Gneisenau A 43; i eigenh. Quartseite.</p>
+
+               <p>Ich kann Ew. Excellenz nicht genug für Ihre freundhche Ein- ladung danken. Sie verzeihen aber gewiß, wenn ich Sie bitten muß, mich zu entschuldigen. Meine Einsamkeit sagt jetzt so ganz meinen<pb n="17.374" xml:id="pbXVII374"/> cellenz, Freundschaft zu erzeigen, dringend bitten muß, hierin Nach- sicht mit mir zu haben.</p>
+
+               <p>Mit aufrichtiger Verehrung Ew. Excellenz</p>
+            </div>
+
+            <div type="section" n="27">
+               <head>
+                  <title type="main">ergebenster Tegel, den 24. April, 1830 Humboldt</title>
+               </head>
+            </div>
+
+            <div type="section" n="28">
+               <head>
+                  <title type="main">592. An Varnhagen v. Ense Tegel, 7. Mai 18 jo</title>
+               </head>
+               <p>Staatsbibliothek Berlin; 3 Quartseiten. Schreiberhand.</p>
+
+               <p>Ew. Hochwohlgebohren haben mir durch Ihr ebenso gütiges, als interessantes Geschenk der Zinzendorfischen Lebensbeschreibung ein sehr großes Vergnügen gewährt, für das ich Ihnen meinen herzlichsten Dank abstatte. Es war gewiß eine sehr richtige Ansicht, den Mann als Staatsmann zu schildern, es blieb jedoch nicht weniger schwierig, zu zeigen, wie seine dahin einschlagenden großen Eigenschaften sich mit Motiven verbanden, die sonst nur dem einsamen Gefühle eigen sind, ja wie sie sogar wahrhaft und ganz aus diesen Motiven entsprangen. Diese Schwierigkeiten zu überwinden, ist es aber Ew. Hochwohlgebohren vollkommen gelungen.</p>
+
+               <p>Daß die Biographie des verstorbenen Staatskanzlers in Ew. Hochwohlgebohren Hände fällt, ist mir sehr angenehm gewesen aus Ihrem Schreiben zu ersehen. Meine Empfindungen für diesen Mann sind in aUen Zeiten, auch wo wir von ein ander gänzlich abwichen, immer dieselben geblieben, und es freut mich daher, daß er bei Ihnen gewiß zugleich die würdigende und schonende Behandlung erfahren wird, welche er verdient. Man kann mit Wahrheit von ihm sagen, daß, wenn man die Begebenheiten von 1810 bis 1816 wie die Ent- wickelung eines Dramas betrachtet, ein Dichter keinen geeigneteren Charakter hätte finden können, dieselbe für Preußen herbeizuführen, als den seinigen. Ich habe dies in der Mitte dieser Begebenheiten oft gefühlt, und in Momenten, wo er gefährlich zu leiden schien, für den Ausgang gezittert. Dagegen ist es gewiß auch wahr, daß man für sich selbst vielleicht eher auf den Antheil an diesem Drama verzichtet hätte, um in entschiedenerer Größe und Festigkeit über den Begebenheiten zu stehen.</p>
+            </div>
+
+            <div type="section" n="29">
+               <head>
+                  <title type="main">Empfangen...</title>
+               </head>
+            </div>
+
+            <div type="section" n="30">
+               <head>
+                  <title type="main">Tegel, den 7. Mai, 1930 Humboldt</title>
+               </head>
+               <pb n="17.375" xml:id="pbXVII375"/>
+            </div>
+
+            <div type="section" n="31">
+               <head>
+                  <title type="main">J9J. An Stein Tegel, den 25sten Mai. 1830</title>
+               </head>
+               <p>Stein-Archiv; 2 eigenh. Quartseiten. Gdr.: Pertz. Leben Steins VI 2, g2i.</p>
+
+               <p>Es hat mich unendlich gefreut, theuerste Excellenz, daß Sie mit dem Bilde meiner Frau auch so zufrieden sind. Wie gern würde es die Verewigte in Ihrer Nähe wissen. Sie ehrte und liebte Sie so innig. Sie haben einmal eine Zeichnung des Grabmals gewünscht. Ich schicke sie Ihnen gewiß noch, es muß nur dazu erst Thorwaldsens Statue, die dazu bestimmt ist, angekommen seyn. — Die Zeichnung zu dem Grabmal, das Sie mir geschickt, habe ich Prof. Wach eingehändigt. Es ist sehr schwer, bildhch mit DeutUchkeit darzustellen, was Sie ausdrücken wollen. Wir haben hin und her gesonnen, allein nichts Besseres gefunden, als Sie schon selbst vorschlugen. Wach wird Ihnen eben mit diesem Briefe eine Zeichnung schicken, welche die Gegenstände mahlerischer anordnen wird.</p>
+
+               <p>Was Sie mir, verehrtester Freund, von Sich sagen, hat mich innig betrübt. Sie sollten doch etwas thun, um Ihrem Leben mehr äußere Mannigfaltigkeit zu geben. Ich würde Ihnen rathen, den Winter in einer Stadt zuzubringen, und Ihnen dazu Bonn vorschlagen. Ich kenne in ganz Deutschland keinen mehr für Sie passenden Aufenthalt. Ich lebe zwar auch auf dem Lande, aber ich habe die Stadt zu vielerlei Mittheilungen näher, und eine größere. Ich halte mich, so eng ich kann, an wissenschaftHchen Beschäftigungen. In den letzten Monaten habe ich meinen Briefwechsel mit Schiller redigirt, und eine Vorrede über Schiller dazu gemacht, die mich sehr in das Andenken der ersten Jahre meiner Heirath und unser Leben damals zurückversetzt hat<note type="footnote" n="^)" resp="gnd-116890657"><hi>Über Schiller und den Gang seiner Geistesentwicklung, gdr. G. S. VI 2. 4g2.</hi></note>. Zugleich arbeite ich an einem größeren Werk, zwar über einen speciellen Gegenstand, über den weitläuftigen Malayischen Sprachstamm von Madagascar bis zur Osterinsel, wo ich aber zugleich meine allgemeinen Ideen über Sprachstudium und Sprachbau zu entwickeln denke^). Solch ein Unternehmen halte ich für sehr gut. Gelingt es, so gewährt es allerlei Genugthuung. Unterbricht es der Tod, so hat man nichts dagegen zu Wichtigerem abgerufen zu werden.</p>
+
+               <p>Pfuel habe ich mit großem Bedauern von uns scheiden sehen. Sein Darlehn hat er bis auf 4—5000 Thlr. abbezahlt. Sobald auch die abgetragen sind, schicke ich Ihnen Ihre Copie zurück. Er und die Famihe haben jetzt einen schönen und einträghchen Besitz an dem<pb n="17.376" xml:id="pbXVII376"/> Gute. Von Niebuhr hieß es, daß er hierher in den Staatsrath kommen würde. Es sollte mich unendlich freuen. Jetzt aber ist wieder Alles still davon. Die Landmarschallstelle würde ich Ihnen nicht rathen, wieder zu übernehmen. Sie ist zu anstrengend und mühsam, und nicht wichtig genug, einem Mann, wie Sie sind, diese Mühe zu- zumuthen. — Ich verreise in wenigen Tagen, und bin dann in den nächsten zwei Monaten durch Briefe nicht leicht erreichbar. Nehmen Sie mit der Versicherung meiner innigsten Verehrung meine herzlichsten Wünsche für Ihre Gesundheit, Zufriedenheit und Heiterkeit an!<note type="footnote" n="2)" resp="gnd-118554727"><hi>Über die Verschiedenheit des menschlichen Sprachbaues . . . gdr.G. S. VII i.i.</hi></note></p>
+            </div>
+
+            <div type="section" n="32">
+               <head>
+                  <title type="main">Humboldt</title>
+               </head>
+               <p>3g4. An den Großherzog von Mecklenburg-Strelüz</p>
+
+               <p>Tegel, 26. September 1830</p>
+
+               <p>Hauptarchiv Neustrelitz, 51. II. i; i eigenh. Quartseite.</p>
+
+               <p>Durchlauchtigster Großherzog,</p>
+
+               <p>Gnädigster Großherzog und Herr,</p>
+
+               <p>Ew. Königliche Hoheit sind mir so oft und so lebendig gegenwärtig gewesen, als ich neulich in Gastein die anliegenden Blätter schrieb, daß ich mir nicht versagen kann, Ihnen dieselben ehrfurchtsvoll zu überreichen<note type="footnote" n="^)" resp="gnd-116890657"><hi>Die Rezension von Goethes Zweitem römischen A uf enthalt, gdr. G. S. VI 2, 528.</hi></note>. Ich gestehe, daß mir diese kleine Arbeit eine große Freude gemacht hat, da sie mich ganz in die Zeit versetzte, auf die ich jetzt mit doppelt wehmüthiger Sehnsucht zurückblicke, und die Ew. Königlichen Hoheit große und wohlwollende Güte soviel dazu beitrug uns zu verschönern. Möge es mir gelungen seyn, über Rom auf eine Weise gesprochen zu haben, welche Ew. Königliche Hoheit Ihrer Erinnerungen nicht unwerth halten.</p>
+
+               <p>Ich ersterbe in tiefster Ehrfurcht</p>
+
+               <p>Ew. Königlichen Hoheit unterthänigster,</p>
+            </div>
+
+            <div type="section" n="33">
+               <head>
+                  <title type="main">Tegel, den 26. September, 1830 Humboldt</title>
+               </head>
+            </div>
+
+            <div type="section" n="34">
+               <head>
+                  <title type="main">3g 5. An Nicolovius Tegel, 20. September 1834</title>
+               </head>
+               <p>Weimar. Goethe-Schiller-Archiv ; 2 Quartseiten, Schreiberhand. Gdr.: Haym 1894.</p>
+
+               <p>Ich bin schon seit mehreren Wochen ohne eigentliche Krankheit unwohl, und bedaure dadurch verhindert zu werden, in die Stadt</p>
+
+               <pb n="17.377" xml:id="pbXVII377"/>
+               <p>Ich nehme mir zugleich die Freiheit, Ihnen heute über den Tod des alten Ilgen und das Schicksal seiner nachgelaßnen Wittwe zu schreiben. Ich sehe es als ausgemacht und in dem Herkommen der Schul- pforte gegründet an, daß sie eine lebenslänghche Pension erhält. Die Höhe derselben hängt wohl auch zum Theil von der Gunst des Ministers ab. Da Ew. Hochwohlgeboren den Antheil kennen, den ich immer an dieser Famihe genommen, so werden Sie meinen Wunsch natürhch finden, das Auskommen der Wittwe möghchst gesichert zu wissen. Sie würden mich daher sehr verbinden, wenn Sie den Minister vorläufig günstig für die Sache zu stimmen vermöchten. Außerdem aber wünschte ich auch zu erfahren, welche Schritte die Wittwe zur Nachsuchung der Pension zu thun haben wird, und ob Sie für besser halten, daß ich jetzt gleich meine Verwendung bei dem Minister für das Gesuch einlege, oder daß ich erst den Zeitpunkt abwarte, wo der Nachlaß des Verstorbenen ausgemittelt seyn wird. Ich gestehe, daß ich nicht glaube, daß der Nachlaß irgend so bedeutend seyn wird, daß die Wittwe von ihrem Antheil an demselben irgend auskömmlich leben könnte.</p>
+
+               <p>Ich bitte Sie, mich Florchen und Fräulein Hochwächter auf das Angelegenthchste zu empfehlen und die erneuerte Versicherung meiner freundschafthchsten und hochachtungsvoUsten Gesinnungen anzunehmen.</p>
+            </div>
+
+            <div type="section" n="35">
+               <head>
+                  <title type="main">Tegel, den 20. September 1834 Humboldt</title>
+               </head>
+            </div>
+
+            <div type="section" n="36">
+               <head>
+                  <title type="main">3g6. An Nicolovius Tegel, 2. Februar. 1835</title>
+               </head>
+               <p>Weimar, Goethe-Schiller-Archiv : 2 Quartseiten, Schreiberhand. Gdr.: Haym i8g4.</p>
+
+               <p>Ew. Hochwohlgeboren sage ich meinen innigsten Dank für den mir in der Ilgenschen Sache ertheilten einsichtsvollen Rath. Ich habe ihn pünkthch befolgt und das Concept meiner ältesten Tochter zur Weiterbeförderung geschickt.</p>
+
+               <p>Uhdens Tod hat mich wirklich sehr bewegt<note type="footnote" n="^)" resp="gnd-116890657"><hi>Uhden starb am 21. I. 1835.</hi></note>. Mein Umgang mit ihm fiel in die glücklichste Periode meines Lebens, in den Römischen<pb n="17.378" xml:id="pbXVII378"/> im Jahre 1809, wo er mir wirklich viel Anhänghchkeit bewies. Ueber- dies hatte er, ohne es zu wissen, das Schicksal meines ganzen Lebens bestimmt. Denn hätte er nicht, eben seiner ersten Frau wegen, den Einfall bekommen, Rom zu verlassen, so wäre ich wahrscheinlich nie in Staatsdienst gegangen. Von dem Capital, von dem Ew. Hoch- wohlgeboren mir schreiben, weiß ich nichts Bestimmtes, obgleich ich mich wohl dunkel erinnere, davon gehört zu haben. Es schiene mir das Beste zu seyn, die Erkundigung darnach Herrn Bunsen aufzutragen. Er muß darüber sehr leicht bei mehreren Personen Nach- richt einziehen können. Am besten muß die Frau selbst davon unterrichtet seyn, die, soviel ich weiß, noch lebt, dann Thorwaldsen, der sie geheirathet hatte, oder doch mit ihr lebte, endlich einige ältere Künstler, wie der Landschaftsmahler Reinhart. Die beiden Personen, deren Hülfe sich Uhden bei dem Geschäfte bedient haben wird, sind vermuthhch der Baron Browne und der Notarius der Gesandtschaft Sommariva gewesen. Der Erstere ist aber todt und vermuth- hch lebt auch der Letztere nicht mehr.</p>
+            </div>
+
+            <div type="section" n="37">
+               <head>
+                  <title type="main">Mit der ausgezeichnetesten Hochachtung und der herzlichsten Freundschaft</title>
+               </head>
+               <p>der Ihrige,</p>
+            </div>
+
+            <div type="section" n="38">
+               <head>
+                  <title type="main">Tegel, den 2. Februar 1835 Humboldt</title>
+               </head>
+            </div>
+
+            <div type="section" n="39">
+               <head>
+                  <title type="main">jgy. An Nicolovius Tegel, 5. Februar. 1835</title>
+               </head>
+               <p>Weimar, Goethe-Schiller-Archiv ; 2 Quartseiten. Schreiberhand. Gdr.: Haym i8g4.</p>
+
+               <p>Ich sage Ew. Hochwohlgeboren meinen herzlichsten Dank für Ihre gütige Theilnahme und die mir wegen des Staatsraths geäußerte Besorgniß<note type="footnote" n="^)" resp="gnd-116890657"><hi>Nachdem Humboldt mit seiner Verabschiedung als Minister am 31. De- zember i8ig zugleich auch aus dem Staatsrat, dem er seit dessen Gründung im Jahre i8iy angehörte, entlassen war, wurde er durch eine Kabinettsordre vom 15. September 1830 wieder in ihn zurückberufen.</hi></note>. Es war (im Vertrauen unter uns beiden gesagt) nie meine Absicht, die Berathungen eigentlich mitzumachen. Dagegen möchte ich auch nicht ausdrückhch, noch stillschweigend, durch gänz- liches Ausbleiben mich schlechterdings von den Sitzungen lossagen. Meine Absicht war daher, mich, wie Wittgenstein und einige andre thun, von Zeit zu Zeit zu zeigen. Dabei war mein Project, meinen Platz, mit Ew. Hochwohlgeboren Erlaubniß, an Ihrer Seite zu nehmen, um mich mehr unvermerkt, als es an meinem gewöhnlichen<pb n="17.379" xml:id="pbXVII379"/> möglich ist, im Xothfall entfernen zu können. Unter diesen Modi- ficationen wird, glaube ich, auch der Praesident Rust nichts dagegen haben. Wäre es dennoch der Fall, so ist keine Begierde so leicht zu zügeln, als die nach den Staatsraths Sitzungen, und er wird daher sehr leicht einen folgsamen Patienten an mir finden. Diesen Ausdruck müssen Ew. Hochwohlgeboren übrigens nicht so buchstäblich nehmen. Auf deutsch bin ich kein Leidender, sondern führe \delmehr mit meinen Kindern und einsam, zwischen Arbeiten und Träumen, in Erinnerungen der \'ergangenheit und heiterm Denken an die Zu- kunft, ein stiU glückhches Leben. Indem ich dies dictire, sitzen Ew. Hochwohlgeboren gewiß im Geräusch des Stägemannischen Gastmales<note type="footnote" n="^)" resp="gnd-116890657"><hi>Staegemann feierte sein fünfzigjähriges Staatsdienstjubiläum. *) Am 8. April 1835 starb Wilhelm von Humboldt.</hi></note>. Ich wünsche herzlich, daß er noch lange auch den Geschäften erhalten werde ; man erkennt nicht genug, wie wohlthätig und noth- wendig gerade seine jetzige Wirksamkeit ist.</p>
+
+               <p>Mit der innigsten und hochachtungsvollsten Freundschaft der Ihrige,</p>
+            </div>
+
+            <div type="section" n="40">
+               <head>
+                  <title type="main">Tegel, den 5. Februar 1835^) Humboldt</title>
+               </head>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Anhang. Vorrede zu Alexander von Humboldts Schrift über die unterirdischen Gasarten</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Dritter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif03humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1904">1904</date>
+                  </imprint>
+                  <biblScope unit="page" from="367" to="368"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1799">1799</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="3.367" xml:id="pbIII367"/>
+            <head>
+               <title type="main">Anhang.</title>
+            </head>
+            <div type="section" n="1">
+               <head>
+                  <title type="main">Vorrede zu Alexander von Humboldts Schrift über die unterirdischen Gasarten.</title>
+               </head>
+               <p>Schon seit mehreren Jahren war mein Bruder mit der Zerlegung der unterirrdischen Gasarten, und mit Versuchen, ihren Nachtheil zu vermindern, beschäftigt. Die Wichtigkeit dieses mit der Gesundheit und dem Leben einer zahlreichen Menschenklasse so nahe verbundenen Gegenstandes machte ihm diese Arbeiten vorzugsweise vor andern werth, und liess ihn die Gefahr nicht scheuen, die, wie die Folge dieser Blätter zeigen wird, mit mehreren dieser Versuche verknüpft war. Seine Lage als Oberbergmeister gab ihm überdies Gelegenheit, eine grössere Anzahl inter- essanter Beobachtungen zu sammeln, und sicherer und besser, als es der blosse Theoretiker zu thun im Stande gewesen wäre, das Ausführbare von dem Unausführbaren abzusondern.</p>
+
+               <p>Zwei Jahre sind jetzt verflossen, seitdem der Apparat der Rettungslampe zu Stande gekommen, versendet und in mehreren Zeitschriften beschrieben worden ist. Bei der grossen Aufmerksamkeit, die man dieser Erfindung geschenkt hat, wurde eine Beschreibung von dem Erfinder selbst gewünscht. Auch bereitete sich mein Bruder in der That dazu vor. Da aber Reisen und andere chemische Arbeiten ihn abhielten, sich ununterbrochen damit zu beschäftigen ; so würde die gegenwärtige Schrift schwerErster Druck : Über die unterirdischen Gasarten und die Mittel ihren Nachteil zu vermindern, ein Beitrag zur Physik der praktischen Bergbaukunde von Friedrich Alexander von Humboldt S. III— VI (lyggj<pb n="3.368" xml:id="pbIII368"/>lieh ohne die Hülfe seiner Freunde zu Stande gekommen seyn. Nur dasjenige, was darin die unterirrdische Meteorologie betrift, so wie den Plan des Ganzen arbeitete er selbst bei seinem Aufenthalte in Salzburg und Paris aus; das Uebrige wurde (um die Erwartung des PubHkums nicht zu lange unbefriedigt zu lassen) aus kleinen, früher von ihm gemiachten Aufsätzen von fremder Hand zusammengesetzt und hinzugefügt. Doch darf er sich mit Grunde schmeicheln, dass seine Ideen durchaus genau und richtig darge- stellt sind. Sehr viele überaus nützliche Materialien zu dieser Schrift verdankt er besonders dem Herrn Bergamtsassessor Freiesleben zu Marienberg, welcher dem Publikum bereits, als geo- gnostischer Schriftsteller, rühmlichst bekannt ist.</p>
+
+               <p>Da mein Bruder auch jetzt schon seit einigen Monaten ab- w^esend und auf einer weiteren Reise begriiTen ist; so habe ich es für nöthig gehalten, diesen Bogen einige wenige Worte über die Entstehung dieser Arbeit vorzusetzen.</p>
+
+               <p>Ich füge nur noch die einzige Bemerkung hinzu, dass, wie ich an mir selbst erfahren habe, diese Schrift auch noch demjenigen interessant seyn wird, welchem das Technische des Bergbaues fremd ist, und der sich selbst nicht mit den genaueren Versuchen der analytischen Chemie beschäftigt. Der erste Theil derselben, welcher die Grundzüge zu einer unterirrdischen Meteorologie enthält, deckt einen bisher noch fast ganz unbekannten Theil der Natur auf, führt in eine gleichsam neue, unterirrdische Schöpfung, überrascht durch anziehende Vergleichungen in der obern und untern Atmosphäre, und gewährt nicht bloss dem Nachdenken und der wissenschaftlichen Neugierde, sondern selbst der Einbildungskraft reichliche Nahrung. Der zweite macht mit den Beschwerden und Gefahren des Bergbaues näher bekannt, und wenn es schon überhaupt ein erhebendes Schauspiel ist, den Kunstfleiss des Menschen im Kampfe mit überlegenen Elementen zu sehen, so wird hier noch die menschenfreundliche Theilnahme für eine arbeitsame und achtungswürdige Menschenklasse erweckt.</p>
+
+               <p>Wilhelm von Humboldt.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Olympia V</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Achter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif08humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1909">1909</date>
+                  </imprint>
+                  <biblScope unit="page" from="99" to="101"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1804">1804</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="8.99" xml:id="pbVIII99"/>
+            <head>
+               <title type="main">13. OL V.</title>
+            </head>
+            <div type="section" n="1">
+               <head>
+                  <title type="main">A.</title>
+               </head>
+               <p>Hocherhabene <note type="footnote" n="^)" resp="gnd-116890657"><hi>„süsse Blume" verbessert aus „gefälligen Blüthenschmuck" . ^) „wetteifernder Spiele" verbessert aus „wetteifernden Spiels". *•) „schmeichlendem" verbessert aus „zartem".</hi></note> Tugenden und der Kränze süsse Blume,^) der in Olympia, empfang, Okeanos Tochter, 5 lächlenden Herzens, des rastlosenteilenden Mäulergespannes und Psaumis Geschenk; der verherrlichend deine völkernährende Stadt, Kamarina, sechs lo Zwillingsaltäre nun mit Götterfesten geschmücket, unter dem Flammen der Stieropfer und wetteifernder Spiele^) fünftägigem Kampf, ^5 mit dem Viergespann, den Mäulern, und</p>
+
+               <p>Einzelross. Dich aber kränzt' er siegend mit schmeichlendem ^) Ruhm und den als Vater er ausrief, Akron, und den neu gegründeten Sitz.</p>
+
+               <p>Handschrifi: j Quartseiten. — Erster Druck: Wilhelm von Humboldts Gesammelte Werke 2, 276"— 277 (1841).<note type="footnote" n="*)" resp="gnd-116890657"><hi>V „Hocherhabene" verbessert aus „Der erhabenen".</hi></note></p>
+
+               <pb n="8.100" xml:id="pbVIII100"/>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">20 Von Oenomaos lieblichen</title>
+               </head>
+               <p>Fluren kehrend und Pelops, o Pallas, du Städtebeschützerin, besingt erhebend er deinen heiligen Hain jetzt, 25 und Oanos schäumende Wogen, und den heimischen See, und die rieselnden Pfade, mit welchen Hipparis heiliger Strom die Stadt netzt, und zusammen schnell 30 der festen Wohnungen hochaufstrebenden Wald fügt, zum Licht plötzlich ^) dunkler Verlegenheit Nacht entreissend ^) das Volk. Um der Tugend weitleuchtenden ^) 35 Preis kämpft Müh' und Aufwand a.<note type="footnote" n="*)" resp="gnd-116890657"><hi>zu Gefahren umhülletem Werke stets. Doch wem es gelingt, der wird weis' auch in dem Mund der Bürger genannt.</hi></note></p>
+
+               <p>Wolkenthronender Zeus, du, o 40 Retter, der du den Kronischen Hügel umwohnst, ehrest Alpheios breit ergossnen Strom, und des Idas heilige Grotte, zu Dir schallt jetzt, Lydischen Flöten enttönend, 45 mein Flehegesang, bittend dich, dass mit ruhmvollen Edelthaten du schmückest die Stadt; dich aber,</p>
+
+               <p>Sieger Olympias, des edle Brust an Poseidons 50 schäumenden Rossen sich freut, still das Alter geleit' an des Lebens y „plötzlich" verbessert aus „schnell aus". ^) „entreissend" verbessert aus „geleitend". V „weitleuchtenden" verbessert aus „hocherhabenen".</p>
+
+               <p>*J Vor „zu" gestrichen: „stets".</p>
+
+               <pb n="8.101" xml:id="pbVIII101"/>
+               <p>sanftlächelndes Ziel, in der Söhn', o Psaumis, lieblicher Nähe.^) Wer harmloses 55 Glück nährt, und zu genügender Schätze Mass</p>
+
+               <p>'-) gesellet des Ruhms Preis, der strebe zum Gott auf vermessen^) nicht mehr!^) ^J Nach „Nähe" gestrichen: „Wenn". ^J Vor „gesellet" gestrichen: „des R . . .".<note type="footnote" n="*)" resp="gnd-116890657"><hi>V „zum — vermessen" verbessert aus „ein Gott zu werden". *■) Diesen Schlußsatz zitiert Huynboldt Band j, ^57 ; vgl. die Anmerkung dort.</hi></note></p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

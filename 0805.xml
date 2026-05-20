@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Erste olympische Ode</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Achter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif08humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1909">1909</date>
+                  </imprint>
+                  <biblScope unit="page" from="17" to="26"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1792">1792</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="8.17" xml:id="pbVIII17"/>
+            <head>
+               <title type="main">4. Erste Olympische Ode.</title>
+            </head>
+            <p>An Hieron, aus Syrakus, den Sieger zu Pferde.</p>
+
+            <p>I. Strophe.</p>
+
+            <p>Das edelste ist das Wasser; gleich dem Leuchten der lodernden Flamme zur Zeit der Nacht, strahlt das Gold vor allem männererhebenden Reichthum. 5 Willst Du Kämpfe besingen, liebe Seele, so schau nach keinem</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">mehr erwärmenden</title>
+               </head>
+               <p>heller leuchtenden Tagsgestirne, in der Wüste des lo Aethers, als nach der Sonne; so lasst uns keinen edlern Kampf, als den Olympischen, preisen, (von wo sich um der Dichter Be- geistrung der schallende Hymnus, 15 2u der Feier Ivronions, windet) wenn Hierons reicher, seeliger Heerd uns versammelt,</p>
+
+               <p>I. Antistrophe.</p>
+
+               <p>der in der triftengesegneten Si- kelien Fluren der Herrschaft 20 gerechtes Scepter führt, brechend jeder Handschrift: Reinschrifi (vgl. oben S. 2) S. 16—28. Außerdem ist ein Entwurf (4 Quartseiten) erhalten. — Erster Druck (ohne die Anmerkungen): Wilhelm von Humboldts Gesammelte Werke 2, 264 — 270 (1841).</p>
+
+               <pb n="8.18" xml:id="pbVIII18"/>
+               <p>Tugend holdselige Blüthe. Auch die Weihe der Musen ^) schmükt ihn, wie wir im trauten Kreise an dem Mahle der 25 Freunde oft ihn umspielen. Aber nimm die Dorische</p>
+
+               <p>Leier jezt von der Säule, wenn Deine Seele Pisas Glanz, wenn Pherenikos sie in der 30 Begeistrung süsse Sorge senkt, wie an Alpheos Gestade, frei vom Stachel, er hinflog, strekkend im Laufe den Leib, und seinen Gebieter zum Siege</p>
+
+               <p>I. Epode. 35 trug, den Syrakusischen, rossefreuenden König. Es glänzt sein Ruhm bei des Lydischen Pelops grossgesinntem Pflanzvolk, für den der übermächtige Erdumgürter Poseidon 40 liebend entglomm, als ihn Klotho aus leuchtendem Kessel emporhob, die Schulter strahlend von Elfenbeine gebildet. Wundergeschichten und Sagen, mit der Erdichtung Gewebe 45 vielfach geschmükt, fesseln dem Pfade schlichterer Wahrheit entführend^) oftmals der Sterblichen Sinne.</p>
+
+               <p>2. Strophe.</p>
+
+               <p>Der Dichtung Zauberreiz, welcher jede süssere Anmuth den Menschen 50 gewähret, macht oft, der Wahrheit überredendes Ansehn ihm leihend, auch Unglaubliches glaublich. V Im Entwurf: „Blume der Dichtkunst". 'V „dem — entführend" verbessert aus „verführend mehr, denn die Rede der Wahrheit".</p>
+
+               <pb n="8.19" xml:id="pbVIII19"/>
+               <p>Doch der sicherste Zeuge ist die Zukunft. Gutes zu 55 reden ziemt es von Göttern Menschen, und geringer ist dann des Irrthums Vergehen. Sohn Tantalos, entgegen der Sage besing ich Dich, singe, 60 dass, als Dein Vater einst, die Bewirthung erwiedernd, die Götter zum gesezlichen Mahl, zur reizenden Sipylos lud, der</p>
+
+               <p>Dreizakgeschmükte Dich raubte,</p>
+
+               <p>2. Antistrophe. 65 und dass, von sehnender Lust das Herz durchglüht, er mit goldenen Rossen empor zu des allverehrten Zeus erhabenem Size Dich führte, wohin früher auch Gany- 70 medes kam, einst von Zeus zum Liebling ersehn. Als aber <note type="footnote" n="^)" resp="gnd-116890657"><hi>„Als aber" verbessert aus „Aber als". y „Erze" verbessert aus „Messer".</hi></note> Du auf einmal verschwandest, und Dich nicht der Mutter die ängstlich Suchenden brachten; 75 da flüstert' im Verborgnen gleich einer der neidischen Nachbarn, sie hätten Deine Glieder am Feuer im siedenden Wasser mit dem Erze^) zerschnitten, 80 , hätten die Stükke dann um die</p>
+
+               <p>Tafel vertheilt und gegessen.</p>
+
+               <p>2. Epode. Aber ich mag wütenden Hungers keinen der Seeligen zeihen. Schaudervoll beb' ich zurük. Un- 85 segen erntet oft der Verläumder.</p>
+
+               <pb n="8.20" xml:id="pbVIII20"/>
+               <p>Und wenn je des Olympos Wächter der Menschen Einen geehrt, so war Tantalos dieser, allein er vermochte das hohe Glük nicht zu tragen. Sättigung stürzte 90 ihn in die schrekliche Quaal, die über ihn hängte der Vater — jenen gewaltgen Fels. Ewig sein Haupt mit schmetterndem Sturze bedrohend, raubt er ihm^) jegliche Freude.</p>
+
+               <p>3. Strophe. 95' Mit dreien der vierte, duldet er diess jammerbeladene Leben, die ewigmühende Arbeit, weil er, raubend den Himmlischen, Nektar und Ambrosia, womit sie 100 unvergänglich ihn machten, seiner</p>
+
+               <p>Trinkgelage Genossen gab. Wer, Verborgnes sinnend, den Unsterblichen zu entrinnen hofft, irrt. Dar- ios um sendeten die Götter ihm wieder den Sohn vom Olymp zum kurzdauernden Geschlechte der Menschen herab. Als nun in der</p>
+
+               <p>Jugend Reife der Bart das HO Kinn ihm umschattete, strebt er nach der bereiten 2) Vermählung,</p>
+
+               <p>3. Antistrophe.</p>
+
+               <p>von Pisas Herrschet- die hochberühmte Hippodameia im Kampf zu erringen. Nahend dem grauen Meere 115 einsam um Mitternacht, rief er dem lauttosenden Erderschüttrer; und es erschien alsbald ihm<pb n="8.21" xml:id="pbVIII21"/> nahe stehend^) der Gott. Da sprach er zu ihm: „wenn irgend I20 Dich noch Küpriens holde Gaben erfreuen, so hemme, Poseidaon, Oi- nomaos eherne Lanze, führe mich auf beflügeltem »35 Wagen in Elis Gefilde, und verleih mir den Sieg. Denn dreizehn der liebenden Männer mordend, verschiebt er der Tochter<note type="footnote" n="*)" resp="gnd-116890657"><hi>V „Ewig — ihm" verbessert aus „Unermüdet strebend vom Haupt ihn zu wälzen, misset er".</hi></note></p>
+
+               <p>3. Epode. Heirath. Zweifelvolle Gefahr sinkt 130 nicht auf des Schwächlings Haupt. Wes des</p>
+
+               <p>Todes Nothwendigkeit harret, was verzehrte — schleichend im Dunkel — der vergebens ein ruhmentbehrendes Alter, jegliches Schmukkes ^) beraubt ? Ich will 135 jezt diese Arbeit bestehen; doch</p>
+
+               <p>Du verleihe des Strebens süsses Gelingen." Sprachs, und es krönte die Bitte holde Gewährung. Ihn ehrend gab ihm der Gott den goldenen Wagen, 140 gab ihm der Rosse Gespann mit nimmer ermüdendem Flügel.</p>
+
+               <p>4. Strophe. Und er besiegte Oinomaos Macht, nahm zu des Bettes Genossin die Jungfrau, und erzeugte mit ihr sechs MS Führer der Völker, von jeder</p>
+
+               <p>Tugend sorgsam gepflegt. Jezt, an Alpheos Gestade ruhend, ehrt ihn glänzende Todtenfeier auf hocherhöhtem 150 Grabmahl, nahe am<pb n="8.22" xml:id="pbVIII22"/> fremdlingwimmelnden Altar. Weit leuchtet des ül}inpischen Kampfes Ruhm, da wo in Pelops Rennbahn der Füsse Schnelligkeit »55 wetteifernd kämpft, und die Reife arbeitseliger Stärke. Aber dem Sieger umkränzt mit heiterer Wonne i) die Palme<note type="footnote" n="*)" resp="gnd-116890657"><hi>V „ihm nahe stehend" verbessert aus „zu seinen Füssen". ^J „Schmukkes" verbessert aus „Schönen".</hi></note></p>
+
+               <p>4. Antistrophe. der Tage Ueberrest. Dieser nimmer 160 weichende Schmuk ist das Höchste, was irgend einen Sterblichen krönt. Mir aber geziemet es. Jenem in Aeolischer Weise ^) rossepreisende Siegeshymnen 165 schön zum Kranze zu flechten. Nimmer besing' ich wieder mit des schallenden</p>
+
+               <p>Hymnos Fall einen Gastfreund — soviel jezt leben — jegliches 170 Schönen so kundig, so mächtig herrschend, als er. Ein schüzender</p>
+
+               <p>Gott bewacht, Hieron, — diess ist seine Sorgfalt — Dein Streben. Wendet er plözlich sich nicht, so »75 hoffe ich, bald noch den süssren</p>
+
+               <p>4. Epode. Sieg im schnellen Wagen zu feiern; leitende Pfade des Liedes bahnend, zu Kronions hohem, sonnenreichem Gipfel ^) zu gehn. Mir 180 nährt die Muse der Pfeile stärksten mit Kraft. In</p>
+
+               <p>Andrem sind andere gross. Doch das Höchste erhebt sich den Königen. V Im Entwurf: „erhellt mit wonniger Heitre". y „in Aeolischer Weise" verbessert aus „auf Aeolischer Leyer" (im Entwurf: „Harfe"). *J „hohem, sonnenreichem Gipfel" verbessert aus „kühlen abendlichen Schatten".</p>
+
+               <pb n="8.25" xml:id="pbVIII25"/>
+               <p>Weiter schweife der Blik nicht. Dir sei in dieser schwindelnden Höhe zu wandern »85 lang noch vergönnet, und mir, mich unter die Siegerringer zu mischen, glänzend vor allen Hellenen durch der Begeisterung Weisheit.^)</p>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">Anmerkungen.</title>
+               </head>
+               <p>Ueberschrift.) Hieron, Dinomenes Sohn, Tyrann in Syrakus, trug den Sieg auf einem Reitpferde in den Olympischen Spielen in der 75. Olympiade davon, V. I. Das edelste ist das Wasser;) Diese Stelle, die jedem Leser mit Recht sonderbar vorkommen muss, wird von den Scholiasten von dem Vorrange erklärt, welchen, der Meinung der älteren Physiker, vorzüglich des Thaies, zufolge, das Wasser bei der Geogonie vor den übrigen Elementen behauptete. Denn, dieser Meinung nach, war das Wasser der Ursprung aller übrigen Elemente. Verdünnt wurde es Luft, verdikt Erde, mit dem Aether verbunden Feuer. Wie es nun vier Elemente, und vier grosse Kampfspiele — die Olympischen, Pythischen, Nemeischen und Isthmischen — in Griechenland giebt, und wie unter den Elementen das Wasser das vorzüglichste ist, so sind es unter den Spielen die Olympischen. Mir aber, gesteh ich, kommt diese weit hergeholte Vorstellungsart sehr frostig vor. Auch ist es nicht nöthig dazu seine Zuflucht zu nehmen. Das Wasser ist nicht bloss ein so nüzlicher, sondern auch, wenn man an die Klarheit der Quellen, den stolzen Ungestüm der Ströme, und das Unermessliche des Oceans denkt, ein so schöner und poetischer Gegenstand, dass ein Dichter, der es überhaupt mit den Superlativen nicht so genau nimmt, ihn wohl das schönste, edelste nennen kann. Und wenn uns diess vielleicht gemein, gar lächerlich scheint; so ist es vielleicht nur, weil die Verfeinerung unsren Geschmak verwöhnt hat. Bei den alten Dichtern, V Eine im Nachlaß Brinkmanns erhaltene Abschrift hat hier „mit" statt „durch" und Vers 1^6 „gewähre" statt „verleihe".</p>
+
+               <pb n="8.24" xml:id="pbVIII24"/>
+               <p>welche der Natur gleichsam näher waren, ist es sehr häufig, auch der gewöhnlichsten Gaben derselben mit einer Art Würde und Ehrfurcht erwähnt zu finden, und wer sich gern in den Geist jener Zeiten versezt, den werden — wenigstens meiner Empfindung nach — vielleicht gerade diese Stellen am tiefsten ergreifen. Dass diese leztere Ansicht die ist, welche man bei der gegenwärtigen Stelle wählen muss, macht die lo. Olympische Ode wahrscheinlich, wo Pindar also anhebt:</p>
+
+               <p>Zeiten giebts, wo der Measch am meisten der Winde, andre, wo er des himmelentströmenden</p>
+
+               <p>Regens, des Wolkensohnes, bedarf.</p>
+
+               <p>Eine andre Parallelstelle OL 3. v. 75. 76.</p>
+
+               <p>Wenn das Wasser den Vorrang behauptet, und unter den Schäzen das</p>
+
+               <p>Gold das ehrwürdigste ist, u. s. w.</p>
+
+               <p>klärt so gut als nichts auf, da sie bloss, und beinah wörtlich den Anfang der gegenwärtigen Ode wiederholt. V. 13 — \&amp;. (von wo — windet) Ich bin hier dem Heynischen Vorschlag gefolgt, diese Worte in eine Parenthese zu schliessen. Allein noch mehr ist alle Schwierigkeit gehoben, wenn man, statt iy.ofxevovg, oder l-/.of.ievoi, ixofievojv liest. V. 27. Säule) naoaalov eigentlich ein hölzerner Nagel. Ich habe Säule, wegen des edleren Ausdruks und in Erinnerung des Homerischen:</p>
+
+               <p>Und Pontonoos sezt ihm (dem Dämodokos) den silberbeschlagenen Sessel, Mitten unter den Gästen, an eine ragende Säule, hängte darauf an den Nagel die lieblichklingende Harfe u. s. f.</p>
+
+               <p>Odyss. VIII. 65—67.</p>
+
+               <p>gewählt. V. 28. Pisas) Einige geben Pisa als einen eignen Ort, andre bloss als den alten Namen von Olympia an. Wahrscheinlich verhielt sich die Sache folgendergestalt : Pisa und Olympia waren zwei verschiedne, aber nah an einander belegne Orte. Pisa war der ältere, und gieng unter. Olympia bestand anfangs bloss aus dem Jupiterstempel und den übrigen dazu gehörigen Gebäuden, er- weiterte sich aber nachher auf den Trümmern von Pisa. Daher denn die Verwechslung.<pb n="8.25" xml:id="pbVIII25"/> V. 29. Pherenikos) Der Name des Pferdes, welches dem Hieron. den Sieg verschafte. Bakchylides sang von ihm:</p>
+
+               <p>An dem wirbelreichen Alpheus siegte der goldhaarige Pherenikos im winderreichenden Laufe. V. 37. 38. Lydischen Pelops — Pflanzvolk) die Bewohner des Peloponnesus, welcher von Pelops den Namen erhielt. Die Fabel von Pelops, deren Pindar hier und in der Folge erwähnt, und der er widerspricht, ist bekannt. V. 63. Sipylos) Eine Stadt in Lydien am Fuss des Berges gleiches Namens, welcher sich durch einen Theil von Lydien und Phrj^gien erstrekte. Die Stadt hiess ehemals Tantalis und gieng durch ein Erdbeben unter. V. 92. jenen gewaltgen Fels) Pausanias erzählt, auf einem Gemähide im Delphischen Tempel den Tantalus mit einem über seinem Haupte hängenden Felsen gesehn zu haben. Auch diess Beispiel beweist, wie wenig sich die Dichter, bei Erzählung der Gattungen und der Ursachen der Strafen der Verbrecher in der Unterwelt, gleich bleiben. V. 95. Mit dreien der vierte) Welcher Lesart man hier folgen mag, Ti.Taqxov oder xeraoTog^ so bleiben allemal Schwierig- keiten übrig. Nach der ersteren heisst die Stelle : neben drei Qualen duldet er diese, die vierte. Unter den dreien verstehen dann die Scholiasten, nach andren noch ungereimteren Meinungen, vorzüglich das Dürsten, Hungern, und Stehen. Allein nach Pindars Erzählung leidet Tantalus nur Eine Strafe, den über ihn hängenden Stein. Heynes Erklärung, der Ausdruk heisse bloss: ohne Unterlass, immerfort, scheint gleichfalls hart da die Worte nicht gut auf Eine, nur immer dauernde Qual gezogen werden können. Es bleibt daher nur noch die andre, von mir gewählte Lesart übrig, nach welcher Pindar andrer Verbrecher erwähnt. Die Scholiasten nehmen den Ausdruk in diesem Sinn für bestimmt, und deuten auf Sisyphus, Lxion, und Tityus. Allein wäre es nicht besser ihn — wie die Zahl Drei vorzüglich öfter von Dichtern gebraucht wird — unbestimmt zu nehmen, und wäre nicht das der eigentliche</p>
+
+               <pb n="8.26" xml:id="pbVIII26"/>
+               <p>Sinn der Stelle: zugleich mit andren erduldet er in der Unterwelt eine Strafe für seine Vergehungen? V. io6. den Sohn) Pelops. V. III — 114. nach der bereiten — erringen) Oenomaus, Sohn des Mars, König von Elis und Pisa, hatte vom Orakel gehört, dass ihn sein Schwiegersohn tödten würde, und wollte daher niemandem seine Tochter Hippodamia zur Ehe geben, als der ihn im Wagenrennen besiegen würde. Da er diese Bedingung bekannt gemacht hatte, bewarben sich viele um den Preis. So oft nun Oenomaus ein Wagenrennen anstellte, Hess er seine Tochter mit seinen Pferden von seinem Wagenlenker, Myrtilus, fahren, folgte dem Freier von fern, und durchbohrte ihn mit der Lanze, sobald er sah, dass er gewinnen würde. Pelops aber bestach den Myrtilus, dass er den Wagen des Oenomaus auf eine künstliche Weise mitten im Fahren zerbrechen</p>
+
+               <p>Hess, und erhielt so den Sieg. Pindar, um Pelops Ruhm zu erhöhen, schreibt den Sieg nicht dieser List, sondern den Pferden zu, die Neptun dem Pelops gegeben. V. 127. dreizehn) Die Scholiasten nennen diese, aber nicht auf eine übereinstimmende Weise. V. 144, 145. sechs) Unter diesen sind Atreus und Thyest. üeber die übrigen, minder merkwürdigen sind die Erklärer nicht einig. V. 148. 149. glänzende Todtenfeier) Die Eleer verehrten, wie unter den Göttern am meisten den Zeus, so unter den Helden vorzüglich den Pelops, und in dem heiligen Haine Altis war ein eigner geweihter Plaz, welcher das Pelopion hiess. Nach dem Scholiasten Demetrius geisselten sich die mannbaren Jünglinge jährlich an seinem Grabmahl, und brachten ihm gleichsam ein Opfer ihres Bluts. V. 162. Jenem) dem Hieron. V. 163. auf Aeolischer Harfe) im Aeolischen Modus. V. 175. 176. hoffe ich — feiern) Diesen gehofften Sieg im Wagen erhielt Hieron wirklich in den Pythischen Spielen in der 29. Pythiade, und Pindar besingt ihn in der i. Pythischen Ode. V. 178. Kronions) Ein Berg und Vorgebirge in Elis, nahe bei Olympia.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

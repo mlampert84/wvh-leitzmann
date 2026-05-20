@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Erwiderung auf einen Aufsatz von Guido Görres</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Siebenter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif0702humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1907">1907</date>
+                  </imprint>
+                  <biblScope unit="page" from="645" to="652"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="7.645" xml:id="pbVII645"/>
+            <head>
+               <title type="main">ig. Erwiderung auf einen Aufsatz von Guido Görres.</title>
+            </head>
+            <p>Herrn Görres Bemerkungen haben mir wegen des daraus sichtbar hervorleuchtenden Scharfsinnes und wegen der Sorgfalt, mit welcher er in die feinsten Nuancen der Ideen eingeht, sehr viel Vergnügen gemacht. Seine Einwendungen gegen einige Stellen meiner Abhandlung scheinen mir dennoch aber von der Art, dass sie sich durch nähere V^erständigung, ohne Eintrag der von mir vorgetragenen Behauptungen, heben lassen.</p>
+
+            <p>Das Wichtigste in Herrn Görres Aufsatz hat mir das über das zweifache in der Sprache vorkommende grammatische Ver- hältniss Gesagte geschienen.</p>
+
+            <p>Es soll nemlich ein eigentliches grammatisches Verhältniss geben, das im Grunde das Verhältniss der Gegenstände selbst ist, und ein uneigentliches zwischen dem das eigentliche Verhältniss und dem die Sache bezeichnenden Wort. In e-tiboa, ich-durch soll das erste, nicht aber das zweite liegen. In per portani liegen, wenn ich den etwas dunkel ausgedruckten Unterschied recht verstehe, beide: das eigentliche in per und porta, das uneigentliche in der Accusativendung portam. Das uneigentliche findet Herr Görres nicht immer in der Sprache, sondern nur da, wo das eigentliche Verhältniss einen eignen Ausdruck ^) erhält.</p>
+
+            <p>Sondre ich alles rein und bloss Logische von der Sprache ab, so kann ich in dieser nur Ein grammatisches Verhältniss finden, nemlich das jedes Worts zu dem Ganzen und den Theilen des Satzes. In per portam im Gegensatz mit c-tiboa liegt nicht ein</p>
+
+            <p>Handschrift (G halbbeschriebene Folioseiten, ohne Titel) im Archiv in Tegel.</p>
+
+            <p>y Nach „Ai4sdriick" gestrichen: „in der Sprache".<pb n="7.646" xml:id="pbVII646"/> neues Verhältniss, sondern nur ein Ausdruck mehr desselben Verhältnisses. Dieser Ausdruck beweist, dass die Spracherfinder des Lateinischen die Verknüpfung des Substantivs mit der Praeposition energischer und diese letztere gewiss nur als Verhältnissbegriff gedacht haben. Denn wenn wir ä'doa mit durch übersetzen, müssen wir nicht vergessen, dass der scharfe Begriff der Praeposition, welcher in durch liegt, dem ä'öoa gewiss ebenso fehlt, als Rücken (welches mehrere Sprachen für pos^ gebrauchen) und hinter gewiss nicht dasselbe sind.</p>
+
+            <p>Ich glaube p. 7.^) die Beispiele e-tiboa und l-cinam ganz richtig zusammengestellt zu haben. Denn beide bezeichnen Begriffe ohne bestimmten Ausdruck ihrer Verbindung, was für meinen Zweck an der angeführten Stelle hinreicht, wenn es auch wirklich noch andre Verschiedenheiten zwischen beiden Ausdrücken geben sollte.</p>
+
+            <p>Herr Görres unterscheidet genauer. Er tadelt bei der Anführung von l-cmani:</p>
+
+            <p>1. dass ich darin das dem Verbum EigenthümHche der Verbalbeschaffenheit vermisse, da doch nur die Beschaffenheit eines ein- zelnen Theils des Verbum darin fehle.</p>
+
+            <p>2. dass in e-tiboa nur das uneigentliche, in l-cmani aber auch ein eigentlich grammatisches Verhältniss fehle.</p>
+
+            <p>Zu I. muss ich bemerken, dass Herr Görres wohl übersehen hat, dass cmani gar nicht nothwendig ein Infinitiv ist, sondern ebensowohl (wie ich ausdrücldich anführe) Wunsch oder wünschen heisst, und dass (wie ich gleichfalls ausdrücklich sage) / nicht nothwendig ein Personalpronomen ist, sondern auch eines des Besitzes seyn kann. Wenn also l-emani ebensowohl sutmi dcsidcniim, als ille desidcrarc heissen kann, so muss ich wohl da, wo es ille desiderat auszudrücken bestimmt ist, nicht bloss die Beschaffenheit eines Theils des Verbum, sondern die ganze Verbalbeschaffenheit selbst hinzudenken. Man trägt auch hier wieder, dünkt mich, ein zu bestimmt grammatisches Denken in ein sich noch gar nicht so grammatisch bewusstes über. Dem Amerikaner fehlt in der Deutlichkeit seines Denkens darum nichts, dass Wunsch und wünschen, Substantiv und Infinitiv, er und sein, in seiner Seele zusammenfallen.</p>
+
+            <p>Bei dem zweiten Einwand gebe ich gern zu, dass das Beispiel</p>
+
+            <p>V ygl- Band 4, zgi.<pb n="7.647" xml:id="pbVII647"/> l-emani allerdings von dem andern in verschiedenen Punkten abweicht, ich finde aber, auch bei der unpartheiischsten Untersuchung, nicht, dass ihm gerade dasjenige fehle, was es an der Stelle, wo es steht, passend macht. Sonst wäre es leicht mit einem andren zu vertauschen. Das eigentlich grammatische Verhältniss, dessen Bezeichnung Herr Görres in c-tiboa antrifft, dagegen in l-eniani vermisst, scheint mir, um in seine Vorstellungsart einzugehen, in dem Pronomen oder vielmehr der Person zu liegen. Denn so wie das Verbum vim praedtcmidt ausüben soll, ist die Hinzufügung der Person unerlasslich, und wieder findet sich die Person (die man nicht mit dem Pronomen überhaupt verwechseln darf) nur da, wo diese vis praedicandi thätig ist.</p>
+
+            <p>Bei diesem zweiten Punkt aber entwickelt Herr Görres Ideen über das Verbum, denen ich nicht beistimmen kann, und die auch dergestalt von den angenommenen (namentlich den Bernhardischen) abv&gt;'eichen, dass es doch gut wäre, vor der Aufstellung neuer, erst diese zu widerlegen.</p>
+
+            <p>Herr Görres erklärt nemlich das ganze Verbum bloss als die Synthesis des Praedicats mit dem Subject, und findet diese Synthesis substantivisch im Infinitiv, adjectivisch im Participium, und drittens in dem, was er Conjugation nennt, wo aber der Ausdruck: flec- tirtes Verbum richtiger seyn würde, da man sonst Infinitiv und Participium unnöthigerweise von der Conjugation ausschliesst. An einer andren Stelle sagt Herr Görres, noch mehr in Widerspruch mit meiner ^^orstellungsweise : der Begriff des Seyn (das Hülfsverbum esse, ehca) drückt im Allgemeinen die Synthesis des Praedicats mit dem Subject aus. Dies alles scheint mir über den Begriff des ^'erbum weder vollständig, noch genau.</p>
+
+            <p>Der Grundbegriff des Verbum ist gar nicht der der S^'nthesis des Praedicats mit dem Subject, sondern der des Handelns (worunter das Leiden begriffen ist), Wirkens, Bewegens. Was wir in der Natur vor unsren Augen sehen: Dinge, Beschaffenheiten, Handlungen, das bedingt auch die drei grossen Abtheilungen der Sprache: Substantivum, Adjectivum, Verbum. Diese Grundidee darf man auf keine Weise verlassen.</p>
+
+            <p>Allerdings liegt aber darin noch nicht das ganze Verbum, wie es in der Sprache erscheint. Das Handeln, Wirken, Bewegen wird zuerst in ihr, als Attributivum, aber als eigne Gattung des Attri- butivum, als Participium, gedacht. Im Participium kann ich gar<pb n="7.648" xml:id="pbVII648"/> keine Synthesis des Praedicats mit dem Subject erkennen. Es ist ja selbst bloss ein Praedicat. Denn dass das Participium einem Substantiv beigelegt werden kann und beigelegt wird, kann ich nicht Synthesis, wenigstens nicht in dem Sinne nennen, in welchem die Grammatik diesen Begriff fordert.</p>
+
+            <p>Da der Infinitiv (über den ich mich in der Indischen Bibliothek weitläuftiger erklärt habe,^) und von dem ich mit Vergnügen sehe, dass auch Herr Görres ihn ganz richtig zum Verbum zählt) vom Participium ausgeht, so theilt er auch hierin dessen Natur.</p>
+
+            <p>Aus der Verbindung des Begriffs des S e y n s mit dem Participium, oder anders ausgedruckt, durch das (wie Herr Görres sehr gut sagt) existentielle Setzen entsteht das flectirte Verbum, nach Herrn Görres die Conjugation. Dieses nun entspricht ganz eigentlich der Copula im Urtheil, und in ihm liegt die wahre Synthesis des Praedicats mit dem Subject. Es ist also insofern vollkommen richtig, dass die wesentliche Beschaffenheit des Verbum in dieser Synthesis besteht. Da aber dieselbe aus einer Verbindung des Seyns mit dem Participium (als einem Theile des Verbum) hervorgeht, so kann sie nur im Ganzen, nicht im Theile gefunden werden. Der Begriff des Se3'ns, im Allgemeinen und für sich allein genommen, druckt, dünkt mich, nicht nothwendig diese Synthesis, sondern nur die in ihm liegende metaphysische Bedeutung aus.</p>
+
+            <p>Diese Verbindung des Praedicats mit dem Subject vermittelst des Se3^ns kann aber dann allerdings auch substantivisch: das bewegt Seyn, und adjectivisch: bewegt seyend genommen werden.</p>
+
+            <p>In der andren, von Herrn Görres erwähnten Stelle meiner Abhandlung {p. i6.)^) habe ich bloss sagen wollen, dass, so wie man aufhört eine wahre grammatische Form, auch der höchst gebildeten Sprachen, als Form anzusehen, und sie als eine Zu- sammenfügung bedeutsamer Elemente betrachtet, man immer das wahrhaft Grammatikalische hinzudenken muss. Dass ich nun die wahre Verbalbeschaflfenheit nicht mit Herrn Görres in dem Begriff des Seyns für sich finden kann, erklärt sich aus dem oben Gesagten. Meine wahre Meinung über den p. i6. berührten Punkt, i; Vgl Band 4, 384- V Vgl. Band 4, 2gg.<pb n="7.649" xml:id="pbVII649"/> die aber vielleicht in meiner Abhandlung nicht klar genug ausgedruckt sevn mag. ist eigentlich folgende.</p>
+
+            <p>Im Grunde existirt alle Grammatik (von dem lexikalischen Theil der Sprache gilt dies auf andre Weise) bloss im ^'erstände der Redenden. Die Rede selbst enthält nur Andeutungen davon. Alle Grammatik muss also hinzugedacht werden. Solange nun die grammatischen Andeutungen in der Rede sämmtlich lexikalisch bedeutsam, und keine andre, als solche, in der Rede enthalten sind, ist dies Hinzudenken ein wahres Hinzudenken, da den hinzugedachten grammatischen Beziehungen keine streng grammatische Andeutung entspricht, und zwischen allem lexikalisch Bedeutsamen immer für das Zusammendenken Lücken bleiben. Es entsteht also da das bis ins UnendUche gehende Einschachtelungssystem, von dem Herr Görres und ich reden. Erst die wahre gramma- tische Form zerschneidet diesen Gordischen Knoten. Sie lässt keine lexikalische Erklärung zu, oder der Geist weist jede solche Erklärung zurück, sie ist wahre grammatische Andeutung, und wird als solche genommen, sie füllt also wahrhaft die zwischen dem Lexikalischen bleibenden Lücken, und das Fordern von Andeutungen und Erklärungen, das vor ihrem Entstehen ins Unendliche geht, findet bei ihr seinen Endpunkt. Ueber diese Innerlichkeit der Grammatik, wenn der Ausdruck erlaubt ist, so wie über einige andre hier berührte Punkte linden sich noch weitere Ausführungen in dem in Paris von mir und Herrn Landresse erschienenen Supplement a la grammaire Japonoise du Pere Rodrigue^}) das Schlegel höchst wahrscheinlich besitzt.</p>
+
+            <p>Die vorsiehende Abhandlung polemisiert gegen einen handschrißlichen Aufsatz des jüngeren Görres, der folgendermaßen lautet :</p>
+
+            <p>„In der Abhandlung über das Entstehen der grammatisdien Formen und ihren Einßuß auf die Ideenentwicklung heißt es pag. j: Die grammatischen Verhältnisse .... hinzugedacht.</p>
+
+            <p>Dies letzte Beispiel scheint mir nicht zu passen. Bei wiederholtem Durchlesen haben sich mir immer zwei Einwendungen aufgedrungen, die, sollten sie gegründet sein, nicht imwichtig durch die daraus folgenden Schlüsse sind. Zuvor aber scheint es notwendig, die zwei Arten grammatischer VerJiältnisse, welche in der Sprache vorkommen, gänzlich als ihrem Wesen nach verschieden von einander</p>
+
+            <p>V Vg^- Band 5, 242 Anm.<pb n="7.650" xml:id="pbVII650"/> abzusondern. Das eigentliche und wahre grammatische Verhältnis entspricht in der Vorstellung der Verknüpfung oder dem Verhältnis der Gegenstände selbst; wird nun aber dieses sich auf die Sache selbst beziehende Verhältnis durch ein eigenes, isolirt stehendes Wort ausgedrückt, so entsteht ein zweites, uneigentliches grammatisches Verhältnis zwischen dem das eigentliche Verhältnis imd dem die Sache bezeichnenden Wort; es muß nämlich ausgedrückt sein, daß beide sich auf einander beziehen. Vielleicht wird für dieses zweite Verhältnis der Name Wortverhältnis oder Verhältnisverknüpfung passen.</p>
+
+            <p>In dem ersten Beispiele nun, e-tiboa, ich durch, hat das eigentliche gram- matische Sachverhältnis in der Präposition seinen Ausdruck, nicht aber das Wortverhältnis ; dass nämlich die Präposition sich auf das Pronomen bezieht, ist nicht ausgedrückt.</p>
+
+            <p>Ganz anders aber scheint mir die Sache sich im zweiten Beispiel zu verhalten; denn heißt 1-emani ich-ivünschen, so kann ich die zwei Einwendungen nicht abweisen: erstens, daß hier im Infinitiv nicht, wie der Verfasser behauptet, das dem Verbum Eigentümliche, die Verbalbeschaffenheit, sondern nur die Beschaffenheit eines einzelnen Teils des Verbums hinzugedacht werden müsse; zweitens, sei dies nun die Verbalbeschaffenheit selbst oder nicht, so ermangele ein eigentlich grammatisches Verhältnis (nicht die bloße Wortverknüpfung wie in e-tiboa^ seines Zeichens, was doch ausgedrückt sein müßte, wenn das Beispiel gerecht sei7i sollte ; denn es heißt ja: insofern alsdann den grammatischen Verhältnissen doch ein be- stimmter Ausdruck eigen ist.</p>
+
+            <p>Was das erste betrifft, heißt 1-emani er-wünschen, so ist die Verbalbeschaffenheit, welche allerdings in der Synthesis des Prädikat mit dem Subjekt besteht, doch im Infinitiv ausgedrückt. Die Synthesis des Prädikat mit dem Subjekt ist das Charakteristische des Verbums überhaupt, alle seine Teile drücken sie aus, nur auf dreifach verschiedene Weise. Der Infinitiv substantivisch, so daß von ihm selbst wieder etwas prädiziert werden kann, das Partizip adjektivisch, so daß die beigelegte Akzidenz selbst wieder Prädikat werden kann, imd drittens endlich drückt derjenige Teil, welcher Personen hat (die conjugatioj, realiter die Synthesis aus; er spricht aus: die Akzidenz ist in der Substanz. Das Prädikat wird hier nicht als verbimden jnit dem Subjekt dargestellt, sondern die Handlung unsres Geistes, der das Drinsein einer Akzidenz in der Substanz wahrnimmt und sie ihr also verbindet, als ein Urteil ausgesprochen. Und zwar geschieht die Synthesis immer auf eine existentielle Weise; ich sage: die Akzidenz ist in der Substanz. Durch die vis praedicandi also, ohne die kein Satz formiert werden kann, und nicht durch die eigentliche Synthesis unterscheidet sich die conjugatio voti den Infinitiven imd Partizipien; denn wenn ich sage: scio te esse magnum, so ist dieses esse das Zeichen für die Synthesis des Prädikat und Subjekt, ebenso als wenn ich sage: video te amare — video te esse amantem. Der Unterschied liegt einzig darin, daß hier die Copula substantivisch dargestellt ist, in amas oder tu es amans dagegen sub forma judicii. Hinsichtlich des Begriffs haben diese drei verschiedenen Darstellungsarten der Synthesis durch das Verbum ganz gleichen Umfang und Bedeutung; denn der Infinitiv und das Partizip können ebenso gut wie die conjugatio tempora und modos haben, wenngleich die Sprachen, dem nächsten Bedürfnis folgend, den Teil, welcher das eigentliche Judicium ausdrückt, vorzüglich ausgebildet haben und sich für die übrigen der Umschreibimgen bedienen.</p>
+
+            <pb n="7.651" xml:id="pbVII651"/>
+            <p>von Guido Görres. 6^1</p>
+
+            <p>Die vis praedicandi der conjugatio ist also ein eigentlich grammatisches Verhältnis, das in 1-emani, er-wünschen, keine bestimmte Bezeichnung hat; die Syn- thesis ist substantivisch ausgedrückt; das Verhältnis, welches im ersten Beispiel die Pi'äposition tiboa ausdrückte, ist hier nicht gehörig bezeichnet; wäre es bezeichnet, aber so, daß die Verknüpfung des dieses Verhältnis bezeichnenden Worts (oder Form) keinen Ausdruck hätte, dann erst würde das Beispiel hierhin passen. Dies würde der Fall sein, wenn es eine Sprache gäbe, die eine eigene, vom Infinitiv imd Partizip verschiedene Form für den Teil des Verbums hätte, welcher die vis praedicandi enthält, ohne aber zugleich zu bezeichnen, worauf sie sich bezöge; alsdann stünde das grammatische Verhältnis unverknüpft neben dem die Sache bezeichnenden Worte, gerade wie oben die Präposition neben dem imßektierten Nomen.</p>
+
+            <p>Hiermit steht aber in genauster Vei'bindimg eine andre Stelle dieser Ab- handlung, wogegen sich mir dieselben Einwendungen aufgedrängt.</p>
+
+            <p>Es wird nämlich pag. i6 gesagt: Wenn man daher genötigt ist .... eingeschachtelt liegen kann.</p>
+
+            <p>Mir scheint nicht, daß man das eigentliche grammatische Verhältnis weder überhaupt [im Hilfsverbum) noch in den echten grammatischen Formen, wenn sie aus Anfügung entstanden sind, hinzudenken müsse. Der Begriff des Sein (das Hilfsverbum esse, sii^ai) drückt im allgemeinen die Synthesis des Prädikat mit dem Subjekt aus; die conjugatio zeigt an, daß diese Synthesis sub forma judicii gedacht werden müsse; die Person endlich bezeichnet die Verknüpfung dieses Verhältnisses mit der Sache, worxiuf es sich bezieht. Wenn ich z. B. sage: er ist gegangen, so hat hier alles seine Bezeichnung : das Hilfsverbum sein drückt die Synthesis aus; dass diese nun aber weder substantivisch noch adjektivisch, sondern eigentlich verbauter zu nelimen sei, drückt die conjugatio aus; hierdurch ist das eigentliche grammatische Verhältnis, worin er zu gegangen steht, bezeichnet; ferner ist das tempus ausgedrückt, indem es heißt ist, nicht war oder wird sein, und endlich auch das uneigentliche grammatische Verhältnis oder die Wortverknüpfung durch die dritte Person, welche anzeigt, daß die verbale Synthesis sich auf das Pronomen er beziehe. Es sind also hier alle Verhältnisse ebenso wohl ausgedrückt, als wenn die Präposition dem ßektierten Nomen beigefügt wird, wo nichts, wie mir scheint, hinzugedacht werden muß. W^enn nun, was der Verfasser zuzugeben geneigt ist, die Formen im lateinischen und griechischen Verbum aus Anfügung des Hilfsverbum zusammengesetzt sind, so wird, wie mir scheint, das eigentliche grammatische Verhältnis, d. h. die Synthesis des Prädikat und Subjekt, i. e. die copula sub forma judicii ursprünglich (was aber durch das Abschleifen und Verwachsen des Gebrauclis imdeutlich geworden) nicht hinzugedacht werden müssen; sie ist durch die conjugatio der Copula esse ausgedrückt. Ist dies Verhältnis einmal bezeichnet, so ist es hinlänglich; das ins Unendliche gehende Einschachtelungssystem aber wird sich, wenn ich nicht irre, nur auf die Wort- oder Verhältnisverknüpfung beziehen, indem man sagen könnte, daß, wenn ein bestimmtes Zeichen da ist, um anzudeuteyi, das ein Verhältnis bezeichnende Wort gehe auf diesen Gegenstand, eben dieses Verknüpfungszeichen (wenn es isoliert steht) wieder eines eigenen Zeichens bedürfe, welches seine Verknüpfung mit dem Verhältniswort andeute, und so ins Unendliche fort."</p>
+
+            <p>Verfasser dieser Bemerkungen ist Guido Görres, Josef Görres' Sohn, der in der Mitte der zwanziger Jahre in Bonn philosophischen, philologischen und<pb n="7.652" xml:id="pbVII652"/> sprachwissenschaftlichen Studien unter Windischmann, Welcher und Schlegel oblag. Der Aufsatz ist wahrscheinlich 1826 geschrieben und kam durch Welcher n Humboldts Hände, der während eines Landaufenthalts in Burgörner im Januar 1821 seine Gegenbemerkungen abfaßte (an Welcher, 28. Januar 1827). Auch in einem früheren Briefe erwähnt Humboldt, daß Görres zu den Leuten gehöre, die leichtsinnig neue Theorien aufstellten, ohne die älteren zu prüfen imd zu widerlegen; zum Schaden der Sache sei er in seiner falschen Theorie vom Verbum von den richtigen Begriffen Bernhardis abgegangen (an Welcher 10. Oktober 1826).</p>
+         </div>
+      </body>
+   </text>
+</TEI>

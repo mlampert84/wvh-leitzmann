@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>über die Stellung und die Befugnisse der Oberpräsidenten</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zwölfter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif1201humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1904">1904</date>
+                  </imprint>
+                  <biblScope unit="page" from="189" to="195"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="12.189" xml:id="pbXII189"/>
+            <p>Bei dieser Frage kommt es für jetzt bloss auf die Feststellung des Princips an, da über die Zeit und Art der Ausführung in den genannten Provinzen bei der 3. Frage bestimmt werden wird.</p>
+
+            <p>3. Frage. Soll im ersten Fall die Einführung des neuen Systems (so wie die Frage ad i für die westlichen Provinzen gestellt war) auch in den ösdichen Provinzen sobald geschehen, als die verwaltende Behörde erklärt haben wird, dass es wegen des finan- ciellen Interesses und der dabei eintretenden administrativen Hindernisse möglich sei.'^</p>
+
+            <p>4. Frage. Erhebt der Staatsrath Einwendungen gegen die beiden Tarife und den vorgelegten Gesetzentwurf, oder erklärt er beide in ihrer gegenwärtigen Fassung für annehmbar.^</p>
+
+            <head>
+               <title type="main">XXIX. über die Stellung und die Befugnisse der Oberpräsidenten.</title>
+            </head>
+            <p>4. Juni 1817. (Eigenhändiger Entwurf in Tegel; Abschriften dort und im Geh. Staatsarchiv ; gedruckt in Forschungen zur brandenburgischen und preußischen Geschichte, XII, S. 234ff.)</p>
+
+            <p>Die Oberpräsidenten hatten sich am 27. März i8ij an den König mit der Bitte gewandt, „daß das Verhältnis der Oberpräsidenten sowohl zu den Ministern als zu den Regierungen fest begründet und den Obctpräsidenten die Mittel ge- währt werden, um ihre genau zu bestimmenden Pflichten wirklich ausführen zu können'^. In der Erörterimg dieses Gegenstandes, über den Klewiz, Rother und die Oberpräsidenten selbst ihre Ansichten darlegten, hat Humboldt die folgende Denkschrift verfaßt. Er erklärt in einem Begleitschreiben dazu, daß er nicht in die Details eingegangen sei.</p>
+
+            <p>Wenn man den Oberpräsidenten eine wirklich zweckmässige Stellung geben will, muss man, meinem Ermessen nach, gänzlich von dem bisher eingeschlagenen Wege abgehen. Den Haupt<pb n="12.190" xml:id="pbXII190"/>beständigen Commissarien der Minister in den Provinzen. Ausser- dem haben sie wolil eine Controlle über die Verwaltung, sind aber schlechterdings nicht in die wahre Lage gesetzt, um sie wirklich auszuüben. Endlich sind sie Präsidenten einer einzelnen Regierung und Chefs der Consistorien und Medicinalbehörden. Besonders ausgesprochen war in dem bisherigen Gesetz,*) dass sie keine Zwischeninstanz bilden sollten. Diesen Allem liegt, wie man leicht sieht, kein fester und bestimmter Begriff zu Grunde; die Oberpräsidenten besitzen nicht das gehörige Ansehen und den gehörigen Wirkungskreis, um der Provinz im ganzen und wahr- haft nützlich zu sein, und doch können die Provinzen dagegen auch nicht in den Regierungen oder den Ministerien ihren wahren Schutz und ihre Zuflucht erkennen, da die Oberpräsidenten sich zwischen beiden befinden. So leidet offenbar zugleich die Einheit der Geschäfte, die Verantwortlichkeit der Behörden und das Vertrauen des Volks. Kein Verhältniss ist recht geschieden, welches unstreitig der grosseste Vorv&gt;'urf ist, den man einer Verwaltungs- form machen kann.</p>
+
+            <p>Um einen richtigeren Begriff aufzustellen, muss m.an zuerst die Frage beantworten, wie die Provinzen verwaltet werden sollen ? Erst nachher kann sich zeigen, ob und wie es Oberpräsidenten geben muss, oder nicht? Wie die Sache jetzt liegt, so geschieht die Vervvaltung der Provinzen bis in ein grosses Detail hin von dem Ministerium und dessen Generalverwaltungen aus. Die Regierungen berichten über die speciellsten Gegenstände, die Ministerien geben ihnen gleiche Befehle und gehen durchaus in dies Detail ein; die Oberpräsidenten können keines von beiden hindern, sondern werden vielmehr selbst in den gleichen Geschäftsgang mit fortgezogen. Alles dies scheint mir fehlerhaft.</p>
+
+            <p>Das Ministerium regiert im eigentlichen Sinne des Worts, im Namen des Königs, das Ganze des Staats. Die Minister sollten sich daher auch nur mit dem Ganzen beschäftigen, und mit den Theilen nur insofern, als sie zum Ganzen gehören, nicht insofern sie abgesondert sind. Die Verv/altung der Theile, als solcher,</p>
+
+            <p>*J In der Verordnung wegen verbesserter Einrichtung der Provinzial- behörden vom ^o. April 1815. § 4: „Die Oberpräsidenien bilden keine Miitel- instanz zwischen den Ministerien und den Regierungen, sondern sie leiten die ihnen anvertr-auten Geschäfte unter ihrer besondern Verantwortlichkeit, als be<pb n="12.191" xml:id="pbXII191"/>der Provinzen, muss in den Provinzen selbst durch die Provinzialbehörden geschehen. Hieraus ergiebt sich das richtige ^^erhäh- niss sehr natürlicii und einfach: das Ministerium bestimmt nicht nur die allgemeinen Grundsätze der Verwaltung, sondern auch die für die einzelnen Provinzen daraus herfliessenden besonderen Massregeln, und zwar letztere, soviel es geschehen kann, im Voraus in jährlichen Festsetzungen oder, jedoch nur da, wo eintretende Umstände es nöthig machen, augenblicklich. Die Provinz! albehörde verwaltet die Provinz nach diesen Grundsätzen und mit genauer Ausführung dieser Massregeln. Sie legt darüber dem Ministerium Rechenschaft ab, und dieses führt die Controlle über sie, aber nur dergestalt im ganzen und grossen, dass es bloss bei offenbaren oder vermutheten Mängeln oder Fehlern ins einzelne eingeht. Bei der Verwaltung ist die Provinzialbehörde , wenn sie nur den ihr vorgeschriebenen Zweck erfüllt, durchaus frei, und lässt eben so wieder dem Ministerium die nöthige Müsse, seinen noch wichtigeren Geschäften nachzugehen. Wenn die Provinzialbehörde zu verwalten bestimmt ist, so heisst das aber nicht, dass sie bloss die ihr ein für allemal , oder einzeln zukommenden Weisungen befolgen, und die einzelnen Geschäfte, wie sie entstehen, abwickeln soll, sondern Verwalten, als Behörde einer Provinz, hat einen ganz andern Begriff. Es heisst unablässig mit Gedanken und That bemüht sein, von der genauen Kenntniss der natürlichen und Culturkräfte ausgehend, dieselbe in beständiger Beziehung auf den ganzen Staat dergestalt zu erhalten und zu verbessern, dass ihr Zustand mehr befriedigend und der Zusammenhang mit dem Ganzen fester und enger werde. Von dieser Seite tritt die Provinzialbehörde mit der Centralbehörde, dem Ministerium, in die genaueste Berührung, indem sie derselben Vorschläge macht, und durch sie die Bedürfnisse und Zwecke des Ganzen, welchem sie den Theil anpassen soll, kennen lernt. Beide Behörden kommen in dem gleichen Bestreben, nur von verschie- denen Punkten aus, zusammen, und das Resultat wird dadurch vollständig, dass nur die Provinzialbehörde den Teil gründlich und genau kennen, nur die Centralbehörde die Uebersicht des Ganzen besitzen kann.</p>
+
+            <p>Um nun auf die Oberpräsidenten zurücl'LZukommen , ist es nur nöthig zu fragen, wie die Provinzialbehörde organisirt sein soll.^ Die Verwaltung der Provinzen ist offenbar bei den Regie<pb n="12.192" xml:id="pbXII192"/>derselben. Es fragt sich also nur, ob von dieser Regierung und ihrem Präsidenten dasjenige gelten soll, was soeben von den Pro- vinzialbehörden gesagt worden ist, oder ob mehrere Regierungen unter Einem Oberpräsidenten vereinigt werden sollen, sodass jenes Gesagte nunmehr von diesem gilt.^</p>
+
+            <p>Ehe ich zur Beantwortung dieser Frage übergehe, muss ich aber feststellen, dass ein Drittes nicht möglich ist. Wenn die Verwaltung der einzelnen Provinzen mit der Regierung des Staats gehörig zusammenpassen soll, so muss das oben auseinander- gesetzte Verhältniss nicht an seiner Reinheit und Einfachheit leiden. Die Provinzialbehörde muss eine sein und in unmittelbarer Berührung mit der Centralbehörde stehen. Sobald dies Verhältniss verletzt wird, sobald man zwischen die Regierungen und das Ministerium eine andere Behörde hineinschiebt, welche in die erstere eingreift, ohne ihr ganz vorzustehen, und sie eigentlich als Haupt auszumachen, so ist es um reine Verantwortlichkeit und reines Vertrauen geschehen, so giebt es keine Einheit mehr in der Sorge für das Wohl der Provinz, und so ist auch ihr Zusammenhang mit dem ganzen Staat verletzt, weil auch die Einwirkung des Ministeriums auf sie sich in verschiedenen Richtungen theilt. Gerade aber dies, w^as sie nicht sein sollten, sind die Oberpräsidenten jetzt, Verwalter der gesammten Provinz für gewisse, gewaltsam von den übrigen abgerissene Gegenstände, Commissarien der Minister für einzelne Aufträge, ohne dass ein einziger Grund- satz darüber feststeht, welche Aufträge allein die Minister den Provinzialbehörden geben sollten.^ Ist dagegen das obige Raisonne- ment richtig, so ist es klar, dass der Oberpräsident die obere Leitung der Gesammtverwaltung der Provinz haben muss. Wer diese ausübt, ist, wie er immer heissen möge, der That und dem Wirken nach Oberpräsident.</p>
+
+            <p>Ob dies nun, wie vorhin gefragt wurde, eine eigene Person oder der Präsident jeder Regierung sein soll, hängt erstlich davon ab, ob man so viele unmittelbar mit der Centralbehörde zusammen- wirkende Behörden haben will, als es Regierungsdepartemients<note type="footnote" n="i)" resp="gnd-116890657"><hi>ist der Präsident einer Regierung zu sehr in der Verwal- tung befangen, um mit einer solchen Freiheit über ihr zu stehen, dass er das Wohl der Provinz und ihre Stellung zum Ganzen recht vollständig beurtheilen und in Rücksicht auf beides recht zweckmässige Vorschläge machen könnte. Er hat dazu selbst zu viele materielle Geschäfte, und sollte man einwenden, dass er sich diese nöthige Freiheit durch Hilfe seiner Direktoren verschaffen kann, so ist er nicht mehr Präsident im jetzigen Sinne des Ausdrucks, und so streitet man nur um Worte. Es versteht sich daher auch von selbst, dass die Oberpräsidenten nicht mehr Präsi- denten einzelner Regierungen sein dürfen; 2) der Regierungspräsident ist immer Chef eines Collegii und an kollegialische Formen gebunden. Das Geschäft eines Leiters der Gesamtverwaltung, der die Provinz einem höheren Ziele zu- führen, ausserdem aber bei besonderen Gelegenheiten vertreten, sie schützen und für sie sorgen soll, verträgt sich mit einer solchen Form nicht;</hi></note><note type="footnote" n="3)" resp="gnd-118554727"><hi>der Regierungspräsident kann nur selten und kurz von seiner Stelle abwesend sein. Wer aber an der Spitze einer Pro- vinzialbehörde im oben festgesetzten Sinne des Worts steht, müsste nothwendig in jedem Jahre eine bestimmte Zeit zur Seite des ^Ministeriums zubringen. In dieser Zeit müssten die Etats regulirt oder durchgesehen, die neu zu nehmenden Massregeln verabredet und dahin gestrebt werden, dass die Ministerien im Laufe des übrigen Jahres, so wenig als möglich, einzelne Ver- fügungen machten. Ob diese vom Gesamtministerium ausgehen müssten oder von dem einzelnen Minister.? ist eine höchst wichtige Frage, lässt sich aber hier nicht bestimmen, weil erst höher hinauf festgesetzt w^erden müsste, was es jetzt gar nicht ist, was ein einzelner Minister für sich, was er nur mit dem ganzen Ministerium thun kann.^</hi></note><note type="footnote" n="4)" resp="gnd-118554727"><hi>es wird immer zweckmässig sein, nur eine kleine Anzahl solcher obersten Provinzialbehörden zu haben, auf welche die Ministerien unmittelbar einwirken, und daher werden immer ihre Distrikte zu gross sein, um von Einer und derselben Regierung verwaltet zu werden.</hi></note></p>
+
+            <pb n="12.193" xml:id="pbXII193"/>
+            <p>Die Vortheile einer solchen Stellung der Oberpräsidenten gehen aus dem Vorigen von selbst hervor. Die Verantwortlich- keit, worauf bei der Verwaltung des Staats Alles ankommt, ist<pb n="12.194" xml:id="pbXII194"/> einander greifend, da wirklich Minister, Oberpräsidenten und Regierungen jetzt nur immer für einzelne Massregeln, nie für einen ganzen Wirkungskreis verantwortlich sein können. Der Zusammenhang der Provinzial- und Centralverwaltung ist so eng, als er sein muss und sein kann, und die Sorge für den Theil und das Ganze ist den Händen anvertraut, welche sich derselben am besten unterziehen können. Die Bewohner der Provinzen haben Einen Mann, auf den sie sehen, der sie vertritt, und doch auf der einen Seite von dem festen gesetzmässigen Gange der Regierungen, in den er nicht eigenmächtig eingreifen darf, auf der andern von der Gewalt der Minister gehalten, sie nie willkührlich behandeln kann. Eine Zwischenbehörde würden die Oberpräsidenten nun allerdings bilden. Allein erstlich keine eigentliche Behörde, da jedem ein einziger vortragender Rath vollkommen genügte, sondern nur eine Zwischenautorität, und dann sehe ich nicht ab, wie nicht in der Stufenfolge der Staatsgewalten überall Zwischenbehörden sein müssen. Jede ist nothwendig eine solche zwischen der ihr untergeordneten, und derjenigen, von der sie selbst abhängt, und es ist davon kein möglicher Nachtheil, sondern nur Vortheil in der vermehrten Controlle, der stufenweisen Berathung der Gegenstände und der Vereinfachung der Geschäfte gegen die Spitze hin abzusehen. Dass endlich durch diese Einrichtung des Schreibens unendlich weniger werden würde, und es nicht leicht bei der Civilverwaltung ein wirksameres Mittel der Ersparung geben könnte, leuchtet von selbst ein.</p>
+
+            <p>Die Haupteinwendungen, die man dagegen erheben wird, sind unstreitig die, dass man bei diesem Plan Provinzialminister schafft und dadurch auf der einen Seite das Ansehen der Minister schwächt, auf der anderen den Regierungen Ereiheit und Kraft nimmt. Diese Besorgnisse sind aber gewiss nicht mit dem Plane selbst verbunden, sondern könnten nur durch die Schuld der Minister selbst, durch Mangel an Controlle, oder Charakterschwäche entstehen. Der Oberpräsident bleibt immer dem Ministerium ge- radezu untergeordnet, er empfängt die von demselben, jedoch in der Regel so, dass er dabei gehört worden ist, gemachten Anordnungen und muss ihm Rechenschaft ablegen. Wie könnte er aus diesem Gleise herausweichen, ohne dass die Minister selbst es verstatteten .^ Sie haben, jeder in seiner Parthie, und alle zu<pb n="12.195" xml:id="pbXII195"/>auffordern, ihnen Rede und Antwort zu stehen. Ein solches Ver- hältniss lässt sich wohl nicht mit dem eines Provinzialministers, der seine Provinz abgesondert für sich, und unabhängig vom Ministerium, bloss unter Verantwortung gegen den König verwaltet, in Vergleichung bringen. Nur ein solcher Provinzial- minister aber wäre schädlich ; in allem Übrigen streitet man bloss über Worte. Die Regierungen könnten sich ebensowenig in ihren Funktionen gehemmt fühlen. Der Oberpräsident soll die Verwaltung leiten, allein nicht in sie eingreifen, nicht selbst verwalten. Hier lassen sich nun durch die Instruktionen die Grenzen leicht ziehen, t'berschreitet sie der Oberpräsident, so steht die Be- schvk^erde bei dem Ministerio frei, ja die Controlle des Ministeriums selbst würde, ohne Beschwerde, die nöthige Abhülfe gewähren, wenn der Missbrauch irgend gross oder fortgesetzt wäre. Es ist hier schlechterdings kein anderer Fall und keine andere Gefahr, als bei jeder andern Ober-Behörde, die nie die ihr untergeordnete unterdrücken, ihr immer in der untergeordneten Sphäre die nöthige Freiheit lassen muss. Man kann endlich noch einwenden, dass die Ministerien und die Oberpräsidenten viel weniger zu thun haben werden. Allein die höchsten Staatsbeamten müssen nicht in einer Last von einzelnen Geschäften untergehen; Freiheit von Einzelheiten und Müsse sind unerlässliche Bedingungen einer Wirksamkeit, wie der Staat sie von ihnen mit Recht verlangen kann; und sie thun sehr wenig, wenn sie bloss ewig fort das Rad der Geschäfte umwälzen, wie ihnen dieselben von Tag zu Tag vorgelegt werden.</p>
+
+            <p>Dies ist meine, nicht bloss aus dem Nachdenken, sondern auch aus der Beobachtung des jetzigen Zustandes geschöpfte Meinung über diese Materie. Es ist möglich, dass ich mich darin irre, dass ich den Oberpräsidenten eine solche Stellung anweisen will. Allein das halte ich für unumstösslich gewiss, dass, wenn ihre neue nicht eine solche sein, sondern sich auch wieder auf den Begriff beständiger Commissarien, sogar der einzelnen Minister (woraus dann selbst in demselben Ministerio widersprechende Aufträge entspringen) und auf die Scheu vor Bildung einer Zwischenbehörde gründen soll, es bei weitem rathsamer ist, sie gänzlich aufzuheben.</p>
+
+            <p>Ich habe in diesem ganzen Aufsatz des Staatskanzlers nicht be- sonders erwähnt, weil ich ihn, als den Chef des Ministeriums und der ganzen Staatsverwaltung, mit dem Ministerium zusammenbegreife.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

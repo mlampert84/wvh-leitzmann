@@ -1,0 +1,748 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Über die unter dem Namen Bhagavad-Gita bekannte Episode des Mahabharata. I</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Fünfter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif05humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1906">1906</date>
+                  </imprint>
+                  <biblScope unit="page" from="190" to="231"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1825">1825</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="5.190" xml:id="pbV190"/>
+            <p>6.</p>
+
+            <head>
+               <title type="main">Ueber die unter dem Namen Bhagavad-Gitä bekannte</title>
+            </head>
+            <div type="section" n="1">
+               <head>
+                  <title type="main">Episode des Mahä-Bhärata .<note type="footnote" n="*)" resp="gnd-116890657"><hi>Die gegenwärtige Abhandlung hat keinen andren Zweck, als den, in möglichster Kürze einen treuen und vollständigen Begriff von dem oben erwähnten Gedicht, und vorzüglich von dem darin vorgetragenen philosophischen System auf eine, auch des Indischen nicht kundigen Lesern verständliche Weise zu geben. Ich habe mir daher</hi></note></title>
+               </head>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">I.</title>
+               </head>
+               <p>[Gelesen in der Akademie der Wissenschaften am 30. Juni 1825.]</p>
+
+               <p>Der Gott Krischnas, die eigentliche und vollständige Incarnation Vischnus, begleitet, nach der Dichtung des Mahä-Bhärata , den Ardschunas, den dritten und vorzüglichsten, eigentlich vom Gott Indras gezeugten Sohn Pändus, als Wagenlenker, in den Kampf</p>
+
+               <p>Erster Druck: Abhandlungen der historisch-philologischen Klasse der königlichen Akademie der Wissenschaften zu Berlin aus dem Jahre 182s S. i — 44 (18281. nur selten eine Vergleichung der Lehre der Bhagavad-Gita mit anders woher bekannten Indischen Lehrsätzen erlaubt. Ein Werk, das so reichhaltig an philosophischen Ideen ist, verdient abgesondert für sich, als ein Ganzes, behandelt zu werden, und ich glaube auch ausserdem, dass es schwerlich ein andres Mittel giebt, die mannigfaltigen Dunkelheiten aufzuklären, welche noch in der Indischen Mythologie und Philosophie übrig bleiben, als jedes der Werke, die man als Hauptquellen derselben ansehen kann, einzeln zu excerpiren, und erst vollständig für sich abzuhandeln, ehe man Vergleichungen mit andren anstellt. Genaue und vollständige, bloss in dem Sinn und der Absicht treuer und voUkommncr Darstellung des mythologischen und philosophischen Gehaltes gemachte Bearbeitungen sämmtlicher Hauptwerke der Indischen Literatur, der Vedas, des Gesetzbuchs des Manus, der beiden grossen Heldengedichte, der achtzehn Puränas und der vorzüglichsten philosophischen Lehrbücher würden eine Grundlage abgeben, alle Indischen philosophischen und mythologischen Systeme, ohne Gefahr der Verwirrung, mit einander vergleichen und zur Benutzung der übrigen Schriften und der Denkmäler<pb n="5.191" xml:id="pbV191"/> gegen die nah mit ihm verwandten Söhne des Königs Dhritaräschtras. Als Ardschunas in den Schaaren der Feinde sein eignes Geschlecht, seine Religionslehrer und Freunde erblickt, geräth er in Zweifel, ob es besser sey, dass er die, ohne welche das Leben selbst keinen Werth für ihn haben würde, besiege, oder von ihnen besiegt w^erde, verfällt in zaghaften Kleinmuth, lässt Bogen und Pfeil sinken, und fragt Krischnas um Rath. Der Gott ermuntert ihn aus philosophi- schen Gründen zum Kampf, und es entspinnt sich zwischen ihnen im Angesicht beider Heere ein Gespräch, das in achtzehn Gesängen (etwa siebenhundert Distichen) ein vollständiges philosophisches System durchläuft.</p>
+
+               <p>Colebrooke, dessen neuesten Abhandlungen in den Denkschriften der Englischen x\siatischen Gesellschaft'-) wir die ersten bestimmten und ausführlichen Nachrichten über die verschiednen Indischen philosophischen Systeme verdanken, hat dieser Episode des Mahä-Bhärata nicht erwähnt, vermuthlich weil seine Absicht darauf gieng, nur aus wirklichen Lehrbüchern der Philosophie (die aber, nach Indischer Sitte, auch in Versen abgefasst sind) und ihren Commentatoren Auszüge zu liefern. Krischnas Lehre scheint nun zwar wohl im Ganzen mit dem von Colebrooke dargestellten Systeme Patandschalis überein zu kommen, sie entwickelt sich aber auf eine ganz eigenthümliche Weise, ist, soviel übergehen zu können. Wieviel aber auch bereits hierfür geschehen ist, und von wie unschätzbarem Werthe namentlich Colebrooke's trefliche Auszüge aus den Vedäs und den wichtigsten Werken über die verschiednen philosophischen Systeme sind, so fehlt doch offenbar noch sehr viel an der Vollständigkeit dieser unerlasslich nothwendigcn Vorarbeiten, und man ist noch viel zu sehr in der Nothwendigkeit, bei dem Vortrag der Indischen Philosophie und Mythologie, Materialien aus allen Quellen mit einander verbinden zu müssen, ohne der Vollständigkeit der Benutzung der einzelnen gewiss zu seyn, und ohne jede hinlänglich einzeln in ihrer Eigenthümlichkeit zu kennen. Auch rauss man offenherzig gestehen, dass man wenigstens in den meisten Fällen im Stande seyn müssle, die vorhandnen Auszüge und Uebersetzungen mit den Originalen zu vergleichen, was bis jetzt noch theils unmöglich, theils ungemein schwierig ist. Noch lange also wird das Uebersetzen, Bearbeiten, und vorzüglich das Herausgeben der einzelnen Schriften allgemeinen Darstellungen vorangehen müssen.</p>
+
+               <p>Wegen der richtigen Betonung der Indischen Namen und Wörter erinnere ich hier, dass ich das lange a, i, u mit einem Accent bezeichnet habe, e und o dagegen nie, weil sie im Sanskrit nie kurz seyn können.<note type="footnote" n="^)" resp="gnd-116890657"><hi>„On the philosophy of the Hindus" in den Transactions of the royal asiatic Society j, ig. g2 (wieder abgedruckt in seinen Miscellaneous essays /, 22j).</hi></note></p>
+
+               <p>V ^ö^' '^^^^ hierzu Band 4, ß6o Änm.<pb n="5.192" xml:id="pbV192"/> ich zu urtheilen vermag, reiner von Spitzfindigkeit und Mysticismus, und verdient schon, da sie als ein freies Dichterwerk in das eine der beiden grossen und ältesten Indischen Heldengedichte verwebt ist, besondre Aufmerksamkeit.</p>
+
+               <p>Ich will versuchen, dieselbe hier kurz zusammenzufassen, ohne mich an die Anordnung des Originals zu binden, und ohne für jetzt darauf einzugehen, welche Vergleichungspunkte diese Lehre mit bekannten griechischen philosophischen Systemen darbietet.</p>
+
+               <p>Die beiden Hauptsätze, um welche sich das in dieser Dichtung enthaltne System dreht, sind, dass der Geist, als einfach und unvergänglich, seiner ganzen Natur nach, von dem zusammengesetzten und vergänglichen Körper geschieden ist, und dass von dem nach Vollendung Strebenden jede Handlung ohne alle Rücksicht auf ihre Folgen, und mit völligem Gleichmuth über dieselben, vorgenommen werden muss. Es sind dies die beiden natürlichsten Beziehungspunkte auf Krischnas Absicht, seinen Heldenfreund zum Kampf zu bewegen. Denn Tod und Handlungen verlieren ihr Gewicht, und werden gewissermassen gleichgültig, w^enn jener nur den ohnehin ver- gänglichen Körper trift, und diese, frei von Leidenschaft und Absicht, bloss Werk der Natur oder Gebot der Pflicht sind. Durch die bestimmte Scheidung des Geistigen und Körperlichen, und die ewig eingeschärfte Uneigennützigkeit der Handlungen aber wird reine Intellectualität die Grundlage des ganzen Systems, und, wie die Folge bestimmter zeigen wird, die Erkenntniss an die Spitze aller menschlichen Bestrebungen gestellt.</p>
+
+               <p>Die Körper der ihnen inwohnenden Seele sind endlich und veränderlich, wie die ewig strömenden Elemente, aus denen sie bestehen (II. 14. 18.), die Seele ewig, unvernichtbar, fest und unveränderlich. (II. 24. 25.) Sie verbindet sich mit neuen Körpern, wie der Mensch neue Kleider annimmt (II. 22.), wie im Körper selbst Kindheit, Jugend und Alter wechseln. (II. 13.) Diese Unver- gänglichkeit ist wahre Ewigkeit, ohne Anfang, wie ohne Aufhören. Denn die Unmöglichkeit eines Ueberganges vom Seyn zum Nichtseyn, und umgekehrt, ist ein Hauptsatz der Indischen Philosophie.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Et plures non scientes dicunt, quod mundus cum aTtifice prmum non-est fuit et deinde e T&lt;p non-est ens (existens) f actus est. O purum desiderans, ex hoc non-est ens quomodo possit fieri? hoc omne priminn ens unicum, sine simili fuit. Oupnekhat op. Anquetil Duperron. Oupn. i. Brahmen. 16. p. 52.</hi></note><pb n="5.193" xml:id="pbV193"/> Kein Grund ist eigentlich ein hen^orbringender, in jedem ist die Wirkung, gleich ewig mit ihm selbst, vorhanden.</p>
+
+               <p>Des Nichtseyenden ist nicht Seyn ; Nichtseyn ist nicht des Seyenden.</p>
+
+               <p>Die Scheidung beider durchschaut wird von den Wahrheit Erkennenden.</p>
+
+               <p>(IL i6.)</p>
+
+               <p>Darin erklart Krischnas sich, als Gott, mit den Menschen gleich.</p>
+
+               <p>In keiner Zeit ich nicht da war, du, diese Völkerfürsten, nicht, und niemals werd' ich nicht da seyn; von jetzt fortan wir alle sind.</p>
+            </div>
+
+            <div type="section" n="3">
+               <head>
+                  <title type="main">(II. 12.)</title>
+               </head>
+               <p>Mit eben dieser Vorstellungsart hängt es zusammen, dass der unvermeidlichen Nothwendigkeit des Todes die gleich unvermeid- liche Nothwendigkeit der Wiedergeburt entspricht, und das Todte nicht todt bleiben kann. Es ist daher in dieser Hinsicht gleichgültig, ob man sich die Seele als unvergänglich, oder als immer sterbend und wieder werdend denkt.</p>
+
+               <p>Wenn aber werdend stets auch du sie denkst, und wieder sterbend stets, auch also dennoch, Grossarmger, du nimmer sie bejammern musst.</p>
+
+               <p>Denn dem Werdenden steht fest Tod, fest steht Geburt dem Sterbenden.</p>
+
+               <p>Nicht zu ändernden Schicksals Loos darum du nie bejammern musst.</p>
+
+               <p>Die Geschöpfe unsichtbaren Ursprungs, sichtbarer Mitte dann, und unsichtbaren Ausgangs sind ; wie ist da Trauer, Bhäratas ?</p>
+
+               <p>Gleich einem Wunder erblickt einen jemand, gleich einem Wunder darauf spricht ein andrer, gleich einem Wunder ihn hört dann ein andrer ; doch keiner, auch hörend ihn, weiss, noch kennt ihn.</p>
+
+               <p>Die Seel' ist unverletzbar stets im Körper Jedes, Bhäratas, Darum der Wesen Allzahl auch du nimmer doch bejammern musst.</p>
+            </div>
+
+            <div type="section" n="4">
+               <head>
+                  <title type="main">(II. 26—30.)</title>
+               </head>
+               <p>Der Geist ist unsichtbar, unvorstellbar, überall hindringend (IL 25.), der Körper hat die entgegengesetzte Natur. Auf die Einfachheit und Ungetheiltheit des Geistigen werden wir aber noch einmal bei Gelegenheit der Natur der Gottheit zurückkommen. Denn der überall waltende Geist ist einer und ebenderselbe. (VIII. 20. 21. XIII. 27.) Das Handeln fesselt den Geist, indem es ihn den Bedingungen der Wirklichkeit unterwirft, und vom reinen Nachdenken abzieht. Es hat daher in der Welt von alter Zeit her zwei Systeme gegeben, des Handelns und der Erkenntniss (III. 3.), und die Beobachtung des Rechten in Absicht des Handelns ist schwer, da man sowohl auf das Handeln, als Nichthandeln achten muss. (IV. 17.) Man hat bald das eine, bald das andre vorgezogen. (XVIII. 2. 3.)<pb n="5.194" xml:id="pbV194"/> Aber die Wahrheit ist, dass das erstere vor dem letzteren den Vorzug verdient. (III. 8. V. 2.) Es kommt nur darauf an, sich von den Fesseln der Handlungen (II. 39.) loszumachen. Dies aber geschieht, wenn man alle Rücksicht auf den Erfolg verlässt, und nur handelt um zu handeln. Alsdann vereinigt man beide Systeme, vernichtet gleichsam die Handlungen, indem man sie ihrer fesselnden Natur beraubt, und handelt, mitten im Handeln, eigentlich nicht. (IV. 20. XVIII. 17.) Denn dies ist noth wendig, weil es immer wahr bleibt, dass das Handeln weit unter der Er- kenntniss steht. (II. 49.)</p>
+
+               <p>Man w^ürde aber auch umsonst versuchen, das Handeln gänz- lich aufzugeben. In keinem Augenblick kann der Mensch ohne Handlungen bleiben, sie gehen unabhängig von seinem Willen vor, und entstehen aus der Natur und ihren Eigenschaften. (III. 5.) Der Weise lässt in ihnen die Natur walten, und sieht sie, bloss in ihr vorgehend, als von sich geschieden an. (IV. 21. XIV. iq. XIII. 19. III. 28. V. 8 — 10.) Diese Behauptung der Unvermeidlichkeit der Handlungen gründet sich darauf, dass in diesem System unter Handlung alle und jede körperliche Verrichtung, eigentlich jede Veränderung der Materie verstanden wird, was wieder damit zusammenhängt, dass die Vollendung des Weisen, wie wir bald sehen werden, in die höchste Ruhe, die Vertiefung und den Uebergang in die Gottheit gesetzt wird. Eine andre Nothwendigkeit der Handlungen entsteht aus den verschieden vertheilten Pflichten der Stände, welchen jeder, selbst wenn Schuld damit verbunden wäre, getreu bleiben muss. (XVIII. 47.48.) Endlich liegt in dieser Lehre ein nothwendiger Fatalismus, da die mit der Gottheit gleich ewige Natur das Rad ihrer Veränderungen unauf- haltsam umwälzen muss, und dadurch die jedes einzelne Seyn in sich fassende Gottheit, genau gesprochen, zum einzigen wahrhaft Handelnden wird. Mit Recht kann daher Krischnas zu Ardschunas sagen:</p>
+
+               <p>Drum auf zum Schlachtkampf jetzt! erringe Ruhm dir! den Feind besiegend, gencuss Herrschaftsfülle ! durch mich vormals diese geschlagen sind schon; nur Werkzeug werde du, links gleich Geübter! Den Dronas, Bhischmas und den Dschayadrathas, Karnas, die andren des Kampfs Helden alle, die ich geschlagen, du schlag' unvcrzagend ! Auf, kämpfe, dein wird im Streite der Sieg seyn.</p>
+
+               <p>rXl. 33- 34-)</p>
+
+               <pb n="5.195" xml:id="pbV195"/>
+               <p>Nur die irdisch Verblendeten setzen den Grund ihrer Handlungen in sich, der bescheidene Weise hält nie sich für den Thäter. (XVIII. i6. XIV. 19. XIII. 29.)</p>
+
+               <p>Das Verzichten auf die Früchte der Handlungen wird auch durch ein Niederlegen der Handlungen in die Gottheit ausgedrückt. (XII. 6. III. 30. XVIII. 57.) Es befreit von den Fesseln der Handlungen (IV. 41.), und wer es übt, bleibt unbefleckt von Sünde, wie das auf dem Wasser schwimmende Lotusblatt (V. 10.) nicht benetzt wird.</p>
+
+               <p>Auf die Nothwendigkeit des Verzichtens auf die Früchte der Handlungen, und des Gleichmuths, ja der Gleichgültigkeit über ihre Erfolge kommt der Dichter fast in jedem Gesänge in mehr als einer Stelle zurück, und verbunden mit dem eben so oft wiederholten Dringen auf Handlung, bezeichnet sie unläugbar philosophisch eine an das Erhabne gränzende Seelenstimmung, und bringt zugleich eine grosse poetische Wirkung hervor.</p>
+
+               <p>Den einfachsten Ausdruck der Verzichtleistung möchten folgende Verse enthalten:</p>
+
+               <p>'ö</p>
+
+               <p>Im Handeln sey des Werths Würdgung, in den Früchten dir nie und nie.</p>
+
+               <p>Nicht sey, dem Handelns Frucht Grund ist; Sucht nicht sey nach Nichthandeln dir. Vertieften Geists, von Sehnsucht frei, so handle, Goldverschmäher, du, ob erfolgreich, erfolglos, gleich ; Gleichmuth Vertiefung wird genannt.</p>
+            </div>
+
+            <div type="section" n="5">
+               <head>
+                  <title type="main">(II. 47- 48.)</title>
+               </head>
+               <p>Auf diese Weise lösen sich Handeln und Nichthandeln vor dem Geist in denselben Begriff auf.</p>
+
+               <p>Wer sieht im Handeln Nichthandeln, im Nichthandeln das Handeln wer, unter den Menschen der weis' ist, vertieft, an alles Handelns Ziel.</p>
+            </div>
+
+            <div type="section" n="6">
+               <head>
+                  <title type="main">(IV. 18.)</title>
+               </head>
+               <p>Der Gleichmuth ist mit einem eignen Worte, der Freiheit von der Zwiefachheit, dem gelingenden oder mislingenden Erfolge, bezeichnet. Die aus Wunsch und Abscheu entspringende Verblendung dieser Zwiefachheit bringt alle Verirrungen unter den Geschöpfen hervor. (VII. 27.) Der Weise macht sich davon los, und für seinen Gleichmuth kann kein Ausdruck stark genug ge- funden werden. Nicht bloss Hitze und Frost, Vergnügen und Schmerz, Gelingen und Mislingen, Glück und Unglück, Sieg und Niederlage, Ehre und Unehre müssen ihm dasselbe seyn, auch zwischen Freunden und Feinden, Guten und Bösen muss er partheilos da stehen, gleich achten Erde, Steine und Gold. (IL 38.<pb n="5.196" xml:id="pbV196"/> VI. 7 — 9. XIL 17 — 19.) Diese seine Abgezogenheit von der Bewegung des irdischen Sej^ns, der Gegensatz, in dem er hierin mit dem grossen Haufen steht, wird in dieser, sonst bilderkargen Dichtung in mehreren Bildern geschildert.</p>
+
+               <p>Wer den Gliedern der Schildkröte gleich, zurückziehet überall die Sinne von dem Sinnreizstoff, des Geist in Weisheit fest besteht.</p>
+            </div>
+
+            <div type="section" n="7">
+               <head>
+                  <title type="main">(II. 58.)</title>
+               </head>
+               <p>Dem nie sich füllenden, unschwankend stillen Weltmeer wie einströmet der Wasser Menge, wem einströmt so aller Begierden Fülle, der Ruh' erlangt, nicht der Begierbegierge.</p>
+            </div>
+
+            <div type="section" n="8">
+               <head>
+                  <title type="main">(II. 70.)</title>
+               </head>
+               <p>Welche jedem Geschöpf Nacht ist, in der wacht der Gesammelte, in der jeglich Geschöpf wachet, ist des schauenden Weisen Nacht.</p>
+            </div>
+
+            <div type="section" n="9">
+               <head>
+                  <title type="main">(II. 69.)</title>
+               </head>
+               <p>Die reine Scheidung des Geistigen von dem Körperhchen und die Vernichtung der Handlungen führen beide, jene positiv durch die Einerleiheit alles rein Geistigen, diese negativ durch die Entfernung der Störungen, in welche das Handeln den Menschen verwickelt, zu der Erkenntniss und Anschauung der Gottheit, aus welchen die höchste Vollendung hervorgeht. Es ist daher nothwendig, gleich den Begriff richtig aufzufassen, den Krischnas, dessen Lehre nicht bloss eine philosophische, sondern ganz eigentlich eine religiöse ist, von der Gottheit aufstellt.</p>
+
+               <p>Ich werde auch hier versuchen, die Hauptsätze durch Stellen des Originals selbst zu belegen. Ich habe auf die Auswahl der- selben absichtlich grosse Sorgfalt verwandt, und wünschte sehr, dass diejenigen, welche Gegenständen dieser Art eine grössere Aufmerksamkeit schenken, die Mühe nicht scheuen möchten, diese Stellen nachzulesen , wozu auch denen , welche nicht Sanskrit wissen, A. W. von Schlegels lateinische, seiner Ausgabe der Gitä<note type="footnote" n="^)" resp="gnd-116890657"><hi>„Bhagavad-Gita, id est ßearceaiov ftelos sive almi Krishnae et Arjunae collo- quium de rebus divinis, Bharateae episodium; textum recensuit, adnotationes criticas</hi></note> angehängte Uebersetzung eine tref liehe Gelegenheit dar- bietet. Diese Uebertragung ist so meisterhaft und zugleich von so gewissenhafter Treue, von so geistvoller Behandlung des philosophischen Gehaltes des Gedichts und von so ächter Latinität, dass es ohnehin unendlich zu bedauern wäre, wenn sie bloss zum besseren Verständniss des Textes gebraucht, und nicht von et interpretalionem latinam adjccit Augustus Guilelmus a Schlegel", Bonn 182^.<pb n="5.197" xml:id="pbV197"/> allen denjenigen recht fleissig gelesen würde, die sich mit Philosophie und Alterthumskunde beschäftigen. Da wo ich einzelne Stellen selbst metrisch zu übersetzen versucht habe, muss ich mich mit Nachsicht zu beurtheilen bitten, da man noch lange nicht genug die Eigenthümlichkeiten und Feinheiten des Indischen Versbaues, sondern nur sein Sylbenmass und seine Hauptabschnitte kennt, wodurch für die wahrhaft ge- lingende Nachbildung einer Versart wenig geschehen ist. Was die Stellen an sich betrift, so habe ich durchaus nicht gerade die schönsten und gefälligsten ausgewählt, worüber das Unheil ohne- hin verschieden ausfallen dürfte, sondern, dem Zweck dieser Abhandlung gemäss, diejenigen, aus w^elchen die Eigenthümlichkeit des philosophischen Systems am meisten hervorgeht. Ich habe aus dem gleichen Grunde mit möglichster Genauigkeit Wort für Wort wiederzugeben versucht, und würde auf das Metrum gänz- lich Verzicht geleistet haben, wenn nicht eine metrische, selbst weniger gelungene Uebersetzung immer einen anschaulicheren Begriff von dem Originale gewährte. Auch kann in unsrer Sprache eine metrische Uebersetzung gerade an Treue gewinnen. Der L'ebersetzer wird durch den Rhythmus in eine, dem Original ähnliche Stimmung versetzt, die bindenden Gesetze der Sylbenzahl und Sylbenlänge machen schleppende prosaische Umschreibungen unmöglich, und schneiden die sonst leicht zu weit gehende Unschlüssigkeit über die Wahl der Ausdrücke auf eine wohlthätige Weise ab. Die in den Versen, als Anreden vorkommenden Namen Bhäratas, Pärthas, Kaunteyas, sind Sanskritisch geformte Zunamen des Ardschunas, von seinen ^'oreltern hergenommen. Zum Verständniss der hier bald folgenden Stellen muss ich bemerken, dass, wenn Krischnas, der in ihnen meistentheils der redend Eingeführte ist, von sich spricht, damit die höchste Gott- heit, oder was der Reinheit dieser Lehre besser entspricht, die Gottheit absolut gemeint ist. Krischnas begleitet den Ardschunas als Mensch (IX. ii.), als einer der Nachkommen des alten Königs Yadus, und Ardschunas, da er ihn als Gott erkennt, bittet ihn (XL 41. 42.) wegen der Vertraulichkeit um Verzeihung, mit der er mit ihm umgegangen ist. Nach der Indischen Mythologie ist Krischnas<note type="footnote" n="*)" resp="gnd-116890657"><hi>Mehrere Abbildungen von ihm kann man in Guigniauts religions de l'antiquite. IV. 13. nr. 61 — 66. nachsehen. Man vergleiche auch I. 210. 211.</hi></note> die achte der zehn Irdischwerdungen, oder Nieder<pb n="5.198" xml:id="pbV198"/>Steigungen {Awatäräs) Vischnus.*) Von diesen Erscheinungen der Gottheit in verschiednen Thier- und Menschengestalten kommt zwar in unsrem Gedicht, das überhaupt von mythologischer Dichtung frei ist, nichts vor, aber Krischnas erwähnt doch, dass er von Weltalter zu Weltalter auf die Erde zurückkehrt. (IV. 6—8.) Indem aber Ivrischnas eine Emanation der Gottheit ist, bleibt diese, oder vielmehr er in ihr in ihrem ewigen Seyn, und in diesem Verstände spricht er wohl, jedoch soviel ich habe sehen können, nur in dieser einzigen Stelle des Gedichts, von sich und Gott, wie von zwei verschiednen Wesen, wenn er sagt:</p>
+
+               <p>Zu diesem urersten Geist hin mich rieht' ich, von wannen alles Geschöpfs alter Strom fliesst.</p>
+
+               <p>(XV. 4.b.)</p>
+
+               <p>Gott nun ist das ev^ige, unsichtbare, ungetheilte und daher einfache, von allen vergänglichen, sichtbaren und in Individuen vertheilten Wesen verschiedne Princip. (XII. 3. VII. 24. 25,)</p>
+
+               <p>Verschieden ist vom sichtbaren ein unsichtbares, ewges Seyn, das, wenn vernichtet ist jedes Geschöpf, nicht mit vernichtet wird, das unsichtbar Untheilbare, das sie preisen den höchsten Pfad, den erringend, man nicht rückkehrt, dort wo mein höchster Wohnungsort.</p>
+            </div>
+
+            <div type="section" n="10">
+               <head>
+                  <title type="main">(VIII. 20. 21.)</title>
+               </head>
+               <p>Unvernichtbar das ist, wisse, was ausgespannet dieses All. Vernichtung dieses Urewgen keiner, wer irgend, machen kann.</p>
+            </div>
+
+            <div type="section" n="11">
+               <head>
+                  <title type="main">(II. 17.)</title>
+               </head>
+               <p>Gott ist allwissend, Alles durchdringend, keines Zuwachses fähig, unendlich, der Herr aller Dinge; es giebt nichts über ihm; er ist Eins und muss in Einheit angebetet werden. (VII. 26. III. 15. 22. XL 19. 20. IX. n. 17. iS. VII. 7. VI. 31.) Ardschunas sagt von ihm :</p>
+
+               <p>Nicht Ende, noch Mitte, noch irgend Anfang dir schau ich. Allherrschender,</p>
+
+               <p>Allgestaltger.</p>
+            </div>
+
+            <div type="section" n="12">
+               <head>
+                  <title type="main">(XI. 16.)</title>
+               </head>
+               <p>Der Welt, des Festen, des Regsamen, Vater, der Lehrer ehrwürdigster, höchster bist du; nichts ist dir gleich, unermessbarer Herrscher, wer höher könnt' in der Dreiwelt, als du, seyn ?</p>
+            </div>
+
+            <div type="section" n="13">
+               <head>
+                  <title type="main">(XI. 43-)</title>
+               </head>
+               <p>Guigniaut. /. c. I. l8i — 193.</p>
+
+               <pb n="5.199" xml:id="pbV199"/>
+               <p>Der Wohnsitz Gottes ist über alle Schöpfung hinaus und ausserhalb derselben.</p>
+
+               <p>Den dort erleuchten nicht Sonnen, nicht Mondesscheibe, Feuer nicht, wohin gehend man nicht rückkehrt, ihn meinen höchsten Wohnungsort.</p>
+            </div>
+
+            <div type="section" n="14">
+               <head>
+                  <title type="main">(XV. 6.)</title>
+               </head>
+               <p>Gott ist der Schöpfer der Welt, Alles ist nur durch ihn, er ist der unvergängliche Ursprung aller Dinge. (IX. 4. 10. 13. VII. 6. 7. 10.)</p>
+
+               <p>Was jegliches Geschöpfs Samen ist, das bin ich, o Ardschunas ; nichts ohne mich im Weltkreis ist, nicht Festes, nicht Bewegliches.</p>
+            </div>
+
+            <div type="section" n="15">
+               <head>
+                  <title type="main">(X. 39.)</title>
+               </head>
+               <p>Von dem der Wesen Ausfluss ist, der ausgespannet dieses All, nach seiner Art den anbetend, hin zur Vollendung strebt der Mensch.</p>
+            </div>
+
+            <div type="section" n="16">
+               <head>
+                  <title type="main">(XVIIl. 46.)</title>
+               </head>
+               <p>Wie Gott Alles hen^orgebracht hat, so ist er auch Alles, und Alles ist in ihm. Dies ist ein Hauptsatz dieser Lehre, der auf die mannigfaltigste Weise durchgeführt wird. Er scheint auf der einen Seite mit dem Begriff der göttlichen Unendlichkeit zusammen zu hangen, die Alles in sich begreift, auf der andren mit der, der Indischen Philosophie eigenthümlichen Vorstellungsart von der Entstehung eines Dinges aus einem andren. Da es, wie wir im Vorigen gesehen, keinen Uebergang von dem Seyn zum Nichtseyn, oder umgekehrt, giebt, sondern beide zwei ins Unendliche fortlaufende Linien bilden, so ist alle Schöpfung aus Nichts unmöglich; jede Wirkung muss also schon in ihrer Ursach, und gleich ewig mit ihr, vorhanden se3^n. (Colebrooke in den Transactions of ihe royal Asiatic Society. Vol. I. pari. I. p. 38.) Wenn daher Gott der Schöpfer aller Dinge ist, so müssen alle Dinge, schon vor seinem Schaffen, in ihm vorhanden gewesen seyn. In unsrem Gedicht ist diese Schlussfolge selbst nicht ausgesprochen, allein da der Grundsatz (IL 16.) klar und bestimmt aufgestellt wird, so liegt sie von selbst am Tage.</p>
+
+               <p>Alles Geistige ist mit einander verwandt und Eins und dasselbe, und der Mensch kann in sich, d. h. in seinem geistigen Selbst (da die Sprache den Begriff des Geistes und der Selbst- h e i t in demselben Wort mit einander verbindet) alle übrigen Geschöpfe und in ihnen Gott erkennen. Indem aber der göttliche Geist in Geschiedenheit in die einzelnen Individuen vertheilt ist, ist er zugleich in Einheit unsichtbar, unvergänglich und ungetheilt<pb n="5.200" xml:id="pbV200"/> vorhanden, und diese seine ungetheilte Natur ist der wahre Urquell alles Daseyns. Was jedem Dinge den ihm eigenthümlichen Vorzug giebt, das ist Gott, der Glanz der Gestirne, das Leuchten der Flamme, das Leben der Lebendigen, die Stärke der Starken, der Verstand der Verständigen, die Erkenntniss der Erkennenden, die Heiligkeit der Heiligen. (VIL 8—11. X. 38.) Was irgend für ein Verhält- niss zwischen ihm und der Welt gedacht werden kann, in dem steht er, als Vater, Mutter, Erhalter, Zuflucht u. s. f., er ist die Lehre, die Reinigung, die heiligen Schriften, das Stillschweigen des Geheimnisses (IX. 16 — 18. X. 38.), die nie aufhörende Zeit. (X. 33.) Im zehnten Gesänge geht Krischnas die ganze Schöpfung durch (19 — 42.) von den Fischen im Wasser bis zu den Göttern hinauf, die Berge, Meere, Winde, die Jahreszeiten und Zeitabschnitte, die Heerführer, Weisen, Heiligen, Dichter, Heldengeschlechter, und in jeder Gattung nennt er sich das oder den, welche in jeder das Vorzüglichste sind, unter den Nachkommen Pändus Ardschunas, unter den Heihgen Näradas, unter den Einsiedlern V37äsas, unter den Dichtern Usanas u. s. f. Selbst die grammatischen Formen und Buchstaben werden nicht vergessen. Er ist unter den zusammengesetzten Wörtern die zwei Begriffe unabhängig von einander verbindende Gattung, unter den Buchstaben das a, wobei, wenn es nicht bloss die Ehrfurcht andeutet, mit der man die Erfindung der Schrift betrachtete, vermuthlich mystische Vorstellungen zum Grunde lagen. Ich hebe aber dies ausdrücklich heraus, weil es beweist, dass, wenn dieses Distichon (X. 33.) nicht ein späteres Einschiebsel ist, zu der Zeit, in welcher das Gedicht entstand, schon ein Alphabet vorhanden war. Denn das deutliche Absondern eines Vocals vor der Reflexion kann kaum durch irgend einen Zeitraum von der Bezeichnung desselben getrennt seyn. Alles einzeln Aufgezählte aber, sagt Krischnas beim Schluss, habe er nur beispielsweise angeführt, denn die ganze Zahl der Wesen, in welchen er durch seine Wunderkraft erscheine, zu nennen, werde kein Ende gefunden. Was irgend gross, ausgezeichnet und vorzüglich, sey seines Glanzes theilhaftig und diese ganze Welt habe er mit einem Theile seiner Natur ausgestattet. (X. 40 — 42.) Hieraus geht nun auch deutlicher hervor, in welchem Sinne er sich Eins mit den Dingen der Natur nennt.</p>
+
+               <p>Was in den hier angeführten Stellen einzeln angegeben ist, wird in einer andren (VII. 19.) in den kurzen Ausdruck: Väsu<pb n="5.201" xml:id="pbV201"/>devas (d. i. Krischnas, der Sohn des Väsudevas) ist das All, zusammengezogen.</p>
+
+               <p>Auf diese Weise muss das göttliche Wesen einander entgegen- gesetzte Eigenschaften in sich fassen, deren Widerspruch sich nur in der Allheit seiner Natur auflöst. In demselben Distichon sagt Krischnas von sich:</p>
+
+               <p>Der Kraftbegabten Kraft bin ich, von Begier frei und Leidenschaft,</p>
+
+               <p>Begier bin ich, die kein Recht hemmt, in den Geschöpfen, Bhäratas.</p>
+            </div>
+
+            <div type="section" n="17">
+               <head>
+                  <title type="main">(VII. II.)</title>
+               </head>
+               <p>Ein Gott, der das Rasen der ungebändigten Naturkraft mit der Ruhe in sich verbindet, die in reiner Herrschaft des Geistigen über allem Endlichen schwebt, regt alle Bilder in der Phantasie an, welche eine grosse dichterische Wirkung hervorzubringen im Stande sind.</p>
+
+               <p>Diesem entspricht nun auch die Körpergestalt, die Gott zugeschrieben wird. Sie ist nichts anders, als eine sinnliche Ueber- tragung seines geistigen Begriffes, nach welchem er, alle Wesen in sich fassend, sich in alle einzelne ergiesst und doch zugleich in seiner Einheit, als wahre Monas dasteht. Man darf diese Vorstellung eines göttlichen Körpers nicht mit der menschlichen Gestalt verwechseln, w^elche die M^^thologie andrer Völker und, in einem andren Verstände, die Indische selbst ihren Göttern anbildet. In diesem philosophischen, nicht mythischen System wird die ganze Körperwelt zum Körper des Unendlichen, und zwar nicht wie sie sich allmählich und einzeln in ihren Wirkungen entwickelt, sondern in ihren, alles Vergangne, Gegenwärtige und Zukünftige zugleich in sich fassenden Urkräften.</p>
+
+               <p>Ardschunas bittet Ivrischnas (XI. Gesang) sich ihm so zu zeigen, wie er sich ihm (seinem Wesen nach, denn bis dahin ist im Gedicht nicht von Körperform die Rede) geschildert hat. Krischnas gewährt seine Bitte, leiht ihm ein göttliches Auge, da menschliche dies nicht zu schauen vermögen, und offenbart sich ihm in seiner glanzgebildeten, allumfassenden, unendlichen, uranfänglichen, von niemand bis dahin erblickten Gestalt. Ardschunas sieht ihn nun zu dem Himmel emporragend, ohne Anfang, Mitte, noch Ende, mit vielen Köpfen, Augen und Armen, Tausende von göttlichen, an Farbe und Umrissen verschiednen Gestalten in sich vereinigend, das Weltall mit seinem Glanz erwärmend, und in ihm alle Götter von dem im Lotuskelch sitzenden Brahma<pb n="5.202" xml:id="pbV202"/> an, alle Weisen, und die ganzen Schaaren der Geschöpfe jeg- licher Art.</p>
+
+               <p>Wenn hoch am Himmel urplötzlich von tausend Sonnen rings empor Licht flammte, gliche sein Strahlen dem Glanz dieses Erhabenen. Das Weltganze, als Eins stehend, und mannigfaltig doch vertheilt.</p>
+
+               <p>in dem Körper der Sohn Pandus des Gotts der Götter schauete.</p>
+            </div>
+
+            <div type="section" n="18">
+               <head>
+                  <title type="main">(XI. 12. 13.)</title>
+               </head>
+               <p>So hatte sich ihm Krischnas auch angekündigt.</p>
+
+               <p>Das Weltganze, als Eins stehend, was sich bewegt, was nicht, erblick' in meinem Körper, Haarlockger, und was du sonst begehrst zu schaun.</p>
+            </div>
+
+            <div type="section" n="19">
+               <head>
+                  <title type="main">(XI. 7.)</title>
+               </head>
+               <p>und wer sich diese Ansicht zu eigen macht, erreicht die höchste Vollendung.</p>
+
+               <p>Wer, als in Einheit da stehend der Geschöpfe getheiltes Seyn, und verbreitet von da schauet, der erhebet zur Gottheit sich.</p>
+            </div>
+
+            <div type="section" n="20">
+               <head>
+                  <title type="main">(XIII. 30.)</title>
+               </head>
+               <p>Die niedrigste Stufe der Erkenntniss ist die, auf der man das Einzelne, getrennt von seinem Ursprung, als wäre es selbst das Ganze, betrachtet; die mittlere, wenn man im Einzelnen nur das Einzelne sieht, ohne zum Allgemeinen aufzusteigen. (XVIII. 20 — 22.)</p>
+
+               <p>Es ist aber bemerkenswerth, dass Krischnas ausdrücklich sagt (XI. 47.), dass er dem Ardschunas diese seine höchste Gestalt durch Wirksamkeit seines Selbst gezeigt hat, d. h. durch die Wunder kraft,<note type="footnote" n="*)" resp="gnd-116890657"><hi>Diese Kraft wird als ein wahrer Zauber {inäyä) geschildert, und diese Brahma- mäyä findet sich auf Bildwerken so dargestellt, dass sie das zwiefache Wesen, welches</hi></note> von der in der Folge die Rede se^^n wird, vermöge welcher Gott und Menschen im Stande seyn sollen, indem sie sich, abstrahirend und auf Einen Punkt heftend, in ihr Innres vertiefen, ihr Wesen umzuformen, und Unmögliches hervorzubringen. Man darf vielleicht hieraus schliessen, dass der Dichter diese Erscheinung Krischnas wirklich nur als einen Schein genommen wissen will, da sein von wahrem Spiritualismus durchdrungnes System dieser V^orstellung von vielfachen Gliedern, Sonnenglanz u. s. f. nicht bedarf, auch, wie wir gesehen, das sie in sich vereinigt, nicht bloss durch ihre mannweibliche Gestalt anzeigt, sondern auch auf der einen Seite der halb nach dem Munde hinaufgezogne Fuss auf das über sich selbst brütende Brahma, auf der andren die tanzende Bewegung auf die schaffend gaukelnde Mdyä hindeutet. (Guigniaut. IV. i. nr. 2. p[. i. fig. 2.)<pb n="5.203" xml:id="pbV203"/> göttliche Wesen sonst von ihm bloss als unsichtbar und ungetheilt geschildert wird.</p>
+
+               <p>Gott umfasst aber nicht bloss alle Arten des Seyns, auch das Nicht-seyende ist er.</p>
+
+               <p>Unsterblichkeit und Tod bin ich, was ist, was nicht ist, Ardschunas.</p>
+            </div>
+
+            <div type="section" n="21">
+               <head>
+                  <title type="main">(IX. 19.)</title>
+               </head>
+               <p>Auf ganz ähnliche Weise wird in Manus Gesetzbuch (I. ii.) die ewige, unsichtbare Grundursach, aus der Alles, auch Brahma selbst, entsprungen ist, zugleich seyend und nicht seyend genannt. Ich glaube nicht, dass dies, wie wohl geschehen, so zu verstehen ist, dass mit dem Seyn das Wesen Gottes an sich, mit dem Nicht- seyn unsre Unmöglichkeit es sinnlich wahrzunehmen gemeint se\^ Wenn man sich vollständig in die hier herrschende Vorstellungs- art hineindenkt, so wird in dieser Bestimmung gleichsam die letzte Schranke der Allheit Gottes niedergerissen, das Allwesen umfasste nicht Alles, wäre nicht unendlich, wenn seinem Seyn noch ein Nichtseyn entgegengesetzt werden könnte. Auch ist es in höherem und reinerem philosophischen Sinne richtig, dass die Gottheit dadurch, dass sie den Grund alles Se3^ns in sich fasst, nothwendig auch den Grund des Nichtseyns in sich enthalten muss. Ueber- haupt aber ist ein Seyn, das sich individuell in unzählige Geschöpfe vertheilt, und zugleich, als ein allgemeines, sie alle in sich vereinigt, mit keinem andren Seyn vergleichbar, und darum wird an einer andren Stelle gesagt:</p>
+
+               <p>Die höchste Gottheit, anfangslos, heisst nicht unseyend, seyend nicht.</p>
+            </div>
+
+            <div type="section" n="22">
+               <head>
+                  <title type="main">(XIII. 12.)</title>
+               </head>
+               <p>was mit dem oben angeführten Verse im Grunde derselbe, nur von einer andren Seite genommene Gedanke ist.</p>
+
+               <p>In einem andren Sinne wird das Nicht-seyende genommen, wenn es das Gegentheil des Seyenden, als reales Seyn, als ge- diegene Wesenheit betrachtet, andeuten soll. Es wird alsdann (XVII. 28.J der Tugend und Wahrheit entgegengesetzt.</p>
+
+               <p>Die Geschöpfe sind in Gott. (ATI. 12.)</p>
+
+               <p>Den höchsten Geist erstrebt, Pärthas, Dienst, schauend unverrückt nach ihm, dem die Geschöpfe inwohnen, der ausgespannet dieses All.</p>
+            </div>
+
+            <div type="section" n="23">
+               <head>
+                  <title type="main">(VIII. 22.)</title>
+               </head>
+               <p>Zum Wohnort deine Natur habend, freut sich, du Sinnenherrscher, die Welt, dir gehorchend.</p>
+            </div>
+
+            <div type="section" n="24">
+               <head>
+                  <title type="main">(XI. 36.)</title>
+               </head>
+               <pb n="5.204" xml:id="pbV204"/>
+               <p>Er aber ist nicht in ihnen. (VII. 12. IX. 4.) Durch diesen letzten Satz wird jedoch nur ausgedrückt, dass er von ihnen unabhängig ist, sie wohl mit seiner unendlichen Natur umfasst, selbst aber nicht in ihrer endlichen befangen ist. Denn in andren, ihn nicht einengenden Beziehungen ist er allerdings in ihnen, geht in ihre Körper ein und verlässt sie, und wohnt im Herzen jedes Menschen. (XV. 7 — 11. XIII. 15. 17.) Doch wird dieses Seyn in ihnen, nicht, wie das ihrige in ihm, als absolut und reell angenommen, sondern nur mit Beschränkung, als ein gewissermassen, gleichsam In wohnen. (XIII. 1 6.) Auch dagegen verwahrt sich diese Lehre sorgfältig, dass das Seyn der endlichen Geschöpfe in dem unendlichen Schöpfer nicht seine Natur herabziehe. An einer Stelle folgt unmittelbar auf den Satz, dass die Geschöpfe in Gott sind, der gerade entgegengesetzte, und auf dieses, zugleich Seyn und Nichtseyn wird als auf die höchste Wunderkraft des göttlichen Wesens aufmerksam gemacht, worunter, nach der Analogie andrer Stellen, die Anspannung des göttlichen Geistes zu verstehen ist, durch Vv'elche er alle Wesen mit sich verbindet, und doch alle beschränkende Folgen dieser Verbindung aufhebt. (IX. 4. 5.} Dichterisch wird darauf dieser Widerspruch durch folgendes Gleichniss gelöst. So wie des Aethers Raum füllet, allhindringend, die weite Luft, der Geschöpfe Gesammthcit so mir inwohnend betrachte du.</p>
+            </div>
+
+            <div type="section" n="25">
+               <head>
+                  <title type="main">(IX. 6.)</title>
+               </head>
+               <p>Dasjenige, was die Geschöpfe mit Gott verbindet, ist die geistige Natur. Sie ist dieselbe in allen. Gott ist eigentlich der jeden beseelende Geist. (X. 20.) Jeder kann daher in sich die übrigen Geschöpfe und sie in Gott erkennen. Nicht zur Verblendung, Sohn Pändus, kehrst du zurück, erkennend das, wo der Wesen Gesammtheit du in dir erst schauest, dann in mir.</p>
+            </div>
+
+            <div type="section" n="26">
+               <head>
+                  <title type="main">(IV. 35-)</title>
+               </head>
+               <p>Wer in jedem Geschöpf selbst sich, und die Geschöpfe all' in sich in fromm vertieftem Geist siehet, Eins und dasselbe überall, wer überall nur mich schauet, und Alles schauet nur in mir, in dem unter ich nicht gehe, und er nicht untergeht in mir. Wer den Geschöpfen inwohnend mich ehrt, an Einheit hangend fest, der, wo er immer mag weilen, vertiefet doch nur weilt in mir. Wer immer in des Selbsts Gleichheit dasselbe schauet, Ardschunas, wenn er empfindet Lust, wenn Schmerz, am tiefsten der vertiefet ist.</p>
+            </div>
+
+            <div type="section" n="27">
+               <head>
+                  <title type="main">(VI. 29-32.)</title>
+               </head>
+               <pb n="5.205" xml:id="pbV205"/>
+               <p>Jene Wunderkraft Gottes wird auch eine magische, einen Schein hervorbringende genannt, und dadurch angedeutet, dass das einzige wahre Se3^n doch nur das unvergängUche, ewige, alles übrige, dem Wechsel unterworfne aber nur ein durch die Gottheit erzeugtes Scheinbild ist. Da es aber schwer ist zu erkennen, dass Gott durch diesen Antheil an der Endlichkeit nicht beengt wird, und sein eigentliches, unsichtbares Seyn nicht mit jenem Seyn des Scheins zu verwechseln (VII. 25.), so täuscht jene Wunderkraft die Menschen. Der Herr der Geschöpfe, heisst es an einer andren Stelle, sitzt in der Gegend des Herzens, und macht die an dies rollende Rad der Endlichkeit Gehefteten durch seine Magie irre. Wer aber zu Gott gelangt, überwindet diesen Zauber. (VII. 14. 15. XVIII. 61.)</p>
+
+               <p>Er erkennt nemlich nicht nur die doppelte Natur, die nach diesem System in Gott angenommen werden muss, sondern täuscht sich auch nicht über das Verhältniss beider zu einander.</p>
+
+               <p>Erde, Wasser und Glutlodern, Luft und Aether, Gemüth, Vernunft, Selbstgefühl, so in acht Theile ist die Natur gespalten mir; die niedre, denn getrennt, wisse, von ihr ist andre, höchste mir, lebenathmende, Grossarmger, durch die fortdauert diese Welt; denn als aus diesem Schooss spriessend, alle Dinge betrachte du.</p>
+
+               <p>(VII. 4— 6.a.)</p>
+
+               <p>Zur Erläuterung dieser Stelle muss ich bemerken, dass die drei, hier der niedren Natur Gottes zugesellten geistigen Vermögen in der Indischen Philosophie überhaupt gewissermassen den Sinnen gleichgestellt werden.</p>
+
+               <p>Das Gemüth {manas, der Etymologie nach, das lateinische mens) ist die Kraft, welche in der Seele dem körperlichen Wahrnehmen und Handeln entspricht. Denn die Indier nehmen, ausser den fünf Werkzeugen der Sinne, fünf Werkzeuge des Handelns an, und setzen diese zehn mit dem jiianas^ als dem eilften, in Eine Classe.</p>
+
+               <p>Das Selbstgefühl {ahankära, wörtlich das, was das Ich bildet) wendet die äusseren und inneren Eindrücke auf die Persönlichkeit an, und schliesst also das Selbstbewusstseyn und die Selbstsucht in sich ein.</p>
+
+               <p>Die Vernunft {buddlii) beschliesst. Ueber diesen dreien ist der reine, mit der eigentlichen gött- lichen Natur verwandte Geist {atman^ woher unser athmen, purusha).</p>
+
+               <pb n="5.206" xml:id="pbV206"/>
+               <p>(Man sehe Colebrooke. /. c. p. 30. 31. und Burnoufs Auszüge aus dem Padmapuräna. Journal As iatique. VI. 99 — 101.) In unsrem Gedicht wird dies S3^stem nicht ausdrücklich auseinander gesetzt, aber der Anfang des 13. Gesanges und mehrere andre Stellen zeigen, dass es auch das des Dichters war.</p>
+
+               <p>Man sieht hieraus, dass die menschUche Natur nur eine Nachbildung, eine Vereinzelung der göttlichen ist, und wenn diese Körper schaift oder in Vernichtung sinken lässt, geht sie in dieselben ein, oder scheidet aus ihnen, und bedient sich der die Verbindung der Seele mit der Aussenwelt bewirkenden Werkzeuge.</p>
+
+               <p>Denn in des Lebens Welt ziehet, lebenathmend, mein ewger Theil an sich aus der Natur Schoosse Gemüth und Sinne, sechs an Zahl. Wo in den Körper eingehet, wo wieder ihn der Herrscher lässt, da sich eint er, sie losreissend, wie Wind vom Lager Blüthenduft. Umfassend da Gehör, Auge, Gefühl, Geschmack, Geruch zugleich und das Gemüth in Herrschaft so, durchwirket er den Sinnenstoff.</p>
+            </div>
+
+            <div type="section" n="28">
+               <head>
+                  <title type="main">(XV. 7-9.)</title>
+               </head>
+               <p>Gott verbindet sich also mit sterblichen Leibern und handelt, indem er sie hervorbringt, und menschliche Einrichtungen gründet. Er ist sogar genöthigt zu handeln, wenn das Weltenrad nicht still stehen soll. Aber die Verbindung mit der Endlichkeit befleckt, das Handeln fesselt ihn nicht, er lässt darin bloss die Natur walten. Hier kehrt nun, von der Gottheit ausgesagt, dieselbe Lehre zurück, die oben den Menschen eingeschärft wurde, dass gehandelt werden muss, dass nur das Hangen an den Erfolgen die Freiheit des Geistes bindet, und seine Ruhe stört, der völlige Gleichmuth aber auch das wirkliche Handeln in Nichthandeln auflöst. (IX. 8. 9.)</p>
+
+               <p>Nichts, Parthas, ist zu thun übrig in den drei Welten irgend mir, unerstrebt nichts Erstrebbares, doch web' ich sichtbarlich in That. Wenn unermüdet rastlos ich einmal in That nicht webete — denn, Pärthas, meines Fusstritts Spur die Menschen folgen überall — diese Welten in Nichts sänken, wenn ich nicht fürder thäte That, und Thäter des Gewirrs war' ich, und dies Geschlecht ich mordete.</p>
+            </div>
+
+            <div type="section" n="29">
+               <head>
+                  <title type="main">(III. 22 — 24.)</title>
+               </head>
+               <p>Ich stiftete die vier Kasten, nach Eigenschaft, Beruf getheilt, doch sieh' in mir, der so handelt, den Ewigen, Nichthandelnden. Denn mich beflecket Handlung nicht, nicht ist nach Handelns Frucht mir Lust. Wer also mich im Geist kennet, der, handelnd, wird gefesselt nicht.</p>
+            </div>
+
+            <div type="section" n="30">
+               <head>
+                  <title type="main">(IV. 13. 14.)</title>
+               </head>
+               <p>Unter mir die Natur zeuget, was sich bewegt, und nicht bewegt. Aus diesem Grunde, Käunteyas, die Welt herum sich, rollend, dreht.</p>
+            </div>
+
+            <div type="section" n="31">
+               <head>
+                  <title type="main">(IX. 10.)</title>
+               </head>
+               <pb n="5.207" xml:id="pbV207"/>
+               <p>Denn anfangslos, naturstofffrei, der höchste Geist, der ewige, in Leibern weilend, Käunteyas, nicht handelt, nicht beflecket wird. So wie des Aethers Feinheit wird, allhindringend, beflecket nicht, im Körper überall wohnend der Geist so nicht beflecket wird.</p>
+            </div>
+
+            <div type="section" n="32">
+               <head>
+                  <title type="main">(XIII. 31. 32.)</title>
+               </head>
+               <p>In der Endlichkeit muss nicht bloss das Vorhandne untergehen, auch das Untergegangne muss wieder geboren werden. Dies haben wir oben gesehen. Das Weltall folgt in Zwischen- räumen bestimmter Jahrtausende, die Brahmas Tag und Nacht heissen, demselben Kreislauf, und Gott ist es, der es schafft und zerstört. Denn der, welcher Brahmas Tag kennt, den tausend Alter fassenden, die Nacht, die in sich fasst tausend, tag- und nachtkundig ist im Geist. Es entspriesst dem Unsichtbaren das Sichtbare, wann kommt der Tag ; wann die Nacht kommt, es hinschwindet ins unsichtbar Genennete. Der Geschöpfe Gesammtfügung, wenn sie gewesen, schwindet hin, wann die Nacht kommt ; von selbst, Parthas, erstehet sie, wann kommt der Tag.</p>
+            </div>
+
+            <div type="section" n="33">
+               <head>
+                  <title type="main">(VIII. 17—19.)</title>
+               </head>
+               <p>Alle Geschöpfe, Käunteyas, gehn in meine Natur zurück, wann untergeht ein Weltalter, wann anhebt eins, entlass' ich sie. Denn die eigne Natur sammelnd, entlass' ich, schaffend, für und für, der Geschöpfe Gesammtfügung von selbst, wie die Natur es heischt.</p>
+            </div>
+
+            <div type="section" n="34">
+               <head>
+                  <title type="main">^IX. 7. 8.)</title>
+               </head>
+               <p>Ich dieser ganzen Welt Ursprung bin, und Zerstörung wiederum. Erhabner, als mich, kein zweites giebts irgend, Goldverschmäher, du. An mich geknüpfet ist dies All, wie Perlenreih' am Faden hängt.</p>
+
+               <p>(VII. 6.b. 7.) Dies letzte Gleichniss scheint die Philosophie von der Mythologie entlehnt zu haben, wenn nicht diese sich des dichterisch- philosophischen Ausdrucks zu ihrem Endzweck bemeistert hat. Denn auch in Bildwerken (Guigniaut. Religions de VAntiquite. IV. p. I. nr. 2. pl. I. fig. 2. u. a. a. O.) ist die Reihe der geschaffnen Dinge als eine Perlenschnur dargestellt. Es ist interessant, auf diese Weise eine Hieroglyphe in Dichtung entziffert, oder eine Dichtung in Hieroglyphe übergetragen zu sehen. Hiermit muss man auch die sich wiederholenden irdischen Erscheinungen des göttlichen Wesens in Zusammenhang bringen, das sich gleichfalls immer selbst wieder erzeugt. In der That kann der Gedanke und überhaupt alles Geistige nicht durch Ruhe, sondern nur durch Selbstthätigkeit, also durch ewig sich erneuernde Zeugung fortbestehen.</p>
+
+               <pb n="5.208" xml:id="pbV208"/>
+               <p>Von mir Geburten viel schon sind, von dir vorüber, Ardschunas, und alle sie im Geist kenn' ich ; du, Feindverderber, kennst sie nicht. Bin unvergänglich, anfangslos und der Geschöpfe Herr ich gleich, doch die eigne Natur sammelnd werd' ich durch meines Zaubers Schein. Wie Ermatten des Rechts anhebt jedesmal hier, o Bhäratas, und Erstehen des Unrechtes, so mich erschaff' ich wiederum. Zu der Schutzwehr der Frommsinngen, zu der Gottlosen Untergang, zu des ewigen Rechts Festgung ersteh' ich neu von Zeit zu Zeit. Mein göttlich Thun und mein Werden wer so in reiner Wahrheit kennt, der in Geburt im Tod nicht geht, zu mir der gehet, Ardschunas.</p>
+            </div>
+
+            <div type="section" n="35">
+               <head>
+                  <title type="main">(IV. 5-9.)</title>
+               </head>
+               <p>Das Entstehen der Wesen wird auch auf folgende Weise geschildert. Der Dichter braucht statt des gewöhnlichen Ausdrucks für den Körper einen andren {kshetrd)^ den man das Irdische übersetzen kann, den wir aber noch allgemeiner Stoff, Materie be- nennen wollen. Als Bestandtheile desselben zählt er die fünf Elemente, die fünf Sinnengegenstände, die eilf Körperwerlvzeuge, Selbstgefühl, Vernunft, Lust und Schmerz, Begier und Abscheu, Mannigfaltigkeit, Denkkraft, Festigkeit und was sehr auffallend ist, das Unsichtbare auf. (XIII. i — 7.) Diesem veränderlichen Stoff stellt er den Stoff kundigen entgegen. Diesen nennt Krischnas Eins mit sich. In seiner Verbindung mit dem Stoff besteht alle Zeugung.</p>
+
+               <p>Was überall entsteht wahrhaft, ob Festes, ob Bewegliches, durch des Stoffes und Stoffkundgen Eingung das wisse, Bhäratas.</p>
+            </div>
+
+            <div type="section" n="36">
+               <head>
+                  <title type="main">(XIII. 26.)</title>
+               </head>
+               <p>Wie diese ganze Welt Eine Sonne, Glanz sendend, strahlend macht, den ganzen Stoff der Stoffkundge so strahlen machet, Bhäratas.</p>
+            </div>
+
+            <div type="section" n="37">
+               <head>
+                  <title type="main">(XIII. 33.)</title>
+               </head>
+               <p>Es bringt keine w^esentliche Lücke in dem System unsres Gedichts hervor, wenn man diese nur im 13. Gesänge vorgetragne Vorstellungsart ganz übergeht, und ich gestehe, dass sie mir auf keine Weise ganz klar ist. Am meisten machen mich die auf- gezählten Bestandtheile irre, unter denen sich zwar die 25 den Indischen philosophischen Systemen (Colebrooke. /. c. f. 30. 31.) gewöhnlichen Grundstoffe grösstentheils wiederfinden, aber auch andre, die theils, wie Begier und Abscheu im Gemüth, schon in andren enthalten sind, theils dem irdischen Stoff fremd scheinen. So hätte ich das Unsichtbare mit dem Stoff'kundigen für dasselbe gehalten. In Manus Gesetzbuch (XII. 12 — 15.) in einer gleichfalls<pb n="5.209" xml:id="pbV209"/> sehr dunkeln Stelle kommt dieser Ausdruck in einem andren, mehr untergeordneten Sinne vor.</p>
+
+               <p>Gott sieht nur auf die Gesinnung. Er nimmt alles ihm mit Verehrung Gebotne an, Wasser, eine Blume, ein Blatt. Er ist gleichgesinnt gegen alle. Wer sich zu ihm wendet, der Brahman oder ein Knecht, alle können den höchsten Weg einschlagen. Aber die wohlwollend gegen alle Geschöpfe Gesinnten, die Tugend- haften, Gleichmüthigen, Frommen sind ihm theuer. (IX. 26. 32. 33.</p>
+            </div>
+
+            <div type="section" n="38">
+               <head>
+                  <title type="main">XII. 13—20.)</title>
+               </head>
+               <p>Gott ist der eigentliche Gegenstand aller wahren Erkenntniss, das zu Erkennende im absoluten Verstände. Indem der Dichter dies ausführt, und die Eigenschaften Gottes noch einmal kurz zu- sammenfasst, kommt sein wahres Wesen immer darauf hinaus, dass er, in nur durch seine Natur zu lösendem Widerspruch, alles Endliche in sich schliesst, und, als unendlich, doch von allem Endlichen frei ist. (XIII. 12 — 17.)</p>
+
+               <p>Bei der Darstellung eines S3'^stems, das nicht dogmatisch vor- getragen, sondern in ein Gespräch verwebt ist, das sich, ausser seiner Bestimmung, eine sittlich religiöse Unterweisung über die Erreichung der höchsten Vollendung zu enthalten, an einen be- stimmten Moment in einer Dichtung anschliesst, hat es mir doppelt nothwendig geschienen, einen so einfachen Weg, als möglich, einzuschlagen. Ich habe daher im Vorigen mit Sorgfalt nur diejenigen Stellen zusammengetragen, in welchen entschieden von der höchsten Gottheit, oder vielmehr von dem absoluten Begriffe der Gottheit die Rede ist. Ich habe mich dabei um so mehr des einfachen Ausdrucks Gott bedient, als in den meisten derselben Krischnas von sich, also von einem persönlichen Wesen spricht. Was diese Vorstellung augenblicklich verdunkeln, oder scheinbar verwirren konnte, habe ich entfernt, um jetzt darauf zurück- zukommen.</p>
+
+               <p>Der wichtigste hier zu erläuternde Begriff ist der des Brahma, oder der göttlichen Substanz. Um Misverständnissen vorzubeugen, muss ich zuerst bemerken, dass dies mit einem kurzen a endende Wort das Neutrum der Grundform Brahman, und durch Endung und Geschlecht von dem mit einem langen a endenden Masculinum, dem Gott Brahma, verschieden ist.</p>
+
+               <p>Das Neutrum ist hier auch wohl nicht bedeutungslos gewählt. Denn auch in unsrem Gedicht scheint zwischen Krischnas, Gott, und dem Brahma, der Gottheit, da wo beide Begriffe nicht zuW. V. Humboldt, Werke. V. I4<pb n="5.210" xml:id="pbV210"/> sammenfallen, der Unterschied der zwischen einer gleichsam allgemeinen göttlichen Substanz und einem persönlichen göttlichen Wesen zu seyn. Es wird auch von dem ganzen Brahma (VII. 29.) geredet, und der Ausdruck meistentheils noch von dem Beiwort des höchsten (VIII. 3. XIII. 12.) begleitet, als Hesse der Begriff einen Umfang und Grade zu.</p>
+
+               <p>Aus vielen Stellen geht deutlich hervor, dass das Brahma und Gott dieselben Begriffe sind. Es durchdringt Alles (III. 15.); in der oben erwähnten Beschreibung der Gottheit, als des zu Erkennenden, ist gerade der Ausdruck das höchste Brahma, und kein andrer neben ihm gebraucht (XIII. 11 — 17.); die letzte Vollendung ist das Uebergehen in das Brahma, das heisst in die Gottheit. (II. 72.)</p>
+
+               <p>Krischnas ist dasselbe mit ihm (X. 12.), ist das höchste Brahma selbst.</p>
+
+               <p>Aber umkehren dürfte man, und hierin liegt der Unterschied, den Satz wohl nicht. Brahma ist die götthche Urkraft überhaupt, gleichsam ruhend in ihrer Ewigkeit ; in Gott, hier Krischnas, tritt die Persönlichkeit hinzu. Daher wird Krischnas neben dem Brahma genannt.</p>
+
+               <p>Wer Om!<note type="footnote" n="*)" resp="gnd-116890657"><hi>Von diesem Wort werde ich gleich in der Folge reden.</hi></note> so sagend, eintönig die Gottheit nennt, gedenkend mein, und dann den Körper lässt scheidend, der wandelt hin den höchsten Pfad.</p>
+            </div>
+
+            <div type="section" n="39">
+               <head>
+                  <title type="main">(VIII. 13.)</title>
+               </head>
+               <p>An einer andren Stelle wird sogar zwischen dem Brahma und Krischnas auf dem Wege zur Vollendung nicht undeutlich eine Stufenfolge angegeben. Nach einer ausführlichen Schilderung des frommen Weisen heisst es: derjenige, der so gesinnt ist, zum Gottheit werden Kraft gewinnt, geworden Gottheit, ruhatbmend, begehrt er nicht und trauert nicht, für alle Wesen gleichfühlend, erreicht er meinen höchsten Dienst, durch meinen Dienst erkennt wahrhaft er mich, wie gross und wer ich bin, dann mich erkennend wahrhuft geht in mich er ohne Zögern ein.</p>
+            </div>
+
+            <div type="section" n="40">
+               <head>
+                  <title type="main">(XVIII. 53.b.-55-)</title>
+               </head>
+               <p>Der Uebergang in Krischnas ist also hier als das Letzte und Höchste dargestellt, nachdem der Mensch sich schon vorher dem göttlichen Wesen angebildet hat.</p>
+
+               <p>Noch bestimmter, als zeugende und empfangende Gottheit, werden beide Wesen in folgender Stelle unterschieden:</p>
+
+               <pb n="5.211" xml:id="pbV211"/>
+               <p>Mein Schooss die grosse Gottheit ist, in die ich lege meine Frucht, und aller Wesen Ursprung fliesst allein daraus, o Bhäratas. Denn wo aus einem Schooss Körper entspringen irgend, Kuntis Sohn, der grosse Schooss die Gottheit ist, der Vater, samengebend, ich.</p>
+            </div>
+
+            <div type="section" n="41">
+               <head>
+                  <title type="main">(XIV. 3. 4.)</title>
+               </head>
+               <p>Dies entspricht ganz den morgenländischen Begriffen von Spahung der göttHchen Kraft, Ausgehen aus ihr und Zurückgehen in sie. Fremder dagegen scheint diese, nur in dieser einzigen Stelle desselben sich findende Vorstellungsart dem Systeme des übrigen Gedichts.</p>
+
+               <p>Wie in den obigen Versen über den einzelnen empfangenden Kräften eine allgemeine empfangende Urkraft angenommen wird, so geschieht dasselbe auch in andren ähnlichen Fällen. Es wird nemlich auch von einem absoluten Handeln {karma\ einem ein- fachen {akshara\ und von Wesen, die über den Geist, über die Geschöpfe, über die Götter, über die Opfer sind {adhyätman, adhibhüta, adhideiva, adhiyajnd)^ gesprochen. Es scheint hiernach, dass die Indische Philosophie, wo sie einzeln vertheilte Kräfte oder Eigenschaften an Wesen wahrnimmt, den Begriff derselben in seiner Reinheit auffasst, bis zu schrankenloser Allgemeinheit erweitert, und nicht bei der Bildung des Begriffs vor dem Geiste stehen bleibt, sondern sie als reale Urstoflfe wirklich setzt. Es entsteht alsdann hieraus zweierlei, einerseits dass diese Grund- oder Urstoffe der Ursprung der einzeln vertheilten Kräfte sind, andrerseits dass sie in ihrer Reinheit und Unendlichkeit ganz oder theilweise zu der Natur der Gottheit gehören.</p>
+
+               <p>Das absolute Handeln wird (VIII. 3.) in einer eignen Definition das die Erzeugung des Daseyns der Geschöpfe bewirkende Entlassen oder Schaffen genannt. Denn die Sprache verbindet diese beiden Begriffe in demselben Verbum [srtj) und bleibt darin dem philosophischen Dogma getreu, dass jede Wirkung, schon in ihrer Ursach enthalten, dieselbe nur zu verlassen braucht, um zu entstehen. Der Begriff des Handelns wird daher bei dem ursprünglichsten Handeln, der Schöpfung, aufgenommen. Es fasst unter sich die einzelnen Handlungen, und mit doppeltem Rechte das Opfer (III. 14.), es entspringt aber selbst aus dem göttlichen Wesen (III. 15.) als dem ursprünglichen Urheber aller Dinge. Nach diesem Zusammenhange erscheint es nicht mehr befremdend, wenn es in unmittelbare Verbindung mit der Gott heit und dem U ebergeistigen gesetzt und gesagt wird, dass man<pb n="5.212" xml:id="pbV212"/> diese beiden und das ganze Handeln kennt, wenn man sich zu Krischnas wendet, um sich von Alter und Tod zu befreien. (VII. 29.)</p>
+
+               <p>Das Uebergeistige {adhyätmaii) erldärt Krischnas (VIII. 3.) durch einen Ausdruck, der buchstäblich das eigne Se3'^n bedeutet, und gewöhnlich die einem Wesen unzertrennlich anhängende Natur, seinen Charakter, seine Persönlichkeit bezeichnet. (So V. 14. XVIII. 60.) Dieser Begriff ist also hier zu der absoluten Allge- meinheit gesteigert, in welcher er zu dem göttlichen Wesen passt, das alle Gründe seines Seyns in sich selbst enthält und die Ur- persönlichkeit ist. Nicht aber darf man diesen Begriff mit dem des höchsten Geistes verwechseln, für den es einen andren {paramäfi}ian\ auch in unsrem Gedicht (XIII. 31.) vorkommenden Ausdruck giebt.</p>
+
+               <p>Was über die Geschöpfe ist, nennt Krischnas (VIII. 4.) das getheilte Seyn. Die Eigenthümlichkeit endlicher Wesen beruht auf ihrer geschiednen Persönlichkeit, also auf Selbständigkeit und Vereinzelung. Für die erstere galt der so eben erwähnte Begriff. Die letztere liegt in dem gegenwärtigen. Es muss aber ein solcher allgemeiner Grundstoff, dem die Möglichkeit beiwohnt, sich einzeln zu vertheilen, vorhanden seyn, da in einem Systeme, wie dieses ist, alle Wesen, ihrer Geschiedenheit unbeschadet, Eins sind.</p>
+
+               <p>Das Einfache, Unsichtbare bildet den Gegensatz des getheilten Seyns. Es ist eins und dasselbe mit der Gottheit und Krischnas, denn beide sind selbst das Einfache. (VIII. 3. XI. 37.) Aber das Einfache ist gleichsam der höchste und allgemeinste göttliche Ur- stoff. Denn es ist der Ursprung der Gottheit selbst ; sie ist, nach der öfter berührten Vorstellung vom Verhältniss der Wirkung zur Ursach, mit und aus demselben, was die Sprache vollständig und genau in Einem Worte {samudbhawan) ausdrückt. (III. 15.)</p>
+
+               <p>Es wird auch die Frage aufgeworfen, vv^er die am frommsten Vertieften sind, die Krischnas überhaupt, oder die ihn als das Einfache anbeten? worauf die Antwort lautet, dass beide zur Vollendung gelangen, aber die Arbeit der zuletzt genannten schwieriger ist, weil der körperbegabte Mensch sich schwer zu einer Vorstellung des Unsichtbaren erhebt. (XII. i — 6.) Vermuth- lich ist aus der Absicht, die Einfachheit der Gottheit noch bezeichnender auszudrücken, der heilige mystische Name der Gott- heit Om! entstanden, indem drei Töne, a, u und ein Nasenlaut<pb n="5.213" xml:id="pbV213"/> in Einen Buchstaben verschlungen sind, da a und u in ein hier nasales o zusammenfliessen.</p>
+
+               <p>lieber das Opfer nennt Ivrischnas auf eine dunkle und mystische Weise (VIII. 2. 4.) sich selbst in diesem seinem, also menschlichen Leibe, und der Ausdruck kommt sonst nicht an Stellen vor, die über diese mehr Licht verbreiteten. (Vgl. VII. 30.) Vielleicht aber soll diese Irdischwerdung selbst als ein Opfer, und folglich er als das höchste, alle andren in sich fassende angesehen werden.</p>
+
+               <p>Die Götter (dewd) sind nach den philosophischen Systemen der Indier nur Wesen höherer Art, die ersten und höchsten (XVII. 4.), aber selbst geschaffen, und nicht vergleichbar mit dem wahren göttlichen Wiesen, dem Urquell aller Dinge. (Colebrooke. /. c. p. 33.) Sie sind ebenso, als die Menschen, den einschränkenden Eigenschaften der Natur unterworfen (XVIII. 40.), und wohnen mit allen übrigen Geschöpfen in Krischnas. (X. 14. 15.) Es opfern ihnen die, welche, nicht gleich lauter in ihrem Seyn, wie die Verehrer des höchsten Gotts, an den Erfolgen der Handlungen hangen (IV. 12.), diese aber kommen alsdann nach dem Tode nicht zur höchsten Gottheit, sondern nur zu ihnen. (VII. 23.)</p>
+
+               <p>Brahma befindet sich auch in Krischnas. Dieser sagt von sich :</p>
+
+               <p>Denn der Wohnsitz Brahmas bin ich und des ewigen Göttertranks, der nie alternden Rechtssatzung und ungemessner Seeligkeit.</p>
+
+               <p>(XIV. 27.) und Ardschunas von ihm:</p>
+
+               <p>In deinem Leib schau' ich die Götter, Gott du, und alle Thiergattungen dicht geschaaret, im Lotuskelchsitze Brahma, den Herrscher, und alle Frommweisen und Götterschlangen.</p>
+            </div>
+
+            <div type="section" n="42">
+               <head>
+                  <title type="main">(XL 15.)</title>
+               </head>
+               <p>Krischnas ist grösser, als er. (XI. 37.) Die erste und die letzte der hier angeführten Stellen gehört aber zu denen, bei welchen es, wie ich weiter unten zeigen werde, grammatisch zweifelhaft bleibt, und wo nur der Zusammenhang entscheiden kann, ob der Gott Brahma oder die göttliche Substanz gemeint sey.</p>
+
+               <p>Was über die Götter ist, wird vorzugsweise der Geist {purushd) genannt, und da der mit diesem Ausdruck verbundne Begriff' in einem Theile des Gedichts eine wichtige Rolle spielt, so müssen wir ihn mit wenigen Worten zu erläutern versuchen.</p>
+
+               <p>Die genaue und eigentliche Bedeutung des Worts ist die,<pb n="5.214" xml:id="pbV214"/> dass es das Männliche bezeichnet. Es heisst also Mann und Mensch. Sein übriger Gebrauch aber zeigt, dass es den Menschen ursprünglich nur von der Seite bezeichnete, von der er mit höheren Wesen und allem Geistigen verwandt ist.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Herr Guigniaut {Religions de l'Antiquite. 1. 618.) sucht diese Verbindung der Menschheit mit der Gottheit in dem Begriff puruslia auf eine andre Weise, indem er</hi></note> Denn man bedient sich desselben auch geradezu von dem Schöpfer. In zwei oben übersetzten Stellen (VIII. 22. XV. 4.), wo der Geist das V^^eltall geschaffen hat, und alle Geschöpfe in sich enthält, und wo Krischnas sich an ihn richtet, steht im Text dieses V^^ort. Krischnas wird so von Ardschunas genannt. (X. 12. XI. 18. 38.) In dieser Bedeutung kommt piirusha gewöhnlich mit Beiwörtern vor, der höchste (VIII. 22.), der ewige, göttliche (X. 12.), der uralte (XL 38.), der ursprüngliche (XV. 4.), allein auch absolut, als der Geist. (XI. 18.) Schon hieraus sieht man, dass es nicht bloss ein verschiedner Name für die Gottheit ist, und untersucht man seinen Gebrauch genauer, so findet man, dass es einen grösseren Umfang hat, und auch in der Gottheit eine bestimmte Eigenschaft, oder vielmehr Wirksamkeit anzeigt. Es ist nemlich das wirkende Princip, welches, aber immer geistig, herrschend, und sich Alles unterordnend, in der Natur ruht, Verbindungen auch mit ihrem endlichen Wesen eingeht, und dadurch irdisch zeugt und schafft. In der Indischen Philosophie kann auch die Gottheit nicht unterlassen, dies zu thun, es entsteht eben daraus, dass Gott und die Geschöpfe in dieser Beziehung Eins werden, und der Mensch ihn und alle in sich schauen kann, und von dieser Idee, von der göttlichen Durchdringung der Natur zum Behuf der Schöpfung geht, soviel ich aus dem Gebrauche des Worts wahrnehmen kann, seine Anwendung auf die Gottheit aus. Allgemein ist es daher das in der Natur hervorbringende Geistige, und wenn Krischnas sich (VII. 8.) das Edelste und Feinste in jeder Gattung der Dinge nennt, nennt er sich unter den Männern ihre Purusha-}LYd.i\.^ was die Indische Sprache bloss in der Endung des Neutrum und durch die Umbeugung des Stammvocals durch päurushan andeutet. In Manus Gesetzbuch wird in einer sehr merkwürdigen Stelle (XU. 118 — 125.) gesagt, dass der Brahmane das ganze All in sich selbst sehen könne. Nach einer spielenden das Indische Wort durch l'homme-dieu erklärt. Ich kann aber dieser Meinung nicht beitreten.<pb n="5.215" xml:id="pbV215"/> Vorstellungsweise (von welcher, um dies im Vorbeigehen zu be- merken, unser Gedicht durchaus frei ist) werden Götter und Naturwesen in einzelne Theile des menschlichen Körpers ver- theilt. Dann heisst es : aber sie alle beherrscht der höchste Geist, er der feiner als ein Atom ist, eine auch in einer gleich folgenden Stelle unsres Gedichts mit denselben Worten vorkommende Bezeichnung, und den einige die ewige Gottheit nennen (Brahma). Wie nun aber sein Schaffen beschrieben wird, kommt es ganz mit der eben geschilderten Art überein.</p>
+
+               <p>Er alle Wesen, durchdringend sie mit fünffach vertheiltem Stoff,</p>
+
+               <p>Flammenrad <note type="footnote" n="*)" resp="gnd-116890657"><hi>Wörtlich wie im chakra. So wird nemlich die Scheibe, oder das Rad ge-</hi></note> gleich, stets dreht wälzend in Geburt, Wachsthum, Untergang.</p>
+
+               <p>(Manus Gesetzbuch. XII. 124.)</p>
+
+               <p>Aus unsrem Gedicht will ich zwei vorzüglich beweisende Stellen hersetzen, obgleich in denselben Begriffe vorkommen, die erst weiter unten ihre volle Erläuterung finden. In der einen wird die Gottheit mit dem Namen des Dichters belegt. In der jugendlichen Frische eines zur Wissenschaft aufblühenden Volkes erscheint das Dichten nicht wie eine menschliche Kunst, sondern wie ein wirkliches Schaffen, und auch die mannigfaltige, gestaltenreiche, bunte, durch die Zauberkraft der Gottheit hervorgerufene, wie ein Wunder vor dem jungen Gemüth da stehende Schöpfung kann wohl mit einem vor der Phantasie vorüberrauschenden Gedichte verglichen werden.</p>
+
+               <p>Unaufhörlich den Sinn richtend, unabirrend vertiefend sich, zum Geist, dem höchsten, gottgleichen, Pdrthas, gelangt zu ihm der Mensch. Des alten, hochwaltenden, weisen Dichters, der feiner ist als Atom, wer gedenket, des Weltalls Nährers, undenkbar gestaltgen, des sonnengleich leuchtenden, fern vom Dunkel, wer Dienst ihm festsinnig zur Todesstunde in Kraft standhaft starrer Vertiefung weihet, zur Augenbrau'n-Mitte den Odem sammelnd , der geht zum gottgleichen , zum höchsten Geist ein.</p>
+            </div>
+
+            <div type="section" n="43">
+               <head>
+                  <title type="main">(VIII. 8—10.)</title>
+               </head>
+               <p>nannt, aus welchem oben und zu jeder der beiden Seiten Flammen ausgehen, und das ein häufiges Attribut Vischnus und Krischnas in Gemälden und auf Bildwerken ist. Ausserdem bedeutet chakra auch überhaupt ein Rad, und auch ein solches, und ohne Flammen trägt Vischnus bisweilen. Man sehe über dies Attribut Guigniaut, Religions de l'Antiqiiite. IV. p. 4. nr. 18. pl. III. ßg. 18. p. 11. nr. 48. pl. IX. ßg. 48. p. 13. nr. 66. pl. XII. fig. 66. Das eigentliche, mit Flammen versehene chakra scheint immer als eine Scheibe, ohne Speichen, abgebildet zu werden.</p>
+
+               <pb n="5.216" xml:id="pbV216"/>
+               <p>Den Geist und die Natur, beide, wiss' anfangslos und ewig auch. Eigenschaften und Umwandlung sind, wisse, der Natur gesellt. Des Wirkens des, geschehn was soll, Ursach wird die Natur genannt; der Geist genannt die Ursach wird in Lustgenuss und Schmerzgefühl. Der Geist, in der Natur stehend, sich ihrer Eigenschaften freut.</p>
+
+               <p>Sein Hang nach ihnen macht Zeugung in gutem und in schlechtem Schooss. Der Lenker er, der Zuschauer, Geniesser, Nährer, hohe Herr, der Urgeist auch genannt wird er in diesem Leib, der höchste Geist. Wer die Natur, den Geist kennet, zugleich die Eigenschaften auch, der, wo er immer mag weilen, doch fürder wird geboren nicht.</p>
+            </div>
+
+            <div type="section" n="44">
+               <head>
+                  <title type="main">(XIII. 19-23.)</title>
+               </head>
+               <p>Der durch das All verbreitete Geist lässt, wie wir oben gesehen, nach Massgabe seiner verschiednen Beschränkung, Grade zu. Ivrischnas unterscheidet einen dreifachen, den theilbaren, mit allen Geschöpfen identischen, den untheilbaren, auf dem Gipfel stehenden, und einen dritten, der höchste oder Urgeist genannten, der, die drei Welten durchdringend, sie ernährt und beherrscht. Weil er, setzt er hinzu, sich über den theilbaren erhebt und tref- licher ist als der untheilbare, so wird er in der Welt und der Schrift der höchste genannt. (XV. 16 — 18.) Man erkennt hier wiederum die Methode, allgemeine Begriffe real zu setzen. Dem in die Geschöpfe vertheilten geistigen, als V^ermögen sich so zu vertheilen zusammengefassten Wesen wird ein zweites von entgegengesetzter und höherer Natur gegenübergestellt; zur Vollendung des Begriffs müssen aber auch beide wieder in einem noch höheren, der ihre entgegenstehenden Eigenschaften in sich vereinigt, zusammengefasst werden. Manus lässt (1. 19.) das Weltall aus den feinen Körperelementen sieben unermesslich starker Geister, Purushäs (nach dem Scholiasten, der fünf Elemente, des Selbstgefühls und der grossen Seele) bestehen, und setzt hinzu: das Vergängliche aus dem Unvergänglichen. Hier wird also das Wort allgemein von Urkräften gebraucht, aber immer liegen die oben als seine Kriterien angegebnen Begriffe des Schaffens, und des über endliche Natur Hinausgehenden darin.</p>
+
+               <p>Die Natur ist, wie wir eben gesehen, nach Krischnas Lehre, gleich ewig mit der Gottheit. (XIII. 19.) Sie besitzt drei Eigenschaften, guna, welche den Geist, so wie er sich ihr gesellt, binden. Unter diesem Binden wird alles Verwickeln in irdische und weltliche Dinge verstanden, die den Menschen von allein auf die Gottheit gerichteten Gedanken abziehen, und ihn dadurch an der Erreichung des letzten Zieles, der höchsten Ruhe, verhindern. In<pb n="5.217" xml:id="pbV217"/> diesem Sinne kann auch das Edelste, z. B. die Erkenntniss, binden. Die Natureigenschaften, auch absolut die Eigenschaftsdreiheit genannt, sind sogar dem Grade nach insofern verschieden, als das in jeder Bindende mehr oder weniger edel ist.</p>
+
+               <p>Die erste und edelste ist Sattiva, wörtlich die Eigenschaft des Seyns, aber in dem Sinne, in welchem das Seyn, frei von allem Mangel oder Nichtseyn, durchaus real ist, also in der Erkenntniss zur Wahrheit, im Handeln zur Tugend wird. Denn das Wort, das ursprünglich bloss ein von dem Participium des Verbum seyn gebildetes Abstractum ist, wird für diese beiden Begriffe gebraucht. Ich übersetze diese Natureigenschaft, um, so gut es gehen will, den Zusammenhang dieser Bedeutungen beizubehalten, durch Wesenheit.</p>
+
+               <p>Die zweite Eigenschaft ist Rajas. Dies Wort bedeutet eigent- lich Staub, es kommt aber von einer Wurzel {ranj)^ die ankleben,sich anhängen, und, durch eine nahe liegende Metapher, färben heisst. Ein davon abgeleitetes Nomen ist /-ö^^, zugleich Farbe und Begier. Alle diese Ausdrücke haben in ihrer bildlichen und Begriffsgeltung einen nahen Zusammenhang unter einander.</p>
+
+               <p>Die zweite der Natureigenschaften mit diesem Namen zu bezeichnen, mögen mehrere Beziehungen dieser Begriffe zusammengekommen se3n, die leicht aufregbare Heftigkeit des zerbröckelt wirbelnden, staubartigen Stoffes, das Schimmernde, Feurige des Farbenspiels, die zu dem Boden gehörende, sich leicht anheftende und verunreinigende Natur des Staubes. Je nachdem diese Begriffe anders und anders aufgefasst werden, giebt es mehr oder minder edle Abarten dieser Eigenschaft. Thatkraft, Feuer der Leidenschaft, Raschheit des Entschlusses gehören ihr an, Könige und Helden sind mit ihr ausgestattet, aber immer ist ihr etwas zur Wirklichkeit und zur Erde Herabziehendes beigemischt, das sie von der stillen und reinen Grösse der Wesenheit unterscheidet. Die von ihr Hingerissnen lieben alles Grosse, Gewaltige, Glänzende, aber sie verfolgen auch den Schein, sind befangen in der bunten Mannigfaltigkeit der Welt und werden sogar unrein genannt (XVIII. 27.), um dadurch zugleich auf die Befleckung hinzudeuten, der das weltlich gesinnte Gemüth nicht zu entgehen vermag. Obgleich aber stürmende Heftigkeit das Hauptmerkmal dieser Eigenschaft ist, so muss doch damit die Vorstellung eines niedrigeren, nicht die Grösse und Reinheit der Wesenheit er<pb n="5.218" xml:id="pbV218"/>reichenden Standpunktes, der bis zur Befleckung führen kann, verbunden werden. Ich habe versucht, in dem Wort Irdisch - heit die verschiednen Verzweigungen dieses Begriffs in der Wurzel zusammenzufassen. Es liegt in diesem Ausdruck zugleich das Streben nach Mannigfaltigkeit und das Hangen am Einzelnen. Indess fühle ich wohl, dass er, gegen den Indischen, zu abstract, auch sogar zu weit, und von der concreten Anwendung der Begriffe zu entfernt ist.</p>
+
+               <p>Die dritte und unterste Natureigenschaft ist Tamas (verwandt mit Dämmerung), Dunkel, Finsterniss, die keiner Erklärung bedarf. Am philosophischsten wird der Unterschied zwischen diesen drei Graden der endlichen Befangenheit in der Natur an den schon oben (S. 202.) erwähnten Stufen der Erkenntniss gezeigt. (XVIII. 20 — 22.) Der Wesenhafte sieht in allen Geschöpfen nur das Eine, in den getheilteh ungetheilte Seyn. Dem Irdischen erscheint in ihnen nur ihre mannigfach individuelle Geschiedenheit. Die von Dunkel Umnebelten hängen sich, ohne in Gründe einzugehen, auf beschränkte, das Wesen der Dinge verkennende Weise, an das Einzelne, und halten dies für das Ganze. Das nur den Ersten erkennbare reale und ungetheilte Seyn wird also von den Zweiten übersehen, von den Dritten miskannt.</p>
+
+               <p>Krischnas giebt dem Ardschunas folgende allgemeine Erklärung der drei Eigenschaften:</p>
+
+               <p>Wesenheit, Irdischheit, Dunkel der Natur Eigenschaften sind ; sie in dem Körper, Grossarmger, binden den Geist, den ewigen. Hier nun die Wesenheit strahlet rüstig in Fleckenlosigkeit, bindet durch süsser Lust Streben, Erkenntnissstreben, Reiner, du.</p>
+
+               <p>Die Irdischheit, begierathmend, erkenn' am Durst der Leidenschaft, durch Thatenstreben, Kdunteyas, den Geist im Körper bindet sie. Erkenntnissmangel zeugt Dunkel, betäubend dumpf die Sterblichen, mit vorsichtsloser Trägheit dies einschläfernd bindet, Bharatas.</p>
+            </div>
+
+            <div type="section" n="45">
+               <head>
+                  <title type="main">(XIV. 5-8.)</title>
+               </head>
+               <p>Krischnas bestimmt hernach im 17. und i-S. Gesänge eine Menge von Gegenständen: Handlungen, Opfer, Gaben, Glauben, Vernunft u. s. f. nach der Verschiedenheit, welche die mit jenen Eigenschaften Begabten in dieselben bringen, und man kann sich diese Anwendung leicht denken. Ueberall gehört das, was aus reiner Absicht, mit Selbstbeherrschung und Gleichmuth, in Richtung auf das Höchste gethan wird, den Wesenhaften, was aus<pb n="5.219" xml:id="pbV219"/> falschen Beweggründen, für vorübergehenden Genuss, zur Stillung augenblicklicher Begier, auf ungezügelte Weise, in Richtung auf einzelne, beschränkte Gegenstände geschieht, den Irdischen, das in Irrthum, Verkehrtheit und trägem Starrsinn Befangene den Finsteren an.</p>
+
+               <p>Es liegt in dieser Eintheilung unläugbar eine richtige und philosophische Ansicht der Natur, die in derselben zuerst das Gediegene, Reale, vom Mangelhaften, bloss Scheinbaren, unterscheidet, die Quellen des Mangelhaften in den beiden Gränzen aller Endlichkeit, dem Mangel an Kraft und dem Mangel an Gleichgewicht aufsucht, und das Gediegene selbst, als doch nur endlich real, auch wieder als eine Naturbeschränkung auffasst.</p>
+
+               <p>Nach einer von Colebrooke (/. c. p. 40.) aus einem Com- mentator eines philosophischen Werks angeführten Stelle sollte man glauben, dass die drei Natureigenschaften, nach ihren Graden, unter Göttern, Menschen und Thieren vertheilt wären, und mithin allen Menschen, ohne Unterschied, die Irdischheit zukäme.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Nach der Lehre der Vedäs soll Vischnus in der Eigenschaft der Wesenheit, Brahma in der der Irdischheit, Rudras in der der Finsterniss wohnen. Guigniaut.</hi></note> Auf keinen Fall aber ist dies die Meinung unsres Gedichts. Es geht deutlich aus den beiden letzten Gesängen hervor, dass die Eigen- schaften unter den Menschen verschieden vertheilt sind. Ob sie die Gränzen des Kastenunterschiedes bestimmen ? ist zweifelhafter. Es heisst zwar allerdings, dass dieselben nach ihren, aus ihrem eigenthümlichen Seyn entspringenden Eigenschaften, gtina^ vertheilt sind (XVIII. 41. IV. 13.), und die Wesenheit könnte auf die Brahmanen, die Irdischheit auf die Krieger fallen, allein es müssten, da es vier Kasten giebt, zwei zusammengenommen seyn, und der Ausdruck Eigenschaft kann hier leicht eine allgemeinere Bedeutung haben.</p>
+
+               <p>Die Handlungen entspringen aus den drei Eigenschaften, und wenn der Mensch sich selbst für ihren Urheber hält, sind es eigentlich die Eigenschaften, die in Wirksamkeit treten, (lll. 27—29.)</p>
+
+               <p>Auf ähnliche Weise ist es in Gott. Alles Seyn der drei Eigenschaften stammt von ihm, seine obenerwähnte Zauberkraft Religtons de Antiqiiite. 1. 239. Anm. 270. Eine ähnliche Stelle kommt bei Colebrooke (/. c. p. 30. w: 2.) vor, wo aber die Eigenschaften anders vertheilt scheinen.<pb n="5.220" xml:id="pbV220"/> ist aus ihnen zusammengesetzt, und täuscht eben die Menschen dadurch, dass sie nicht einsehen, dass Gott höher, als sie, und unvergänglich ist. (VII. 12 — 14.) Sie sind aber nur in ihm, weil die Natur in ihm ist, denn unmittelbar gehören sie dieser an (XIII. 21.), sie binden auch eben so wenig seine Freiheit, als die Natur und sein Handeln es thut. Daher heisst er zugleich eigen- schaftslos und die Eigenschaften geniessend. (XIII. 14.)</p>
+
+               <p>Die Besiegung dieser Eigenschaften führt zur Unsterblichkeit (XIV. 20.), und obgleich es kein Wesen, weder auf Erden, noch im Himmel, weder unter den Göttern, noch unter den Menschen giebt, in dem sie nicht vorhanden wären, so muss man doch streben, sich von ihnen zu befreien. (IL 45.) Man kann aber als von ihnen befreit angesehen werden, wenn man, in vollkommnem Gleichmuth über alle irdischen Erfolge, dem V^'^alten der Eigenschaften in sich, ohne alle Theilnahme, nur als ein Fremder zusehend, sich allein dem Nachdenken über die Gottheit, und ihrem Dienste widmet. (XIV. 22 — 26.)</p>
+
+               <p>Das System der Indischen Philosophie, zu dem die in Krischnas Gespräch entwickelte Lehre, deren theoretische Dogmen ich hier vorzutragen versucht habe, gehört, ist im Ganzen das Sänkhya- System, d. h. dasjenige, welches in die Erforschung der Natur der Dinge durch Aufzählung ihrer Principien arithmetische Vollständigkeit und Genauigkeit zu bringen strebt. Es theilt sich in verschiedne Zweige, aber alle haben zum gemeinschaftlichen Grundsatz, dass zukünftigem Uebel entgegengearbeitet werden muss, und dass klare Erkenntniss rein geschiedner Wahrheit der Weg dazu ist. Die eine Lehre dieses Systems bleibt bei der Anwendung des raisonnirenden Verstandes stehen, und läugnet, dass es Beweise des Daseyns Gottes, als eines unendlichen Wesens, gebe. Ihr Schöpfer ist endlich und aus der Natur entstanden. Eine zweite Lehre dieses Systems, die Yöga-Lehre, stellt nicht nur Gott in selbständiger Unendlichkeit an die Spitze der Dinge, sondern setzt in die tiefste und abgezogenste Betrachtung seines Wesens das wahre Mittel der Erreichung ewiger Seligkeit. (Golebrooke. /. c. p. 20. 24 — 26. 37. 38.)</p>
+
+               <p>Krischnas unterscheidet sehr bestimmt beide, indem er gleich im zweiten Gesänge dem Ardschunas sagt : was er ihm bis dahin durch Vernunftgründe iSänkhyd) bewiesen, solle er nun hören, indem er seinen Sinn zum Yoga stimme. (IL 39.) In seinem ganzen übrigen Vortrag bleibt er sichtlich bei dem Letzteren<pb n="5.221" xml:id="pbV221"/> Stehen. Seine Lehre ist also Yöga-Lehre.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Ich habe mich gefreut zu sehen, dass Herr Burnouf dieselbe Ansicht über das Verhältniss der Bhagavad-Gitä zu der Sänkhya-Philosophie hat. Man sehe den zweiten seiner interessanten Aufsätze über den Bhägavata Puräna im Journ. Asiat.</hi></note> Er hatte sie schon einmal offenbart, und sie hatte sich unter den Weisen der Vorzeit durch Ueberlieferung fortgepflanzt, aber im Verlauf der Zeiten war sie untergegangen, darum erklärt er sie dem Ardschunas aufs Neue. (IV. i — 3.) Sie ist aber eine Geheimlehre, die nur dem Würdigen mitgetheilt werden darf. (XVIII. 67—69.) Ob und in wiefern unser Gedicht hierin mit dem obenerwähnten Werke Patandschalis übereinstimmt, lässt sich bei Colebrooke's kurzen Andeutungen nicht entscheiden. Höchst merkwürdig wäre die genaue Vergleichung beider, und ich würde die gegenwärtige Arbeit noch verschoben haben, wenn man nicht fürchten müsste, dass es nicht die Absicht des Englischen Gelehrten sey, noch einmal auf diesen Gegenstand zurückzukommen. Der Begriff des Yoga ist eines der unterscheidenden Merkmale dieser Philosophie, und gehört, nach unsren BegrifTen, zu ihrem praktischen Theile. Ich werde daher nun zur Entwickelung desselben übergehen, an diese die Lehre vom höchsten Gut und den Mitteln der Erreichung desselben anknüpfen, und mit diesem praktischen Theile die ganze Darstellung der Krischnas-Lehre beschliessen.</p>
+
+               <p>Yoga ist ein von der Wurzel ytij\ vereinigen, binden, dem lateinischen jüngere, gebildetes Nomen, und drückt die Verknüpfung eines Gegenstandes mit dem andren aus. Darauf lassen sich alle vielfachen abgeleiteten Bedeutungen des Worts zurückführen. Im philosophischen Sinne ist Yoga die beharrliche Richtung des Gemüths auf die Gottheit, die sich von allen andren Gegenständen, selbst von den innren Gedanken zurückzieht, jede Bewegung und Körperverrichtung möglichst hemmt, sich allein und ausschliessend in das Wesen der Gottheit versenkt, und sich mit demselben zu verbinden strebt. Ich werde den Begriff durch Vertiefung ausdrücken, und habe es schon in einigen oben übersetzten Stellen gethan. (S. 215. VIII. 8 — 10.) Denn ist auch jede Uebertragung eines aus ganz eigenthümlicher Ansicht entVII. 199. Ich muss hierbei bemerken, dass meine Abhandlung früher ausgearbeitet und vorgetragen war, als diese Aufsätze erschienen sind. Dasselbe gilt von mehreren in diesen Anmerkungen angeführten Stellen. Die Uebereinstimmung zweier, unabhängig von einander gewonnenen Ansichten wird dadurch ein um so stärkerer Beweis der Richtigkeit der Behauptung.<pb n="5.222" xml:id="pbV222"/> springenden Ausdrucks einer Sprache durch ein einzelnes Wort einer andren mangelhaft, so bleibt doch die Insichgekehrtheit das auffallendste Merkmal, an dem man den Yögi^ d. h. den dem Yoga sich Widmenden und in demselben Begriffnen erkennt. Auch liegt in dem Ausdruck der Vertiefung die mystische, dem Yogi eigne Gemüthsstimmung, die, wo das Wort absolut gebraucht ist, am natürlichsten auf die Endursach aller Dinge bezogen wird. Durch die Richtung auf die Gottheit geht der Begriff in den der Frömmigkeit (II. (5i. VI. 47. IX. 14.), durch das ausschliessliche Hingeben an Einen Gegenstand in den der Weihung, Widmung über, und eignet sich von diesen beiden Seiten für den lateinischen devotio und die von diesem in den neueren Sprachen abgeleiteten. Der ursprüngliche Begriff der V-'erknüpfung verschwindet aber bei dieser Uebertragung zu sehr, und die ganze Bedeutung des Worts wird vermuthlich sogar zu enge bestimmt. Denn nach einer Stelle Colebrooke's {p. 36.), wo er von Patandschalis Yöga-Lehre spricht, scheint (da er ausdrücklich von meditation on special topics redet) das stiere Nachdenken des Yogi auch auf andre Gegenstände, als die Gottheit gerichtet seyn zu können. Gar keinen Gebrauch verstattet devotio in den Stellen, in welchen Yoga, wie wir weiter unten sehen werden, als eine Thatkraft und eine Eigenschaft in der Gottheit selbst geschildert wird. Als Anstrengung, Beschäftigung kommt das Wort auf den Begriff" hinaus, sich zu etwas zu bestimmen, auf etwas zu legen, etwas zu üben, und in diesen mannigfaltigen Bedeutungen geht es Zusammensetzungen mit mehreren andren Wörtern ein, indem bald der Zweck, bald die anzuwendenden Mittel näher bestimmt werden.</p>
+
+               <p>Das erste Erforderniss der Vertiefung ist die Unterdrückung aller Leidenschaften, die Abgezogenheit von aller Gewalt der Sinne, ja allen äussren, sie reizenden Gegenständen. Erst wenn die Geistigkeit Herrschaft gewonnen hat, kann die Vertiefung Kraft haben.</p>
+
+               <p>Die Vertiefeten, anstrebend, schaun in sich selber ruhend ihn,<note type="footnote" n="*)" resp="gnd-116890657"><hi>Nemlich den höchsten Regierer.</hi></note> doch nicht ihn schaun, auch anstrebend, die nicht vollendet Geistigen.</p>
+
+               <p>(XV. II.) Auf diese Weise trift hiermit das oben von der Vernichtung der Handlungen durch die Gleichgültigkeit über ihre Erfolge Ge- sagte zusammen, und zwar so sehr, dass, wie wir oben gesehen<pb n="5.223" xml:id="pbV223"/> (S. 195. IL 47. 48.), Gleichmuth und Vertiefung als Synonyme gebraucht werden. Ist auf diesem Wege jedes Regen der Leidenschaft, ja der leisesten Neigung getilgt, und die Seele zu völliger Partheilosigkeit (VI. q.) gestimmt, so werden Nachdenken und abgezogne Betrachtung herrschend. So muss der Geist sich, durch nichts Fremdartiges gestört, nur gesammelt in sich, in den Gedanken der Gottheit versenken, und mit unabirrend stätiger Beharrlichkeit an der Urwahrheit hangen. Aber nun stellt, wie wir auch bei andren Gelegenheiten gesehen haben, das System sein Dogma wieder auf die Spitze, Auch der innre Gedanke soll unterdrückt, alle innre und äussre Veränderung aufgehoben werden, welche die vollendete Ruhe, das ewig sich gleiche Dase3^n des Unvergänglichen stört. Es wird dies durch ein Auslöschen, Verwehen des irdischen Geistes ausgedrückt. Man ist geneigt, das Nichtdenken nur von der Unterdrückung alles Gedankens an irdische Gegenstände zu nehmen. In Manus Gesetzbuch (XII. 122.) wird von dem höchsten Geiste gesagt, dass nur mit schlummerndem Nachdenken zu ihm zu gelangen ist. Aber der Scholiast erklärt dies bloss von der Verschliessung der äussren Sinne. Ich zweifle jedoch, dass diese Erklärungsart, durch welche auffallende, und wirklich überspannte Behauptungen zu ganz gewöhnlichen Be- griffen herabgestimmt werden, dem wahren Sinne des Systems entspricht.</p>
+
+               <p>Eine Hauptstelle unsres Gedichts über die Vertiefung ist folgende :</p>
+
+               <p>Wie Lampe, frei von Windwehen, nicht sich reget, des Gleichniss ist der Vertiefte, der, festsinnig, vertieft in Selbstvertiefung sich. Da, wo, gehemmt, des Geists Denken durch der Vertiefung Uebung ruht, wo allein durch sich selbst, sein Selbst schauend in sich, der Mensch sich freut, endlose Wonne, fühlbare dem Geist nur, übersinnliche kennet, und stätig ausdauernd, niemals von ewger Wahrheit wankt, wo, dies erreichend, nicht Andres er achtet diesem vorzuziehn, und wo Unglück nicht, auch schweres, erschüttert mehr den Stehenden, diese, des Schmerzgefühls Lösung, wisse, Vertiefung wird genannt.</p>
+
+               <p>In Vertiefung der Mensch muss so vertiefen, sinnentfremdet, sich, tilgend jeder Begier Streben, von Eigenwillens Sucht erzeugt, der Sinne Inbegriff bändgend mit dem Gemüthe ganz und gar.</p>
+
+               <p>So strebend, nach und nach ruh' er, im Geist gewinnend Stätigkeit, auf sich selbst das Gemüth heftend, und irgend etwas denkend nicht; wohin, wohin herumirret das unstät leicht bewegliche, von da, von da zurückführ' er es in des innren Selbsts Gewalt. Den Vertiefeten, Stillsinngen der Wonnen höchste dann besucht, dem Irdischheit die Ruh nicht stört, den reinen, gottgewordenen.</p>
+            </div>
+
+            <div type="section" n="46">
+               <head>
+                  <title type="main">(VL 19-27.)</title>
+               </head>
+               <pb n="5.224" xml:id="pbV224"/>
+               <p>An andren Stellen (V. 27. 28. VI. 10 — 15. VIII. 10 — 14.) werden zu diesen Vorschriften andre mystische, und abergläubisch spielende, aber immer auf den Grundideen dieser Lehre ruhende hinzugefügt. Der sich der ^'^ertiefung Widmende soll in einer menschenfernen, reinen Gegend einen nicht zu hohen und nicht zu niedrigen, mit Thierfellen und Opfergras [hisa, poa cynosurotdes nach Wilson) bedeckten Sitz haben, Hals und Nacken unbewegt, den Körper im Gleichgewicht halten, den Odem hoch in das Haupt zurückziehen, und gleichmässig durch die Nasenlöcher aus und einhauchen, nirgends umherblickend, seine Augen gegen die Mitte der Augenbraunen und die Spitze der Nase richten, und den oben (S. 212.) erwähnten geheimnissvollen Namen der Gottheit Om! aussprechen.</p>
+
+               <p>Aus dieser Lehre und Schule sind unstreitig die noch heute in Indien vorhandnen Yogis hervorgegangen. Der Gouverneur Warren Hastings giebt in einem 1784. geschriebnen, und der Wilkinsischen Uebersetzung unsres Gedichts vorgedruckten Briefe {p. 8. g.) eine lesenswürdige Beschreibung davon, und der Mann, den er in dieser Seelenübung gesehen, hatte einen solchen Eindruck auf ihn gemacht, dass er es nicht für unmöglich hält, dass durch diese schulenweis geübte Trennung der Seele von den Regungen der Sinne, aus einer so von jeder zufälligen Beimischung freien Quelle, ganz neue Richtungen und Verbindungen des innren Gefühls {new tracks and combinations 0/ sentiment) und Lehren von gleich tiefer Wahrheit mit unsren einfachsten hervorgegangen seyen. Es ist aber schwer, in solchen Ueberspannungen, wenn sie auch wahr und ungeheuchelt seyn sollten, mehr als denselben schwärmerischen Mysticismus zu erkennen, der in verschiednen Himmelsstrichen, Systemen und Religionen nur andre Gestalten annimmt.</p>
+
+               <p>Was unser Gedicht betrift, so begünstigt es wenigstens diese Uebung nicht als fortdauernde und beständige eines ganz müssigen, nur beschaulichen Lebens. Wir haben oben gesehen, wie auf das Handeln, und zwar auf das bewegteste und lebendigste in Kampf und Schlachtgewühl gedrungen, wie es als Wahn geschildert wird, durch Nichtsthun das Streben der irdischen Kräfte nach Handlung und Wechsel aufhalten zu wollen, wie jeder die Aufgabe lösen soll, nach den Satzungen seines Standes zu handeln, aber, ohne Rücksicht auf den Erfolg, sich mit dem Geiste über demselben zu erhalten.</p>
+
+               <pb n="5.225" xml:id="pbV225"/>
+               <p>Als Nachdenken und Wahrheitsforschung geht Krischnas Lehre sichtlich von dem Grundsatz aus, dass die reine Wahrheit, diejenige, welche die Dinge an sich erkennt oder ahndet {tattwa)^ nicht auf dem Wege discursiven und raisonnirenden Verstandes gefunden werden kann, dass man dazu das Gemüth vorbereiten, von allem Unreinen und Kleinlichen läutern, die Erkenntniss in ihm herrschend machen, und dann das innre Wahrheitsgefühl heieben, den Geist auf den Punkt richten muss, in dem das Ich mit den Dingen an sich, als auch zu ihnen gehörend, zusammenhängt. Durch das Anerkennen der Einerleiheit alles Geistigen, und der Individualität [prifhaktzva)^ als der eigentlichen Schranke im Menschen, macht diese Lehre eine sehr bestimmte Scheidung des Endlichen vom Unendlichen.</p>
+
+               <p>Es scheint sogar, als würde die Wahrheit als ursprünglich in den Menschen gelegt, und nur nach und nach in Vergessenheit eingeschläfert betrachtet. Wenigstens sagt Ardschunas, als ihn Krischnas am Ende des Gesprächs fragt, ob ihm nun die feste Erkenntniss gekommen sey?</p>
+
+               <p>Verschwunden ist der Irrthum mir, Erinnerung gekehrt durch dich, des Zweifels ledig, fest bin ich, und will vollbringen, was du sagst.</p>
+            </div>
+
+            <div type="section" n="47">
+               <head>
+                  <title type="main">(XVIII. 73.)</title>
+               </head>
+               <p>Da diese Lehre auf unvermittelte Erkenntniss durch innre Anschauung ausgeht, so fordert sie von dem Geiste vor Allem Festigkeit und Stätigkeit, von deren angestrengter und beharrlicher Richtung auf den zu erforschenden Punkt das Gelingen nothwendig abhängt. Sie macht dadurch die Bildung des Charakters zu einem Mittel der Aufsuchung der Wahrheit, und sammelt alle Kräfte des Gemüths auf diesen einzigen Punkt. Der auf diese Weise hervorgebrachte Sinn ist daher immer nur Einer, da die nicht so Gestimmten, nemlich die, welche in Forschungen raisonniren, die durch Gründe vermittelt sind, und im Handeln Neigungen und Absichten folgen, sich in viele Sinne und Meinungen spalten. (IL 41 — 44.) Daher steht nichts dieser Lehre so feindselig gegenüber, als der Zweifel, der wie ein Verbrechen behandelt wird.</p>
+
+               <p>Erkenntnisslos und ungläubig kommt um der Zweifelathmende, nicht diese Welt ist, nicht jene. Glück nicht des Zweifelathmenden. Verzichtend wer vertieft handelt, den Zweifel durch Erkenntniss tilgt, den Geistigen die Handlungen nicht binden, Goldverschmäher, du.</p>
+            </div>
+
+            <div type="section" n="48">
+               <head>
+                  <title type="main">(IV. 40. 41.)</title>
+               </head>
+               <p>W. V. Humboldt, Werke. V. I5</p>
+
+               <pb n="5.226" xml:id="pbV226"/>
+               <p>Aus dem Gegensatz im letzten Verse sieht man, in welchem Sinne hier Geist genommen wird, nemlich nicht bloss als Denkvermögen, das im Zweifler gerade vorzugsweise thätig ist, sondern als Quelle unvermittelten Wissens.</p>
+
+               <p>Die nothwendige Stufe zur Vertiefung ist die Erkenntniss. Denn um zur Vertiefung zu gelangen, muss der Mensch sich zur höchsten der dreiNatureigenschaften,derWesenheit,aufgeschwungen haben (XVIII. 33 — 35.), dazu aber führt die Erkenntniss.</p>
+
+               <p>In alle dieses Leibs Thore wenn einzieht, füllend sie mit Glanz, die Erkenntniss, gelangt, wisse, zur Reife dann die Wesenheit.</p>
+            </div>
+
+            <div type="section" n="49">
+               <head>
+                  <title type="main">(XIV. II.)</title>
+               </head>
+               <p>Unter der Erkenntniss wird diejenige verstanden, welche gleichsam die Endfäden aller einzelnen Forschungen zusammenknüpft, die Unterscheidung des Vergänglichen vom Unvergänglichen, die Einsicht in den Stoff und den Stoffkundigen (S. 208.) und in die Erlangung der letzten Vollendung. (XIII. 27. 2. XVITI. 50.) Insofern sie zugleich auf Geist und Charakter wirkt, werden alle Tugenden des Weisen und Heiligen in ihre Schilderung mitaufgenommen. (XIII. 7 — -11.) Sie wird empfohlen und gepriesen, als das Feuer, welches die den Menschen bindenden Handlungen in Asche verwandelt, als die Sonne, welche den höchsten Pfad erleuchtet, als die Reinigung, die der Weise in sich selbst findet. Von dem, der sie besitzt, sagt Krischnas, dass er ihn als sein eignes Selbst betrachtet. (IV. 33 — 38. V. 16. 17. VII. 15 — 20.)</p>
+
+               <p>Die Freiheit von aller Sinnenregung ist ihre Grundlage; so wie die aus dieser tliessende heitere Stille herrscht, nimmt der Geist den ganzen Menschen ein. (II. 65.)</p>
+
+               <p>An unmittelbare Erkenntniss und einen Gemüthszustand, wie er in dem Vertieften geschildert worden ist, muss sich nothwendig auch der Glaube anschliessen. (VI. 47. XII. 2.) Er rettet noch den vom Verderben, welcher, von Begierden verführt, von dem stätigen Suchen nach dem Höchsten abirrt. (VI. 37 — 45.) Er wird, als der E!rkenntniss vorausgehend und zu ihr führend dargestellt, nemlich indem ein innres Wahrheitsgefühl das bezeichnet, worüber die Erkenntniss nachher ihr volles Licht ausgiesst. (IV. 39.) Der Glaube ist dreifach nach den Natureigenschaften, da er aus dem Charakter des Menschen entspringt. Dieser Charakter und der Gegenstand des Glaubens in jedem stehen in unmittelbarer Ver<pb n="5.227" xml:id="pbV227"/>bindung. Denn der Glaube ist das Bild des Charakters, und der Gläubige ist, wie das, woran er glaubt. (XVII. 2. 3.)</p>
+
+               <p>Glaube, Erkenntniss, Vertiefung und Jede andre Seelenübung aber haben zum höchsten Ziel die Befreiung von der Nothwendig- keit neuer Geburt nach dem irdischen Tode. (S. 208. IV. 9. S. 216. XIII. 23.) Der Mensch kann durch Wiedergeburt in edlere und glücklichere Wesen übergehen (VI. 41. 42.), er kann in den Zwischenzeiten himmlische Freuden gemessen (IX. 20. 21.), aber das letzte Ziel ist das gänzliche Hinaustreten aus diesem ewig rollenden Wechsel wiederkehrenden Entstehens, die Lösung von den Banden der Geburt. (II. 51.) In einer Philosophie, welche alle Handlungen, alle sinnlichen Regungen, und selbst die unentbehrlichsten körperlichen V^errichtungen, als den Geist störend, fesselnd und verunreinigend ansieht, kann das irdische Leben nur als unstät und freudenlos erscheinen. (IX. 33.) Die Welt wird als eine sich ewig fortwälzende Maschine betrachtet, die jeder besteigt, der in sie eintritt. (XVIII. (3i.) Ruhe muss also das höchste Glück seyn. (II. 66.) Da aber in den Gränzen der Endlichkeit auf Tod unausbleiblich Geburt folgen muss (S. 193. II. 27.), so bleibt zur Erreichung der vollkommnen Ruhe nichts übrig, als in die Gottheit, den Sitz aller Unvergänglichkeit und Unveränderlich- keit, überzugehen. (VI. 15. S. 202. XIII. 30. S. 210. XVIII. 55.) Dies wird möglich durch die Verwandtschaft alles rein Geistigen, dessen Trennung von allem Körperlichen die Vertiefung bewirkt. So hangen alle Theile dieses Systems aufs genaueste und festeste mit einander zusammen.</p>
+
+               <p>Die Erreichung dieses letzten Zieles wird den Frommen und Gläubigen fast auf jeder Seite unsres Gedichts mehreremale verheissen; es ist auch schon von Heiligen, Muni's erreicht worden. (XIV. I.) Es wird schlechthin das Höchste (III. 19.) und die Befreiung (III. 31. IV. 15.) genannt, der höchste (VI. 45.), der ewige (XVIII. 56.), der nie zurückführende Pfad (V. 17.), die Vollendung (XII. 10.), obgleich an einer andren Stelle (XVIII. 50.) die Vollendung von der Erlangung der Gottheit, als einer höheren Stufe unterschieden wird, ferner die höchste Ruhe (IV. 39.), das Gehen zu Gott, Krischnas, und zur Gottheit, Brahma (IV. 9. 24.), die Berührung mit ihr (VI. 28.), das Eingehen in Gottes Daseyn (IV. 10.), das Verwehen inirwäna von w«, wehen) in die Gottheit (IL 72.), die Fähigung zur Gottheit zu werden (XIV. 26.), die Verwandlung in die Gottheit. (V. 24.)<pb n="5.228" xml:id="pbV228"/> Dahin gelangen die, welche sich ausschliesslich dem Höchsten widmen, keinem niedrigeren Wesen dienen, und ihre Gedanken allein auf ihn richten. Denn wem sich der Mensch widmet, zu dem gelangt er nach dem Tode. (S. 210. VIII. 13. IX. 25. XVI. 19.) Vorzüglich ist die Gedankenrichtung in der Todesstunde entscheidend. (VIII. 5. 6.) Die den rechten Pfad einschlagen, befreien sich auch von den Umstürzungen der Weltalter, werden nicht wiedergeboren bei der neuen Schöpfung, kommen nicht um bei der Zerstörung der Welt. (XIV. 2.) Brahmas Welt ist die Grenze der Wiedergeburten.</p>
+
+               <p>Die Welten bis Brahmas Welt sind rückkehrbar wieder, Ardschunas, zu mir wer gehet, Käunteyas, dem wieder nicht erscheint Geburt.</p>
+            </div>
+
+            <div type="section" n="50">
+               <head>
+                  <title type="main">(VIII. 16.)</title>
+               </head>
+               <p>Es ist aber dies wieder eine der schon oben (S. 213.) erwähnten Stellen, wo es zweifelhaft bleibt, ob das Neutrum Brahma, die göttliche Substanz, oder der persönliche Gott Brahma gemeint sey. Ich nehme, dem Zusammenhange nach, das Letztere an. So gross nemlich auch die grammatische Bestimmbarkeit der Wörter in der Sanskrita Sprache ist, so kommt doch die Declination des Masculinum und Neutrum (VIII. 17. XL 37. XIV. 27.) in mehreren Casus überein, und so hat die Sprache doch Eigenthüm- lichkeiten, welche das Geschlecht nicht in jeder Stelle grammatisch unterscheiden lassen. Dies ist nemlich der Fall, wenn Masculinum und Neutrum oder wie bisweilen sich findet, gar alle drei Geschlechter dieselbe Grundform haben, und diese Grundform Element zusammengesetzter Wörter wird (II. 72. III. 15. IV. 24. 25. VIII. iG. XIII. 4. XVIII. 53. 54. Manus Gesetzbuch. I. 97.), und wenn bei Lautzusammenziehungen ein gleicher Vocal aus der Verbindung eines langen oder kurzen schliessenden mit dem das folgende Wort anfangenden entsteht. (IV. 24. Manus. 1. 11.) Von allen hier angeführten Stellen unsres Gedichts scheint mir nur in vieren (VIII. 16. 17. XI. 37. XIV. 27.), wo von Brahmas Sitz, Tag, Welt u. s. f. die Rede ist, der Gott, in allen übrigen, namentlich in denen, wo das Uebergehen, die Verwandlung in die Gottheit vorkommt, das göttliche Wesen, das Neutrum Brahma, gemeint. Hiermit stimmt auch die so sehr genaue Schlegelsche Uebersetzung, mit Ausnahme Einer Stelle (XIV. 27.), überein. Sie drückt das Neutrum durch numen oder ein andres Substantivum , den Gott durch seinen Namen aus. Allein auch wer zu dem höchsten, hier bildlich als Brahmas<pb n="5.229" xml:id="pbV229"/> Welt bezeichneten Aufenthalt der Ruhe gelangen will, muss doch vorher durch mehrere Wiedergeburten, sein Wesen immer mehr läuternd, gegangen seyn. (VI. 45. VII. 19.) Dies auf den Tod folgende Schicksal ist nach den drei Eigenschaften verschieden. Die in Dunkel Dahingehenden sinken in die Tiefe und werden aus geistesdumpfen Geschöpfen wiedergeboren; die in Irdischheit Sterbenden halten sich in der Mitte, und treten unter den Thaten- be gierigen wieder ans Licht; die das Leben in gereifter Wesenheit verlassen, erheben sich aufwärts zu den fleckenlosen Welten derer, die das Höchste kennen. (XIV. 14. 15. 18.) Diese Bestimmung scheint dieselbe mit der zu seyn, v/elche dem Gläubigen, aber nicht ganz Vollendeten angewiesen wird, der, vor einer neuen Wiedergeburt, unendliche Jahre in den Welten derer, die reinen Wandels gewesen, zubringen soll. (VI. 41. 42.J Auch der viel- leicht gleichfalls hiermit zusammenhangende Genuss himmlischer Freuden in Indras Welt (entgegengesetzt der Welt Brahmas) ist nur eine vorübergehende Belohnung; denn v^enn das auf der Erde erworbene Verdienst dadurch aufgezehrt ist, müssen, die dessen theilhaftig sind, in diese Welt des Todes zurückkehren. (IX. 20 — 22.) Dies wird als das Schicksal derer geschildert, die sich auf beschränkte Weise an die heiligen Bücher und die in ihnen vor- geschriebnen Cärimonien halten.</p>
+
+               <p>Denn gegen die Lehre der Vedäs und die wissenschaftliche Theologie eifert unser Gedicht auch sonst, nicht sie ganz verwerfend, aber sie darstellend, als nicht den letzten Grund erforschend, nicht die wahre Sinnesreinheit besitzend, und nicht das höchste Ziel erreichend. (II. 41 — 53.)</p>
+
+               <p>Da die Vertiefung die Umwandlung des menschlichen Wesens in göttliches zum letzten Zweck hat, so kann sie nicht bloss intel- lectuell seyn, sondern es muss in ihr zugleich eine wirkliche That- kraft liegen, und zwar eine solche, die etwas ausser dem Laufe der Natur Befindliches her^'^orzubringen, die Art und die Schranken des Daseyns zu verändern vermag. Dies ist auch begreiflich bei einer Anspannung des Gemüths, die vorzugsweise auf der festen Beharrlichkeit des Willens beruht, und zu welcher dasselbe durch Besiegung der Leidenschaften, Unterdrückung der Sinnenregungen und Entfernung von allen äussren Eindrücken, ja Aufhebung aller Körperv^errichtungen vorbereitet wird.</p>
+
+               <p>Patandschalis Yoga-Lehre enthält ein eignes Kapitel über diese Thatkraft, imbhiiti, wörtlich dieAnderswerdung, also die U m <pb n="5.230" xml:id="pbV230"/>Wandlung. Er setzt dieselbe in allerlei Zaubermacht, Gedanken errathen, Elephantenstärke erlangen, durch die Luft fliegen, alle Welten mit Einem Blick übersehen zu können u. s. f. Yogi und Zauberer sind daher bei dem Volkshaufen in Indien gleichbedeutende Begriffe. (Colebrooke. /. c. p. 36.)</p>
+
+               <p>Abergläubische Spielereien dieser Art werden in unsrem, auch in dieser Hinsicht reineren Gedicht mit keiner Sylbe erwähnt, jener Indische Ausdruck gar nicht von Sterblichen gebraucht, sogar der Thatkraft des Yoga bei ihnen nicht ausdrücklich, sondern nur in- sofern gedacht, als von der Gottwerdung die Rede ist, und als sie sich in Abschneidung des Zweifels und Besiegung der Sinne über das eigne Gemüth verbreitet. In dieser Beziehung wird der auf Selbstbesiegung gerichteten Vertiefung ein an der Erkenntniss angezündetes Feuer beigelegt (IV. 27.), eine sehr bedeutsame, der den ganzen Menschen umfassenden Natur der Vertiefung entsprechende Metapher.</p>
+
+               <p>Aber der Gottheit wird jene Wunderkraft {wibhüt-i) zugeschrieben, wie wir schon weiter oben (S. 202.) gesehen haben, und da sie die göttliche Natur nicht in etwas Höheres umwandeln kann, so bezieht sie sich auf das entgegengesetzte, auch der Natur der Wesen in sich widersprechende Eingehen des Unendlichen in das Endliche. Sie ist also ihr Vermögen zu schaffen (X. 6. 7.), eine Gestalt anzunehmen (XI. 47.), die Geschöpfe zugleich in sich ruhen und nicht in sich ruhen zu lassen. (IX. 5.) Dies geschieht durch die Verbindung der Gottheit mit der Natur, und es kehrt auch hier der ursprüngliche Begriff der Verknüpfung zurück.</p>
+
+               <p>In dem Laufe des Gesprächs erwähnt Krischnas auch andrer Mittel zur Erreichung der Seligkeit, namentlich der Opfer und Büssungen. Von Opfern und Gottesverehrungen zählt er mehrere -Yrten auf, giebt aber den Vorzug dem Opfer der Erkenntniss. (IV. 25 — 33.) Wer sein heiliges Gespräch mit Ardschunas liest, sagt Krischnas, kann ihn mit diesem Opfer verehren. (XVIII. 70.) Denn die Erkenntniss muss, wie wir gesehen haben, das Gemüth zur Vertiefung vorbereiten.</p>
+
+               <p>Die Büssung ist der Vertiefung untergeordnet. (VI. 46.) Sehr stark eifert Krischnas gegen die Qualen, welche sich Büssende aus Scheinheiligkeit, thörichtem Wahn oder andren dadurch zu schaden, nach noch heute in Indien bestehender Sitte, auferlegen. Er gesellt diese Menschen zu denen, in welchen die Natureigenschaft des Dunkels vorw^altend ist. (XVII. 5. 6. 19.)<pb n="5.231" xml:id="pbV231"/> webt. Der Vertiefte hasst niemand, ist aller Geschöpfe Freund, auf das Wohl aller bedacht. (XU. 4. 13.) Wer die überall wirkende Gottheit erkennt, verletzt sich selbst nicht. (XIII. 28.) Die Bösen kommen nicht zu Gott (VII. 15.); keiner, der recht gehandelt hat, sey er auch nicht von vollendeter Reinheit, geht verloren. (VI. 40.) Auffallend kann die Vorschrift erscheinen, dass jeder sein angebornes, seinem Stande entsprechendes Geschäft treiben soll, wenn es auch mit Schuld verbunden sey, auf welche unmittelbar der Ausspruch folgt : denn alles Thun von Schuld umhüllt, wie Feuers Lodern ist von Rauch.</p>
+            </div>
+
+            <div type="section" n="51">
+               <head>
+                  <title type="main">(XVIII. 48. b.)</title>
+               </head>
+               <p>In diesem Verse liegt zwar, vorzüglich nach dem, diesem System eigenthümhchen Begriffe der Handlungen (vgl. S. 193.), auch eine tiefe allgemeine Wahrheit, aber bei der ganzen Stelle muss man sich doch zugleich daran erinnern, dass, nach den Indischen, und namendich den der Kastenabtheilung zum Grunde liegenden Ideen, Vieles für Schuld geachtet wurde, was, nach allgemein sittlichen, gar nicht so erscheint. So war es untersagt, Thiere zu tödten, ja nur ein empfindendes Wesen irgend zu verletzen, und daher wurden selbst Opfer, weil dies mit ihnen verbunden war, nicht für ganz rein gehalten. (Colebrooke. /. c. p. 28.) Darin aber, dass der Mensch zu der, seinem Stande eigenthümhchen Sinnesart durch seine Geburt gleichsam unwiderruflich verdammt ist, liegt eine, von seinem Willen unabhängige Vorherbestimmung, und noch mehr wird diese da ausgesprochen, wo ein Unterschied zwischen den zu göttlichem und zu dämonischem Schicksal Gehörnen aufgestellt wird. Den ersteren werden alle Tugenden, den letzteren alle Laster zugeschrieben, Krischnas wirft sie, nach ihrem Tode, immer wieder in dämonische Empfängniss zurück, und so sinken sie zuletzt zu dem untersten Pfad hinab. (XVII. 5. 6.) Die Vereinigung der sittlichen Freiheit mit der Verkettung der sich gegenseitig bestimmenden Naturbegebenheiten und Handlungen ist in allen philosophischen Systemen eine, genau gesprochen, unlösbare Aufgabe. Die Freiheit kann</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Altersgedichte</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Neunter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif09humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1912">1912</date>
+                  </imprint>
+                  <biblScope unit="page" from="152" to="158"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1823">1823</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="9.152" xml:id="pbIX152"/>
+            <p>lO.</p>
+
+            <head>
+               <title type="main">Altersgedichte.</title>
+            </head>
+            <p>Ich bin ein armes, verlorenes Kind, ich weine die klaren Augen mir blind, keine Thräne mehr aus den starrenden rinnt; man grabe mein Grab, mein Grab mir geschwind, und lege hinein mich leis' und gelind, dann säuseln über mir Regen und Wind.</p>
+
+            <p>Berlin, 23. Januar, 1823.</p>
+
+            <p>b. 2)</p>
+
+            <p>Der Todte braucht kein Haus von Stein, man scharret in die Erd' ihn ein; da liegt er ruhig, still, und kühl, im Leben war's ihm oft so schwül!</p>
+
+            <p>Berlin, 31. März, 1823.</p>
+
+            <p>Ich bin, wie die Frommen, in Eine Idee V Handschriß (i Quartseite) im Archiv in Tegel. — Erster Druck : Deutsche Rundschau 144, jj8 (Septemberheß igio). y Handschriß (i Quartseite) im Archiv in Tegel. — Erster Druck: Deutsche Rundschau 144, ^^8 (Septemberheß igio). j „liegt" verbessert aus „ruht". 'j Handschriß von c und d (i Folioseite) im Archiv in Tegel. I nach „bin" gestrichen: „so". — 2 „Eine" verbessert aus „eine einzige".</p>
+
+            <pb n="9.153" xml:id="pbIX153"/>
+            <p>versunken, entnommen dem Wohle und Weh. Worein ich mich senke, das ist nicht unfromm, doch wie ichs mir denke, ists anders, als fromm.</p>
+
+            <p>d.</p>
+
+            <p>Es giebt ein farbig glühend Bild, das mir von Kindheit an die Seele hat gefüllt, das ich im Grab erst missen kann. 5 Dem Bilde ich verdanke, dass ich in keinem Weh unmuthig jemals wanke, es geh mir, wie mirs geh.</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">Dem Bilde ich verdanke, lo dass Glück mir Einsamkeit,</title>
+               </head>
+               <p>dass nimmer ich erkranke an leerer Eitelkeit.</p>
+
+               <p>Dem Bilde ich verdanke, dass ewig in mir lebt 15 ein einziger Gedanke, der mich der Erd' enthebt. Dem Lob ich gern entsage, den Freuden auch der Welt. Das Bild versüsset meine Tage, 20 und mir den Busen schwellt.</p>
+
+               <p>Was ist das Bild gewesen, nehm' ich mit mir ins Grab. Wer will im Herzen lesen, steige mit mir hinab.</p>
+
+               <p>Beim Zurückfahren vom Kochelfall, 22. August, 1824. j nach „versunken" gestrichen : „und". — 4 nach „und" gestrichen : „dem". — 5 „senke" verbessert aus „versenke". — 6 nach „das" gestrichen: „eine". — 7 „ichs" verbessert aus „ich es". — 6' „ists anders" verbessert aus „ist anders es"^ ^ „gefüllt" verbessert aus „erfüllt". — 10 „dass" verbessert aus „das".</p>
+
+               <pb n="9.154" xml:id="pbIX154"/>
+               <p>In der Bilder Ernst verloren, die ich schaffe neu und neu, hab' ich mir zum Weib erkohren meines Geistes Phantasey. 5 Was in Dichtung lieblich schweifet, was urrein der Aether beut, die Begeisterung ergreifet, und sich sinnend dran erfreut.</p>
+
+               <p>Seit der Kindheit ersten Jahren 20 hat mich solch Gebild' umschwebt, und den silbergrauen Haaren Schimmer es der Jugend webt.</p>
+
+               <p>Denn zur Welt sich ausgebauet hat es in des Lebens Raum, 35 was der Blick je wahr geschauet, kehrt verherrlicht ihm im Traum.</p>
+
+               <p>Heiter, sonder Erdenschranken, ewig rein und hüllenlos, ruhn im mächtigen Gedanken 20 die Gestalten hehr und gross.</p>
+
+               <p>Und wie wenn die Erde fliehet, wenn er sich zum Himmel hebt, mich der Wirklichkeit entziehet, was mir tief im Busen lebt.</p>
+
+               <p>Burgörner, den 22. September, 1825.</p>
+
+               <p>f. Sonnett.2) Um mich auch schlug mit dichtverzweigten Ranken sich üppgen Epheus grün umwuchernd Laub. V Handschrift (i Quartseite) im Archiv in Tegel. i-j nach „Heiter" gestrichen: „fr [ei]". y Handschrift (i Quartseite) im Archiv in Tegel. — Erster Druck: Deutsche Rundschau 144, SßS—ß^g (Septemberheft igio).</p>
+
+               <pb n="9.155" xml:id="pbIX155"/>
+               <p>Gehoben aufwärts von der Erde Staub werd ich von übermenschlichen Gedanken.</p>
+
+               <p>Da erst gewahret' ich der Höhe Schwanken, es warnte die Vernunft, doch ich war taub, und wonnigsüss einsamer Träume Raub, verliess ich kühn zuletzt der Erde Schranken.</p>
+
+               <p>So fühlt' in Jünglings und in Alters Tagen dem Aether nah ich rein die Pulse schlagen, doch tief sich mir des Lebens Mark verzehren.</p>
+
+               <p>Nun kann ich's nicht mit Erdenkost mehr nähren, nicht mehr dem eignen Strahlenbrande wehren, verzehrt, wie Phaeton im Sonnenwagen.</p>
+
+               <p>Tegel, 27. Junius, 1827.</p>
+
+               <p>g. Ahndung. ^) Auf der Flur liegt Schnee,</p>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">in der Brust ist's weh; mich Ahndung durchschauert: mein Glück nicht mehr dauert. 5 Wenn der Orkan wild droht,</title>
+               </head>
+               <p>die Klippen erschaut der Pilot, mit männlichem Muth er am Steuer nicht ruht zu wachen und sorgen, 10 dass das Schiif sey geborgen. Doch tief ihm im Herzen ruft zu es mit Schmerzen: Eitel ist Kunst ohne Göttergunst, 15 dein Schilf wird zerschellen, ein Raub der Wellen!</p>
+
+               <p>Nach 4 zuerst 6 und 7 gestrichen. — 5 „erst gewahret'" verbessert aus „fühlte"; nach „der" gestrichen: „steilen". — 6 „doch ich" verbessert aus „der Sinn". — 7 „wonnigsüss einsamer" verbessert aus „einsamkeitentsprossner". — g nach „fühlt'" gestrichen : „ich". — 14 vor „verzehrt" gestrichen : „rvie P[haeton]".</p>
+
+               <p>V Handschrift (i stark beschnittene Oktavseite) im Archiv in Tegel; am obern Rande steht „2. April, 1828", die Unterschrift früher darüber stehender Verse, die abgeschnitten sind.</p>
+
+               <pb n="9.156" xml:id="pbIX156"/>
+               <p>Wie der Pilot bin ich.</p>
+
+               <p>Ich, wachend und sorgend, nicht rette mich.</p>
+
+               <p>Marburg, 5. April, 1828.</p>
+
+               <p>Den Frieden hat mit sich genommen, die nimmer nun wird wiederkommen, der Seele Ruhe von mir floh, ich werd' im Leben nicht mehr frohl 5 Es geht wohl fort im alten Gleise, die Lippe kann noch scheinbar scherzen. Doch ewig wach nach Geisterweise bleibt Gram in dem verwaisten Herzen.</p>
+
+               <p>Erst wenn das Leben ist verronnen, 10 der Tod mich lang hat hingestreckt, ist wieder Ruhe mir gewonnen. Ein Grab mich mit der Theuren deckt.</p>
+
+               <p>Ob Wiedersehn die Sehnsucht stillet?</p>
+
+               <p>In dunkeln Schleier ist's gehüllet. 15 Doch mit der Liebsten gleiches Loos zu theilen ist aller Erdenwunden Heilen.</p>
+
+               <p>Tegel, 8. Julius, 1829.</p>
+
+               <p>i. An die Gypse in meiner Stube. ^) Seht mich an, ihr himmlischen Gebilde, die ihr mich in lichte Höhen hebt, dass in überirrdische Gefilde</p>
+            </div>
+
+            <div type="section" n="3">
+               <head>
+                  <title type="main">einzugehn die Seele strebt. 5 Ja in jedem Augenblicke</title>
+               </head>
+               <p>bin zu sterben ich bereit,</p>
+
+               <p>V Handschrift (i Quartseite) im Archiv in Tegel. — Erster Druck : Deutsche Rundschau 144, jjg (Septemberheft igioj.</p>
+
+               <p>j „Ruhe von mir" verbessert aus „Ruh auf immer". — 5 „wohl" verbessert aus „noch". — 75 nach „Doch" gestrichen: „alle Wun[den]".</p>
+
+               <p>y Handschrift (i Quartseite) im Archiv in Tegel. — Erster Druck: Deutsche Rundschau 144, ß^g — ß4o (Septemberheft igio).</p>
+
+               <p>2 „mich" verbessert aus „mir die S[eele]". — 4 „einzugehn" verbessert aus f, sehnsuchtsvoll".</p>
+
+               <pb n="9.157" xml:id="pbIX157"/>
+               <p>rechne mir den Tod zum Glücke, da er Ihr mich wieder weiht.</p>
+
+               <p>Möcht' ich ruhn erst, wo Sie lieget! lo Wie auch dunkel künftges Schicksal sey, gleicher Schlummer doch, wie Sie, mich wieget, und kein Morgen wird mir ohne Sie mehr neu.</p>
+
+               <p>Ach! ich hab' an Ihr gehangen mit der Liebe reinsten Fülle, IS möchte nun die sehnenden Verlangen tauchen in des Grabes Stille.</p>
+
+               <p>Tegel, den l6. October, 1829.</p>
+
+               <p>k. An Columbus. ^) Vielerlei fabelt von dir man, Columbus, wie dir sich enthüllte da, wo sich Helios senkt, wogenumgürtetes Land. Weit einfacher sich löste dir, grosser Entdecker, das Räthsel, als bei der Lampe der Nacht, reich an genossener Lust, ein Genuesisches Mädchen, im Schlummer die Decke verrückend, wandte von dir das Gesicht, kehrte den Nacken dir zu. — Jeglicher Hinterer hat zwei deutlich geschiedene Hälften, und die unendliche Welt sollte aus Einer bestehn? — Also erwogst du im Geist und beschifftest des Oceans Fluten, sicher, dass stets die Natur gleicht sich im ewigen All.</p>
+
+               <p>1. Das Alter.^) Gerne mir liess ich erbleichen in silberner Locke die Scheitel, bliebe nur jung um mich her, w^as ich als blühend gekannt.</p>
+
+               <p>Gastein, 15. Julius, 1830. 12 „Morgen" verbessert aus „Tag". V Handschrift von k und l (i Oktavseite) im Archiv in Tegel. 2 „sich Helios" verbessert aus „die Sonne sich". — 5 „Schlummer" verbessert aus „Schlafe" aus „Schlummer". — 10 „stets — All" verbessert aus „immer sich gleich ist in dem All die Natur". ■J Erster Druck: Wilhelm von Humboldts Briefe an eine Freundin, herausgegeben von Albert Leitzmann 2, 40-^ (toog)-</p>
+
+               <pb n="9.158" xml:id="pbIX158"/>
+            </div>
+
+            <div type="section" n="4">
+               <head>
+                  <title type="main">m. Nach dem Lesen einiger Briefe meiner Frau.^)</title>
+               </head>
+               <p>Süsser Hauch aus lang vergangnen Zeiten mir das Herz ergreift mit Allgewalt. Die im Grabe ruhet still und kalt lispelt, wie von Aeolsharfen Saiten, 5 Sprache, der Erinnrung nur zu. deuten, die im tiefen Herzen wiederhallt.</p>
+
+               <p>Bilder jugendlicher Wonngestalt mich ins Land entfernter Sehnsucht leiten. Dieser Aufruhr zaubrischer Gefühle, lo dies in sich versunkne Wonnebeben kann nicht führen in das öde Leben:</p>
+
+               <p>Nein, sie ruft mich, wo am Strahlenziele schreitend durch des Erdenschoosses Kühle liebumschlungen selge Geister schweben.</p>
+
+               <p>l8. September, 1830. Abends.</p>
+
+               <p>V Handschrift (i Quartseite) im Archiv in Tegel. — Erster Druck: Deutsche Rundschau 144, ^40 (Septeynberheft igioj.</p>
+
+               <p>j „ruhet" verbessert aus „ruht". — 10 eingeschoben. — 11 „öde" verbessert aus „starre". — Nach 11 gestrichen: „das nichts kann dem glühnden Busen geben".</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

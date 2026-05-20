@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Über den Charakter der Griechen, die idealische und historische Ansicht desselben</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Siebenter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif0702humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1907">1907</date>
+                  </imprint>
+                  <biblScope unit="page" from="609" to="618"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="7.609" xml:id="pbVII609"/>
+            <head>
+               <title type="main">14- Ueber den Charakter der Griechen, die idealische und historische Ansicht desselben.</title>
+            </head>
+            <p>I. Die Griechen sind uns nicht bloss ein nützlich historisch zu kennendes Volk, sondern ein Ideal.</p>
+
+            <p>Ihre Vorzüge über uns sind von der Art, dass gerade ihre Unerreichbarkeit es für uns zweckmässig macht, ihre Werke nachzubilden, und wohlthätig, in unser durch unsre dumpfe und engherzige Lage gepresstes Gemüth ihre freie und schöne zurück- zurufen.</p>
+
+            <p>Sie setzen uns in jeder Rücksicht in unsre eigenthümliche, verlorene (wenn man verlieren kann, was man nie hatte, aber wozu man von Natur berechtigt war) Freiheit wieder ein, indem sie augenblicklich den Druck der Zeit aufheben und durch Begeisterung die Kraft stärken, die in uns gemacht ist, ihn selbst- thätig zu überwinden.</p>
+
+            <p>Sie sind für uns, was ihre Götter für sie waren; Fleisch von unserm Fleisch und Bein von unserm Bein; alles Unglück und alle Unebenheiten des Lebens; aber ein Sinn, der alles in Spiel verwandelt, und doch nur die Härten des Irrdischen wegwischt, aber den Ernst der Idee bewahrt.</p>
+
+            <p>II. Dies ist keine zufällige, sondern eine nothwendige Ansicht. Nichts Modernes kann je etwas Antikem an die Seite gestellt werden. Denn der, dem Modernen nothwendig mangelnde Hauch des Alterthums ist der, nicht dem einzelnen Verfasser irgend eines Werks, sondern der ganzen Nation und dem ganzen Zeitalter eigenthümliche Geist.</p>
+
+            <p>Handschrift (6 Quartseiten) im Archiv in Tegel.</p>
+
+            <p>W. V. Humboldt, Werke. VII. 39</p>
+
+            <pb n="7.610" xml:id="pbVII610"/>
+            <p>Dieser Geist unterscheidet sich von dem modernen, wie die Wirldichkeit von einem idealischen Gebilde irgend einer Art. Dieses nemlich ist reiner und voller Ausdruck von etwas Geistigem, veranlasst, sich in jedes seiner Theile immer tiefer zu versenken, und führt auf Ideeneinheit, da die Wirklichkeit hingegen das Geistige nur andeutet, wo sie gut ist, selbst anreizt, sie theilweise in Gedanken zu vernichten, und keine Art der Einheit, als dieses Gefühls, hervorbringt.</p>
+
+            <p>Was das Antike unterscheidet, ist daher nicht bloss Eigen- thümlichkeit, sondern wahrer und allgemeingeltender Vorzug.</p>
+
+            <p>Das Gefühl für das Alterthum ist also der Prüfstein der modernen Nationen, die schon auf Irrwegen sind, wenn sie Römer und Griechen gleich, oder gar im umgekehrten Verhältniss schätzen. Insofern antik idealisch heisst nehmen die Römer nur insofern daran Theil, als es unmöglich ist, sie von den Griechen zu sondern.</p>
+
+            <p>III. Der eigenthümliche Vorzug der Griechen ist, die Aufgabe, als Nation das höchste Leben darzustellen, auf der schmalen Grenzlinie aufgefasst zu haben, unter welcher die Lösung minder gelungen, und über welcher sie minder möglich gewesen seyn würde.</p>
+
+            <p>Das sie Unterscheidende liegt also ganz und gar in der Darstellung, und kommt darin nur um so mehr mit einem Ideal überein, als auch der Begriff eines Ideals es immer mit sich bringt, dass die Idee sich der Möglichkeit ihres Erscheinens unterwerfe.</p>
+
+            <p>Das Vorherrschende im Griechischen Geist ist daher Freude an Gleichgewicht und Ebenmass ; auch das Edelste und Erhabenste nur da aufnehmen zu wollen, wo es mit einem Ganzen zusammen- stimmt.</p>
+
+            <p>Das Leben kann wie eine Kunst, und der im Leben dargestellte Charakter wie ein Kunstwerk betrachtet werden. Wie nun in diesem nur das Genie den untheilbaren Punkt auffindet, in dem sich, nach gewaltigem Ringen, das Unsichtbare mit dem Sichtbaren zur Darstellung vermählt, so thut auch im Leben dies nur das Genie, und zwar das höchste von allen Genien, das eines ganzen, lebendig zusammenwirkenden Volkes.</p>
+
+            <p>IV. Um zu begreifen, wie eine ganze Nation sich einen nur durch Genialität erklärbaren Charakter geben könne, muss man einige Schritte zurück zur Betrachtung der Individualität thun.</p>
+
+            <p>Die Individualität eines Menschen ist Eins mit seinem Triebe^ Das ganze Universum besteht nur durch den Trieb, und es lebt<pb n="7.611" xml:id="pbVII611"/> und ist nichts, als indem und solange es mit Fortgang zu leben und zu seyn ringt. Da der Trieb nicht anders als bestimmt seyn kann, so wird es auch durch ihn die Form des Lebens, und alle Verschiedenheit der Existenz beruht nur auf der Verschiedenheit des Lebenstriebes selbst, oder seiner Möglichkeit sich durch den Widerstand, den er findet, durchzuarbeiten.</p>
+
+            <p>Dieser Trieb ist derselbe in der Körper und in der Geisterwelt, da er auf der einen Seite in der Organisation Gestalten Schaft,^) die nur durch den Gedanken hervorgebracht,-) und auf der andern z. B. in der Kunst und Sprache solche, durch welche sonst nicht auszudrückende Gedanken gegeben scheinen. Er kann daher ebensowohl dienen, das Höchste in der geistigen, als das Einfachste in der körperlichen Natur zu erklären.</p>
+
+            <p>Was nun dem Charakter der Griechen das Daseyn gab, war dass in ihnen der Trieb, rein und voll Menschen zu se\^n, sich durchaus herrschend zu machen verstand.</p>
+
+            <p>Was also w^underbarer Weise nur Werk des Genies seyn zu können schien, entstand aus blossem Hingeben an die Natur, wie überhaupt immer im Menschen das am feinsten Ausgebildete sich unmittelbar an das ursprüngliche anschliesst, von dem es gleichsam nur deutlichere Umschreibung oder Uebersetzung ist.</p>
+
+            <p>V. Dass der Trieb sich in der geistigen Natur des Menschen geltend mache, und ihm darin, über seinen Gattungscharakter, eine eigene bestimmte Form gebe, das kann nur durch Acte der Freiheit, d. h. solche, welche ausschliesslich aus der Persönlichkeit entspringen, geschehn.</p>
+
+            <p>Zwar kann die Freiheit weder den Trieb, noch, welches einerlei ist, den Charakter umändern; aber sie muss ihn wecken, und sogar die Richtung, die er nothwendig und unveränderlich durch sich selbst hat, willkührlich zu bestimmen scheinen; oder mit andern Worten, die Quelle der Willensbestimmungen muss in dem Gebiete liegen, in welchem beide, Nothwendigkeit und Freiheit, in einer höheren Idee untergehen.</p>
+
+            <p>Alsdann nennt man mit einem nur Deutschen verständlichen Wort den Trieb: Sehnsucht, und der Mensch hat daher nur insofern einen bestimmten Charakter als er eine bestimmte Sehn<pb n="7.612" xml:id="pbVII612"/>sucht hat, und da diese nur durch Kraft denkbar ist, nur soviel Charakter, als er moralische Energie besitzt.<note type="footnote" n="*)" resp="gnd-116890657"><hi>V „Gestalten schaß" verbessert aus „eine Gestalt hervorbringt", y „hervorgebracht" verbessert aus „erklärlich".</hi></note></p>
+
+            <p>Das zweite Hervorstechende in den Griechen ist also die Tiefe mit der die Sehnsucht, w^elche sie athmen, auf die ihr entsprechenden Gegenstände gerichtet ist, und die leichte Lebendigkeit, mit der sie sich darstellt, und statt unbefriedigt fort zu schmachten, sich immer neu und immer schöner wiedererzeugt; mithin die Fülle, Reinheit und Stärke ihres geistigen Lebens.</p>
+
+            <p>VL Von solcher (IV.) Sehnsucht (V.) beseelt, konnte das Streben der Griechen nur auf Darstellung des höchsten Lebens (III.), d. i. des menschlichsten Daseyns, gehen.</p>
+
+            <p>Das Grundbestreben des Menschen ist auf unbegränzte Erweiterung der vereinten Energie seiner Empfänglichkeit und Selbst- thätigkeit, und da er zugleich das Sichtbare und Unsichtbare ^) umschliesst, auf die Schlichtung ihres Widerstreits ohne Vernichtung des einen oder des andern, und indess dies erreicht werden kann, auf ihre Scheinvereinigung in einem Symbol, d. h. in einer Gestalt gerichtet, in welcher das Allgemeine, als Besondres auftritt, und das Besondre sich zum Allgemeinen erweitert. Diesem Bestreben ergab sich nun der Grieche reiner und ausschliessHcher, als eine andre Nation, und hieraus entsteht ein dritter, vierter und fünfter Hauptzug seines Charakters.</p>
+
+            <p>Er suchte immer das Nothwendige und die Idee, mit Hinweg- werfung der zahllosen Zufälligkeiten des Wirklichen.</p>
+
+            <p>* Seine hauptsächlichste Energie war die Kunst, das Gebiet der Symbole.</p>
+
+            <p>Wenn deshalb die Einbildungskraft das herrschende Vermögen seiner Seele wurde, so war es nur die ächte, und schöpferische, die keiner andern Kraft vorgreift, und nie ihr Gebiet verkennt; er besass daher gleichviel Fähigkeit zur reinen Speculation, und gleichviel praktische Weisheit. Er war natürlich und idealisch, niemals chimärisch und phantastisch.</p>
+
+            <p>VII. Das Gefühl der Menschlichkeit war so tief in den Griechen, dass sie tief empfanden, wie wenig in dasselbe die Nothwendigkeit augenblicklicher Dauer verwebt ist. Auf der schmalen Gränze zwischen Leben und Tod wollten sie daher nur Leben und volles Leben.<note type="footnote" n="*)" resp="gnd-116890657"><hi>V „das Sichtbare und Unsichtbare" verbessert aus „den Kreis des Sichtbaren und Unsichtbaren".</hi></note></p>
+
+            <pb n="7.613" xml:id="pbVII613"/>
+            <p>die idealische und historische Ansicht desselben. V — IX. Gl'l Verachtung todter Formen war also ein sechster Hauptzug ihres Charakters; sie setzten immer nur gern wirkhche, nicht conventioneile Kräfte in Bewegung. VIII. Dieser ganze Charakter aber erhielt erst volle Klarheit, Bestimmtheit und Mannigfaltigkeit durch das, was den siebenten Hauptzug der Griechen ausmachte, dass nemlich die Freuden der Geselligkeit jeden andern Genuss für sie übertrafen, dass alle ihre Einrichtungen durch die Neigung gebildet schienen, ihre Persönlichkeit in wechselseitige Reibung zu bringen, und dass sie eine sichtbare Richtung hatten, alles volksmässig zu machen, so wie: denn auch in der That selbst feine Charakterzüge in ihnen sich im ganzen Volke darstellten. Sogar die Familien machten bei den Griechen weniger abge- sonderte Massen, als bei den Römern, und ihre Bande waren weniger trennend für die allgemeine Nationalgemeinschaft. IX. Durch alle diese Züge wurde der Charakter der Griechen insofern das Ideal alles Menschendaseyns , dass man behaupten kann, dass sie die reine Form der menschlichen Bestimmung unverbesserlich vorzeichneten, wenn auch die Ausfüllung dieser Form hätte hernach auf andre Weise geschehen können. Denn wie im ^^origen gesagt ist, so ist die Bestimmung des Menschen immer die Erzeugung des Absoluten aus sich selbst, aber mit Hülfe der Eniversalität von Erscheinungen, durch welche das Absolute sich einzeln offenbart. Richtiges Verhältniss zwischen Empfänglichkeit und Selbst- thätigkeit, innige Verschmelzung des Sinnlichen und Geistigen, Bewahren des Gleichgewichtes und Ebenmasses in der Summe aller Bestrebungen, Zurückführen von Allem auf das wirkliche, handelnde Leben, und Darstellen jeder Erhabenheit im Einzelnen in der ganzen Masse der Nationen und des Menschengeschlechts, sind gleichsam die formalen Bestandtheile der menschhchen Bestimmung, und diese finden sich in dem Griechischen Charakter gerade mit aller Bestimmtheit der Umrisse, allem Reichthum der Form, aller Mannigfaltigkeit der Bewegung, und aller Stärke und Lebendigkeit der Farben gezeichnet. Aber es giebt hernach ein Verfolgen der einzelnen Momente dieses Bestrebens im Ganzen, das gerade den Alten fremd seyn musste, weil sie auf die leichte und glückliche Verbindung gingen, welcher jene Trennung wenigstens scheinbar und für den Augenblick widerspricht. Das Absolute muss auf abstractem Wege<pb n="7.614" xml:id="pbVII614"/> ergründet, das Wirkliche auf gelehrtem erforscht, das sittliche Zusammenleben der Menschen durch Mittel, die der Ausbildung des Individuums auf den ersten Anblick entgegenlaufen, zu grösseren und schwerer zu erreichenden Resultaten geführt werden.</p>
+
+            <p>Hierin können nun die Neueren die Alten übertreffen, die Verbindung nach der Trennung, schwieriger, aber auch grösser, als die vor derselben, kann der Nachwelt vorbehalten bleiben, und so sind die Griechen ein Muster, deren Unerreichbarkeit zur Nachahmung anspornt, statt von ihr abzuschrecken. X. Dieser nur in seinen hauptsächlichsten Zügen und mit Fleiss, damit das Bild ungetheilt bleibe, rasch entworfene Cha- rakter war derselbe unter allen Griechen und in allen Exertionen griechischen Geistes. Es waren nicht mehrere divergirende, sich entweder gegenseitig beschränkende, oder in etwas Drittem vereinigende Richtungen, sondern überall derselbe Stil und derselbe Geist. Was, der Eigenthümlichkeit desselben nach, einseitig hervorragte, das drängte das ihm Entgegenstehende zurück, und der Vorzug bestimmte unmittelbar auch den Mangel. In der Poesie herrscht der Stil der Plastik; die Philosophie geht Hand in Hand mit dem Leben; die Religion verwebt sich in dieses und in die Kunst; das öffentliche und Privatleben schmelzen den Charakter fester zusammen, statt ihn zu trennen und zu zerreissen.</p>
+
+            <p>Das Gegenbild hierzu findet sich in uns. Denn bei uns stehen sich moderner und antiker Stil und Charakter, deren keinen wir aufgeben und von welchem ersteren wir uns nicht einmal losmachen können, ewig entgegen, und erregen unaufhörlichen Zwie- spalt nicht nur unter verschiedenen Nationen und Individuen, sondern auch in der eigenen Brust, im Anschauen, Empfinden und Herv'orbringen.</p>
+
+            <p>Diesem an sich und geradezu nicht zu lösenden Widerstreit des Antiken und Modernen müssen wir hier um so mehr einige Worte widmen, als dadurch zugleich auch die Mängel des hier geschilderten idealischen Charakters der Griechen klar werden.</p>
+
+            <p>XI. Einen sehr anschaulichen und klaren Begriff des Unterschiedes zwischen beiden giebt die Frage : was gelang den Griechen und was den Neueren so vorzugsweise, dass die einen und die andern es niemals erreichten? und hier ist die Antwort: Bildhauerei und Musik. Zur Plastik der Alten haben die Neueren nie<pb n="7.615" xml:id="pbVII615"/> das Mindeste hinzuzusetzen versucht, der einzige Michel Angelo versuchte nur, und vielleicht ohne es zu ahnden, einen neuen Stil, und die schöne Musik hat das Alterthum nie gekannt.</p>
+
+            <p>Ohne beständig das Vorragen dieser beiden Künste vor Augen zu haben, bleiben alte und neuere Zeit gleich unerklärlich.</p>
+
+            <p>XII. Da in der Bildhauerei die Gestalt,^) in der Musik das Gefühl herrscht, so ist der allgemeine Charakter des Antiken das Classische, der des Modernen das Romantische, von welchen beiden jenes von der Brust aus ^) die Welt, dieses von der Welt aus -) die Brust zur Unendlichkeit zu erweitern versucht.</p>
+
+            <p>Das Classische lebt in dem Lichte der Anschauung, knüpft das Individuum an die Gattung, die Gattung an das Universum an, sucht das Absolute in der Totalität der Welt, und ebnet den Widerstreit, in dem das Einzelne^) mit ihm steht, in der Idee des Schicksals durch allgemeines Gleichgewicht.</p>
+
+            <p>Das Romantische verweilt vorzugsweise im Helldunkel des Gefühls, trennt das Individuum von der Gattung, die Gattung vom Universum, ringt nach dem Absoluten in der Tiefe des Ichs, und kennt für den Widerstreit, in dem das Einzelne mit ihm steht, keinen Ausweg, als entweder verzweiflungsvolles Aufgeben aller Ausgleichung, oder vollkommene Lösung, in der Idee der Gnade und Versöhnung durch Wunder.</p>
+
+            <p>Der höchste symbolische Ausdruck von beiden ist der Mythus und das Christenthum.</p>
+
+            <p>XIII. Aus diesen Hauptunterschieden entstehen aber durch die Anwendung derselben auf die verschiedenen Verhältnisse des Lebens so viele andre, dass zuletzt nichts ohne Zwiespalt übrigbleibt. Selbst bis auf diejenigen Dinge, welche die Vorzüge beider Zeitalter zu verbinden geschickt scheinen, dehnt sich noch die un- übersteigliche Schwierigkeit aus, die aus ihrer Entgegensetzung entspringt. So z. B. sollte man die Malerei, als die Vermittlerin zwischen Bildhauerei (in der Form) und Musik (in der Farbe) für ganz eigentlich unserer Zeit angemessen halten. Allein die fast absolute Unmöglichkeit einen Stoff und eine Behandlung zu wählen, die dem Mythus und dem Christenthum gleich fremd<pb n="7.616" xml:id="pbVII616"/> se3^en, beraubt immer wieder der Vorzüge der Seite, zu deren entgegengesetzter der Künstler sich näher gewendet hat.<note type="footnote" n="*)" resp="gnd-116890657"><hi>V „Gestalt" verbessert aus „Form". y Nach „aus" gestrichen: „durch", y „Einzelne" verbessert aus „Endliche".</hi></note></p>
+
+            <p>Eine eigenthche Lösung dieses Widerspruchs, eine wahre und eigentliche ^^erbindung des antiken und modernen Geschlechts in einem neuen dritten lässt sich, auch bei der freigebigsten Einräumung einer unendlichen Perfectibilität, nicht denken.</p>
+
+            <p>Die einzige Ausgleichung ist, dass das wahrhaft nicht bloss (wie bei den Griechen) symbolisch Höchste durchaus nicht bestimmt ist sich in seiner Totalität in dem Wesen eines Menschen oder einer Nation darzustellen, dass es in der WirkUchkeit nur theilweis erscheinen, als Ganzes aber nur von dem Gedanken, nur in der Tiefe der Brust, und nur in einzelnen glücklichen Augen- blicken angeschaut und geahndet werden kann.</p>
+
+            <p>Vorstehender Entwurf ergänzt in erwünschter Weise den auf uns gekom- menen Anfang des Einleitiingskapitels von Humboldts Geschichte des Verfalls und Unterganges der griechischen Freistaaten (Band j, iji. jyj)- Was davon ausgearbeitet vorliegt, entspricht, mannigfach erweitert und durch neue Ideen vertieft, aber doch in den Hauptlinien fast überall wörtlich anklingend, den fünf ersten Abschnitten des Entwurfs, dessen Fortsetzung uns erkennen läßt, wie diese Erörterungen über die Idealität des griechischen Charakters und sein Verhältnis zu dem modernen weitergeführt und zum Abschluß gebracht werden sollten. Zwei weitere Blätter geben uns die Überschriften des geplanten zweiten und dritten Kapitels dieser Einleitung: „2. Über die Ursachen, durch welche die Griechen zu den Vorzügen ihres }7ioralischen Charakters und dem Gipfel ihrer politischen Macht gelangten" ; „j. Über die Umstände, welche den politischen Verfall der Griechen und damit auch das Sinken ihres moralischen Charakters allmählich vorbereiteten." Für das historische Werk selbst bewahrt der Nachlaß eine Fülle von Materialien, Studien und Exzerpten, die uns zeigen, auf wie breiter historischer Unterlage das Bild der mazedonischen Epoche und des Hellenismus aus den antiken Quellen erbaut werden sollte. Zehn Hefte mit historischen Notizen aller Art und chronologischen Übersichtstafeln umfassen die gesamte, in sieben Perioden geteilte griechische Geschichte (vor der Eroberung Trojas, bis zur Einführung der eiiijährigen Archonten, bis zur Schlacht bei Marathon, bis zum Anfang des peloponnesischen Krieges, bis zur Schlacht bei Chäronea, bis zur Erklärung Achajas zu einer römischen Provinz, bis zum Ende griechischer Geschichte), die älteren Epochen mehr kursorisch, die mazedonische und hellenistische Zeit auf Grund des Demosthenes, der andern attischen Redner, des Diodor, Dionysius von Halikarnass und Pausanias verhältnismäßig eingehend behandelnd. Dem Leben und den Schriften des Demosthenes sind besondere ausführliche Studien und Sammlungen gewidmet. Ein weiteres Konvolut mit dem Gesamttitel „Hellas" enthält Sammlungen und Exzerpte zur Kenntnis der griechischen<pb n="7.617" xml:id="pbVII617"/> die idealische und historische Ansicht desselben. XIII.</p>
+
+            <p>Einleitung. Antiquitäten und zur Kulturgeschichte, nach Stichworten alphabetisch geordnet (z. B. Barbaren, Bevölkerung, Charaktere, Demagogen und Redner, Dichtkunst^ Drama, Erziehung, Gestalt und Kleidung, griechischer Charakter, Handel, In- schrißen, Klima und physische Beschaffenheit, Komiker, Krieg, Kunst, Männerliebe und Liebe überhaupt, Orakel, Philosophie, Religion, Sitten, Sklaven, Spiele, Sprache, Verfassung und Politik, Weiber, Wissenschaften', ferner Notizen über die einzelnen griechischen Landschaften, die wichtigsten Städte und Inseln; die Hauptquellen dieser Sammlungen sind Pausanias , Strabon, Plutarch, Diodor, Demosthenes, Aeschines, daneben neuere Autoren wie Corsini, Fea, Zoega. Zur schriflstellerischen Verwertung dieser umfänglichen Forschungen ist es dann, -wie bekannt, nicht gekommen: sie geben uns ein deutliches Bild davon, dass Humboldt ein Historiker von höchster Vielseitigkeit und ein Philologe im edelsten Sinne des Wortes gewesen ist, dessen Ideengebäude sich auf dem gesicherten Fundament empirischer Untersuchung erhoben (vgl. Band 4, 4j6J.</p>
+
+            <p>Ein andres Kollek-taneenheß enthält unter einer Masse Auszügen aus den Reden des Demosthenes noch weitere Bemerkungen zu dem historischen Werk, die hier mitgeteilt sein mögen. Zunächst folgenden schematischen Überblick des Ganzen:</p>
+
+            <p>„Haupttheile. 1. Vorrede.</p>
+
+            <p>2. Schilderung Griechenlands; \ j. des Zustandes desselben unmittelbar vor Philipp. I</p>
+
+            <p>4. Periode Philipps und AleJiranders ;</p>
+
+            <p>5. der Feldherren Alexanders und späteren Macedonischen Könige ; J- /. TheiL</p>
+
+            <p>6. der Römer.</p>
+
+            <p>7. Einßuss der Griechen auf die Römer ;\ y} p'l 8. die neueren Nationen. /</p>
+
+            <p>g. Schlussbetrachtungen." Für das Motto des Werkes aus Ovids Metamorphosen 15, 428 stehen hier folgende fünf Übersetzungen zur Wahl, von denen schließlich die zweite mit Veränderung nur eines Wortes den Vorzug erhielt:</p>
+
+            <p>„Was, Pandions Stadt, nun bleibst du als Namengetön nur? Was, Pandions Athen, nun bleibst du als schallender Name? Was nun, als Name, bleibt die Pandionische Veste? Was nun, als Namengetön bleibt fürder die Veste Pandions? Was nun, als Namengetön bleibt fürder Pandions Athen noch ?" Die Darstellung der Periode des Philipp und Demosthenes sollte folgendes Motto aus Pausanias i, ij, 2 erhalten:</p>
+
+            <p>„AISe (seil. aoTtiSss) ttot AatSa yaiav tnoodr^aav rro/.v/ovaoi; aläs y.ai ^E)./.aSi rav dov/.oavk'au erroooy. Nvv de z/toä vacp ttoti y.iopas oorfava y.eirai,</p>
+
+            <p>Tag fieya'/.av/rjTov OTivXa May.rjSovias." Die römische Periode folgende Verse aus Vergib Aeneis i, zSj:</p>
+
+            <p>„veniet lustris labentibus aetas, Quum domus Assaraci Phthiam clarasque Mycenas</p>
+
+            <p>Servitio premet ac victis dominabitur Argis."</p>
+
+            <pb n="7.618" xml:id="pbVII618"/>
+            <p>Hier wird am besten auch der topographischen Studien über das alte Rom gedacht, denen sich Humboldt gleich von Anfang seines römischen Aufenthalts an unter Zoegas kundiger Leitung mit Eifer hingab (an Wolf, /j. April i8oj): ein erhaltenes Konvolut enthält Auszüge aus den ersten beiden Büchern des Livius, aus den lokalgeschichtlichen Werken von Volpi, Nolli, Nardini, Bemerkungen zu Nollis Stadiplan und Beschreibungen des aventinischcn und capitolini- schen Hügels imd ihrer Umgebungen von Zoegas Hand.</p>
+
+            <p>Eine Aufzeichnung über griechische Urgeschichte aus dem Jahre iSo"], die ich seinerzeit in den Neuen Jahrbüchern für Philologie und Pädagogik 152, 641 habe abdrucken lassen, mag als Probe dienen, wie diese römischen Studien sich darstellen.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Über Knesebecks und Ancillions Denkschriften</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Elfter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif11humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1904">1904</date>
+                  </imprint>
+                  <biblScope unit="page" from="67" to="83"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="11.67" xml:id="pbXI67"/>
+            <p>colirs de la n^gotiation au jugcment de ces ministrcs s'ils trou- veront n^ccssairc de vcnir eux-mcmcs rcndre compte de bouche du succes de leurs n(^gotiations ei sc niunir de nouveaux Ürdres.</p>
+
+            <p>S'ils se pdnetrent bien du scns et de la teneur des präsentes Instructions, ils se convaincront aisc^ment que l'intention vraie et sincere des Souverains, leurs Maitres, est dY'pancher avec une franchise analogue i\ leur caractere et convenante au momcnt de- cisif ou ils sont places et duquel dopend le sort de TKurope, leur coeur dans celui de S. M. TKnipereur d'Autriche; qu'ils d^sirent plus que touic autrc chose d'evitcr d'entrer dans une contestation quelconque avec Lui, et que, s'Ils trouvent quelquc diflkultd ä s'accorder avec Lui sur les bascs de la pacilication future, ce n'est point qu'Ils ne fussent pendtres du mcme desir de rcndre la paix ii leurs peuples, mais uniquement, puisqu'lls se voyent dans une impossibilite absolue de renoncer ä des principes qu'ils reconnois- sent pour vrais, et qu'ils se croyent engagds vis-ä-vis d'Eux-memes, de Leurs peuples et de la postdriid ä defendre avec persdverance. Plus Leurs Ministrcs reussiront a produire la conviction de ces sentimcns vrais et inalterables, micux ils rempliront les devoirs que leur imposc leur Mission actuelle.</p>
+
+            <head>
+               <title type="main">XXL— XXIIL Über Knesebecks und Ancillons Denkschriften.</title>
+            </head>
+            <p>(). und 10. Juli 1S13.</p>
+
+            <p>Der General v. d. Knesebeck und die Staatsräte Hoffmann und Ancillon hatten dem Könige Denkschriften über die Möglichkeit des Friedens eingereicht, die durch den Staatskanzler an Humboldt übermittelt wurden und ihn zu einer Kritik derselben veranlaßten. In zwei Schreiben an Hardenberg (XXI, X?iJII und in einer größeren Abhandlung (XXIIIJ übte er sie aus. Knesebeck hatte ausgeführt, daß die Auflösung des Rheinbundes für jetzt doch nicht zu hoffen<pb n="11.68" xml:id="pbXI68"/> das Volk, von Siegen und Erfolgen gesättigt, aus Staats- und Handelsgründen. Frankreich also hat ihn nötig, England wünscht ihn. Wie müsse der Frieden beschaffen sein, der allen passe? Frankreich müsse seine Kolonien zurückerhalten, zu deren Rückgabe England sicher bereit sei, wenn es dafür die Freiheit seines Handels erlange. Dagegen tJiüssen Deutschland, Italien, Spanien zu ihren legi- timen Herren zurückkehren und ihre Selbständigkeit erlangen, ebenso die Schweiz, Holland und die Hansestädte. England werde auch das Prinzip: Die Flagge deckt die Ware, verweigern und nicht auf das Recht verzichten, neutrale Schiffe zu untersuchen. Damit seien die Grundlagen des Seefriedens gegeben: Frankreich läßt Italien, Spanien, Deutschland, Holland, die Schweiz frei und selbständig und verzichtet auf Wiederanerkennung jenes Prinzips, und England gibt an Frankreich die Kolonien zurück.</p>
+
+            <p>Österreichs Bedingungen seien mäßig, ja ungenügend, doch sei es trotzdem zweifelhaß, ob Napoleon sie annehme, ohne durch den Krieg oder drohenden Krieg gezwungen zu sein. Sein Stolz und Ehrgeiz werden selbst den leichten Opfern widerstreben. Wolle man also in den Unterhandlungen Erfolg haben — und man müsse ihn haben, wenn Österreich nicht ernsthaft den Krieg wolle — so sei das einzige Mittel, dazu zu gelangen, dem Stolz Napoleons eine Tür zum Entschlüpfen (echappetoire) zu öffnen, seinem Ehrgeiz Entschädigungen (dedommagements) zu bieten. Sein Stolz wäre befriedigt, wenn er Europa, be- sonders Frankreich sagen dürfte, er habe dem Seefrieden Opfer gebracht; sein Ehrgeiz werde im Besitz der Kolonien Entschädigung finden, und in dem Augenblick, wo England (und dies allein hat die Mittel dazu) ihm diesen Rückzug für seinen Stolz biete, werde man von ihm für die Kontinentalmächte, besonders für Preußen, Holland und die Hansestädte Vorteile erlangen, die auf andere Weise nicht zu gewinnen seien. Ohne diese Vorteile wäre der Friede mager und unvollkommen, und doch sei er, wenn Österreich nicht beitrete, notwendig.</p>
+
+            <p>Werde nun aber England zu Opfern bereit sein ? Er glaubt, die Frage bejahen zu dürfen, vor allem, weil England das gewinne und Frankreich das verliere, was die Kontinentalmächte erlangen. Wenn Preußen die Freiheit seines Handels, Danzig und den ganzen Lauf der Weichsel erhalte, und die Hansestädte frei werden, so habe Englands Handel ungeheuren Nutzen davon. Er schließt: „Der Continentalfriede wird nur vortheilhaft sein, wenn man die Unterhandlungen darüber mit solchen über den Seefrieden verbindet. Eng- lands Interesse, durch eigene Opfer auch Frankreich zu gleichen zu bewegen, ist so greifbar, dass man sich beeilen muss, das britische Ministerium zum Beitritt zu den Bedingungen Oesterreichs ohne weitere Modificationen zu veranlassen. Man kann es durch tiefe Betrachtungen, grosse und einfache Ideen, vollkomynenen Freimuth gewinnen. Möge man den passenden Unterhändler finden."</p>
+
+            <pb n="11.69" xml:id="pbXI69"/>
+            <p>XXI. An lIardcnbcr«T (). Juli 1.S13.</p>
+
+            <p>{Reinschrift viit t'i^fn/iäiidif^'cr l 'ntcrsclirift im Geh. Staatsarchiv.)</p>
+
+            <p>Kiire Kxccllenz haben die (iiitc gehabt, mir zwei Aufs^it/e über die Möghchkeit eines vortheilhaften l'Yiedens mit bYankrcich mitzutheilen und mir aufzutragen, Ihnen meine Meinimg über den Inhah derselben zu iiussern.</p>
+
+            <p>Beide beziehen sich auf einander, und der anonyme*) scheint seine meiste Ideen aus dem des Staaisraths Hot^mann geschöpft zu haben. Vs allein erlaubt denn eigentlich eine ßeurtheilung in politischer Rücksicht; der HolVmannischc ist rein statistisch.</p>
+
+            <p>Die Friedensvorschläge des anonymen enthalten sub No. 4 eine so ungemein grosse und die ganze Ansicht der Dinge hindernde Alternative, dass die beiden dort angedeuteten Fälle nothwendig von einander getrennt werden müssen.</p>
+
+            <p>Der Unterschied zwischen beiden liegt genau darin, dass die eine Art, den Frieden abzuschliessen, Preussen die Herrschaft über die Elbe, von der Lausitz an bis an die äusserste Spitze der Altmark, geben, die andere diesen ganzen Fluss mit allen seinen Festungen in den Händen unsers jetzigen Feindes lassen würde. In dem einen Fall also wäre unsere Unabhängigkeit wenigstens durch sehr wichtige Punkte gesichert, im andern wäre sie auf eine solche Weise gefährdet, dass ich mich nicht überzeugen kann, dass sich der Preussische Staat auf so wenig zu beschützende oder deckende Besitzungen einlassen müsse, die noch dazu, da sie unsere Küstenländer vermehrten, immer die Gefahr herbeiführen würden, von Frankreich angegritVen zu werden.</p>
+
+            <p>Die Rückgabe der alten preussischen Provinzen zwischen der Klbe und Weser, und selbst ohne die Lausitz, würde meines Fr- achtens nur mit einigen andern Punkten verbunden, wie ich bei (ielegenheit des Aufsatzes des Herrn Staatsraths Ancillon entwickelt habe, eine Friedensbase ausmachen, auf die man gewiss (irund hätte sich einzulassen.<pb n="11.70" xml:id="pbXI70"/> nur von dem Fall, in welchem Preussen</p>
+
+            <p>Schwedisch Pommern, Mecklenburg und das Laucnburgische erhielte.</p>
+
+            <p>Dass nun ein solcher l'&gt;iede von den beiden Souverainen auf keinen l-^ill angenommen werden würde, scheint kaum noch eines Beweises zu bedürfen.</p>
+
+            <p>Ich wiederhole nicht, dass er eine grosse Unsicherheit dieser neuen Acquisitionen gegen sich hätte.</p>
+
+            <p>Allein auf welche Weise Hesse sich w^ohl vertheidigen, dass ein Krieg, der damit anfing und auch in dem Grundsatz fortgesetzt wird. Recht und Billigkeit herzustellen, keine andere Veränderung in Deutschland zur Folge hätte als die Vernichtung von uralten Deutschen, mit beiden alliirten Souverainen noch verwandten Fürstenhäusern.' Wie würde man bis zu diesem Punkt vergessen können, dass gerade diese Fürsten die ersten waren, welche den \'erbündeten beistanden.^ wie würde ein solcher Vorschlag von dem Könige, der noch gestern mit Recht darauf bestand, dass Mecklenburg nicht gezwungen werden müsse, zum Rheinbunde zurückzukehren, angehört werden.^ wne würde der Kaiser von Russland in einen solchen Plan einwilligen.^</p>
+
+            <p>Wahr ist es, dass ein solcher Friede bei dem Kaiser Napoleon leicht würde durchgesetzt werden können. Er würde sich freuen, die alliirten Höfe so gegen alle angekündigten Grundsätze handeln zu sehen, und doch gewiss sein, wenn er wollte, Preussen aufs Neue zu bedrohen und anzugreifen.</p>
+
+            <p>Die Mediatisirung, die ich auch in dem Hoffmannischen Plan für sehr tadelnswerth halte, scheint nur die Härte geringer zu machen.</p>
+
+            <p>Der mediatisirte Fürst, wie viel Rechte und Ehre man ihm auch anfangs lassen möge, hört nimmer damit auf, ein blosser Privatmann zu sein. Auch liegt es in der Natur der Sache, denn die ihm scheinbar gelassenen Rechte müssen, wenn er sie wirklich ausübte, der Administration des Landesfürsten unfehlbar hinder<pb n="11.71" xml:id="pbXI71"/>Der Ankaut' von Schwedisch Poniiiiern gehört eigentlich nicht in diesen l'Yieden. l's ist ganz unabhängig davon. Mr bedarf, wenn Schweden einwilligt und Preussen den Aufwand dazu bestreiten kann — woran wohl jetzt nicht zu denken sein dürfte — der Zustimmung Frankreichs nicht.</p>
+
+            <p>Die Forderung des Lauenburgischen liele wohl natürlich weg, wenn I^reussen nicht Mecklenburg besässe, und so enthielte dann also dieser bVieden, ausser den von Oesterreich vorgeschlagenen Hedingimgen, nur noch die Lausitz.</p>
+
+            <p>Wie nun ein solcher Friede meiner Meinung nach beurtheilt werden müsse, habe ich Gelegenheit gehabt, Kuer Fxcellenz öfters yM äussern, und mich gefreut, Ihre Ideen mit den meinigen übereinstimmen zu sehen.</p>
+
+            <p>Der HolVmannischc Aufsatz enthalt viele Bemerkungen, die, wenn es zu einem bYieden kommen sollte, sehr brauchbar sein würden. Auch die wichtigsten statistischen Gründe dürften den Oesterreichischen Hof schwerlich dazu bringen, in seinem Besitzstande eine Aenderung vorzunehmen und seine Unterthanen gegen fremde auszutauschen.</p>
+
+            <p>Ich bitte Fuer Fxcellenz. die X'ersicherung meiner aufrichtigsten X'erehrung anzunehmen.</p>
+
+            <p>Schlösschen Pcilau, den o. Juli i'Si3.</p>
+
+            <p>Humboldt.</p>
+
+            <p>An den Staats-Kanzler Herrn Freiherrn von Hardenberg Fxcellenz.</p>
+
+            <p>XXll. An Hardenberg. lo. Juli 1S13.</p>
+
+            <p>, EifjenhänJig im Geh. StJatsarchiy.'</p>
+
+            <p>J*ai rhonneur, mon eher Baron, de vous laisser ci-joint:</p>
+
+            <p>I., 2., les deux memoires de Mr. Ancillon;*)</p>
+
+            <p>•.' Apperfu de !a Situation politique de la Pntsse en Juin iSij und Quelques<pb n="11.72" xml:id="pbXI72"/> n,., un de moi que j'ai fait relativcmcnt a celui de ces deux que le Roi nous a donnd; 4., une lettre a Votre Excellence sur le memoire du Gen, Knesebeck ;</p>
+
+            <p>5,., un projet de Tarticle qu'on pourroit ins^rer dans nos ga^cttes sur les n^gociations de Prague.*) J'abandonne tout ceci entierement ä l'usage que Votre Excellence daignera en faire. J'ai dcrit le memoire sur celui d'An- cillon dans Tidc^e que Votre Excellence pourroit peut-ctre vouloir le soumettre au Roi. Mais Elle jugera mieux, connoissant de plus pres Sa Majest^, si cela seroit ä conseiller. Si Elle le croyoit utile en apportant peut-etre quelques changemens ä mon travail, il s'en- tend de lui-meme qu'Elle en est entierement le Maitre.</p>
+
+            <p>Avant eü aujourd'hui un entretien avec quelqu'un qui connoit de pres le Duche de ^^arsovie, et m'etant convaincu que les Kusses fönt extremement peu pour tirer parti de ce pais pour la guerre, et meme pour eviter le danger que, dans le cas de nouveaux succes de Napoleon, il ne s'y eleve tout ä coup une nouvelle Armee, rid^e m'est venue que, si la paix n'avoit pas Heu, il faudroit tout de suite proceder au partage de cette Province. Ce seroit le seul moyen pour nous de nous procurer aussi des moyens considerables de lä. Si Votre Excellence trouve cette idee bonne et executable, je La supplie de m'en avertir ä tems pour que je puisse en pre- parer la realisation.</p>
+
+            <p>J'attends avec la plus vive impatience le premier Courrier de Votre Excellence qui me portera des nouvelles sur le resultat de Tentrevue avec le Prince Royal.**) S'il a et^ satisfaisant, cela peut de beaucoup ameliorer notre Situation.</p>
+
+            <p>Je termine, en Vous reiterant, chere Excellence, mes sinceres et plus vifs remercimens de toutes les preuves de bienveillance et de bonte que Vous avez daigne me donner. J'ai ete parfaitement touche de la confiance que Vous m'accordez, et je me flatte que Vous Vous serez convaincu egalement du devouement sans bornes qui m'anime pour Vous. L'idee que les sentimens de Votre Excellence sur les intdrets les plus importans de notre patrie con- viennent entierement avec les miens, est mon unique consolation<pb n="11.73" xml:id="pbXI73"/> sur la Sicnne; et je suis sür que Vous ne m'cxposercz jamais, mon eher Baron, au danger de faire ce qui est enticrement et diamd- tralement opposd A mes principes, i\ mes scntimens et i\ toutes mes convictions. (.'ontinuez-moi, chcrc Kxccllcnce. cctte meme bontd et amitic^ et agree/ l'assurancc rcitcrcc de mon dcvoucmcnt entier et invariable !</p>
+
+            <p>A Peilau, ce lo juillct iSr^.</p>
+
+            <p>Humboldt.</p>
+
+            <p>A S. K. Mr. le ikiron de Hardenberg cct.</p>
+
+            <p>;\ Pcilau. Rdflexions sur un me^moire de Mr. Ic Conseiller d'Ktat Ancillon sur la necessite d'associer les negociations relatives a la paix maritime aux negociations qui vont s'ouvrir pour la paix continentale, et sur les moyens dy rdussir. lo. Juli 1813.</p>
+
+            <p>(Überschrift eigenhändig, sonst Abschrift im Geh. Staatsarchiv.)</p>
+
+            <p>Ricn ne saurait ctre plus juste que l'idee fundamentale du memoire adresse par Mr. Ancillon a Sa Majeste le Roi en date du 7 de ce mois, que le plus puissant moyen pour faire reussir la paix continentale, serait d y associer la paix maritime. Cette vdritd a 6ie sentie, des qu'il a dte question de negociations sous la mddiation de l'Autriche; eile est enoncee plus d'une fois dans mes Instructions, et on sait, de plus, que TFlmpereur Napoleon a dit au comte Metternich que, s'il ferait peu ou point de sacritices pour la paix sur le Continent, il en ferait d'etonnants pour celle avec l'Angleterre. C'est par toutes ces raisons, auxquelles encore d'autres ont du se joindre, que Tarrangement dont on pourrait peut-etre convenir ä Prague, na ^i6 jamais regardd que comme la base de la paix generale qui en formerait le compldmcnt.</p>
+
+            <p>II s'agit seulement d'examiner si et de quelle manicre cette double paix pourrait ctre obtenue ou comment on pourrait faire<pb n="11.74" xml:id="pbXI74"/> etendue, oü son but, ainsi que Mr. Ancillon Tobserve avec beau- coup de justessc, serait un (fchange de la presque-totalite des con- qiietes de la France, qui devrait rentrer dans ses anciennes limites du Rhin. des Alpes et des Pyrenees contre les colonies que l'Angle- terre a arrach^es a eile, et aux pays que de ses allies eile se fait Oll lente de faire ses sujets. I7ne pareille paix ne saurait etre le rcsultat de la campagne que Tarmisticc vient d'interrompre, il sera probablement entierement impossible de la lier aux n^gociations de Prague, quoique Tinvitation faitc a TAnglcterre dy envoyer un ndgociateur, montre suffisamment qu'on l'a tcnte, et eile exigerait des negociations d'une teile longueur qu'il n'est point a prevoir comment on pourrait durant une treve aussi longuc encore garder reunis les moyens pour recommcncer la guerre; difficulte principale dans tout concours de l'Angleterre aux negociations de Prague, sur laquelle je reviendrai dans la suite de cet examen.</p>
+
+            <p>En laissant, par consequent, de cöte ces questions plus etendues, je ne puis me dispenser de faire deux observations, l'une sur les dispositions plus mod^rees et plus pacifiques qu'on croit pou- voir supposer ä Napoleon depuis la campagne de l'annee 1812, l'autre sur les compensations par lesquelles l'Angleterre pourrait vouloir acheter la paix avec la France.</p>
+
+            <p>L'id^e que Napoleon, renoncant d l'espoir d'une monarchie universelle et au Systeme Continental et etant eminemment calcula- teur, doit trouver que le moyen le plus sur pour empecher que raccroissement de la puissance commerciale de l'Angleterre et l'in- fiuence politique de la Russie ne fassent des progres trop rapides, serait d'acheter par d'immenses sacrifices la paix maritime, prete a bien des objections. 11 trouvera probablement, et meme avec raison, plus simple de ne point permettre que la Russie renforce les puissances intermediaires, et de gener le commerce de l'Angleterre dans l'etendue des Etats qui sont restes sujets ä son influence et dont il saura bientöt augmenter le nombre, si on n'aura pas eu soin d'agrandir leur puissance et de diminuer la sienne. Je crois qu'on lui suppose des plans trop vastes avant l'an 1812 et qu'on Ten croit trop revenu depuis. J'avoue que je me figure autrement<pb n="11.75" xml:id="pbXI75"/> toiit visiblcmcnt sans plan, sans siiitc ni liaison, s'abandonnant a la seule iddc de pouvoir tout ce qu'il voulaii. I.a campagnc cn Russic Uli a montre?, poiir la prcmierc fois, qu'il pciit cire arrcic dans scs projcts; il cn csi, par consdqucnt, devenii plus prudent; il nc rcnonce pas ä rininicnsc ctenduc des frontieres de son empire, il abandonne tout au plifs ce qui cn etait visiblcmcnt trop ddtach&lt;i, mais il tächc de fortilicr Celles qu'il vcut conservcr, et sa lignc est, comme on sait ä prdscnt par scs propos, par ses actions et meme par des articles ofticiels du Moniteur, Ic cours de Tl^lbe depuis Dresde jusqu'a son embouchure. Son apparente moddration le rend donc, moralement pris, beaucoup plus redoutable, on peut beaucoup moins lui accordcr de sc liberer par une paix qui, en scmblant ameliorcr le sort de l'Kurope, n'otlrirait aucune garantic vcritablc, d'une guerre qui, malgrd scs succcs, lui est beaucoup plus a Charge et lui prcscntc beaucoup plus de dangers qu'il ne vcut faire paraitrc. 11 sc voit, dans ce moment, dvidemment dans un mauvais pas. 11 ne sc servirait de la paix que comme d'un moyen de s'en tirer, de regagner, bicn vite apres, ce que sa manche imprudente sur Moscou lui a fait perdre, et de ne plus s'exposer a des imprudences de ce genre. Quant aux sacritkes auxqucls il devrait sc resoudre, il connait beaucoup trop bien sa Situation per- sonnelle pour ne pas cn entrevoir le danger. II a dit encore ä present plusieurs fois au Comte de Metternich que TP^mpereur des Francais pouvait, devait peut ctre faire teile et teile chose, mais que Napoldon ne le pouvait point; il sait trop bien que les per- sonnes en France qui approuveraient la sagesse de ccs sacritices, ne sont pas Celles qui sc fönt entcndre, et que les autres ne cesse- raient d'attribuer i\ la conscience de sa faiblesse d'aussi immenses cessions; que les noms des colonics reconquises scraient citds tout au plus dans quelques villes de commerce, tandis qu'on dirait dans chaque bourg de la France que retVusion de tant de sang francais en Kspagne avait etd inutile; et il n'ignore pas que la süretd d'un tröne tel quel le sien ne ddpend point des opinions rdelles de la grande masse de la nation, mais de Celles qu'un parti, pctit mais actif, sait faire valoir. (Test un fait; il a mcme des idecs exagd- rdes ä cet dgard.</p>
+
+            <pb n="11.76" xml:id="pbXI76"/>
+            <p>TAnglcterre est sürement dispos^e a rendre a 1 a 1'" r a n c e s e s c o 1 o n i e s. Malgrd rimportance du Continent pour l'Angleterre, cette puissance a des intdrets si vari^s et si immenses dans les autres parties du mondc qu'il doit en r^sulter des maximes d'lüat et des considc^rations tout-a-fait particulieres. I/auteur du memoire nomme d^ja lui-meme plusieurs colonies auxquelles eile ne pourrait point renoncer, et ohsen"e ensuite qu'elle ne rendrait les colonies hol- landaises que dans le cas que l'ind^pendance de la Hollande füt retablie. Mais sait-on en elYet que l'Angleterre veut le retablisse- ment d'une puissance evidemment rivale de son commerce? et qu'elle veut meme acheter par des sacrifices ce retablissement toujours precaire, puisque, sans qu'elle et mcme les puissances du Continent puissent l'empecher, la Hollande resterait toujours sous le glaive de la France? Ce serait un travail digne d'un ecrivain politique d'examiner bien mürement quelles sont les colonies auxquelles, d'apres des calculs de probabilite generale, l'Angleterre pourrait renoncer, pour voir de cette maniere ce qui pourrait etre offen a la France en echange de la cession de l'Espagne, de ritalie, de la Hollande et d'une partie de l'Allemagne.</p>
+
+            <p>La seconde question, qui concerne la possibilite de lier l'Angleterre aux negociations actuelles avec la cour de Vienne, exige plus de developpement, puisqu'elle est plus applicable ä la Situation reelle des affaires.</p>
+
+            <p>Quoique l'auteur du memoire parle quelquefois de conditions plus etendues, il semble pourtant qu'il le croie possible que l'Angleterre puisse acceder meme aux quatre articles*) auxquels l'Au- triche borne son Ultimatum et que son accession serait meme necessaire pour arracher a l'f^mpereur Napoleon son conscntement a ces articles, et il suppose par lä que la paix, meme sous ces conditions, soit encore desirable ou du moins acceptable pour la Prusse et la Russie. II croit surtout que l'Angleterre pourrait etre determinee par l'appät de l'independance de la Hollande.</p>
+
+            <p>Avant que d'entrer dans un examen quelconque a cet egard, on peut opposer aux conjectures sur les dispositions probables de<pb n="11.77" xml:id="pbXI77"/> nc fcra point la paix avcc la l'"rancc sans le concoiirs et sans l'inddpendance entiere de l'Kspagne. I.c Princc Ivet^cni ne se desisiera pas non plus de la rcstitiuion du Ilannovre. II laudrait donc, pour Ic moins, comprendre dans les conditions autrichicnnes CCS dcux pays, et il est visiblc que ccci est impossible.</p>
+
+            <p>Mais en faisant aussi absiraction de cctle diflicultc prcmicrc, la paix conclue sous Ics conditions plus quc modiqucs de TAutriche n'assurerail :\ PAngletcrre aucun des avantages qui pourraicnt l'engager a y accedcr; eile en otVnrait tout aussi peu ä la Prusse; eile ne pourrait pas mcme ctre appelde une trevc, puisque sa conclusion seulc rcndrait aussi bien qu'impossible le recommcncc- ment de la guerre apres quclque temps; car eile manquerait en- licremcnt de garantie.</p>
+
+            <p>La preniicre condition pour que TAngleteiTe puisse consentir a une paix continentale, est, sans contrcdit, que cctte paix lui rouvre la communication libre avec TAllemagne et, par eile, avec le Nord de TKurope, et qu'on seit h l'abri au moins d'un danger prochain de voir cette communication de nouveau interrompue, ce qui ne peut se faire que par un accroissement de forces con- venable de TAutriche et de la Prusse. Toute paix qui ne porte point ce caractere, lui est entierement contraire; eile acquiescerait probablcment tacitement a celle qui remplirait ces conditions, mais eile n'en signera jamais que celle qui embrassera aussi les autres Etats de l'Europe qui ont une grande importance pour eile. Voilä, ä peu pres, les nuances qui, ä ce que je m'imagine, se trouvent dans la maniere de regarder en Angleterre les paix faites sur le (kontinent. EUes sont fondees dans les veritables interets de cette puissance et, il faut Tavouer, de TEurope; et ceux qui connaissent TAngleterre, savent qu'il y a, outre cela, encore bien des circonstances particulieres, et meme peu dignes d'etre approu- vees, qui rendent la conclusion de la paix avec la Erance pour les interets du (kontinent extremement difficile.</p>
+
+            <p>La paix olVerte par la cour de Vienne rendrait ä la Prusse ses fortcresses de TOder, Danzig et une partie du Duchd de \'arsovic; et Hamburg et Lübeck seraient d^clarees villes libres ansdatiqucs; TAutriche recouvrerait les provinces illyriennes.</p>
+
+            <p>En revanche, les Ducs de Mecklembourg rentreraient dans la<pb n="11.78" xml:id="pbXI78"/> ralVcrmie; riüiri&gt;pc cnticrc aiirait i'aii la funcsic cxpcricnce qu'on naurait point pu liii arraclicr ccue domination. et cllc ne serait des lors plus contestcc.</p>
+
+            <p>Qiii alors garantirait a la Priisse de ne pas etre vexee, tour- mcntdc. meme attaqude de nouveau, des que ses armements fus- scnt dissous, ses alli&lt;5s absents, ses peuples abattus par la plus triste des experiences, que Ics essons Ics plus courageux ne sont couronn^s d'aucun succes? C'omment pourrait-elle seulement eviter ce sort, comme il est bien certain pourtant que Napoleon, qui n'ignore point que les Russes n'auraient jamais depasse TOder et pas meme la Basse-Vistule sans notre alliance, ne lui pardon- nerait point de lui avoir suscite tous les embarras et dangers actuels, ou la mettrait au moins hors d'etat de le faire jamais une seconde fois?</p>
+
+            <p>La chose est trop claire et trop evidente pour ne pas etre sentie. Tous les dangers qui menacent la Prusse, subsisteraient et auraient meme augmente, a Texception du seul du Duch(f de Varsovie. Napoleon conserverait des garnisons dans toutes les places de l'Elbe; le Royaume de Westphalie, que la Prusse dans la guerre actuelle a ouvertement menace de sa destruction, resterait, sans aucune perte, son voisin; la Saxe gardcrait les districts que la Prusse avait deja declare reoccupes, et, bless^e au vif, tcächerait de lui nuire autant que possible. De l'autre cöte, ses forces de defense n'auraient recu qu'une augmentation legere; meme son commerce n'aurait pas echappe ä l'inüuence et ä la domination de la France. Car, comme ce ne sont pas les noms, mais les choses auxquelles il faut se tenir, la France conserverait son ancienne domination sur TAllemagne et, l'ayant meme affermie, dominerait tout aussi bien sur Hamburg et Lübeck, comme villes anseatiques, que comme villes francaises, seulement sous d'autres formes et avec des modifications, ä la verite importantes pour ces villes, mais pas pour les Etats Interesses ä leur independance.</p>
+
+            <p>C'est une idee tres lumineuse du memoire de Mr. Ancillon que la l^russe ne peut se Hatter de recouvrir son ancienne force que par degre; mais le premier degre doit pour lors assurer les suivants, et je crains bien que la phrase qui termine le memoire,<pb n="11.79" xml:id="pbXI79"/> Ic Duchc (Je \'arsovic, lui rcndrait son i nd(5pc n d ancc; iin nouvcl ellort pourra peut-ctrc lui rcndre tonte sa puissance.</p>
+
+            <p>Sans vouloir revenir au passö, il n'cst malhcureusement que trop clair que, si repuisement auquci Ic passa&lt;^c et le sdjour des troupcs francaises exposait le pays, avait c&lt;mtinuc encore quelquc tcmps, Texistence n'aurait point ete sauvee; lY-tat des choses dans lequel on sc trouvait alors, suspendait tout au plus sa ruinc, ainsi qu'une maladie j^ravc suspend, avant sa crise, le moment de la mort. I/i ndependancc rendue par la paix dnoncde serait entierement precaire, eile dependrait absolument de la l'Yance, et il y serait portd atteinie, avant que quelques mois ne se lussent dcoulds. I/armistice actuel, qu'il importait pourtant ä Napoleon d'obtenir, donne la mesure comment encore a present il obsene les convcniiüns et les traitcs; et pour faire remettrc ses forces ä la Prusse au point de pouvoir recuperer son ancienne puissance, eile devrait ravoir de tout auires accroisscments que des provinccs polonaises. 11 me scmblc, cn gendral, diflicile, en parlant d'Ktats, de separer T i ndcpc n da ncc de la puissance, ainsi qu'il est fait dans un autrc passagc du memoire oü il est dit: que l'Autriche veut rendre ü la Prusse son independancc, sans lui rendre sa puissance. Mais cela serait-il possible? L'Autriche elle-meme ne le croyait pas autrefois et mettait dans toutes ses pieces ofticielles toujours la puissance en premiere ligne. 11 est evident qu'un Etat fälble ne peut etre independant qu'en autant qu'il est ddfendu par d'autres Ktats. ()r la Prusse aurait Tennemi a peu de marches de la ville de Berlin et ses defenseurs, les Kusses, ä une distance immense, L'Autriche gagnerait bien par cette paix en etendue, mais non en force defensive pour eile et ses voisins, puisqu'elle n'aurait ni le 1 yrol ni une frontiere forte en Italie,</p>
+
+            <p>( )n peut donc dire avec bien plus de vdrite, ce me semble, que la puissance non recuperee ddtruirait sous peu l'indepen- d a n c e et menacerait bientöt jusqu'a l'existencedela monarchle,</p>
+
+            <p>L'agrandissement en Pologne merite encore une Observation particuliere. l-".n premier lieu, ce n'est pas le Duche de \'arsovie, mais seulement une partie de ce Duche qui tomberait en panage<pb n="11.80" xml:id="pbXI80"/> mit, une politique prudentc conscille a hi Russic de pourvoir, elle- meme davantage a sa süret^ et d'avancer plus ses limites vers l'Allemagne. 11 est, au rcste, prouvd dans un memoire allemand du (Amscillcr d'Ktat HotVmann, fondd absolument sur des donnees de fait, que les acquisitions de districts polonais ne peuvent etre utiles i la Prusse qu'en tant qu'ils sont habitds en plus grande partie par des Allemands ou qu'ils servent ä arrondir ou ä mieux lier nos anciennes provinces entre elles; et, en suivant ce principe, ce memoire prouve qu'il nV a qu'une bien petite partie du DucW qui serait une acquisition vraiment utile ä la Prusse.</p>
+
+            <p>Qu'on applique maintenant tous ces raisonnements ä l'Angle- terre, et on se convaincra aisement qu'une pareille paix ne peut avoir aucun attrait pour eile. Car si eile n'offre pas meme une süret^ et ind^pendance süffisante pour etre acceptee par la Prusse, qui en retirerait pourtant d'autres avantages encore, comment pourrait-elle satisfaire l'Angleterre, pour qui cette independance seule peut avoir du prix?</p>
+
+            <p>On peut donc regarder comme un fait qu'en aucun cas l'Angleterre n'accedera ä une palx qui serait basde sur les quatre con- ditions proposees par l'Autriche, et toute tentative ä cet ^gard serait absolument inutile.</p>
+
+            <p>11 n'en serait cependant pas moins ä desirer que la negociation actuelle püt etre liee ä une plus generale qui comprendrait egale- ment TAngleterre, et l'initiative en a ete donnee par l'invitation adressee ä cette puissance d'envoyer un plenipotentiaire ä Prague. Mais c'est ici qu'il se presente une difrtculte tout aussi grande que Celles dont il a ete parle ci-dessus. La negociation se prolongcrait evidemment pour lors au delä de plusieurs mois, et il serait egale- ment embarrassant de continuer en attendant la guerre ou de prolonger l'armistice actuel, ce qui serait entierement impossible, sans paralyser tous les moyens de la guerre. La seule chose qui pour- rait sauver pour lors, serait de creer un etat intermediaire qui donnät le temps necessaire ä la negociation, sans devenir trop dangereux pour le cas de sa non-reussite. Mais un tel etat intermediaire, un armistice de 6 ä 8 mois, supposerait necessairement<pb n="11.81" xml:id="pbXI81"/> ses arm^es conccntrc^cs et en dtat de rccommenccr la j^iicrre avcc siicces i.]iie les puissances alli(fes.</p>
+
+            <p>II laut donc l'avoiier, Tespoir de lier i'Ani^leterre avec siicces .. la negociation aciiielle restera, de qiiel cote &gt;.)iron envisage la lucstion, fort petit. l.a campagnc actuelle n'a pas condiiit les choses au point oü Ton pourrait conclurc une paix teile quc les veritables interets de cette puissance Texigent, et la paix qu'on pDurra peut-ctre faire a present, ne saurait etre accept(^e par eile. Mais si (et voilil ce que les negüciaieurs des puissances allidcs (.Icvront tächer de faire valoir aupres de la I^Yance) les conditions de la paix etaient plus satisfaisantes, si ellcs assuraient ä la IVusse une indepcndance mieux garantie, en Uli rendant toutes ses anciennes provinccs au- tour de ri'Mbe, avec la forteresse de Magdeburg, mais Sans Ic comiö de Hohcnstein, trop isol^ par sa position geographique;") en ddtachant tous Ics pays sur la rivc droitc de ri-'.lbc de la Conf^d^ration du Rhin, ou plutot en leur procurant la facultc de n'y pas rentrcr: en rendant par ces dcux prcmiercs conditions la declaration de Haniburg et Lübeck, commc villes ansealiques, reelle et non illusoire;</p>
+
+            <p>TAnglcterre ne signerait tres probablement pas non plus une pareille paix, mais c'cn serait une a laquelle eile acquies- cerait tacitement, et un pareil etat des choses preparerait, Sans aucun doute, la paix maritime,</p>
+
+            <p>(^ar on peut soutenir avec certitude que, comme c'est par la uprdmatie de la PYance sur le (kontinent que cette guerre a ete commencee et s'est envenimee de maniere ä faire regarder la paix presque comme impossible, tout ce qui diminuera cette Suprematie, acheminera aussi insensiblement les choses vers la paix.</p>
+
+            <p>Si Ton examine ainsi tous les rapports politiques et statistiques ..c la Prusse, il est certain que, si Ton veut eviter la ruine de notre Monarchie, ce n'est quW une teile paix qu'on puisse s'ar- reter. Les conditions en sont toujours bien modiques encore.<pb n="11.82" xml:id="pbXI82"/> car la IViissc. cn la comparant a son ancicnne etendiie, a de moins: toutcs les anciennes provinces wcstphalicnnes,</p>
+
+            <p>Ics principautes d'Anspach et de Baireuth et toutes les provinces acquises par suite des secularisations laites en Allemagne.</p>
+
+            <p>Mais il ne s'agit pas tant de l'etendue materielle d'un Etat que des moyens de conserver celle qu'il a, et la circonstance que la Pnisse aurait par ses propres elTorts reoccup^ precisement Celles de ses provinces dont les habitants n'ont cesse de gemir d'en avoir ete aliends. lui donnerait une force moralc a laquelle se joindrait celle, materielle, que lui procurerait la liberte du coni- merce, alors vraiment assuree. Si on ajoutait ä cela une Organisation militaire forte et adaptee ci l'esprit national, aussi durant la pak, et une union etroite entre la Prusse, l'Autriche et la Russie, la Prusse devenue plus petite possederait, sans doute, une plus grande force defensive qu'elle n'en a jamais eu jusqu'ici. On se flatte de cette union, meme apres une paix aussi modique que Celle proposee par l'Autriche. Mais on oublie que ce n'est qu'au fon qu'on aime a s'unir, et que la Situation plus que precaire dans laquelle cette paix laisserait la Prusse, devrait faire redouter constamment aux deux autres puissances la triste alternative ou d'abandonner la Prusse ou de se brouiller de nouveau avec la France.</p>
+
+            <p>Le moment actuel est certainement le plus critique dans le- quel la Monarchie Prussienne se soit jamais trouvee, et rien ne serait plus criminel que de vouloir exposer le salut de l'Etat aux dangers les plus imminents par un faux enthousiasme ou des pretentions exagerees. Mais ce n'est pas seulement la guerre qui detruit les Etats, c'est la paix qui les conduit beaucoup plus sürement ä leur perte, si, en les privant de moyens de defense, eile les fait devenir la proie de leurs ennemis.</p>
+
+            <p>C'est pour cette raison que je suis fermement et entierement convaincu que la Prusse ne peut en aucun cas accepter la paix<pb n="11.83" xml:id="pbXI83"/> qucstiuns, puisqu'aii premicr coiip d'ücil cllcs nc scmblcnt laisscr ^lue Ic choix des malheiirs, (m rdpcte soiivcnt: qiic la continuation de la gucrrc est impossible sans le concours de rAiuriche, d'(H"i il suit qii'il faut sc r^signcr ö. se faire dicicr la loi par eile; i]iic, par la tentalive de combaiire la France avec la Russie seiile, on ne panicndrait pas meme ;\ obtenir des condiiions aussi avantageuscs.</p>
+
+            <p>Les chances de la guerre c'tant inccrtaines, cette dernierc as- scrtiün pourraii se trouver vraie par le fait. Mais il serait en vain de se tiatter qu'en acceptant les conditions de lAutriche, r^tat de la Prusse resterait tcl qifelles l'^tabliraient au premicr moment. Une pareille pai\ ne donncrait ni garantie ni süret^ a la Monarchie, eile continiierait de Hottcr au gr^ des evenements, et si Ton oppose qu'il est au moins encore incertain si son ind^- pendancc eprouvera de nouvelles aiteinies, il Test dgalement si les chances de la guerre ne nous seront point favorables.</p>
+
+            <p>Quant a la question de la continuation de la guerre sans le concours de l'Autriche, eile est en plus grande partie militaire et tient a des rappons trop compliqu^s pour que je puisse me permettre un jugement d^cisif sur eile. Mais je crois pouvoir presenter, du point de vue dans lequel je suis place, une reHexion qui me semble Ion imponante.</p>
+
+            <p>Si Ton demande s'il faut faire la guerre sans l'Autriche, il me semble que la question n'est pas bien precis^e. II faudrait dire plutöt: s'il faut la recommencer sans cette puissance ? Car la force des circonstances est teile que probablement TAutriche serait cntrain&lt;fe pourtant plus tard ä la guerre. — (]e que je regarde d'abord comme absolument certain, c'est qu'en aucun cas l'Autriche nc sc d^clarerait pour lors contre nous. Mes rapports prouvent que j'ai toujours eu cette opinion, mais le (]omte de Metternich a r^pdtd dans la derniere confdrence qu'il a eue avec le (&gt;hancelicr d'Etat de Hardenberg, le (]omte de Nessclrode et moi ä Ratibor- zitz,*) plusicurs fois que cela ne se ferait certainement jamais, et s'est meme ollen c\ en donner l'assurancc formelle. Ine pareille promesse et ddclaration, faites dans un moment oü il pouvait croire la mcnace opposee utile ü nous faire adopter les plans de sa cour.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

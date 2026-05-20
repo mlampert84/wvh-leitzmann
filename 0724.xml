@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Geschichte der Abhängigkeit im Menschengeschlechte</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Siebenter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif0702humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1907">1907</date>
+                  </imprint>
+                  <biblScope unit="page" from="653" to="655"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="7.653" xml:id="pbVII653"/>
+            <head>
+               <title type="main">20. Geschichte der Abhängigkeit im Menschen- geschlechte.</title>
+            </head>
+            <p>1 . Einleitung. 2. I. Geschichte des weiblichen Geschlechts. 3. I. Philosophische Erörterung. Grundsätze. Allgemeine</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">Gesetzgebung. 4. 2. Körperlicher Zustand.</title>
+               </head>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">5. 3. Anzug. 6. 4. Geistiger Zustand. 7. 5. Ehe. 8. 6. Lediger Zustand. 9. 7. Verwittweter Zustand. 10. 8. Geschichtliche Ereignisse. 11. II. Geschichte des Zeugungstriebes. 12. I. Philosophische Erörterung. Grundsätze. Allgemeine</title>
+               </head>
+               <p>Gesetzgebung. 13. 2. Beschaffenheit überhaupt. 14. 3. Umgang beider Geschlechter mit einander. 15. 4. Umgang jedes Geschlechtes mit sich. 16. 5. Umgang mit Thieren. 17. 6. Umgang mit sich. 18. 7. Geschichtliche Ereignisse. 19. 8. Hetaeren. 20. III. Geschichte der Dienstbarkeit. 21. 1. Philosophische Erörterung. Grundsätze. Allgemeine</p>
+
+               <p>Gesetzgebung. 22. 2. Arten der Dienstbarkeit. Handschrift (ß halbbeschriebene Folioseiten) im Archiv in Tegel.</p>
+
+               <pb n="7.654" xml:id="pbVII654"/>
+               <p>23. 3. Zustand. 24. 4. Arbeiten. 25. 5. Züchtigungen. 26. 6. Geschichtliche Ereignisse. 27. IV. Geschichte der Abhängigkeit in männUcher Freiheit. 28. I. Arbeit. 29. 2. Leiden. 30. 3. Geschichtliche Ereignisse. 31. Schlussbetrachtungen.</p>
+
+               <p>Einleitung.</p>
+            </div>
+
+            <div type="section" n="3">
+               <head>
+                  <title type="main">T.</title>
+               </head>
+               <p>Die Geschichte eines Zustandes des einzelnen Menschen und des Menschengeschlechts durch alle Verhältnisse des Privatlebens und alle Ereignisse der Ueberlieferung hindurch zu verfolgen, ist ein bis jetzt noch zu wenig versuchtes Unternehmen. Wenn aber die Weltgeschichte wahrhaft innerlich, als ein Abriss der wirk- lich gewordnen Erscheinungen des geistigen und empfindenden Menschen genommen werden soll, so müssen nicht bloss die Menschen in verschiedenen Zuständen, sondern auch die allge- meinen Zustände an verschiedenen Menschen und Völkern betrachtet werden. Denn gerade sie sind das Bleibende, sich fort Erhaltende, da der einzelne, geniessende und leidende Mensch kommt und untergeht. Sie entwickeln sich und erreichen ein Ziel, da das Treiben der Einzelnen, der Völker, wie der Individuen, immer nur Trümmer und Stückwerk ist. Sie gehen von einer im Begriff der Menschheit liegenden geistigen Thatsache aus, und läutern sich zur Idee, und sind, als solche, um soviel höher, als die Menschheit selbst, dass ihnen ganze Menschengeschlechter zum Opfer gebracht werden können. Denn in ihren unvollkommeneren Entwicklungen wirken sie einengend, drückend und zerstörend, und ihr Segen trift oft erst die späteren Generationen. Da aber die Völker aller Zonen und Zeiten nur vorübergehende Erscheinungen der Einen grossen, in ihrem Wesen ewig unerkannten Realitaet der Menschheit sind, so giebt es in dieser gewiss Ersatz, wenn frühere Geschlechter für nachfolgende entbehren und leiden.<pb n="7.655" xml:id="pbVII655"/> Denn die Einheit der Realität hebt die Getrenntheit der Erscheinungen auf.</p>
+
+               <p>Die Aufzeichnung dieses merkwürdigen Planes gehört nach Wasserzeichen und Charakter der Handschrift ins Jahr j&amp;y oder 1828. Der Plan selbst ist jedoch viel älter: in einem leider undatierten Briefe an Karoline von Humboldt, der den neunziger Jahren angehört, gedenkt Karoline von Wolzogen einer von Humboldt beabsichtigten Schrift über die Hurerei. Wir haben ihn also wohl als einen eigenartigen Nebenschößling der Studien der Horenzeit über den Geschlechtsunterschied und die Weiber zu betrachtest (vgl. auch Band i, 435)-</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

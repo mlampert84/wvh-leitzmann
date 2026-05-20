@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Zwölfte olympische Ode</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Achter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif08humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1909">1909</date>
+                  </imprint>
+                  <biblScope unit="page" from="15" to="16"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1792">1792</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="8.15" xml:id="pbVIII15"/>
+            <head>
+               <title type="main">3. Zwölfte Olympische Ode.</title>
+            </head>
+            <p>An Ergoteles, aus Himera, den Sieger im langen Lauf.</p>
+
+            <p>I. Strophe.</p>
+
+            <p>Ich flehe zu Dir, Zeus des Befreiers</p>
+
+            <p>Tochter, Erhalterin ^) Tyche, für Himera, die weitherrschende Stadt. Denn</p>
+
+            <p>Dir gehorchen im Meere die schnellen 5 Schüfe, Dir auf der Veste die plözlicherregten Kriege, und die Versammlung des Raths. Oft in die Höhe, oft auch herab zur Tiefe, — windige Lüge verheissend — wälzt sich der Sterblichen Hofnung.</p>
+
+            <p>Antistrophe. lo Ein sichres Zeichen, werdendes Schiksal von den Unsterblichen truglos zu spähen, fand noch der Irrdischen keiner.</p>
+
+            <p>Blind der Zukunft ist jegliche Klugheit. Oftmals täuscht der Erfolg die Erwartung der Menschen, ihre 15 Freuden vereitelnd; und wen Stürme des Unglüks düster umwehn, verwechselt wieder in plözlichem Tausch mit tieferer Wonne die Trauer.</p>
+
+            <p>Epode. Sohn Philanors, so wäre auch Deiner Füsse 20 Ruhm — gleich dem daheim kämpfenden Hahn —</p>
+
+            <p>Handschrift: Reinschriß (vgl. oben S. 2) S. 13—15. Außerdem ist ein Ent' wurf (I halbe Quartseite) erhalten. — Erster Druck (ohne die Anmerkungen): Wilhelm von Humboldts Gesammelte Werke 2, 2S0 — 281 (1841)^J „Erhalterin" verbessert aus „rettende".</p>
+
+            <pb n="8.16" xml:id="pbVIII16"/>
+            <p>bei dem Heerde der Väter, unbesungen dahingewelkt; hätte Dich nicht der männerentzweiende Aufruhr des Knossischen Vaterlandes beraubt. 25 Aber jezt gekrönt in Olympia, und zweimal im Isthmos und P3^thon, verherrlichst Du, Ergoteles, der Nymphen warme Quellen,^) die eigengewordnen Gefilde bewohnend.</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">Anmerkungen.</title>
+               </head>
+               <p>Ueberschrift.) Ergoteles, Philanors Sohn, stammte aus Knossos in Kreta, wurde aber in einem Aufruhr aus seinem Vaterlande vertrieben, und gieng nach Himera in Sicilien über. Hier fand er die Stadt in Zwist mit Gelo und Hiero, Tyrannen in Syracus, und vermittelte einen ehrenvollen Frieden zwischen ihnen, wodurch er sich ein grosses Ansehen unter den Bürgern erwarb. Aus Hass gegen sein Vaterland, und aus Dankbarkeit gegen Himera, Hess er sich, als er in Olympia gesiegt hatte, nicht als einen Cnossier, sondern als einen Himeraeer ausrufen. Auf diesen Glükswechsel des Ergoteles spielt die ganze Ode, vorzüglich aber die Epode an. Ergoteles trug in der 77. Olympiade den Sieg in den Olympischen Spielen im langen Laufe, einer Art des W^ett- laufs davon, in welchem man die Rennbahn mehreremale, nach einigen sechs- nach andren zwanzig- nach andren vier und zwanzig- mal zurüklegen musste. Er erhielt auch in den Pythischen, Isthmischen, und Nemeischen Spielen den Preis, und bekam eine Bildsäule in dem Olympischen heiligen Haine Altis, die noch zu Pausanias Zeiten gezeigt wurde.</p>
+
+               <p>V. 2. Tyche) das Glük. Ich habe das Wort beibehalten, da die deutschen Wörter sämmtlich Neutra sind.</p>
+
+               <p>V. 27. 28. der Nymphen warme Bäder) Es waren bei Himera warme Quellen, die auf Pallas Befehl hervorsprudelten, als Hercules, nach dem Raub der Heerden des Geryon, in diese Gegend kam, um ihn, da er von dem Zuge abgemattet war, zu erquikken.<note type="footnote" n="*)" resp="gnd-116890657"><hi>V „Quellen" verbessert aus „Bäder".</hi></note></p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

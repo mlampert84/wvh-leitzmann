@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Über Kadettenhäuser</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif10humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1903">1903</date>
+                  </imprint>
+                  <biblScope unit="page" from="93" to="96"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="10.93" xml:id="pbX93"/>
+            <p>und mit dem Justiz-Departement eine Correspondenz über die Zuordnung eines Raths aus diesen Deputationen zu dem juristischen Referendariatsexamen bei den Ober -Landes -Gerichten eröffnet werden, wenn es nicht überhaupt vielleicht gut sein dürfte, zu den Referendariatsprüfungen ebenso die Ober-Landes -Gerichte und Regierungen, als zu den höhern alle Sectionen und Ministerien zu vereinigen.</p>
+
+            <p>Diese Idee über das Referendariatsexamen könnte der Gesetzgebungssection gleich jetzt vorläufig mitgetheilt werden.</p>
+
+            <p>Den 8. Julius 1809.</p>
+
+            <p>Humboldt.</p>
+
+            <head>
+               <title type="main">XX. Über Kadettenhäuser.</title>
+            </head>
+            <p>(). Juli 180C).</p>
+
+            <p>(Konzept in den Akten des Kiiltitsniinisteriians.)</p>
+
+            <p>Scharnhorst hatte umfassende Pläne zur Errichtung einer Militärakademie entworfen und überreichte seinen Entwurf vom 75. Mai auf Befehl des Königs der Unterrichtssektion zur Begutachtung (8. Juni 180g). In das Kadettenkorps, über dessen Gestaltung allein die Sektion urteilte, wollte er nur Offizierssöhne aufnehmen, deren Väter im Kriege gefallen waren, vermögenslose Waisen, Söhne von armen Offizieren und solche, deren Aufnahme durch die Gnade des Königs befohlen wurde. Das ganze Korps sollte aus 4 Kompagnien, jede zu 65 Enteroffizieren und Kadetten, bestellen; die ersteren müssen durch ein Examen die Kenntnisse eines Portepeefähnrichs nachweisen und empfangen den Unterricht in der ersten Klasse der Militärakadeinie. Mit Benutzimg eines Gutachtens von Süvern (durch kleinen Druck bezeichnet] schrieb Humboldt sein Gutachten.</p>
+
+            <p>Der Gedanke einer höheren Militair- Akademie, die ihren Hauptsitz in Berlin hat, mit der aber zur Nachbildung schwächerer Subjecte noch eine untere Klasse, auch in Königsberg und Breslau verbunden seyn soll, ist sehr glücklich gefasst.</p>
+
+            <p>Sie wird eine Special-Schule seyn, welche die vollkommene Ausbildung zu einem bestimmten einzelnen Fache bezweckt, und da sie, als solche nur für das reifere Alter, in welchem Neigung und Beruf sich schon entschieden hat, bestimmt ist, nicht ein früheres in Anspruch nimmt, bevor in ihm die Anlage sich entwickelt hat, so kann die Section des öffentlichen Unterrichts dieselbe niclit anders als höchst zweckmässig finden.</p>
+
+            <pb n="10.94" xml:id="pbX94"/>
+            <p>Treten auf diese Weise allgemeine Gründe gegen die Cadetten- Häuser ein, so ist die Frage, ob auch nur der Armee selbst mit ihnen gedient ist. Wenn sie eine ansehnliche Zahl junger Leute enthalten sollen — und nur in diesem Fall wird die wohlthätige Absicht Sr. Majestät für Söhne bedürftiger Offizieren in einem weiten Wirkungskreise erfüllt — so liefern sie bei weitem den grössten Theil, ja bei der jetzigen Reduction der Armee, fast alle Offiziere derselben. Nun aber ist die Bildung in ihnen nothwendig einseitig; gewiße Lehrgegenstände, wie zum. Beispiel alte Sprachen, w^erden, da der ganze Zuschnitt nach demjenigen gemacht wird, v/as ein Offizier nothw^endig braucht, ganz ausgeschloßen, und wenn die Regimenter, welche Subjecte aus derselben bekommen, ungewiss sind, ob diese diejenigen Kenntniße besitzen, welche wirklich in den Lehrplan aufgenommen sind, so sind sie gewiss, dass keines sich solche erworben hat, die darüber hinausgehen. Daraus vermuthlich ist die Idee der Academie militaire (deren Aufhebung allein eine überaus wohlthätige Folge des neuen Plans ist) entstanden, um doch gewiss auf einige Offiziere rechnen zu können, die, auch abgesehen von eigentlich militairischen Kenntnissen, in den allgemeinen nach einem ausgedehnteren Lehrplane unterrichtet würden. Jetzt scheint es aber, da die Regimenter niemanden aufnehmen, der nicht ein gewisses Alter erreicht hat, und nicht eine vorgängige Prüfung besteht, da auch so noch durch die neue Militaire Academie Gelegenheit zur Fortbildung eröffnet ist, bei weitem beßer für die Armee, wenn sie, wie jeder andere Stand, ihre Zöglinge aus der ganzen Nation und aus allen Anstalten des Staats bekommt. Sie empfängt auf diese Weise junge Leute von mannigfaltigen Kenntnissen und vielseitiger Bildung, die, weil sie den Kriegsstand nicht als immer dazu be- stimmt, sondern aus freyem Entschluss wählen, die militairische selbständiger und besser in sich aufnehmen. In seinem jetzigen Geiste sucht aber das Militaire vielmehr Kenntnisse und Bildung, als es, wie wohl sonst geschah, dieselben, als seiner eigentlichen Bestimmung entgegenlaufend, zurückstossen sollte.</p>
+
+            <p>Endlich ist wohl nicht mit Unrecht zu überlegen, ob durch</p>
+
+            <pb n="10.95" xml:id="pbX95"/>
+            <p>Auf diese Weise scheinen die Cadettenhäuser nunmehr be}'- zweckmässiger Organisation des öffentlichen IJnterrichtswesens überflüßig. Denn wenn die Klasse von Schulen, welche die allgemeine, jedem Menschen und Staatsbürger nothwendige Bildung bezweckt, gehörig eingerichtet ist, so ist durch sie für das allgemeine Bedürfniss aller Stände gesorgt, imd die Cadettenhäuser werden für den Militairstand gar nichts besonderes mehr leisten können, was jene nicht in um so höherem Grade leisteten, auf je höherem Standpunkt sie beruhten.</p>
+
+            <p>Envägt man auch wodurch sich das Berlinische Cadettenhaus von andern niedern und höheren Schulen unterschied, so war es zwar negativ durch Ausschliessung mancher Lehrgegenstände, allein positiv bloss durch eine nähere Anwendung der Mathematik und des Zeichnens auf die Kriegswissenschaft, einen encyklopädischen Unterricht über das, was man zum künftigen Offizier-Dienst am nöthigsten braucht, und die wirkliche Exercierübungen, und die militairische Disciplin.</p>
+
+            <p>In den beiden ersten Punkten herrschte eine gewiss nachtheilige Vermischung der Praxis mit der Theorie, und es ist unstreitig besser, wie es der neue Plan verlangt, mit gründlichem Studium allgemeiner Mathematik zur Taktik überzugchen, als in einem früheren i\lter und bei noch schwachen Kenntnissen beide gleich zu verbinden. Das Zeichnen von Plänen, zweckmässig und nicht als Spielerei getrieben, ist gewiss auch früh nützlich, wird aber auf die allgemeinen Schulen übergetragen werden können und müßen, da es die ganz allgemeine nothwendige Kunst sich leicht und schnell in einem Hause, einer Stadt, einer Gegend orientiren zu können, so sehr befördert, und nur ein Theil des geographischen Unterrichts ist. Die Vorbereitung zum Offizierdienst konnte nur in einem sehr unvollkommenen Institut nützlich seyn. Denn sonst ist es gewiss hinreichend, nur überhaupt deutsch schreiben zu können, um einen Thorzettel oder Wachrapport zu machen, wozu<pb n="10.96" xml:id="pbX96"/> was ein Militair-Institut vorzüglich auszeichnen sollte, müssten, wie man denken sollte, Leibesübungen seyn, um Stärke und Gewandtheit zu erlangen. Nun aber ist es ordentlich wunderbar, dass dazu bei dem Berlinischen Kadettenhause auch nicht einmal, den stäubigen, schattenlosen und gar nicht grossen Hof abgerechnet, der nöthige Raum vorhanden ist. Die einzigen Leibesübungen waren Exercieren und für Einige Reiten, also zwei, welche den Körper höchst einseitig ausbilden.*)</p>
+
+            <p>Es scheint daher unumgänglich nöthig, dass so wie Special-Schulen für das unreife Alter in keinem Fache Statt finden dürfen, so auch die Cadettenhäuser aufhören. Sie können mit allgemeinen Scinilen verbunden (welches in Stolp sehr wohlthäiig seyn würde) oder in solche verwandelt werden.</p>
+
+            <p>Es könnte vielleicht die dazu bestimmte Sum.me auf mehr als Eine Art verwendet werden. Allein sollte Eine grosse und eigne zugleich zur Erziehung und zum Unterricht bestimmte Anstalt davon unterhalten werden, so müsste, wenn die im vorigen ge- machten Bemerkungen richtig sind,</p>
+
+            <p>1. die ganze militairische Gestalt, die Direction durch Offiziere u. s. f. wegfallen und die Anstalt bloss eine bürgerliche werden;</p>
+
+            <p>2. Unterricht und Erziehung ganz allgemein seyn, und jeder eine Bestimmung wählen können, welche er wollte.</p>
+
+            <p>Um nicht die Unterrichtsanstalten unnützer Weise zu häufen, und die Einkünfte der Anstalt nicht zugleich auf grosse Lehrerbesoldungen und Unterhaltung der jungen Leute zu zersplittern, könnte die Anstalt auch blos dazu dienen, dass die Pensionairs darin wohnten, ässen, Gymnastik übten und für sich arbeiteten. Zum Unterricht könnte man sie, wie so viele Kinder von Privatleuten thun, in die vier grossen Gymnasien Berlins gegen einfache Bezahlung des Schulgeldes vertheilen, und ihnen im Hause nur Inspectoren zur Aufsicht, und zur Leitung der eigenen Arbeiten halten. Eben diese könnten die neuen Ankömmlinge, die vielleicht noch sehr weit zurück wären, so weit bringen, dass sie nunmehr Gymnasien besuchen könnten. Auf diese Weise könnte die Königliche Milde mehreren Familien zur Unterstützung ge'') Hier fügte Humboldt eine von Süvern verfaßte Stelle ein: „aber auch selbst die Gymnastik als einen allgemein-nothwendigcn tmd i^isonderheit bei Ein-</p>
+         </div>
+      </body>
+   </text>
+</TEI>

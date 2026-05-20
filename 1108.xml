@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Entwurf einer Note an Metternich</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Elfter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif11humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1904">1904</date>
+                  </imprint>
+                  <biblScope unit="page" from="84" to="89"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="fr">Français</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="11.84" xml:id="pbXI84"/>
+            <p>me scmblc meritcr bcaiicoup de croyance. .l'avoue que j'en attache beaucoup moins a ce qifil ajoutait que rEmpereur pourrait meme encore apres sc declarer pour nous, si on entcnd par la une decla- ration spuntanee. Mais rAiitriche a un intdrct si Evident que les alli^s ne fassent pas la paix avec la France sans son inten^ention, et que les qucstions les plus importantes pour eile, comme celle du Duchd de Varsovie, ne soient pas decid^es d'une maniere con- iraire a ses vues, eile est meme si peu süre d'obtenir de la France sans les allids une restitution quelconque de provinces, que son embarras commencerait premierement ä venir ä son comble, lors- que les allies ne voudraient point entrer dans le plan de pacification qu'elle propose. Elle s'est aussi beaucoup trop compromise vis-ä-vis de la France pour esperer jamais que celle-ci ne täche de s'en venger. Je ne nie n^anmoins pas qu'il serait toujours impru- dent de fonder un veritable espoir lä-dessus; si une fois on recommence la guerre sans l'Autriche, il faut aussi se resigner a la terminer de meme, et il serait doublement dangereux alors de porter en ligne de compte une circonstance probable, mais tou- jours incertaine. Ce qui devrait alors inspirer la confiance, seraient les renforts que Tarm^e russe et prussienne ont recus durant l'armistice, l'esprit qui anime ces armees, et l'alliance avec l'Angleterre et la Suede, qui ne peuvent commencer qu'ä present premierement ä preter une assistance veritable contre l'ennemi commun.</p>
+
+            <p>A Peilau, ce lo juillet 1813.</p>
+
+            <p>Humboldt.</p>
+
+            <head>
+               <title type="main">XXIV. Entwurf einer Note an Metternich.</title>
+            </head>
+            <p>c. 30. Juli 1813.</p>
+
+            <p>(Abschrift im Geh. Staatsarchiv.)</p>
+
+            <pb n="11.85" xml:id="pbXI85"/>
+            <p>All (."omte de Mcticrnich p. p.</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">A Praguc, ce 1S13.</title>
+               </head>
+               <p>Le soussigne Ministrc d'lMat de Sa Majcstd le Roi de Prusse \ icnt de recevoir la note par laquclle Son Kxccllencc Monsieur le (]omte de Metternich, Ministre d'Ktat et des atlaires (^trangeres de Sa Majestd TKinpereur d'Autriche l'invite en sa quaüte de Media- teur i\ dnoncer les bases que Sa Majestd le Roi, son Maitrc, croit propres i\ la conclusion de la paix. II s'empresse d'y rdpondre tout de suite en vertu des pouvoirs dont il est muni, et de donner aussi par \ä une prcuve de la satisfaction avcc laquellc sa (&gt;jur acccptc la mc'diation de Sa Majcstd Imperiale.</p>
+
+               <p>Lorsquc Sa Majeste le Roi de Prusse siinit avcc Scs puissants allies, II n'eut d'autre but que celui de recouvrer et d'assurer Tan- cienne indepcndance de Sa Monarchie, et ce but meme fut \'\6 ä celui plus general du rdtablissement d'un dtat d'dquilibre et de tranquillite en Europe. (&gt;e meme point de vue dirigea les ddmarches de Ses allies, et la guerre porta ce caractere, des qu'elle s'approcha des frontieres de l'Allemagne ; Tordre de choses qu'elle tendait i\ rdtablir, devait etre assurd par la nature meme des prin- cipes sur lesquels on voulait le fonder. Quand meme les rapports particuliers de chacune des puissances allides, pris ensemble, n'eussent point embrassd, pour ainsi dire, la totalitd des intdrets politiques de l'Europe, aucune vraiment capable d'influer puissam- ment sur la tranquillitd et le bonheur des nations, ne pouvait en etre exclue, et si la multiplicitd de rappons et d'intdrets aussi varids rend Toeuvre de la pacification plus difhcile et plus compli- qude, Tdtendue des vues et la grandeur du but peuvent aussi seules l'emporter sur toutes les considdrations secondaires. On peut se tiatter que tous le voeux se rdunissent pour obtenir le bienfait immense d\me paix gdndrale, etablic sur les bases de la justice et de rdquitc.</p>
+
+               <p>(A'itc meme idee fondamcntalc doit presider aussi aux ndgo- ciations actucllcs. Toutes les considdrations particulieres doivent lui edder; eile est seule digne d'ctre olVerte a la Puissance Mddia- trice qui, en prenant sur eile la täche de rendre la paix i\ Thuma<pb n="11.86" xml:id="pbXI86"/>et de ne s'attacher qu'au bien commun.</p>
+
+               <p>Dirigees par ces vues, la l^russe et la Russie exposerent ä la (]our deA'icnne dans une note remise le i() de mal les conditions qui leur paraissent nt^cessaires pour rdtablir la paix en Europe. Os conditions portaient que. pour parvenir a un iisit de choses stable et iustc, il laudrait*)</p>
+
+               <p>I. retablir TAutriche dans le degre de puissance et l'etendue de territoire qu'elle possedait avant 1805, tant en Italie qu'en Alle- magne :</p>
+
+               <p>■2. retablir la Prusse dans Tindepcndance et les proportions oü eile se trouvait avant cette epoque;</p>
+
+               <p>3. dissoudre la ligue du Rhin, rendre l'independancc ä FAlle- magne et lui restituer ses provinces du Nord reunies äla France;</p>
+
+               <p>4. dissoudre egalemcnt le Duche de ^^a^sovie et partager les provinces qui le forment:</p>
+
+               <p>5. separer la Hollande de la France;</p>
+
+               <p>6. replacer Tancienne D)^nastie sur le tröne d'Espagne; 7. rendre Tltalie dans toutes ses parties libre du Gouvernement et de Tintiuence de la France.</p>
+
+               <p>Si Ton examine ce plan de pacilication generale, on le trouvera fonde sur les principes ci-dessous enonces. Rendre l'independance aux Etats qui n'en jouissent plus, restituer des provinces ä des monarchies qu'il Importe pour la tranquillite et le bonheur de l'Europe de voir retourncr ä leur ancien degre de puissance; dissoudre des institutions politiques qui portent dans leur existence un germe d'inquietude pour leurs voisins: voila a quoi il vise, Sans favoriser au reste aucune puissance en particulier, sans en agrandir aucune au point qu'elle puisse devenir dangereuse ä la sürete generale.</p>
+
+               <p>*J Das sind die Bedingungen, die Hardenberg und Nesselrode dem Grafen Stadion am 16. Mai in Wurschen übergaben.<pb n="11.87" xml:id="pbXI87"/> Ics bases solides de la paix ge- nerale.</p>
+
+               <p>Mais comme il entre dans Tidde de la paix generale encore d'au- tres iniercts qui appartiennent e-vckisivement i\ TAngleterre et ä la I'Vance, comme Puissances maritimes, et qiie cette paix est d'ailleurs im objet d'une si grande etendue qu'elle devra r^ussir plus aisement apres un arrangement prdliminaire, dejä actuellement utile a toutes les panies et propre a faire rdussir celui plus etendu qui peut presenter a TAngleterre et ä la France des equivalents et des avantages r^ciproques et au- quel toutes les puissances ont un intdret egal de viser, on peut se Hatter d'atteindrc i\ ce but par un arrangement prealable qui, en reglant les interets immediats des panies contractantes et en ^tant cxecute sur-le-champ et ac- compagne de la retraite simul- tande des Armees, mettrait in- cessamment un terme a la guerre du (kontinent et servirait de base ä la paix generale ; et c'est d apres ces principes que Sa .Majeste le la paix genc*rale. Klles sont en meme temps Celles qui se lient aux rapports particuliers des au- tres Allies de Sa Majeste.</p>
+
+               <p>Mais il entre dans Tidee de la paix generale encore d'autres interets qui appar- tiennent exclusivement ä TAngleterre et äla France, comme Puissances maritimes,et cette paix estd'ail- leurs un (jbjet d'une si grande etendue qu'il est p e u t - c t r e n e c e s s a i r e d' y arriverpardegre et de la</p>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">preparer par un arrange- ment pr^liminaire deja actuellement utile a tou-</title>
+               </head>
+               <p>tes les parties et propre a faire reussir celui plus</p>
+
+               <p>Idtendu auquel l'Angletere et la France doivent viser,</p>
+            </div>
+
+            <div type="section" n="3">
+               <head>
+                  <title type="main">qui leurprdsentedesequi- valents et des avantages</title>
+               </head>
+            </div>
+
+            <div type="section" n="4">
+               <head>
+                  <title type="main">reciproques et qui com- blerait en meme temps les voeux de toutes les autres</title>
+               </head>
+               <p>; puissances. S. M. leRoide Prusse pense par consequent qu'on atteindrait Iplus aisdment au but de- ; s i r ^ p a r u n e p a i X p r d a I a b 1 e<pb n="11.88" xml:id="pbXI88"/> Le point le plus important sous ce rapport est sans doute celui de La paix de base i\ la paix g^n^rale.</p>
+
+               <p>L e s p r i n c i p e s d' i n d e p e n - d a n c e et d' d q u i 1 i b r e d e - V r o n t a u s s i s e r v i r de g a - rantic a cctte paix p re-</p>
+            </div>
+
+            <div type="section" n="5">
+               <head>
+                  <title type="main">al ablc, mais ils n'y seront appliqu^s qu'aux int^rets les plus immediats et les plus directs des parties contractantes.</title>
+               </head>
+            </div>
+
+            <div type="section" n="6">
+               <head>
+                  <title type="main">Conformdmentäces con- sid^rations le soussign^ est Charge par les ordres expres de son Sou verain de proposer les quatre Premiers des sept articles enonces ci-dessus comme bases de la negociation actuelle.</title>
+               </head>
+            </div>
+
+            <div type="section" n="7">
+               <head>
+                  <title type="main">Les conditions renfer- mees dans ces quatre ar- ticles tendent uniquement</title>
+               </head>
+               <p>ä reconstruire la Prusse et l'Au- triche dans leurs anciennes proponions de forces et d'etendue et ä garantir leur independance. Elles restent par conse- quent entierement dans j r i d e e q u e 1 a paix entre les deux grandes puissances, placees aux extremites de l'Europe, doit etre assuree par la force et l'in- d^pendance des Etats interme- diaires. R^tablir ainsi la tran<pb n="11.89" xml:id="pbXI89"/>muiuel qu'elles ont ä se soutenir et ä sc voir reprendre leur an- cienne attitude, doit etre apprdcid par Ics autres puissanccs comme un gage de la tranquillite commune. L'AlIemagne est diroitement lidc i\ la Prusse et :\ la Monarchie Autrichienne. (](jmmeni p(nir- rait-on sc dispenser de reclamer pour eile Pavantage dont eile jouissait autrefois, et par lequel suriout des Souvenirs chers et sacrds la rattachent a la Maison d'Autrichc?</p>
+
+               <p>La France, en consentant ä Pordre de choses qui serait retabli par le plan de pacification prdalablc, contribucrait ä rcndrc un repos durablc ä TiAiropc, et s'assurcrait a elle-meme la jouissance tranquille des avantages immenses de sa position. La paix maritime, en viviliant toutes Ics branches de Tindustrie nationale par la libcrte du commerce et de la navigation, serait cn memc temps pour eile la plus large et la plus belle de toutes les compcnsations. Car il est evident que cettc paix est dtroitement lide a la paix con- tinentale. Klle restc impossible aussi longtemps que la communication librc de TAnglcterre avec le reste de TKurope n'est point assuree par Tindependance des puissanccs du (kontinent, et chaque tentativc de gcner cette communication devient, a son tour, pour CCS puissanccs une source d'cmbarras, d'inquietudes et de guerrcs.</p>
+
+               <p>Un Systeme d'dquilibre et d'inddpendance gdndrale doit rdunir les interiits de tous les Gouvernements sans cxccption, et il nV cn a aucun qui n'ait exprimd dans dilVerentcs occasions son ddsir de le voir renaitre en Kurope et retabli Tordre de choses qu'unc suite de malheurs a inten-erti. Les Souverains allids sont pendtres de ce sentiment, et il leur semble tcllement important et indispensable d'atteindre a ce but, qu'ils ne s'ecaneront point des principes sur Icsquels ils croient que la paix future doit etre basde; ce n'est que de cette maniere qu'ils croiront pouvoir prouver la sincdrite de leur inteniion de mettre par une paix solide un terme aux cala- mitds multiplices et prolongecs de riuiropc.</p>
+
+               <p>Lorsquc Sa ^Lajestd rKmpereur dWutriche otVrit Sa puissanie mddiation aux parties belligdrantes, Sa Majestd Imperiale a du</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

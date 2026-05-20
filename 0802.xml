@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Zweite olympische Ode</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Achter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif08humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1909">1909</date>
+                  </imprint>
+                  <biblScope unit="page" from="3" to="10"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1792">1792</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="8.3" xml:id="pbVIII3"/>
+            <head>
+               <title type="main">I. Zweite Olympische Ode.</title>
+            </head>
+            <p>An Theron aus Agrigent,^) der im Wagenrennen den Preis erhalten hatte.</p>
+
+            <p>I. Strophe.</p>
+
+            <p>Leierbeherrschende Hymnen, wen der Götter, wen der Heroen, wen der sterblichen Menschen singt ihr? Heilig dem Zeus ist Pisa, 5 und den Olympischen Wettkampf hat von des Krieges Beute Herakles Macht gegründet. Theron preiset, o Saiten, und sein siegerringendes lo Viergespann !</p>
+
+            <p>Ihn, den gerechten Gastfreund, Akragas Stüze, seiner hochverherrlichten Väter</p>
+
+            <p>Blume, ihn, den Städteerhalter 1</p>
+
+            <p>I. Antistrophe. 15 Vieles erduldend im Herzen, bauten sie die heilige Stadt am Handschrift: Reinschrift (vgl. oben S. 2) S. i — 12. Außerdem sind zwei Entwürfe (4 und 2 Quartseiten) erhalten, der erste in gi Versen bis zum Schluß der vierten Strophe führend, der zweite vollständige auf einem Blatt, auf dessen Vorderseite ein Brief Humboldts an einen erfurter Gelehrten vom 14. April ijg2 steht. — Erster Druck (ohne die Anmerkungen) : Pindars zweite olympische Ode, metrisch übersetzt von Wilhelm von Humboldt. Berlin, gedruckt bei J. F. Unger MDCCXCII. (Ein Abdruck für Freunde.) 12 Seiten. V In der Handschrift: „Akragas".<pb n="8.4" xml:id="pbVIII4"/> Flusse, waren Sikeliens Auge. Und es umkränzte sie mit</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">glüklichen Tagen das Schiksal, 20 Herrschaft und Wonne gattend</title>
+               </head>
+               <p>mit ächter Tugend Glanz. Rheas Sohn, o Kronion, über die Olympische Veste, die 25 Blüthe der Spiele und Alpheos Gestade waltend, gieb, erfreut vom Gesänge, huldreich noch die Herrschaft der Väter</p>
+
+               <p>I. Epode. ihren künftigen Enkeln. Was einmal ge- 30 schehn ist, davon, sei es gerecht, sei es nicht, vermag selbst die Zeit, die Allerzeugerin, nicht mehr den Ausgang zu wandeln. Aber Vergessenheit führt glükliches Schiksal herbei, 35 und in der Fülle treflicher Freuden stirbt besiegt dahin das zürnende Unglük,</p>
+
+               <p>2. Strophe. wenn der Unsterblichen Wille Segen sendet. Also bei Kadmos herrlichthronenden Töchtern. Viel zwar 40 duldeten sie, doch sank die jammererregende Trauer hin vor der schönren Freude. Getödtet von des Biizes Donner, lebt in dem Kreis der 45 Götter die schönlokkige Semele. Ewig nun liebt sie Pallas, ewig und herzlich Vater Zeus, und inniger liebt sie 50 noch der Sohn, der Epheuumkränzte !</p>
+
+               <pb n="8.5" xml:id="pbVIII5"/>
+               <p>olympische Ode.</p>
+
+               <p>2. Antistrophe. Auch in des Meeres Tiefen — geht die Sage — unter den Töchtern Nereus, gaben die Götter nimmer alternde Jugend Inon 55 ewige Dauer hindurch. Es siehet der Menschen keiner des Todes Ende voraus; weiss nicht, ob er nur Einen heitren Tag — das freundUche 60 Sonnenkind — sicher und harmlos ende. Andre und andre</p>
+
+               <p>Ströme, Freude rollend und Mühe, tragen ewig wechselnd die Menschen.</p>
+
+               <p>2. Epode. 65 Also auch das Geschik, das der Väter beglükte Tage lange geschüzt! Denn es führte, neben dem gottverliehnen Heile, auch, wieder gewandelten Sinns, ein 70 Unglük herbei, da des Sohns schiksalgeleitete Hand,</p>
+
+               <p>Laios in der Enge des Pfades tödtend, Pythons alten Ausspruch vollbrachte.</p>
+
+               <p>3. Strophe.</p>
+
+               <p>Aber es sah's der Erinne ^)</p>
+
+               <p>Späherblik, und unter einander 75 tilgt sich wechselnd der Stamm der Krieger.</p>
+
+               <p>Nach Polyneikes Sturze blieb nur Thersander zurük, geehrt in der Jugend Kämpfen, und in den Schlachten des Kriegs, 80 ein Adrastischer Sprössling, seines Hauses schüzender Retter. Von V In der Handschrift: „Erinnys", verbessert aus „Erynne"; im Entwurf: „Furie".</p>
+
+               <pb n="8.6" xml:id="pbVIII6"/>
+               <p>seinem Geschlechte stammet Aenesidamos 85 Sohn; ihn ziemt es, mit des Gesanges</p>
+
+               <p>Preise, mit der Leier zu feiern!</p>
+
+               <p>3. Antistrophe. Denn den Olympischen Preis empfieng er;i) und in P3^thon, im 2) Isthmos reichte ihm und dem gleicherhabnen 90 Bruder des Glükkes Schvvesteranmuth die Blume des Lohns der zwölfmal umflognen Rennbahn. Des Siegs Erreichung befreit, wer, des Kampfes versuchend, 95 rang, von Sorgen. Reichthum, von</p>
+
+               <p>Tugend um- kränzet,*^) gewährt bei jedem Wanken des Schiksals sichre Hülfe; führet zu höhrer ^00 ernsterfüllter Ansicht der Dinge ;^)</p>
+
+               <p>3. Epode. ist ein funkelnd Gestirn, ist der Sterblichen Wahrheitsflamme. Wer ihn besizt, kennt die Zukunft, weiss dass der Abgeschiednen Frevelsinn 105 sicher die Büssung erfährt. Denn was in Kronions Gebiet frevelt das Menschengeschlecht, V In der Handschrift verbessert aus „die Olympische Palme krönt ihn", y In der Handschrift: „und". y In der Handschrift: „umhänzet (verbessert aus „begleitet") von Tugend". *J Im Entwurf lautet die dritte Antistrophe: „Denn die Olympische Palme errang er; ihm und dem gleicherhabenen Bruder reichte in Python und Isthmos des Glükkes Schwesteranmuth den blühenden Lohn der zwölfmal umßognen Rennbahn. Froh ruht in den Armeri des Sieges, wem im Kampfe der Busen schlug. Reichthum, von Tugend umkränzet, hält aufrecht bei jedem Wanken des Schiksals,<pb n="8.7" xml:id="pbVIII7"/> richtet im Reich der Schatten unwandelbar Nothwendigkeit mit grausem Geseze.^)</p>
+
+               <p>4. Strophe. Aber stets leuchtende Sonne 110 Tages, ewig leuchtende Nachts geniessend, pflükken die Guten, fern von Arbeit, ein leichtes Leben; nimmer durchfurchend die Erde, nimmer des Meeres Fluten — "5 getrieben vom Bedürfniss — mit der Stärke der Hände. Thränenlos entfliehen die</p>
+
+               <p>Tage, wem Frömmigkeit hold war, bei der 120 Götter Gepriesnen.</p>
+
+               <p>Marter, nie von Augen geschauet, schöpft indess der büssende Frevler. 2)</p>
+
+               <p>4. Antistrophe. Wer nun mit Kühnheit gewagt, hier dreimal, dreimal drunten verweilend, 125 frei von Unrecht, und rein das Herz zu halten, vollbringt Zeus Weg zu Kronos erhabener Veste;</p>
+
+               <p>^J Im Entwurf lautet die dritte Epode:</p>
+
+               <p>„Ist ein funkelnd Gestirn, ist den Sterblichen Fakkel der Wahrheit. Wer sie besizt weiss was die Zukunft verbirgt, dass den abgeschiednen Verbrecher unentrinnbare Büssung ereilt. Denn was in louis Gebiet der Sterbliche frevelt, richtet unten im Schattenthal furchtbar imd unerbittlich das allbeherrschende Schiksal." V Im Entwurf lautet die vierte Strophe :</p>
+
+               <p>„Aber im ewigen Sonnenglanz pflükt, von Arbeit befreit, ein leichtes Leben der Gute, nimmer mit der Stärke der Hand die Erde durchfurchend, nimmer die Fluten des Meers, vom Zwang der Begierde getrieben.</p>
+
+               <p>Thränenlos entßiehn dem Frommen die Tage bei der Götter Gepriesnen. Marter, nie von Augen geschauet, schöpft indess der büssende Frevler."<pb n="8.8" xml:id="pbVIII8"/> da, wo des Meeres Lüfte der Seigen Insel umwehn, 130 da, wo goldene Blumen leuchten ; ^) — hier entsprossen -) dem Boden; dort glänzenden Bäumen; dort erzeugt von^) des Wassers 135 Flut — in*) schöngewundner Geflechte</p>
+
+               <p>Kranz die Arme diesen umschlingend.^)</p>
+
+               <p>4. Epode. So befiehlts Rhadamanthens gerechte Entscheidung, welcher ewig bereit Vater Kronos beisizt, 140 dem Gatten Rheas, deren Thron höher, als alle, emporstralt. Ihnen zur Seite wird hier Peleus und Kadmos geehrt; und auch Achillen führte, Kronions Herz mit Bitten lenkend, hieher die Mutter;</p>
+
+               <p>5. Strophe. 145 ihn, der den Hektor, einst Troias feste, nie erschütterte Säule, stürzte, Kyknos dem Tode gab, und Memnon, den Sohn der Eos.^) Viele gefiederte Pfeile, 150 ruhend verstekt im Köcher, trägt meine Schulter noch.') Ver- ständgen tönen sie. Denn beim Volk bedarf ich Deutung. Dem Weisen giebt 155 vielfache Kunde die Nay In der Handschrift verbessert aus: „wo die Blume des Goldes leuchtet".</p>
+
+               <p>") In der Handschrift verbessert aus: „entspriesst sie". ^) In der Handschrift verbessert aus: „sie".</p>
+
+               <p>*■) In der Handschrift: „wo", verbessert aus „In". ^) In der Handschrift: „Kränze ihre Anne umschlingen" , verbessert aus „Kranz umschlingt sie ihnen die Arme".</p>
+
+               <p>*y In der Handschrift: „Aeos".</p>
+
+               <p>■y Diesen Satz zitiert Forster in den Erinnerungen aus dem Jahre i-jgo im Hinblick auf Katharina II. (Sämtliche Schriften 6, 2ji).</p>
+
+               <pb n="8.9" xml:id="pbVIII9"/>
+               <p>tur; doch der Schüler Haufe krächzt mit gierig geschwäzger Zunge, gleich den Raben, Kronions</p>
+
+               <p>5. Antistrophe. göttlichem Vogel entgegen. 160 Auf! Begeistrung, spanne den Bogen jezt zum Ziele! Und wen trift, abge- schnellet vom freundlich holden</p>
+
+               <p>Sinn, dein hochfliegend Geschoss? Zielst nicht du auf Akragas hin? 165 Durchglüht von unentweihter</p>
+
+               <p>Wahrheit, Sprech' ich es schwörend aus: es hat nie eine der</p>
+
+               <p>Städte, Jahr- hunderte durch, solch einen 170 Helden erzeugt, so gegen Freunde edelgesinnten Herzens, so freigebiger Hand, als</p>
+
+               <p>5. Epode. Theron. Aber wahnsinniger Menschen Be- thörung kämpft entgegen dem Preis. 175 Wider Recht erhebt sie die Stimme, will mit Schande die Feier der Edlen verhüllen.</p>
+
+               <p>Aber den Sand am Gestad' fliehet die messende Zahl.</p>
+
+               <p>Und wieviel Theron rund um sich her der 180 Freuden streute, v/er vermag es zu sagen ?^)</p>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">Anmerkungen.</title>
+               </head>
+               <p>Theron aus Akragas (Agrigent), an den diese Ode gerichtet ist, leitete sein Geschlecht von Kadmos und Oedipus ab, worauf der Dichter mehrmals anspielt. Er beherrschte Agrigent. Der Sieg, der die Veranlassung zu dieser Ode gab, fällt in die 77. nach andren 70. Olympiade.</p>
+
+               <p>V Auch diese Strophe zitiert Forster mit leiser Änderung („wie viel Samen ER des zukünffgen Segens streute'^) in den Erinnerungen und zwar in Anwendung auf Mirabeau (Sämtliche Schriften 6, 2jo).<pb n="8.10" xml:id="pbVIII10"/> V. 4. Pisa) eine Stadt in Elis, nahe bei Olympia. V. 6. hat — Beute) nach Besiegung des Augias. V. 1 5. Vieles u. s. w.) Haemon, einer der Vorfahren Therons, wurde, wegen eines auf der Jagd begangenen Mordes, aus Theben vertrieben, und gieng nach Athen. Von da begaben sich seine Nachkommen erst nach Kreta und dann nach Rhodus; als aber hier ein Aufruhr entstand, giengen sie nach Sicilien über. Da sezten sie sich zuerst in Gela fest, bauten aber in der Folge Agrigent, wobei sie von den benachbarten ^^ölkern sehr beunruhigt wurden. 1'. 16. Stadt am Flusse) Agrigent am Flusse gleiches Namens. V. 70. da des Sohns u. s. w.) Oedipus tödtete seinen Vater Laius bei Gelegenheit eines Zwistes, der in einem engen Wege zwischen ihnen entstand, wo der Wagenlenker des Laius ihm, aus dem Wege zu fahren befahl. Die übrige Geschichte ist bekannt.</p>
+
+               <p>Pythons) P3^thon oder P3^tho, der alte Name von Delphi. Thersander) der Sohn des Polynices und der Argea, der Tochter Adrasts. Er eroberte im Kriege der Epigonen Theben wieder. Aenesidamos Sohn) Theron. Bruder) Xenokrates.</p>
+
+               <p>100. fühi'et u. s. w.) Bei diesem Sinn, der sich, glaub' ich, nach dem Griechischen Ausdruk vollkommen rechtfertigen lässt, scheint mir diese schwierige Stelle nicht nur an sich sehr verständlich, sondern auch dem Zusammenhange des Ganzen angemessen. V. 147. Kyknos) Sohn des Neptun und der Scamandrodice, oder nach andren der Harpale. V. 148. Aeos) Aurora. V. 1 56. doch der Schüler u. s. w.) Nach den Scholiasten deutet Pindar hier auf den Bacchylides und Simonides, seine</p>
+
+               <p>Gegner. v. 173. Aber wahnsinniger u. s. w.) Capys und Hippokrates, Therons Geschwisterkinder, waren von ihm mit Wohl- thaten überhäuft worden. Als aber seine Macht und sein</p>
+
+               <p>Glük wuchsen, lehnten sie sich gegen ihn auf, und begannen einen Krieg gegen ihn, in welchem er sie bei Himera schlug. Auf sie und ihre Parthei spielt hier Pindar wahrscheinlich an. v.</p>
+
+               <p>72. v.</p>
+
+               <p>77-</p>
+            </div>
+
+            <div type="section" n="3">
+               <head>
+                  <title type="main">V. 84.</title>
+               </head>
+            </div>
+
+            <div type="section" n="4">
+               <head>
+                  <title type="main">V.</title>
+               </head>
+               <p>90.</p>
+            </div>
+
+            <div type="section" n="5">
+               <head>
+                  <title type="main">V.</title>
+               </head>
+               <p>99-</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,379 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Der königsberger und der litauische Schulplan</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Dreizehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif13humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1920">1920</date>
+                  </imprint>
+                  <biblScope unit="page" from="259" to="282"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="13.259" xml:id="pbXIII259"/>
+            <p>die zweiten ausschliesslich zu dem der Medicinalbehörden; bei den dritten, da der Unterricht da nicht mehr rein medi- cinisch seyn kann, concurriren beide, allein die Section des öffent- lichen Unterrichts nur auf eine untergeordnete Weise. So bestimmen sich die Gränzen mit Leichtigkeit und Sicherheit, wenn man nur von dem Grund ausgeht, dass die Section des öffentlichen Unterrichts nicht auf einzelne Fächer beschränkt seyn (da sonst auch die Gerichtshöfe die juristische Facultaet, die Bergbauadministration die mineralogische Professur, die Regierungen die cameralistische an sich reissen könnten, und so die Einzige und wissenschaftliche Universität von administrierenden und polizeilichen Behörden in lauter SpecialSchulen zerrissen würde) sondern alle Fächer des Unterrichts, insofern er theoretisch und wissenschaltlich ist, umfassen soll ; da hingegen die Verwaltungsbehörden auch den Unterricht und die Bildungsanstalten da an sich nehmen, wo er ins Praktische und zur einzelnen Anwendung übergeht. C. Der königsberger und der litauische Schulplan.</p>
+
+            <head>
+               <title type="main">a. Ueber die mit dem Koenigsbergischen Schulwesen vorzunehmende Reformen.^)</title>
+            </head>
+            <div type="section" n="1">
+               <head>
+                  <title type="main">I.</title>
+               </head>
+               <p>Wie vielerlei Arten von Schulen soll es geben? wie viele von jeder Art? und welche?</p>
+
+               <p>Man ist sowohl in dem Möllerschen, als Hoffmannschen Plane, die beide viele zweckmässige Vorschläge enthalten, davon ausgegangen, dass es, ausser den Elementar- und gelehrten Schulen, noch Mittelschulen geben solle.</p>
+
+               <p>Diese Frage ist daher zuerst zu erörtern. Ich bin dagegen. Mittelschulen sollen entweder den Uebergang von den Ele mentar- zu den gelehrten Schulen ausmachen, so dass die letzteren gar keine sogenannten Bürgerklassen mehr haben; oder als eine eigne Art der Schulen für diejenigen bestimmt seyn, welche auf eigentlich wissenschaftliche Bildung und besonders auf Universitäts<pb n="13.260" xml:id="pbXIII260"/> Studium Verzicht thun, oder endlich beide Zwecke zugleich erfüllen.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Eigenhändiges Konzept Humboldts.</hi></note></p>
+
+               <p>Die Trennung der Bürgerklassen von den gelehrten in zwei verschiedenen Anstalten stört oifenbar die so nothwendige Einheit des Unterrichts, der in der Wahl der Lehrgegenstände, in der Methode und der Behandlung der Schüler von dem Augenblick an, wo das Kind die ersten Elemente gefasst hat, bis zu der Zeit wo der Schulunterricht aufhört, in einem so ununterbrochnen Zusammenhange stehen muss, dass Klasse auf Klasse und halbes Jahr auf halbes Jahr berechnet sey. Die Mittelschulen bei dieser Anordnung könnten, indem sie nach vollendetem Elementarunter- richt anfiengen, und bei dem Beginnen des höheren gelehrten aufhören sollten, schlechterdings nur ein Stück des Unterrichts, und zwar ein, wenigstens in Absicht der Gränze nach oben, will- kührlich abgeschnittenes behandeln. Es liegt nun aber in der Natur der Sache, dass eine Anstalt, die ganz dasselbe mit einer andern, dies aber nur bis zu einem gewissen Punkte treiben soll, also so dass sie ihr Complement immer ganz ausser sich sieht, auch innerhalb des bestimmten Punktes schlecht werde.</p>
+
+               <p>Es giebt, philosophisch genommen, nur drei Stadien des Unterrichts :</p>
+
+               <p>Elementarunterricht</p>
+
+               <p>Schulunterricht Universitätsunterricht. Der Elementarunterricht soll bloss in Stand setzen, Gedanken zu vernehmen, auszusagen, zu fixiren, fixirt zu entziffern, und nur die Schwierigkeit überwinden, welche die Bezeichnung in allen ihren Hauptarten entgegenstellt. Er ist noch nicht sowohl Unterricht, als er zum Unterricht vorbereitet, und ihn erst mög- lich macht. Er hat es also eigentlich nur mit Sprach-, Zahl- und Mass -Verhältnissen zu thun, und bleibt, da ihm die Art des Bezeichneten gleichgültig ist, bei der Muttersprache stehen. Wenn man, und mit Recht, noch andern Unterricht, geographischen, geschichtlichen, naturhistorischen hinzufügt, so geschieht es theils um die durch den Elementarunterricht entwickelten, und zu ihm selbst nöthigen Kräfte durch mannigfaltigere Anwendung mehr zu üben, theils weil man für diejenigen, welche aus diesen Schulen unmittelbar ins Leben übergehen, den blossen Elementar-Unter- richt überschreiten muss.</p>
+
+               <p>Der Zweck des Schulunterrichts ist die Uebung der Fähig<pb n="13.261" xml:id="pbXIII261"/>C. Der königsberger und der litauische Schulplan. a. 20 1 keiten, und die Erwerbung der Kenntnisse, ohne welche wissenschaftliche Einsicht und Kunstfertigkeit unmöglich ist. Beide sollen durch ihn vorbereitet; der junge Mensch soll in Stand gesetzt werden, den Stoft", an welchen sich alles eigne Schaffen immer anschliessen muss, theils schon jetzt wirklich zu sammeln, theils künftig nach Gefallen sammeln zu können, und die intellectuell- mechanischen Kräfte auszubilden. Er ist also auf doppelte Weise, einmal mit dem Lernen selbst, dann mit dem Lernen des Lernens ') beschäftigt. Aber alle seine Functionen sind nur relativ, immer einem Höheren untergeordnet, nur Sammeln, Vergleichen, Ordnen, Prüfen u. s. f. Das Absolute wird nur angeregt, wo es, wie es gar nicht fehlen kann, selbst in einem Subjecte zur Sprache kommt. Der Schulunterricht theilt sich in linguistischen, historischen und mathematischen ; der Lehrer muss immer beobachten, bei welchem von diesen dreien der Schüler mit vorzüglicher Aufmerksamkeit verweilt, allein auch streng darauf sehen, dass der Kopf für alle drei zugleich gebildet werde. Denn die Schule soll eng verbinden, damit die Universität zu besserer Verfolgung des Einzelnen, ohne Schaden eilen ^) könne. Der Schüler ist reif, wenn er so viel bei andern gelernt hat, dass er nun für sich selbst zu lernen im Stande ist. Sein Sprachunterricht z. B. ist auf der Schule geschlossen, wenn er dahin gekommen ist, nun mit eigner Anstrengung und mit dem Gebrauche der vorhandenen Hülfsmittel jeden Schrift- steller, insoweit er wirklich verständlich ist, mit Sicherheit zu verstehen, und sich in jede gegebene Sprache, nach seiner allge- meinen Kenntniss vom Sprachbau überhaupt, leicht und schnell hinein zu studiren.</p>
+
+               <p>Wenn also der Elementarunterricht den Lehrer erst möglich macht, so wird er durch den Schulunterricht entbehrlich. Darum ist auch der Universitätslehrer nicht mehr Lehrer, der Studirende nicht mehr Lernender, sondern dieser forscht selbst, und der Professor leitet seine Forschung und unterstützt ihn darin. Denn der Universitätsunterricht setzt nun in Stand, die Einheit der Wissenschaft zu begreifen, und hervorzubringen, und nimmt daher die schaffenden Kräfte in Anspruch. Denn auch das Einsehen der Wissenschaft als solcher ist ein, wenn gleich untergeordnetes Schaffen. Daher hat der Universitätsunterricht keine Gränze nach<pb n="13.262" xml:id="pbXIII262"/> seinem Endpunkt zu, und für die Studirenden ist, streng genommen, kein Kennzeichen der Reife zu bestimmen. Ob, wie lange, und in welcher Art derjenige, der einmal im Besitze tüchtiger Schul kenntnisse ist, noch mündlicher Anleitung bedarf? hängt allein vom Subject ab. Das Collegienhören selbst ist eigentlich nur zufällig; das wesentlich Noth wendige ist, dass der junge Mann zwischen der Schule und dem Eintritt ins Leben eine Anzahl von Jahren ausschliessend dem wissenschaftlichen Nachdenken an einem Orte widme, der Viele, Lehrer und Lernende in sich vereinigt.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Schleiermacher, Gelegentliche Gedanken über Universitäten S. Ji4 weist das „Lernen des Lernens" der Universität zu.</hi></note></p>
+
+               <p>So wie es nun bloss diese drei Stadien des Unterrichts giebt, jedes derselben aber unzertrennt ein Ganzes macht, so kann es auch nur drei Gattungen auf einander folgender Anstalten geben, und ihre Gränzen müssen mit den Gränzen dieser Stadien zusammenfallen, nicht dieselben in der Mitte zerschneiden.</p>
+
+               <p>Auch ist die Idee zur Absonderung wohl nur daher entstanden, dass man sich unter Mittelschulen eine eigne Gattung von Schulen, die auf andre Kenntnisse, als die gelehrten Rücksicht nehmen, gedacht und nun besorgt hat, die gelehrten durch Verbindung beider zu verwickelt zu machen. Allein auch in dieser zweiten Absicht, dass die Mittelschulen für diejenigen, die auf höheren Unterricht Verzicht leisten, bestimmt seyn sollen, bestreite ich dieselben.</p>
+
+               <p>Da, um dies nur vorläufig zu bemerken, die Bestimmung eines Kindes oft sehr lange unentschieden bleibt, so bringen sie den Nachtheil hervor, dass leicht Verwechslungen vorgehen, der künftige Gelehrte zu lange in Mittelschulen, der künftige Hand- w^erker zu lange in gelehrten verweilt, und daraus Verbildungen entstehen.</p>
+
+               <p>Aber ich läugne auch die Möglichkeit, ihnen auf eine zweckmässige Weise eine wesentlich verschiedne Einrichtung zu geben, und es ist leicht zu zeigen, dass die durch ihren Mangel entstehende Lücke vollkommen durch andre Einrichtungen ausgefüllt werden kann.</p>
+
+               <p>Der Unterschied zwischen den Mittel- und gelehrten Schulen soll entweder in der Wahl der Lehrgegenstände, oder in der Methode bestehen. Man hat überdies in beider Hinsicht bei ihnen eine doppelte Classe von Menschen im Auge, einmal die ärmere, die darum höherer Bildung entsagen muss, dann diejenige, welche sich nicht dem Universitätsstudium widmet. Allein beide lassen sich nach gleichen Grundsätzen beurtheilen.</p>
+
+               <pb n="13.263" xml:id="pbXIII263"/>
+               <p>C. Der königsberger und der litauische Schulplan. a. 263 Bei der Wahl der Lehrgegenstände schliesst man einige aus, und dies Loos trifft dann gewöhnlich beide alte Sprachen, oder eine derselben, nimmt andre auf, wie mehr neuere Sprachen, Technologie und Statistik u. s. f. und macht die zur Hauptsache, die man sich in den gelehrten Schulen als Nebensache denkt, wie Geographie, Geschichte, Physik u. s. f. Allein man vermischt auf diese Weise immer auf eine klägliche Weise die vom Schulunterricht allemal zu fordernde allge- meine Uebung der Hauptkräfte des Geistes und die Einsammlung der künftig nothwendigen Kenntnisse, welche zum wirklichen Leben vorbereitet, da es hingegen allgemeiner Grundsatz seyn sollte :</p>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">Die Uebung der Kräfte auf jeder Gattung von Schulen allemal vollständig und ohne irgend einen Mangel vorzunehmen, alle Kenntnisse aber, die sie überhaupt wenig oder zu einseitig befördern, wie nothwendig sie auch seyn mögen, vom Schulunter- richt auszuschliessen, und dem Leben die speciellen Schulen vorzubehalten.^)</title>
+               </head>
+               <p>Auch würden diese Realschulen (und je besser und vornehmer sie wären, je mehr) nach und nach alle Disciplinen der gelehrten an sich reissen ; viele Schüler würden Lateinisch, manche Griechisch lernen wollen, nur würde eigentliche Gelehrsamkeit vermieden w^erden, man würde Griechisch und Lateinisch wie Französisch und Englisch gleichsam aus dem Gebrauch und kursorisch lernen, viele Sprachen gewissermassen besitzen, und von keiner einen eigentlichen Begriff haben. Denn es ist sicher ein Vorurtheil, dass, wenn man (und kaum die) einige Kleinigkeiten (wie z. B. im Griechischen die Accentuation) abrechnet, ein künf- tiger Kritiker im Anfange auf andre Weise Griechisch lernen müsse, als jeder andre. Beide sollen mit Sicherheit verstehen, nicht rathen; und in der bestimmten Sprache die Sprache überhaupt anschauen. Ihre Wege gehen allerdings, aber immer erst spät, aus einander. Ebensowenig lässt sich ein wesentlicher Unterschied in der Methode denken. Die Betrachtung der Länge oder Kürze der Jahre, welche in der Mittel- und in der gelehrten Schule dem V Vgl. zu diesen Ausführungen Band 10, 205<pb n="13.264" xml:id="pbXIII264"/>Unterricht gewidmet wird, rechtfertigte einen solchen noch am meisten. Allein auch da lässt sich bei den Fundamenten nichts thun; nicht abkürzen, denn man bestimmt ja in jeder Disciplin die Menge des aufzunehmenden Stoffs im Verhältniss zu der Kraft,. die er üben, und die ihn verarbeiten soll; nicht übereilen, denn die Entwicklung erfordert ihre natürliche Weile. Das Einzige^ was hier geschehen könnte, wäre wieder dem Leben vorgreifen; man könnte nemlich, was in der gelehrten Schule nach Gründen gezeigt wird , in der Mittelschule mechanisch beibringen , z. B.. chemische Mischungen, Rechnungsformeln u. s. f. Allein dies, hiesse durchaus die Gränzen des Schulunterrichts verlassen, die zur Bildung bestimmte Zeit zur Abrichtung misbrauchen und die Köpfe verderben. Alle den gelehrten, als solchen, entgegengesetzte Mittelschulen sind also im besten Sinne Verbindungen allgemeiner Schulen mit speciellen, woraus, meiner Ansicht nach, immer Mis- geburten entstehen.</p>
+
+               <p>Um dagegen alle Nachtheile, um derentwillen man sie einführen will, zu vermeiden, muss man nur überhaupt und bei den gelehrten für folgende Dinge sorgen.</p>
+
+               <p>1. dass es wenigstens in jeder grösseren Stadt eine oder einige so vorzügliche Elementarschulen gebe, dass es für keinen Nachtheil angesehen werden kann, wenn auch viele Bürger allein sie und nie eine andere Schule besuchen. Und wenn man bedenkt, dass der Elementarunterricht, wie er jetzt hier genommen wird, alles in sich fasst, wovon die Klarheit und Bestimmtheit der Begriffe abhängt, worauf, wie auf einem Fundament, die höchste Mathematik ruht, und was die Einbildungskraft zu den beiden Hauptgattungen der Kunst, der bildenden, und musikalischen, anregt, und dass dies alles auf eine die Empfindung stark bewegende Weise behandelt wird, so dürfte man gewiss in Versuchung gerathen, diese Erziehung der auf manchen unsrer jetzt berühmten Gymnasien vorzuziehen.</p>
+
+               <p>2. dass für die Güte der unteren, oder Bürgerklassen der gelehrten Schulen ebensosehr, als für die der höheren gesorgt werde ; man aber den eigentlichen Elementarunterricht von ihnen absondere. Nehmen sie diesen auch nur einigermassen mit auf, sa werden die eigentlichen Elementarschulen bald als Volksschulen im verächtlichen Sinne des Worts angesehen, was ihrer Verbesserung sehr nachtheilig ist. Folgen diese gut organisirtea<pb n="13.265" xml:id="pbXIII265"/> unteren Classen auf gute Elementarschulen, so lässt sich für sehr viele Zwecke des Lebens der Unterricht sehr gut bei ihnen be- schliessen.</p>
+
+               <p>3. dass die gelehrten Schulen nicht bloss lateinische seyen, sondern der historische und mathematische Unterricht gleich gut und sorgfältig mit dem philologischen behandelt werde. Gegenwärtig, wo es sehr oft hieran mangelt, entsteht der Nachtheil, dass derjenige, welcher für Sprachunterricht weniger Sinn hat, entweder die Schule zu früh verlassen oder unnütz auf derselben ver weilen muss.</p>
+
+               <p>4. dass der Sprachunterricht wirklich Sprachunterricht und nicht, wie jetzt so oft, eine mit Alterthums und historischen Kenntnissen verbrämte, und hauptsächlich auf Uebung gestützte Anleitung zum Verständniss der classischen Schriftsteller sey. Denn die Kenntniss der Sprache ist immer, als den Kopf aufhellend, und Gedächtniss und Phantasie übend, auch unvollendet nützlich, die Kenntniss der Literatur hingegen bedarf, um es zu werden, einer gewissen Vollständigkeit, und anderer günstiger Umstände.</p>
+
+               <p>5. dass die Klassenabtheilung nicht durchweg, sondern nach den Hauptzweigen der Erkenntniss gehe, und die Lehrer erlauben und begünstigen, dass der Schüler, wie ihn seine Individualität treibt, sich des einen hauptsächlich, des andern minder befleissige, wofern er nur keinen ganz vernachlässigt. Eine Verschiedenheit der intellectuellen Richtung auf Sprachstudium, Mathematik und Erfahrungskenntnisse ist einmal unläugbar vorhanden, und es wäre ebenso wunderbar nur Eine begünstigen, als, sie in verschiedene Anstalten verweisend, sie noch mehr spalten zu wollen. Bloss die letztere muss man nie dulden, ohne sie fest an eine der andern zu knüpfen, da sie sonst nach und nach auch die Möglichkeit wahrer Wissenschaft in einem Kopfe zerstört.</p>
+
+               <p>6. dass es viele SpecialSchulen gebe und kein bedeutendes Gewerbe des bürgerlichen Lebens eine entbehre. Was man in Bürgerschulen in Technologie lehrt, Hesse sich sehr gut mit den Kunstschulen, in denen ja viele Handwerker schon jetzt unter- richtet werden, verbinden. Ausserdem könnten sie, wie in Berlin geschieht, technische und chemische Vorlesungen hören, und da viele doch wandern und reisen, so schadete es nichts, wenn diese nur an einigen Orten der Monarchie zu finden wären. Ackerbau- Handels- Steuermannsschulen giebt es schon jetzt. Ebenso Anstalten für nicht wissenschaftlich gebildete Aerzte u. s. f.</p>
+
+               <pb n="13.266" xml:id="pbXIII266"/>
+               <p>Auf diese Weise sehe ich keinen Mangel, dem durch eine Mittelschule abgeholfen werden müsste. Der ganz Arme schulte seine Kinder in die wohlfeilsten, oder unentgeldlichen Elementarschulen; der weniger Arme in die besseren, oder wenigstens theureren. Wer noch mehr anwenden könnte, besuchte die ge- lehrten Schulen, bliebe bis zu den höheren Classen, oder schiede früher aus, triebe mehr Sprachunterricht oder mehr gemeinhin realen genannten. Auf diesen Schulunterricht folgten die Universität, eine Specialschule oder der Eintritt in das bürgerliche Leben selbst. Jeder, auch der Aermste, erhielte eine vollständige Menschenbildung, jeder überhaupt eine vollständige, nur da, wo sie noch zu weiterer Entwicklung fortschreiten könnte, verschieden be- gränzte Bildung, jede intellectuelle Individualität fände ihr Recht und ihren Platz, keiner brauchte seine Bestimmung früher als in seiner allmähgen Entwicklung selbst zu suchen, die meisten end- lich hätten, auch indem sie die Schule verliessen, noch einen Uebergang vom blossen Unterricht zu der Ausführung in den SpecialAnstalten.</p>
+
+               <p>Nur noch ein Paar Winke jetzt über die Erlernung der alten Sprachen. Von dem Grundsatz ausgehend, einmal dass die Form einer Sprache, als Form, sichtbar werden muss, und dies besser an einer todten, schon durch ihre Fremdheit frappirenden, als an der lebendigen Muttersprache geschieht, dann dass Griechisch und Lateinisch sich beide gegenseitig unterstützen müssen, würde ich festsetzen : ^) dass alle Schüler, ohne Ausnahme, beide in dej untersten Classe jede schlechterdings lernen müssten, es sey nun, dass sie beide zugleich, oder eine, und welche? zuerst anfiengen, damit keinen, wenn er nachher Lust erhält, die ersten Fundamente aufhalten, und auch keinen etwas ganz Unbekanntes zurückstösst, dass, nach absolvierter untersten Classe, es zwar von jedem abhängt, mit Zustimmung seiner Eltern oder Vormünder, eine aufzugeben, er aber die andere nothwendig forttreiben muss, auch wenn er nicht das Studium beider verbindet, niemals, welche Fortschritte er auch mache, in Rücksicht auf Sprachstudium eine Prämie oder Auszeichnung erhalten könne.</p>
+
+               <p>') Vgl. zu diesen Ausführungen Band 10, 20j; Wilhelm und Karoline von Humboldt ^, 25g; Spranger S. i6y.</p>
+
+               <pb n="13.267" xml:id="pbXIII267"/>
+               <p>In Absicht des Hebräischen muss allerdings mehr Freiheit Statt finden. Allein es müsste gleichfalls sehr befördert werden, nicht bloss der Theologen wegen, sondern auch, weil sein grammatischer und lexikalischer Bau auf den ersten Anblick sehr von dem des Griechischen abweicht, nah verwandt ist mit dem Bau der Sprachen wilder Völker, und daher den Begriff von der Sprach- form überhaupt nach einer sonst fast unbekannt bleibenden Seite hin erweitert.</p>
+
+               <p>Nach dieser allgemeinen Erörterung würde ich daher hier<note type="footnote" n="^)" resp="gnd-116890657"><hi>In Königsberg.</hi></note> nur Elementar- oder Bürger- und gelehrte Schulen bestehen lassen. Da indess die Bürgerschulen nothwendig von sehr verschiedener Güte, einige sehr beschränkt, andere sehr gut und vollständig seyn würden, so können diese letzteren gewissermassen für das ge- halten werden, was man mit den Mittelschulen abgezweckt hat. Die Zahl der gelehrten Schulen muss nun aber vermehrt w^erden, weil sich alle Kinder, welche über die Mittelschule hinausgehen, in ihnen vereinigen. Dennoch halte ich drei für hinreichend : die Altstädtische, das Collegium Fridericianum, die reformirte, und selbst ob ich hierin nicht zu viel nehme, bleibt noch zu untersuchen übrig. Zu blossen Bürgerschulen, mit der Beschränkung, aber auch mit der Vollständigkeit, welche Elementarschulen haben müssen, die Kneiphöfische, die Löbenichtsche.</p>
+
+               <p>Die gelehrten Schulen Hessen niemand zu, der nicht fest in den Elementarkenntnissen und wenigstens neun Jahr alt wäre. Sie hätten fünf Classen, die Bürgerschulen zwei.</p>
+
+               <p>Die gelehrten Schulen hätten jede sechs Lehrer und zwei Collaboratoren ; die Bürgerschulen jede einen Lehrer.</p>
+            </div>
+
+            <div type="section" n="3">
+               <head>
+                  <title type="main">Der Unterricht in den Bürgerschulen umfasste Lesen, Schreiben,</title>
+               </head>
+               <p>die Zahl- und Massverhältnisse Sprechübungen, die nöthigsten und ersten Begriffe von der Beschaffenheit des Menschen und des menschlichen Geschlechts, des Erd-</p>
+            </div>
+
+            <div type="section" n="4">
+               <head>
+                  <title type="main">bodens, der Gesellschaft, Musik, Zeichnen,</title>
+               </head>
+               <pb n="13.268" xml:id="pbXIII268"/>
+               <p>Geographie, Geschichte, Naturgeschichte, insofern sie Stoff nergeben können an dem sich der Verstand innerhalb der ihm hier angewiesenen Sphäre üben kann.</p>
+
+               <p>Der Religionsunterricht ist minder Lehren, als Anregung des Gefühls.</p>
+
+               <p>Die beiden sehr vollständig organisirten Bürgerschulen führen natürlich diese Kenntnisse, vorzüglich die Zahl- und Massverhältnisse w^eiter fort, als die andern Elementarschulen es können, und vermehren dann auch in den sogenannten Realkenntnissen den Stoff nach Massgabe der grösseren Erweiterung der Verstandeskräfte. Bei ihrer näheren Organisation wäre vorzüglich auf diejenige Rücksicht zu nehmen, welche Zeller dem Waisenhause geben wird, und zu bestimmen, in welchem Zweckverhältniss sie mit dieser Anstalt stehen sollten.</p>
+
+               <p>Welche Fonds sind zur Erhaltung dieser Schulen nothwen- dig? und woher werden sie genommen?</p>
+
+               <p>Ich bin mit Herrn StaatsRath Hoffmann der Meynung, dass eine Stadt, wie Königsberg, ihre Lehrer gut besolden muss.</p>
+
+               <p>Ich schlüge daher folgenden Etat vor, nehme ihn als Maximum, Herrn Möllers Vorschläge, aber nach der hier verlangten Lehrerzahl erweitert, als Minimum an.</p>
+
+               <p>I. für eine gelehrte Schule:</p>
+
+               <p>I . Rector maxmium 800 Rth. minimuni 600 Rth. Holz 5 AchteL *2. — 6. fünf Lehrer 3000 Rth 1900 Rth ,_2o zu 600 Rth. nemlich 2 zu 500 Rth. 2 zu 400 Rth. I zu 100 Rth. Zwei Collaboratoren 200 Rth. 7.8 zu Zu Schulbedürfnissen Fünf Ciassenstuben und eine zu ausserordentlichen Bedürfnissen, Theilung von Classen u. s. f.</p>
+
+               <p>400 Rth. 200 Rth.</p>
+
+               <p>minimtmi 200 Rth. Summa Maximum 4,400 Rth. Minimum 2,700 Rth. 35 Achtel.</p>
+
+               <pb n="13.269" xml:id="pbXIII269"/>
+               <p>II. für eine Bürgerschule: i.Der Kcctor maxwmm 600 Rth. 7mmvmm ^^oKih. Holz 5 Achtel 2.DreiLehrer 1200 Rth . 650 Rth 12 .</p>
+            </div>
+
+            <div type="section" n="5">
+               <head>
+                  <title type="main">zu 400 Rth. nemlich</title>
+               </head>
+               <p>zu 300 Rth.</p>
+
+               <p>230 Rth. 100 Rth. 230 Rth. und Zu Schulbedürfnissen 1 00 Rth. Zwei Ciassenstuben und eine zu ausserordent- lichen Bedürfnissen Summa : Maximum j 900 Rth. Minimum 1 000 Rth. Holz 20 Achtel</p>
+
+               <p>Freie Wohnung können alle Lehrer haben. An den Magistratischen Schulen sind jetzt 15 Lehrerwohnungen, und hiernach hätten diese Schulen künftig nur 14 ordentliche Lehrer. Das Colle- gium Fridericianum und die reformirte Schule haben eigne Gebäude. Auf diese Weise kosteten die Hauptschulen der Stadt zusammen 3 gelehne Maximum 13,200 Rth. Minimum 8, 100 Rth. Holz io5AchteI 2 Bürgerschulen 3,800 Rth. 2,000 Rth. 40 . Summa: Maximum 17000 Minimum 10,100 Rth. Holz 145 Achtel</p>
+
+               <p>[und 3000 Rth. Pensionsfonds, dazu gerechnet nach dem höchsten Anschlag]. 20,000 Rth. und Holz 145 Achtel Diese Einkünfte würden beschaft durch die bisherigen der Schulen, das Schulgeld, einen Zuschuss der Stadt. Von den bisherigen müsste jedoch alles gleich abgezogen werden, was irgend unsicher ist. Hierzu fehlen mir die Localdata.</p>
+
+               <p>Das Schulgeld bliebe zur Hälfte den Lehrern; zu Vi käme es zum gewöhnlichen zur Auszahlung der Gehalte bestimmten; je ^/4 zum ausserordentlichen Schulfonds. Ohne diese letzte Anordnung setzt man sich in Gefahr, auch die Gehalte ungewiss werden zu sehen.</p>
+
+               <p>Jede Schule hat einen der Hälfte ihres Gehaltsquanti gleichen eisernen Bestand, welcher gesammelt wird durch das letzte Vi des Schulgeldes, und angegriffen nur zu Gehaltszahlungen. Er wird im letzteren Falle sogleich wieder hergestellt, und dies letzte<pb n="13.270" xml:id="pbXIII270"/> ^4 des Schulgeldes wird bis dahin zu nichts Andrem verwandt. Nachher zu Praemia und Schulbedürfnissen.</p>
+
+               <p>Das Schulgeld könnte, meines Erachtens, betragen : für die Bürgerschulen i Rth für die 3 untren Classen der gelehrten i Rth. i5gr. für die 2 obren der gelehrten 2 Rth.</p>
+
+               <p>Aus Armuth der Schüler darf die Schule gar kein Schulgeld verlieren; sondern sie muss immer die Früchte der Frequenz, die ihr Verdienst ist, rein und ungeschmälert geniessen. Den nach Wahrscheinlichkeit beim Schulgeld zu berechnenden Ausfall schlage man zum Zuschuss der Stadt, da er nie viel betragen kann. Ueber den Anspruch darauf verfüge das Concilium der Lehrer, seine Verfügung sey aber nachher dem Ausspruch der Armen- vorsteher unterworfen. So werden die Eltern zu Aufbringung des Schulgeldes die äussersten Anstrengungen machen, und dazu muss man sie bewegen. Das Schulgeld werde von keinem der Lehrer, sondern von einer Rechnungsbehörde des Magistrats eingenommen, und wo nicht Erlasse erlangt sind, mit äusserster Strenge beigetrieben.</p>
+
+               <p>Die beiden Collaboratoren und der jüngste ordentliche Lehrer bei den gelehrten Schulen haben gar keinen Antheil am Schulgeld. Der Rector empfängt Ve? jeder der andern 4 ältesten Lehrer Vi 2 desselben.</p>
+
+               <p>Ebenso empfängt der jüngste Lehrer der Bürgerschulen nichts vom Schulgeld, der Rector V45 jeder der andern 2 ältesten Lehrer ^g*</p>
+
+               <p>Da die Frequenz einer Schule bei weitem mehr von der Beschaffenheit des Rectors, als der übrigen Lehrer abhängt, so rechtfertigt sich dadurch sein vorzüglicher Antheil. Ueber die Baukosten der Schulen und ihre Herbeischaffung ist nach der Localverfassung besonders nachzudenken.</p>
+
+               <p>Der Zuschuss der Stadt muss durch einen allgemeinen Beitrag erlangt, und daher an die allgemeinste Bürgerabgabe geknüpft werden. Er muss so festgesetzt werden, dass gewiss eher mehr als weniger einkommt, und es muss V3 mehr als der zu den jetzt verbesserten Schulen nöthige Aufwand verlangt, ausgeschrieben werden, um von diesem ^g, zu welchem das über den Anschlag herauskommende hinzugefügt wird, die übrigen Elementarschulen der Stadt noch danach verbessern zu können.</p>
+
+               <p>Wieviel dieser Zuschuss betragen müsse, beruht auf daä's^ die noch nicht gehörig ausgemittelt sind.</p>
+
+               <p>Zuerst entsteht die Hauptfrage: soll die Stadt nur für ihre<pb n="13.271" xml:id="pbXIII271"/> Jetzigen drei Schulen, oder auch für das Collegium Fridericianum und die reformirte Schule sorgen?</p>
+
+               <p>Ich bin für das letztere. Jedoch muss der Staat den beiden letzteren Anstalten lassen, was er ihnen einmal verliehen hat, oder noch giebt. Indess auch so vermehrt sich der Zuschuss der Stadt ansehnlich.</p>
+
+               <p>Nur begreife ich nicht, wie auf einem andern Wege das Collegium Fridericianum und die reformirte Schule gehoben werden können, und da es für Schulen ein Maximum der Frequenz giebt, das nicht Überschrittenwerden darf, so muss die übermässige der Altstädischen Schule, die ein wahres Uebel ist, durch die Verbesserung jener beiden Anstalten vermindert werden. Die Güte der magistratischen Schulen steht daher mit der der andern in sehr genauer Verbindung.</p>
+
+               <p>Ersparungen am Lehrergehalt wären sehr schlimm. Dagegen ist noch wohl zu überlegen, ob, wie ich angenommen habe, die Anzahl der zu versorgenden Schüler drei gelehrte Schulen noth wendig macht. Ist dies nicht der Fall, so könnte, meines Be- dünkens, das Fridericianum aufhören, die reformirte Schule, die schon jetzt auch lutherische Lehrer hat, in das Gebäude desselben verlegt, und mit seinen Einkünften, im Gebäude der reformirten, wozu sie mehr als hinreichen, eine Bürgerschule errichtet werden. Mit dem Fridericianum, als einer ganz Königlichen Anstalt, lässt sich am leichtesten schalten, und die Vorurtheile der Reformirten würden dadurch, und dass man dem reformirten Prediger die Aufsicht über den Religionsunterricht Hesse, geschont. Alsdann sorgte die Stadt nur für 2 gelehrte und 2 Bürgerschulen und erhielte zu ihren jetzigen Fonds die der reformirten Schule hinzu. Schiene das zu verwickelt, so würde die reformirte Schule zur Bürgerschule, oder, was aber freilich schlimm wäre, bliebe ganz aus dem jetzigen Verbesserungsplan ausgeschlossen, und ihrem Schicksal überlassen.</p>
+
+               <p>Alles dies vorausgeschickt, wären nunmehr ^.nfonds vorhanden : 1. Die bisherigen der 3 magistratischen Schulen nach Herrn Möller und Hoffmann 5652Rth. 17 gr. Diese Angabe ist aber wohl zu prüfen. Herrp.</p>
+
+               <p>Weiss giebt nur 4658 Rth. 77g. 'i^'^\^^{. d^n^ scheint aber das Leichengeld und andre Accidentien nicht gerechnet zu haben. 2. die des Collegii Fridericiani <note type="footnote" n="*)" resp="gnd-116890657"><hi>nach dem Etatsentwurf Tpro 1809/10 nach Abzug von 620 Rth. 66 gr. Schulgeld.</hi></note> 2120 — 60 —<pb n="13.272" xml:id="pbXIII272"/> 3. die der reformirten Schule 1409 — 36 — 4. ^4 des Schulgeldes.</p>
+
+               <p>also nicht hierunter begriffen.) Von diesen Schülern (wenn man die der reformirten Schule als alle bezahlend annimmt, das unbedeutende Schulgeld des Waisenhauses aber gar nicht mit rechnet) kommt, nach der Angabe im gegenwärtigen Augenblick, jährlich die Summe von 6622 Rth. ein. Bei der neuen</p>
+
+               <p>Einrichtung der Schule könnte man mehr be- zahlende Schulkinder rechnen, da viele derselben von der Löbenichtschen und Kneiphöfischen Schule in die gelehrten Schulen übergehen und also in beiden successive be- zahlen werden. Sollte aber auch die Zahl wegen des erhöheten Schulgeldes abnehmen, glaube ich doch mit Sicherheit für die 3 gelehrten Schulen wenigstens 600, für die Bürgerschulen 300 Schüler rechnen zu können. Von den 850 Schülern sitzen ^/g in den 3 untern, \ in den zwei höhern Klassen. Dies giebt von</p>
+
+               <p>300 Schülern in der Bürgerschule zu I Rth. 3600 Rth.</p>
+
+               <p>400 in den untern Classen der gelehrten zu 1V2 Rth 7200 Rth. 200 in den obern zu 2 Rth. monatlich _ 4800 Rth. Summa 15600 Rth. Wovon das Viertel hier in Rechnung kommt 3900 Rth. Summa ^ , 13,082 Rth. 23 gr. Mithin wäre zu 20 000 Rth. nur noch ein</p>
+
+               <p><note type="footnote" n="^)" resp="gnd-116890657"><hi>Gegenwärtig sind auf den hiesigen 6 ge- lehrten Schulen, (die deutschen Classen des Collegii Fridericiani nicht mitgerechnet) 843 Schüler, von welchen 83 gar nicht und 72 nicht voll bezahlen, (die Freischüler der reformirten Schule sind mir unbekannt und</hi></note> Die Exposition dieses Titels 4. ist zum Teil vo» Schreiberhand.</p>
+
+               <pb n="13.273" xml:id="pbXIII273"/>
+               <p>Zuschuss von 7000 Rth. nöthig. Schlägt man zu diesen 7000 Rth. noch Ve &lt;ics Schulgeldes für Freischüler mit 2600 Rth. und für die übrigen Elementarschulen der Stadt 3400 Rth. so beträgt der ganze Zuschuss 13000 Rth. Um aber recht hoch zu gehen, wollen wir ihn einmal auf 16000 Rth. setzen, Angenommen nun, dass Königsberg auch nur ■8000 Familienhäupter hätte, die überhaupt, ohne gedrückt zu werden , Abgaben bezahlen können , und diese in drei Classen zwei zu 3000 und eine zu 2000 vertheilt, würde die dürftigste Classe, um jene Summe zusammenzubringen, nur 6^/3 hiesige -Groschen, die reichste aber i fl. monatlich beitragen müssen.</p>
+
+               <p>Wäre aber auf diese Weise einmal ein allgemeiner Schulfonds der Stadt vorhanden, so würde er hernach auch durch Geschenke, Vermächtnisse und selbst durch die Freigebigkeit des Staats ver- mehrt werden.</p>
+
+               <p>Ich glaube nicht, das Schulgeld zu hoch angenommen zu haben. W&gt;nn man Herrn StaatsRath Hoffmanns und Herrn Möllers Rechnungen so macht, dass jeder Schüler, wie ich annehme, voll bezahlt, so schlägt der Erstere das Schulgeld an</p>
+
+               <p>1. für 90 Schüler der gelehrten Schule auf 2. 480 der Mittelschulen zusammen auf der Letztere</p>
+
+               <p>1. für 120 der gelehrten auf</p>
+            </div>
+
+            <div type="section" n="6">
+               <head>
+                  <title type="main">2. 388 der Mittelschulen auf zusammen auf 9084 Rth.</title>
+               </head>
+               <p>"Ich rechne fast noch einmal so viel Schüler, als sie. Allein wenn 850 Schüler in den jetzigen gelehrten Schulen sind, so rechne ich gewiss mit 900 für 2 Bürger- und 3 gelehrte noch zu wenig, um so mehr als, nach meinem Plan, das Schulgeld nicht einmal so, wie nach dem von Herrn Möller erhöht wird. Denn der ganze Unterricht bis zur Universität würde, nach meiner Annahme, für ein Kind nur circa 6^0 Rth. kosten, wenn der Vater es 12 Jahre die Schule besuchen liesse, nämlich 4 die Bürger-, 5 die untern Classen und 3 die obern der gelehrten Schule, und wenn man, was schon wohl mehr ist, als gewöhnlich geschieht, auf Schulbedürfnisse, ^ausser dem Schulgeld, im ersten Stadium ebensoviel, im zweiten</p>
+
+               <p>W. V. Humboldt, \Verke. XIH. l8</p>
+
+               <p>3240</p>
+            </div>
+
+            <div type="section" n="7">
+               <head>
+                  <title type="main">II 520</title>
+               </head>
+               <p>Rth.</p>
+
+               <p>14760 Rth.</p>
+
+               <p>2880 Rth.</p>
+
+               <p>6204 —<pb n="13.274" xml:id="pbXIII274"/> doppelt, und im dritten dreifach soviel jährlich, als das Schulgeld ausmacht, rechnete.</p>
+
+               <p>Auf die sogenannten deutschen Gassen des Collegii Frideri- ciani habe ich gar keine Rücksicht genommen. Sie müssten, als zu dieser Anstalt gehörig, ganz untergehen und eine eigne Elementar- schule ausmachen, die besonders von der Stadt dotirt würde ; oder man Hesse ihnen von den Einkünften des Fridericiani, was sie jetzt davon ziehen, und erhöhte um so viel den Zuschuss der Stadt zur jetzigen Reform.</p>
+
+               <p>3Nothwendigkeit eines allgemeinen</p>
+
+               <p>Schulreglements.</p>
+
+               <p>Es ist natürlich hier nur von einem für Königsberg, aber für alle Schulen die Rede.</p>
+
+               <p>Ich erwähne nur einzelne Punkte, die mir gerade, als vorzüglich wesentlich, hier aufgefallen sind.</p>
+
+               <p>Alle sogenannte Winkelschulen müssen aufhören, keiner kann Schule halten, der nicht bei der geistlichen und Schuldeputation geprüft ist, und jetzt gleich muss eine allgemeine Visitation vorgenommen werden, um die nützlichen der bisherigen Schulen dieser Art förmlich zu genehmigen, die andern zu unterdrücken. Das PoliceiDirectorium muss hernach angewiesen werden zu wachen, dass nicht neue ohne vorhergängige Bestätigung entstehen.</p>
+
+               <p>Die Besorgniss, die ich äussern hörte, dass diese Anordnung die öffentlichen Schulen mit Kindern überfüllen würde, ist ungegründet. Je kleiner die Zahl dieser Privatschulen wird, desto mehr Schüler werden die übrigbleibenden bestätigten haben.</p>
+
+               <p>Die gelehrten Schulen müssen niemals Kinder annehmen, als beim Anfange eines neuen Lehrsemesters. Da alle Kinder, die sie erhalten, immer schon aus einem öffentlichen oder Privatunterricht zu ihnen kommen, so schadet es nie, wenn sie einige Monate länger in demselben bleiben.</p>
+
+               <p>Die Bürgerschulen nehmen zwar, um die Kinder nicht herumlaufen zu lassen, in jedem Monat, doch immer nur mit dem i^, auf, aber beschäftigen die in der Mitte des halben Jahres kommen- den Kinder, die sonst nur stumm der untern Klasse beiwohnen, abgesondert einige Stunden täglich, was sehr füglich angeht, weil hier bei 2 Klassen auf 4 Lehrer und auf eine Stube mehr, ausser den Klassenstuben, gerechnet ist.</p>
+
+               <pb n="13.275" xml:id="pbXIII275"/>
+               <p>Keine Schule dringt einem Schüler mehr als 36 Schulstunden, was das Maximum ist, und einem Lehrer mehr als 24 wöchentlich auf. Der Rector giebt nur 12. Mit noch mehr verringerter Stundenzahl den gleichen Zweck zu erreichen, steht frei, und ist, wenn der Hausfleiss befördert wird, lobenswerth.</p>
+
+               <p>Der Uebergang aus der Bürgerschule in die gelehrte, und in beiden aus einer Klasse in die andre, geschieht immer nach vor- gängigem Examen, aber, wenn es die Lehrer wollen, und wo es die Natur des Lehrgegenstandes erlaubt, auch mitten im halben Jahr.</p>
+
+               <p>Bei der Aufnahme in die gelehrte Schule geschieht die Prü- fung durch den jüngsten Lehrer in Gegenwart des Rectors, und bei getheilter Meynung ist die zurückweisende Stimme die ent- scheidende.</p>
+
+               <p>Die Versetzung aus einer Classe in die andre geschieht nach einer Prüfung des dimittirenden, und des aufnehmenden Lehrers in Gegenwart des Rectors, und der Rector entscheidet, wenn beide uneins sind.</p>
+
+               <p>Bei Entwerfung des Lectionsplans wird möglichst genau bestimmt, was die Reife in jeder Classe für jede Disciplin bezeich- nen soll.</p>
+
+               <p>Keine höhere Classe lehrt je, sondern wiederholt nur, fragend, das Pensum der nächst vorhergehenden. Ist ein Subject ihr nicht gewachsen, so kann es, ungeachtet des Receptionsexamens, jedoch nur nach nochmaliger Prüfung, zu jeder Zeit zurückgewiesen werden.</p>
+
+               <p>Die Bürgerschule entlässt nie, als nach vorgängiger Prüfung, und, es sey denn zum Uebergang in eine andre Bürgerschule, erlangter Reife, oder anerkannter Unfähigkeit des Kindes, je weiter vorzurücken. Eltern, die ihre Kinder früher wegnehmen wollen, kommen in die Kategorie derer, welche sie nicht zur Schule schicken.</p>
+
+               <p>Die gelehrte Schule muss zwar zu jeder Zeit entlassen; ohne bei der geistlichen und SchulDeputation nachzusuchende Dispen- sation rhut sie es aber nur am Ende eines Schulsemesters, und nie anders, als nach vorhergängigem Examen, dessen Zweck aber nur ist, dem jungen Menschen eine Erklärung mitzugeben, wie viel oder wenig Fortschritte er gemacht hat. Von dieser Erklärung bleibt, von der 3. Classe an, Abschrift bei der Schule.</p>
+
+               <p>Ein MaturitaetsZeugniss zur Universität giebt die Schule, welches auch der Grad der Fähigkeiten und Kenntnisse seyn möchte, nie als nach vollendetem 18. Jahre.</p>
+
+               <pb n="13.276" xml:id="pbXIII276"/>
+               <p>Das Schulgeld wird zwar monatlich bezahlt, läuft aber, bis das Kind aus der Schule gesetzlich genommen werden kann, und genommen wird, ununterbrochen fort. Nur bei Krankheitsfällen wird es sistirt; doch nur gegen ein Zeugniss des Arztes.</p>
+
+               <p>Es wird praenumerirt, und der angefangene Monat gilt, auch bei Krankheiten, für einen ganzen.</p>
+            </div>
+
+            <div type="section" n="8">
+               <head>
+                  <title type="main">b. Unmassgebliche Gedanken über den Plan zur Ein-</title>
+               </head>
+               <p>richtung des Litthauischen Stadtschulwesens. ^) Wenn ich, mit Vorbeilassung alles Details, gleich auf das Wesentliche des Plans gehe, so weicht er in den Hauptgesichtspunkten weit von den bisherigen Grundsätzen der Section ab; in der Ausführung nach der örtlichen Lage würde diese Abweichung grösstentheils wieder verschwinden. Allein es ist dennoch ebenso nothwendig, als mit denkenden Männern erfreulich, auch über die Grundsätze zu discutiren. Von ihnen hängt der Geist ab, in dem auch auf demselben Wege gewirkt wird, und dieser macht offen- bar durch seine innere Kraft durchaus verschieden, was, den äussren Einrichtungen nach. Eins und dasselbe scheint.</p>
+
+               <p>Die Abweichung nun liegt in dem Begriffe der Bürgerschulen, welche in dem Plane als eine eigne, ihrem Begriff und Zweck nach abgegränzte Gattung von Schulen, und selbst wo sie das nicht sind, (für den Gelehrten) als ein besonderes Stadium des Unterrichts betrachtet werden.</p>
+
+               <p>Die durch die wirkliche Ausführung wieder herbeigeführte Uebereinstimmung würde daraus entstehen, dass doch nur in Lyk Bürger und Gelehrtenschule getrennt seyn sollten, sonst aber nah und enge verbunden wären.</p>
+
+               <p>Die Frage über die Zulässigkeit abgesonderter Bürger oder Realschulen scheint weitläuftig und schwierig zu erörtern. Sie hat zwei verschiedene Systeme hervorgebracht, wovon man das realistische neulich, in Baiern, so weit getrieben hat, dass man beinahe RealUniversitäten aufstellt.</p>
+
+               <p>Alle Schulen aber, deren sich nicht ein einzelner Stand, sondern die ganze Nation, oder der Staat für diese annimmt, müssen nur allgemeine Menschenbildung bezwecken. — Was das Bedürfniss des Lebens oder eines einzelnen seiner Gewerbe erheischt, muss abgesondert, und nach vollendetem allgemeinen Unterricht erworben werden. Wird beides vermischt , so wird die Bildung<pb n="13.277" xml:id="pbXIII277"/> unrein, und man erhält weder vollständige Menschen, noch vollständige Bürger einzelner Klassen. Denn beide Bildungen — die allgemeine und die specielle — werden durch verschiedene Grundsätze geleitet. Durch die allgemeine sollen die Kräfte, d. h. der Mensch selbst gestärkt, geläutert und geregelt werden; durch die specielle soll er nur Fertigkeiten zur Anwendung erhalten. Für jene ist also jede Kenntniss, jede Fertigkeit, die nicht durch vollständige Einsicht der streng aufgezählten Gründe, oder durch Erhebung zu einer allgemeingültigen Anschauung (wie die mathematische und ästhetische) die Denk- und Einbildungskraft, und durch beide das Gemüth erhöht, todt und unfruchtbar. Für diese muss man sich sehr oft auf in ihren Gründen unverstandene Resultate beschränken, weil die Fertigkeit da seyn muss, und Zeit oder Talent zur Einsicht fehlt. So bei unwissenschaftlichen Chirurgen, vielen Fabrikanten u. s. f. Ein Hauptzweck der allgemeinen Bildung ist, so vorzubereiten, dass nur für wenige Gewerbe noch unverstandene, und also nie auf den Menschen zurück wirkende Fertigkeit übrigbleibe. Die Organisation der Schulen bekümmert sich daher um keine Kaste, kein einzelnes Gewerbe, allein auch nicht um die gelehrte — ein Fehler der vorigen Zeit, wo dem Sprachunterricht der übrige geopfert, und auch dieser — mehr der Qualität, als Quantität nach — zum äussern Bedarf (in Erlangung der Fertigkeit des Exponirens und Schreibens) nicht zur wahren Bildung (in Kenntniss der Sprache und des Alterthums) getrieben wurde.</p>
+
+               <p>Der allgemeine Schulunterricht geht auf den Menschen überhaupt, und zwar als g}'mnastischer ästhetischer didaktischer und in dieser letzteren Hinsicht wieder als mathematischer philosophischer, der in dem Schulunterricht nur durch die Form der Sprache rein, sonst immer historisch-philosophisch ist, und historischer^) auf die Hauptfunktionen seines Wesens.</p>
+
+               <p>') „Historisch" bedeutet nach dem Sprachgebrauch der Leibniz-Wolff sehen Philosophie bekanntlich das Tatsächliche im Gegensatz zum Rationalen, aus ewigen Wahrheiten Ableitbaren. ^^^</p>
+
+               <pb n="13.278" xml:id="pbXIII278"/>
+               <p>Dieser gesammte Unterricht l^ennt daher auch nur Ein und dasselbe Fundament. Denn der gemeinste Tagelöhner, und der am feinsten Ausgebildete muss in seinem Gemüth ursprünglich gleich gestimmt werden, wenn jener nicht unter der Menschenwürde roh, und dieser nicht unter der Menschenkraft sentimental, chimärisch, und verschroben werden soll.</p>
+
+               <p>Eher könnte es scheinen, dass bei der allmählig fortschreiten- den Bildung die Methode insofern verschieden seyn müsste, als sich das Ziel derselben durch Unterricht als weit oder nahe ge- steckt voraussehen lässt. Allein auch hier scheint mir der Unterschied nicht bedeutend. Bleibt man fest dabei stehen, Zahl und Beschaffenheit der Unterrichtsgegenstände nach der Möglichkeit der allgemeinen Bildung des Gemüths in jeder Epoche zu bestimmen, und jeden Gegenstand immer so zu behandeln, wie er am meisten und besten auf das Gemüth zurückwirkt, so muss eine ziemliche Gleichheit herauskommen. Auch Griechisch gelernt zu haben könnte auf diese Weise dem Tischler ebenso wenig unnütz seyn, als Tische zu machen dem Gelehrten. Indess lässt kleine Verschiedenheiten allerdings die Wahl des Stoffes, da jede Form nur an einem Stoffe geübt werden kann, zu und auf diese wird in der Folge auch Rücksicht genommen werden. Auch können die grellen Contraste immer vermieden werden, und es braucht nie dahin zu kommen, dass ein Handwerker Griechisch, kaum lateinisch gelernt habe.</p>
+
+               <p>Die Gränze des Unterrichts, da wo derselbe nicht seinen Endpunkt, die Universität, als die Emancipation vom eigentlichen Lehren (da der UniversitätsLehrer nur von fern das eigene Lernen leitet) erreicht, kann nun durch nichts andres bestimmt werden, als durch die zu allem Unterricht nöthigen Bedingungen Kraft und Zeit. Soweit der Schüler das eine hergiebt, und zum andern Mittel hat, so weit kann der Lehrer ihn führen, und soweit muss der Staat dafür sorgen, dass er gebracht werden könne.</p>
+
+               <p>Die Pflicht der Schulbehörde bei der Organisation des Schulwesens ist nun, zu verhüten, dass der Schüler einen Weg mache der ihm unnütz se3^n würde, wenn er ihn nun nicht auch noch weiter verfolgte. Leider aber ist dies fast immer jetzt bei unsern Schulen der Fall, wenn einer in tcrtia oder secimda stecken bleibt. Es wird aber nie Statt haben, wenn man (wie auf den sehr guten Schulen schon jetzt geschieht) beim Unterricht nicht auf das Bedürfniss des Lebens, sondern rein auf ihn selbst, auf die Kenntniss,<pb n="13.279" xml:id="pbXIII279"/> als Kenntniss, auf die Bildung des Gemüths und im Hintergrunde auf die Wissenschaft sieht. Denn im Gemüth und in der Wissenschaft (die nur sein von allen Seiten vollständig gedachtes Object ist) steht jeder einzelne Punkt mit allen vorigen und künftigen in Contact, ist kein Anfang und kein Ende, ist alles Mittel und Zweck zugleich, und also jeder Schritt weiter Gewinn, auch w^enn unmittelbar dahinter eherne Mauern gezogen würden.</p>
+
+               <p>Sind diese Grundsätze richtig und kommt man nun von ihnen auf die verschiedenen Gattungen der Schulen (Specialschulen immer ganz abgesondert), so ist wieder das erste und wichtigste Princip die Einheit und Gontinuität des Unterrichts in seinen natürlichen Stadien, da jede Theilung der Anstalt da, w'o der Unterricht keine natürliche Theilung kennt, seine Folge zerreisst, \'erschiedenheit in der Behandlung und dem Geiste derselben hervorbringt, und selbst die Lehrer, die nur bis zu einem willkührlich angenommenen Punkt führen sollen, ungewiss und verwirrt macht.</p>
+
+               <p>Als natürliche Stadien aber kann ich nur anerkennen: den Elementarunterricht den Schulunterricht den Universitätsunterricht.</p>
+
+               <p>Der Elementarunterricht umfasst bloss die Bezeichnung der Ideen nach allen Arten, und ihre erste und ursprüngliche Classification, kann aber, ohne Nachtheil, in dem Stolf zu dieser Form in Natur- und Erdkenntniss mehr oder minder Gegenstände mit aufnehmen. Er macht es erst möglich, eigentlich Dinge zu lernen, und einem Lehrer zu folgen.</p>
+
+               <p>Der Schulunterricht führt den Schüler nun in Mathematik, Sprach- und Geschichtskenntniss bis zu dem Punkte wo es unnütz seyn würde, ihn noch ferner an einen Lehrer und eigentlichen Unterricht zu binden, er macht ihn nach und nach vom Lehrer frei, bringt ihm aber alles bei, was ein Lehrer beibringen kann.</p>
+
+               <p>Der Universität ist vorbehalten, was nur der Mensch durch und in sich selbst finden kann, die Einsicht in die reine Wissenschaft. Zu diesem SelbstActus im eigentlichsten Verstand ist nothwendig Freiheit, und hülfereich Einsamkeit, und aus diesen beiden Punkten fliesst zugleich die ganze äussere Organisation der Universitäten. Das Kollegienhören ist nur Nebensache, das Wesentliche, dass man in enger Gemeinschaft mit Gleichgestimmten und Gleichaltrigen, und dem Bewusstseyn, dass es am gleichen<pb n="13.280" xml:id="pbXIII280"/> Ort eine Zahl schon vollendet Gebildeter gebe, die sich nur der Erhöhung und Verbreitung der Wissenschaft widmen, eine Reihe von Jahren sich und der Wissenschaft lebe.</p>
+
+               <p>Uebersieht man diese Laufbahn von den ersten Elemente» bis zum Abgang von der Universität, so findet man, dass, von der intellectuellen Seite betrachtet , der höchste Grundsatz ^} der Schulbehörde (den man aber selten aussprechen muss) der ist: die tiefste und reinste Ansicht der Wissenschaft an sich hervorzubringen, indem man die ganze Nation möglichst, mit Beibehaltung aller individuellen Verschiedenheiten, auf den Weg^ bringt, der, weiter verfolgt, zu ihr führt, und zu dem Punkte^ wo sie und ihre Resultate nach Y^i'schiedenheit der Talente und Lagen, verschieden geahndet, begriffen, angeschaut, und geübt werden können, und also den Einzelnen durch die Begeisterung^ die durch reine Gesammtstimmung geweckt wird, zu Hülfe kommt. Nicht überall aber kann der eigentliche Schulunterricht in Einer Anstalt vollendet dargestellt werden. Da indess diese Hindernisse nur zufällig sind, so ist auch, nach meiner Einsicht, jeder andere Unterschied, ausser dem oben angegebenen, nur ein zufälliger und nur als solcher zu behandeln.</p>
+
+               <p>Hieraus fliesst nun für die Schulbehörde der praktische- Grundsatz : an Orten, wo es gelehrte Schulen (d. h. solche, welche den Schulunterricht bis zu seinem Endpunkte führen) geben kann, müssen keine abgesonderte Bürger- sondern nur Elementarschulen seyn; an Orten hingegen, wo dies nicht möglich ist, kann- und muss es Bürgerschulen geben, welche indess dann nur die unteren Klassen der von ihnen abgesonderten gelehrten sind. Wie es aber Pflicht jedes praktischen Verfahrens ist, dafür zu sorgen, dass die Einheit des Princips nicht die wohlthätige Mannigfaltigkeit der Wirklichkeit verschlinge, so können in dem ersten Falle Elementarschulen eine solche Ausdehnung erhalten,, dass sie den Zögling gewiss weiter bringen als die Bürgerschulen von Einer Klasse des Plans. Nur müssen sie nie alsdenn ins Gebiet der gelehrten Schulen mit Unterricht im Lateinischen eingreifen. Sonst zerreissen sie die Einheit dieses Unterrichts. Auch<pb n="13.281" xml:id="pbXIII281"/> in Geschichte müssen sie bei Gränzpunkten stehen bleiben. In der Mathematik aber können nur in solchem Fall die Talente des Lehrers und Schülers und die Zeit die Gränzen setzen. Es ist ein abgesondertes Fach, in dem der Begriff der Wissenschaft leichter errungen werden, und daher allgemeiner gewährt wer- den kann.</p>
+
+               <p>Aus gleichen Accommodationsmaximen muss im zweiten Fall die sogenannte Bürgerschule sich bequemen in Mathematik weiter zu gehen, als sonst die unteren Klassen der gelehrten thun würden, auch mehr bloss historische Kenntnisse aufzunehmen.</p>
+
+               <p>Trete ich nunmehr dem vorliegenden Plane näher, so finde ich vorzüglich folgende Hauptwidersprüche mit den hier ent- wickelten Grundsätzen:</p>
+
+               <p>1. die aufgestellte Maxime, dass es nur zu dulden sey, Bürger- und gelehrte Schule in Einer Anstalt zu verbinden, an sich aber das Gegentheil wünschenswerth. Sehr bedenklich ist schon in dieser Hinsicht der Grundsatz, dass für jene die Stadt. für diese die Provinz sorgen soll, woraus sogar, nach dem Plan, zwiefache Aufsichtsbehörde entsteht. Hierbei scheint es mir durchaus unmöglich, eine gute gelehrte Schule zu haben. Denn wie genau auch die geistliche Deputation die Städte angehen möge, so kann sie doch für die wahre Güte der Bürgerschulen, und vorzüglich für ihre Angemessenheit zu Vorbereitungsschulen zu den gelehrten nicht mehr einstehen. Mir schiene daher besser a. entweder die Königlichen fonds zwar nur den Städten, wo gelehrte Schulen sind, zu geben, aber da mit den städtischen zusammenzuwerfen und zu machen, was sich nun damit machen lässt; oder b. die gelehrten Schulen ganz von ihrer untersten Klasse an auf Königliche Kosten zu übernehmen, und die Städte, die da- durch erleichtert werden, dagegen zu nöthigen, verhältnissmässig gleichviel, als andre Städte auf Elementar- und Bürgerschulen zugleich wenden, bloss für ihre Elementarschulen zu geben. Ungleichheiten sind das Wesen der Welt, und dass etwas besser sey, als anderes, ist leicht zu dulden;</p>
+
+               <p>2. kommt mir die Klasseneintheilung bei weitem zu dürftig vor. Eine Bürgerschule mit Einer Klasse kann schwerlich mehr, als jede Elementarschule leisten. Für eine Bürgerschule, die Vor- bereitungsschule zugleich seyn soll, sind noch 2 Klassen zu wenig.<pb n="13.282" xml:id="pbXIII282"/> Trotz aller Anstrengungen könnten die gelehrten Schulen nichts leisten, wenn ihnen Schüler aus fremden Schulen von i, oder 2 Klassen zukämen, und sie selbst nur nothdürftig 3 hätten. Man würde bald aufs neue theilen, combiniren u. s. f. müssen.</p>
+
+               <p>Schon bei einer Elementarschule muss selbst Ein Lehrer, wenn er ordentlich unterrichten will, wenigstens manchmal die Stunden theilen. Sehr vollständige und gute Elementarschulen müssten also 2 Klassen haben, obgleich die Regel eine seyn könnte.</p>
+
+               <p>Sogenannte Bürgerschulen (besser Stadtschulen) müssen un- nachlasslich 2 Classen, oder, wo möglich, drei haben, und doch sehr streng nie Schüler, die im Elementarunterricht nicht ganz fest wären, aulnehmen. Sonst muss eine 3^^ oder 4te Classe hinzu- kommen.</p>
+
+               <p>Gelehrte (besser hier Provincialschulen, die also die Bürgerschule des Plans mit sich vereinigen) können sich mit 5 Classen begnügen.</p>
+
+               <p>3. scheint noch im Plan eine gewisse Tendenz zu liegen, in den Bürgerschulen sich selbst von der Möglichkeit künftiger Wissenschaft zu entfernen, und aufs naheliegende Leben zu denken. Warum soll z. B. Mathematik nach Wirth und nicht nach Euclides, Lorenz ^) oder einem andern strengen Mathematiker gelehrt werden ? Mathematischer Strenge ist jeder an sich dazu geeignete Kopf, und die meisten sind es, auch ohne vielseitige Bildung fähig, und will man in Ermangelung von Specialschulen aus Noth mehr Anwendungen in den allgemeinen Unterricht mischen, so kann man es gegen das Ende besonders thun. Nur das Reine lasse man rein. Selbst bei den Zahlverhältnissen liebe ich nicht zu häufige Anwendungen auf Carolinen, Ducaten u. s. f. Je tiefer der Mensch, der nicht höher gebildet werden kann, leider ins Leben eintauchen muss, desto sorgfältiger halte man ihn bei dem wenigen Formellen, was er rein zu fassen im Stande ist. Gerade dies hat auf Moralität durch die Strenge des Pflichtbegriff's, der, wo man gar keine andern reinen Begriffe kennt, nur als Zwang erscheint, und auf Religion durch das Abziehen vom sinnlichen Stoff sehr wesent- lichen Einfluss.</p>
+
+               <p>V Johann Friedrich Lorenz, Rektor der Schule zu Burg bei Magdeburg, Übersetzer des Euklid und Verfasser mehrerer mathematischer Lehrbücher. Über das im Text gemeinte Lehrbuch von Wirth hat sich nichts feststellen lassen.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

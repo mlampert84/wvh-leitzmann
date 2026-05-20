@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Antrag auf Berufung Reils</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif10humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1903">1903</date>
+                  </imprint>
+                  <biblScope unit="page" from="224" to="225"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="10.224" xml:id="pbX224"/>
+            <p>Da jedoch diese im Publicandum vom 16. December 1808 nur suspendirt, nicht aufgehoben ist, so würde ich es für unbescheiden halten, meine Ideen hierüber schon jetzt weiter auszuführen, und nicht Ew. Königl. Majestät allerhöchste Beschlüsse in schuldiger Ehrfurcht abzuwarten.</p>
+
+            <p>Königsberg, den i. December 1809.</p>
+
+            <p>Humboldt.</p>
+
+            <head>
+               <title type="main">XLI. Antrag auf Berufung Reils.</title>
+            </head>
+            <p>5. Februar 1810. fZinn größten Teil eigenhändiger Entwurf in den Akten des Kiiliiisministeriiims Abschrift im Geh. Staatsarchiv.)</p>
+
+            <p>Ew. Königl. Majestät haben allergnädigst geruhet, mich zu auctorisiren, schon jetzt einige vorzügliche Gelehrte für die hier zu errichtende Universität zu berufen, und ich habe meine jetzige Reise zugleich dazu benutzt, deshalb dienliche Erkundigungen einzuziehen.</p>
+
+            <p>Der erste Mann, an den ich in dieser Hinsicht denken musste, war aus mehr als einem Grunde der Ober-Bergrath und Professor Reil in Halle, mit welchem zuerst in Unterhandlung zu treten, mir um so zweckmässiger schien, als eine medicinische Schule, welche nur freilich noch sehr bedeutender ^^erbesserungen bedarf, bereits wirklich hier besteht, und es immer gut ist, das Neue, so viel es geschehen kann, unmittelbar an das Alte anzuknüpfen.</p>
+
+            <p>Ueber den Ruf und die Geschicklichkeit des Professor Reil glaube ich Ew. Königl. Majestät nicht ausführlich reden zu dürfen. Es ist wohl nur eine Stimme darüber, dass er zu den ersten Aerzten Deutschlands gehört; er hat unleugbar, vorzüglich in den letzten Jahren, dem medicinischen Studio als Lehrer und als Schriftsteller eine entscheidende Richtung gegeben, und man darf mit Recht erwarten, dass sein Uebergang zur neuen Universität einen vortheilhaften Eindruck für dieselbe hervorbringen und ihr</p>
+
+            <pb n="10.225" xml:id="pbX225"/>
+            <p>In der That ist es vorzüglich diese Anhänglichkeit und die Hoffnung, hier eine für das medicinische Studium wichtige Schule aufblühen zu sehen, welche ihn veranlassen kann, seine Lage in Halle zu verlassen, an die er nicht nur durch seine Lehrstelle, die ihm nahe an 2000 Rthlr. Gehalt bringt, und den Beifall seiner Zuhörer, sondern auch durch eine weitläuftige Praxis, den Besitz von Grundstücken und eine erst im vorigen Jahre gemachte An- lage von Bädern gebunden ist. Sein Einkommen beläuft sich, nach eingesammelten glaubwürdigen Zeugnissen wirldich gegenwärtig in Halle auf 5 — 6000 Thlr. Nach der mit ihm getroffenen Abrede habe ich indess Hoffnung, dass er gern in Ew. Königl. Majestät Staaten zurückkehren wird, wenn nur seine Existenz nach den Bedürfnissen seiner Familie gesichert ist; und da ich überzeugt bin, dass die medicinische Facultät der Universität nur durch ihn plötzlich einen bedeutenden Ruf in Deutschland gewinnen kann, so halte ich eine jährliche Besoldung von 3500 Thlr., die er für seine Entschädigung nothwendig glaubt, nicht für einen dem Nutzen, den man sich von der Berufung dieses Mannes versprechen kann, unangemessenen Aufwand. Ich würde indess Ew. Königl. Majestät ehrfurchtsvoll vorschlagen, nur 3000 Thlr. davon auf die Universitäts- , 500 Thlr. aber auf den Medicinal-Fonds übernehmen zu dürfen, da der Professor Reil bereits durch mehrere gedruckte, in Criminalfallen abgegebene Gutachten bewiesen hat, dass er auch für die gerichtliche und polizeiliche Medicin in hohem Grade brauchbar ist. Ich werde ihn alsdann zum Director der medicinischen wissenschaftlichen Deputation bestimmen, der ich in der Voraussetzung, dass sie vorzüglich solche Aerzte in sich vereinigen soll, die fortdauernd ihr Hauptgeschäft aus dem theoretischen und im praktischen Studium ihrer Wissenschaft machen, keinen würdigern Vorsteher zu geben wüsste. Nur müssten freilich bei der Amovibilität der Stellen in der Deputation die obenvähnten 500 Thlr. dem Professor Reil sicher bleiben.</p>
+
+            <p>Ich wage es daher, bei Ew. Königl. Majestät allerunterthänigst ■dahin anzutragen:</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Antrag für Schleiermacher</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif10humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1903">1903</date>
+                  </imprint>
+                  <biblScope unit="page" from="80" to="80"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="10.80" xml:id="pbX80"/>
+            <head>
+               <title type="main">XVIII. Antrag für Schleiermacher.</title>
+            </head>
+            <p>5. Juli 1809.</p>
+
+            <p>(Geheimes Staatsarchiv.)</p>
+
+            <p>Der Professor Schleiermacher gehört zu den Lehrern der Universität Halle, welche gleich, nachdem die Universität feindlich besetzt wurde, nach Berlin kamen, um nur in Ew. Königlichen Majestät Staaten ihre Dienste fortzusetzen. Es ist bei dem schon im Jahre 1807 gemachten Entwurf einer Universität in Berlin, und so oft nachher von demselben Entwürfe die Rede war, immer auch auf ihn vorzügliche Rücksicht genommen worden, und er hat, da dieser Entwurf bis jetzt nicht ausgeführt ist, ohne je Ew. Königlichen Majestät oder Allerhöchstdero Ministerien (wie auch noch jetzt der Fall ist) deshalb mit Bitten beschwerlich zu fallen, einige Male ausserordentliche Unterstützungen von Ew. Königlichen Majestät empfangen. Im gegenwärtigen Augenblick befindet er sich, da die vor kurzem von ihm erlangte Prediger-Stelle so gut als gar keine Einkünfte gewährt, in einer sehr bedrängten Lage und die Section des Cultus und öffentlichen Unterrichts hält es, da der p. Schleiermacher sowohl einer der vorzüglichsten jetzt so seltenen theologischen Universitäts-Lehrer als auch einer der besten und beliebtesten Kanzelredner in Berlin und ein Mann von durchaus unbescholtenem Charakter ist, für ihre Pflicht, bei Ew. Königlichen Majestät allerunterthänigst darauf anzutragen, demselben, bis er bei der in Berlin zu errichtenden Universität in ein volles Gehalt eintreten kann, eine jährliche Entschädigung von 500 Thl. für sein in Halle verlorenes Gehalt, allergnädigst zu bev/illigen. Seine Hallische Besoldung bestand in 820 Thl., unter welchem ^00 Thl. von der Dispositions-Kasse gezahlt wurden.</p>
+
+            <p>Königsberg, den 5ten July 1809.</p>
+
+            <p>Die Section im Ministerium des Jnnern für den Cultus und öffentlichen Unterricht.</p>
+
+            <p>Humboldt.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

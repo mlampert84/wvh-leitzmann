@@ -1,0 +1,539 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Über das Zensurwesen</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif10humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1903">1903</date>
+                  </imprint>
+                  <biblScope unit="page" from="36" to="71"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="10.36" xml:id="pbX36"/>
+            <p>die gesetzmässige Aufsicht über dieselben erschweren. Selbst von der Ober-Behörde abhängend, sind sie lästige Zwischen-Instanzen, es müsste denn die Entfernung einer Anstalt vom Sitze der Oberbehörde sie rathsam machen. Aus den vorstehenden Gründen muss die unterzeichnete Section bei Ew. Excellenz ergebenst darauf antragen:</p>
+
+            <p>Die Rechte der Section zu vertheidigen , und dahin zu wirken, dass die Akademie auf ihren xVntrag zur Ernennung eines neuen Curatorii abschläglich beschieden werde, auf jeden Fall aber Dieselben dringend bitten, das gegenwärtige Schreiben mit bei Sr. Majestät dem König zum Vortrag zu bringen, damit Se. Majestät die Sache vollkommen zu übersehen im Stande sein mögen. Es hat der Section nicht anders, als peinlich sein können, gegen einen Antrag zu reden, bei welchem ein Königlicher Prinz genannt worden ist. Allein sie muss freimüthig gestehen, dass sie die Curatel der Akademie der Künste erst dann würdig finden würde, einem Mitgliede des Königlichen Hauses angeboten zu werden, wenn die Akademie neu und zweckmässiger organisirt sein und es möglich sein wird, mit dieser Curatel zugleich auch die der gleichfalls neu zu organisirenden Akademie der Wissenschaften und der Universität in Berlin zu vereinigen. Aus diesen Gründen muss sie es aber auch für rathsam halten, für jetzt hier- über noch nichts zu bestimmen, oder näher bekannt zu machen.</p>
+
+            <p>Königsberg, den 29ten März 1809.</p>
+
+            <p>Section des öffentlichen Unterrichts.</p>
+
+            <p>Humboldt.</p>
+
+            <head>
+               <title type="main">VI.— XIV. Über das Zensurwesen.</title>
+            </head>
+            <p>Nach der grundlegenden Verordnung vom 24. November 1808 war die Zensur aller Schrißen, die nicht auf politische Gegenstände Bezug haben, der Departementsabteilung des öffentlichen Unterrichts, die aller auf politische Gegenstände und Verhältnisse Bezug habenden Schriften dem auswärtigen Departeyjient überwiesen. Ehe diese Neuordnung durchgeführt war, la&lt;^ die Zensur in den Händen von vier verschiedenen Behörden: Polizei, Konsistorium, Kammergericht und Collegium medicum. Maßgebend für ihr Verfahren war das aus der Wöllnerschen Zeit stammende Zensuredikt vom ig. Dezember i'j88, da ein Ver<pb n="10.37" xml:id="pbX37"/>ZU wichtigen Meinungsäußerungen über diesen Gegenstand (VI— XII) und zur Abfassung einer neuen Zensurverordnung (XIII, XIV), deren Einführung aber nicht erfolgte. Sie trägt kein Datum, war aber, wie aus den Briefen Humboldts hervorgeht, Ende März i8og im Manuskript abgeschlossen. Wir geben die endgültige Fassung mit den Varianten aus dem ersten eigenhändigen Entwurf. VI. An den Grafen v. d. Goltz über die Zensur der politischen Schriften. 7. März 1809.</p>
+
+            <p>(Konzept im Geh. Staatsarchiv.)</p>
+
+            <p>Ew. Excellenz geehrtestes Schreiben, die Censur der politischen Schriften betreffend, ist mir gestern Abend richtig zugekommen, und ich werde es mir zu einer angelegentlichen Pflicht machen, mich des mir darin geschehenen ehrenvollen Auftrages nach meinen besten Kräften zu entledigen.</p>
+
+            <p>Vollkommen überzeugt von der dringenden Nothwendigkeit, schlechterdings alle Ausdrücke und Beziehungen in öffentlichen Schriften zu verhüten, welche bei fremden Mächten unangenehme Eindrücke hen^orbringen könnten oder der schuldigen Ehrfurcht gegen unsre Regierung und die von derselben angestellte Personen zuwiderliefe oder sonst beim Publico von nachtheiligen Folgen sein könnten, werde ich die mir anvertraute Oberaufsicht mit der grossesten Aufmerksamkeit ausüben und mich mit Festigkeit jedem Versuche, bedenkliche oder anzügliche Stellen dieser Art dennoch ins Publicum zu bringen, widersetzen.</p>
+
+            <p>Ew. Excellenz werden indess ohne meine Bemerkung fühlen, wie sehr es sowohl den von Sr. Majestät dem König beabsichteten Zweck befördern als auch mir die Aufsicht erleichtern würde, wenn schon die erste Censur der Oberaufsicht nur sehr wenig zu thun übrig Hesse, und ich darf mir daher schmeicheln, dass Ew. Excellenz mir erlauben werden, Ihnen in dieser Hinsicht eine blos aus meinem Wunsche, Ihre Absicht auf das zweckmässigste zu erfüllen, herfliessende Bemerkung vorzulegen.</p>
+
+            <p>Die zweckmässige Censur der politischen Blätter erfordert, wie Ew. Excellenz gewiss Selbst mir zugestehen werden, eine möglichst genaue Kenntniss der politischen Ereignisse des Augenblicks in allen dabei eintretenden Verhältnissen, und eine solche Kenntniss ist nicht immer aus blosser Leetüre der öffentlichen Blätter und andern Schriften zu schöpfen. Auch der jetzige Censor, so ver<pb n="10.38" xml:id="pbX38"/>Ich wage es daher, Ew. Excellenz zu ersuchen, zu überlegen, ob es nicht vielleicht zweckdienlich sein sollte, wenigstens die Censur der politischen Zeitungen, auf die sich vorzüglich jene Bemerkung bezieht, lieber einem wirklichen Mitgliede des Aus- wärtigen Departements zu übertragen und zu diesem Behuf eins von denjenigen zu wählen, die kürzlich in Thätigkeit gewesen und daher genau von der gegenwärtigen Lage unterrichtet sind.</p>
+
+            <p>Sollten Ew. Excellenz diesem Vorschlage beizupHichten die Gewogenheit haben, so würde ich mich bei weitem sicherer halten, den so wichtigen Zweck vollkommen zu erfüllen.</p>
+
+            <p>Was Ew. Excellenz Plan, künftig die litterarische und politische Censur in einer und derselben Person zu vereinigen, betrifft, so ist derselbe gewiss, nur vielleicht mit Hinzufügung einiger Modi- ficationen, da das Geschäft für Einen Mann vielleicht zu umfassend oder zu mannigfaltig werden könnte, äusserst zweckmässig. Die Theilung der Censur in zwei ganz verschiedene Theile, je nachdem die Schriften politische oder litterarische Gegenstände beträfen, wäre in der That unmöglich, da in der grössten Anzahl von Büchern so leicht beiderlei Gegenstände zusammenkommen. Ich werde daher nicht verfehlen, sobald als möglich des Herrn Staatsminister Grafen zu Dohna Excellenz einen Entwurf zur Ausführung dieser Idee vorzulegen, und bitte Ew. Excellenz, überzeugt zu sein, wie glücklich ich mich jederzeit schätze, mit Aufträgen von Ihnen beehrt zu werden.</p>
+
+            <p>Berlin, 7. März 1809. Humboldt. An des Königl. Staats-Ministers Herrn Grafen von der Goltz Excellenz zu Königsberg in Pr.</p>
+
+            <p>VII. An den Grafen Dohna über die Handhabung der Zensur. 7. März 1809.</p>
+
+            <p>(Konzept im Geh. Staatsarchiv.)</p>
+
+            <pb n="10.39" xml:id="pbX39"/>
+            <p>Niemand Ivann so sehr als ich von der dringenden Noth- wendigkeit überzeugt sein, dem unzweckmässigen, schädlichen und so oft unanständigen und gefährlichen Schreiben mehrerer Schriftsteller die gebührenden Grenzen zu setzen, und in keinem Augenblicke darf wohl die Regierung weniger besorgen, dass ein so heilsames und nothwendiges Verfahren mit nachtheiliger und die Entwickelung der geistigen Kräfte hindernder Beschränkung der Pressfreiheit verwechselt werden könne, als in dem gegenwärtigen.</p>
+
+            <p>Ich würde mich daher auch schon früher mit diesem Theile des mJr angewiesenen Geschäftskreises beschäftigt haben, wenn ich nicht geglaubt hätte, den Zeitpunkt abwarten zu müssen, wo sowohl die Regierungs-Deputation, welcher nach der neuesten Instruction für die Regierungen die (Zensur eigentlich gehört, als die Section des öffentlichen Unterrichts vollkommen organisirt und neue Censoren angestellt wären.</p>
+
+            <p>Gegenwärtig geht, so viel ich aus Ew. Excellenz geehrtestem Schreiben entnehme, die Absicht dahin, dass die jetzt bestellten Censoren ihr Geschäft fortführen, jedoch meiner obersten Leitung folgen, sich in allen irgend bedenklichen Fällen an mich wenden und mir von ihrem Verfahren Rechenschaft ablegen sollen. Auch würde ich mich, wenn nicht dies die Höchste Meinung wäre, in der That in Verlegenheit befinden, wem ich, da ich ohne alle mir zugehörige Räthe hier bin, die Censur hier auftragen, und wie ich den königlichen Befehl vollziehen sollte.</p>
+
+            <p>Ich habe daher dies sogleich einzuleiten angefangen und hoffe auch bei den jetzigen Censoren keine Schwierigkeiten hierin an- zutretfen. Indess wage ich es dennoch, Ew. Excellenz ganz gehorsamst zu ersuchen, so bald als möglich an diese Censoren bestimmte Befehle ergehen zu lassen, dass und auf welche Weise sie ihr Amt unter meiner Aufsicht fortzuführen haben, wenn diese Verfügung nicht schon, wie ich aus dem Schreiben vom 25. pr. nicht ersehen kann, getroffen worden ist.</p>
+
+            <p>Ich bemerke hiebei, dass ausser dem Departement der auswärtigen Geschäfte und dem Ober- oder, in Ermangelung dessen, jetzt dem Kurmärkischen Ober-Consistorio die bisherigen und, so<pb n="10.40" xml:id="pbX40"/> zu erreichen, ohne Aufsehen oder Unzufriedenheit mit der Massregel überhaupt zu erregen. Der Herr Staatsminister Graf von der Goltz Excellenz äussert mir, indem er mich ersucht, auch über die politische Gensur die Aufsicht zu übernehmen, und deshalb bereits dem Herrn Geheimen Ober-Finanz-Rath von Hüttel die nöthigen Anweisungen ertheilt hat, dass es rathsam sein dürfte, künftig die gesammte, sowohl litterarische als politische Gensur Einem Manne zu übertragen, und ladet mich ein, Ew. Excellenz einen hiernach zu entwerfenden Plan vorzulegen. Ich glaube dieser Einladung um so mehr folgen zu müssen, als es auch mir schon bisher fast unmöglich schien, die Grenzen zwischen politischen und litterarischen Schriften so bestimmt zu ziehen, dass dieselben zwischen zwei Gensoren bequem vertheilt werden könnten, und als mir die Idee des Herrn Grafen von Goltz Excellenz, nur unter gewissen Modificationen, allerdings sehr ausführbar und annehmungswürdig scheint. Ich werde daher, sobald es mir nur irgend möglich sein wird, das Nöthige hierüber ausarbeiten.</p>
+
+            <p>Berlin, den 7. März 1809. Humboldt. An des Königl. Geheimen Staats-Ministers Herrn Grafen von Dohna Excellenz zu Königsberg. VIII. An den Grafen Dohna über die Einrichtungen der Zensurbehörde. 11. März 1 809.</p>
+
+            <p>(Konzept im Geh. Staatsarchiv.)<pb n="10.41" xml:id="pbX41"/> würdigen Verfassern herrühren, liegt dem Herrn Stadt-Präsidenten Büsching ob. Mit seinem Amte nämlich ist, seitdem Herr von Eisenberg es bekleidete, die Censur der periodischen Schriften, Volksblätter, Flugschriften, Gelegenheitsgedichte, der polizeilichen Artikel in den politischen Zeitungen und Intelligenz-Blättern verbunden, und ich habe daher diesem Theile vorzugsweise meine Aufmerksamkeit widmen zu müssen geglaubt. In einer ausführlichen mündlichen Unterredung habe ich daher dem Herrn Stadt- Präsidenten Büsching eine gedoppelte Aufmerksamkeit und die Sorgfalt empfohlen, in irgend bedenklichen Fällen das Imprimatur nie ohne meine Zustimmung zu ertheilen. Um auch theils ihn selbst controlliren zu können, theils die Verfasser dieser Blätter, ihre Bescheidenheit oder Unbescheidenheit näher kennen zu lernen, treife ich jetzt mit ihm die Einrichtung, dass er sich jedesmal zwei Exemplare der zu censirenden Bogen bringen lasse, die anstössigen Stellen in beiden durchstreiche und das eine nach Ertheilung des Imprimatur zurückbehalte. Dies letztere werde ich mir alsdann mittheilen lassen und, so viel möglich, oft selbst ansehen, um die von Herrn Präsidenten Büsching befolgten Grundsätze prüfen und ihm meine Bemerkungen darüber mittheilen zu können. Ich kann nicht umhin, hierbei zu erwähnen, dass dieser Mann in der That mit zu vielen und zu lästigen Arbeiten überhäuft ist, um seine Aufmerksamkeit diesem Geschäfte gehörig zu widmen. Indess dürfte die Durchsicht der polizeilichen Artikel in den Zeitungen und Intelligenz-Blättern nie leicht von der Polizei -Direction zu trennen sein, da dieselbe eine Menge von Notizen erfordert, die sich nur dort vereinigt finden.</p>
+
+            <p>Eine zweite Censur-Behörde ist das Lutherische Ober- oder jetzige Kurmärkische Consistorium. Ich habe dasselbe durch den Herrn Präsidenten von Scheve aufgefordert, sich in bedenklichen Fällen an mich zu w^enden und mir Verzeichnisse der censirten Bücher zu überschicken.</p>
+
+            <pb n="10.42" xml:id="pbX42"/>
+            <p>Indem ich mich aber überhaupt jetzt mehr um das Censur- wesen bekümmert habe, ist mir nicht verborgen geblieben, dass eine grosse Unregelmässigkeit in demselben herrscht, ^'^or2üglich scheint es, dass die Buchdrucker und \^erleger die Grenzen der verschiedenen Censur-Behörden entweder nicht kennen oder muthwillig überschreiten. So beklagt sich der Herr Geheime Finan2- Rath von Hüttel, keine geographischen und statistischen Schriften, die doch offenbar zu den politischen gehören, zu erhalten, und dem Consistorio sind seit dem Abzüge der französischen Truppen nur 3 Bücher, worunter eine einzige Predigt, zur Censur vorgelegt worden. Ich habe daher den Herrn Kammer-Gerichts-Präsidenten von Kircheisen ersucht, den Kammer-Gerichts-Rath Müller, welcher die Censur besorgt, anzuweisen, sich streng in den Grenzen seines Wirkungskreises zu halten, da vielleicht bei ihm unter dem Titel der Schriften vermischten Inhalts mehrere andern Behörden zukommende zusammenfliessen. Diesen und andern Abweichungen von der gesetzten Regel werde ich nach und nach auf die beste und am wenigsten Aufsehen erregende Weise abzuhelfen suchen.</p>
+
+            <p>Den durch den Wunsch des Herrn Staats- und Cabinets- Ministers Grafen von der Goltz Excellenz veranlassten Entwurf einer A^eränderung und Vereinfachung der Censur-Behörden hoffe ich Ew. Excellenz in der nächsten Woche vorlegen zu können.</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">Berlin, ii. März 1809. Humboldt.</title>
+               </head>
+               <p>An des Königl. Geheimen Staats-Ministers des Innern Herrn Grafen zu Dohna Excellenz zu Königsberg in Preussen. IX. Über die Zensur von Friedrich Buchholz' „Idee einer arithmetischen Staatskunst mit Anwendung auf das Königreich Preussen in seiner gegenwärtigen Lage" (1809). 15. März 1809. (Konzept im Geh. Staatsarchiv.)<pb n="10.43" xml:id="pbX43"/> regeln auf keine Weise verhindert oder erschwert werden muss. Allein einzelne Stellen wird Herr Buchholtz, um seiner gewiss sehr lesenswerthen Schrift mehr Eingang zu verschaffen und einer löbligern Beurtheilung gewiss zu sein, unstreitig selbst gern abändern. Solcher Stellen sind mir folgende beim Lesen aufgestossen. Bogen 2 S. 4 Z. 9: „Wahrlich, es giebt keine gefährlichere Classe in der Gesellschaft."*) Dies so allgemein, ohne alle Einschränkung an die Geldhändler, i. e. Banquiers, gesetzt, ist an- stössig. Im Satz vor- und nachher sind wenigstens einschränkende Bedingungen.</p>
+
+               <p>Bogen 3 S. 8 Z. 25:**) „In jedem gesellschaftlichen Zustande — und diese Menschen sind der Adel." Dieser Stelle will ich, da sie auf ein System gegründet ist, nicht das Imprimatur versagen. Auch entschuldigt sich der Verfasser selbst. Nur auf den Fall, dass Ew. Hochwohlgeboren selbst mit Herrn Buchholtz sprächen, wäre er darauf aufmerksam zu machen, dass er sehr leicht, ohne seinen Ideen Schaden zu thun, die Härte dieser Stelle mildern könnte, da nur, so lange der Adel unbestimmte Frohndienste be- sass, die Behauptung noch wahr genannt werden konnte. Frohndienste und Adel sind aber nicht unzertrennliche Begritfe. Bogen 4 S. 3 Z. ig. Der Ausdruck „Schmutz" von einer Achtung verdienenden Arbeit, wie der Ackerbau ist, kann nicht geduldet werden.</p>
+
+               <p>Bogen 4 S. 5 Z. 20 : ***) „Da nun die Erfahrung bei jeder Ge'^J Bei Buchhob heißt es nun S. 41 : „ Wahrlich, es giebt keine Classe in der Gesellschaß, welche die Aufmerksamkeit einer einsichtsvollen Regierung mehr verdient als diese; vorzüglich, wenn sie aus Ausländern bestehen sollte."</p>
+
+               <p>**yl Die Stelle steht S. 8jf. und lautet: „In jedem gesellschaftlichen Zustande, dem es an einem dinglichen Reizmittel fehlt, soll es Metischen geben, welche dies Reizmittel ersetzen, um diejenigen Arbeiten, ohne welche die Gesellschaft nicht fortdauern kann, zu erzwingen ; und diese Menschen sind der ursprüngliche Adel. Ich sage nichts zum Nachtheil des Adels, indem ich mich so über ihn ausdrücke; ich sage viehnehr sehr viel zu seinem Vortheil; denn, wer in dem gesellschaftlichen Zustande, dem dieses Reizmittel fehlt, nicht wäre, wo sollte alsdann die gesellschaftliche Arbeit, und wo die Gesellschaft selbst herkommen?"<pb n="10.44" xml:id="pbX44"/> legenheit gezeigt hat, dass in dem adligen Mitgliede — die Gesellschaft siegt." Da dieser Satz durch seine Allgemeinheit schlechter- dings beleidigend ist, so muss er wegbleiben oder die gehörige Modification erhalten.</p>
+
+               <p>Bogen 6 S. 6 Z. i : *) „Zuletzt ging man in der Kühnheit so weit, dass man eine förmliche Hungersnoth zu organisiren versuchte." Muss wegbleiben oder geändert werden, da diese Anldage, so ausgedrückt, sogar Absicht bei dem angeblichen Organisiren der Hungersnoth voraussetzt.</p>
+
+               <p>Bogen 6 S. 7 Z. ult. und S. 8 Z. i.**) Die Ausdrücke „revo- lutionairer Zustand" und „nicht eher eine feste und sichere Regierung" können nicht bleiben. Bogen 7 S. 5 Z. i. Die Parenthese : .,denn als ein von Seiten der Bundesgenossen gewesen ist, bleibt dahingestellt", muss ge- strichen werden.</p>
+
+               <p>In Absicht der Folge bin ich mit Ew. Hochwohlgeboren, nach dem mir so ausführlich und befriedigend angezeigten Inhalt, vollkommen einig, dass sie ohne Weiteres gleichfalls gedruckt werden könne.</p>
+
+               <p>Was die Anekdoten betrifft, so muss ich Ew. Hochwohl- geboren überlassen, ob Sie, da ich ihre Beschaffenheit nicht kenne, die Bekanntmachung derselben für unbedenklich halten oder sie mir noch mittheilen wollen. Eine schon in diesem Abschnitt vorkommende habe ich ohne Schwierigkeit stehen lassen.</p>
+
+               <p>Auch ich bin ganz der Meinung, dass man im Einzelnen und überhaupt, so viel man darf, liberal sein muss, und habe viele Stellen unberührt gelassen, die mir beim Lesen aufgefallen waren. Eine Censur soll keine Recension sein. Allein die von mir hier gerügten sind wirklich für diejenigen, welche sie treffen, beleidigend und für die Schrift unwesentlich. Also, hoffe ich, wird auch Herr Buchholtz nicht unzufrieden sein, als mir lieb wäre, dass ich mit achtungswürdigen Autoren die Censur lieber wie einen Rath als wie einen Befehl behandeln möchte. Interesse des Producenten über das Gesamtinteresse der Gesellschaft in der Regel siegt . . . ."</p>
+
+               <p>*yl S. 160: „Zuletzt ging es so weit, dass es das Ansehen gewann, als ob man, wenigstens in einigen Provinzen, eine förmliche Hungersnoth zu organisiren versuchte."</p>
+
+               <pb n="10.45" xml:id="pbX45"/>
+               <p>Berlin, den 15. März 1809.</p>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">An</title>
+               </head>
+               <p>des Königl. Geheimen Finanz -Raths Herrn von Hüttel Hochwohlgeboren.</p>
+
+               <p>X. An den Grafen Dohna über einen Vorfall bei der Zensur. 1, April 1809.</p>
+
+               <p>(Konzept im Geh. Staatsarchiv.)</p>
+
+               <p>Die beiden geehrtesten Schreiben, welche Ew. Excellenz die Gewogenheit gehabt haben, unterm 21. und 24. hujus an mich zu erlassen, habe ich richtig empfangen und aus dem ersteren mit grossem Vergnügen ersehen, dass Ew. Excellenz den von mir in Absicht auf die Censur genommenen Massregeln Ihren Beifall zu schenken die Güte haben.</p>
+
+               <p>Dass die belletristischen Schriften beim Kammergerichte cen- siit werden, ist allerdings nach Ew. Excellenz sehr richtigen Bemerkung auffallend unpassend.*) Ich sollte indess kaum glauben, dass es nothwendig oder auch nur rathsam sei, eine einzelne Abänderung in diesem Punkte jetzt besonders einzuleiten, da das ganze Censurwesen in kurzem eine durchaus veränderte Gestalt nach der neuen Organisation bekommen wird. Wirklich hebt die Verordnung vom 24. November 1808, indem sie die gesammte nicht politische Censur der Section des Cultus und öffentlichen Unterrichts beilegt, die Censurrechte sowohl des Kammergerichts als aller übrigen Collegien auf, und ich habe daher auch in meinem neuen Plane auf dieselben weiter keine Rücksicht genommen. Diesen Plan würde ich Ew. Excellenz, da er ganz fertig ist, schon heute einzuschicken die Ehre haben, wenn ich nicht nöthig fände, noch über einige einzelne Punkte mit vorzüglich sachkundigen<pb n="10.46" xml:id="pbX46"/> Personen*) allhier Rücksprache zu nehmen. Ich muss Ew. Ex- cellenz sehr um Entschuldigung bitten, Ihnen diese Arbeit nicht schon früher vorgelegt zu haben; allein da jede ^"erände^ung in Censur-Angelegenheiten höchst wichtig und in vieler Rücksicht bedenklich ist, so habe ich es für meine Pflicht gehalten, auch diejenigen Arbeiten, die bisher und besonders im Jahr 1801 **) beim auswärtigen und beim Justiz-Departement über diesen Gegenstand gemacht worden sind, zu Rathe zu ziehen, und die Aufsuchung und Durchlesung dieser Acten ist es, welche vorzüglich die Zöge- rung veranlasst hat. Aeusserst leid hat es mir gethan, dass, wie Ew. Excellenz geehrtestes zweites Schreiben ausführlicher erwähnt, meiner Aufsicht ungeachtet, im 33. Stücke der Vossischen Zeitung ein Artikel***) abgedruckt worden ist, der schlechterdings hätte gestrichen werden sollen. Ich kann Ew. Excellenz versichern, dass ich es bei meiner</p>
+
+               <p>'"') Vorzüglich mit dem Juristen Klein, dem Mitarbeiter an der großen preußischen Gesetzgebungsreform, seinem einstigen Lehrer, dessen Beifall der Entwurf fand.</p>
+
+               <p>*"'J Solche lagen von Raumer, Klein, Amelang und Friedrich Nicolai, vor allem von Minister v. Alvensleben und dem badischen Geheimrat v. Drais (nur dieser ist gedruckt in Häberlins Staatsarchiv, Heft 18) vor.</p>
+
+               <p>""■'*) Er lautet: „Der Cliarakter des jetzt herrschenden Zeitgeistes in unserem Staate spi'icht sich auch bei Gelegenheiten aus, welche der Eintritt der ehemaligen Ordnung nach einer unglücksschwangeren Zeitepoche it?i Gefolge hat. Gemein- sinn, Patriotismus, herzliches biederes Bewillkommnen waren die hervorstechenden Züge unserer Brüder imd Staatsbürger allenthalben imd freiwillig da, wo das preussische Militär in die bis jetzt verlassenen Gegenden wieder heimkehrte. Auch das unterzeichnete Regiment erfreute sich bei dem Einmarsch in die neuen Standquartiere Conitz, Deutsch-Friedland imd Jastrow dieses Ergusses hochherziger Freude seiner Mitbürger in sehr hohem Grade, imd fand in dieser biederen, herzlich gemeinten Aufnahme Milderung seiner wehmüthigen Gefühle, die durch eine Trennung von einer für Freundschaft und reine Geselligkeit empfänglichen Stadt sehr — sehr in unserem Innern rege gemacht waren. Dies, gute Tapiauer, ist unsere schlichte Entgegnung Ihres aus der Ferne schon früher uns zuge- schickten Abschiedszurufes, und dies wahrhaft gefühlten Wunsches werth, in solchem Cirkel der vernünftigen Behaglichkeit für immer zu verweilen. — Den würdigen Bewohnern dieser drei Städte daher unseren innigen, wahrhaft gefühlten Dank öffentlich zu sagen, fühlen wir uns verpflichtet mit der heiligen Versicherung, dass wir jener geäusserten Freundschaft und Güte würdig mit gleicher Empfindung jederzeit entgegenzukommen uns bestreben werden.</p>
+
+               <p>Gleich mit uns werden Sie aber auch den, durch das zweideutige Benehmen<pb n="10.47" xml:id="pbX47"/> jeden einzelnen \^erstoss zu vermeiden. Der von Ew. Excellenz angeführte Artikel war gewiss von der Art, dass der Censor, wenn er ihn nicht selbst zurückweisen wollte, meine Zustimmung darüber hätte einholen sollen, und das um so mehr, als ich nicht aufhöre, einzuschärfen, dies bei jedem nur irgend bedenklichen Falle zu thun, und immer auf der Stelle jede Anfrage beantworte. Der Präsident Büsching hatte dies in gegenwärtigem Falle versäumt, und der Artikel ist mir daher erst nach dem Abdruck bekannt geworden. Ich habe indess doch noch seine Insertion in die Spenersche Zeitung verhindern können.</p>
+
+               <p>Nach Ew. Excellenz geehrtestem Schreiben habe ich demselben das Missfallen, das jener Artikel erregt hat, nebst den angeführten Gründen bekannt gemacht und ihn angewiesen, seine Aufmerksamkeit zu verdoppeln. Er antwortet mir zwar hierauf, dass er geglaubt habe, dass, da der Ort nicht genannt gewesen, es auch nicht geschienen habe, dass die ganze Stadt, sondern nur einzelne Einwohner darin gemeint sein, der Artikel nicht anstössig gefunden werden würde. Er setzt hinzu, dass ihm sogar vorgekommen sei, als wäre eine solche Bezeichnung eines ungeziemenden Verfahrens dem jetzigen Zeitgeist und selbst den Gesinnungen der Regierung, welche mit Recht die grösste Harmonie und Zuvorkommenheit des Civils und Militairs gegen einander verlangt, nicht unangemessen, und er schliesst damit, dass, wenn diese Ansicht sein Versehen nicht gehörig rechtfertigen sollte, doch vorzüglich der Verfasser jener Annonce Zurechtweisung verdiene. Zugleich trägt er darauf an, dass statt der unbestimmten Fassung der bisherigen Censur-Edicte ein neues angefertigt werden möchte, das dem Censor eine genaue und bestimmte Instruction ertheile.</p>
+
+               <p>Diese Gründe sind nun offenbar unzulänglich, und ich habe nicht verfehlt, dies dem Präsident Büsching ausführlich auseinanderzusetzen; übrigens kann ich demselben das Zeugniss nicht versagen, dass er die ihm anvertraute Censur mit einer so gestechenden Contrast unangenehm empfinden, und mit uns wünschen, dass die Motiven hierzu nicht allgemein zueignend, also auch nicht für das Allgemeine dieser Stadt verdammend, auszuspi'echen Veranlassung seyn möchten.</p>
+
+               <p>Conitz, den i. März i8og.<pb n="10.48" xml:id="pbX48"/> wissenhaften und pünktlichen Aufmerksamkeit versieht, dass dies ihm in der That bei seinen sonst so vielfachen Geschäften zum doppelten Verdienste angerechnet werden muss. Ich hoffe auch gewiss, dass künftig selbst einzelne Verstösse werden von ihm vermieden werden.</p>
+
+               <p>Seinem Gedanken, ein so bestimmtes Censur-Edict zu entwerfen, kann ich schlechterdings nicht beipflichten. Es würde das sicherste Mittel sein, der Pressfreiheit einen unwiederbringlichen Schaden zuzufügen. Solche Bestimmungen aber sind auch nicht einmal möglich, und es muss in Censur-Sachen um so mehr das meiste der Einsicht und dem Ermessen des Censors überlassen bleiben, als die Grundsätze nach Massgabe der Zeiten und Umstände bald mehr bald weniger strenge sein müssen. Ich glaube den Schluss des Schreibens Ew. Excellenz vom 24. richtig gefasst zu haben, indem ich annehme, dass künftig gar keine Danksagungs- oder andere ähnliche Annoncen von Militair- Corps abgedruckt werden sollen, wenn ich sie nicht dem Inhalte und der Fassung nach für durchaus unbedenklich und zweckmässig halte. Dies ist gewiss um so rathsamer, als in vielen dieser Annoncen ein höchst unpassender Stil herrschte, und doch die Censur, wie auch Herr Präsident Büsching richtig bemerkt, da sie sich nicht anmassen darf, eine Recension zu werden, ohne eine solche besondere Autorisation nicht befugt gewesen wäre, Annoncen wegen des darin herrschenden verworrenen oder schwülstigen Tones zurückzuweisen.</p>
+
+               <p>Berlin, den i. April 1809. Humboldt. An des Königl. Staats-Ministers Herrn</p>
+
+               <p>Grafen zu Dohna Excellenz zu Königsberg.</p>
+
+               <p>XL Dienstanweisung für den Polizeipräsidenten</p>
+
+               <p>Grüner. 5. April 1902.</p>
+
+               <p>(Konzept im Geheimen Staatsarchiv.)<pb n="10.49" xml:id="pbX49"/> sicht auf die Censur, insofern dieselbe nicht das politische Fach angeht, einen Theil des mir anvertrauten Departements ausmacht, ich auch ausdrücklich von des Herrn Staats-Ministers Grafen zu Dohna Excellenz beauftragt worden war, mich dieser Aufsicht sofort und auf das Sorgfältigste zu unterziehen, so hatte ich mit dem Herrn Präsidenten Büsching die Einrichtung getroffen, dass er nicht nur in allen irgend bedenklichen Fällen sich an mich wandte und das Imprimatur in solchen Fällen nicht ohne meine Zustimmung ertheilte, sondern mir auch alle Mittwoch und Sonnabend die ihm zur Censur vorgelegt gewesenen gedruckten Bogen zusendete, damit ich daraus, was er gestrichen und stehen gelassen, beurtheilen konnte. Er Hess sich nämlich auf meine Veranlassung immer zwei Correcturbogen bringen, strich in beiden, gab den einen den Druckern zurück und behielt den andern, um ihn mir zu übersenden. Ich muss jetzt in Gefolge desselben so eben erwähnten höheren Auftrags Ew. Wohlgeboren ersuchen, denselben Gang zu beobachten.</p>
+
+               <p>So wenig auch die Meinung Sr. Majestät des Königs gewiss dahin geht, die Pressfreiheit mehr, als unumgänglich nöthig ist, beschränken zu wollen, so muss ich doch Ew. Wohlgeboren benachrichtigen, dass die Regierung mit Recht seit einiger Zeit ein wachsameres Auge als bisher auf ein in den letzten Jahren zu sehr eingerissenes, unnützes und ungeziemendes Geschreibe, vorzüglich in periodischen und Volksblättern hält. Ich muss daher auch Ew. Wohlgeboren bitten, auch Ihre Aufmerksamkeit hierauf zu richten, brauche aber gewiss nicht erst hinzuzusetzen, dass diese Vorsicht vorzüglich die Artikel in Zeitungen und Intelligenzblättern und die weniger bedeutenden Journale betrifft, da die von bekannten und bewährten Verfassern, wie z. B. die Berlinische Monatsschrift, nach anderen Grundsätzen censirt werden können. Ueberhaupt bin ich von Ew. Wohlgeboren einsichtsvoller Be- urtheilung überzeugt, dass Sie gewiss überall diejenige Mittelstrasse zu linden wissen werden, welche nirgend so sehr als bei der Censur in jetziger Zeit, die viel Behutsamkeit erfordert, und in unseren Staaten, wo man bisher in dieser Rücksicht nicht ängstlich gewesen ist und auch jetzt nicht in ein Extrem hiebei ver<pb n="10.50" xml:id="pbX50"/>geboren an den Herrn Geheimen Finanz-Rath von Hüttel, als politischen Censor, verwiesen.</p>
+
+               <p>Um noch eines einzelnen Punktes zu erwähnen, muss ich bemerken, dass neulich von dem Ministerio in Königsberg beliebt worden ist, dass Danksagungs- und ähnliche Annoncen von Ofti- cier-Corps nur dann in die Zeitungen aufgenommen werden sollen, wenn sie schlechterdings und durchaus nichts Anstössiges weder in den Sachen noch im Stile enthalten.</p>
+
+               <p>Ich benutze übrigens diese Gelegenheit, Ew. Wohlgeboren zu bezeugen, wie sehr ich mich freue, mit Ihnen in Geschäftsverbindung zu treten, und wie gern ich jede Gelegenheit ergreifen werde, Ihnen Beweise meiner aufrichtigen Hochachtung zu geben. Ich verreise zwar in wenigen Tagen auf einige Wochen; da ich aber dem Herrn Staats-Rath Uhden Vollmacht hinterlassen, alle an mich eingehende Sachen zu erbrechen und nach Beschaffenheit der Umstände darauf zu verfügen oder mir Bericht zu erstatten, so ersuche ich Ew. Wohlgeboren, Sich nur, wo Sie es nöthig finden, unausgesetzt, auch in meiner Abwesenheit hierher an mich zu wenden.</p>
+
+               <p>Berlin, den 5^60 April 1809.</p>
+
+               <p>Königl. Geheimer Staats-Rath pp.</p>
+
+               <p>Humboldt. An des Königl. Polizei-Präsidenten Grüner Wohlgeboren.</p>
+
+               <p>XII. Ein Konflikt über die Zensur. 8. April 1809.</p>
+
+               <p>[Konzept im Geh. Staatsarchiv.)</p>
+
+               <p>Ich sage Ew. Hochwohlgeboren für Ihr gütiges Schreiben von heute meinen verbindlichsten und freundschaftlichsten Dank. Nur schmerzt es mich ungemein, aus demselben die Besorgnis zu ersehen, in welche Sie die Krankheit Ihres Herrn Sohnes versetzt. Ich hotte und wünsche von Grund meines Herzens, dass dieselbe durch eine baldige glückliche Besserung des Kranken gehoben werden möge.</p>
+
+               <p>In Absicht des Kamekenschen Buchs kann ich, wie ich frei- müthig gestehe, Ew. Hochwohlgeboren Meinung nicht beitreten.<pb n="10.51" xml:id="pbX51"/> SO verstände es sich von selbst, dass nichts dagegen su sagen wäre. Derselbe heisst aber:</p>
+
+               <p>„Der Hengst, wie er sein sollte, als Gegenstück zur Elisa, oder das Weib, wie es sein sollte."<note type="footnote" n="*)" resp="gnd-116890657"><hi>Das Blich war von Rochus Graf Kameke; die Ankündigung Vossische Zeitung, ^g. Stück vom i. April g; Elisa oder das Weib wie es seyn sollte. Mit 6 Kupfern von Penzel war in dritter Auflage, Leipzig lygS erschienen.</hi></note> Erwägen Ew. Hochwohlgeb. diesen Titel in seinem Zusammenhange, so finden Sie gewiss, dass das Wort Hengst dadurch einen sehr unanständigen Doppelsinn bekommt, dass man verleitet wird, hinter diesem Titel entweder eine schlüpfrige Schrift oder eine Satire auf das als Gegenstück angeführte Buch zu finden, am w^enigsten aber eine Schrift über die Pferdezucht vermuthet.</p>
+
+               <p>Das weibliche Geschlecht kann allerdings dabei nicht verlieren. Allein roh und unanständig und den Sitten, auf welche das Censur- Edikt ausdrücklich aufmerksam macht, entgegenlaufend, bleibt ein solcher Titel doch allemal, und die Pflicht des Censors war es, dünkt mich, den Zusatz:</p>
+
+               <p>„als Gegenstück" u. s. w. zu streichen und wenigstens nicht auf die ihm deshalb gemachte Bemerkung auf der Ertheilung des Imprimatur zu beharren.</p>
+
+               <p>Ich ersuche indess Ew. Hochwohlgeb., die abermalige Erwähnung dieser Sache nur als einen Beweis meines Wunsches zu betrachten, meine Ansichten vor einem Manne zu rechtfertigen, für den ich eine so aufrichtige und herzliche Hochachtung hege.</p>
+
+               <p>Berlin, den S'en April 1809.</p>
+
+               <p>Humboldt. An des Köniffl. Kammer-Gerichts-Präsidenten Herrn von Kircheisen Hochwohlgeboren.</p>
+
+               <p>XIII. Einleitung zum Entwurf einer Verordnung die Zensurbehörden betreffend. Ende März 1809.</p>
+
+               <p>{Eigenhändiges Konzept im Geh. Staatsarchiv.)<pb n="10.52" xml:id="pbX52"/> neuen Censur-Edicte, sondern nur von einer Veränderung und Vereinfachung der Censurbehörden die Rede ist. Die Censur be- steht einmal in den Preussischen Staaten, sie wird noch immer nach dem nicht aufgehobenen Censur-Edicte d. tq. December 1788 ausgeübt; denn sie ist, nach eben diesem Edict, unter so viele nicht in der mindesten Verbindung mit einander stehende Behörden venheilt, dass sich von einer solchen Einrichtung weder die, wenn einmal Censur Statt finden soll, nothwendige Ordnung, noch die für die Erhaltung der höchstmöglichen Freiheit heilsame Gleichförmigkeit der Grundsätze erwarten lässt. Die Censoren greifen, wie sich bei den schwankenden Bestimmungen des Edicts kaum verhindern lässt, einer in die Gränzen des andern ein; Drucker und ^^erleger sind nicht gehörig unterrichtet, an wen sie sich zu wenden haben, und wenn gegen eine Schrift Ivlage geführt wird, muss man erst bei allen einzelnen Censoren herumschicken, um sich gehörig zu überzeugen, ob und wo dieselbe censirt worden ist. Die neue Organisation der Verwaltungsbehörden stellt auch hierüber einfachere Grundsätze auf, sie vertraut die Censur bloss zwei oberen Behörden an, und hebt damit alle übrigen stillschweigend auf. Allein auch sie trennt diese beiden Behörden noch zu sehr und auf eine in der That unausführbare Weise, da sich bei vielen Schriften schlechterdings nicht bestimmt angeben lässt, ob sie politische oder nicht politische sind ? Der Hauptzweck dieses Entwurfes wäre also, auch diese Trennung noch so viel als möglich aufzuheben oder doch unschädlich zu machen.<note type="footnote" n="**)" resp="gnd-116890657"><hi>Um den gegenwärtigen Entwurf richtig zu beurtheilen, muss man A^orzüglich in Erwägung ziehen, dass jetzt nicht von einem</hi></note></p>
+
+               <p>Dieser Zweck wird nun, wie es mir scheint, vollkommen durch die Censur -Deputationen erreicht. Denn wenn auch jede von diesen noch von zwei verschiedenen Ober-Behörden ressortirt, so können diese letztern leicht mit einander communiciren, und linden im Staats-Rath ihren ^'ereinigungspunkt. Dass theologische, juristische und medicinische Schriften nur gerade von Theologen, Juristen und Medicinern censirt werden erster Gedanke, als von einer näheren Organisation der nach dem gegenwärtigen Verwaltungssystem vei'änderten Censia--Behörden die Rede war, darauf hinausging, ob man nicht vielmehr alle Censur, ausser der der Zeitungen, Journale und politischen Schrißen außieben und übrigens bloss jeden Schrißsteller sich bei Herausgabe einer Schriß zu nennen, und für dieselbe verantwortlich zu seyn<pb n="10.53" xml:id="pbX53"/> könnten, scheint mir keineswegs richtig. Die Censur soll keine Recension sein, und setzt daher nicht sowohl wissenschaftliche Kenntnisse, als richtige Grundsätze über die mögliche Pressfreiheit, und gehörigen Tact in Anwendung derselben voraus. Dagegen bringt die A'ertheilung der zu censirenden Schriften nach ihren Gegenständen nothwendig Ungleichförmigkeit der Grundsätze her- vor, wenn man nicht, was noch mehr Unbequemlichkeiten haben wäirde, ein ganzes Collegium von Censoren bestellen will. Da indess doch manchmal wissenschaftliche Kenntnisse wirklich nothwendig sein können, so scheint mir die Anordnung subsidiarischer Censoren dem etwanigen Bedürfniss vollkommen ein Genüge zu thun und sonst keine Unbequemlichkeiten mit sich zu führen.</p>
+
+               <p>Dass diese aus eigentlich gelehrten Corporationen gewählt werden, scheint mir ebenso zweckmässig, und dass auch der nicht politische Censor ein weniger als Geschäftsmann denn als Ge- lehrter bekannter Mann sei. Es kommt viel darauf an, dem Censor ein gewisses Zutrauen zu erhalten, und dieses werden Schriftsteller immer eher zu Gelehrten als zu Geschäftsmännern hegen.</p>
+
+               <p>Die verschiedenen Collegia, w^elche bisher an der Censur Theil nahmen, können hierüber keine Beschwerde führen. Die Verordnung vom 24. November 1808 nimmt ihnen schon stillschw^eigend diesen Antheil, und dass sie nicht bei einer nicht durch sie selbst besorgten Censur gefährdet werden können, dafür sorgt der § 16 des Entwurfs besonders.</p>
+
+               <p>Dass nur die im Lande gedruckten Schriften der Censur unterworfen sein können, schien mir ebenso nothwendig auszudrücken, als den Gang, welchen Verbote fremder Bücher nehmen müssen, genau zu bestimmen. Man kann die Pressfreiheit nicht genug schützen, und auch für die Beförderung des Buchhandels und der Buchdruckerei ist es nothwendig auf alle Weise Sorge zu tragen.</p>
+
+               <p>Ob auch nur alle im Lande gedruckte Schriften zur Censur vorgelegt werden sollen ? darüber bin ich lange zweifelhaft gewesen.</p>
+
+               <p>Da es meine Pflicht zu sein schien, bei diesem Entwürfe dasjenige zu Rathe zu ziehen, was bereits von sachkundigen und erfahrenen Männern über diese Angelegenheit vorgeschlagen worden<pb n="10.54" xml:id="pbX54"/> aus dem Geheimen Archiv vorlegen lassen, und sie mit grossem Nutzen gelesen und geprüft. Herr p. Klein, so wie auch Herr Buchhändler Nicolai, der gleichfalls damals sein Gutachten abgab, schlugen gewisse Modificationen vor, unter welchen Bücher ihrem Inhalte und Personen ihrem Stande nach censurfrei sein sollten. Da diese Vorschläge wirklich sehr beherzigenswerth sind, so lege ich Abschriften der Stellen ihrer Entwürfe, welche dieselben betreffen, bei. Alles im Ganzen schien mir auf der einen Seite, da auch diese Censurfreiheit immer nur beschränkt ist, der Vortheil zu gering, und auf der andern auch bei diesen Modificationen immer noch einige Gefahr zu befürchten.</p>
+
+               <p>Bei dieser Gelegenheit kann ich mich der Frage nicht enthalten, ob es nicht vielleicht gut sein dürfte, die Censur ganz aufzuheben und nur noch die Zeitungen und politischen Schriften einer Aufsicht zu unterwerfen, wie neuerlich im Königreich West- phalen wirklich geschehen ist.</p>
+
+               <p>An sich ist keinem Zweifel unterworfen, dass das einzig richtige Princip uneingeschränkte Censurfreiheit ist, bei welcher jeder für die von ihm verfassten, verlegten oder gedruckten Schriften verantw^ortlich bleibt. Auch muss man sich diesem Grundsatz mit der Zeit immer mehr und mehr nähern.</p>
+
+               <p>Allein im jetzigen Augenblick, wo eine grosse Spannung in den Gemüthern ist, wo die politischen Verhältnisse äusserste Behutsamkeit erfordern, und wo einige Mächte bei weitem mehr, als sonst, in den Kreis derjenigen Dinge ziehen, die sie anstössig oder gefährlich finden, ist eine solche Einrichtung bei uns unausführbar. Der Preussische Staat ist dazu jetzt nach aussen nicht mächtig genug; und im Innern ist man glücklicherweise bei uns zu sehr an gelinde und sanfte Massregeln und an gerichtliche und daher immer langsamere Formen gewöhnt, als dass die Furcht vor Verantwortlichkeit stark und abmahnend genug wirken sollte. Endlich, wenn unbesonnene Personen, trotz aller angedrohten Strafen, zu weit gehen, ist das Uebel geschehen, und kann die bedenklichsten Folgen nach sich ziehen.</p>
+
+               <p>Auf der andern Seite aber muss man auch auf jede Weise vermeiden, dass nicht die Meinung entstehe, man wolle jetzt eine strengere Censur als ehemals einführen. Dies könnte die Erwartungen, die man an vielen Orten Deutschlands von dem Wiederaufblühen wahrer und acht Deutscher Wissenschaft in den<pb n="10.55" xml:id="pbX55"/> sich begnügen, ihn den vornehmsten Landes-Collegien, so wie Auszüge der ihnen zu wissen nöthigen Stellen den Druckern, Buchhändlern und Fiscälen mitzutheilen. Im übrigen bleibe das alte Censur-Edict, insofern es nicht durch die jetzige Verordnung aufgehoben ist, in Kraft, und ich habe mich darum mit Fleiss in einigen Stellen ausdrücklich auf dasselbe bezogen.</p>
+            </div>
+
+            <div type="section" n="3">
+               <head>
+                  <title type="main">XIV. „Entwurf zu einer Verordnung, die Veränderung</title>
+               </head>
+            </div>
+
+            <div type="section" n="4">
+               <head>
+                  <title type="main">und Vereinfachung der Zensurbehörden betreffend",</title>
+               </head>
+               <p>Ende März 1809.</p>
+
+               <p>(Eigenhändiges Konzept und Abschrift im Geh. Staatsarchiv.)</p>
+
+               <p>Da die Verordnung vom 24. November 1809, die veränderte Verfassung der obersten Verwaltungsbehörden betreffend, S. 21 f. die gesammte Censur, je nachdem dieselbe politische oder andere Schriften betrifft, dem Departement der auswärtigen Angelegen- heiten und der Section des Cultus und öffentHchen Unterrichts im Ministerio des Innern zutheilt, so ist es nothwendig, sowohl die Art, wie die Censur überhaupt von jetzt an besorgt werden soll, als auch insbesondere den Antheil jener beiden oberen Behörden an diesem Geschäfte näher zu bestimmen.*) Die w^ohlthätige Absicht dieser Veränderung ist keine andere, als der Entwicklung der geistigen Kräfte, insofern solche durch schriftstellerische Producte befördert wird, den höchsten Grad der Freiheit zuzusichern, w^elcher nur immer mit der augenbHcklichen und allgemeinen, äusseren und inneren Sicherheit des Staates verträglich ist. Darum wird durch die Bestellung einer einzigen Censurbehörde statt der bisherigen vielfachen, deren Gränzen kaum nur hinlänglich geschieden w^erden konnten, für die Beobachtung gleichförmiger Grundsätze bei der Censur gesorgt und das Geschäft gerade denjenigen unter den obersten Verwaltungsbehörden anvertraut, von denen die eine, unmittelbar bestimmt, für die<pb n="10.56" xml:id="pbX56"/> zu tragen, mehr als jede andere, ein nahes und lebendiges Interesse an würdiger und zweckmässiger Pressfreiheit nimmt, und die andere am besten zu beurtheilen im Stande ist, welche äussere Rücksichten die jedesmalige Lage des Staates erfordert. Von diesen beiden Behörden lässt sich mit Recht erwarten, dass sie der Freiheit nur da Gränzen setzen werden, wo es das Wohl des Staats und die Beschützung der Rechte seiner Bürger unmittelbar nothwendig macht. Eine solche Beschränkung aber gereicht zum Nutzen der Schriftstellerei selbst. Denn sie führt dieselbe immer mehr und mehr zu ihrem wahren und ursprünglichen Zwecke zurück, sich nur mit demjenigen, was allgemein wichtig und auch noch des Antheils der Nachwelt würdig ist, zu beschäftigen, und verhindert sie, bei den blossen Begebenheiten des Tages stehen zu bleiben und zu elender Anekdotenkrämerei herabzusinken.</p>
+
+               <p>I. Censurbehörde.</p>
+
+               <p>a. Für Berlin.</p>
+
+               <p>§ ^'</p>
+
+               <p>Alle in Berlin gedruckte, der Censur unterworfene Schriften werden entweder mittelbar oder unmittelbar von einer zu diesem Behuf angestellten Censur-Deputation censirt.</p>
+
+               <p>§ 2.</p>
+
+               <p>Diese Deputation besteht aus zwei Mitgliedern.</p>
+
+               <p>Das eine derselben hat die Censur aller politischen und aller derjenigen Schriften, deren Beurtheilung vorzüglich die Kenntniss bestimmter, besonders äusserer Verhältnisse voraussetzt ; das andere besorgt die übrigen Schriften, bei deren Beurtheilung mehr all- gemeine Rücksichten eintreten.</p>
+
+               <p>§3. Zum Ressort des für die politischen Schriften bestimmten Censors gehören daher: a. alle politische Zeitungen, mit Ausschluss der litterarischen Artikel, welche der andere Censor, und der polizeilichen, welche das Polizei-Directorium (§ 15) censirt; b. die eigentlich politischen Schriften;<pb n="10.57" xml:id="pbX57"/> e. alle Brochüren, Flugblätter, Gelegenheitsschriften u. s. f. Zum Ressort des andern Censors gehören alle übrigen Schriften, von welcher Art und Beschaffenheit sie sein mögen.</p>
+
+               <p>Bei der Censur von Bücherv'erzeichnissen oder Bücheranzeigen concurriren natürlich beide.</p>
+
+               <p>§4.</p>
+
+               <p>Der politische Censor steht ausschliesslich unter der Oberaufsicht des Ministers der auswärtigen Angelegenheiten, der andere unter der des Chefs der Section des Cultus und öffentlichen Unterrichts.</p>
+
+               <p>Was sich auf die ganze Censur-Deputation überhaupt bezieht, verfügen der Minister und der Sections-Chef gemeinschaftlich.</p>
+
+               <p>§ 3- Verleger und Drucker senden die zu censirenden Schriften an denjenigen der beiden Censoren, zu dessen Ressort sie nach § 3 gehören.</p>
+
+               <p>Gehet damit ein Versehen vor, so ist jeder von beiden verpflichtet, das ihm unrichtig Zugetheilte seinem Collegen abzugeben. Fallen Streitigkeiten über die Competenz unter beiden vor, so entscheidet dieselben brevi man und ohne Zuziehung des anderen Chefs der Chef desjenigen, gegen welchen Klage geführt wird.</p>
+
+               <p>§ 6.</p>
+
+               <p>Findet einer der beiden Censoren in einer ihm zugehörenden Schrift eine Stelle oder, wenn es ein periodisches Blatt ist, einen Aufsatz, welcher sich offenbar für das Forum des anderen eignet, so ist er auf seine Verantwortlichkeit verpflichtet, die Stelle oder den Aufsatz ihm mitzutheilen und ihn zu veranlassen, entweder die Stelle selbst zu streichen oder sie besonders mit seinem Imprimatur zu versehen. Auch eine ganze Schrift kann er abgeben, wenn sie anderen Inhalts ist, als ihr Titel vermuthen liess.</p>
+
+               <pb n="10.58" xml:id="pbX58"/>
+               <p>In schwierigen und bedenklichen Fällen wendet sich jeder der Censoren an die ihm vorgesetzte Behörde. Diese entscheidet allein, wenn der Fall allein zu ihrer Kompetenz gehört; sonst concurriren beide Behörden gemeinschaftlich.</p>
+
+               <p>§9. Da der Censor nicht bloss bestimmt ist, die zu weit gehende Pressfreiheit zu beschränken, sondern auch die gesetzmässige zu schützen und zu vertreten, so hat die ihm vorgesetzte Behörde nur ein votum suspensivum gegen ihn, und die Entscheidung geschieht, wo seine Meinung von der ihrigen abweicht, vom Staatsrath.</p>
+
+               <p>§ 10.</p>
+
+               <p>In Fällen von Krankheit, Abwesenheit oder anderer Unterbrechung bestimmt das dem verhinderten Mitgliede vorgesetzte Departement einen andern Censor für die Zwischenzeit an der Stelle des gewöhnlichen.</p>
+            </div>
+
+            <div type="section" n="5">
+               <head>
+                  <title type="main">§ II.</title>
+               </head>
+               <p>Beide Censoren müssen, so viel als möglich, ausgebreitete Sprachkenntnisse, und der nicht politische vorzüglich eine möglichst allgemeine und sich zugleich auf mehrere Fächer erstreckende Bildung besitzen. Da indess doch Schriften vorkommen können', welche bestimmte, ihnen mangelnde scientifische oder Sprach-Kenntnisse voraussetzen, so giebt es ausser der Censur-Deputation noch subsidiarische Censoren.</p>
+
+               <p>§ 12.</p>
+
+               <p>Diese wählt, was die Sachen betrifft, der Chef der Section des Cultus und öffentlichen Unterrichts, und nimmt hierzu allemal an- gesehene Gelehrte, hauptsächlich aus den Mitgliedern der Berlinischen Universität und, bis zur Errichtung dieser, aus der seiner Section zugehörenden wissenschaftlichen Deputation. Er bezeichnet dazu ein- für allemal nach den verschiedenen Fächern der Wissen<pb n="10.59" xml:id="pbX59"/>Schäften bestimmte Personen und zeigt sie, sowie die Veränderungen, die sich mit ihnen zutragen, der Censur-Deputation an. Die Ernennung der subsidiarischen Censoren in Absicht auf die Sprachen geschieht nur nach und nach, so wie das Bedürfniss dazu eintritt.</p>
+
+               <p>§ 13- Die Censur-Deputation ist nicht verpflichtet, Schriften, die ihr vorgelegt werden, welches Inhalts sie auch sein mögen, an subsidiarische Censoren zu verweisen, sondern es hängt von ihr ab, die Censur aller und jeder selbst zu übernehmen. Allein sie macht sich alsdann, ausser für ihr Verfahren, auch noch dafür verantwortlich, dass sie diejenigen, deren Censur bestimmte Kenntnisse erfordert, nicht abgegeben, sondern sich selbst für competent er klärt hat. Vorzüglich streng wird diese Verantwortlichkeit bei Schriften, bei welchen die medicinische Polizei concurriren kann.</p>
+
+               <p>§ 14- Der subsidiarische Censor verfährt da, wo ihm nicht eine einzelne Stelle, sondern eine ganze Schrift vorgelegt wird, ganz wie der gewöhnliche, und es gilt von ihm alles das von diesem Gesagte; nur ist er verpflichtet, wenn ihm eine besonders wichtige Stelle aufstösst, die nicht zu seiner scientifischen Kompetenz gehört, dieselbe der Censur-Deputation zur besonderen Beurtheilung vorzulegen.</p>
+
+               <p>Diese Verpflichtung liegt ihm vorzüglich streng dann ob, wenn die Stelle eine politische ist.</p>
+
+               <p>§ 15- Gewisse Artikel in den Zeitungen, Intelligenzblättern, Volksschriften u. s. w., ferner alle Anzeigen zu verkaufender Sachen u. s. w. sind von der Art, dass sie nur vom Polizei-Directorio gehörig beurtheilt werden können. Die Censur-Deputation trifft daher sogleich hierüber eine feste Einrichtung mit dem Polizei- Directorio, überlässt demselben dies Fach durchaus, unterhält aber immer die nothwendige Verbindung mit ihm.*)</p>
+
+               <p>"'J Der gestrichene §16 lautet: „Wenn irgend ein Censor eine Stelle in einer Schriß findet, welche, wäre es auch innerhalb der (gesetzmässigen) Grämen des nothwendigen Anstandes, eine Staatsbehörde näher oder entfernter Weise betrifft,<pb n="10.60" xml:id="pbX60"/> b. Das Kurmärkische Regierungs-Departement.</p>
+
+               <p>§ 17- Alle in dem Kurmärkischen Regierungs-Departement gedruckte und der Censur unterworfene Schriften, mit der im 24. Paragraph bestimmten Ausnahme, müssen nach Berlin an die Censur-Depu- tation zur Censur eingesandt werden.</p>
+
+               <p>S 18. Jedoch behält sich das Ministerium der auswärtigen Angelegenheiten und die Section des Cultus und öffentlichen Unterrichts vor, in besonderen Fällen auch ausser Berlin Censoren zu bestellen, um das Einschicken der Manuscripte zu vermeiden.</p>
+
+               <p>c. Die andern Provinzen.</p>
+
+               <p>§ 19- Von den in den anderen Provinzen der Monarchie gedruckten und der Censur unterworfenen Schriften werden diejenigen, welche in Berlin zum Ressort der Section des Cultus und öffentlichen Unterrichts gehören würden, den Regierungen zur Censur vorgelegt.</p>
+
+               <p>§ 20. Die Regierungen bestimmen einen eigenen, allemal aus der geistlichen Deputation zu nehmenden Censor, und zwischen diesem und dem Präsidio der Regierung treten nun alle diejenigen Verhältnisse ein, welche in Berlin zwischen dem Censor und Sections- chef stattfinden.</p>
+
+               <p>Bei Verschiedenheit der Meinung gehet die Sache vermittelst des Chefs der Section an den Staatsrath.</p>
+
+               <p>§ 21.</p>
+
+               <p>Inwiefern auch subsidiarische Censoren in den Provinzen anzustellen sind, bleibt dem Präsidio der Regierung nach dem Bedürfniss der eintretenden Fälle zu beurtheilen überlassen.</p>
+
+               <p>§ 22.</p>
+
+               <p>Für die Censur der zum Ressort des auswärtigen Departements gehörenden Schriften bestimmt dessen Chef in jedem Ort, in</p>
+
+               <pb n="10.61" xml:id="pbX61"/>
+               <p>§ 23. Diese Person bildet mit dem in der Regierung befindlichen Censor (§ 20) die Provincial-Censur-Deputation, von der alles im Vorigen von der Berlinischen Gesagte gilt.</p>
+
+               <p>d. Ausnahme der Universitäten.</p>
+
+               <p>§ 24. Die Universitäten Frankfurt an der Oder und Königsberg üben die Censur wie bisher aus und behalten alle ihre sonst in dieser Hinsicht gehabten Rechte.</p>
+
+               <p>§ 25. Die auf denselben zum politischen Ressort gehörenden gedruckten Werke werden dem politischen Pro\dncial-Censor (§ 22) zur Ertheilung des Imprimatur vorgelegt.</p>
+
+               <p>II. Gegenstand der Censur.</p>
+
+               <p>§ 26. Jede im Lande gedruckte Schrift ohne Ausnahme noch Rücksicht auf ihre Grösse oder Kleinheit und ihren Inhalt muss zur Censur vorgelegt werden.</p>
+
+               <p>§ 27. Jedoch bleiben die im § 4 des Censur-Edicts d. 19. December 1788*) gemachten Ausnahmen auch jetzt in Kraft, und es versteht sich von selbst, dass, wenn eine Universität in Berlin errichtet wird, die ordentlichen Professoren derselben eben die Censur- Freiheit als die Mitglieder der Akademie der Wissenschaften ge- messen.</p>
+
+               <p>§ 28. Jeder censurfreie Schriftsteller muss den ganzen Inhalt seiner Schrift vertreten und kann sich nur durch die Vorlegung derselben zur Censur von dieser Verantwortlichkeit befreien.</p>
+
+               <pb n="10.62" xml:id="pbX62"/>
+               <p>Ausserhalb Landes gedruckte Schriften sind zwar an sich der Censur nicht unterworfen; jedoch linden dabei noch folgende z^vei Bestimmungen statt:</p>
+
+               <p>§ 36 ^</p>
+
+               <p>I. Wenn ein inländischer Verieger eine Schrift zur Censur voriegt und derselben das Imprimatur verweigert ward, so darf er dieselbe Schrift nicht auswärts drucken lassen, ohne sich einer strafbaren vorsätzlichen Umgehung der Censur schuldig zu machen.</p>
+            </div>
+
+            <div type="section" n="6">
+               <head>
+                  <title type="main">§ 3Ö*=-</title>
+               </head>
+               <p>Wenn ein inländischer Verleger eine Schrift eines inländischen Schriftstellers ausserhalb Landes drucken lässt, so brauchen sie</p>
+
+               <p>*j Die gestrichenen §§ lauten: § 29. Da es Werke giebt, bei welchen, ihrern Inhalte, und Schriflsteller, bei denen, ihrem bekannten Charakter nach, schlechterdings keine Gefahr obwaltet, so können auch diese von der Censur befreiet werden, jedoch iimner nur durch eine besondere Verfügung entweder des Censors, oder der ihm vorgesetzten Behörde.</p>
+
+               <p>§ jo. Wenn diese Befreiung ertheilt wird, bleibt jedoch derjenige, welcher sie ertheilt, sey es der Censor oder die Behörde, oder wenn die letztei-e dem Gutachten des ersteren folgt, beide dafür verantwortlich. § ji. Doch auch in diesem Fall itiüssen die gewöhnlichen Censur-Gebühren entrichtet und dem Censor ein Exemplar der Schrift, und zwar nicht nach dem Abdruck des ganzen Werks, sondern nach dem Abdruck jedes einzelnen Bogens eingehändigt werden.</p>
+
+               <p>§ ^2. Derjenige, welcher diese Befreiimg ertheilt, behält immer das Recht, sie in jedem Augenblick, auch während des Drucks, und ohne alle Anführung von Gründen, wieder zurückzunehmen, welche Zurücknahme jedoch alsdann natürlich nur noch von dem Theile der Schrift zu verstehen ist, der alsdann noch nicht wirklich abgedruckt ist.</p>
+
+               <p>§ jj. Verfasser, Verleger imd Drucker sind in diesem Fall (§ 2g) in Rücksicht der, wenn sie dem Censor vorgelegt werden, schon wirklich abgedruckten Bogen so anzusehen, als hätten sie die Verantwortlichkeit für die Censur ausdrücklich selbst über sich genommen. § j4. Sie müssen sich daher, wenn sie haben etwas Anstössiges abdrucken lassen, und die Schrift noch nicht ausgegeben ist, die Umdruckung derselben auf ihre Kosten gefallen lassen, imd können, rvenn sie bereits ausgegeben ist, in fs- calische Strafe von 10 — §0 Rthl. jeder, genommen werden.</p>
+
+               <p>§ 35- Ob die Schrift dergleichen anstössige Stellen enthalte, darüber entscheidet lediglich der Censor selbst, die ihm vorgesetzte obere Behörde und in</p>
+
+               <pb n="10.63" xml:id="pbX63"/>
+               <p>Jeder Verleger, er möge in oder ausserhalb Landes drucken lassen, ist gehalten, unmittelbar auf dem Titelblatte den Ort und den Namen des Druckers, welcher die Schrift gedruckt hat, an- zuzeigen.</p>
+
+               <p>§ 37- Die Aufsicht auf Schriften, die ausserhalb Landes gedruckt sind, und aufweiche die Bestimmungen der §§36^ und 36'= keine Anwendung finden, ist, insofern sie im Lande verkauft werden, kein Gegenstand der Censur-, sondern der Polizei-Behörde.*)</p>
+
+               <p>§ 38.</p>
+
+               <p>Da sich aber eine liberale Beurtheilung der unvermeidlich nothwendigen Beschränkungen am meisten von den Censur-Deputationen erwarten lässt, so müssen alle Anträge auf Bücherverbote zuerst bei ihnen angebracht und, da solche Verbote so selten als möglich stattfinden müssen, nur im Staatsrathe verfügt werden.</p>
+
+               <p>§ 39- Die Fiscäle, Collegien oder wer sonst es nöthig findet, eine ausser Landes gedruckte Schrift zu verbieten, zeigen dieselbe nebst den Gründen, warum sie auf das Verbot derselben antragen, der Censur-Deputation ihrer Provinz an, und selbst wenn der Antrag zum Verbot von Ministerial-Behörden ausgehen sollte, muss allemal das Gutachten der Censur-Deputation eingefordert werden.</p>
+
+               <p>§ 40Fällt dies gegen das Verbot aus, so kann sich derjenige, welcher darauf antrug, an die Ober-Behörde der Deputation und, ist auch diese demselben entgegen, an den Staatsrath wenden.</p>
+
+               <p>§ 41.</p>
+
+               <p>Tritt dagegen die Censur-Deputation dem Antrage bei, so kann sie sogleich den Verkauf der Schrift für ihre Provinz suspendiren, muss aber unmittelbar davon an die Ober-Behörde Bericht erstatten.</p>
+
+               <pb n="10.64" xml:id="pbX64"/>
+               <p>Ist diese dem Antrag entgegen, so hängt es von der Censur- Deputation ab, ob sie die Suspension aufheben oder sich erst an den Staatsrath wenden will.</p>
+
+               <p>§ 43- Stimmt dagegen die Ober-Behörde für den Antrag, so berichtet sie darüber an den Staatsrath, der alsdann entweder die Suspension des Verkaufs aufhebt oder sie in ein förmliches Ver- bot verwandelt.</p>
+
+               <p>§ 44. Damit aber Sachen dieser Art auf keine Weise verzögert werden, so hört eine verhängte und nicht in ein förmliches Ver- bot verwandelte Suspension des Verkaufs einer Schrift in der Hauptstadt nach drei, in der Provinz aber nach sechs Wochen von selbst auf.</p>
+
+               <p>§45- Bei Flugschriften, periodischen und \^olksblättern, vorzüglich wenn sie von Colporteurs herumgetragen werden, kann und muss die Suspension des Verkaufs gleich von der Obrigkeit des Orts verfügt werden. Jedoch ist letztere gehalten, der Censur-Deputation Anzeige davon zu machen, die alsdann die Sache, wie so eben bestimmt worden, einleitet.</p>
+
+               <p>§46.</p>
+
+               <p>Musicalien, die mit Text versehen sind, werden, wenn sie im Lande gedruckt sind, wie andere Schriften zur Censur vorgelegt. In Ansehung des Verbots der auswärts gedruckten linden die im § 45 über die Volksblätter enthaltenen Bestimmungen statt.</p>
+
+               <p>§ 47- Kupferstiche, Holzschnitte und Steindrucke sind ein Gegenstand der Censur, wenn sie im Lande abgedruckt, nicht, wenn sie bloss darin gestochen oder geschnitten sind. Doch versteht es sich von selbst, dass auch die Probedrucke, die zum Behuf der Arbeit selbst abgezogen werden, nicht ohne Vorlegung zur Censur verkauft oder sonst ausgegeben werden können.</p>
+
+               <p>Von den ausserhalb abgedruckten, aber im Lande verkauften</p>
+
+               <pb n="10.65" xml:id="pbX65"/>
+               <p>S 49- Dieselben A^orschriften (§ 47, 48) gelten von Münzen, welche im Lande selbst geprägt oder nur verkauft werden.</p>
+
+               <p>§ 50.</p>
+
+               <p>Für noch ungedruckte oder ausserhalb Landes herausge- kommene Theaterstücke ist bei dem Königlichen Theater der Hauptstadt die einzige rechtmässige Censur-Behörde die Direction.</p>
+
+               <p>Dieselbe ist dafür der Section des Gultus und öftentlichen Unterrichts und, wenn das gespielte Stück politisch anstössige Stellen enthält, dem Ministerio der auswärtigen Angelegenheiten verantwortlich, kann aber von dem einen und der andern, welchen bloss Suspension zu verfügen zusteht, an den Staatsrath appelliren.</p>
+
+               <p>§ 51Provincial-Theater, insofern sie nicht auf dem Theater der Hauptstadt bereits gegebene Stücke unverändert spielen, müssen die zu spielenden noch ungedruckten oder ausserhalb Landes herausgekommenen Stücke der Censur-Deputation der Provinz vorlegen und haben gegen diese die Rechte und Pflichten der Schriftsteller.</p>
+
+               <p>§ 52.</p>
+
+               <p>Gesellschaftstheater, Ballette, Pantomimen, Puppenspiele, Ausrufe der Marktschreier, ingleichen Zeichnungen, Gemälde, Bildhauerarbeiten und alle solche Kunstproducte, die nicht zu einer grossen Menge venielfältigt werden, sind lediglich Gegenstände der Polizei und gehen die Censur nicht an.</p>
+
+               <p>III. Verfahren.</p>
+
+               <p>§ 53- Die Norm des Censors bei Beurtheilung der ihm zur Censur vorgelegten Schriften bleibt immer der 2. Paragraph des CensurEdicts d. 19. December 1788.*) y Er lautet: „Die Absicht der Censur ist keineswegs, eine anständige, ernst- haße und bescheidene Untersuchung der Wahrheit zu hindern, oder sonst den Schrißstellern irgend einen unnützen und lästigen Zwang aufzidegen, sondern nur vornehmlich demjenigen zu steuern, was wider die allgemeinen Grundsätze der Religion, wider den Staat, und sowohl moralischer als bürgerlicher Ordyxung ent<pb n="10.66" xml:id="pbX66"/>Die Betrachtung, welche ihn hauptsächlich bei seinem ganzen Geschäfte leiten muss, ist, dass das wahre und bleibende Interesse des Staats in der Freiheit der Entwickelung der geistigen Kräfte der Nation besteht und dass ihm selbst das Amt der Beschränkung nur darum aufgetragen ist, damit die gesetzmässige und heilsame Freiheit besser aufrecht gehalten und geschützt werden könne.</p>
+
+               <p>Er darf sich daher keinesweges als einen blossen Fiscal, der niemals durch zu grosse Strenge, wohl aber durch zu grosse Nachsicht fehlen könne, sondern muss sich ebensowohl als einen Vertreter und Vertheidiger der wahren schriftstellerischen Rechte und eigentlich als den Mittelsmann zwischen dem Staate und der Schriftstellerei ansehen, welcher ebensowohl diese gegen jenen, als jenen gegen diese in Schutz zu nehmen bestimmt ist.</p>
+
+               <p>§ 54- Er hat daher, und nicht bloss, wenn ihn ein Schriftsteller in Anspruch nimmt, sondern immerfort und gegen den Staat selbst eine doppelte Verantwortlichkeit auf sich: sowohl die, das Unerlaubte stehen gelassen als, das Erlaubte gestrichen zu haben.</p>
+
+               <p>§ 55- Wo nach den Torhergehenden Bestimmungen mehrere Cen- soren an der Censur Einer Schrift Theil nehmen, ist jeder für seinen Antheil verantwortlich, ohne jedoch da wo sie über dieselbe Stelle entschieden haben, den andern zu entbinden.</p>
+
+               <p>§ 56Die zu censirenden Schriften müssen dem Censor entweder in leserlichen Manuscripten oder in den gedruckten Correcturbogen vorgelegt werden.</p>
+
+               <pb n="10.67" xml:id="pbX67"/>
+               <p>§ 58.</p>
+
+               <p>Die mit dem Imprimatur versehenen Handschriften oder Correcturbogen ist der Drucker verbunden aufzubewahren und jedesmal auf Verfangen vorzuzeigen, wenn er sich nicht gefallen lassen will, dass, ohne ihm den mindesten Gegenbeweis zu verstatten, alles dasjenige gegen ihn für wahr angenommen werde, was der Censor gegen ihn gestrichen zu haben behauptet.</p>
+
+               <p>Diese Verbindlichkeit der Aufbewahrung dauert jedoch nur 6 Monate nach dem Tage des ertheilten Imprimatur, der jedesmal vom Censor hinzugefügt werden muss.</p>
+
+               <p>§ 59'.</p>
+
+               <p>Sobald der ganze Druck der censirten Schrift vollendet worden, ist der Censor verpflichtet, dieselbe noch einmal durchzusehen, um sich zu überzeugen, ob sie wirklich so, und nicht anders, als sie von ihm das Imprimatur erhalten, abgedruckt worden ist.</p>
+
+               <p>§ &lt;^o. Ob eine Schrift auf einmal ganz oder bogenweis zur Censur vorgelegt werden soll? hängt von dem Censor ab. Doch hat er das Letztere allemal da nachzugeben, wo es für die Beurtheilung der Schrift offenbar gleichgültig und unbedenklich ist; sowie er überhaupt, ausser der höheren Verpflichtung gegen die Schriftsteller, die gegen die Buchhändler und Buchdrucker hat, alles Mögliche zu ihrer Erleichterung zu thun, was ohne Vernachlässigung des Hauptzwecks möglich ist.</p>
+
+               <p>§ 61. Der Censor darf einen Bogen nicht über 24 Stunden, eine Handschrift von einem gedruckten Alphabet nicht über 8 Tage aufhalten. Für stärkere Handschriften wachsen die Fristen. Auch werden die Fristen doppelt, wenn die Censoren die Zustimmung ihrer Oberbehörde einzuziehen für gut finden. In den Provinzen muss in diesem letzteren Fall zu dieser Frist noch die Zeit des Hin- und Herlaufens der Briefe hinzukommen.</p>
+
+               <p>§ 62. Zeitungen und Flugschriften ausgenommen, darf der Censor in Handschriften nicht durch-, sondern nur anstreichen.</p>
+
+               <pb n="10.68" xml:id="pbX68"/>
+               <p>§ 63- Gründe eines verweigerten Imprimatur ist er nur seiner Oberbehörde anzugeben verbunden. Wo er jedoch glauben kann, dass es von Nutzen sein werde, muss er es sich zur Maxime machen, es zu thun, sowie auch da, wo er nicht die ganze Schrift, sondern nur einzelne Stellen verwirft, selbst mit den Schriftstellern zu reden, zu versuchen, ob sie selbst Abänderungen vornehmen wollen, und nur erst, wenn diese Versuche fruchtlos ausfallen, sein eigentliches Censor-Amt eintreten zu lassen, auch überhaupt alles Mögliche zu thun, um die Censur in gutem A^ernehmen mit den Schriftstellern zu erhalten.</p>
+
+               <p>§ 64. Nach Ertheilung des Imprimatur können nur noch solche Aenderungen in der Handschrift vorgenommen werden, die bloss den Stil angehen und für den Sinn durchaus unbedeutend sind. Sonst müssen Umänderungen noch einmal zur Censur vorgelegt werden.</p>
+
+               <p>Doch kommt auch hier alles auf ein vertrauliches Abkommen mit dem Censor und die mehr oder minder erprüfte Gesinnung des Schriftstellers an.</p>
+
+               <p>§65. Für jeden censirten gedruckten Bogen erhält der Censor 4 Gr. und nach dem Erscheinen des Werks ein vollständiges und reinliches Exemplar. Für die politischen Zeitungen wird für die Correctur ein jährliches Aversional-Quantum bestimmt.</p>
+
+               <p>Er hat das Recht, einem Buchdrucker, A^erleger oder Schrift- steller die Censur eines ihm vorgelegten Werks so lange zu verweigern, bis er von diesem Buchdrucker, Verleger oder Schriftsteller für alle sonst für ihn censirte Schriften vollständig befriedigt ist.</p>
+
+               <p>§ 66. Diese Remuneration erhält allemal derjenige Censor, welcher wirklich die ganze Schrift censirt hat. Sollte er zu einzelnen Stellen einen anderen zugezogen haben, so muss dieser die Censur dieser Stellen aus Amtspflicht unentgeltlich übernehmen.</p>
+
+               <p>§ 67- Jeder Censor hält über die ihm zur Censur vorgelegten Bücher</p>
+
+               <pb n="10.69" xml:id="pbX69"/>
+               <p>2. Der Name des Druckers, Verlegers und Schriftstellers, wenn sie bekannt sind, sonst des Einsenders, insofern nicht auch dieser sich nicht genannt hat. 3. Ob das Imprimatur ganz oder zum Theil verweigert w^orden ?</p>
+
+               <p>4. Aus welchen Gründen? Diese Listen werden von jedem Censor monatlich aus Berhn und den Provinzen an seine Oberbehörde eingesandt, damit diese die von ihm beobachteten Grundsätze einigermassen beurtheilen und ihn nöthigenfalls, auch wo keine Beschwerde gegen ihn ge- führt worden ist, zurechtweisen kann.</p>
+
+               <p>§ 68.</p>
+
+               <p>Die subsidiarischen Censoren theilen ihre Listen den Censur- Deputationen zur Einsendung mit.</p>
+
+               <p>§69. Die oberen Censurbehörden überreichen aus diesen Listen alljährlich dem Staatsrath ein allgemeines Tableau, aus welchem sich die Zahl der im Lande gedruckten Schriften, der Zustand der Pressfreiheit und die Bescheidenheit oder Unbescheidenheit der Schriftsteller, sowie die Veränderungen, welche Zeiten und Begebenheiten hierin her\-orbringen, übersehen lassen. IV. Rechte und Pflichten der Drucker, Verleger und Schriftsteller.</p>
+
+               <p>§ 70Die Pflicht, eine Schrift zur Censur vorzulegen, liegt allein dem Drucker und Verleger, wenn dieser ein inländischer ist, ob, und der \^erfasser kann wegen Unterlassung derselben nicht in Anspruch genommen werden, er müsste denn absichtlich dazu mitgewirkt haben.</p>
+
+               <p>§ 71Für die blosse Unterlassung der Vorlegung einer Schrift zur Censur wird, ohne Rücksicht auf den Inhalt, jeder, der Verleger und Drucker, mit einer Strafe von 20 bis 100 Rthlr. belegt, und</p>
+
+               <pb n="10.70" xml:id="pbX70"/>
+               <p>Es haften jedoch auswärtige Verleger, welche auch preussische Unterthanen sind, nicht für die Schuld des Druckers, wenn er die Vorlegung 2ur Censur versäumt hat und sie hieran keinen Theil genommen haben. Sowohl in diesem Falle als wenn der Verleger ein Ausländer ist, muss der Drucker die Strafe doppelt tragen.*}</p>
+
+               <p>§ 74- Ist die Schrift von der Art, dass sie, zur Censur vorgelegt, das Imprimatur nicht erhalten haben würde, so müssen, wenn die Schrift noch nicht ausgegeben ist, ausser jener Strafe, Drucker und Verleger in solidum die Umdruckung der anstössigen Stellen oder die Vernichtung der ganzen Auflage tragen.</p>
+
+               <p>§ 75- Ist die Schrift bereits ausgegeben, so werden beide noch ausserdem in eine fiscalische Strafe genommen, welche nach Be- wandniss der Umstände geringer oder grösser sein kann, aber niemals den doppelten Ladenpreis der ganzen Auflage übersteigen darf. Für diese Strafe haften beide in solidum.</p>
+            </div>
+
+            <div type="section" n="7">
+               <head>
+                  <title type="main">§ 7Ö.</title>
+               </head>
+               <p>Für Veränderungen, welche nach Ertheilung des Imprimatur gemacht worden, ist der Verfasser mit dem Drucker und Verleger zugleich verantwortlich, da er vorzüglich zu beurtheilen im Stande ist, ob dieselben eine neue A^orlegung zur Censur nöthig machen. Er tritt alsdann in gleiches \^erhältniss mit ihnen, haftet mit ihnen in solidum, und die Bestimmungen des 70. bis 75. Paragraphen werden ebenmässig auf ihn angewandt.</p>
+
+               <p>§ 77- Macht ein anderer als der Verfasser Änderungen in der Handschrift, so findet auf ihn das von dem Verfasser Gesagte An- wendung.</p>
+
+               <p>§ 78.</p>
+
+               <p>Entsteht ein Streit darüber, ob eine Stelle schon zur Zeit des ertheilten Imprimatur in der Handschrift gestanden oder nicht, so</p>
+
+               <p>V § 1~ ^"^/^ ursprünglich: „Der Vei'leger I:ann sich dieser Strafe yiicht da- durch entziehen, dass er beweist, dem Drucker die Besorgung des Imprimatur<pb n="10.71" xml:id="pbX71"/> gilt*) die rechtliche Vermuthung für die verneinende Versicherung des Censors, wenn nicht Drucker, Verleger und Verfasser das Gegentheil ausdrücklich und klar erweisen.</p>
+
+               <p>§ 79- Wollen sich die letzteren hiergegen verwahren, so steht es ihnen frei, zwei Exemplare zur Censur vorzulegen, von welchen das eine alsdann bei dem Censor verbleibt.</p>
+
+               <p>§ 80. Alle Strafanträge in den vom 71. Paragraphen an bestimmten Fällen geschehen durch das Departem.ent der auswärtigen Angelegen- heiten oder die Section des Cultus und öffentlichen Unterrichts und werden durch eine summarische fiscalische Untersuchung entschieden.</p>
+
+               <p>§81.</p>
+
+               <p>Insofern bei diesen Untersuchungen die Frage zu entscheiden ist: ob eine Schrift oder eine nach Ertheilung des Imprimatur abgeänderte Stelle die Censur passirt haben würde, tritt alles dasjenige ein, was sogleich von dem Recurse gegen die Censur selbst gesagt werden wird.</p>
+
+               <p>§ 82. Alle so eben bestimmten Strafen betreffen allein den vernachlässigten Gehorsam gegen die Censur-Behörden. Es versteht sich daher von selbst, dass, wenn durch eine Schrift andere Pflichten gegen den Staat oder dessen Mitglieder verletzt sind, Verfasser, ^^erleger und Drucker für solche Vergehungen noch ausserdem insofern andenveitig in Anspruch genommen werden können, als dieselben ihnen, den allgemeinen Vorschriften der Gesetze nach, imputirt werden können.</p>
+
+               <p>§ 83. Beschwerden gegen die Censoren können entweder wegen des erschwerten oder versteigerten oder wegen des ertheilten Imprimatur geführt werden. Die ersteren stehen den Druckern, Verlegern und Verfassern, die letzteren einem jeden frei, welcher sich durch eine im Lande gedruckte Schrift beleidigt glaubt ; ausserdem aber vorzüglich den Königlichen Collegien, wenn sie die Rechte des Staats gekränkt oder sein Wohl gefährdet halten.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

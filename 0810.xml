@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vierzehnte olympische Ode</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Achter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif08humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1909">1909</date>
+                  </imprint>
+                  <biblScope unit="page" from="73" to="74"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1794">1794</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="8.73" xml:id="pbVIII73"/>
+            <head>
+               <title type="main">g. Vierzehnte Olympische Ode.</title>
+            </head>
+            <p>An Asopichos, aus Orchomenos, der als Kind im Laufe gesiegt hatte.</p>
+
+            <p>1. Strophe.</p>
+
+            <p>Die Ihr Kephisos Gewässer umwohnt — denn dieses rosseprangende Land ward Euch zum Sitz verliehn — vielgepriesene Königinnen des glänzenden Orchomenos, Charitinnen, Beschützerinnen 5 des alten Minyerstamms, hört,^) ich flehe zu Euch. Denn durch Euch wird den Sterblichen alles Süsse und Liebliche, wenn weise ein Mann, wenn er schön, wenn er glänzend ist. lo Auch die Götter begehen, ohne die erhabenen Charitinnen, nimmer weder den Reigen, noch das Mahl. Aller Dinge Schafnerinnen im Himmel, 15 stellen neben den bogenbewafneten</p>
+
+            <p>Pythischen Phoebos sie ihre Throne, und feiern des Olympischen Vaters nimmerversiegenden Preis.</p>
+
+            <p>2. Strophe.</p>
+
+            <p>Hehre Aglaia und gesangUebende 20 Euphrosyne Du, Töchter des mächtigsten Handschriß: Reinschrift (vgl. oben S. 2) S. 84—85- Außerdem ist ein Entwurf (2 Oktavseiten) erhalten. — Erster Druck: Wilhelm von Humboldts Gesammelte Werke 2, 282—28^ (1841). V Nach „hört'' gestrichen: „denn".</p>
+
+            <pb n="8.74" xml:id="pbVIII74"/>
+            <p>unter den Göttern, höret mich jetzt, und Du Freundin des Lieds, Thalia, sehend diesen festUchen Chor leicht dahin ob dem heiter lächelnden Glücke schreiten. 25 Denn in Lydischer Weis', im lang geübten Gesänge den Asopichos feiernd, komm' ich, da in Olympia Siegerin ist die ^) Minj^er-Stadt durch Dich. Zu dem schwarzummauerten Hause der Persephone gehe mir, Echo, 30 bringend dem Vater die herrliche Botschaft, dass Kleodamos Du sehend den Sohn ihm verkündest, wie in der hochberühmten</p>
+
+            <p>Pisa busigten Thälern er mit des ruhmvollen Sieges Fittig 35 kränzte sein jugendlich Haar.<note type="footnote" n="*)" resp="gnd-116890657"><hi>V „die" verbessert aus „der".</hi></note></p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Instruktion für den Herrn General- Lieutnant von Zastrow Excellenz</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Elfter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif11humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1904">1904</date>
+                  </imprint>
+                  <biblScope unit="page" from="323" to="326"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="11.323" xml:id="pbXI323"/>
+            <p>on pourra neanmoins faire un grand pas vers la libcrte gendrale de la navigation des riviercs. On pourra inviicr les puissances c|ui signeront Tacte g^ndral et final du congrcs, ä s'cngager muiu- ellemcnt a convenir le plutöt possible, tant enir'clles qu'avcc d'autrcs, d'arrangcmcns sur la libcrt^ de la navigation de Celles de rivicres de Icurs etats qui Icur sont communes avec d'autres, ainsi qu'on a coutumc de prcndre, dans des iraitcs de paix, l'engagement de conclure des traites de commerce. Pour öter ensuite i\ cet engagement le vague qui pourrait le rendre illusoirc, on devra de plus inviter les puissances a declarer d'une maniere positive et obligatoire, que les principes qui seront etablis comme entierement generaux, et qui sont ceux mentionncs ad I, formeront les bases de tous ces arrangemens, a mesure qu'on paniendra ä les conclure.</p>
+
+            <p>Voila ä quoi, selon moi, la commission devra se borner. Vouloir aller plus loin ä cet egard, et vouloir ajouter plus de modifications aux principes, serait s'exposer infailliblement a ne rien faire du tout.</p>
+
+            <p>a Vienne, le ;^ fevrier 1815.</p>
+
+            <p>Humboldt.</p>
+
+            <head>
+               <title type="main">LXII. Instruktion für den Herrn General-Lieutenant von Zastrow Excellenz.</title>
+            </head>
+            <p>31. März i^^i^. (Eigenhändiger Entwurf im Geh. Staatsjrciiiy.)</p>
+
+            <p>Wien, den 31. März, 1S15.</p>
+
+            <p>In dem Augenblicke, als des Herrn General-Lieutenant von Zastrow Kxcellenz den Befehl erhielt, sich an den Kurfürstlichen Hessischen und andere deutsche Höfe zu begeben, um mit denselben die nöthigen militärischen Verabredungen in dem gegenwärtigen Kriege zu rechnen, schien es nicht, als würde hier eine allgemeine l'ebereinkunft über diese Angelegenheit zu Stande kommen. Seitdem aber hat die Mehrzahl der nicht Königlichen<pb n="11.324" xml:id="pbXI324"/> Hülfe ZU diesem Kampfe angeboten, und sie sind hierauf förmlich eingeladen worden, dem ;^vvischen Preussen, Oesterreich, England und Russland geschlossenen Allianztractat beizutreten. Die deshalb erlassene Note*) sowie der tractat*) selbst werden der gegen- wärtigen Instruction beigefügt. Da nun also mit diesen Fürsten, unter welchen sich namentlich der Kurfürst von Hessen befindet, hier unterhandelt werden wird, so kommt es vorzüglich darauf an, nicht nur jeden Uebelstand zu vermeiden, welcher aus einer doppelten Unterhandlung entstehen könnte, sondern auch die hiesigen Unterhandlungen dort zu unterstützen und ihnen, da sie hier nur allgemein und in Rücksicht auf alle Allane und die ganze Kriegführung betrachtet werden können, eine so günstige Wendung, als möglich, für Preussen insbesondere zu geben.</p>
+
+            <p>Der Gesichtspunkt Preussens muss immer dahin gerichtet seyn, die Fürsten Norddeutschlands nicht bloss so eng, sondern auch so ausschliesslich, als möglich, an sich zu knüpfen, dies aber nur durch Mittel, wodurch ihr freier Wille gewonnen wird, und zu Zwecken, die Deutschland und ihnen selbst nützlich sind, zu bewirken. Beides Letztere ist um so nothwendiger, als noch bis auf diesen Augenblick kein Bund in Deutschland vorhanden ist, das Recht der Fürsten, sobald sie nur den gemeinschaftlichen Endzweck verfolgen, unabhängig zu handeln, nicht angefochten werden kann, oder wenigstens, wenn man mit Erfolg handeln will, nicht zur Sprache gebracht werden muss, und als selbst bey dem künftigen Bunde, doch nur ein Theil, wenn gleich der bedeutendste, der Norddeutschen Fürsten in militärischer Hinsicht an Preussen angeschlossen werden würde. Dies wird hinreichen, um den General-Major (?) von Zastrow immer die richtige Sprache gegen die Fürsten führen zu lassen, und es dahin zu bringen, dass sie den Einfluss des Preussischen Hofes nicht als eine sich ihnen aui"- drängende Herrschaft, sondern als einen Schutz ansehn, an den sie sich vertrauensvoll anschliessen können. Das Verhältniss, das im letzten Kriege z\\ischen Preussen und den Norddeutschen Fürsten bestanden hat, und für die Truppen eines Theils derselben noch besteht, wird leicht den Weg bahnen, die jetzt gewünschten \''erhältnisse nur als eine Fortsetzung der vorigen zu betrachten.<pb n="11.325" xml:id="pbXI325"/> gän;'lich beendigt ist.<note type="footnote" n="l)" resp="gnd-116890657"><hi>a der Kiirlürst unstreitig schon von den hiesigen X'crhand- lungen unterrichtet seyn wird, so wird es angemessen seyn, die ersten l\ri)lnungen damit zu maclien, dass der König ihn deswegen an Se. Kurfürstliche Durchlaucht gesandt habe, weil Sr. Majestät daran gelegen sev, noch unmittelbarere Verhältnisse mit Hessen anzuknüpfen, dass Se. Majestät nichts verabreden, noch festsetzen wolle, was nicht in Uebcreinstimmung mit den allgemeinen \'cr- übredungcn stehe, dass aber sowohl auf den Fall, dass diese nur unvollständig gelingen sollten, als über einzelne, nur Preussen und Hessen angehende Punkte, besondere gemeinschaftliche \'cr- fügungen nützlich seyn könnten.</hi></note></p>
+
+            <p>Hiernach wären vorzüglich die Gesinnungen des Kurfürsten über die Art der Kriegführung, die Zahl und Anordnung seiner stehenden Truppen und der Landwehr, seine Ideen über ihr (Kommando u. s. f. zu erfahren, und in Allem diesem auf das gemeinschaftliche und auf das besondere Preussische Interesse hinzuarbeiten. Sollte, wie wohl zu erwanen steht, der Kurfürst nicht geneigt sevn, über diese Gegenstände in (Kassel abzuschliessen, so würde es nur \'erdacht erregen und unnütz beunruhigen, wenn man darauf dringen wollte. Zeigte er aber günstiger Weise die entgegengesetzte Stimmung, böte er an, seine Truppen aut jeden Fall nur mit den unsrigen agiren zu lassen (und das müsste man durch jedes schickliche Mittel zu befördern suchen) so könnte auch don eine (Konvention abgeschlossen werden, bei welcher doch immer die Aenderungen vorbehalten bleiben müssten, welche die allgemeinen \'erabredungen hier nothwendig machen könnten. Dabei könnten die beiden dem Francfurtcr Tractat beigefügten Piccen,*) von welchen hier Abschrift erfolgt, zur (Grundlage dienen, der Abänderungen unbeschadet, welche die Umstände nothwendig machen. Zu diesen Abänderungen gehört vorzüglich die, womit gleich die ersten Kröfnungen anfangen müssten, dass man fühle, dass der Kurfürst nicht wieder ein so starkes (Kontingent, als das erstemal, stellen könne.<pb n="11.326" xml:id="pbXI326"/> IVcussischen General; und hierzu ist vor Allen der Grund in Betrachtung 7.VI bringen, dass die von Frankreich her drohende Gefahr über alle Massen dringend ist, dass sie nächst Preussen, am meisten Hessen selbst bedroht, dass auch hierin das Interesse beider Höfe auf das engste verbunden ist, und dass der Kurfürst nur, wenn seine Truppen mit den Preussischen verbunden werden, die Sicherheit hat, dass sie nie da gebraucht w^erden, w^o sie nicht auch unmittelbar zur A'ertheidigung Hessens selbst dienen. Dieser Gesichtspunkt muss bei dem Kurfürsten, wenn er sein wichtigstes Interesse nicht vernachlässigen will, der vorherrschende se3^n.</p>
+
+            <p>Bei dieser Gelegenheit ist ein Umstand zu berühren, w^elcher jedoch zur grossesten Behutsamkeit und \^erschwiegenheit empfohlen werden muss. Der additionelle und separirte Artikel des tractats, welcher, als ein geheimer, schlechterdings nicht zur Kenntniss des Kurfürsten kommen muss, selbst vv^enn man die Sache im Allgemeinen von hier aus erfahren hätte, stipulirt, dass England, um die von ihm zu stellende Truppenzahl zu vervollständigen, fremde Truppen in Sold nehmen will, und den schon gemachten Aeusserungen zufolge, ist es nicht umvahrscheinlich, dass England hierbei vorzüglich auf Deutsche, und namentlich auf die Kurfürstlich Hessischen zählt. Dies wäre nun auf eine geschickte Weise, wTnn es irgend geschehen kann, zu hintertreiben, da es unserm Interesse entgegen ist; doch müsste es mit Behutsamkeit gemacht werden, um nicht bei England, dessen Geneigtheit uns aus andern Gründen so wichtig ist, Misfallen zu erregen.</p>
+
+            <p>Das Erste wäre nun, zu erforschen, ob der Kurfürst hiervon bereits Kenntniss hat, ob er darauf ausgeht, eine solche Gelegen- heit, Subsidien zu erhalten, zu benutzen, und ob er vielleicht schon Schritte, und welcher deshalb gethan? Sollte er wirklich diesen Weg verfolgen, so würde ihm zuerst zu sagen seyn, dass England sich schon anheischig gemacht habe, nicht einzeln, sondern nur mit gemeinsamen Einverständniss über diese Hülfstruppen zu unterhandeln, und der Kurfürst auch von seiner Seite nicht werde von den hier zu treffenden allgemeinen Bestimmungen abgehen können. Dann aber ist ihm die oben gemachte Betrachtung von der Gefahr seines Landes ans Herz zu legen, und ihm zu über-</p>
+         </div>
+      </body>
+   </text>
+</TEI>

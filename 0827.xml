@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lucretius' De rerum natura</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Achter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif08humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1909">1909</date>
+                  </imprint>
+                  <biblScope unit="page" from="267" to="269"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1816">1816</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="8.267" xml:id="pbVIII267"/>
+            <p>8. Lucretius' De verum natura.</p>
+
+            <p>Mutter der Aeneaden, der Sterblichen Lust und der Götter, Nährerin Venus, die unter den sinkenden Zeichen des Himmels du das umsegelte Meer, du die fruchtaufschiessenden <note type="footnote" n="^)" resp="gnd-116890657"><hi>wieder entbunden Favonius Hauch weht, Zeugung befördernd, luftdurchwirbelnd verkünden zuerst dich die Vögel und deinen Eintritt, Göttin, getroffen die Herzen von deiner Gewalt Macht. Drauf durchschweifen die Thiere des Waldes die freudigen Weiden,</hi></note> Länder feiernd umwohnst, da durch dich die Geschlechte der Lebenden alle werden empfangen, und schaun, an das Licht vortretend, die</p>
+
+            <p>Sonne. Dich, Unsterbliche, 2) fliehet der Sturm, dich die Nebel des Himmels, und dein herrliches Kommen; dir spriesst buntprangend '^j die Erde liebliche Blumen empor, dir lachen gelagert die Fluten, und mild glänzt dir *) mit heiter ergossenem Lichte '"") der Himmel. Denn gleich, als das Erscheinen des Frühlingstages sich aufthut, Hatidschrift ohne Titel (i Folioseite) im Archiv in Tegel.<pb n="8.268" xml:id="pbVIII268"/> 15 und durchschwimmen des Stroms Flut; also von Deinem<note type="footnote" n="*)" resp="gnd-116890657"><hi>V „fruchtaufschiessenden" verbessert aus „fruchtaufsp riessenden". <note>„spriesst bunlprangend" verbessert aus „spriesset die üppig geschm[iickte]". *■) „glänzt dir" verbessert aus „glänzet". ^) „Lichte" verbessert aus „Licht dir".</note> „Unsterbliche" verbessert aus „Göttliche, dich" aus „Himmlische, dich" aus „Göttin, dich". "J Vor „wieder" gestrichen: „und".</hi></note></p>
+
+            <p>Gelüste und Lockungen gefesselt nun jede Natur der Lebendgen <note type="footnote" n="^)" resp="gnd-116890657"><hi>„leih, Himmlische, darum" verbessert aus „drum gieb, 0 Göttin". *) „gieb" verbessert aus „mach indess". ^) „0" verbessert aus „er". ^) Nach „ihm" gestrichen: „0".</hi></note> folgt dir begierig, wohin du Jede zu führen vorangehst.</p>
+
+            <p>Endlich durch Aleer' und Gebirge, die wild hintosenden Flüsse, blätterumlaubeten Sitze der Vögel, und grünenden Felder 20 allen erfüllend den Busen mit sanft holdseliger Liebe, machest du, dass sie begierig die Zeit fortpflanzen geschlecht- weis. Weil allwaltend allein die Natur du der Dinge beherrschest, und nichts, ohne dich, je an die göttlichen Küsten des Lichtes steiget empor, nichts Freudiges wird, nichts würdig der Liebe, 25 tracht' als Genossin ich dich der zu schreibenden Verse zu haben, die von der Dinge Natur ich zu dichten im Sinne bemüht bin unserem Memmiaden, den, Göttin, zu jeglicher Stunde glänzen du lassen geschmückt reich wolltest mit jeglicher Gabe.-) Mehr leih. Himmlische, darum =^) den Worten unsterbliche Anmuth; 30 gieb '*) huldvoll, dass indessen das wilde Getümmel des Kriegs- diensts ruhe gefesselt in Schlaf weit über das Meer und die Veste. Denn du einzig vermagst es, mit ruhigem Frieden die Menschen mild zu erfreun, da das wilde Getümmel des Krieges regieret Mavors, der Waffengewaltge, der oftmals Dir in den Schooss sich 35 senkt, dir mir evv'iger Lieb' unheilbarer Wunde verbunden; und aufschauend zu dir so, den Nacken, den schlanken, ge- lehnet, weidet, o •''') Göttin, verloren in dich die verlangenden Blicke, und mit dem Odem dir hängt rückübergebeugt er am Munde.</p>
+
+            <p>Von ihm,") Himmlische, wenn er auf deinem geheiligten Leib ruht,</p>
+
+            <p>'j Über diesen Vers, der in den neueren Texten seit Lachmann fehlt, vgl. seine Anmerkung zu i, 14 — 16.</p>
+
+            <p>y „mit jeglicher Gabe" verbessert aus „in jeglichem Dinge".<pb n="8.269" xml:id="pbVIII269"/> 40 über ihn ^) liebend ergossen, und süsses Gespräch von den</p>
+
+            <p>Lippen träufelnd, erflehe -) du Hehre den Römern gefälligen Frieden. Denn nicht treiben dies können bei sorglichen Zeiten der</p>
+
+            <p>Heimath wir sorglosen Gemüthes, noch Memmius herrlicher Sprössling fehlen gemeinsamem Heile bei also gestalteten Dingen.<note type="footnote" n="*)" resp="gnd-116890657"><hi>V „über ihn" verbessert aus „rings um ihn voyi oben". ^) „erßehe" verbessert aus „ßehe".</hi></note></p>
+         </div>
+      </body>
+   </text>
+</TEI>

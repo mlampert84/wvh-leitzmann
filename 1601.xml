@@ -1,0 +1,1431 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Als preußischer Resident in Rom 1802— 1808</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Sechzehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif16humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1903">1903</date>
+                  </imprint>
+                  <biblScope unit="page" from="1" to="66"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1802">1802</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="16.1" xml:id="pbXVI1"/>
+            <head>
+               <title type="main">I. An Alvensleben?^) Tegel, 24. April 1802</title>
+            </head>
+            <p>G. St. A. Rep. g,Z lit. Z, fasz. 9; 2 eigenh. Quartseiten, beschädigt.</p>
+
+            <p>Monsieur,</p>
+
+            <p>Votre Excellence pardonnera que jeprens lalibertedem'addresser encore une fois [a\ **) Elle touchant la place de Resident ä Rome dont Elle me daigna parier 11 y a quelques semaines. J'ai muri pendant le tems que je n'ai pas eü l'honneur de voir Votre Excellence, l'idee*) que j'avois prise de m'offrir ä Elle pour ce poste; et j'avoue*) que, malgre qu'il paroisse plutot penible qu'avantageux, je trouve qu'il conviendroit tres-fort ä mon but particulier*^) et s'accorderoit avec le pro j et que j'avois forme de faire un voyage en Italic et de passer quelques annees ä Rome. J'aime aussi ä me f latter que Sa Majeste daigneroit peut-etre agreer une ou autre des modifications que Votre Excellence vouloit avoir la bonte de Lui proposer et je gagnerois en tout cas d'etre entre dans la carriere, ce qui dans ce moment ne paroit gueres facile.</p>
+
+            <p>J'ose par ces raisons supplier Votre Excellence de daigner se res- souvenir de la promesse qu'Elle a bien voulü me faire, alors qu'il sera question de remplacer Monsieur Uhden et de me proposer ä Sa Majeste pour cet effet. Les marques de bienveillance et de bonte dont il a plü ä Votre Excellence de me combler*) ä cette occasion, m'inspirent la confiance certaine qu'Elle daignera m'accorder cette demande, et je crois pouvoir Lui promettre que je ne negligerai<pb n="16.2" xml:id="pbXVI2"/> Jamals rien pour tächer de meriter Ses suffrages en remplissant tous les devoirs de mon poste avec l'exactitude la plus scrupuleuse.<note type="footnote" n="1)" resp="gnd-118554727"><hi>Bei den außenpolitischen Briefen Humboldts an die Leiter des auswärtigen Departements ist nicht mit Sicherheit zu entscheiden, ob Alvensleben oder Haug- witz, beide sind zugleich Grafen, Empfänger ist; doch scheint A . aus einigen Gründen eher in Frage zu kommen.</hi></note></p>
+
+            <p>Je suis avec le respect le plus profond,</p>
+
+            <p>Monsieur, de Votre Excellence le tres-humble et tres-obeissant serviteur</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">ä Tegel ce 24. Avril 1802 de Humboldt</title>
+               </head>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">2. An Frau von Berg Tegel, 4. Mai 1802</title>
+               </head>
+               <p>Weimar, Goethe-Schiller-Archiv ; Humboldts Briefe an Frau von Berg; 3 eigenh. Quartseiten.</p>
+
+               <p>Empfiehlt den gemeinsamen Freund Bielfeld in Haag Frau von Bergs Fürsprache.</p>
+            </div>
+
+            <div type="section" n="3">
+               <head>
+                  <title type="main">3. An Alvenslehen? 9. August 1802</title>
+               </head>
+               <p>G. St. A. Rep. g, Z lit. Z, fasz. 9; i eigenh. Quartseite.</p>
+
+               <p>Dank für die Nachricht von der neuen Gunst des Königs<note type="footnote" n="^)" resp="gnd-116890657"><hi>Wohl die Verleihung der Kammerherrnwürde.</hi></note> und den Besuch in Tegel.</p>
+            </div>
+
+            <div type="section" n="4">
+               <head>
+                  <title type="main">4. An den König Berlin, 18. August 1802</title>
+               </head>
+               <p>Charlottenburg, Hausarchiv , Kammerherrn-Specialia Rep. VIII; I eigenh. Folioseite.</p>
+
+               <p>Dank für die Ernennung zum Kammerherrn^) .</p>
+            </div>
+
+            <div type="section" n="5">
+               <head>
+                  <title type="main">5. An Alvenslehen? 21. August 1802</title>
+               </head>
+               <p>G. St. A. Rep. 9, Z lit. Z, fasz. 9; 2 eigenh. Quartseiten.</p>
+
+               <p>Monsieur le Comte,</p>
+
+               <p>Je viens de recevoir les rapports generaux sur l'etat de quelques cours de l'Europe que Votre Excellence a daigne m'addresser. Je lui ai des obligations infinies de ce qu'EUe ait eü la bonte de me les<pb n="16.3" xml:id="pbXVI3"/> communiquer; car quelque avantageuse que soit l'idee que Votre Excellence a bien voulü concevoir de moi, il est toujours tres-utile d'avoir des modeles par devant soi, et j'ai dejä vü en parcourant aujourd'hui ces differentes relations qu'elles renferment des notices egalement instructives et interessantes.<note type="footnote" n="2)" resp="gnd-118554727"><hi>Von Alvenslehen am 2. August beantragt, vom König am 10. August be- stätigt.</hi></note></p>
+
+               <p>Je desire vivement que la proposition que Votre Excellence a bien voulü faire au Roi par rapport ä mon voyage n'eprouve pas de difficultes et il me semble en effet qu'ayant egard au grand nombre de Catholiques que le Roi compte actuellement parmi ses sujets, le sacrifice de la somme indiquee pour le poste de Rome n'est pas trop considerable<note type="footnote" n="^)" resp="gnd-116890657"><hi>Humboldt erhielt 1800 Talev Gehalt mehr als Uhden.</hi></note> . Del'autre cote cette somme suffira ä. mes besoins et je serai entierement satisfait, si S. M. veut bien me l'accorder. Quelque resolution cependant qu'Elle voudra prendre ä cet egard, je n'en reconnoitrai pas moins avec la plus vive reconnoissance la faveur que Votre Excellence a daigne me temoigner aussi en cette occasion. J'ose meme Lasupplier d'enagreer l'assuranced'avanceet...</p>
+            </div>
+
+            <div type="section" n="6">
+               <head>
+                  <title type="main">ce 21. Aout, 1802 Humboldt</title>
+               </head>
+            </div>
+
+            <div type="section" n="7">
+               <head>
+                  <title type="main">6. An Alvenslehen? Tegel, 2y. August 1802</title>
+               </head>
+               <p>G. St. A. Rep. 9, Z lit. Z, fasz. 9; 3 eigenh. Quartseiten.</p>
+
+               <p>Ew. Excellenz muß ich unterthänigst um Verzeihung bitten, daß ich die mir gnädigst mitgetheilten Acten bis heute bei mir behalten habe. Ich hatte mir aber vorgenommen, sie Ew. Excellenz morgen früh selbst zu überbringen. Da ich aus Ew. Excellenz gnädigem Schreiben vom heutigen dato aber ersehe, daß Sie dieselben sogleich brauchen, so eile ich sie hierbei durch einen Expressen zu übersenden.</p>
+
+               <p>Ich habe dieselben mit dem größesten Interesse durchgelesen, und vorzüglich ist es mir unendlich schätzbar gewesen, in dem das General Rescript d. d. 12. Aug. 1791. enthaltenden Volumen den Entwurf zu finden, den Ew. ExceUenz dazu aufgesetzt haben. Er hat mir dazu gedient, den von Ihnen dabei beabsichteten Zweck genauer einzusehen, und es wird mir nunmehr künftig besser gelingen können, demselben Genüge zu leisten.</p>
+
+               <p>Arbeiten dieser Art sind nicht nur vortrefflich, um einen neu<pb n="16.4" xml:id="pbXVI4"/> genommen sind, auf welchen der Gesandte seine Aufmerksamkeit richten soll, so ließe sich sowohl für den Handel, als die Industrie und die gesammte innere Administration aus diesen Berichten noch ein sehr bedeutender Vortheil ziehen.</p>
+
+               <p>Auf diese Weise gehört die Veranlassung dieser General-Berichte zu der allgemeinen Idee, von der Ew. Excellenz die Gnade hatten, einigemal mit mir zu sprechen, in den Kreis der gewöhnlichen poli- tischen Correspondenz noch einige sich weiter erstreckende Arbeiten aufzunehmen, oder vielmehr, wie es immer der FaU seyn sollte, die politischen Fragen aus den höchsten und auf alle wesentliche Staatsverhältnisse gegründeten Gesichtspunkten zu beurtheilen. Je wichtiger diese Idee ist, desto schmeichelhafter muß es seyn, an der Aus- führung derselben mit zu arbeiten, und wenn ich es gewagt habe, Ew. Excellenz meine eigne Meynung über diese Arbeiten zu sagen, so geschah es nur, um Ihnen zu zeigen, wie sehr ich den Nutzen derselben erkenne, und mit welchem Vergnügen ich sie auch, wenn ich irgend Gelegenheit dazu habe, über andre Italiänische Staaten, als gerade den Kirchenstaat, machen werde.</p>
+
+               <p>Ich habe mich zugleich in diesen Tagen mit den Acten die Preuß : Schiff arth im Mittelländischen Meere betreffend beschäftigt. Da der größte Theil dieser Correspondenz durch Königl. Agenten in Italien gegangen ist, schien mir dieser Gegenstand für meinen Posten nicht unwichtig zu seyn.</p>
+
+               <p>Ich behalte mir die Erlaubniß vor Ew. Excellenz morgen früh selbst um Ihre Befehle zu befragen und habe die Ehre indeß mit der unwandelbarsten Ehrerbietung und Anhänglichkeit zu verharren</p>
+            </div>
+
+            <div type="section" n="8">
+               <head>
+                  <title type="main">Ew. Excellenz</title>
+               </head>
+            </div>
+
+            <div type="section" n="9">
+               <head>
+                  <title type="main">gehorsamster</title>
+               </head>
+            </div>
+
+            <div type="section" n="10">
+               <head>
+                  <title type="main">Humboldt</title>
+               </head>
+               <p>Tegel, 27. Aug. 1802</p>
+
+               <pb n="16.5" xml:id="pbXVI5"/>
+            </div>
+
+            <div type="section" n="11">
+               <head>
+                  <title type="main">7. An Alvenslehen? 29. August 1802</title>
+               </head>
+               <p>G. St. A. Rep. 9, Z lit. Z, fasz. 9; 3 eigenh. Quartseiten; gedruckt in: Preußen und die kaihol. Kirche Bd. VIII Nr. 4^4.</p>
+
+               <p>Ew. Excellenz gnädigem Befehle gemäß, habe ich mir meine Instruction<note type="footnote" n="^)" resp="gnd-116890657"><hi>Die Instruktion datiert vom 22. August 1802, im Auszug wiedergegeben hei Gehhardt: Humboldt als Staatsmann I 3j.</hi></note> von der Kanzlei geben lassen, und dieselbe mit dem lebhaftesten Vergnügen durchgelesen.</p>
+
+               <p>So sehr mich auch schon die mir nach und nach mitgetheilten Acten überzeugt hatten, daß die Geschäfte mit dem römischen Hofe auf eine durchaus consequente und zugleich der Würde und den huldreichen und toleranten Gesinnungen des Königs gegen seine Katholischen Unterthanen entsprechende Weise geführt werden; so zeigt sich doch dies erst dann recht deutlich, wenn das System dieser Geschäftsführung, das erst der unermüdeten Sorgfalt Ew. Excellenz seine eigentliche Bildung dankt, so wie in meiner Instruction geschehen ist, vollständig und doch in bündiger Kürze entwickelt wird. Die strenge Befolgung dieser Grundsätze wird, schneller als sonst möglich seyn dürfte, auch in dem Katholischen Theile der Königlichen Staaten Aufklärung und Gewissensfreiheit verbreiten, und da dieselben zugleich durchaus auf den Geist der Zeit berechnet sind, auf dessen Richtung Ew. Excellenz mir eine ununterbrochene und genaue Aufmerksamkeit zur Pflicht machen, so können und werden sich die Folgen davon weiter und zugleich über andre Theile Deutschlands erstrecken. Wie der Preußische Staat lange dem Protestantischen Deutschland ein Vorbild gewesen ist, so wird er dies jetzt auch für das katholische werden, und in der Verwaltung der neu erworbenen Provinzen zeigen, wie man zugleich die uneingeschränkteste Gewissensfreiheit gestatten, und die landesherrhchen Rechte mit unerschütterlicher Festigkeit gegen fremde Eingriffe behaupten kann.</p>
+
+               <p>Über die unverdient schmeichelhafte Fassung mehrerer Stellen in meiner Instruction für mich bin ich in der That beschämt, und wenn ich Ew. Excellenz für die mir dadurch bewiesene Gnade und Gewogenheit danke, so geschieht es in der That nicht ohne einige Furchtsamkeit, ob es mir auch gelingen wird, Ihren Erwartungen wenigstens einigermaßen zu entsprechen. Wenigstens muß ich Ew. Excellenz ausdrücklich bitten, nicht zu vergessen, daß, wenn H. Uh<pb n="16.6" xml:id="pbXVI6"/>den sich in dem gewissermaßen günstigen Falle befand, einen nicht sehr eifrigen und einsichtsvollen Vorgänger<note type="footnote" n="^)" resp="gnd-116890657"><hi>Der Abbd Matthieu Ciofani,preuß. Resident von 1763 bis 1795, bzw. 1798. 2) Den Reisepaß Humboldts und seiner Familie betreffend; der Paß ist von Alvensleben unterzeichnet.</hi></note> zu haben, ich gerade einem Manne folge, welcher den ganzen Umfang seiner Pflichten kannte und auszufüllen verstand, und dem unstreitig noch andre zufällige Nebenumstände Vortheile verschaffen, die mir natürlich fehlen müssen.</p>
+
+               <p>In der schmeichelhaften Hofnung, in wenigen Tagen das Glück zu genießen, Ew. Excellenz meine persönliche Aufwartung zu machen, habe ich die Ehre...</p>
+            </div>
+
+            <div type="section" n="12">
+               <head>
+                  <title type="main">29. Aug. 1802 Humboldt</title>
+               </head>
+            </div>
+
+            <div type="section" n="13">
+               <head>
+                  <title type="main">8. An Alvenslehen? 30. August 1802</title>
+               </head>
+               <p>G. St. A . Rep 9, Z lit. Z, vol. I; 2 eigenh. Quartseiten.</p>
+
+               <p>Dank für seine Bemühungen; Zufriedenheit mit der für ihn und für Uhden angesetzten Summe.</p>
+            </div>
+
+            <div type="section" n="14">
+               <head>
+                  <title type="main">9. An Alvenslehen? 12. September 1802</title>
+               </head>
+               <p>G. St. A. Rep. g, Z lit. Z, fasz. 9; 2 eigenh. Quartseiten.</p>
+
+               <p>Monsieur le Comte,</p>
+
+               <p>Je me trouve au moment de mon depart, mais je ne puis quitter Berhn sans prendre la liberte d'ecrire encore une fois ä Votre Excel- lence et de Lui reiterer l'assurance des sentimens de la plus vive et de la plus profonde reconnoissance dont tant de differentes marques de Sa bienveillance et de Ses bontes pour moi m'ont rempli envers eile. Je viens encore d'en recevoir une nouvelle preuve par le rescrit du 7. Sept. que Votre Excellence a daigne expedier Elle-meme pour moi^). Je ne saurois Vous exprimer, Monsieur le Comte, combien j'ai ete touche par cette attention particuliere dont Vous avez bien voulü m'honorer, et j'ose me flatter que je n'ai plus besoin de Vous assurer, ni de mon devouement entier ä la personne de Votre Excellence, ni du zele que je mettrai ä m'acquitter de Ses ordres avec toute l'exactitude dont je puisse etre capable. Je m'estime heureux de travailler sous Ses auspices, et je serai anime par le double desir<pb n="16.7" xml:id="pbXVI7"/> et de reussir dans les affaires dont je serai charge, et de me conserver la protection et la bienveillance de Votre Excellence.</p>
+
+               <p>Aussitot que je serai ä Milan je prendrai la liberte d'en faire part ä Votre Excellence. Je compte n'y faire que le sejour necessaire pour apprendre ä connoitre un peu la Situation de ce pais et surtout celle de son nouveau gouvernement. Pour Florence je pense de m'y arre- ter encore moins de tems puisque je le regarde comme certain de n'y plus trouver le Roi<note type="footnote" n="^)" resp="gnd-116890657"><hi>Vizepräsident der italienischen Republik war Melzi in Mailand; König von Toscana Ludwig I., bisher Erbprinz von Parma, der sich damals in Barce- lona aufhielt.</hi></note>. Malgre cela je crains de ne pas atteindre Rome avant le commencement du mois de Decembre, le detour par Milan etant tres-considerable.</p>
+
+               <p>J'ose me recommander encore une fois aux bontes de Votre Excellence et La supplie ...</p>
+            </div>
+
+            <div type="section" n="15">
+               <head>
+                  <title type="main">ce 12. ybr. 1802 Humboldt</title>
+               </head>
+            </div>
+
+            <div type="section" n="16">
+               <head>
+                  <title type="main">10. An Hardenberg Weimar, 22. September 1802</title>
+               </head>
+               <p>Berlin, Kult. Min. Akten des Ministeriums d. geistl. Angelegenheiten. Abt. III, igg: 4 eigenh. Quartseiten.</p>
+
+               <p>Monsieur</p>
+
+               <p>Votre Excellence daignera se souvenir que je Lui parlai il y a quelque temps en faveur d'un jeune sculpteur, nomme Tiek^), et qu'EUe daigna lui faire permettre par moi d'addresser un memoire ä l'Academie au sujet de la demande qu'il desiroit de former. J'ose accompagner dans ce moment de ces lignes la lettre qu'il prend la liberte d'ecrire ä Votre Excellence et Elle verra par son contenu qu'il souhaite de ravoir une pension de 200 ecus qu'il a touchee durant trois ans pendant son voyage en France pour un second voyage qu'il se propose de faire en Italic. Mr. Schadow a appuye cette demande<pb n="16.8" xml:id="pbXVI8"/> deson suffrage ilyaunanet son rapport, fait ä ce sujet, doit encore se trouver parmi les papiers de l'Academie. D'apres ce que Votre Excellence a dejä eü la bonte de me dire j'ose me flatter qu'EUe daignera accorder au jeune artiste sa demande; je m'en flatte d'au- tant plus que certainement parmi tous les Kleves actuels de l'Aca- demie Tiek est celui qui possede le plus de talens, qu'il vient d'en donner des preuves publiques par les travaux qu'il execute dans ce moment ä Weimar dans le nouveau palais du Duc, et que par son voyage en France il se trouve dejä plus en etat d'etudier les chefs- d'oeuvres qu'il va trouver en Italic. Quant ä ce dernier voyage il se trouve encore dans le cas particulier que puisqu'il sera ä meme d'y profiter des secours de quelques amis de ses compatriotes il pourra subsister meme avec une pension tres-modique sans nuire ä ses etudes par un travail innecessaire et inutile ä ses progres.<note type="footnote" n="2)" resp="gnd-118554727"><hi>Schadow hatte seinem Schüler Tieck 1797 beim Minister von Heinitz ein drei- jähriges Reisestipendium von 200 Talern erwirkt, mit dem er, Humboldts begleitend, bis 1801 in Paris studieren konnte. Auf Empfehlung Humboldts war er dann von Goethe nach Weimar gerufen worden, um dort die plastische Ausschmückung des neuerbauten Schlosses zu übernehmen. Das Bemühen Schadows, Humboldts und schließlich auch Karl Augusts um Verlängerung des Stipendiums hatte Erfolg; vom Sommer 1805 bis zum Herbst 1808 lebte Tieck in Rom, ein enger Freund Schicks, nahe dem Kreise der Humboldts. Hardenberg war damals Kurator der Kunstakademie.</hi></note></p>
+
+               <p>II faut cependant l'avouer que cette pension de 200 ^cus est extremement modique et Votre Excellence me fit l'honneur d'obser- ver Elle-meme qu'Elle repugnoit ä donner des pensions qui en n'of- frant pas tous les secours necessaires aux artistes ne faisoient que distraire inutilement les fonds de l'Academie. J'ose par cette raison proposer ä Votre Excellence une idee par laquelle il seroit possible, il me semble, d'obvenir ä cette difficulte sans augmenter pour cela la depense. Mr. Tiek sera encore occupe pendant quelque tems des travaux qu'avec la permission de l'Academie il a entrepris ä Weimar ; il ne pourra gueres partir de l'AUemagne que dans une annee d'ici et peut-etre son travail le retiendra-t-il plus longtems encore. Ne seroit-il pas possible dans ces circonstances que Votre Excellence lui fit la faveur de lui assigner la pension d'apresent en ne la payant toute- fois qu'au moment de son depart m^me. Comme ce depart se retar- deroit encore pendant quelque tems, la somme grossiroit en attendant, et je crois certainement que l'Academie gagneroit d'avantage en permettant ä un jeune homme dejä exerce et d'un talent reconnu, comme Fest Mr. Tiek, d'employer une pension de 4 ans ä une etude de deux, qu'elle ne le feroit en faisant faire avec la meme somme un voyage encore une fois aussi long.</p>
+
+               <p>Votre Excellence daignera pardonner que j 'ose entrer dans ce detail et que je hazarde de Lui exposer des idees qui ä ce que je sens moi- m^me doivent etre müries encore. Mais j'ose compter sur la bien- veillance et les bontes qu'Elle m'a temoignees aussi souvent, et je desirerois en mßme tems de Lui prouver le zele qui m'anime, d'etre utile au progres des arts dans ma patrie, pour lesquels je vois com<pb n="16.9" xml:id="pbXVI9"/>mencer une nouvelle epoque en les voyant confies aux soins et ä la protection de Votre Excellence.</p>
+
+               <p>Je suis en chemin dans ce moment pour me rendre au lieu de ma destination, et je compte y arriver au commencement du Decembre. Si Votre Excellence pendant le tems de mon sejour ä. Rome trouvoit l'occasion de se servir de moi par rapport aux inter^ts de l'Academie je n'ai pas besoin de lui dire combien je serois flatte de m'acquitter de Ses commissions. Je saisirois ces occasions en meme tems avec le plus grand empressement pour lui rappeller mon souvenir et Lui reiterer les assurances de mon entier devouement pour Elle.</p>
+
+               <p>J'ose encore une fois recommander ä la protection de Votre Excellence Mr. Tiek dont j'avoue avec franchise d'estimer egalement le talent et l'ardeur dont il est anime pour son art; et je le regarderai comme une faveur particuliere de Votre Excellence, si Elle veut bien differer la resolution sur son affaire jusqu'ä ce que de retour k Berlin, Elle sera en etat d'en examiner Elle meme tous les d^tails.</p>
+            </div>
+
+            <div type="section" n="17">
+               <head>
+                  <title type="main">ä Weimar ce 22. Septembre 1802 Humboldt</title>
+               </head>
+            </div>
+
+            <div type="section" n="18">
+               <head>
+                  <title type="main">11. An Alvensleben<note type="footnote" n="^)" resp="gnd-116890657"><hi>Alvensleben starb am 21. X. 1802.</hi></note> ? Verona, 11. Oktober 1802</title>
+               </head>
+               <p>G. St. A . Rep. g, Z lit. Z, vol. I; 2 eigenh. Quartseiten.</p>
+
+               <p>Nachricht vom Tode des regierenden Herzogs von Parma^) . Glückliche Reise bis Verona; Freude und Dankbarkeit, jetzt in Italien zu sein. 12. An den Erbprinzen Georg von Mecklenburg-Strelitz</p>
+
+               <p>Rom, 26. November 1802</p>
+
+               <p>Hauptarchiv Neustrelitz, 51. II. i; 3 eigenh. Quartseiten.</p>
+            </div>
+
+            <div type="section" n="19">
+               <head>
+                  <title type="main">Monseigneur,</title>
+               </head>
+               <p>Je viens d'apprendre dans ce moment que Votre Altesse Sere- nissime est arrivee ä Florence et je me fais un devoir particulier de Lui adresser ces lignes et de temoigner ä Votre Altesse le vif interet que je prens ä l'heureux succes de Son voyage, en Lui offrant en mßme tems les faibles Services que je pourrois ^tre en ^tät de Lui rendre. Je n'aurois pas tarde jusqu'aujourd'hui ä le faire s'il m'avoit<pb n="16.10" xml:id="pbXVI10"/> ete possible, malgre les recherches que j'en ai faites, de savoir pre- cisement l'endroit, oü Votre Altesse sejourneroit. J'ose me f latter qu'apres quelques semaines de sejour ä Florence Votre Alt esse con- tinuera Son voyage vers Rome, et je ne saurois Vous exprimer, Monseigneur, combien je me sens heureux d'avance de ce doux espoir. Rien en effet n'auroit pü m'arriver de plus flatteur ä mon entree en Italie que de jouir de l'honneur d'y retrouver un Prince, dont l'accueil gracieux qu'il daigna me faire l'hiver dernier ä Berlin ne s'effacera jamais de ma memoire, et dont l'amour pour les beaux arts me rendra doublement interessant le plaisir de Taccompagner dans une ville qui malgre tout ce qu'on en a enleve, en**) restetoujoursle siege et la patrie. Votre Altesse Serenissime me donneroit une preuve bien precieuse de Sa grace et de Sa bienveillance, si Elle vouloit daigner me charger des soins qu'Elle desireroit qu'on prit avant Son arrivee ä Rome pour Lui rendre moins incommodes les premiers jours de son sejour, et j'ose La supplier de vouloir bien me donner Ses or- dres lä-dessus. Je les executerois avec toute l'exactitude dont je suis capable, et je regretterois seulement, que, n'etant arrive que depuis hier ici, je n'ai point encore de maison montee, ni meme toutes les connoissances du local dont je voudrois etre muni ä cet effet. Je tacherois cependant de suppleer ä ce dernier defaut par l'activite de mon zele et en m'aidant du conseil des personnes qui ont habite ce pais depuis lorigtems.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Ferdinand III. von Parma starb am 9. X. 1802, worauf die Franzosen das Herzogtum besetzten.</hi></note></p>
+
+               <p>Ne sachant point, si Votre Altesse Serenissime agreeroit que je Lui ecrivisse sous Son propre nom, je me suis servi sur l'adresse de cette lettre de celui que, comme on m'a dit ä Berlin, Elle a daigne choisir.</p>
+
+               <p>En attendant les ordres qu'il plaira ä Votre Altesse de me donner, je La supplie...</p>
+            </div>
+
+            <div type="section" n="20">
+               <head>
+                  <title type="main">ä Rome, ce 26. Nov. 1802 , Humboldt</title>
+               </head>
+            </div>
+
+            <div type="section" n="21">
+               <head>
+                  <title type="main">ij. An Haugwitz Rom, 4. Dezember 1802</title>
+               </head>
+               <p>G. Si. A. Rep. XI, Nr. 24 fasc. 35; 3 eigenh, Quartseiten.</p>
+
+               <p>Monsieur le Comte,</p>
+
+               <p>Je suis heureusement arrive ä Rome et c'est avec un sentiment profond de plaisir et de reconnoissance que je prends la liberte d'en faire part ä Votre Excellence. C'est ä Ses bontes et ä Sa protection que je dois et le poste que j'occupe, et la mission ä laquelle je suis redevable d'avoir parcourü la plus grande et la plus belle<pb n="16.11" xml:id="pbXVI11"/> partie de l'Italie; et Votre Excellence daignera permettre que je rapporte ä Elle tous les agremens et tous les avantages qu'encore dans la suite je retirerai du sejour ici et de la carriere que je pourrois faire. Elle a daigne m'accorder Sa faveur alors que je n'avois point encore l'occasion de Lui marquer mon zele et mon attache- ment pour Sa personne autrement que par des paroles; j'ose me f latter qu'Elle daignera me les continuer apresent, oü je ferai tous mes efforts pour Lui prouver ma reconnoissance profonde et sin- cere.</p>
+
+               <p>Votre Excellence aura vü par les rapports que j'ai adresses au Departement, de quelle maniere favorable et je puis dire amicale le Vice-President Melzi m'a accueilli ä Milan. II se souvenoit avec un- plaisir infiniment vif de l'avantage qu'il a eü de voir Votre Excellence en Italic*) et m'a entretenu souvent d'Elle et surtout de l'attitude imposante et glorieuse que la Monarchie Prussienne vient de prendre sous le Ministere de Votre Excellence. II revenoit souvent dans ses conversations sur ce sujet et ne pouvoit se lasser de dire, combien il avoit fallu de sagesse et de fermete pour arriver ä ce point.</p>
+
+               <p>J'ai täche dans les differens rapports que j'ai adresses au De- partement de donner ä Votre Excellence le tableau fidele de la Situation dans laquelle j'ai trouve l'Italie. Mais tous auront ne- cessairement presente une grande uniformite. Je n'ai pü que fournir quelques faits qui prouvent combien l'idee que Votre ExceUence s'en etoit formee, ainsi que je Tai vü par mes conversations avec EUe, etoit juste et exacte.</p>
+
+               <p>J'apprends que Mr. Gentz est alle prendre Service ä Vienne. Je le plains sincerement. Quelqu'un qui, aussi que lui ä bien des egards a besoin d'indulgence ne devroit point quitter le Service de la Prusse pour entrer dans celui de l'Autriche.</p>
+
+               <p>J'ose supplier encore une fois Votre Excellence de me continuer la faveur et les bonnes graces dont EUe a daigne m'honorer jusqu'ici et de se Souvenir de moi quand l'occasion s'en presentera. Quelques soient les circonstances je ne cesserai jamais de Lui rester devoue avec les sentimens du plus profond respect et du plus sincere attache- ment, avec lesquels je suis, . . .</p>
+            </div>
+
+            <div type="section" n="22">
+               <head>
+                  <title type="main">ä Rome ce 4. Decembre 1802 Humboldt<note type="footnote" n="^)" resp="gnd-116890657"><hi>^T75 w'»' Haugwitz, eine Strecke weit mit Goethe reisend, in Italien ge- wesen; dann iyy6 noch einmal.</hi></note></title>
+               </head>
+               <pb n="16.12" xml:id="pbXVI12"/>
+            </div>
+
+            <div type="section" n="23">
+               <head>
+                  <title type="main">14. An Struensee Rom, 11. Dezember 1802</title>
+               </head>
+               <p>G. St. A . Generaldirektorium, Fabrikendepartement, Fabriken- und Manufaktur- sachen, Generalia, LXXXX Nr. sy; 4 eigenh. Quartseiten. Im Auszug gedruckt in: Preußen imd die katholische Kirche Bd. VIII Nr. §06.</p>
+
+               <p>Ew. Excellenz hatten die Gnade, mir zu erlauben, Ihnen von der Vollendung meiner Reise und meiner Ankunft in Rom Nachricht zu geben, und es ist mir die Erfüllung einer ungemein süßen Pflicht von dieser Erlaubniß Gebrauch zu machen. Ich bin glücklich mit den Meinigen hier eingetroffen und unsre Reise hätte nicht glücklicher von Statten gehen können. Wir haben nicht den mindesten Unfall erlitten und das schöne Italien auch noch großentheils bei günstigem Wetter genossen.</p>
+
+               <p>In Mailand hat mir die zuvorkommende Güte des Vice-Präsi- denten Melzi, den ich schon ehemals kannte, einen sehr angenehmen und interessanten Aufenthalt verschaft. Um dem Lande noch wohlthätiger zu seyn, als er es schon ist, fehlt es ihm bloß an grö- ßerer Freiheit von fremdem Einfluß. Außer den tiefen Einsichten, die er besitzt, ist er ein Mann von edelstem Charakter, und hat das Glück, als solcher, trotz aller revolutionären Gährungen, von aUen Partheien anerkannt zu seyn.</p>
+
+               <p>Toscana bietet dagegen freilich das traurige Schauspiel eines Landes dar, das von einer vortrefflichen Administration in eine schwache und inkonsequente gerathen ist. Es ist unmöglich dies herrliche Land ohne inniges Bedauern anzusehn.</p>
+
+               <p>Hier bin ich seit einigen Tagen in meine neue Lage eingetreten, und mein Vorgänger, Herr Uhden, an dem Ew. Excellenz einen sehr interessanten Mann finden werden, ist heute abgereist. Die Aufnahme, die ich sowohl beim Pabst selbst, als bei den Kardinälen gefunden habe, läßt mich die besten Hofnungen für meine künftige Lage hier hegen. Der Pabst ist ein sehr gutmüthiger und in mancher Rücksicht unterrichteter Mann. Er behielt mich bei meiner ersten Audienz wohl eine Stunde bei sich, und sprach sehr viel, unter andern auch über Friedrich 2., der — natürlich und zugleich wunderbar genug — wegen des Schutzes, den er den Jesuiten und bei den Nuntiaturstreitigkeiten selbst dem Pabste gewährte, hier in großer Achtung steht.</p>
+
+               <p>Ich kann nie an die Vortheile denken, die mir meine hiesige Anstellung gewährt, und werde sie noch weniger genießen können, ohne mich zugleich mit den dankbarsten Empfindungen an die<pb n="16.13" xml:id="pbXVI13"/> väterliche Güte und Gewogenheit zu erinnern, mit welchen Ew. Excellenz sie mir verschaft haben. Der Gedanke, sie zuerst Ihnen schuldig zu seyn, erhöht in meinen Augen den Werth derselben, und er wird mir ein neuer Antrieb seyn, den Platz, auf den mich Ew. Excellenz freundschafthche Empfehlung gestellt hat, nun auch nach allen meinen Kräften auszufüllen.</p>
+
+               <p>Es würde mir unendlich schmeichelhaft seyn, wenn es mir möglich seyn sollte, auch für die, Ew. Excellenz anvertrauten Departements hier thätig zu seyn; bei der Schwierigkeit unseres Handels nach Italien aber, und der Unthätigkeit dieses Landes im Manufactur- fach sehe ich kaum eine Möglichkeit ab. Der Getreidehandel hätte in diesem Jahre einen sehr vortheilhaften Handelszweig abgegeben. Denn der Weitzen hat hier in so übermäßigem Preise gestanden, daß der Rubbio 27 Piaster gilt, welches, die Piaster zu i Thl. 12 Gr. gerechnet, den Berhnischen Scheffel zu 7 rt. 6 gs. Preußisch. Cour, bringt. Allein obgleich sich absehen läßt, daß auch künftiges Jahr noch hohe Getreidepreise bleiben werden, so ist dies doch ein zu wechselnder Artikel und ohne außerordentliche Umstände, kann Italien nicht, in Rücksicht der Getreidezufuhr, des Nordens be- dürfen.</p>
+
+               <p>Das Elend, das diese entsetzlichen Getreidepreise, nach welchen sich wieder so viele andre bestimmen, hervorbringen, ist grenzenlos und man kann bei dem Anblick desselben, und der Betrachtung, wie viel nun dies unglückliche Volk noch an Abgaben zahlen muß, nicht genug unser Vaterland und seine glückliche Verwaltung segnen. Auch im Oesterreichischen habe ich bei meiner Durchreise sehr</p>
+            </div>
+
+            <div type="section" n="24">
+               <head>
+                  <title type="main">viel Noth und Unzufriedenheit gefunden. Man sieht schlechter-</title>
+               </head>
+               <p>dings nichts als Papiergeld, und die Begierde, mit welcher man die Reisenden um baares Geld bestürmt, ist entsetzlich.</p>
+
+               <p>Herr Geheimrat Kunth schreibt mir, daß er gewagt hat, bei Ew. Excellenz eine Vorstellung, meine Maulbeerbäume betreffend, einzureichen. Insofern sich unsere Bitte mit Ew. Excellenz allgemei- nen Grundsätzen verträgt, darf ich mir wohl eine gnädige Gewährung derselben versprechen. Ew. Excellenz würden Sich dadurch ein bleibendes Denkmal in Tegel stiften, das zwar nicht gerade an baarem Ertrag, aber an Annehmlichkeit gar sehr gewinnen würde*).<pb n="16.14" xml:id="pbXVI14"/> 14 Als preußischer Resident in Rom 1 802-1 808<note type="footnote" n="^)" resp="gnd-116890657"><hi>Aus der Antwort Struensees geht hervor, daß der König Humboldt gegen eine Abfindung von 500 Talern und die Verpflichtung, keine der jetzt vorhandenen Bäume zu zerstören, von den weiteren Maulbeerbaumanpflanzungen befreite.</hi></note></p>
+
+               <p>Meine Frau empfiehlt sich mit mir Ew. Excellenz und Ihrer Frau Gemahlin gewogenem Andenken, und ich wage es noch ein- mal Ew. Excellenz meine Dienste anzubieten, wenn ich Ihnen oder dem Departement hier nützlich seyn könnte.</p>
+
+               <p>Erlauben Sie mir, mich indeß mit der innigsten Ehrfurcht und der herzlichsten und unwandelbarsten Anhänglichkeit zu nennen</p>
+
+               <p>Ew. Excellenz untertänigsten</p>
+            </div>
+
+            <div type="section" n="25">
+               <head>
+                  <title type="main">Rom, II December 1802 Humboldt</title>
+               </head>
+            </div>
+
+            <div type="section" n="26">
+               <head>
+                  <title type="main">15. An Haugwitz Rom, 25. Dezember 1802</title>
+               </head>
+               <p>G. St. A. Rep. XI, Nr. 24 fasz. 35: 3 eigenh. Quartseiten.</p>
+
+               <p>Monsieur le Comte,</p>
+
+               <p>La permission que Votre Excellence a daigne me donner de m'adresser en particulier ä Elle quand l'occasion s'en presenteroit, m'engage ä Lui ecrire aujourd'hui pour fixer Son attention sur une idee que j'ai hazardee dans le rapport au Departement qui accompagne cette lettre.</p>
+
+               <p>L'ouvrage de la Deputation de l'Empire va f inir<note type="footnote" n="^)" resp="gnd-116890657"><hi>Reichsdeputationshauptschluß vom 25. Februar 1803.</hi></note> ; tous les Princes *) ont pris possession des pais secularises, et il ne pourra gueres manquer qu'ils ne trouvassent bon de faire plusieurs changemens dans la Constitution ecclesiastique de leurs nouvelles possessions. Ce seroit il me semble apresent le moment pour operer dans une partie considerable de l'AUemagne Catholique une revolution qui les feroit participer aux lumieres qui distinguent la partie Protestante. Du moins est-il sür que la Situation dans laquelle les Princes Protestans qui ont maintenant des sujets Catholiques se trouveront vis ä vis du Pape dependra des premieres mesures qu'ils iront prendre. Ceci m'a donne l'idee qu'il seroit bon si tous les Princes Protestans s'entendaient sur les principes ä etablir ä cet egard avec Sa Majeste le Roi de Prusse, dont les etats jouissent depuis longtems d'une independance absolue de toute influence Romaine qui pourroit nuire aux lumieres ou ä la moralite, s'ils ordonnoient ä leurs agens ici d'agir toujours de concert avec celui de S. M. et s'ils re- unissoient leur pouvoir entre les mains de deux ou trois personnes, qui etant Allemands et Protestans seroient süres de ne pas se laisser<pb n="16.15" xml:id="pbXVI15"/> seduire par les prestiges de Rome<note type="footnote" n="^)" resp="gnd-116890657"><hi>Hessen und Fulda übertrugen Humboldt bald danach ihre Geschäfte bei der Kurie; vgl. an Haugwitz 9. Juli 1803.</hi></note>. II m'a paru que pour faire ou amener plutot un pareil arrangement, il ne faudroit que deux mots de la part du Roi par lesquels il leur offriroit sa protection et son appui ä cet egard et il m'a semble digne du ministere eclaire et glorieux de Votre Ecxellence de faire les premiers pas pour faire gouter une grande partie de l'Allemagne des avantages de la liberte de penser et des lumieres qui lui etoient inconnus jusqu'ici. II ap- partient ä Votre Excellence seule de juger si cette idee que je n'ai pü qu'indiquer, merite quelqu'attention ; Elle daignera pardonner au moins que j'ai ose la mettre sous Ses yeux.</p>
+
+               <p>Mon predecesseur etant parti, j'ai commence les fonctions de ma place. Je ne puis assez me louer de la politesse et des egards que me temoignent le Cardinal Secretaire d'fitat et le Pape lui-meme.</p>
+
+               <p>Daignez encore, Monsieur le Comte, recevoir les vceux sinceres que je forme au commencement de la nouvelle annee pour Votre Excellence, pour Sa famille et pour tout ce qui l'interesse. Per- mettez-moi en meme tems de me recommander ä la continuation de la faveur dont Vous avez daignez [/] m'honorer jusqu'ici, et veuillez croire que je ne cesserai jamais d'etre avec . . .</p>
+            </div>
+
+            <div type="section" n="27">
+               <head>
+                  <title type="main">ä Rome, ce 25. Decembre 1802 Humboldt</title>
+               </head>
+            </div>
+
+            <div type="section" n="28">
+               <head>
+                  <title type="main">16. An den Erbprinzen Georg Rom, ji. Dezember 1802</title>
+               </head>
+               <p>Hauptarchiv Neustrelitz, 51. II. i; 2 eigenh. Quartseiten.</p>
+
+               <p>Besorgnis über die Verzögerung der Reise des Prinzen und die Nachricht von seiner Erkrankung; Anfrage, was mit den für ihn angekommenen Briefen geschehen soll; Mitteilung der Ankunft des Generals O'Farrills und des Grafen und der Gräfin Hardenberg in Rom.</p>
+            </div>
+
+            <div type="section" n="29">
+               <head>
+                  <title type="main">ly. An den Erbprinzen Georg Rom, 14. Januar 1803</title>
+               </head>
+               <p>Hauptarchiv Neustrelitz, 51. II. i; 2 eigenh. Quartseiten.</p>
+
+               <p>Bedauern Über die Erkrankung des Prinzen in Pisa und die weite Entfernung dieser Stadt von Rom, die eine wirksame Hilfe Humboldts verhindert; Übersendung der für den Prinzen angekommenen Post; Ersuchen um Benachrichtigung über den Zustand des Prinzen durch Herrn von Schmalensen.</p>
+
+               <pb n="16.16" xml:id="pbXVI16"/>
+            </div>
+
+            <div type="section" n="30">
+               <head>
+                  <title type="main">l6 Als preußischer Resident in Rom 1802-1808</title>
+               </head>
+            </div>
+
+            <div type="section" n="31">
+               <head>
+                  <title type="main">18. An Struensee Rom, 26. Februar 1803</title>
+               </head>
+               <p>G. St. A. Generaldirektorium, Fabrikendepartement, Fabriken- und Manufaktursachen, Gener alia LXXXX Nr. $y; 3 eigenh. Quartseiten.</p>
+
+               <p>Ew. Excellenz gnädiger und freundschaftlicher Brief hat mich auf das innigste gerührt. Ich kann nicht unterlassen, Ihnen nicht sogleich, ob ich gleich heute keinen anderen Stoff zu einem Briefe habe, der Ew. Excellenz Aufmerksamkeit verdiente, auf das herzlichste und aufrichtigste dafür zu danken, und Ihnen das gränzen- lose Zutrauen an den Tag zu legen, das Ihre Güte mir einflößt.</p>
+
+               <p>Ich habe jetzt angefangen mich in meiner neuen Lage nach und nach besser einzurichten und mit jedem Tage finde ich mich glücklicher darin. Rom bietet jedem der Kunst und Wissenschaft liebt, einen so reichen Schatz zu Beobachtungen und Studien aller Art dar, daß man unaufhörlich von einem interessanten Gegenstand zum andern fortgezogen wird. Meine Geschäfte ziehen mich für sich selbst an und lassen mir auch noch zu Nebenbeschäftigungen hinlängliche Muße, und bis jetzt wenigstens sehe ich in dem milden schönen Chma auch meine Kinder nach Wunsch gedeihen. Denken also Ew. Excellenz selbst, mit wie dankbaren Empfindungen ich an denjenigen zurückdenke, dem ich am meisten schuldig bin, mich in einer so angenehmen Lage zu befinden.</p>
+
+               <p>Ew. Excellenz sind so gnädig, die Aussicht zu erwähnen, die ich vielleicht hätte, mit der Zeit von hier weiter befördert zu werden. Ich werde gewiß jedem Rufe mit Freuden folgen, aber immer ist es meine Maxime gewesen, mich lieber recht zu bemühen, einen kleinen Wirkungskreis vollkommen auszufüllen, als unruhig nach einem größeren zu streben.</p>
+
+               <p>Die Ansicht, welche Ew. Excellenz von dem Handelsverkehr zwischen uns und Italien haben, ist gewiß die einzig richtige. Es kann nie weise genannt werden, die Sphäre des Verkehrs über das natürliche Bedürfnis ausdehnen zu wollen, und für jetzt haben die Preußischen Schiffe noch genug in der Ost- und Nordsee zu thun. Wie wenig aber mit den Raubstaaten auszurichten ist, zeigen die neuesten MißheUigkeiten zwischen Algier und Frankreich.</p>
+
+               <p>Nach den Bolognesischen Krepf lohrfabriken und der Pinna marina werde ich mir alle mögliche Mühe geben, und wenn Ew. Excellenz mir nur ein Paar Monate Zeit lassen woUen, hoffe ich Ihre Befehle genau erfüllen zu können<note type="footnote" n="^)" resp="gnd-116890657"><hi>Struensee wünschte Auskunft über die Kreppflorfabriken in Bologna und die Übersendung eines Exemplars der Pinna marina, einer Steckmuschelart.</hi></note>.</p>
+
+               <pb n="16.17" xml:id="pbXVI17"/>
+               <p>Die Befreiung meines kleinen Gutes von der Last der Maulbeerbäume hat mir eine lebhafte Freude gemacht, und unschätzbar ist mir die gütige Art gewesen, mit der Ew. Excellenz sie mir anzeigen. Ew. Excellenz thätige Verwendung in dieser Sache ist mir ein neuer Beweis Ihres gnädigen Wohlwollens, dessen ich mich immer mehr und mehr würdig zu machen suchen werde. Nehmen Ew. Excellenz indeß meinen ehrfurchtsvollsten Dank dafür an, und erlauben Sie mir, mich mit derselben Gesinnung der wärmsten Verehrung zu nennen Ew. Excellenz gehorsamsten</p>
+            </div>
+
+            <div type="section" n="32">
+               <head>
+                  <title type="main">Rom, den 26 Febr. 1803 Humboldt</title>
+               </head>
+            </div>
+
+            <div type="section" n="33">
+               <head>
+                  <title type="main">ig. An Hangwitz Rom, 5. März 1803</title>
+               </head>
+               <p>G. St. A . Rep. XI, Nr. 24 fasz. 35; 3 eigenh. Quartseiten.</p>
+
+               <p>Übermittelung der Post an den Erbprinzen Georg; dessen Aufenthalt in Rom und Diner beim französischen Gesandten; Bitte um Kostenerstattung für eine Dienstreise nach Florenz, da die Teuerung in Rom Extraausgaben vom Gesandtengehalt zu bestreiten nicht gestattet.</p>
+            </div>
+
+            <div type="section" n="34">
+               <head>
+                  <title type="main">20. An Struensee Rom, 12. März 1803</title>
+               </head>
+               <p>G. St. A . Generaldirektorium, Fabrikendepartement, Fabriken- und Manufakturensachen, Generalia LXXXX Nr. ^y; 2 eigenh. Quartseiten.</p>
+
+               <p>Französische Verfügung über Seidenausfuhr übersandt; pinna ma- rina aus Neapel angefordert, ebenso die Auskunft über die Bologneser Kreppflorfabriken; Protektion für den Grafen von Veitheim bei seinem Aufenthalt in Rom versprochen.</p>
+            </div>
+
+            <div type="section" n="35">
+               <head>
+                  <title type="main">21. An Uhden Rom, Mitte März 1803</title>
+               </head>
+               <p>Archiv Tegel; 2 eigenh. Quartseiten. Fragmentarisch. . . . und meine Lage gefällt mir sehr gut. Wir leben wie Sie es Sich ungefähr denken können. Die schlimmen Tage zu Hause; die schönen in Gallerien und unter den Ruinen. Mittwoch und Sonntag Abend sind wir immer zu Hause und haben meist alle deutsche Künstler, und seit einiger Zeit auch mehrere Personen aus der Römischen Gesellschaft bei uns. Die andern Tage sind wir theils aus, theils allein zu Hause. Von geistlichen Geschäften habe ich zwar im December 2 Humboldt, Briefe<pb n="16.18" xml:id="pbXVI18"/> und Januar sehr viele gehabt. Aber Sie wissen, wie schnell die meisten abgemacht sind. Die politische Korrespondenz allein kostet mich viel Zeit, und ist dazu hier nicht sehr dankbar.</p>
+
+               <p>Ich muß Sie, mein Lieber, mit einer Sache beschweren, die Sie, da sie Rom angeht, doch vielleicht mit gütigem Wohlwollen übernehmen. Sie wissen schon, daß ein Mahler Macco, der (so sagt mir Rehberg, der die ganze Sache betreibt) eine Pension von 100 rth. von der Berliner Academie hat, dem Schuster Stehr allhier 40 Scudi schuldig ist. Diese Summe möchte ich dem armen Mann zu verschaffen suchen, da, wie ich höre, schon ein Versuch deshalb nicht gelungen ist. Ich habe deshalb inliegenden Brief an Hardenberg geschrieben, und bitte Sie, ihn ihm zu übergeben und mit ihm über die Sache zu sprechen. Meine Me5mung ist die: entweder Hardenberg verfügt unmittelbar auf die Einsicht des klaren Schuld Documents, von dem ich copiam vidimatam beilege, die Zahlung von der vorhandenen Pension, oder, da er dies, eigentlich und genau genommen, nicht thun kann, ohne Macco zu hören, er thut dies nicht. In diesem Falle dächte ich könnte die Academie auf seine Veranlassung Macco schreiben, sich mit umgehender Post über die Schuld zu erklären, und zu gestatten, daß sie von der Pension bezahlt werde, oder zu gewärtigen, daß man in contumaciam dies von selbst thue. Die Academie hat um so mehr Recht dies zu thun, als es ihr selbst unanständig ist, wenn ihre Pensionaire hier Schulden hinterlassen. Wollte indeß auch Hardenberg dies nicht, so bitte ich Sie, mit Ihrem Vetter zu sprechen, ob nicht, obgleich Macco in Wien ist, doch, weil die sich zum Arrest qualificirende Sache in Berlin ist, in Berlin gegen ihn geklagt werden kann. Geht dies nicht an, so wird er mich zwar sehr auslachen, mein Jus, das ich oft mit ihm geübt habe, so vergessen zu haben. Ginge es aber, so hätten Sie wohl die Gefälligkeit, auf dem Grund inliegender cum facultate substituendi ausgefertigter Vollmacht ^) die Klage anstellen zulassen. Sie verhelfen einer armen Familie zu einer ihr wichtigen Summe, und ich wage es von Ihrer Güte und Freundschaft recht bald Ant- wort von Ihnen hierauf zu erwarten.</p>
+
+               <p>Ich denke mir Sie jetzt gewiß in Berlin und kann mir die Freude denken, mit der Sie so viele ehemalige Freunde und Bekannte wiedersehen werden. Grüßen Sie alle von mir, die zugleich die meinigen sind, vorzüglich Beyme, Ihren Vetter Uhde, Biester, Küster,<pb n="16.19" xml:id="pbXVI19"/> Raumer u. s. f., auch Hirt und Schadow. Wollten Sie diesem letzteren gelegentlich sagen, daß Rom jetzt, statt so wohlfeil als ehemals zu seyn, einer der theuersten Oerter ist (seit Ihrer Abreise nemhch ist alles um mehr als V3 gestiegen) so erzeigen Sie den jungen Künst- lern hier einen Gefallen. Wirklich hat Schadow neulich durch dies Vorurtheil gemacht, daß der arme Hagemann (der Bildhauer, dessen Sie Sich von hier erinnern) nur äußerst wenig von seinem Vater geschickt bekommen hat, und in eine Verlegenheit geräth, aus der ich ihn zwar ziehen werde, die aber doch immer unangenehm ist. Der Vater hatte mehr Geld für ihn liegen und wollte es schicken, und Schadow hat es widerrathen.<note type="footnote" n="1)" resp="gnd-118554727"><hi>Diese Vollmacht ist auf den 12. März datiert, daher das Datum des Briefes wie oben anzusetzen.</hi></note></p>
+
+               <p>Meine Frau grüßt Sie freundschaftlichst und die Kinder umarmen Sie. Browne legt selbst einen Brief bei. Ich habe ihm wollen den Vortheil verschaffen, eine Art dänischen Agenten zu seyn; allein vermuthlich bleibt Zoega jetzt selbst. Fernows Abreise ist noch immer aufs Frühjahr bestimmt.</p>
+            </div>
+
+            <div type="section" n="36">
+               <head>
+                  <title type="main">Leben Sie herzlich wohl ! .,</title>
+               </head>
+            </div>
+
+            <div type="section" n="37">
+               <head>
+                  <title type="main">Humboldt</title>
+               </head>
+               <p>Die 200 Sc. beiTorlonia sind bezahlt, und die Chokolade angekom- men. Nochmals unsern herzlichen Dank!</p>
+            </div>
+
+            <div type="section" n="38">
+               <head>
+                  <title type="main">22. An den Erbprinzen Georg Rom, Frühjahr 1803</title>
+               </head>
+               <p>Hauptarchiv Neustrelitz, 51. II. i; 3 eigenh. Quartseiten.</p>
+
+               <p>Übersendung der Post; hofft, daß der Prinz gut in Neapel angekommen ist, und dankt ihm für die gemeinsamen Abende in Rom; die Humboldts in Lariccia und Albano.</p>
+            </div>
+
+            <div type="section" n="39">
+               <head>
+                  <title type="main">23. An den Erbprinzen Georg Rom, 31. Mai 1803</title>
+               </head>
+               <p>Hauptarchiv Neustrelitz, 51. II. z; i eigenh. Quartseite.</p>
+
+               <p>Übersendung der Post; entschuldigt das Ausbleiben seines Antwortbriefes mit einer heftigen Migräne.</p>
+            </div>
+
+            <div type="section" n="40">
+               <head>
+                  <title type="main">24. An den Erbprinzen Georg 3. Juni 1803</title>
+               </head>
+               <p>Hauptarchiv Neustrelitz, 51. II. 1:4 eigenh. Quartseiten.</p>
+
+               <p>Ich habe, Gnädigster Prinz, mit dem Wirth der villa di Malta nach Ihrem Befehl gesprochen, und Ew. Durchlaucht werden die<pb n="16.20" xml:id="pbXVI20"/>selbe ohne Schwierigkeit haben können. Es bewohnen sie zwar in diesem Augenbhcke eine enghsche Famihe und Me. Brun mit ihrer tanzenden Tochter. Allein die Engländer reisen Montag, den 6ten ab, und Me. Brun hat ihre Abreise auch auf künftige Woche festgesetzt. Da sie eine kränkliche Frau ist, so ist das freihch weniger sicher. Allein mehr als um Tage kann sie kaum ihre Abreise aufschieben, und für ein Paar Tage wäre für sie und für Ew. Durchlaucht zugleich Rath zu schaffen. Für die beiden Hauptquartiere, an denen Sie vollkommen, dünkt uns, zur Genüge hätten, fordert der Mann monatlich 50 Piaster. Dies ist in der That nicht viel; wir haben für das eine derselben allein, als wir im Herbst herkamen, 40 geben müssen. Wenn indeß Ew. Durchlaucht noch die villa nehmen wollten, so würde ich in diesen Preis noch einige Zimmer mehr mit einzudrängen suchen, die in einem Nebengebäude liegen und Ihnen immer angenehm seyn könnten. Der einzige üble Umstand bei der villa ist nur, daß das ameublement zwar nicht gerade schlecht (nach hiesiger bescheidener Art) aber die meubles sehr abgenutzt sind; und daß sie im Winter kalt und nicht überall gut zu heitzen ist.</p>
+
+               <p>Und auf den Winter möchte ich doch schlechterdings rechnen. Denn ich kann mir nicht vorstellen, daß Ew. Durchlaucht so feindselig gegen Italien denken, ihm nur noch wenige Monate und nicht noch ein volles Jahr zu schenken. Offenherzig gesagt ist es das, was mir, seitdem ich das Verunglücken der Sicilianischen Reise hörte, sehr bange gemacht hat. Selbst wenn Ew. Durchlaucht von Rom abwesend sind, solange ich Sie nur noch in Italien weiß, dünkt mich, sind Sie uns doch näher, und wir sicher, daß Sie Sich manchmal in Gedanken mit uns beschäftigen. Aber die Alpen zwischen sich und denen zu wissen, in deren Andenken man gerne und dauernd leben möchte, ist ein schrecklicher Gedanke.</p>
+
+               <p>Wenn Ew. Durchlaucht mir erlaubten, Ihnen einen Plan zu machen, so wäre es der, den Ihnen auch schon, denke ich, meine Frau vorgeschlagen hat; die Sommermonate auf dem Lande um Rom, und mit Reisen, um Latium und das Sabiner Land kennen zu lernen, zuzubringen, und die Herbstmonate hier den Antiquitäten zu weihen ; im Winter dies fortzusetzen, in der Fastenzeit wieder die Musiken und noch viele neue, die ich gewiß entdecken will, zu genießen, und wenn es dann nicht anders seyn kann, zurückzugehen, und Deutsch- land wenigstens grün und in Blüthen zu finden. Einen Winter mehr seinem Leben zu entreißen, ist immer schön.</p>
+
+               <pb n="16.21" xml:id="pbXVI21"/>
+               <p>Den Sommer hier in der Stadt zu bleiben, kann ich Ew. Durchlaucht schlechterdings nicht rathen. Sie verfehlen Ihren Zweck. Am Tage erlaubt die Hitze nicht etwas zu sehen ; um Sonnen-Untergang ist das Ausgehen schädlich; nachher wegen der Dunkelheit nicht mehr lehrreich. Es blieben also nur die Morgenstunden von 4 — 7 höchstens, ach! und wie früh muß man zu Bett gehn, um um 4 aufzustehen. Dann ist Rom wirklich im Sommer ungesund. Gerade jetzt herrschen sehr schlimme Faulfieber hier. Selbst Langeweile würde ich für Ew. Durchlaucht fürchten. Immer im Hause oder einem kleinen Garten zu sitzen, ist doch sehr schlimm, und wo giebt es hier im Sommer Spatziergänge! Wieviel schöner ist das Latiner Gebirge, der wirklich himmlische See von Nemi, der romantische Monte Cavo.</p>
+
+               <p>Wollten Ew. Durchlaucht es nicht so machen ? Mich hier für Sie die villa di Malta miethen zu lassen, dann zugleich in Albano ein gutes Quartier, das sich finden wird. So wäre in jeder Rücksicht für Sie gesorgt. Sie lebten in Albano, gingen nach Rom, so oft Sie wollten, bereisten das Land, durchstreiften das ganze Latiner Gebirge. Albano schlage ich Ihnen vor, weil Tivoli zum Wohnen traurig seyn soll, weil in Frascati ein Cardinal, ein Ambassadeur und viele seccatori<note type="footnote" n="^)" resp="gnd-116890657"><hi>Quälgeister.</hi></note> wohnen, weil in La Riccia sich schwer ein Haus für Ew. Durchlaucht fände, Sie müßten denn die Prinzessin Chigi um Ihr Palais und Ihren Park ersuchen lassen wollen. In Albano sind Sie in der Mitte von allem, auf der einen Seite Genzano, Nemi, auf der andern Marino, Grotta Ferrata, Frascati. Hätten Sie Lust zu schwatzen, so führen Sie zu uns nach La Riccia, das nicht weiter ist, als etwa das Coliseum vom Spanischen Platz, und fänden bei uns eine schöne Laube, einen großen Garten und viel Schatten, den Sie übrigens gleich schön in Albano hätten.</p>
+
+               <p>Jetzt muß ich Ew. Durchlaucht nur bitten, mich mit nächster Post bestimmt wissen zu lassen, ob ich die villa di Malta miethen soll, oder nicht ? und wann wir Sie hier erwarten können ? — Von Mühe, die Sie mir machten, bitte ich Sie herzlich, reden Sie nie. Ich müßte sonst glauben, Sie erkennten meine innige Achtung und meine aufrichtige herzliche Ergebenheit für Sie nicht, und es würde mir weh thun, so unvollkommen auszudrücken, was ich so lebhaft empfinde. Was ich wünschte, wäre nur, Ihnen einen recht schönen genußreichen Sommer und Herbst zu verschaffen. Nur daher kommen<pb n="16.22" xml:id="pbXVI22"/> meine Vorschläge und so bitte ich Sie, sie anzusehen. Mit ehrfurcht- vollster Hochachtung</p>
+
+               <p>Ew. Durchlaucht unterthänigster</p>
+            </div>
+
+            <div type="section" n="41">
+               <head>
+                  <title type="main">3. Jun. 1803 Humboldt</title>
+               </head>
+               <p>Dürfte ich Ew. Durchlaucht um meine freundschaftlichsten Empfehlungen für He. V. Schmalensen und He. Reichardt bitten. Soeben erfahre ich leider, daß der Gen. Stuart der durch Tos- cana nach Deutschland oder Frankreich gehen wollte, von Florenz mit der Nachricht zurückgekommen ist, daß kein Engländer mehr Pässe durch die Ital. Republik zu reisen erhalte, die Engländer in der villa di Malta nicht abreisten. Indeß hat mir der Wirth schon früher versprochen, ihnen, da sie nur auf Tage gemiethet haben, aufzusagen. — Ich erwarte also Ew. Durchlaucht Befehle und thue dann das MögUche.</p>
+
+               <p>Ich muß noch ein Postscriptum machen. Zoega, der sich Ew. Durchlaucht zu Gnaden empfiehlt, sagt mir, die viUa di Malta werde von den Römern im Sommer jetzt für ungesund gehalten; weil sie allein, einsam, und von Gärten umgeben liege. — Nach den Römern ist es nemlich immer da am gesündesten, wo die meisten Menschen wohnen, weil ihrer Theorie nach, der Mensch immer erst die Luft durch die Form [P] seiner Wohnungen reinigen muß.</p>
+            </div>
+
+            <div type="section" n="42">
+               <head>
+                  <title type="main">25. An den Erbprinzen Georg 10 Juni 1803</title>
+               </head>
+               <p>Hauptarchiv Neustrelitz, 51. II. i; 4 eigenh. Quartseiten.</p>
+
+               <p>Einrichtungen für den römischen Aufenthalt des Prinzen: Giunto- tardi als Lehrer engagiert, ferner ein Koch; Mietskontrakt und Möblierung des Hauses.</p>
+            </div>
+
+            <div type="section" n="43">
+               <head>
+                  <title type="main">26. An den Erbprinzen Georg 14. Juni 1803</title>
+               </head>
+               <p>Hauptarchiv Neustrelitz, 51. II. i; 6 eigenh. Quartseiten.</p>
+
+               <p>Beschreibung und Mietskontraktbedingungen eines Hauses in Al- bano für den Prinzen, dessen Besuch zum Petersfest in Rom günstig wäre; Berliner Nachrichten: vereitelte Romreise der Frau von Berg, der Gräfin und des Grafen Voss; Heirat zwischen Frl. vo7i Goltz und einem Kammerherrn von Berg; Masern im Hause Humboldt.</p>
+
+               <pb n="16.23" xml:id="pbXVI23"/>
+            </div>
+
+            <div type="section" n="44">
+               <head>
+                  <title type="main">27. An Uhden Rom, Juni 1803<note type="footnote" n="^)" resp="gnd-116890657"><hi>Für das Datum vgl. den Brief Carolines an ihren Vater vom 17. Juni 1803, gedruckt im Lebensbild der Gabriele von Bülows. 38, der auch aus der Masern-</hi></note></title>
+               </head>
+               <p>Archiv Tegel; 2 eigenh. Quartseiten. Fragmentarisch. . . . [Ge] Schäfte brauchen, wegnimmt. Doch hoffe ich auch hier ein Mittel zu finden. In wenigen Wochen denke ich nach La Riccia zu gehen. Ich habe dort den Crochontschen Casino, den Sie vielleicht kennen, gemiethet und hoffe mich dort recht wohl zu befinden.</p>
+
+               <p>In diesem Augenblick ist Rom wegen der Krankheiten unangenehm. Masern und Faulfieber sind zugleich epidemisch. Von den ersteren, die aber ganz gefahrlos sind, sind auch meine Kinder befallen worden, und haben sie noch. An den Faulfiebern sind viel Menschen gestorben. Solange bloß die facchini litten, bekümmerte sich niemand darum. Vielmehr sagten die Kardinäle und andre immer, die Epidemie ist nur im Volk, gerade als wenn das Faulfieber eine eigne Scheu vor den Monsignoren und Eminenzen gehabt hätte. Allein auf einmal wird die Tochter einer gewissen, ihnen vermuthlich bekannten Maceroni krank, und steckte die Mutter an. Bei dieser wurde das Faulfieber, denn das war es nun, so bösartig, daß sie 27 Menschen, ihre ganze Conversazione und einen armen Hutmacher, der bloß die Kerze getragen hatte als man ihr die Sacramente brachte, ansteckte, und 7, vielleicht auch mehrere, starben, unter andern zum Schrecken der ganzen Race, ihre beiden Cavalieri serventi, Falconini und Guido Lanti, der Bruder des Herzogs. Nun hielt man Consulten in der Sa- pienza und Congregazionen, man wollte auf einmal alle Immondezzaji und das Beerdigen in der Kirche abschaffen, ja man hatte den furchtbaren Gedanken, alle Kirchen auf einmal von den Todten zu reinigen, womit man vollends die ganze Stadt auf einmal verpestet hätte. Wie es aber hier gewöhnlich geschieht, so wurde aus allem nichts. Vielmehr begrub man alle an dieser schrecklich epidemischen Krankheit Gestorbenen nach der gewöhnlichen Manier mit unver- decktem Sarge.</p>
+
+               <p>Gedickens Tod hat mir sehr leid gethan. In vieler Rücksicht wird es schwer se5m, ihm einen gleich guten Nachfolger zu verschaffen<note type="footnote" n="^)" resp="gnd-116890657"><hi>Gedike war Direktor des Werderschen Gymnasiums in Berlin.</hi></note>, und ein wesentlicher Mangel dieser Stellen ist es, daß immer auch das Oekonomische mit ihnen verbunden ist. In der gelehrten Hinsicht bloß wären unstreitig Heindorf und Buttmann sehr gut gewesen.</p>
+
+               <p>zeit in Rom stammt, und den vorhergehenden an den Erbprinzen Georg.</p>
+
+               <pb n="16.24" xml:id="pbXVI24"/>
+               <p>Von meinem Bruder habe ich selbst Briefe gehabt. Er ist wohl, und kommt im Herbst zurück.</p>
+
+               <p>Für Ihre Bemühungen in Absicht Macco's, liebster Freund, danke ich Ihnen herzlich. Erzeigen Sie mir aber auch noch die Güte, den Minister gelegentlich wieder zu erinnern<note type="footnote" n="^)" resp="gnd-116890657"><hi>Vgl. an Uhden März 1803.</hi></note>.</p>
+
+               <p>Sehr viele freundschaftliche Empfehlungen von meiner Frau, und meine herzlichsten Grüße an alle die, die sich noch meiner erinnern mögen. Auch Zoega und Fernow, Keller u.s.f. tragen mir die ihrigen auf.</p>
+
+               <p>Mit innigster und unverbrüchlicher Freundschaft</p>
+
+               <p>Ihr</p>
+            </div>
+
+            <div type="section" n="45">
+               <head>
+                  <title type="main">Humboldt</title>
+               </head>
+            </div>
+
+            <div type="section" n="46">
+               <head>
+                  <title type="main">28. An Haugwitz 18. Juni 1803</title>
+               </head>
+               <p>G. St. A . Rep. 9, Z lit. Z, vol. I; 3 eigenh. Quartseiten.</p>
+
+               <p>Bitte um Urlaub für eine Reise nach Neapel im Herbst; Aufenthalt des Erbprinzen Georg in Albano.</p>
+            </div>
+
+            <div type="section" n="47">
+               <head>
+                  <title type="main">2g. An den Erbprinzen Georg Juni 1803</title>
+               </head>
+               <p>Hauptarchiv Neustrelitz, 51. II. i; 3 eigenh. Quartseiten.</p>
+
+               <p>Ankunft des Prinzen ohne Gefahr, da die Masern nachlassen; Pläne für den Aufenthalt in Albano; Ausgrabung des Severusbogens; Mietskontrakt für das Haus des Prinzen geschlossen.</p>
+            </div>
+
+            <div type="section" n="48">
+               <head>
+                  <title type="main">30. An Struensee Rom, 25. Juni 1803</title>
+               </head>
+               <p>G. St. A . Generaldirektorium, Fabrikendepartement, Fabriken- und Manufaktur- sachen, Generalia LXXXX Nr. 3y; 4 eigenh. Quartseiten.</p>
+            </div>
+
+            <div type="section" n="49">
+               <head>
+                  <title type="main">Ew. Excellenz</title>
+               </head>
+               <p>werden gnädigst verzeihen, daß ich auf Ihr gewogenes und freundschaftliches Schreiben vom 8. April, c. noch bis jetzt nicht geantwortet habe. Aber ich glaubte, im Stande seyn zu müssen, Ew. Excellenz wenigstens über einen der beiden mir früher gegebenen Auf- träge Rechenschaft zu geben, ehe ich Ihnen mit einem neuen Briefe beschwerlich fallen dürfte, und bis vor Kurzem war mir dies noch nicht gelungen.</p>
+
+               <p>Jetzt ist es mir wenigstens geglückt, Ew. Excellenz ein Exemplar<pb n="16.25" xml:id="pbXVI25"/> von der Steckmuschel nebst Proben ihres Haars in verschiedenen Zuständen der Bearbeitung und zwei Paar von daraus verfertigtem Handschuh zu verschaffen. Da diese Fabrikate bloß in Tarent verfertigt werden, und man in Neapel selbst nur wenig davon zu kaufen findet, so ist es mir nicht leicht geworden, mir diese Kleinigkeiten hierher kommen zu lassen; ein Paar Aufträge, die ich Reisenden deshalb gab, mislangen gänzlich; endlich aber war ich so glücklich einen zu finden, der durch genaue Bekanntschaft mit dem Erzbischof von Tarent vollkommen meinem Wunsche genügen konnte. Ich erhielt durch ihn mehrere Exemplare des Thiers selbst, die Haare desselben, wie sie noch ganz roh und unbearbeitet sind, andre gewaschne, noch andre gehechelte, eine kleine Quantitaet Garn, zwei Paar Handschuh, und zuletzt eine kurze Beschreibung der Fabrication, die ich Ew. Excellenz im Original hier beizufügen die Ehre habe. Ich würde nicht ermangelt haben, eine Übersetzung derselben anzufertigen, wenn ich nicht mit Recht hätte befürchten müssen, durch meine technologische Unkunde die schon an sich, wie es mir scheint, dunkle Beschreibung ganz und gar unverständlich zu machen. Die Objecte selbst habe ich, da mir die Versendung durch die Post kostbar und gefährlich schien, dem Baron Schellers- heim, der aus Westphalen gebürtig ist, sich aber jetzt in Florenz aufhält, und gerade diesen Sommer eine Reise in sein Vaterland macht, mitgegeben. Er wird sie selbst bis Frankfurth bringen, von da hat er mir versprochen, sie Ew. Excellenz durch sichre Gelegenheit zu übermachen, und da er, wie er mir sagt, das Glück hat, Ew. Excellenz persönlich bekannt zu seyn, so macht er sich ein Vergnügen daraus, bei dieser Gelegenheit sein Andenken bei Ihnen zu erneuem.</p>
+
+               <p>Ich zweifle zwar, daß Ew. Excellenz es der Mühe werth finden dürften, eine Fabrik dieser Art im Preußischen anzulegen, so wie es, wie man mich versichert, in Frankreich gegeben hat. SoUte es indeß dennoch der Fall seyn, so bäte ich dieselben, es mich wo möglich bald wissen zu lassen. Da ich, wenn Se. Majestät der König mir, wie ich hoffe, die Erlaubniß dazu giebt, den October in Neapel zubringen werde, so könnte ich mich um die Bekanntschaft von Per- sonen bemühen, die zum Ankauf und zur Versendung des rohen Materials gebraucht werden könnten. Ich gestehe aber, daß mir das Ganze fast nur eine Curiosität zu seyn scheint.</p>
+
+               <p>Sehr viel wichtiger wären unstreitig die Bologneser Crepp-Fabri- ken. Allein der Zweck, den Ew. Excellenz zu erreichen umgehen, ist nicht von der Art, daß man deshalb einem gewöhnlichen Rei<pb n="16.26" xml:id="pbXVI26"/>senden Auftrag ertheilen kann, und noch weniger ist von einem Eingebohrnen zu erwarten, da diese natürlich eifersüchtig darauf sind, ihrer Stadt das bisher behauptete Monopol zu erhalten. Ich muß also die Erfüllung dieses Auftrages, der in jeder Rücksicht große Behutsamkeit erfordert, schon noch für jetzt bis auf eine günstigere Gelegenheit aufschieben.</p>
+
+               <p>Auf Veranlassung des Auswärtigen Departements habe ich schon vor mehreren Monaten einen Bericht über einen in Genua anzustellenden Consul gemacht, und zu dieser Stelle das Regnysche Haus, namentlich den Cheremond Regny empfohlen. Sollte das Departe- ment darauf reflectiren, so würde es natürlich vorzüghch auf Ew. Excellenz Zustimmung ankommen, und in dieser Rücksicht wage ich es, dieses Haus Ew. Excellenz gnädigem Wohlwollen zu empfehlen. Es ist mir zwar allerdings bekannt, daß Ew. Excellenz mit Recht nicht für die unnütze Vervielfältigung der Handels Agenten sind, und ich bin vollkommen Ew. Excellenz Meynung, daß in Rücksicht auf den Handel Consuln in Italien nur sehr wenig Nutzen stiften können. Für Genua spricht nur gerade jetzt der Umstand, daß im ganzen obern Italien schlechterdings kein Preußischer Agent ist, und ein Reisender aus des Königs Staaten also, da er erst in Livorno einen Agenten antrift, leicht in sehr große Verlegenheit gerathen kann. Von einem so großen und soliden Hause aber, wie das Regnysche ist, sind auch außerdem nicht die Unannehmlichkeiten zu besorgen, die das Auswärtige Departement und auch vielleicht Ew. Excellenz von der in vorigen Zeiten geschehenen Anstellung solcher Personen erfahren haben, die entweder nur wenig bemittelte Kaufleute waren, oder (wie es in Livorno und Neapel der Fall ist) gar nicht einmal Handelsgeschäfte treiben.</p>
+
+               <p>Meine Frau empfiehlt sich dem wohlwollenden Andenken Ew. Excellenz und Ihrer Frau Gemahlin, der ich Ew. ExceUenz gehorsamst bitte meinen unterthänigsten Respect zu versichern. Ich habe die Ehre mit der aufrichtigsten Verehrung und der wärmsten und unwandelbarsten Anhänglichkeit zu verharren</p>
+
+               <p>Ew. Excellenz unterthänigster</p>
+            </div>
+
+            <div type="section" n="50">
+               <head>
+                  <title type="main">Rom, den 25. Junius, 1803 Humboldt</title>
+               </head>
+               <p>Die Auslagen für die Steckmuschel, die, weil man diese Gegenstände hat müssen von Tarent kommen lassen, etwas beträchtlicher geworden sind, betragen 9 Piaster oder Römische Scudi.</p>
+
+               <pb n="16.27" xml:id="pbXVI27"/>
+            </div>
+
+            <div type="section" n="51">
+               <head>
+                  <title type="main">31. An Haugwitz Rom, 9. Juli 1803</title>
+               </head>
+               <p>G. S. A. Rep. XI, Nr. 24 fasz. 41; 2 eigenh. Quartseiten.</p>
+
+               <p>Monsieur le Comte,</p>
+
+               <p>Rien n'auroit pü m'etre plus inattendu que la nouvelle que Votre Excellence a daigne me faire communiquer par le Rescrit que je viens de recevoir, que le Prince d' Orange Fulda et le Landgrave de Hesse Darmstadt veulent me charger des Affaires qu'ils peuvent avoir ä traiter ici. Je ne saurois dissimuler que la confiance que ces deux Princes veulent bien me temoigner par la, m'est extreme- ment flatteuse, mais je crois aussi pouvoir assurer Votre Excellence avec certitude que la bonte avec laquelle Votre Excellence a daigne disposer Sa Majeste le Roi ä m'accorder la permission de m'acquitter de ces nouvelles commissions, me fera redoubler de zele et d'acti- vite pour les Affaires du Roi dont Elle me fera la grace de me charger. J'ose seulement suppher Votre Excellence de m'indiquer oü peut- etre par manque d'experience je pourrois commettre des fautes, et je tächerai certainement de me rendre de jour en jour plus digne de l'indulgence qu'Elle a daigne me prouver jusqu'ici. N'ayant pas l'honneur de me trouver dans aucune relation soit avec ces Princes eux-memes, soit avec les personnes qui les environnent, je ne puis attribuer la confiance qu'ils veulent bien mettre en moi qu'ä l'idee avantageuse qu'il a plü ä Votre Excellence de leur donner ä mon egard, et en supposant ainsi que c'est ä la recommandation de Votre Excellence que je dois l'avantage dont je jouirai par ces nouvelles commissions, je ne puis Lui exprimer combien je suis sensiblement touche de cette nouvelle marque de Ses bonnes gra- ces et de Sa bienveillance envers moi, qui jointe ä toutes les autres dont Votre Excellence a daigne m'honorer, m'obhgera pour tou- jours ä la reconnoissance la plus sincere et la plus profonde . . .</p>
+            </div>
+
+            <div type="section" n="52">
+               <head>
+                  <title type="main">ä Rome ce 9. Juillet 1803 Humboldt</title>
+               </head>
+            </div>
+
+            <div type="section" n="53">
+               <head>
+                  <title type="main">32. An Schnauber Rom, 23. Juli 1803</title>
+               </head>
+               <p>Darmstadt, Staatsarchiv, V Bd. i konv. 2; 5 eigenh. Quartseiten.</p>
+
+               <p>Freude über die gnädige Ernennung zum hessischen Agenten m Rom; Formalitäten des neuen Postens, besonders Titelfrage im Cre- ditiv; verspricht ein Gutachten über die Geschäftsführung, besonders über die Einrichtung eines hessischen Bistums.</p>
+
+               <pb n="16.28" xml:id="pbXVI28"/>
+            </div>
+
+            <div type="section" n="54">
+               <head>
+                  <title type="main">jj. An den Landgrafen von Hessen Rom, 23. Juli 1803</title>
+               </head>
+               <p>Darmstadt, Staatsarchiv, V Bd. i konv. 2:4 eigenh. Quartseiten.</p>
+            </div>
+
+            <div type="section" n="55">
+               <head>
+                  <title type="main">Dank für die Haugwitz' Empfehlung verdankte Ernennung zum hessischen Agenten in Rom.</title>
+               </head>
+            </div>
+
+            <div type="section" n="56">
+               <head>
+                  <title type="main">34. An Schnauber Rom, 30. Juli 1803</title>
+               </head>
+               <p>Darmstadt, Staatsarchiv, V Bd. i konv. 2; 5 eigenh. Quartseiten.</p>
+
+               <p>Übersendung eines Gutachtens und Promemorias über die Einrichtung der hessischen Geschäfte in Rom] Erörterung der Formalitäten des Creditivschreibens für den Agentenposten.</p>
+            </div>
+
+            <div type="section" n="57">
+               <head>
+                  <title type="main">55. An den Erbprinzen Georg Rom, 31. August 1803</title>
+               </head>
+               <p>Hauptarchiv Neustrelitz, 51. II. i; 3 eigenh. Quartseiten.</p>
+
+               <p>Beschaffung einer Theaterloge für den Prinzen; Theodors Gesundung durch Kohlrauschs Hilfe<note type="footnote" n="^)" resp="gnd-116890657"><hi>Vgl. an Uhden 75. Oktober 1803.</hi></note>.</p>
+            </div>
+
+            <div type="section" n="58">
+               <head>
+                  <title type="main">36. An den Erbprinzen Georg Rom, 2. September 1803</title>
+               </head>
+               <p>Hauptarchiv Neustrelitz, 51. II. i; 2 eigenh. Quartseiten.</p>
+
+               <p>Möglichkeit, die Theaterloge des portugiesischen Gesandten für den Prinzen zu mieten; Theodors Gesundung; Dank für den Brief des Prinzen an Kohlrausch.</p>
+            </div>
+
+            <div type="section" n="59">
+               <head>
+                  <title type="main">3y. An den Erbprinzen Georg 30. August oder September 1803</title>
+               </head>
+               <p>Hauptarchiv Neustrelitz, 51. II. i; i eigenh. Quartseite.</p>
+
+               <p>Dank für den Anteil an Theodors Ergehen; Hoffnung auf einen Besuch in Albano beim Prinzen.</p>
+            </div>
+
+            <div type="section" n="60">
+               <head>
+                  <title type="main">38. An Uhden Rom, 15. October 1803</title>
+               </head>
+               <p>Archiv Tegel; 4 eigenh. Quartseiten.</p>
+
+               <p>Ihr freundschaftsvoller Brief ist mir, theurer Freund, als ein neuer Beweis Ihres fortdauernden gütigen Andenkens überaus angenehm<pb n="16.29" xml:id="pbXVI29"/> gewesen. Er war mir es doppelt, da er in einer Zeit ankam, in welcher ich des aufrichtenden Gefühls fremder Theilnahme sehr bedurfte. Es war ein unendlich harter Schlag für uns, wie Sie denken können, unsern Wilhelm zu verheren; er war es, möchte ich sagen, noch mehr für mich besonders, da ich vorzüghch mit dem Kleinen beschäftigt war, da er mich überall hin begleitete, und die meisten Augenbhcke meiner Muße ausfüllte. Sein Tod ist vermuthhch zugleich eine Folge des Climas und seiner durch sein zu schnelles Wachs- thum geschwächten Constitution gewesen. Ohne diesen Umstand hätte er vielleicht, wie sein jüngerer Bruder, die Krankheit glück- lich überstanden. Zugleich kam vielleicht auch etwas zwar nicht Epi- aber Endemisches hinzu. Denn wie Sie vermuthhch wissen, ist mein Kind in Lariccia gestorben, und dies Jahr hat die Sonderbarkeit gehabt, daß gerade in den Orten guter Luft bei weitem mehr Krankheiten ausgebrochen sind, als in den ohne allen Zweifel ungesunden. Lariccia namentlich hat von Neujahr bis Ende September 113 Todte gegen 28 Gebohrene gehabt. Vorzüglich aber ist die Krank- heit Kindern gefährhch gewesen.</p>
+
+               <p>Nach Wilhelms Tode legte sich Theodor und hatte ein fürchter- liches Nervenfieber. Allein durch die Geschicklichkeit und den Fleiß eines jungen Arztes aus Hannover, Dr. Kohlrausch, den uns ein günstiges Schicksal ordentHch als einen Retter zugeschickt hatte, ist er — man kann es mit Wahrheit sagen — dem gewissen Tode entrissen worden. Jetzt geht nach und nach alles wieder besser; allein mit welcher Wehmuth, mit welcher nun durch nichts mehr zu stillenden Sehnsucht wir auf die Vergangenheit zurückblicken, vermag ich Ihnen nicht zu sagen. Doch auch hierin fühlte ich die wohlthätige Wirkung Roms. Ich gehe fast alle Tage den Morgen einige Stunden spatziren, ich durchstreife vorzüglich den einsamen Aventin mit seinen himmlischen vignen, und ich kann Ihnen nicht beschreiben, wie beruhigt, gestärkt und gehoben ich mich immer durch einen Blick auf diese einzige Gegend empfinde. Ich werde jetzt vollkommen an mir gewahr, was mir Hirt und Göthe oft sag- ten, daß Rom die Sehnsucht nach jeder andern Stadt und jedem andern Lande im Gemüth unterdrückt.</p>
+
+               <p>Unter unsern gemeinschaftlichen Bekannten ist auch seit meinem letzten Briefe manche Aenderung vorgefallen. Riemer hat mein Haus verlassen, weil er wunderbarer Weise nicht in Italien froh werden konnte. Er ist jetzt Hauslehrer bei Götlie und vermuthhch sehr zufrieden. Rehberg hat eine große Reise unternommen, ist jetzt ver<pb n="16.30" xml:id="pbXVI30"/>30 Als preußischer Resident in Rom 1802-1808 muthlich in Paris, geht nach London und über Berlin hierher zurück. Es scheint wohl viel Speculation auf Bilderverkauf bei dieser Reise, da seit Bristols Tode die letzte reiche Quelle für die hiesigen Künstler versiegt ist. Keller hat seine Frau und Kinder nach der Schweiz zu seinen Eltern geschickt, ein wunderbarer Plan, den, außer ihm selbst, niemand gebilligt hat. Schellersheim ist auch in diesem Augenblick in Paris. Er hat noch im letzten Winter den berühmten Hercules aus dem Museum Strozzi (wie er mir sagte) für 4000 Scudi an sich gebracht. Im November will er in Florenz zurück seyn. Thorwaldsen arbeitet seinen Jason in Marmor für den Holländer Hope. Reinhard ist, wie gewöhnlich beschäftigt, und noch in Lariccia. Wir sind nach Wilhelms unglücklichem Tod in die Stadt zurück gekommen, und gehen nicht wieder aufs Land. Nur meine Frau ist heute auf ein Paar Tage nach Tivoli gegangen. Zoega ist wohl und durch dies Begleiten des Prinzen von Mecklenburg wieder sehr in seine Topographie von Rom hineingekommen, ich habe mich auch viel damit beschäftigt und wir haben, vorzüglich auf dem Aventin, manches alte Gemäuer aufgespürt, das Zoega in den langen Jahren seines Aufenthalts hier noch nicht gesehen hatte. Wenn der Prinz jetzt Rom verlassen haben wird, wollen wir noch einmal miteinander alles durchgehen, und dann hoffe ich kommt Zoegas Werk doch noch zu Stande<note type="footnote" n="^)" resp="gnd-116890657"><hi>Wohl die Bassirilievi antichi di Roma, 1808 in Rom erschienen; vgl. auch an den Erbprinzen Georg 4. IV. i8oj.</hi></note>.</p>
+
+               <p>Daß es Ihnen, mein bester Freund, in Ihrer Geschäftslage nicht recht wohl werden will, und Sie selbst verzweifeln, daß dies je der Fall seyn könnte, thut mir herzlich leid^). Allerdings hat das Arbeiten in einem Departement das ich auch eine Zeitlang versucht habe, viel unangenehmes. Wäre es aber nicht möglich, daß Sie in ein anderes Departement, z. B. ins Schulcollegium oder vielmehr ins Oberconsistorium versetzt würden ? Die Arbeiten, die dort vorkommen, müßten Ihnen, dächte ich, angenehm seyn, und ein Mann von so weitumfassenden gelehrten Kenntnissen, als Sie, müßte dort mit unendlichem Nutzen gebraucht werden können. Sie wissen daß der Minister jetzt die Universitätssachen allein und unmittelbar, ohne das Schulcollegium bearbeitet. Mir hat es immer geschienen, als wäre es nicht bloß nützlich, sondern nothwendig, daß er dazu einen eigenen Vortragenden Rath hätte, und eine solche Stelle müßte,<pb n="16.31" xml:id="pbXVI31"/> sollte ich denken, in jeder Hinsicht Ihnen gelegen seyn, da Sie in ihr nicht coUegialisch, sondern für sich und bloß mit dem Minister zu arbeiten hätten. Von der rechten Seite und im rechten Moment vorgestellt, könnte, glaube ich, ein solcher Vorschlag bei Beyme Eingang finden, und wollte man erst die Stelle, so würde es sicherlich wenig Mühe kosten, daß Sie dieselbe erhielten. Ueber Berlin sjnnpathisiren wir wenigstens von einer Seite, lieber Freund. Zwar kann ich nicht läugnen, daß ich es liebe, weil ich einmal eine große Menge Freunde und Bekannte dort habe. Allein für m.eine liebsten Ideen und wissenschaftlichen Beschäftigungen habe ich gleichfalls nie Rechnung dort gefunden. Fernow kommt allerdings in einer schlimmen Periode nach Jena, vielleicht aber auch in einer guten für ihn, weil die Höfe vielleicht jetzt mehr auf ihn achten, und auch die neue Literaturzeitung ihm vortheilhaft werden kann. Mir thut seine Abwesenheit unendlich leid. Er war unser täglicher Gesellschafter.<note type="footnote" n="2)" resp="gnd-118554727"><hi>Uhden war Rat im Neuostpreußischen Departement für geistliche, Schul- und Landeshoheitssachen.</hi></note></p>
+
+               <p>Marini hat mich gebeten, Sie an die Übersendung der Biblio- theca Graeca zu erinnern. Ich lege das Stück seines BiUets an mich selbst bei. Uggeri hat mir ein Pack Ankündigungen seines Werks geschickt<note type="footnote" n="^)" resp="gnd-116890657"><hi>Wohl die Tournies pittoresques des idifices de Rome Ancienne.</hi></note>. Ich warte auf eine Gelegenheit sie Ihnen zu übermachen. Meine Frau grüßt Sie herzlich, bester Freund, ebenso alle Ihre eben anwesende Bekannte. Leben Sie wohl, und glauben Sie mich unaufhörlich mit wahrer Freundschaft und Anhänglichkeit den Ihrigen,</p>
+            </div>
+
+            <div type="section" n="61">
+               <head>
+                  <title type="main">Humboldt</title>
+               </head>
+            </div>
+
+            <div type="section" n="62">
+               <head>
+                  <title type="main">3g. An Schnauber Rom, 15. Oktober 1803</title>
+               </head>
+               <p>Darmstadt, Staatsarchiv, V Bd. j konv. 2; 2 eigenh. Quartseiten.</p>
+
+               <p>Anfrage über die Ankunft zweier Schreiben Humboldts, da die Antwort noch aussteht; Mitteilung, daß er auch Fulda-Oranischer Geschäftsträger in Rom geworden ist.</p>
+            </div>
+
+            <div type="section" n="63">
+               <head>
+                  <title type="main">40. An Schinkel Rom i. od. 2. Dezember 180 j</title>
+               </head>
+               <p>Berlin, Staatsbibl. Handschriftenabi. Acc. ms ig28, 31; Oktavbillett.</p>
+
+               <p>Ich bin so frei Sie zu bitten, mein lieber Herr Schinkel, heute Freitag Mittag mit Herrn Steinmayer freundschafthch bei uns zu<pb n="16.32" xml:id="pbXVI32"/> essen. Sie finden uns ganz allein. Wollten Sie uns Ihre Zeichnungen mitbringen, würde es uns sehr freuen.</p>
+            </div>
+
+            <div type="section" n="64">
+               <head>
+                  <title type="main">I. [od. 2.] Dec. 1803 Humboldt</title>
+               </head>
+            </div>
+
+            <div type="section" n="65">
+               <head>
+                  <title type="main">41. An Schnauber Rom, 3. Dezember 1803</title>
+               </head>
+               <p>Darmstadt, Staatsarchiv, V Bd. i konv. 2; 4 eigenh. Quartseiten.</p>
+
+               <p>Über verlorengegangene Schreiben; Form des Creditivs für Humboldt; päpstliche Politik gegenüber dem Wunsche des Landgrafen nach einem eigenen Bistum; ferner gegenüber den Bestimmungen des Reichs- deputationshauptschlusses :</p>
+
+               <p>Denn das System des hiesigen Hofes ist, wie ich es auch jetzt wiederholen muß, durchaus, sich in der That auf keine Weise den gemachten Veränderungen entgegenzusetzen, allein die Worte und den Ausdruck der Billigung oder Anerkennung, soviel es nur immer geschehen kann, zu vermeiden.</p>
+            </div>
+
+            <div type="section" n="66">
+               <head>
+                  <title type="main">42. An Struensee Rom, 24. Dezember 1803</title>
+               </head>
+               <p>G. St. A. Generaldirektorium, Fabrikendepartetnent, Fabriken- und Manufaktursachen, Generalia LXXXX Nr. ^y; 4 eigenh. Quartseiten.</p>
+
+               <p>Entschuldigt sein Stillschweigen mit dem Unglück in der Familie und der Häufung der Geschäfte durch die Übernahme des hessischen und Fulda-Oranischen Postens; berichtet von seinen Bemühungen um die Pinna-marina-Wolle, den Sepia- Ankauf und die Bologneser Kreppfabrikation; endlich von dem Genueser Konsulat.</p>
+            </div>
+
+            <div type="section" n="67">
+               <head>
+                  <title type="main">43. An Schnauber Rom, 24. Dezember 1803</title>
+               </head>
+               <p>Darmstadt, Staatsarchiv, V Bd. i konv. 2; 3 eigenh. Quartseiten.</p>
+
+               <p>Form der offiziellen Berichte an den Darmstädter Hof; durchlaufende Numerierung nur der allgemeinen, Sonderberichte für Spezialsachen, Gesamtverzeichnis bei Jahresschluß zur Kontrolle für etwa verlorengegangene.</p>
+            </div>
+
+            <div type="section" n="68">
+               <head>
+                  <title type="main">44. An Consalvi i. März 1804</title>
+               </head>
+               <p>Archivio Vaticano, Ministro Prussia, sin; 2 eigenh. Quartseiten.</p>
+
+               <p>Bitte um einen Paß für Frau von Humboldt, die nach Deutschland reist, um ihren Vater zu besuchen und ihren Sohn in ein gesünderes Klima zu bringen, und die sehr bedauert, Consalvi nur selten im letzten Wiiiter gesehen zu haben.</p>
+
+               <pb n="16.33" xml:id="pbXVI33"/>
+            </div>
+
+            <div type="section" n="69">
+               <head>
+                  <title type="main">45. An Struensee Rom, 31. März 1804</title>
+               </head>
+               <p>G. St. A . Generaldirektorium, Fabrikendepartement, Fabriken- und Manufaktur- sachen, Generalia LXXXX, Nr. 57; 2 eigenh. Quartseiten.</p>
+
+               <p>Übersendung von 3 Pfund Pinna marina; versäumte Vorsichtsmaßregeln hei einer früheren Sepia- und Schwarzkreidesendung.</p>
+            </div>
+
+            <div type="section" n="70">
+               <head>
+                  <title type="main">46. An den Erbprinzen Georg Rom, 12. Mai 1804</title>
+               </head>
+               <p>Hauptarchiv Neustrelitz, 51. II. i; 2 eigenh. Quartseiten.</p>
+
+               <p>Übersendet einen Brief für den Prinzen nach Venedig; Dankbarkeit für seinen Aufenthalt in Rom, allgemeines Bedauern über seine Abreise.</p>
+            </div>
+
+            <div type="section" n="71">
+               <head>
+                  <title type="main">4y. An den Erbprinzen Georg Rom, 2. Juni 1804</title>
+               </head>
+               <p>Hauptarchiv Neustrelitz, 51. II. i; 4 eigenh. Quartseiten.</p>
+
+               <p>Erinnerung an das Zusammensein in Rom; Bericht über die römische Gesellschaft, das Theater; das Ergehen Carolines.</p>
+            </div>
+
+            <div type="section" n="72">
+               <head>
+                  <title type="main">48. An Consalvi Rom, 23. Juli 1804</title>
+               </head>
+               <p>Archivio Vaticano, Ministro Prussia, sm; 2 eigenh. Quartseiten.</p>
+
+               <p>Bitte um Beförderung einer Denkschrift.</p>
+            </div>
+
+            <div type="section" n="73">
+               <head>
+                  <title type="main">4g. An den Erbprinzen Georg Rom, 6. August 1804</title>
+               </head>
+               <p>Hauptarchiv Neustrelitz, 51. II. i; 4 eigenh. Quartseiten.</p>
+
+               <p>Übersendet einen Brief der Gräfin Carradori, berichtet von der glücklichen Entbindung seiner Frau, den römischen Witterungs- und Gesundheitsverhältnissen, einer Exkursion auf den Monte Cavo, Entdeckung von Substruktionen in Marino, der Ankunft der Prinzessin Giustiniani.</p>
+            </div>
+
+            <div type="section" n="74">
+               <head>
+                  <title type="main">^o. An den Erbprinzen Georg Rom, 25. August 1804</title>
+               </head>
+               <p>Hauptarchiv Neustrelitz, 51. II. i; 3 eigenh. Quartseiten.</p>
+
+               <p>Weg des Briefverkehrs über den bayrischen Gesandten; Bedenken der Marquise Lupi dagegen; Tod des Sohnes der Prinzessin Borghese; Glückwunsch zu einer „glücklichen Begebenheit*' . 3 Humboldt, Briefe<pb n="16.34" xml:id="pbXVI34"/> 34 Als preußischer Resident in Rom 1 802-1 808</p>
+            </div>
+
+            <div type="section" n="75">
+               <head>
+                  <title type="main">31. An den Erbprinzen Georg Rom, i. September 1804</title>
+               </head>
+               <p>Hauptarchiv Neustrelitz, 51. II. i; 7 eigenh. Quartseiten.</p>
+
+               <p>Gnädigster Prinz,</p>
+
+               <p>Ich habe am 28. August Ew. Durchlaucht gütigen und freund- schafthchen Brief vom 15. empfangen, und eile um so mehr, ihn auf der Stelle zu beantworten, als ich im Stande bin, Ihnen über die Angelegenheit, die Ihnen so überaus wichtig seyn muß, eine wenigstens in einiger Art befriedigende und beruhigende Antwort zu geben<note type="footnote" n="^)" resp="gnd-116890657"><hi>Es handelt sich um die Ehedispensationsverhandlungen für die geplante Heirat zwischen der bayrischen Prinzessin Auguste und dem Erbprinzen Georg von Mecklenburg.</hi></note> . Sobald ich Ihren Brief erhielt, habe ich mein freundschaftliches Verhältniß mit dem Bischof^), den Sie kennen, benutzt, um auf eine ungezwungene Weise die Lage der Sache zu erfahren; ich glaube, daß er mir die Wahrheit und die ganze Wahrheit gesagt hat, weil er auch nicht die entfernteste Ahndung haben konnte, daß ich durch irgend ein Interesse geleitet würde, und ich halte es gewiß für meine Pflicht, Ew. Durchlaucht von dem, was bis jetzt geschehen ist, und der Absicht nach geschehen soll, zu unterrichten.</p>
+
+               <p>Soviel ich habe erfahren können halte ich Ew. Durchlaucht Be- sorgniß, daß man von M[ünchen] aus die von Ihnen gefürchtete Bedingung verlangt habe, für ungegründet. Nach allem zu urtheilen, ist vielmehr das Gegentheil der Fall.</p>
+
+               <p>Der hiesige^) Gesandte hat nemlich vor 14 Tagen en chiffres den Auftrag erhalten, die Auswirkung dieser Dispensation vorzubereiten, noch nicht aber zu fodern. Er hat sich daher gleich erkundigt, wie es damit in ähnlichen Fällen gehalten worden sey, und es sind ihm aus den hiesigen Archiven eine Reihe von Prinzen und Prinzessinnen (deren namentliche Aufführung Ew. Durchlaucht mir wohl ersparen) angeführt worden, denen allen man nur die Ehedispensationen unter schweren Bedingungen ertheilt hat. Eine dieser Bedingungen ist immer die Erziehung aller Kinder in der Katholischen Religion gewesen. In ein Paar Fällen hat man jedoch von Rom aus wieder **) einem auswärtigen Prälaten erlaubt, nach Befinden der Umstände von diesen Bedingungen zu dispensiren.</p>
+
+               <p>Der Bischof, der in der That ein aufgeklärter Mann ist und auch<pb n="16.35" xml:id="pbXVI35"/> außerdem nie gern dem Römischen Hofe nachgiebt, hat hierauf eine kleine Note aufgesetzt und darin, ohne Nennung der Namen, nur gesagt : die Tochter eines kathohschen Fürsten wolle einen protestantischen Erbprinzen heirathen, die Gesetze des Landes des letzteren erlaubten es nicht anders, als daß die Kinder in der Religion des Vaters erzogen würden; die Verwandtschaft beider Verlobten mache eine Dispensation nothwendig; man wünsche zu erfahren, in welcher Art dieselbe werde ertheilt werden können ? Hierüber wird jetzt unter den Kardinälen berathschlagt.<note type="footnote" n="2)" resp="gnd-118554727"><hi>Wohl der im Schreiben vom 13. X. 1804 erwähnte Heusselin.</hi></note></p>
+
+               <p>Ich habe mich ausdrücklich versichert, daß in der Note der Ausdruck: Kinder, nicht Söhne gebraucht ist. Der Wunsch nun des Gesandten geht dahin, daß die Dispensation ohne alle Bedingungen ertheilt werde, und daß darin der Kinder gar keine Erwähnung geschehe. Nur das will er im Nothfall dem Papst freistellen, dem Schwiegervater in einem besonderen Briefe diejenigen Vorstellungen zu machen, welche er seinem Gewissen für gemäß hält, und daher ist es sein Plan, daß, wenn die Dispensation wirkhch gefordert wird, letzterer dem Papst selbst schreibe.</p>
+
+               <p>So habe ich die Sache unmittelbar aus des Bischofs eigenem Munde erfahren. Hierdurch nun, glaube ich, fällt Ew. Durchlaucht Besorg- niß von selbst weg. Hätte man die Absicht gehabt, sich des Römischen Hofes als eines Vorwandes zu bedienen, eine sonst in Deutschland Schwierigkeiten findende Bedingung durchzusetzen, so hätte man die Sache anders einleiten und sich erleichtern können. Ew. Durchlaucht wenden mir vielleicht hiergegen ein, daß, wenn man auch vielleicht aus Stolz die Bedingung nicht in der Dispensation sehen will, man sie nunmehr in dem besonderen Briefe zuläßt. Allein theils glaube ich nicht, daß eine solche Absicht dabei ist, theils hat ein Brief nie eine verbindende Form. Man kann nie sagen, man sey gezwungen, die Sache so zu machen. Die Dispensation dagegen verbindet in der That, da die ganze Ehe nur unter diesen Bedingungen zugegeben wird.</p>
+
+               <p>Ich habe auch alle Ursache zu glauben, daß alles was ich Ew. Durchlaucht eben gemeldet, buchstäblich wahr ist. Zwar habe ich keine andern Erkundigungen eingezogen, allein ich würde dies auch für unzweckmäßig gehalten haben. Der Einzige, der mir hätte noch Licht geben können, war Consalvi. Er würde es in dieser Sache nicht gethan haben, und ich hätte Argwohn erregt, und gegen die mir von Ew. Durchlaucht so dringend und mit so vielem Rechte empfohlene Behutsamkeit gefehlt.<pb n="16.36" xml:id="pbXVI36"/> 36 Als preußischer Resident in Rom 1 802-1 808</p>
+
+               <p>Ich habe es um so weniger gethan, weil ich Ew. Durchlaucht, so sehr es mich auch schmerzt, offenherzig gestehen muß, daß, wenn Ihre Besorgniß begründet gewesen wäre, ich ganz und gar außer Stande gewesen seyn würde, mit Erfolg dagegen zu handeln.</p>
+
+               <p>Die Schwierigkeit eine Dispensation zur Ehe zwischen Katholiken und Protestanten zu erhalten, ohne daß der Papst die Erziehung der Kinder in seiner Religion zur Bedingung mache, ist schon so groß, daß in gegenwärtigem Fall sogar der Bischof selbst glaubt die mächtigsten Hindernisse zu finden, ob er gleich, als von seinem Fürsten autorisirt, mit allem nur möglichen Nachdruck reden kann. Wäre dem Papste, wie Ew. Durchlaucht es befürchten, unter den Fuß gegeben, die Bedingung der Erziehung der Töchter in der Katho- lischen Rehgion hinzuzufügen, wie sollte es mir alsdann, noch dazu durch bloße Privatverwendung, gehngen, den Papst zu bewegen, durch Auslassung dieser Bedingung zugleich gegen seine Grundsätze, sein Gewissen, und den Willen desjenigen zu handeln, von dem die Rede ist ? Es würde um so unmögHcher seyn, als es sogar der Billig- keit gemäß scheint, und unter Privatpersonen durchaus üblich ist, daß bei Religionsverschiedenheit der Eltern die Söhne dem Vater, die Töchter der Mutter folgen. Ew. Durchlaucht fühlen gewiß, wieviel es mich kosten muß, Ihnen diese Unmöglichkeit geradezu zu gestehen, da, wenn Sie auch einen Augenblick an dem Eifer meiner ehrfurchtsvollsten Freundschaft für Sie zweifeln könnten, schon</p>
+            </div>
+
+            <div type="section" n="76">
+               <head>
+                  <title type="main">mein Ehrgeiz ein hinlänglicher Sporn seyn würde, etwas Schwie-</title>
+               </head>
+               <p>riges für Sie durchzusetzen. Aber ich würde es gegen meine Pflicht halten, Ihnen vergebliche Hofnungen und Erwartungen zu machen.</p>
+
+               <p>Wie ich die Ehre hatte, Ew. Durchlaucht gleich zuerst zu sagen, so halte ich alle Besorgniß ungegründet. Sollte indeß wirklich die von Ihnen gefürchtete Absicht dennoch vorhanden seyn, und Ew. Durchlaucht erlaubten mir, Ihnen einen Rath zu geben; so glaube ich, müßte man nicht hier, sondern in M[ünchen] selbst entgegenarbeiten. Da es nur von Ew. Durchlaucht abhängen würde, die Verwendung unseres Hofes dabei zu erhalten, so würden auf diese Weise alle Schwierigkeiten leicht verschwinden. Wendete man ein, daß man wegen des Römischen Hofes diese Rücksicht zu nehmen genöthigt sey (wie indeß, soviel ich urtheilen kann, gewiß nicht geschehen wird) so wäre es alsdann Gelegenheit zu sagen, daß man dies in Rom schon durchsetzen wolle, und dann könnte ich Auftrag erhalten, und mit gehörigem Nachdruck handeln. Ich halte diese Ein<pb n="16.37" xml:id="pbXVI37"/>leitung so sehr für die einzige, die zum Zweck führen kann, daß, ehe ich erfuhr, wie wirkhch, was Ew. Durchlaucht fürchten, kaum auf irgend eine Weise zu besorgen ist, es mir äußerst leid that, daß Sie nicht gleich diesen Weg eingeschlagen hatten.</p>
+
+               <p>So, gnädigster Prinz, denke ich nach der reiflichsten Überlegung über Ihren Auftrag. Ich werde jetzt suchen mir hier das nöthige Vertrauen zu erhalten, Ihnen von allem, was ich erfahre, Nachricht geben, und mich bemühen, den Bischof in der Meynung zu bestätigen, schlechterdings keine, die Erziehung der Kinder betreffende Bedingung in der Dispensation zu dulden. Mit wie inniger Freude ich übrigens Ihren Brief gelesen habe, vermag ich Ew. Durchlaucht nicht zu schildern. Es ist ein einziges Loos, das der Prinzessin Auguste zu Theil wird, Ihnen anzugehören, bestimmt zu seyn, mit Ihnen zu leben, und in dem Cirkel Ihrer Schwestern der Vertraulichkeit der edelsten und liebenswürdigsten ihres Geschlechts zu genießen. Wenn Sie mit Recht sagen, gnädigster Prinz, daß das Glück des Mannes fast in jeder Lage auf seinem eigenen Willen beruht, so ist das einer Frau vorzüglich von demjenigen im Charakter des Mannes abhängig, was, möchte ich sagen, außer seinem Willen existirt, mehr in seinem Wesen, als in seinen Gesinnungen selbst, mehr in seiner ganzen Art zu seyn, als in einzelnen Handlungen liegt. Nur die Höhe und Reinheit der Empfindung, die alles Ungleichartige zurückstößt, nur die Zartheit der Gefühle, die, in die ganze Seele verwebt, sich selbst in der Bildung und in dem Ton der Stimme ausspricht, sind vermögend eine feinfühlende Frau zu beglücken. Nur wo sich dies, so wie in Ihnen vereint findet, wird die innere Harmonie, für deren kleinste Störung ein weibliches Gemüth empfindlich ist, indeß die meisten Männer kaum die größesten Misklänge darin wahrnehmen, nicht unterbrochen. Nur so empfindende Männer sind aber auch eigentlich würdig, ein weibliches Herz zu beglücken, und Ihnen wird neben diesem Gefühl noch das andre gleich schöne und frohe werden, daß Sie Sich durch eigne Wahl diese Freuden in einer Lage, in der man ge- wöhnUch darauf Verzicht thun muß, zu verschaffen, und sie mit allen übrigen Vorzügen zu vereinigen wußten.</p>
+
+               <p>Die Ankunft meines Bruders in Frankreich wird Ew. Durchlaucht jetzt gewiß schon längst bekannt seyn. Vermuthlich hat er früher das Glück Sie in Berlin zu sehen, als ich ihn hier umarmen kann. Doch hoffe ich, besucht er Rom noch vor dem Frühjahr.</p>
+
+               <p>Die Musik für die Gn. Carradori ist erst mit dem letzten Posttag<pb n="16.38" xml:id="pbXVI38"/> angekommen, obgleich ich den Brief schon ein Paar Posttage früher empfing. Ich besorge sie nun sogleich.</p>
+
+               <p>Ich wage es, mich Ew. Durchlaucht fernerer Gnade und Freundschaft zu empfehlen, und ersterbe mit innigster Ehrfurcht</p>
+            </div>
+
+            <div type="section" n="77">
+               <head>
+                  <title type="main">Ew. Durchlaucht</title>
+               </head>
+               <p>unterthänigster,</p>
+            </div>
+
+            <div type="section" n="78">
+               <head>
+                  <title type="main">Rom, den i. September, 1804 Humboldt</title>
+               </head>
+               <p>Ew. Durchlaucht entschuldigen mich wohl bei der Fürstin Solms, daß ich gewagt habe, diesen Brief ihr selbst zu schicken. Ew. Durch- laucht hatten mir keine Addresse angegeben. Noch muß ich Ew. Durchlaucht unterthänigst bitten, ja von mei- nem Gespräche mit dem Bischof nichts mitzutheilen, damit ich nicht das mir schätzbare Vertrauen dieses Mannes verhere.</p>
+            </div>
+
+            <div type="section" n="79">
+               <head>
+                  <title type="main">H.</title>
+               </head>
+            </div>
+
+            <div type="section" n="80">
+               <head>
+                  <title type="main">52. An Struensee Rom, 22. September 1804</title>
+               </head>
+               <p>G. St. A . Generaldirektorium, Fabrikendepartement, Fabriken- und Manufaktursachen, Gener alia LXXXX Nr. 57: 3 eigenh. Quartseiten.</p>
+
+               <p>Schlägt für den Konsulposten in Livorno an Stelle der zurückgetre- tenen bisherigen Agenten Bolla und Bassi den Franz Guebhard Bonhote aus Neuchatel vor und erbittet für ihn Struensees Fürsprache; lobt den Konsul Philippe in Genua.</p>
+            </div>
+
+            <div type="section" n="81">
+               <head>
+                  <title type="main">53. An Hardenberg 6. Oktober 1804</title>
+               </head>
+               <p>Geh. St. A. Rep. g, Z lit. Z, fasz. 9; 4 eigenh. Quartseiten.</p>
+
+               <p>Monsieur le Baron,</p>
+            </div>
+
+            <div type="section" n="82">
+               <head>
+                  <title type="main">La lettre que Votre Excellence, au milieu de Ses occupations</title>
+               </head>
+               <p>multipliees et importantes, a daigne m'addresser sous la date du 29. Aout, m'a ete une marque trop distinguee de Sa bienveillance et de Ses bontes pour que j'eusse pü oser m'y attendre. J'en suis d'autant plus reconnoissant ä Votre Excellence et je La supplie de compter toujours sur mon sincere et entier devouement.</p>
+
+               <p>Vous aurez daigne voir, Monsieur le Baron, par ma derniere lettre, quels ont ete les sentimens, dont m'a rempli la nouveUe, que S. M. le Roi a confie la direction du Departement des Affaires etrangeres<pb n="16.39" xml:id="pbXVI39"/> ä Vos mains<note type="footnote" n="*)" resp="gnd-116890657"><hi>Vgl. an den König 10. Mai 1806.</hi></note>. J'ose me flatter de pouvoir prouver encore mieux avec le tems k Votre Excellence, combien je me rejouis de travailler maintenant sous Ses yeux et de recevoir d'Elle les Instructions qui doivent me guider. Je suis sinc^rement attache au Service du Roi, c'est par cet attachement seul, que j'ai desire d'y 6tre employe. Je ne puis eprouver que la joie la plus vive en voyant place ä la tete du Departement un Ministre qui, ainsi que Votre Excellence, unit ä l'etendue des connoissances et ä la superiorite des talens un amour aussi constant et suivi du travail. Ce n'est que depuis que Votre Excellence a daigne m'accorder le droit de Lui parier avec plus de confiance, que j'ose Lui exprimer ces sentimens dans toute leur etendue; ce n'est qu'apresent que je puis espörer, qu'Elle les croira enti^rement vrais et eloignes meme de l'ombre la plus legere de flatterie.</p>
+
+               <p>Je suis, ainsi que Votre Excellence veut bien l'observer, k tous les ^gards parfaitement content de la place que j'occupe; je le suis surtout par l'indulgence que le Roi et le Ministere ont daigne me prouver jusqu'ici, et la continuation de laquelle j'ose me promettre des bontes de Votre Excellence. Au reste je La supplie de croire que j'eprouverai la plus grande satisfaction toujours lä, oü Elle jugera pouvoir faire le meilleur usage de mes foibles Services.</p>
+
+               <p>Le seul point pour lequel je ne saurois dissimuler que je me trouve dans une Situation bien peu heureuse ici, est malheureusement celui des finances<note type="footnote" n="^)" resp="gnd-116890657"><hi>Am 14. April war Hardenberg wieder, wie schon für 6 Wochen im August 1803, Haugwitz' Vertreter geworden, im August dann definitiv sein Nach- folger.</hi></note>. Car mes appointemens etant, ainsi qu'il sera connü ä Votre Excellence, tres-modiques, je puis Lui assurer, que les revenus entiers de ma fortune particuliere suffisent ä peine aux besoins de ma famille, surtout puisque, comme je suis le seul Agent du Roi en Italic, mon poste entraine un grand nombre de depenses avec soi, que la ville que j'habite, est infiniment plus ch^re qu'on ne le suppose ordinairement, et que meme le climat et l'insalubrite de l'air y rendent le sejour plus couteux. Neantmoins mon poste n'est certainement pas celui qui donne le moins d'occupations, surtout comme je n'ai point de Secretaire de Legation pour m'aider. La confiance dont Votre Excellence veut bien m'honorer, m'a engage ä Lui faire cet aveu; je Tai meme crü de mon devoir, puisqu'Elle daigne parier une fois de ma Situation, de la lui exposer toute entiere; j'ose apresent ajouter la priere, qu'Elle me fasse la grace de Se<pb n="16.40" xml:id="pbXVI40"/> Souvenir de moi, s'il se presentoit peut-^tre quelqu'occasion d'ame- liorer mon sort ici. II y a encore deux appointemens affectes k des postes en Italic qui viendront ä vaquer avec le tems, et qui, n'etant plus d'aucune utilite pour les interets du Roi, seront sans doute supprimes. Peut-etre aussi que les efforts par lesquels je täche jour- nellement de diminuer les fraix des expeditions Papales, et le refus constant que j'ai fait des gratifications qui m'ont ete offertes de tems en tems par les Ev^ques du Roi et que je crois entierement incom- patibles avec les devoirs de ma charge, engageroient Sa Majest6 ä m'assigner quelqu'augmentation d'appointemens sur un ou autre grand Eveche, comme p. e. celui de Varsovie est vacant dans ce moment. II est sur au moins, que dans aucun pais les Eveques ne jouissent, ainsi que dans les etäts du Roi, de l'avantage de ne rien payer pour leurs affaires ä Rome que les fraix les plus indispensables des Brefs et des BuUes expediees en leur faveur. J'ose cependant abandonner ces idees entierement ä la sagesse et ä la bienveiUance de Votre Excellence, et je ne craindrois jamais rien autant que de Lui devenir importun.</p>
+
+               <p>J'ai admire l'exactitude, avec laquelle Votre Excellence s'est souvenue du pauvre Cordonnier Stehr<note type="footnote" n="^)" resp="gnd-116890657"><hi>Vgl. an Uhden, März 1803.</hi></note>. II n'est pas encore paye, et puisque Votre Excellence daigne m'y autoriser, je ferai un rapport sur cet objet au Departement.</p>
+
+               <p>Le Comte Luciani, Consul General du Roi en Toscane, aura addresse un memoire au Departement sur le changement qu'il suppose qui aura Heu ä l'^gard du Consulat de Livourne. Votre Excellence n'aura pas lü sans quelque interet les deux lettres du Comte de Hertzberg qu'il a jointes, ä ce qu'il me marque, k son rapport, et qui prouvent d'une maniere vraiment douloureuse, jusqu'oü est allee dans les demiers tems la foiblesse de cet homme qui d'ailleurs avoit des merites aussi distingues.</p>
+            </div>
+
+            <div type="section" n="83">
+               <head>
+                  <title type="main">ä Rome, ce 6. Octobre 1804 Humboldt</title>
+               </head>
+            </div>
+
+            <div type="section" n="84">
+               <head>
+                  <title type="main">5^. An den Erbprinzen Georg Rom, ij. Oktober 1804</title>
+               </head>
+               <p>Hauptarchiv Neustrelitz, 57. II. i; 3 eigenh. Quartseiten.</p>
+
+               <p>Bericht über den günstigen Verlauf der Ehedispensationsverhand- lungen und die päpstlichen Bedingungen: Unauflösbarkeit, Erziehung der Kinder bis ins dreizehnte Jahr durch die Mutter, Erleichterungen für die katholischen Mecklenburger. Caroline in Paris.</p>
+
+               <pb n="16.41" xml:id="pbXVI41"/>
+            </div>
+
+            <div type="section" n="85">
+               <head>
+                  <title type="main">53. An Hardenberg Rom, 2g. Dezember 1804</title>
+               </head>
+               <p>G. St. A. Rep. 9, Z lit. Z, fasz. 9; 2 eigenh. Quartseiten.</p>
+
+               <p>Neujahrswünsche und -versprechen.</p>
+            </div>
+
+            <div type="section" n="86">
+               <head>
+                  <title type="main">56. An Consalvi Rom, 8. Januar 1805</title>
+               </head>
+               <p>Archivio Vaticano, Ministro Prussia, sm; 2 eigenh. Quartseiten.</p>
+
+               <p>Empfehlung eines Ehedispensgesuches mit der Bitte, die Klausel, daß der katholische den nichtkatholischen Teil zu bekehren versuchen soll, wegzulassen als hart in einem Lande, wo vollkommene Gewissens- freiheit herrscht.</p>
+            </div>
+
+            <div type="section" n="87">
+               <head>
+                  <title type="main">^y. An den Erbprinzen Georg Rom, 9. Januar 1805</title>
+               </head>
+               <p>Hauptarchiv Neustrelitz, 51. II. i; 4 eigenh. Quartseiten.</p>
+
+               <p>Gnädigster Erbprinz und Herr,</p>
+
+               <p>Ich weiß in der That nicht, womit ich es entschuldigen soll, daß ich Ihre beiden so freundschaftlichen und liebevollen Briefe vom 2. u. 15. Nov. V. J. so unglaubhch spät beantworte. Allein gerade die wahre Ursache meines Aufschubs, so einfach und schlicht sie ist, wird auch bei Ihnen, gnädigster Herr, Entschuldigung finden. Ihr erster, langer Brief war nicht bloß an mich, er war auch an meine Frau gerichtet, ich erwartete dieselbe, bei dem Empfange desselben, gerade in Kurzem, und so schien es mir, als würde es Ihnen Freude machen, wenn meine Antwort zugleich einige Zeilen von ihr enthielte. Leider haben mich meine Hofnungen betrogen. Mannigfaltige Umstände, die es zu weitläuftig wäre, Ew. Durchlaucht einzeln auseinanderzusetzen, zu denen aber unglücklicherweise der Tod unseres jüngsten, in Paris gebohrenen Mädchens gehört, haben meine Frau, ganz über ihren Vorsatz und ihre Neigung in Paris zurückgehalten, und ich glaube jetzt noch bloß, ohne es mit Sicherheit zu wissen, daß sie am 15. Dec. v. J. abgereiset ist<note type="footnote" n="^)" resp="gnd-116890657"><hi>Die im Sommer 1804 in Paris geborene Louise war am j8. Oktober 1804 dort gestorben; am 25. Dezember 1804 reiste Caroline aus Paris ab und kam am 2g. Januar 1805 in Rom an.</hi></note>.</p>
+
+               <p>DieWendung^), welche die Angelegenheit genommen hat, die Ew. Durchlaucht in jeder Rücksicht so wichtig seyn mußte, ist mir,<pb n="16.42" xml:id="pbXVI42"/> wie Sie leicht Selbst denken werden, in hohem Grade schmerzhaft und überraschend gewesen; mehr noch sogar das Erstere als das Letztere. Denn jetzt kann ich Ew. Durchlaucht sagen, daß ich schon gleich nach der Ankunft des Courirs hier und als ich meinen letzten Brief schrieb, Vermuthungen hegte, die es mir nur unnütz und indiskret schien, damals zu äußern ; unnütz weil Ew. Durchlaucht auf jeden Fall früher unterrichtet seyn mußten, und indiskret, weil, solange noch irgend eine andre Erklärungsart möglich blieb, ich die jetzige wahre mir selbst nicht einmal erlauben mochte.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Scheitern der Heiratsverhandlungen.</hi></note></p>
+
+               <p>Daß man sich von jener Seite entsetzlich im Lichte gestanden hat, wird jeder beim ersten Anblick einsehen, der Ew. Durchlaucht kennt. Einem Fürsten die Hand geben zu können, den zu besitzen schon im Privatstande ein seltenes Glück sejm würde, — diese Gelegenheit, in einer Lage, in der man sonst alles den Verhältnissen aufopfern muß, das glücklichste Leben anzuknüpfen, das die freieste Wahl aus aUen möglichen Losen herausheben könnte, zeigt sich nur einmal und kehret nie wieder. Daß man das nicht gefühlt hat, ist allein ein hinlänglicher Beweis, daß man nicht den Sinn hatte, dessen Sie, Gnädigster Herr, zu Ihrem Glücke bedürfen, und daß Sie mit der endhchen Wendung der Sache zufrieden zu seyn Ursache haben. Dennoch fühle ich sehr lebhaft, welchen unangenehmen Eindruck sie augenbhcklich auf Sie, Gnädigster Herr, gemacht haben muß. Je feiner und zarter Sie selbst über Verhältnisse dieser Art denken, desto weher muß es Ihnen thun, zu sehen, daß man diesen Gefühlen und Gesinnungen so wenig entspricht.</p>
+
+               <p>Wenn mir Ew. Durchlaucht erlauben, noch einen Augenblick bei der Beziehung stehen zu bleiben, welche diese Angelegenheit auf den hiesigen Hof hatte, so möchte ich Ihnen jetzt mehr als je, die Bitten um ich weiß selbst nicht genau, welche Vergünstigungen, welche Ihnen der Papst hier persönhch im Namen der Strehtzer Kathohschen Unterthanen that<note type="footnote" n="^)" resp="gnd-116890657"><hi>Bau einer kathol. Kirche in Strelitz, vgl. an den Erbprinzen 13. X. 1804.</hi></note>, und die bei dieser Veranlassung aufs neue in Anregung kamen, ans Herz legen. Soviel ich mich erinnere, bat er bloß um Freiheit des Gottesdienstes, diese verlangt in der That schon die allgemeine Toleranz und Gewissensfreiheit, und im gegenwärtigen Augenblick wäre es eine für andre beschämende Großmuth, wenn Ew. Durchlaucht das unaufgefordert thäten, was man sonst gern als eine Gegenvergünstigung angesehen hätte. Sollten Ew. Durchlaucht in dieser Hinsicht etwas entweder dem Papst oder dem Cardinal Consalvi mitzutheilen haben, so würde ich, was Sie<pb n="16.43" xml:id="pbXVI43"/> mir in dieser Hinsicht aufzutragen geruhen würden, mit Vergnügen übernehmen. Ich habe um so mehr gewagt, diesen Punkt zu berühren, als der Antheil, welchen Sie, Gnädigster Herr, wie Sie mir schreiben, an den Regierungsgeschäften Ihres Landes nehmen, und der mich ausnehmend gefreut hat, mir eine doppelt günstige Gelegenheit dazu darbot.</p>
+
+               <p>Von meiner Famihe kann ich Ew. Durchlaucht leider nur wenig sagen, da ich nur meine beiden jüngsten Mädchen bei mir habe. Beide sind sehr wohl, aber vollkommene Römerinnen. Gabriele versteht nicht einmal deutsch, und auf Adelheids Lippen ist der letzte deutsche Laut mit der langen Abwesenheit der Mutter erstorben. Sie moquirt sich sogar manchmal über die parolaisse, wie sie sie nennt, die sie mich manchmal reden hört. Und doch sind diese parolaisse unter diesem Himmel so süß, wie ich so oft mit Ew. Durch- laucht erfahren habe. Aber von dem Himmel, von dem göttlichen Sonnenschein, in dem mir eben, da ich dies schreibe, St. Peter und Monte Mario entgegenstrahlen, darf ich Ew. Durchlaucht nicht reden, um nicht Ihre Sehnsucht zu vergrößern.</p>
+
+               <p>Die Gn. Carradori, mit der ich fortdauernd viel lebe, und die Marchesa Lupi<note type="footnote" n="^)" resp="gnd-116890657"><hi>Am Rande doppelt angestrichen. *) Am Rande angestrichen. Der Schein liegt bei und enthält von Humboldts Hand, unter einem besiegelten Schuldvermerk des Erbprinzen, eine Quittung.</hi></note>, die mich zwar immer mon eher H. nennt, die ich aber weniger sehe, tragen mir die Inlagen auf.</p>
+
+               <p>Ihre Copien für die ich so viel als man nur immer danken kann, danke, wage ich nicht, dem langen und jetzt noch mehr unsichern Wege anzuvertrauen. Haben Sie die Gnade zu befehlen, ob ich sie zurückschicken, oder verbrennen soll?</p>
+
+               <p>Ich lege diesem Briefe den Schein bei^), den Ew. Durchlaucht die Gnade gehabt hatten, mir über die nunmehr längst bezahlten 1000 Sc. zu geben. Ich wartete nur ab, Sie an einem festen Ort zu wissen, um ihn zurückzuschicken.</p>
+
+               <p>Zugleich wage ich es, Ihnen bei dieser Gelegenheit anzuzeigen, daß ich für die Musik an die Gn. Carradori an Postgeld 22^/2 Piaster ausgelegt habe, und Ew. Durchlaucht bitte, dieselben an Mendels- sohn &amp; Friedländer in Berlin auszahlen zu lassen.</p>
+
+               <p>Zoega trägt mir seine herzlichsten und ehrerbietigsten Empfehlungen auf. Ich gehe alle Donnerstag Morgen mit ihm im alten Rom herum, und wir sprechen unendlich oft von Ihnen und unsern dama- ligen Coursen.</p>
+
+               <pb n="16.44" xml:id="pbXVI44"/>
+               <p>Erhalten Sie mir, gnädigster Herr, Ihr gnädiges und liebevolles Andenken, und erlauben Sie mir, mich mit tiefster Ehrfurcht zu nennen</p>
+
+               <p>Ew. Durchlaucht unterthänigsten,</p>
+            </div>
+
+            <div type="section" n="88">
+               <head>
+                  <title type="main">Rom, den 9. Januar, 1805 Humboldt</title>
+               </head>
+            </div>
+
+            <div type="section" n="89">
+               <head>
+                  <title type="main">55. An Consalvi Rom, 21. Januar 1803</title>
+               </head>
+               <p>Archivio Vaticano, Ministvo Prussia, sm; 3 eigenh. Quartseiten.</p>
+
+               <p>Eingehende Empfehlung eines Ehedispensgesuches aus Posen und Übergabe eines zweiten aus Breslau.</p>
+            </div>
+
+            <div type="section" n="90">
+               <head>
+                  <title type="main">^g. An Hardenberg Rom, 9. März 1805</title>
+               </head>
+               <p>G. St. A. Rep. 9, Z lit. Z, fasz. 9; 4 eigenh. Quartseiten.</p>
+
+               <p>Ausführlich begründete Bitte um die offizielle Ernennung zum Minister-Residenten statt des bisherigen einfachen Residenten und um die Akkreditierung bei der neuen Regierung in Mailand^), deretwegen Rom zu verlassen ihm freilich äußerst schmerzlich wäre. Alexander von Humboldt wird erwartet.</p>
+            </div>
+
+            <div type="section" n="91">
+               <head>
+                  <title type="main">60. An den Erbprinzen Georg Rom, 8. Mai 1805</title>
+               </head>
+               <p>Hauptarchiv Neustrelitz, 51. II. i; 3 eigenh. Quartseiten.</p>
+
+               <p>Berichtet von dem genußreichen Leben in Rom mit Alexander zusammen; übersendet einen Brief der Gräfin Carradori; Nachrichten aus der römischen Gesellschaft.</p>
+            </div>
+
+            <div type="section" n="92">
+               <head>
+                  <title type="main">61. An Hardenberg Rom, 22. Mai 1805</title>
+               </head>
+               <p>G. St. A. Rep. 9, Z lit. Z, fasz. 9; 3 eigenh. Quartseiten.</p>
+
+               <p>Dank für den Auftrag einer außerordentlichen Mission zum Kaiser Napoleon nach Mailand; erneute und eingehend begründete Bitte um Gehaltsvermehrung ; Erledigung einer Geschäftsangelegenheit in Como von Mailand aus versprochen.</p>
+
+               <p>') Im Januar 1805 wurde die italienische Republik in das Königreich Italien verwandelt; im Mai 1805 setzte sich Napoleon die eiserne Krone der Lombarden aufs Haupt.</p>
+
+               <pb n="16.45" xml:id="pbXVI45"/>
+            </div>
+
+            <div type="section" n="93">
+               <head>
+                  <title type="main">62. An Hardenberg Rom, 6. Juli 1805</title>
+               </head>
+               <p>G. St. A. Rep. 9, Z lit. Z, fasz. 9; 2 eigenh. Quartseiten.</p>
+
+               <p>Dank für ein Schreiben, in dem ihm eine Gehaltserhöhung mittels der Einkünfte der hohen kirchlichen Würdenstellen versprochen ist; Nachricht über Alexanders Abreise nach Neapel. 63. An Emmerich Joseph v. Dalberg Rom, 14. Julius 180$ Karlsruhe, Landesarchiv, Abt. III. Staatssachen. Correspondenz Dalberg;</p>
+
+               <p>4 eigenh. Quartseiten.</p>
+
+               <p>Sie erinnern Sich vielleicht noch, theuerster Herr Baron, daß ich in den wenigen Tagen, die ich die Freude hatte, Sie hier zu sehen, einmal des Wunsches erwähnte, mit den Geschäften Sr. Kurfürstlichen Durchlaucht, Ihres Kurfürsten am hiesigen Hofe beauftragt zu werden. Die gütige Art, mit der Sie Sich hierüber äußerten, veranlaßt mich, noch einmal schriftlich auf diese Idee zurückzukommen, und dieselbe, wenn sie Ihnen zweckmäßig, und dem Interesse Ihres Hofes gemäß schiene, Ihrer Freundschaft zu empfehlen.</p>
+
+               <p>Da Sie mich hier in meinen Dienstverhältnissen gesehen haben, so daß ich mir schmeichele, daß Sie bemerkt haben werden, daß ich meinen Geschäften, außer dem Interesse der Pflicht, noch ein eigenes, aus der Vorstellung des darin zu leistenden Nutzens hergenommenes widme, und es wird Ihnen daher nicht unnatürlich scheinen, wenn ich meinen Wirkungskreis gerne erweitert sähe. Ich kann eben mit Wahrheit hinzusetzen, daß mir dies auf keine andere Weise soviel Genugthuung gewähren würde, als wenn es durch die Geschäfte Ihres Hofes geschähe, und es mir erlaubt wäre, für eine Regierung und einen Fürsten thätig zu seyn, für dessen Charakter und Gesinnungen ich immer die tiefste und aufrichtigste Verehrung gehegt habe. Kein anderer Auftrag würde mir, meiner innigsten Ueberzeugung nach, hier gleich ehrenvoll und gleich wünschenswert erscheinen.</p>
+
+               <p>Ich glaube aber auch zugleich unpartheiisch behaupten zu können, daß die Kurfürstlich-Badensche Regierung selbst die Römischen Geschäfte auf keine Weise zweckmäßiger betreiben kann, als indem sie solche einem der hier schon accreditirten fremden Gesandten überträgt.</p>
+
+               <p>Diese Geschäfte verlangen offenbar eine doppelte Aufmerksam- keit, einmal auf die landesherrlichen Rechte, zweitens auf das mit<pb n="16.46" xml:id="pbXVI46"/> 46 Als preußischer Resident in Rom 1 802-1 808</p>
+            </div>
+
+            <div type="section" n="94">
+               <head>
+                  <title type="main">der Aufrechthaltung dieser unmittelbar verbundene Interesse der Unterthanen.</title>
+               </head>
+               <p>Gewiß zwar geht der Römische Hof jetzt nicht auf neue Anmaßungen aus. Er begnügt sich, nur zu erhalten, und arbeitet aufrichtig daran, daß die Einigkeit zwischen der geistlichen und weltHchen Macht nicht gestört werde. Allein alle Aufmerksamkeit darf dennoch nicht unterbleiben. Denn die Römischen Maximen sind einmal sehr von den Deutschen verschieden, und oft schreiten auch einzelne Tribunale, ohne daß es die eigentliche Regierung nur weiß, für sich vor.</p>
+
+               <p>Noch wichtiger ist die Aufmerksamkeit auf das Interesse der Unterthanen, weil es leichter Gefahr läuft, verletzt zu werden. Die Besorgung ihrer Angelegenheiten fordert Schnelligkeit und Ersparung der Kosten, und da der Geschäftsgang hier einmal langsam und theuer ist, so kann nur eifrige Betreibung der Sachen diese Nachtheile aufheben oder vermindern. Aber diese gelangt auch in den meisten Fäl- len glückhch zum Ziel. Da ich jetzt Provinzen besorge, für die ehemals hiesige Agenten thätig waren, kann ich Ihnen versichern, daß diese Agenten selbst mir bei einzelnen Angelegenheiten gestan- den haben, daß sie dieselben nicht anders als mit dem doppelten und dreifachen Aufwände hätten durchsetzen können.</p>
+
+               <p>Da endlich jede Regierung doch ihre Maximen und ihr eignes System hat, so ist auch, um dies zu erhalten, Einheit der Aufsicht unentbehrlich, und ein Nebenvortheil ist es, wenn der hiesige Geschäftsträger zugleich im Stande ist, über die wichtigeren politischen Begebenheiten des Tages Bericht zu erstatten, und über artistische Gegenstände, wo es verlangt wird, Auskunft zu geben.</p>
+
+               <p>Hiesige Agenten nun, auf welche jede Regierung, wenn sie es nicht für rathsam findet, einen eigenen Gesandten anzustellen, oder einem fremden Auftrag zu ertheilen, zurückkommen muß, sind selten im Stande, diesen Forderungen gehörig zu entsprechen. Es fehlt ihnen immer an Kenntniß der Deutschen Verhältnisse, und an Nachdruck und Gewicht, die Aufträge ihrer Höfe hier durchzusetzen. Sie sind dabei selten an einen ordenthchen und regehnäßigen Geschäftsgang gewöhnt, und wo irgend ein Collisionsfall eintritt, ziehen sie natürlich das ihnen näher liegende Interesse des hiesigen Hofes, in dessen Dienste sie meistentheils stehen, vor.</p>
+
+               <p>Sobald daher von dem zu befolgenden System die Rede ist, so scheint mir, Hebster Herr Baron, keine Wahl zu seyn. Mein Wunsch ist aber freihch dabei auch auf mich persönlich gerichtet, und dies stelle ich nun allein Ihrer eigenen Beurtheilung anheim. Ich kann<pb n="16.47" xml:id="pbXVI47"/> Ihnen hierbei nur die feste Versicherung geben, daß ich den Aufträgen Sr. Kurf. Durchlaucht immer die genaueste, pünkthchste und gewissenhafteste Aufmerksamkeit widmen, und Ihnen meine Dankbarkeit für Ihre freundschaftHche Bemühung vorzüghch mit durch die Art zu beweisen suchen würde, wie ich Ihren gütigen Empfehlungen entspräche. Noch halte ich es für gut zu bemerken, daß der Umstand, daß Ihr Hof schon, wenigstens für einige der neuen Kurfürstlichen Acquisitionen, einen hier angestellten Agenten hat, meinem Wunsche nicht im Wege seyn würde. Bei mehreren hiesigen Gesandtschaften giebt es eigene Agenten angestellt, welche diejenigen Geschäfte, die keines besondern Nachdrucks bedürfen, unter Aufsicht des Ge- sandten betreiben. Ueber die Sache der Wittwe des verstorbenen Gr. v. Hatzfeld bedauere ich, Ihnen heute noch keine Auskunft geben zu können. Ich habe aber erst gestern die Papiere von Monsignor Sovilly erhalten. Heute über 8 Tage hoffe ich indeß im Stande zu seyn, Herrn Müller unserer Abrede gemäß, ausführhch deßhalb zu schreiben.</p>
+
+               <p>Ich empfehle mich Ihrer ferneren gütigen Freundschaft, und verbleibe mit den Gesinnungen der unwandelbarsten Hochachtung und Zuneigung ganz der Ihrige</p>
+            </div>
+
+            <div type="section" n="95">
+               <head>
+                  <title type="main">Humboldt</title>
+               </head>
+            </div>
+
+            <div type="section" n="96">
+               <head>
+                  <title type="main">64. An den Erbprinzen Georg Rom, ly. September 180$</title>
+               </head>
+               <p>Hauptavehiv Neustrelitz, 51. II. i; 4 eigenh. Quartseiten.</p>
+
+               <p>Durchlauchtigster Erbprinz,</p>
+
+               <p>Gnädigster Prinz und Herr.</p>
+
+               <p>Ich weiß, daß mein Bruder keiner Empfehlung bei Ihnen, gnädigster Prinz, bedarf<note type="footnote" n="^)" resp="gnd-116890657"><hi>Vgl. an Hardenberg 9. III. 1805.</hi></note>. Allein es ist mir zu wichtig, daß Ew. Durch- laucht Sich, wenn Sie ihn sehen, auch meiner erinnern, als daß ich unterlassen könnte, ihm diese Zeilen mitzugeben. Ich könnte ihm das Glück beneiden, das er genießen wird, Ihnen vermuthlicb lange Zeit hindurch nahe zu seyn, aber ich freue mich unendlich dasselbe gerade in Rom genossen zu haben; die Tage, die ich hier mit Ew. Durchlaucht verlebte, sind nun dadurch an Andenken geknüpft, die Ihnen gewiß immer theuer bleiben werden. Mein Bruder wird<pb n="16.48" xml:id="pbXVI48"/> 48 Als preußischer Resident in Rom 1 802-1 808 Ihre Einbildungskraft in wunderbare Naturscenen und eine uns fast unbekannte Welt versetzen, und ich darf mir schmeicheln, daß Sie in ihm, was sich gewiß nur selten mit mühevollen und tiefen wissenschaftlichen Untersuchungen vereinigt findet, eine ungewöhnliche Gabe antreffen werden, alles Charakteristische, was zusammen ein Bild ausmacht, auf einmal aufzufassen, und das ganze Bild wieder mit bewundernswürdiger Lebendigkeit darzustellen. Er stellt alle seine Beobachtungen der leblosen und lebendigen Natur immer gerade in das Licht, von welchem aus der Zusammenhang aller Kräfte sichtbarer wird, und daher Übertrift er, wie es mir scheint, an Fruchtbarkeit der Ansichten alle, die eine ähnliche Laufbahn, als er gegangen sind. Allein ich will Ew. Durchlaucht eignem Urtheile nicht vorgreifen und würde mich nur unendlich freuen, wenn Sie mir einmal einige Worte über ihn zu sagen die Gnade haben wollten.</p>
+
+               <p>Ich wage es noch, ehe ich diesen Brief schließe, Ew. Durchlaucht eine Sache zu empfehlen, die mich betrift und mir sehr am Herzen liegt. Sie erinnern Sich, gnädigster Herr, daß meine Lage hier, so wünschenswürdig ich sie auch in jeder andern Rücksicht finde, doch in Absicht meines Auskommens nur sehr wenig vortheilhaft ist. Ich habe nur das halbe Gesandten-Gehalt, und Rom ist, wie Ew. Durchlaucht Selbst erfahren haben, nichts weniger, als wohlfeil zu nennen. Der Minister Hardenberg hat die Güte gehabt, mir zu versprechen, auf Mittel zu einer Gehalts Vermehrung für mich zu denken*), und mein Bruder wird auch von seiner Seite den gleichen Plan zu betreiben suchen. Die Gnade, und ich darf sagen, die Freundschaft, deren Sie, gnädigster Prinz, mich zu würdigen geruhen, macht mich so dreist, auch Ihnen diese Sache ans Herz zu legen. Ich bitte Sie vorzüglich, meinem Bruder zu erlauben, mit Ihnen darüber zu reden, und wollten Sie alsdann in dem Augenbhcke, der dazu günstig schiene, ein Wort bei der Königin oder dem Könige zur Unterstützung sagen, so würde mir das GeHngen meines Planes nicht mehr zweifelhaft scheinen. Ich darf in der That, glaube ich, mit Zuversicht sagen, daß meine Bitte an den König nicht ungerecht ist. Ich habe noch in jedem Jahre von dem Meinigen zugesetzt, und meine heranwachsende Famihe macht es mir zur Pfhcht, dies künftig, so weit möghch, zu verhüten. Davon daß die Geschäfte meines Postens wenn gleich unbedeutender, doch mühsamer, als die eines andern sind, sind Ew. Durchlaucht selbst Zeuge gewesen, und ich darf mit Wahrheit sagen, daß das Ministerium mir bis jetzt immer in den<pb n="16.49" xml:id="pbXVI49"/> nachsichtsvollsten Ausdrücken seine Zufriedenheit bezeugt hat. Ich kann nicht läugnen, daß es mir recht eigentlich weh thut, Ew. Durchlaucht mit dieser Bitte beschwerlich zu fallen; allein ich darf auch hoffen, daß Ihnen dieselbe ein sicherer Beweis des innigen und aufrichtigen Zutrauens seyn wird, das Ihre beispiellose und in der That rührende Güte mir eingeflößt hat.</p>
+
+               <p>Meine Frau empfiehlt sich, Gnädigster Herr, Ihrem freund- schaftüchen Andenken. Erhalten Sie dasselbe auch mir, und erlauben Sie mir, Ihnen die Versicherung der tief und wahr empfundenen Ehrfurcht zu erneuern, mit welcher ich ersterbe</p>
+            </div>
+
+            <div type="section" n="97">
+               <head>
+                  <title type="main">Ew. Durchlaucht</title>
+               </head>
+            </div>
+
+            <div type="section" n="98">
+               <head>
+                  <title type="main">unterthänigster, Rom, den 17. September, 1805 Humboldt</title>
+               </head>
+            </div>
+
+            <div type="section" n="99">
+               <head>
+                  <title type="main">65. An Hardenberg 17. September 1805</title>
+               </head>
+               <p>G. St. A. Rep. 9, Z lit. Z, fasz. g. 2 eigenh. Quartseiten. Monsieur le Baron,</p>
+
+               <p>Je ne puis laisser partir mon frere sans prendre la liberte d'addres- ser quelques lignes par lui ä Votre Excellence, et sans me rappeUer ä Sa memoire au meme moment oü il va jouir du bonheur de La revoir. Les bontes amicales dont Votre Excellence daigne l'honorer, justi- fient certainement le desir que j'ai, de rattacher de cette mani^re ä lui mon Souvenir aupres de Votre Excellence, et en meme tems Votre Excellence concevra mieux que personne, les regrets que je dois eprouver de m'en separer si tot apres une aussi longue et dou- loureuse Separation. Ces regrets sont d'autant plus grands, que je puis dire avoir retrouve en mon frere dans leur vivacit6 tous les sentimens d'amiti^ et d'attachement qu'il me portoit autrefois, et que je me suis profondement convaincu, que les affections du coeur n'ont ete affoibhs en rien en lui ni par les objets varies desquels il s'est occupe, ni par l'isolement dans lequel il a vecu. La part qu'il prend ä moi et ä ma famille, le portera peut-6tre ä parier ä Votre Excellence de ma Situation ici, et comme il la connoit entierement, j'ose meme La suppher de daigner lui en accorder la permission. II n'ignore point avec quelle bonte bienveiUante Votre Excellence veut bien s'interesser ä mon sort, et il Lui en exprimera bien plus vivement que je ne le pourrois par ecrit, ma profonde et sincere reconnoissance, mais il Lui temoignera surtout, combien 11 m'est penible de Lui parier de mes interets particuliers et comme je ne m'y serois jamais de- 4 Humboldt, Briefe<pb n="16.50" xml:id="pbXVI50"/> termin^, si le soin pour ma famille ne m'en imposoit le devoir. Malgre cela je ne craindrois rien autant que de paroitre importun, et je renoncerois plutot k tout espoir d'am^liorement de ma Situation que d'abuser ainsi de la bienveillance avec laquelle Votre Excellence daigne me traiter.</p>
+            </div>
+
+            <div type="section" n="100">
+               <head>
+                  <title type="main">k Rome, ce 17. Septembre, 1805 Humboldt</title>
+               </head>
+            </div>
+
+            <div type="section" n="101">
+               <head>
+                  <title type="main">66. An Hardenberg Rom, 28. Dezember 1805</title>
+               </head>
+               <p>G. St. A . Rep. 9, Z lit. Z, fasz. 10; 2 eigenh. Quartseiten.</p>
+
+               <p>Neujahrswünsche; Befriedigung, daß in der gegenwärtigen Krise<note type="footnote" n="^)" resp="gnd-116890657"><hi>Nach der Schlacht von Austerlitz am 2. Dezember hatte Haugwitz am 13. den Vertrag von Schönbrunn unterzeichnet.</hi></note> Hardenberg die preußische Politik leitet, an der Humboldt auch von Rom aus lebhaft Anteil nimmt; Dank für Hardenbergs Freundlichkeiten, die er über ihn Alexander gegenüber geäußert habe.</p>
+            </div>
+
+            <div type="section" n="102">
+               <head>
+                  <title type="main">6y. An Consalvi Rom, 6. Mai 1806</title>
+               </head>
+               <p>Archivio Vaticano, Ministro Prussia, sm; 3 eigenh. Quartseiten.</p>
+
+               <p>Mitteilung der Ernennung zum Ministre Plenipotentiaire beim Heiligen Stuhl; Freude darüber und Hoffnung, immer in Rom zu bleiben.</p>
+            </div>
+
+            <div type="section" n="103">
+               <head>
+                  <title type="main">68. An Consalvi Rom, 9. Mai 1806</title>
+               </head>
+               <p>Archivio Vaticano, Ministro Prussia, sm; 4 eigenh. Quartseiten.</p>
+
+               <p>Über die Ablehnung des Planes einer päpstlichen Nuntiatur in Berlin; Bitte um eine Audienz beim Papste in der Frage einer Bistums- besetzung.</p>
+            </div>
+
+            <div type="section" n="104">
+               <head>
+                  <title type="main">6g. An Haugwitz Rom, 10. Mai 1806</title>
+               </head>
+               <p>G. St. A. Rep. 9, Z lit.Z, fasz. 10; 2 eigenh. Quartseiten.</p>
+
+               <p>Empfiehlt sich Haugwitz bei dessen Rückkehr ins auswärtige Departement^) mit nochmaligem Dank für die Annehmlichkeiten des römischen Postens, den er Haugwitz' Protektion verdanke; daher sein ständiges Bemühen, ihn durch seinen Eifer zufriedenzustellen.<note type="footnote" n="2)" resp="gnd-118554727"><hi>Haugwitz war nach den Pariser Verhandlungen über den Vertrag von Schönbrunn im April 1806 wieder zum alleinigen Minister des Auswärtigen ernannt worden.</hi></note></p>
+
+               <pb n="16.51" xml:id="pbXVI51"/>
+            </div>
+
+            <div type="section" n="105">
+               <head>
+                  <title type="main">yo. An den König Rom, 10. Mai 1806</title>
+               </head>
+               <p>G. St. A. Rep. g, Z lit.Z, fasz. jo; 2 eigenh. Folioseiten.</p>
+
+               <p>Dank für den Titel eines Ministre Plenipotentiaire und die Gehaltserhöhung von 1600 Thl.; das letztere sei durch die Teurung in Rom begründet, die Titelangelegenheit durch die dadurch bewirkte Erleichterung der diplomatischen Unterhandlungen. Die wegen des neuen Titels erforderlichen Einführungsformalitäten.</p>
+            </div>
+
+            <div type="section" n="106">
+               <head>
+                  <title type="main">yi. An Consalvi Rom, ij. Mai 1806</title>
+               </head>
+               <p>Archivio Vaticano, Ministro Prussia, sm; 3 eigenh. Quartseiten.</p>
+
+               <p>Erklärung mit Bezug auf eine vorhergegangene Unterredung, keine neuen Instruktionen mit dem neuen Titel empfangen zu haben, eine Erklärung, notwendig gerade in den gegenwärtigen Wirren des Heiligen Stuhls.</p>
+            </div>
+
+            <div type="section" n="107">
+               <head>
+                  <title type="main">y2. An den Erbprinzen Georg ji. Mai 1806<note type="footnote" n="^)" resp="gnd-116890657"><hi>Das Datum fehlt in diesetn Brief, doch ergibt es sich aus der Zusatnmen- stellung in dem Brief an den Erbprinzen vom 2. VII. 1806.</hi></note></title>
+               </head>
+               <p>Hauptarchiv Neustrelitz, 51. II. 1; 7 eigenh. Quartseiten.</p>
+
+               <p>Durchlauchtigster Erbprinz, Gnädigster Herr,</p>
+
+               <p>Ich würde Ew. Durchlaucht vergebens zu schildern versuchen, welch eine große und herzliche Freude mir Ihr ausführlicher freundschaftlicher Brief vom 21. März gemacht hat. Er hat allem, unaufhörlich in uns lebendigen Andenken an die Zeit, da wir Sie hier in unserer Nähe besaßen, aufs neue Farbe und Frische gegeben, allein freilich auch aufs Neue die schmerzliche Sehnsucht nach dem Rückkehren einer so schönen Zeit erweckt. Der Genuß Deutscher Freundschaft wird einem schon an sich im Auslande nur selten gewährt, und wer einmal den Reiz des Umganges mit Ihnen, Gnädigster Herr, gekannt hat, wird nirgends anders den ähnlichen suchen. Meine Frau hat meine Freude an Ihrem Briefe getheilt , sie ist und bleibt Ihnen herzlich ergeben, und wird Ihnen nie vergessen, wie gütig und liebevoll Sie sich in alle kleinen Verhältnisse unseres häushchen Kreises verwebten. Sie hat seit ihren letzten Wochen einer ungestörten und wirklich bewundernswürdig guten Gesundheit genossen,<pb n="16.52" xml:id="pbXVI52"/> und ob sie gleich gerade jetzt seit einigen Tagen nicht wohl ist, so wird doch diese Unpäßlichkeit, wie es gewiß scheint, ohne weitere Folgen bleiben. Die Kinder sind alle wohl. Caroline treibt viel Musik, worin Sie, Gnädiger Herr, meine Toleranz bewundern werden. Theodor hat einen Lehrer, mit dem er sich sehr gut verträgt, und unter dem er Fortschritte macht<note type="footnote" n="^)" resp="gnd-116890657"><hi>Sichler. *) Die beiden Mädchen sind Gabriele und Adelheid, der jüngste Knabe ist der in Rom 1806 geborene, schon 1807 gestorbene Gustav.</hi></note> ; und die beiden kleinen ganz italienischen Mädchen würden Sie mit ihren italienischen Grimassen sehr unterhalten. Der jüngste Knabe ist für sein Alter außerordentlich stark und wohP).</p>
+
+               <p>Die Verbesserung meiner hiesigen Lage, die mir in der That ein außerordentlicher Beweis der Güte des Königs gegen mich gewesen ist, werden Ew. Durchlaucht schon erfahren haben. Ich weiß selbst nicht genau, inwiefern ich sie auch Ihrer Huld und der der Königin danke. Alexander schreibt mir nur, daß außerdem Hardenberg aUein die Sache betrieben, und mit wirklich seltener Freundschaft und Bravheit ganz und gar zu der seinigen gemacht hat. Er sagt mir aber auch so oft in seinen Briefen, mit welcher Gnade und Gewogenheit die Königin unser Andenken bewahrt, daß ich darin die unverkennbaren Spuren Ihrer gütigen Freundschaft, Gnädig- ster Herr, erblicke. Allein Ihnen und für diese Gesinnungen kann ich nur mit der treuen Anhänglichkeit und Ergebenheit danken, die unter allen Umständen und in jeder Zeit nur immer in mir wach- sen und zunehmen kann. Die neue Veränderung meiner Lage wird mich, hoffe ich, fester an meinen hiesigen Posten heften; für mich wünsche und verlange ich nichts Andres; Sie, Gnädigster Herr, wissen, da Sie mich genau kennen, am besten, wie ich Rom liebe und wie wenig mich ehrgeizige Absichten beherrschen. Sollte man mich aber, ohne daß ich es suche, in wichtigeren Stellen brauchen woUen, so seyn Sie überzeugt, Gnädigster Herr, daß ich keine Aufopferung — denn Aufopferung ist es in der That von meiner Seite alsdann — scheuen werde. Ich bin der Sache meines Vaterlandes und des Königs mit wahrem und lebhaftem Eifer ergeben, selbst Ew. Durchlaucht nähere Bekanntschaft hat mich noch näher an seine Person und seine Familie geknüpft, meine erste Rücksicht, und wo es nöthig ist, meine einzige wird immer die seyn, ihm zu dienen, wo und wie er es für gut hält. Auch scheint mir dies im jetzigen Augenblick doppelt Pflicht, da die Zeiten theils an sich<pb n="16.53" xml:id="pbXVI53"/> sehr kritisch sind, theils mir ein gewisser Geist eines nutzlosen und mit Unzufriedenheit verbundenen Zurückbhckens auf die Vergangenheit sich sehr allgemein zu verbreiten scheint. Nichts scheint mir das so über alles nöthige energische Handeln so sehr zu erschweren. In Privat, wie in öffentlichen Geschäften habe ich es immer für eine der wichtigsten Maximen gehalten, mit freiem und heiterem Geist im gegenwärtigen Augenblick zu handeln, und in der Vergangenheit nie etwas anderes als mit Ruhe und Kälte eine Lehre für die Zukunft zu sehen.</p>
+
+               <p>Aber ich gehe zu einem angenehmeren Gegenstande über und der Ew. Durchlaucht gleichfalls sehr am Herzen liegt, dem Ankauf der Gipsabgüsse für den König. Alles, was Sie, Gnädigster Herr, mir darüber schreiben, habe ich mir gemerkt und mit Rehberg besprochen, und ich denke, daß nach dem Plane, den wir gemacht haben, der König eine sehr schöne Sammlung erhalten soll. Nur hat es mich in einige Verlegenheit gesetzt, daß Ew. Durchlaucht mir nicht zugleich anzeigen, von welchem Minister oder Departement wir die näheren Aufträge deshalb, und besonders die Anweisungen der Summe, da man gleich mit großen Ausgaben anfangen muß, erwarten sollen. Da mir Ew. Durchlaucht nun zu gleicher Zeit schreiben, daß Rehberg damit anfangen soll, sich bei der Akademie nach den schon verhandenen Abgüssen zu erkundigen, so bin ich, um alles auf das Beste zu sichern und zu beschleunigen, folgenden Weg eingeschlagen. Ich habe unmittelbar nach Empfang Ihres Briefes, Gnädigster Herr, dem Minister Hardenberg geschrieben, und ihn ersucht, mir die nähere Auskunft über die Sache zu geben. Mit heutiger Post nun geht gleichfalls an ihn ein mit Reh- berg sorgfältig besprochener und mannigfaltig abgeänderter Plan über die ganze Sache ab<note type="footnote" n="^)" resp="gnd-116890657"><hi>Diese Schreiben sind nicht aufzufinden.</hi></note>. Sobald wir nun jetzt die Anweisungen auf einen Theil der Summe bekommen, fangen wir unverzüglich an. Ich habe dem Minister die Sache so dringend und eilig, als möglich gemacht, und da die Königin und Ew. Durchlaucht sich für die- selbe interessiren, so ist sie, dünkt mich, bei ihm in guten Händen. Sehr Schade ist es nur, daß bei dem leidigen Krieg mit England mir die Absendung, so lange dieser dauert, fast unmögHch scheint. Doch habe ich dieser Schwierigkeit nicht erwähnt, um nicht Vorwand zu einem Aufenthalt zu geben. Ew. Durchlaucht bemerken mit Recht, daß 5000 rth. wenn damit alle und jede, auch Transportkosten bestritten werden sollen, zu<pb n="16.54" xml:id="pbXVI54"/> 54 Als preußischer Resident in Rom 1 802-1 808 allem nicht hinreichen können. Um nun doch gleich mehr, und im Grunde alles, was wünschenswürdig und zu haben möglich ist, zu erhalten, hat Rehberg einen Vorschlag gemacht, der mir nicht übel schien, und den ich daher auch selbst bei dem Minister unterstützt habe. Ew. Durchlaucht erinnern sich, daß Rehbergs eigne Gypse die schönsten sind, die man sehen kann; überdies hat er einige, die man nicht mehr haben kann, weil die Formen nicht mehr existieren. Deshalb hatte ihm, wie er mir sagt, der Minister schon in Berlin angetragen, diese Sammlung der Akademie gegen ein jährhches quantum abzutreten. Würde dieses Quantum (150 bis 200 rth. z. B.) außer der Summe der 5000 rth. gegeben, und dazu findet sich ja wohl eher Gelegenheit, als zu einem Zuschuß in Capital, so könnte jene Summe ganz auf Dinge, die Rehbergen fehlen, verwendet werden, und dann wird die Sammlung sehr vollständig. Schlimm ist es nur, daß der Transport so ungeheuer und über alles Verhältniß theuer ist. Sollten Sie denken, daß bei einem Aufwand von 5000 rth. man nur etwa 1400 rth. auf die eigentlichen Gipse rechnen kann. 2100 rth. kosten die Kasten, die Emballage, und die Versendung bis Livorno; und 1500 rth. etwa der fernere Transport und die Assecuranz. Bloß das Letztere ist vielleicht zu reichlich gerechnet.</p>
+
+               <p>Nach diesem Plane käme dann, um nur sehr große und sehr berühmte Sachen zu nennen, von dem, was Rehberg nicht hat, von hier der Farnesische Hercules, der Barberinische Faun, die Giusti- nianische Pallas, u. s. w. und von Florenz die Niobe die Mutter, der ApoUin, die Ringer, der Hermaphrodit, der Schleifer u. s. f. hinzu. Von den übrigen Statuen der Familie der Niobe will Rehberg bloß noch einige schöne Köpfe nehmen; die ganzen Figuren sind, sagt er, theils zu theuer, theils nicht merkwürdig genug. Ich habe zwar Erinnerungen dagegen gemacht. Allein da er Künstler ist, und Ew. Durchlaucht ihm ausdrücklich die Auswahl überlassen, so habe ich mich in dieses detail nicht mischen mögen. Auch ist dies ja nur ein erster Vorschlag, in dem noch alles geändert werden kann. Von den Colossen kommen die Köpfe. Der eine ganze, der allein hier zu haben ist, würde bis Berlin wenigstens auf 1500 rth. zu stehen kommen. Von der großen Melpomene hat man nur den Kopf, und so ist es leider mit vielen Sachen hier, vorzügUch mit den nach Paris gegangenen^), von denen man nur beim Weggehen ver- lorene Formen gemacht hat. Ich bitte Ew. Durchlaucht recht sehr,<pb n="16.55" xml:id="pbXVI55"/> mir ja noch alles, was Ihnen über diese Angelegenheit einfällt, zu schreiben, da ich alles mit der größesten Schnelligkeit und Bereitwilligkeit besorgen werde. Jetzt wage ich es noch Ew. Durchlaucht eine Bitte im Namen des armen Visconti zu thun. Hofrath Reichenbach ist ihm 15 bis 20 Scudi schuldig geblieben, und obgleich er ihm schon vor sehr langer Zeit darum geschrieben, so hat er keine Antwort erhalten. Vielleicht ist der Brief nicht angekommen. Dürfte ich Ew. Durchlaucht bitten, den Hofrath, mit Versicherung meiner freundschaft- lichen Empfehlung, daran zu erinnern. Kohlrausch empfiehlt sich Ihnen auf das angelegentlichste, und ebenso der brave Zoega, der noch immer derselbe ist, und alle unseres gemeinschafthchen Cirkels, in denen Ihr Andenken immer gleich unauslöschlich fortdauert.</p>
+
+               <p>Ich verharre ewig mit tiefster Ehrfurcht</p>
+            </div>
+
+            <div type="section" n="108">
+               <head>
+                  <title type="main">Ew. Durchlaucht</title>
+               </head>
+               <p>unterthänigster,</p>
+            </div>
+
+            <div type="section" n="109">
+               <head>
+                  <title type="main">Humboldt</title>
+               </head>
+            </div>
+
+            <div type="section" n="110">
+               <head>
+                  <title type="main">7J. An von der Reck Mitte Juni 1806</title>
+               </head>
+               <p>G. St. A. Rep. XI, Nr. 24 Rom, fasz. 48; 2 eigenh. Quartseiten.</p>
+
+               <p>Empfiehlt sich dem Minister hei ihrer gemeinsamen Tätigkeit in den katholischen Angelegenheiten<note type="footnote" n="^)" resp="gnd-116890657"><hi>Reck und Massow waren Justizminister; der erste für die rheinischen Provinzen, zugleich Chef des Lehen-Departements , zu dessen Ressort u. a. die Besetzung der Bistümer und die Aufsicht über die kathol. Geistlichen gehörte;</hi></note>, erbittet die Fortdauer seines Wohlwollens und versichert ihn seines erhöhten Eifers.</p>
+            </div>
+
+            <div type="section" n="111">
+               <head>
+                  <title type="main">y4. An Consalvi Rom, ig. Juni 1806</title>
+               </head>
+               <p>Original unbekannt ; gedr. Memoires du Cardinal Consalvi I 1864, S. jg.</p>
+
+               <p>Offiziell gehaltenes Abschiedsschreiben^) mit dem Dank für die Bemühungen Consalvis um die preußischen Katholiken und der Hoffnung auf ein Fortbestehen der persönlichen Beziehungen. der letzte für Süd- und Neuostpreußen, zugleich Chef des geistlichen Departements für evangel.-luth. und kathol. Sachen. *) Consalvi nahm seinen Abschied auf Napoleons Wunsch, denn er galt für die Seele des Widerstandes gegen den Kaiser am päpstlichen Hofe.<pb n="16.56" xml:id="pbXVI56"/> 56 Als preußischer Resident in Rom 1 802-1 808</p>
+            </div>
+
+            <div type="section" n="112">
+               <head>
+                  <title type="main">"j^. An den Erbprinzen Georg Rom, 2. Juli 1806</title>
+               </head>
+               <p>Hauptarchiv Neustrelitz, 51, II. i; 4 eigenh. Quartseiten.</p>
+            </div>
+
+            <div type="section" n="113">
+               <head>
+                  <title type="main">Daten des Briefwechsels; Bedeutung Roms für den Prinzen; Un-</title>
+               </head>
+               <p>sicherheit der Stellung Humboldts am päpstlichen Hof; Übersendung der Stanzen über Rom; römische Nachrichten.</p>
+            </div>
+
+            <div type="section" n="114">
+               <head>
+                  <title type="main">y6. An Massow Rom, 13. August 1806</title>
+               </head>
+               <p>G. St. A . Rep. XI, Nr. 24 Rom fasz. 48; 2 eigenh. Quartseiten.</p>
+
+               <p>Dank für die Antwort auf das Schreiben an von der Reck^) und Freude, mit Massow in engere Amtsbeziehungen zu treten.</p>
+            </div>
+
+            <div type="section" n="115">
+               <head>
+                  <title type="main">yy. An den Erbprinzen Georg Rom, 4. April i8oy</title>
+               </head>
+               <p>Hauptarchiv Neustrelitz, 51. II. i; 7 eigenh. Quartseiten.</p>
+
+               <p>Durchlauchtigster Erbprinz, Gnädigster Herr,</p>
+
+               <p>Ihr Brief vom 22. Febr., gnädigster Prinz, war uns ein süßer Trost in einer unendhch traurigen Zeit. Unsere Gedanken hatten Sie und Ihre nähere und fernere Umgebungen nicht einen Augenblick verlassen, Ihr Brief an Giuntotardi hatte uns wohl einigermaßen über Ihre Lage beruhigt, allein so vieles nachher Folgende hatte uns doch aufs neue Sorge gemacht. Endhch hören wir ein Wort von Ihnen selbst, und welch ein Wort! So lieb, so freundschaftlich, so Ihren gütigen ehemahgen Gesinnungen gemäß, wie es nur von Ihnen kom- men kann. In jeder Lage, in jedem Verhältniß wird es mir gewiß immer ein aufrichtender Gedanke bleiben, auf Ihr Mitgefühl, Ihre Freundschaft rechnen zu können, es verwebt sich dies ganz mit jedem Gedanken an Rom, da ich gerade hier so froh mit Ihnen zusammenlebte, und mich mein Schicksal vielleicht außerdem Ihnen nie so nah geführt hätte. Zoega hat mir Ew. Durchlaucht Brief an ihn mitgeteilt, und ich habe mit inniger Freude daraus gesehen, daß Ihnen Ihre Lage wenigstens nicht von allen Seiten zu klagen Anlaß giebt. Es ist unendlich viel im jetzigen Moment wenigstens einige beruhigende Sicherheit für die Zukunft zu haben. Von den Drangsalen des Augenblicks frei seyn, wer könnte es hoffen, und wer<pb n="16.57" xml:id="pbXVI57"/> mit irgend gefühlvoller Seele könnte es selbst nur wünschen ? Auch wir, gnädigster Herr, haben einen sehr bangen Winter verlebt, doch freilich nur durch Mitgefühl, was aber gewiß mehr als eignes Unglück ist. Persönlich sind wir hier, freilich nicht ohne beträchtli- chen Verlust in meinem und meiner Frau Vermögen, aber immer ruhig und für den Augenbhck ungestört geblieben. Sie, gnädigster Herr, der Sie meine innige, tiefe, unauslöschliche Anhänglichkeit an alles, was gerade am empfindlichsten litt, kennen, werden auch fühlen, wie bei der Liebe zu Rom und Italien es mir war, in solchem Augenblick fern und müssig und unnütz zu seyn. Allein ich breche hiervon ab, es ist ein trauriger Gegenstand und jetzt, wie Sie so schön sagen, durch die Zeit wenigstens in sanftere Wehmuth übergegangen, selbst durch Hofnung um etwas erheitert.</p>
+
+               <p>Für alles, was Sie mir über mein Gedicht sagen, kann ich Ihnen nie und nie genug danken, gnädigster Prinz. Gerade Ihr BeifaU ist mir unendlich mehr, als der irgend eines andern, weil ich in dem Ihrigen die Uebereinstimmung mit meinen Gefühlen und Ansichten erkenne, die ganz etwas anders, als das verdienteste Lob selbst guter Verse oder eines gelungenen Kunstwerks ist. Ich kann es nicht leugnen, ich habe in meinen Stanzen meine innerste Seele ausgesprochen. Ich werde an den Ideen nie etwas ändern können, selbst schwerlich hinzusetzen, besäße ich mehr eigentlich dichterisches Talent, so wäre die Ausführung ergreifender und glänzender geworden, und des mir wirklich über jede Schilderung werthen Stoffs wegen, wäre mir das sehr viel werth gewesen. Ihr BeifaU, ich muß es noch einmal wiederholen, rührt mich tief, ich habe auch unendhch oft an Sie, gnädigster Herr, bei der Arbeit gedacht. Ich hatte sogar die Absicht es zu wagen, ihr Ihren Namen vorzusetzen, aber die Furcht Leuten, die gern überall zu reden finden, zu Mis- deutungen Anlaß zu geben, die Ihnen unangenehm hätten werden können, hielt mich zurück, Sie um die Erlaubniß zu bitten, da ich wohl wußte, daß Sie mir dieselbe nicht abgeschlagen hätten. Denn an wen hätte ich mich bei diesem Gegenstande lieber als an Sie gewandt, da Sie ihn so ganz und innig empfunden, durch den und mit dem ich selbst so Manches hier erst recht verstehen gelernt hatte? Ihre Kritik der neunten Strophe mag wohl sehr gegründet seyn, obgleich andern gerade dieses Bild gefallen hat. Ich weiß aber nicht recht, und kann es aus Ihrem Briefe nicht deuthch sehen, ob Ihnen die ganze Vergleichung der Tiber mit fließendem Erze oder nur der freilich vielleicht zu technische Ausdruck,, Hochofens Hitze"<pb n="16.58" xml:id="pbXVI58"/> 58 Als preußischer Resident in Rom 1 802-1 808 anstößig ist<note type="footnote" n="^)" resp="gnd-116890657"><hi>Die neunte Strophe des Gedichtes Rom, gedr. Ges. Sehr. IX 28, lautet:</hi></note>. Das letzte wäre leicht zu heben, gegen das erste möchte ich noch einen Augenblick zu streiten wagen. Ich weiß in der That nicht, ob für den wirklich langsamen, gelben, sich schwer hinwälzenden Strom glühendes Erz nicht eine passende und selbst edle Ver- gleichung ist. Uebrigens bin ich über den relativen Werth der einzelnen von Ew. Durchlaucht angeführten Strophen durchaus mit Ihnen einig, nur habe ich eine besondere Vorliebe für die beiden vorletzten und die 47. — 50. Strophe. Ich hatte, als ich diese Arbeit machte, die etwa in vier Wochen vollendet wurde, einen gewissen unwiderstehlichen Drang sie zu Ende zu bringen, es war mir, als müßte ich vielleicht sonst von Rom scheiden, ohne auch nur je ein Wort dessen auszusprechen, was mich so oft und so tief hier ergriffen hatte. Wie oft ist mir das nachher wieder eingefallen. Denn im Anfange des letzten Herbstes sah ich die unvergeßhchen Hügel und Ruinen immer mit einiger Besorgniß an. Jetzt hat dieser Zustand der Sorge sechs Monate gedauert und ich schöpfe Hofnung zu bleiben, und bleibe ich jetzt, so scheide ich schwerhch je. Es würde mich auch unendlich tief schmerzen, ich läugne es nicht. Was mich hier umgiebt ist einmal so tief eins mit mir geworden, daß nur der Gedanke der Pfhcht mich trösten könnte, dies verloren zu haben.</p>
+
+               <p>Wieder aber bei Empfang Ihres Briefes, gnädigster Prinz, ist es mir so unendlich lebhaft geworden, wie es in jeder Lage hebt und trägt, wenn man sich gewöhnt hat, mehr in Ideen und Empfindungen, als der bloßen Wirklichkeit zu leben. Es giebt wenigstens alsdann gewisse Grundpfeiler, die nie, auch im schrecklichsten Sturm untergehen, und wohin man verschlagen wird, kann man sich immer wieder eine Hütte bauen. Wer es wirklich dahin gebracht hätte, alle Gegenstände der Welt immer so in das Gewebe seiner Gedanken und Empfindungen zu verknüpfen, die Wirklichkeit und die Begeben- heiten um ihn nur als einen Anlaß sich tiefer in die Einsamkeit</p>
+
+               <p>Oft sah ich von Aventinus Spitze, Wo sich engt der Pfad von Ostia her, Tiber, unter Cacus altem Sitze, Hin dich rollen zum Tyrrhener Meer. Wie, geschmelzt an hohen Ofens Hitze, Erz sich wälzet, langsam, gelb und schwer, Rollst du ernst und feierlich die Wellen, Die das Herz mit tiefer Wchmuth schwellen.<pb n="16.59" xml:id="pbXVI59"/> und Abgeschiedenheit zu begeben, anzusehen, und doch in ihr immer sein ganzes Mitgefühl, selbst seine Thätigkeit rege zu erhalten, nur so, daß jenes in eine höhere und sanftere Wehmuth verklänge, und diese nie vergäße, daß es ein höheres Schicksal giebt, gegen das man vergebens anringt, wenn gleich Pflicht und eigner Trieb dennoch zu ringen gebieten (sowie Hektor mitten im Kämpfen sich deutlich gesteht, daß doch der Tag kommen wird, wo die Mauern stürzen, die er vertheidigt) — der hätte, glaube ich, ziemlich erreicht, was Menschen erreichbar ist. Denn gewöhnlich, und hierin liegt eine</p>
+            </div>
+
+            <div type="section" n="116">
+               <head>
+                  <title type="main">große Un Vollkommenheit, hemmt jener idealische Hang die Thätig-</title>
+               </head>
+               <p>keit, ja stumpft selbst das Mitgefühl ab, oder diese beiden — Thätigkeit und Mitgefühl — reißen ganz in den Strudel der Wirkhchkeit mit fort.</p>
+
+               <p>Ich weiß nicht, ob Zoega Ew. Durchlaucht schon heute antworten wird. Er hat eine Gelegenheit gefunden die Beschreibung seiner römischen Basreliefs drucken zu lassen. Sie erinnern sich vielleicht noch, daß er alle gesammelt und aufgezeichnet hat, diese ganze Samm- lung beläuft sich auf anderthalbtausend Stück, davon werden nun die merkwürdigsten in Kupfer gestochen und erscheinen mit seinen italiänischen Erklärungen Heftweise, 6 Kupfer alle Monat. Die ganze Unternehmung, welche Piranesi macht, wird daher mehrere Jahre dauern. Er wollte Ihnen schon vor Empfang Ihres Briefes darüber schreiben und thut es also gewiß jetzt sehr bald. Er wird Ihnen dann auch sagen, daß der arme Mann jetzt bei weitem glücklicher ist, da die Verstorbene gesund beschwerlich und krank eine wahre Plage war. Ueberdies litt sie selbst zuletzt unendlich.</p>
+
+               <p>Meine Frau freut sich der Hofnung eines Briefes von Ihnen und trägt mir tausend der freundschaftlichsten Grüße auf. Sie ist den ganzen Winter wohl gewesen. Nur vor einer Woche hat sie an Ohnmacht und Kopfweh gelitten, und kann noch nicht ganz frei davon werden.</p>
+
+               <p>Ich kann diesen Brief nicht schließen, ohne Ew. Durchlaucht noch zu sagen, daß wir den letzten October und einen Theil des Novembers in Ihrem Hause in Albano zugebracht haben. Wenn Sie an die Epoche zurückdenken, können Sie urtheilen, mit welchen Empfindungen, Erinnerungen, Vergleichungen ! Im Mai gehen wir dahin zurück. Was wird uns die Zukunft tragen ? — Mit dieser Frage und meinen herzlichsten heißesten Wünschen für Sie, gnädig- ster Prinz, und alles was Ihnen theuer ist, lassen Sie mich diesen Brief schließen, und nehmen Sie nur noch die Versicherung der<pb n="16.60" xml:id="pbXVI60"/> 6o Als preußischer Resident in Rom 1 802-1 808 tiefsten und unwandelbarsten Ehrfurcht an, mit welcher ich nie aufhören werde zu seyn</p>
+
+               <p>Ew. Durchlaucht unterthänigster,</p>
+            </div>
+
+            <div type="section" n="117">
+               <head>
+                  <title type="main">Humboldt</title>
+               </head>
+            </div>
+
+            <div type="section" n="118">
+               <head>
+                  <title type="main">75. An Hardenberg Rom, 27. Mai 1807</title>
+               </head>
+               <p>G. St. A. Rep. I, Italien Nr. i; 3 eigenh. Quartseiten.</p>
+
+               <p>Monsieur le Baron,</p>
+
+               <p>Je viens de voir par les papiers publics, que Votre Excellence a repris la direction du Departement des Affaires etrangeres<note type="footnote" n="^)" resp="gnd-116890657"><hi>Am 10. April i8oy war Hardenberg auf kurze Zeit wieder leitender Minister geworden.</hi></note> ; et ne puis attendre la confirmation officielle de cette nouvelle pour Lui temoigner la joie vive et sincere que je ressens de cet evene- ment. Vous ne pouvez point, Monsieur le Baron, douter de la maniere dont je Vous suis devoue personnellement ; les marques precieuses de bonte, et je puis meme dire d'amitie que Vous avez daigne me donner, doivent Vous etre de trop sürs garans ä cet egard. Mais dans le moment actuel je ne suis occupe que des affaires du Roi et du bien de ma patrie, et je felicite ä Tun et ä l'autre de ce que leurs interets les plus chers sont de nouveau confies aux soins de Votre Excellence. II n'y a que le patriotisme le plus pur et le plus desinteresse et un devouement absolü, unis ä de grands talens qui puissent sauver les etäts dans des crises, comme celle du moment actuel, et si Votre Excellence me permet d'etre un moment l'inter- prete de l'opinion publique, je suis certain de pouvoir Lui assurer, qu'EUe possede la confiance illimitee de tous ceux qui sont vrai- ment attaches ä la grande cause dont Sa Majeste a entrepris et soutenü la defense avec une fermete aussi rare que genereuse.</p>
+
+               <p>Quant ä ma Situation particuliere ä laquelle Votre Excellence a daigne s'interesser toujours avec tant de bonte, eile a ete assez tolerable dans cette epoque infortunee. J'ai probablement moins souffert que la plupart de mes compatriotes. Mais ä Vous, Monsieur le Baron, qui savez, que je n'ai jamais eü des vues ambitieuses ou interessees, et que, content de mon poste et du pais que j'habite et que je cheris, je n'ai jamais cherche, ni ne desire encore de venir dans une autre Situation, je puis dire sans courir risque d'etre mal<pb n="16.61" xml:id="pbXVI61"/> interprete, que ce qui neantmoins m'est vraiment penible, c'est de ne pouvoir rien faire ici pour la cause commune, et de devoir rester oisif dans un moment oü je voudrois vouer entierement mes jours et ma vie au Service du Roi et au bien de mon pais. Je sens parfaitement, combien peu de titres je possede pour esperer ä co- operer a un si grand but. Si neantmoins Votre Excellence me croyoit le moins du monde capable d'^tre plus utile dans une autre Situa- tion, que dans ma presente ici, je La supplie de disposer sans autres egards de moi, et d'ßtre persuade, qu'aucun sacrifice personnel ne pourroit jamais me couter, si je pouvois par lä jouir de l'avantage de travailler d' une maniere plus directe et sous les auspices de Votre Excellence pour les interets du Roi et de ma patrie.</p>
+
+               <p>C'est en La priant d'excuser la franchise avec laquelle j'ai crü de mon devoir de Lui exprimer ces sentimens, que j'ai l'honneur d'dtre...</p>
+            </div>
+
+            <div type="section" n="119">
+               <head>
+                  <title type="main">Rome, ce 27. Mai, 1807 Humboldt</title>
+               </head>
+            </div>
+
+            <div type="section" n="120">
+               <head>
+                  <title type="main">79. An Hardenberg Rom, 6. Juni i8oy</title>
+               </head>
+               <p>G. St. A. Rep. g2, Hardenberg E 11 Bd. IV; 2 eigenh. Quartseiten.</p>
+
+               <p>Dank für die Mitteilung von Hardenbergs Übernahme des aus- wärtigen Departements, Zustimmung zu der Machtvereinigung in einer Hand während solcher Krisenzeiten und allgemeine Hoffnung auf Hardenbergs Wirken.</p>
+
+               <p>Geringe politische Bedeutung des römischen Postens im Augenblick; Bereitschaft, jeder andern Bestimmung Hardenbergs zu folgen.</p>
+            </div>
+
+            <div type="section" n="121">
+               <head>
+                  <title type="main">80. An Goltz Rom, 4. September i8oy</title>
+               </head>
+               <p>G. St. A. Rep. I, Italien Nr. i; 4 eigenh. Quartseiten.</p>
+
+               <p>Monsieur le Comte,</p>
+
+               <p>C'est avec le plaisir le plus sensible, que j'ai vü confirme par la lettre que Vous avez bien voulü m'addresser, Monsieur le Comte, en date du 22. Juillet, la nouvelle, que S. M. le Roi a daigne Vous nommer Son Ministre d'Etät, et remettre entre Vos mains le porte- feuille des Affaires etrangeres<note type="footnote" n="^)" resp="gnd-116890657"><hi>Nach der Schlacht bei Friedland hatte Hardenberg vor Napoleons Rache weichen tnüssen, Goltz war zum Unterhändler beim Tilsiter Frieden, nach seinem Abschluß zum Staatsminister ernannt worden.</hi></note>. Je me rejouis d'autant plus de cet<pb n="16.62" xml:id="pbXVI62"/> 02 Als preußischer Resident in Rom 1802-1808 evenement, que j'ai l'honneur d'etre connü personnellement de Votre Excellence, et je La prie d'en agreer mes plus sinceres felicitations et d'etre persuade, que je preiis la part la plus vive k la satisfaction que doit Lui donner cette preuve de la confiance et des bonnes graces de Sa Majeste. La Situation presente des affaires doit rendre extremcment difficile et penible la place que Vous occupez, Monsieur le Comte; mais il appartient au zele et au talent de vaincre ces difficultes autant que les circonstances le permettent, et tous ceux qui ont l'avantage de Vous connoitre de plus pres, sont cer- tainement persuades d'avance, que Vous y reussirez. II me seroit difficile de Vous exprimer, combien tout ce que la lettre de Votre Excellence renferme d'obligeant pour moi, m'a ete flatteux; des sentimens aussi pleins de bienveillance et de bonte me feront redoubler d'efforts pour meriter Ses suffrages, et ils me laissent esperer en m^me tems, que Votre Excellence voudra bien juger avec in- dulgence ce que je suis dans le cas de faire ici pour le Service de Sa Majeste.</p>
+
+               <p>Cette mdme bonte m'enhardit ä Vous addresser, Monsieur le Comte, une priere dont l'accomplissement me tient fort au coeur.</p>
+
+               <p>Des changemens amenes par la guerre rendent absolument n^- cessaire, que je donne quelques soins ä mes affaires particulieres. Ma petite terre de Tegel a ete devastee par l'ennemi, une grande partie de ma fortune placee dans le Duche de Varsovie actuel exige d'autres dispositions ; et la succession future de mon beau-pere dont ma femme, depuis la mort de son fr^re, reste l'unique heritiere, demande, que je prenne avec lui des arrangemens, que son äge tres-avance me defend de differer de beaucoup. Je desirerois par ces raisons de faire le plutot possible un voyage en Allemagne et de pouvoir y rester quelques mois. Mais comme mon premier soin est naturellement de ne pas deplaire au Roi, et de ne manquer en rien aux devoirs de mon poste, je n'ai pas ose prier directement Sa Majeste de m'accorder un conge, mais j'ai crü mieux faire de m'addresser k Votre Excellence pour qu'Elle juge premierement, si peut-ßtre il pourroit y avoir des affaires ä regier ici qui exigeassent necessairement ma presence. Des affaires pareilles pourroient ^tre amenees par une commission d'aller ä Naples, ainsi que j'en eus rOrdre immediatement avant la guerre; ou par le voyage qu'on dit, que l'Empereur Napoleon fera en Italic, ou enfin par des changemens que la paix de Tilsit rend peut-etre n^cessaire de faire aux limites de quelques Dioceses des provinces ci-devant Polonoises. Dans<pb n="16.63" xml:id="pbXVI63"/> chacun de ces cas je remettrois naturellement mon proj^t ä l'epoque que Votre Excellence jugeroit k propos de me fixer; mais si Elle croyoit, qu'il füt possible de m'accorder ma demande, je La prierois de supplier Sa Majeste de daigner m'accorder un conge de 4 ä 6 mois pour faire une tourn^e k Erfurt et k Berlin. Car pour les affaires ordinaires, c'est ä dire pour les dispenses de mariage, secularisation de moines, confirmations de nominations k des benefices moins im- portans, je pourrois facilement, si Votre Excellence le permettoit, en charger quelqu'Abbe Romain qui k l'aide des arrangemens, que je prendrois avec la Datarie Apostolique, s'en acquitteroit sans que le Service de Sa Majest6 en souffrit. Comme il seroit aussi possible que la reponse de Votre Excellence ne me parvint que dans le moment oü la Saison rend de ja le passage des Alpes trop difficile, j'oserois La supplier de vouloir faire en sorte, que je restasse libre de profiter du cong^ que le Roi daigneroit m'accorder, en l'abord, ou au commencement du printems. Etant rendü ä Berlin je ne manquerois pas, au cas que le Roi n'y füt pas, de demander ä Sa Majeste, si Elle ordonnoit, que je vinsse Lui faire ma Cour en Prusse.</p>
+
+               <p>Je prie Votre Excellence de pardonner, que je commence d'abord par L'importuner de mes demandes, et d'agr^er l'assurance . . .</p>
+            </div>
+
+            <div type="section" n="122">
+               <head>
+                  <title type="main">k Rome, ce 4. Septembre, 1807 . Humboldt</title>
+               </head>
+            </div>
+
+            <div type="section" n="123">
+               <head>
+                  <title type="main">81. An Goltz Rom, 23. April 1808</title>
+               </head>
+               <p>G. St. A. Rep. I, Italien Nr. 2; 3 eigenh. Quartseiten.</p>
+
+               <p>Monsieur le Comte,</p>
+
+               <p>Votre Excellence aura daigne voir par mes derniers rapports, dans quelle Situation critique et incertaine se trouve le St. Pere et le Gouvernement Romain*). II est presqu'impossible que cette incertitude ne reflue point aussi sur moi en particulier; car quoique le Pape, comme Chef de l'figlise Catholique, pourroit encore con- server un Corps Diplomatique autour de lui, cette possibilite meme devient bien douteuse, des que, comme cela sera probablement le cas dans peu de semaines, la ville de Rome et l'ßtät Romain appar- tiennent k un autre Souverain.</p>
+
+               <p>Votre Excellence concevra aisement, jusqu'ä quel point cet etat<pb n="16.64" xml:id="pbXVI64"/> de choses doit m'inquieter. Toutes mes fortunes ont considerable- ment souffert par les malheurs de notre patrie infortunee, j'ai une famille nombreuse, et je suis en outre attache par plus d'un lieu au pais oü S. M. le Roi m'avoit fait la grace de me fixer, et oü je me flattois depuis plusieurs annees de pouvoir passer la plus grande partie de ma vie.<note type="footnote" n="^)" resp="gnd-116890657"><hi>Am 2. Februar 1808 hatte General Miollis Rom besetzt; am 2. April ver- einigte Napoleon als Nachfolger Karls des Großen A ncona, Macer ata, Urbino, Fermo mit dem Königreich Italien.</hi></note></p>
+
+               <p>Sa Majeste avoit daigne ä la verite me faire esperer que je serois accredite de nouveau aupres du Roi Joseph, et rien ne pourroit convenir davantage ä ma Situation presente que de recommencer ä Naples ma carriere actuelle au moment oü eile termineroit ici, en soignant de lä en meme tems les affaires des sujets Catholiques du Roi aupres du St. P^re.</p>
+
+               <p>Je suis assurement bien eloigne de vouloir pour ainsi dire, deviner les intentions que Sa Majeste qui m'a toujours honore des marques les plus touchantes de Ses bonnes graces et de Sa haute bienveil- lance, daignera peut-etre avoir k mon egard; je me ferai constam- ment un devoir sacre, et m'estimerai constamment heureux de me soumettre respectueusement ä Ses volontes, et de La servir de la maniere et ä la place oü Elle daignera le juger ä propos. Mais je n'ai pü me refuser la consolation de Vous supplier, Monsieur le Comte, de m'accorder Votre protection et de vouloir bien Vous souvenir avec bonte de mes interets, de remettre mon sort entre Vos mains, et de Vous demander surtout la faveur que, s'il devoit ^tre necessaire de faire quelque changement ici ä mon egard, Votre Excellence ait la bonte de m'en prevenir, s'il etoit possible, avant qu'il en soit dispose definitivement, et de me permettre de Lui exposer mes voeux et mes sentimens ä ce sujet.</p>
+
+               <p>J'ose Vous faire cette priere, Monsieur le Comte, avec la con- fiance que Vos bontes m'ont inspir^e, et en me felicitant de pou- voir m'addresser ä Vous non seulement comme ä mon Chef, mais aussi comme ä une personne qui veut bien s'interesser avec bien- veillance k mon sort, et j'ose me f latter, que c'est de cette maniere que Vous voudrez bien Vous souvenir, si jamais l'occasion s'en presentoit, de cette demarche que j'ai crü devoir faire d'autantplus que les derniers Ordres de Sa Majeste auxquels j'ai repondü le 16. Mars, rendent incertain, si je pourrai de si tot jouir du bonheur de me presenter en personne ä Votre Excellence.</p>
+            </div>
+
+            <div type="section" n="124">
+               <head>
+                  <title type="main">ä Rome, ce 23. Avril, 1808 Humboldt</title>
+               </head>
+               <pb n="16.65" xml:id="pbXVI65"/>
+            </div>
+
+            <div type="section" n="125">
+               <head>
+                  <title type="main">82. An Consalvi Rom, 24. Mai 1808</title>
+               </head>
+               <p>Archivio Vaticano, Ministro Prussia, sm; 2 eigenh. Quartseiten.</p>
+
+               <p>Mitteilung, daß die Urlaubsreise in die Heimat aufgeschoben ist.</p>
+            </div>
+
+            <div type="section" n="126">
+               <head>
+                  <title type="main">83. An Goltz Rom, 12. Oktober 1808</title>
+               </head>
+               <p>G. St. A . Rep. I, Italien Nr. 2; 3 eigenh. Quartseiten.</p>
+
+               <p>Monsieur le Comte,</p>
+
+               <p>Je ne saurois partir de Rome<note type="footnote" n="^)" resp="gnd-116890657"><hi>Am 14. Oktober 1808 reiste Humboldt mit seinem Sohn Theodor aus Rom ab, traf am 11. November bei seinem Schwiegervater in Erfurt, erst am 14. Januar i8og in Berlin ein.</hi></note> sans m'addresser auparavant en particulier ä Votre Excellence, et La remercier de la maniere la plus vive et la plus sensible de Fempressement qu'Elle a daigne mettre ä me faire tenir promptement la reponse que j'attendois relativement ä mon voyage. Ce voyage ne fut jamais plus necessaire, et je dois malheureusement aj outer, jamais plus pressant, puisque les dernieres nouvelles de la sante de mon beau-pere ne sont gueres bien rassurantes. J'ose par consequent me flatter que Vous dai- gnerez excuser, Monsieur le Comte, que j'ai profite sur le champ de la permission que Vous m'avez accordee. Je ne me serois certaine- ment pas eloigne, meme momentanement, d'un poste, qui, quelque peu important qu'il soit, a neantmoins avec raison de l'interet pour S. M. le Roi et pour Votre Excellence, si les affaires dont j'ai eü l'honneur de L'entretenir, ne m'y avoient pas force absolument, et il me seroit doux de penser, que Votre Excellence füt assez con- vaincue de mon zele pour le Service de Sa Majeste pour ne pas douter de la verite de cette assertion. Comme ces memes affaires ne sauroient etrede longue duree, j'espere pouvoir etre de retour ici, avant meme que mon conge ne soit ecoule.</p>
+
+               <p>Votre Excellence daignera voir par mon rapport d'aujourd'hui quels arrangemens interimistiques j'ai pris pour les affaires eccle- siastiques. J'ai lieu de croire que le Prelat Nicolai repondra ä l'attente que j'ai de lui; et je suis sür qu'il a la meilleure volonte et le plus grand desir de bien s'acquitter de ma commission. J'ose par cette raison le recommander avec confiance ä l'indulgence de Votre Excellence.</p>
+
+               <p>Je dois encore observer que, si Votre Excellence ne lui en ordonne pas autrement, il fera les rapports qu'il pourroit avoir ä Lui ad5 Humboldt, Briefe<pb n="16.66" xml:id="pbXVI66"/> dresser, en langue Italienne, Comme je sai[s] que cette langue est egalement connue ä Votre Excellence et au Departement, cela m'a parü preferable au Fran9ois peu correct, et meme quelquefois assez bizarre qu'ecrivent les Italiens pour la plupart. II s'entend neant- moins que le Prelat Nicolai le sait 6crire, s'il le faut, et le com- prend entierement.</p>
+
+               <p>Je serai sans faute entre le 15. et le 20. du mois prochain ä Erfurt, et, si je ne re^ois point d'autres Ordres de Votre Excellence, j'y resterai jusqu'au commencement de l'annee prochaine oü je compte venir ä Berlin. Je me flatte de l'esperance d'y trouver Votre Excellence avec la Cour, et je me r^jouis d'avance d'avoir alors l'avantage de Vous exprimer, Monsieur le Comte, de bouche les sentimens que je ne cesserai jamais de Vous vouer.</p>
+
+               <p>Je me ferai un devoir d'ecrire de tems en tems ä Votre Excellence, si Elle daigne me le permettre, et il seroit superflü d'ajouter, que je m'^stimerois heureux, si peut-etre il se presentoit quelque occa- sion oü Votre Excellence put faire usage de mes foibles Services pendant les mois que je passerai en Allemagne. Les Ordres me trouveront ä Erfurt chez le President Baron de Dacheröden, et ä Berlin chez le Banquier M. Friedländer et Comp.</p>
+            </div>
+
+            <div type="section" n="127">
+               <head>
+                  <title type="main">k Rome, ce 12. Octobre, 1808 Humboldt</title>
+               </head>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

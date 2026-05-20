@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Über die periodische Wiederwahl der Magistratsbeamten</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zwölfter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif1202humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1904">1904</date>
+                  </imprint>
+                  <biblScope unit="page" from="468" to="476"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="12.468" xml:id="pbXII468"/>
+            <head>
+               <title type="main">XLIX. Über die periodische Wiederwahl der Magistratsbeamten.</title>
+            </head>
+            <p>21. November 1819. (Eigenh. Konz. in Tegel; Abschriß im Geh. Staatsarchiv; zum Teil gedruckt in Forschungen zur brandenburgischen und preußischen Geschichte X, 344 ff-)</p>
+
+            <p>Humboldt richtete an den Staatskanzler v. Hardenberg folgendes Schreiben :</p>
+
+            <p>„Auf den in Abschrift beiliegenden Bericht des Ministerii des Innern vom 25. April 181S haben des Königs Majestät unterm 5. Mai i8r§ dasselbe autorisirt: in allen Fällen, wo die Stadtverordneten ihre Magistratsmitglieder aus eigener Bewegung auf Lebenszeit, oder unter andern Bedingungen, oder auf längere Zeit, als die Städte-Ordnung vorschreibt, wählen, diese Wahlen, wenn das Ministerium keine erhebliche Bedenken dagegen finde, zu genehmigen. Diese Allerhöchste Kabinets-Ordre ist demnächst von mehreren Regierungen mit Genehmigung des Ministerii des Innern in den Amtsblättern bekannt gemacht, und demzufolge sind in mehreren Städten die Magistratualen auf Lebenzeit ge- wählt worden. Nach einer aus den Acten meines Ministerii gemachten Zusammenstellung sind etwa go Fälle dieser Art in den alten Provinzen vorgekomtrien.</p>
+
+            <p>Indessen ist es bei den jetzigen kommissarischen Verhandlungen über die Verfassung von mir zur Sprache gebracht worden, dass dergleichen lebenslängliche Bestätigungen eine sehr wesentliche Abänderung der Grundsätze, auf welche die Städte-Ordnung gebaut ist, mit sich führen, und dass die Voraussetzung in dem Immediat-Bericht vom 25- April 1815, dass die auf kurze Zeit gestellte Wahl der Magistrats-Mitglieder sich nicht als nützlich bewähre, manchem Zweifel unterworfen sei; ich muss gerade gestehen, dass ich mich von der Schädlichkeit der diesfälligen Vorschrift der Städte-Ordnung nicht überzeugen kann, imd es für sehr nützlich halte, dass man bei Entwerfung der neuen Kommunal-Ordnung darauf zurückkommen werde.</p>
+
+            <p>Es dürfte jedoch demnächst bei Einführung dieser neuen Kommunal- Ordnung nicht erwünscht erscheinen, eine grosse Menge auf Lebenszeit ge- wählter Magistratualen vorzufinden, und ich halte es daher für angemessen, dass das Ministerium des Innern, bis die neue EntSchliessung über diesen Punkt fest- stehen wird, solche Wahlen nicht weiter genehmige. Da aber die vorgedachte Allerhöchste Kabinetsordre das Ministerium autorisirt, in allen Fällen, wo kein Bedenken gegen die Bestätigung der lebensläng- lichen Wahlen statt findet, solche zu ertheilen: so scheint darin die Bestimmung zu liegen, dass in der Regel die Bestätigung zu ertheilen sei.</p>
+
+            <p>Indem ich jedoch aus oben gedachten Gründen wünsche, jetzt die Regel so zu stellen, dass die Bestätigung auf Lebenszeit verweigert, und eine solche Abweichung von der Städte-Ordnung nicht eher zugelassen werde, als bis die Sache von neuem zur Berathung gekommeti, und wirklich anders entschieden sein sollte : so ersuche Ew. Durchlaucht ich ganz ergebenst, hochgeneigtest zu genehmigen<pb n="12.469" xml:id="pbXII469"/> duss, wenn Gesuche dieser Art an mich gebracht werden, ich dieselben mit der Aeusserung ablehne, dass, da bei Gelegenheit der den Städten in den wieder eroberten und neu erM'orbenen Provinzen zu ertheilenden Kommunal-Ordnung, mehrere das Gemeinwesen betreffende Punkte in Berathung kämen, nicht angemessen erachtet werde, ehe diese Berathung nicht beendigt sei, in einem so wesentlichen Punkte yon den Bestimmungen der Städte-Ordnung abzugehen, bei dem es vielmehr überall lediglich sein Bewenden haben müsse. Ich warte nun Ew. Durchlaucht geneigte Antwort auf dies ganz ergebenste Schreiben ab, um einige mir gerade jetzt vorliegende Gesuche dieser Art auf die eben gesagte Weise zu beantworten.</p>
+
+            <p>Berlin, den 2. November 18 ig.</p>
+
+            <p>Humboldt. An des Königlichen Staats- Kanzlers Herrn Fürsten von Hardenberg</p>
+
+            <p>Durchlaucht."</p>
+
+            <p>Unterm 77. November sprach ihm Hardenberg den Wunsch aus, von seinen erheblichsten Gründen für seine Meinung unterrichtet zu werden, indem er selbst hinsichtlich der besoldeten Munizipalämter die entgegengesetzte Meinung für begründeter hielt, zumal die Stadtverordneten sich auf die Kabinetsordre vom 5. Mai 181^ berufen könnten. Eventuell wollte er eine neue Bestimmung des Königs veranlassen, in der er die Aufrechterhaltung der Städteordnimg bis auf weitere und endliche Festsetzung verfügte. Darauf schrieb Humboldt die folgende Denkschrift.</p>
+
+            <p>Ew. Durchlaucht haben die Geneigtheit gehabt, mich in Ihrem geehrtesten Schreiben vom 17^ hujus aufzufordern, Ihnen bestimmter die Gründe anzugeben, welche mich bewogen die Bestätigung der lebenslänglichen Wahlen von Magistrats-Personen bis zur endlichen Bestimmung der neuen Communalordnung zu sus- pendiren, und ich bin Ihnen lebhaft für die Gelegenheit verbunden, welche Sie mir dadurch geben, mich über diese wichtige Materie umständlicher zu erklären. Wenn ich dies nicht schon in meinem ganz ergebensten Schreiben vom 2'15 hujus that, so unterliess ich es bloss, weil ich Euer Durchlaucht nach Ihren mündlichen Aeusserungen gänzlich, wenn auch nicht in der Sache selbst, doch in dieser Suspension, die mir auch jetzt ganz unbedenklich erscheint, mit mir einverstanden glaubte. Mein nächster Grund zu einem Antrag war bloss der in meinen früheren Schreiben ausgedrückte. Es schien mir sehr zweifelhaft, wie dieser Punkt in der neuen Communal-Ordnung entschieden werden würde, und in diesem zweifelhaften Zustande ist es offenbar besser, nicht die Fälle noch mehr, als schon geschehen ist, zu häufen, in welchen die Bestallung der Magistrats-Personen auf<pb n="12.470" xml:id="pbXII470"/> Lebenszeit bestätigt wird. Die Entscheidung dieses Punktes aber für zweifelhaft anzunehmen, dazu bestimmt mich der Umstand, dass schon in der Commission, deren Vorsitz Euer Durchlaucht führen, wenigstens die Hälfte, vermuthlich aber die Mehrzahl der Mitglieder sich für die Ernennung der Magistrats-Personen, auch wenn sie besoldet sind, auf eine bestimmte und nicht zu lange Zeit erklärt haben. Dann die Herrn Geheimen Legations-Räthe Ancillon und Eichhorn sprechen in ihren Entwürfen diese Meinung aus, ich thue das Nemliche, und wenn auch Herr Geheimer Staatsrath Daniels sich nicht über diesen Punkt erklärt hat, so ist er vermuthlich doch für die auf dem linken Rhein-Ufer eingeführte Anordnung.</p>
+
+            <p>Auf diese Weise schien es mir nicht einmal nothwendig, in die Frage selbst gegenwärtig einzugehen. Es ist genug, dass ihre künftige Entscheidung zweifelhaft ist, um dieser nicht faktisch vorgreifen zu wollen.</p>
+
+            <p>Da indess Euer Durchlaucht die Erörterung der Frage selbst wünschen, so muss ich zuerst bemerken, dass noch der Punkt, ob in einer neuen Communal-Ordnung die besoldeten Magistrats- Stellen lebenslänglich sein sollen, gar sehr verschieden ist von dem, ob man, so lange die Städte-Ordnung fortbesteht, dennoch gegen ihren Inhalt einzelne lebenslängliche Wahlen zu bestätigen hat?</p>
+
+            <p>In jedem Gesetz liegt ein gewisser innerer Zusammenhang seiner verschiedenen Bestimmungen, ändert man nun eine hauptsächliche ab, so bringt man eine Incohaerenz hervor, thut man auch dies nur einzeln, so stiftet man ausserdem eine Ungleichheit, das eine und das andere scheint mir gegen die nothwendige Con- sequenz der Verwaltungs-Maximen anzustossen.</p>
+
+            <p>Beschliesst man, dass in der neuen Communal-Ordnung die besoldeten Magistrats-Personen lebenslänglich sein sollen, so w^ird auch die ganze übrige Communal-Ordnung in ihren Principien danach gestellt sein, und das Gesetz daher wenigstens nicht der nothwendigen Consequenz ermangeln. Die Städte-Ordnung geht offenbar aber darauf hinaus, dass die Wahlen nach einer Zeit von Jahren erneuert werden, wenn auch dasselbe Individuum wieder ernannt werden kann, dass der Gewählte nicht seiner Stelle so sicher sei, dass er sie gleichsam wie eine Pfründe ansehen könne, dass Magistrats-Personen sich überhaupt nicht als blosse Beamten, sondern vielmehr als Bürger ansehen, die nach einer Reihe von Jahren wahrscheinlich in die Zahl der blossen Bürger zurück<pb n="12.471" xml:id="pbXII471"/>treten. Sie bezweckt vorzüglich Enveckung des Bürgersinnes und Gemeingeistes. Daher hat sie (selbst wohl zu) zahlreiche Stadtverordnete, räumt diesen viele Rechte ein, ordnet häutige Wahlen an, setzt der freien ^"e^waltung des Gemeindewesens sehr weite Grenzen, trennt in den grösseren Städten die Polizei, auf die der Staat dort grosse Aufmerksamkeit haben muss, von dem Magistrat. Selbst in den Wahlen lässt sie viel Freiheit, da sie nur in der geringen Anzahl der Städte die Präsentation von drei Bewerbern forden, sonst aber nur einer zur Bestätigung vorgeschlagen wnrd. Dass nun damit noch Zusammenhang und Consequenz, wie sie die Gesetzgebung fordert, bestehen kann, wenn man in diesem zusammengehörenden S3^stem einen so wesentlichen Punkt ab- ändert, davon kann ich wenigstens nicht mich überzeugen. Ich will nicht in Abrede stellen, dass das einzelne Bestätigen lebenslänglicher Wahlen wohl mag manchmal die Folge gehabt haben, dass durch den also Bestätigten das Vermögen der Stadt ist besser verwaltet worden, u. s. w. Allein dies sind einzelne Fälle, und einzelne Vortheile, die sich vermuthlich auch durch Wiederernennung würden von selbst bewährt haben. Bei einem Institut, wie die Städte-Ordnung, ist die Hauptsache der Geist und der Sinn, welchen es hervorbringt, der sich nicht im Einzelnen immer gleich handgreiflich aufzeigen lässt, aber darum nicht minder wirkt, und sich thätig erweiset, und aus dem gute und sorgfältige Verw^altung des Gemeinguts und der Gemeinde-Angelegenheiten, so wie er sich besser bildet, hervorgehen. Diesen Geist aber kann ein Institut nur in seinem Ganzen und in seinem Zusammen- hange hervorbringen. Das einzelne Bestätigen solcher Wahlen hat nun auch gemacht, dass der Ehrgeiz und das Streben danach entstanden ist. In Breslau war zuerst der Oberbürgermeister lebenslänglich bestätigt worden, nunmehr hat es auch dem Bürgermeister nicht füglich versagt werden können. Wie leicht kann nun da nicht von einem gewandten Mann der Augenblick benutzt werden, in welchem die Stadt- Verordneten ihm gerade günstig sind, um sich ihrer Wahl zu versichern, und wie wenig Mittel hat das bestätigende Ministerium in Händen, um genau zu wissen, ob die Bestätigung wirklich nützlich ist. Dazu reicht doch wahrlich nicht hin, dass der Vorgeschlagene ein Mann sei, gegen den sich nichts einwenden lässt, ja selbst, dass er seine Rechtlichkeit und Umsicht bewährt hat, man müsste die Stadt ganz kennen, um zu beurtheilen, ob nicht bei erneuerter Wahl, doch vielleicht<pb n="12.472" xml:id="pbXII472"/> ein Besserer daran gekommen wäre, und den Mann genug, um zu wissen, ob ihm nicht der Wunsch der Wiederernennung ein Sporn gewesen w^äre, sich noch mehr anzustrengen, und die Dankbarkeit gegen seine Mitbürger, nach geschehener Wiederernennung in dem Eifer fortzufahren. Denn es kann auch erlaubte und gute Mittel geben, nicht um die Gunst der Bürger zu buhlen, aber nach ihrem Beifall, nach ihrer Liebe zu streben. Die Abhängigkeit des städtischen Beamten von der öffentlichen Meinung und den Gesinnungen in seiner Gemeinde ist gerade etw^as , das erhalten, nicht unterdrückt werden muss; es liegt darin und in dem engen Zusammenhang der Bürger mit ihren Vorstehern das Distinctive einer Munizipal-Verfassung , und wenn man eine solche dem Wesen und der That nach haben will (und sonst ist es besser, ganz darauf Verzicht zu leisten), so muss man das nicht gering schätzen. Es ist allerdings hierbei Misbrauch mög- lich, und er mag nicht selten sich wirklich finden; die rein scheinenden Absichten können w^ohl auch unlauter sein. Allein nimmt man hierein einmal nur das Schlimme an, glaubt man an die Triebfeder der Dankbarkeit nicht, und misst man dem Wunsche und dem Streben nur unerlaubte Mittel zum Zweck zu gelangen, Schmeichelei und Nachgiebigkeit gegen die Bürger auf Kosten des Ganzen bei, so muss man es auch in dem andern Fall thun, und annehmen, dass der lebenslänglich Bestätigte, da er nun ein- mal seines Amtes sicher ist, nach und nach einschlafen, sorglos und unthätig, oder anmassend und eigenmächtig werden wird. Viel besser aber scheint es mir, das Schlimme nicht schlechterdings vorauszusetzen, das Gute aber auch nicht geradezu leichtgläubig anzunehmen, aber dadurch, dass man das Institut in seiner Rein- heit bestehen lässt, zu befördern und nach und nach häufiger zu machen.</p>
+
+            <p>Endlich ist bei der jetzigen Methode noch ein Gesichtspunkt des Rechts, der, wie es mir scheint, nicht übergangen werden kann. Die Städte-Ordnung kennt keine lebenslängliche Wahlen, sie ist dem Bürger von Sr. Majestät dem Könige als ein Recht verliehen, und die Bürger haben also einen Anspruch darauf, in den verschiedenen Wahl-Epochen ihre Magistrats-Personen zu wählen.</p>
+
+            <p>Bei der lebenslänglichen Wahl aber entscheidet die jetzige Generation für die folgende und beraubt sie der Ausübung ihres Rechts.</p>
+
+            <pb n="12.473" xml:id="pbXII473"/>
+            <p>Aus allen diesen Gründen gesiehe ich P^uer Durchlaucht, dass ich es für ungleich besser halte, bei den Bestimmungen der Städte- Ordnung stehen zu bleiben, und dass ich vorzüglich ietzt. wo neue Bestimmungen berathen werden , von der durch die Allerhöchste Cabinets-Ordre vom 5'" Mai 181 5 erhaltenen Ermächtigung nur höchst ungern, und gegen meine Ueberzeugung Gebrauch machen würde.</p>
+
+            <p>Der Bericht, auf den diese Cabinets-Ordre erfolgt ist, bezieht sich auf die Erfahrung. Allein diese Erfahrung möchte doch so übereinstimmend nicht sein. Nach der Lage der Akten sind auch Oerter und Fälle genug da, worin, ohne lebenslängliche Wahlen, die städtische \&gt;rwaltung sehr gut geht. Die Xachtheile, die auch ihrerseits die lebenslängliche Wahl haben wird, werden auch nicht ermangeln, sich zu zeigen, und die Umstände, über die man klagt, Hessen sich wohl, auch ohne lebenslängliche Wahlen, heben. Man dürfte aber überhaupt wohl zweifeln, ob man sich in Absicht der Wirkung der Städte-Ordnung viel auf die Erfahrung berufen könne. Dies Institut stand jetzt, und seit seiner Entstehung, ganz insolirt im Staate da. In den ganzen elf seitdem verflossenen Jahren ist kein ähnliches gebildet worden, es hatte daher gar keine Unterstützung, obgleich auch im Staat, wenn es gedeihlich gehen soll. Alles zusammenhängen muss, aber wohl %-iel Widerspruch und Hemmung zu erfahren. Dazu kommen noch die Veränderungen, welche die unglaubliche Menge von Deklarationen daran machten, und die w^ohl nicht alle mit dem Geist des Instituts übereinstimmend sein mögen. Hierüber lasse ich jetzt eine eigene Arbeit vorbereiten. Endlich ist das Urtheil sehr abhängig von der Idee derer, die es fällen. Hien'on geben die Akten die merkwürdigsten Beispiele. Vor kurzem schlug mir die Regierung zu Stettin vor, eine Veränderung der Städte-Ordnung in Absicht des Verhältnisses des Magistrats zu den Stadt- Verord- neten einzuleiten, indess der Ober-Präsident Sack sehr treffend neben dem Bericht bemerkte, dass dies höchst unnütz sein würde, und man schon mit den Stadt-Verordneten fertig werden könne, wenn man es nur recht anfange. Ein ähnliches Beispiel der Verschiedenheit solcher Urtheile zwischen der Regierung zu Marienwerder und dem Wirklichen Geheimen Rath von Schön liegt Euer Durchlaucht bei einer andern Veranlassung vor. In Schlesien hat dagegen neulich die Regierung zu Breslau in Uebereinstimmung<pb n="12.474" xml:id="pbXII474"/> mit dem Ober-Präsidenten Merkel auf die bedenklichen Folgen der Bestätigung lebenslänglicher Wahlen aufmerksam gemacht.</p>
+
+            <p>Nachdem ich von dem Fall, auf dem sich mein bei Euer Durchlaucht gemachter Antrag unmittelbar bezieht, so ausführlich geredet habe, werde ich nur wenige Worte über die allgemeine Frage, ob in der künftigen Communal-Ordnung lebenslängliche Bestallung der Magistrats-Personen stattfinden müsse, hinzuzusetzen brauchen.</p>
+
+            <p>Ich nehme mir die Freiheit, mich deshalb auf den § 25 meines, bei derVerfassungs-Commission eingereichten Entwurfs zu beziehen.</p>
+
+            <p>Ausser den dort ausgeführten, hier auch schon wieder be- rührten Gründen, die aus der Xothwendigkeit hergenommen sind, Gemeingeist und Bürgersinn in der Nation zu erwecken und zu erhalten, muss ich hier noch zwei, die unmittelbar praktisch er- scheinen werden, erwähnen. Wenn nemlich künftig alle, oder einige Magistrats-Personen auf ihre Lebenszeit erwählt werden, so erscheint die Wahl und die Bestätigung derselben bei weitem bedenklicher, da die guten oder schlechten Eigenschaften der Gewählten ihre Folgen auf so lange Zeit hin ausdehnen. Man würde daher vermuthlich die Wahlfreiheit der Gemeinden mehr beschränken müssen, ja ich würde lebenslängliche Wahlen, als den nächsten Schritt der Ernennung der Magistrats-Personen durch den Staat betrachten. Es ist beinahe mit Gewissheit vorauszusetzen, dass man es zu gefährlich finden würde, einem einzelnen Wahl-Akt der Gemeinde, der nie alle Zufälligkeiten ausschliesst, das Wohl und Wehe ihrer Verwaltung auf die Lebenszeit eines Mannes hin anzuvertrauen, und in der That wäre es nicht ohne Bedenken. Misriethe nun eine solche Wahl, so wäre es überaus schwierig, den einmal Gewählten wieder zu entfernen. Euer Durchlaucht ist es nicht unbekannt, wie schwer das schon manchmal bei Staatsdienern ist. Hier aber käme nun das fast unüber- steigliche Hinderniss dazu, dass der schlechte städtische Beamte durch ähnliche Mittel, als die man bei Wahlerneuerung fürchtet, sich die Gunst der Bürger und ihrer Vorsteher erschmeicheln und von ihnen gegen die Regierung eine Art Schutz erhalten könnte, so dass diese nur durch die Anwendung richterlicher Mittel zu verfahren im Stande wäre. Dass es aber Grade der Untauglich- keit von Beamten giebt, die höchst schädlich wirken, und gegen die man dennoch gerade die richterlichen Mittel nicht anwenden kann, leuchtet von selbst ein.</p>
+
+            <pb n="12.475" xml:id="pbXII475"/>
+            <p>Auch in der Controlle der städtischen Beamten tritt mit ihrer lebenslängHchen Bestallimg ein neues Verhältniss ein. Die Bande zwischen ihnen, und der Gemeinde werden dadurch geschwächt, und die Controlle wird also nicht von den Stadt-Verordneten vorzüglich zu erwarten sein, sie wird auch nicht, wie nach dem Sinne der Städte-Ordnung, gewissermassen in dem Beamten selbst, in seinem Wunsch, sich durch gute Administration der Stadt unentbehrlich zu machen, und dadurch seine Wiederernennung zu bewirken, liegen. Daraus folgt aber von selbst, dass die beauf- sichtende Staats-Behörde ihn einer strengern unterwerfen, und ihn auf ähnliche Weise, als die Staatsbeamten, behandeln muss, was denn natürlich zu einem, nicht bloss der Städte-Ordnung, sondern dem Geist iedes guten Communal- Wesens entgegen- laufenden Bevormunden der Communen führt. So glaube ich hinreichend gezeigt zu haben, dass die Bestimmung dieses Punktes auf die ganze neue Gommunal-Ordnung den wichtigsten Einfluss hat, und dass in der jetzigen Städte-Ordnung die lebenslänglichen Wahlen als eine ihren Bestimmungen ganz widersprechende Sache dastehen. Nicht unbemerkt kann ich auch lassen, dass die Cabinets-Ordre vom 5. Mai 181 5 schon den Nachtheil hervorgebracht hat, dass, da man weiss, dass längere Perioden, als 6 Jahre, erlaubt sind, die Wahl-Candidaten sich 12 jährige oder lebensläng- liche Wahl zur Bedingung machen, und sie auf diese Weise den Stadt-Verordneten indirect abnöthigen. In meiner kurzen Geschäftsführung sind mir schon zwei Fälle dieser Art vorgekommen. Euer Durchlaucht scheinen ein besonderes Gewicht darin zu finden, dass besoldete Mitglieder der Magisträte besser ihre Stellen auf Lebenszeit besässen, und allerdings sind bei besoldeten Stellen mehr die Nachtheile zu fürchten, w^elchen man durch lebensläng- liche Besetzung abhelfen will. Allein auf der anderen Seite lässt sich mit fast noch mehr Grund anführen, dass besoldete Stellen, wenn sie lebenslänglich sind, das nicht zu billigende Streben nach Beförderung noch mehr anlocken und herbeiführen, und dass daher die Schwierigkeit noch viel grösser sein wird zu verhindern, dass nicht unfähige Individuen unstatthafte Bewerbungs-Mittel anwenden, um gewählt zu w'erden. Auf keinen Fall aber kann gegen das Gewicht der Gründe, w^elche überhaupt gegen lebenslängliche Wahlen sprechen, wenn man sie einmal anerkennt, der allenfalsige Nachtheil in Betracht kommen, dass mittelmässige.<pb n="12.476" xml:id="pbXII476"/> und schlecht gesinnte Magistrats-Personen ihre Wiederernennung durch Nachgiebigkeit und Schmeicheleien zu erschleichen suchen.</p>
+
+            <p>Ich kann daher meine Ueberzeugung nicht ändern, dass man, wenigstens bis eine neue Communal-Ordnung gemacht sein wird, in diesem Punkt lediglich bei der Städte-Ordnung stehen bleiben, und von der durch die Cabinets-Ordre vom 5^ Mai 181 5 dem Ministerio des Innern ertheilten Autorisation gar keinen Gebrauch machen müsse.</p>
+
+            <p>Ob nun deshalb ein Antrag bei Sr. Majestät den König selbst nothwendig sei, muss ich allerdings Euer Durchlaucht geneigtem Ermessen anheimstellen.</p>
+
+            <p>Wenn derselbe erfordert werdert sollte, so würde ich durch- aus dafür stimmen, dass er, so wie Euer Durchlaucht Schreiben es besagt, ganz kurz auf die Aufrechterhaltung der Städte-Ordnung in diesem Punkt gegen die Cabinets-Ordre vom 5'i5 Mai 1815 bis zur weitern und endlichen Festsetzung ginge.</p>
+
+            <p>Mir schien ein solcher Antrag nicht nothwendig, da die Cabinets-Ordre vom 5h? Mai 181 5 nicht befiehlt, sondern nur ermächtigt, das Urtheil über den einzelnen Fall ganz dem Minister des Innern anheimgiebt, und nicht einmal das Princip in seiner Allgemeinheit ausspricht, und da die neue Communal-Ordnung ja wohl nicht erst in einem so langen Zwischenraum erscheinen wird.</p>
+
+            <p>Ich wollte nur nicht gern eigenmächtig gegen die bisher in dem jetzt mir anvertrauten Ministerio befolgten Grundsätze handeln, und erbat mir deshalb Euer Durchlaucht geneigte Genehmigung.</p>
+
+            <p>Die Stadt-Verordneten haben aus der bloss ermächtigenden Cabinets-Ordre, streng genommen, kein Recht erlangt, und im Grunde geschieht auch nichts, als dass die Antwort auf ihr Gesuch suspendirt und ausgesetzt wird.</p>
+
+            <p>Indess sehe ich auch gar keinen erheblichen Grund gegen einen Immediat-Antrag bei des Königs Majestät, und stelle daher die Entscheidung hierüber lediglich Euer Durchlaucht ganz er- gebenst anheim, indem ich nur wünsche, bei Ihnen die Ueber- zeugung hervorgebracht zu haben, dass ich nicht ohne erhebliche Gründe von dem jetzt beobachteten \'erfahren zur Befolgung der Städte-Ordnung zurückzukehren wünsche.</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">Berlin, den 21*«» November 1819. Humboldt.</title>
+               </head>
+               <p>An den Königlichen Staats-Kanzler Herrn Fürsten von Hardenberg Durchlaucht.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

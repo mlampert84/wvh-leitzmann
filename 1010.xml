@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Antrag für Fichte</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif10humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1903">1903</date>
+                  </imprint>
+                  <biblScope unit="page" from="72" to="72"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="10.72" xml:id="pbX72"/>
+            <p>§84. In beiden Fällen gehen solche Beschwerden an die obere Censur-Behörde, können aber von der weiter bis an den Minister des Innern, den Staatsrath und die Person des Königs gebracht werden.</p>
+
+            <p>§85. Wenn Drucker, \^erleger und Verfasser einer Schrift allen ihnen nach den vorhergehenden Paragraphen obliegenden Verbindlichkeiten ein Genüge geleistet haben, so können die beiden ersteren wegen des Inhalts derselben nicht weiter in Anspruch genommen w^erden. Auch der Verfasser bleibt alsdann nur noch insofern verantwortlich, als ihm, nach den allgemeinen \^orschriften der Gesetze, imputable und strafbare Schuld bei der Abfassung und Herausgabe der Schrift zur Last fällt.</p>
+
+            <head>
+               <title type="main">XV. Antrag für Fichte.</title>
+            </head>
+            <p>10. Mai 1809.</p>
+
+            <p>(Konzept und Abschriß im Geh. Staatsarchiv.)</p>
+
+            <p>Ew^ Königliche Majestät haben geruht, dem Professor Fichte, als der feindliche Einfall im Jahre 1806 ihn des Genusses der ihm in Erlangen verliehenen Professur beraubte, die Fortdauer der damit verbundenen Besoldung von 800 Thl. auf so lange zuzusagen, bis die wieder eingetretene Ruhe eine neue Anstellung für ihn möglich machen würde, und derselbe hat durch Allerhöchst- dero Gnade auf das ihm zugesicherte Gehalt nach und nach ein- zelne Summen erhalten. In dem gegenwärtigen Augenblick aber befindet er sich, da eine langwierige Krankheit ihn ausser Stand zu arbeiten gesetzt hat, in einer höchst drückenden Lage, und nur Bescheidenheit und Delikatesse halten ihn zurück, selbst mit Bitten deshalb einzukommen.</p>
+
+            <p>Je mehr nun diese Gesinnung ihn selbst ehrt, desto mehr</p>
+         </div>
+      </body>
+   </text>
+</TEI>

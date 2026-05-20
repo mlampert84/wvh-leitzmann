@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sechste olympische Ode</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Achter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif08humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1909">1909</date>
+                  </imprint>
+                  <biblScope unit="page" from="102" to="103"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1804">1804</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="8.102" xml:id="pbVIII102"/>
+            <head>
+               <title type="main">14. Sechste Olympische Ode.</title>
+            </head>
+            <p>Bruchstück.</p>
+
+            <p>A. Auf goldener Säulen Gesims stützend des Saals sicher gegründete Halle, der Zinne des hohen Pallasts gleich, prange mein Bau! Dem beginnenden Werk ziemt helleuchtendes Antlitz; und wenn Sieger Olympias jener Mann ist, und Zeus Seheraltars Schafner in Pisa, und Mitgründer der herrlichen Syrakusa; welches Gesangs Preis mangelte dann ihm, zu neidloser Bürger süsstönendem Hymnos gesellet?</p>
+
+            <p>a.</p>
+
+            <p>Denn dieses Ruhms Stufe betritt, hör' es erstaunt, glücklich dein Fuss dir jetzt, Sostratos Sprössling! Gefahrlose Tugend wird nicht im Männergetümmel, im holen Schiff nicht geehrt. Ruhmvolle That aber preist Vieler Gedächtniss. Agesias, dir, o! gebührt jetzo das Wort, das wahrhaft einstmals Adrastos Zung' zum Oikleiden Amphiaraos sprach, als der gähnende Abgrund ihn fasste,^) ihn selbst, und die herrlichen Rosse. Handschrifl: 4 Quartseiten, ohne Titel. — Erster Druck: Wilhelm von Humboldts Gesammelte Werke 2, 27^—279 (1841).</p>
+
+            <pb n="8.103" xml:id="pbVIII103"/>
+            <p>a.</p>
+
+            <p>Denn als die Scheiterhaufen vollbracht der sieben Leichname nun waren, begann 25 vor dem Thebervolk der Talaionide diess Wort: ich vermisse des Heers weit waltendes Aug', zweifacherprüft, Zukunft zu erspähn, und kühn im Lanzenstreit. So auch 30 glänzet mir des Festgesangs</p>
+
+            <p>Herscher jetzt, der Syrakusische Mann. Nimmer zu hadern bereit bin ich, noch des Streites ein Freund, aber mit kräftigem Eidschwur 35 Vv^ilH) ich ihm laut diess bezeugen, und der honigsüssen Musen Gunst <note type="footnote" n="^)" resp="gnd-116890657"><hi>Nach „Geschlecht" gestrichen: „auch". ^) „schaue" verbessert aus „komme", y „noch" verbessert aus „sie".</hi></note> wird gnädig es ^) gewähren.</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">B.</title>
+               </head>
+               <p>Doch jetzo, beflügelnd das Werk, spanne die Kraft, Phintis, der Mäuler mir an, dass auf ebenem Pfad wir den Wagen 40 lenken, und fern auch*) der Männer Geschlecht") ich schaue.^) Denn vor allen kundreich den Weg dorthin zu führen sind jene, da noch "') in Olympias Kampf des Sieges Kranz sie schmückte.*) Weit öfne vor^) ihnen 45 nun ^°) der Hymnen schallendes Thor sich ! ^^)</p>
+
+               <p>Denn an Eurotas Gewässer, zu Pitanen ziemt uns heute noch eilend zu kommen!<note type="footnote" n="*)" resp="gnd-116890657"><hi>V „will" verbessert aus „zeug"'. ^) „Gunst" verbessert aus „Milde". 'j „gnädig es" verbessert aus „es mir". *) „auch" verbessert aus „zu".</hi></note><note type="footnote" n="**)" resp="gnd-116890657"><hi>„des — schmückte" verbessert aus „den Kranz des Siegs empfingen'' ^J „vor" verbessert aus „sich". •*y „nun" verbessert aus „sich". •y „sich" verbessert aus „nun".</hi></note></p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

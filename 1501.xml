@@ -1,0 +1,577 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tagebuchnotizen von 1799</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Fünfzehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif15humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1918">1918</date>
+                  </imprint>
+                  <biblScope unit="page" from="1" to="46"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1799">1799</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="15.1" xml:id="pbXV1"/>
+            <head>
+               <title type="main">I.</title>
+            </head>
+            <div type="section" n="1">
+               <head>
+                  <title type="main">Tagebuchnotizen von 1799.</title>
+               </head>
+               <p>a. Paris.</p>
+
+               <p>Dienstag. &lt;Sten Januar. (19. Ntvose. an 7.)</p>
+
+               <p>Besuch bei Madame (Jondorcet. — Sie hat vor mehreren condorcet. •Jahren einen Roman entworfen, von dem der Plan ganz fertig ist, aber nur etwa 80 Seiten geschrieben sind. Die Hauptidee davon ist der Contrast der Liebe eines Wilden und eines civili- sirten Menschen in dieselbe civilisirte Frau. Sie hat aber, wie sie sagt, das Project aufgegeben. — Als die Stael mit Narbonne in suei. Verhältniss gewesen ist, hat sie sich ungeheuer tremoussirt, ihn immer zugleich beim König in Gunst und mit den Patrioten in Freundschaft zu erhalten. Sie hat Sieyes, Condorcet und einige andre der Gironde zu Narbonne zu Tische gebeten, aber immer selbst gesprochen, ohne Narbonne reden zu lassen. Sie ist so beschäftigt und verwirrt gewesen, dass sie einmal der Condorcet in Gegenwart ^) des Mannes von dieser und einiger andern nach Tische gesagt : Vous ne ^rCenleverez pas Mr. de Narhonne, Madame. Dann ihr die Hand gefasst und hinzugesetzt: je suis hien aise de Vous avoir dit cela und von Decreten und Politik, wie vorher, weiter gesprochen. — Voriges Jahr (1797.) hat sie vor vielen Personen bei Talleyrand am Tische, als Constant neben ihr gesessen, und von Buonaparte die Rede gewesen ist, gesagt: Ehl comment est-il posstble que je ne sois pas nee pour Hre la femme de Buanaparte. — Es war noch eine Madame la Chaise bei der Con- weiber.</p>
+
+               <p>Handschrift voyi a (14 Quartseiten) im Archiv in Tegel.</p>
+
+               <pb n="15.2" xml:id="pbXV2"/>
+               <p>dorcel, deren Mann lange (^)nsul in (ienuu gewesen ist, eine an.v«ri&gt;on.i. . genehme, sanfte Frau, — Narbonne hätte viel Verstand aber nicht genug Coiidiiitc gehabt, l^ei diesen dincrs der Stael habe er einem Madehen geglichen, die man, um sie zu verheirathen, aus dem cons.M». Kloster bringt, und ihr sagt: c'est four lundi. Constant ennuyire sich bestiindig und überall: aus Langeweile rühre seine Unruhe und sein Ehrgeiz her. (In der That scheint das sehr wahr, er hat gar nicht die Unruhe der Heftigkeit, sondern nur des Zerstreut- seyns, des an nichts Befriedigung finden.) St. Alibi.-. Mittagsessen bei (jambs. — St. Aubin' ) war dort. Kr ist, wenn nicht aus Deutschland selbst, doch aus den deutschen Provinzen</p>
+
+               <p>Frankreichs, und spricht vollkommen Deutsch. Er ist klein, mager und hat ein feines, kluges Gesicht. Er spricht viel und amüsant, über interessante Gegenstande, und auf eine franzr^qsch witzige Manier, doch zu einförmig, gerade immer so, als er einen Artikel für ein Journal schreibt, also nicht mit gehöriger Anwendung aut die Gesellschaft, die er vor sich hat. Dass er eines eigentlich tiefen, rein untersuchenden Gesprächs fähig ist, konnte man wenigstens nicht sehn, imd er schien immer nur zu reden, um sich hören zu lassen. \'ieles war eigentlich pedantisch und sogar gedruckte Sachen trug er von neuem der Länge nach vor. — Ab^brn l^aris hat nicht mehr als 24,312. Häuser, und daher hat man sich mit der Fenstertaxe sehr verrechnet. Sie wird nicht mehr als</p>
+
+               <p>4.00,000. livrcs einbringen. Die Anzahl der Menschen gab er über siucn. 700,000. an. — Signeul: man spielt in grossen Gesellschaften hier gewöhnlich Bouülottc, selten WIdst, nur in kleinen bürgerlichen Girkeln hnr.lori, nie, auch schon vor der Revolution nicht thombre.</p>
+
+               <p>Die grossen Spielcirkel, z. B. bei Madame Tallicn gehen erst nach Mitternacht an, und dauern bis zum Morgen. Das bouiHoitc Spiel ist sehr gefährlich für einen Neuling. Vä muss schlechterdings verlieren, wenn es die andern darauf absehen, l'.s scheint eine Geschwindigkeit des Zählens der Augen der Karten vorauszusetzen, in der'-') man leicht jemanden zu Irrthümern verleiten kann. Wenn herum gepasst wird, S(; wird V\x\ jrtloii inner den Leuchter ge setzt, und da dies oft kommt und man hoch spielt, so verdient<pb n="15.3" xml:id="pbXV3"/> ein solcher Leuchter oft 50 Louisdor in einer Nacht. Dies Geld nimmt jetzt ganz gewöhnlich die Hausfrau. Signeul sagte selbst, dass er gesehn, dass die Frau des Hauses es in ihren Strickbeutel gesteckt habe. — Marron.') Valckenaer<note type="footnote" n="^)" resp="gnd-116890657"><hi>Paul Henri Marron {i']S4 — 1^3"^) ^ reformierter Prediger, besonderer Kenner der holländischen Literatur.</hi></note> hat sehr interessante Manu- vaiken» Scripte hinterlassen, Emendationen und Anmerkungen fast zu allen alten Schriftstellern. Fragmente des Callimachus will sein Sohn '^) jetzt herausgeben. <note type="footnote" n="*)" resp="gnd-116890657"><hi>Louis Kaspar Valckenaer (i-jis—8s). Professor des Griechischen und der Geschichte in Leiden.</hi></note> Sonst ist eine so gut als fertige Ausgabe der Griechischen Geschichte Xenophons ^) und sehr viel zum Sophocles da; der Sohn hat alle diese Manuscripte, und sucht sie zu verkaufen. Der Sohn ist ein Mensch von sehr viel Talenten, ein Patriot von der heftigen, der jetzt herrschenden entgegengesetzten Parthie; er war Gesandter in Spanien, ist jetzt in Holland, kommt aber in einiger Zeit zurück. Er soll von üblen Sitten seyn, und die Manuscripte sich wirklich in der Wohnung zweier Mädchen befinden, die er hier im Fauhourg Potsso?imere hält. — Meyer ist gleichfalls von derselben Parthie, aber jetzt mit ^'•^"^ Valkenaer zerfallen. Er war ehmals Consul in Bordeaux und hat noch Antheil an einem Handlungshause dort.</p>
+
+               <p>Mittwoch, y^ Januar. 120. Ntvose. n. st.)</p>
+
+               <p>Oeuvres de Diderot. V^ol. (S. (). — 21. Essai sur les regnes de Jüdero- Claude et de Neron et sur les moeurs et les ecrits de Seneque. Eine s.&gt;aeca äusserst interessante Schrift, da sie ganz in Diderots Eigenthümlich- keit geschrieben ist. Es ist keine fortlaufende Geschichte, keine vollständige philosophische Analyse, es geht immer Sprungweise, immer mit Abschweifungen, oft wie ein Brief, oft sogar wie ein Gespräch. Der historische Theil ist sehr gut behandelt, mit einer Beredsamkeit, von der man sich kaum einen Begriff macht. Man sehe z. B. Messalinens Hochzeit und Tod. VHI. 65. und die Stelle<pb n="15.4" xml:id="pbXV4"/> nach Neros Krmordung. VIII. 307. Seine Hauptbemühung geht dahin, Sencca gegen die Angriffe einiger Aken, wie Dio (.'assius und Xiphilinus und einiger Neuern, wie de Sacy \i zu vertheidigen ; dies ist der I'aden, an dem sich das Ganze abwickelt. Ks sind daher sehr oft, und meist Antworten auf Vorwürfe, die man dem alten Philosophen, oder auf Hinwürfe, die man gegen die Apologie des neueren gemacht hat. Es muss damals, wie man au- dem Ganzen sieht, ein grosser (iegensiand des Streites gewesen seyn, inwiefern Senecus Betragen an Neros Hof Entschuldigung verdient, und unstreitig ist dieser Zwist nicht ohne Rückblicke und Anwendungen auf die Pariser Philosophen, denen man immer zu Leibe wollte, und besonders auf ihre Verbindungen mit Grossen geführt worden. Wenigstens sind starke Ausfülle auf die Priester und ihren Anhang auch in dieser Schrift. — Die Kritik musstc an dieser Verthcidigung viel auszusetzen haben. Seneca ist zu günstig und panheiisch darin behandelt. Man sehe nur z. B. VIII. Si. xSi. Auch gesteht Diderot geradezu als Maxime ein, das&gt; er an schlechten I landlungen allen seinen Scharfsinn versuche, sie unwahr zu linden, an guten nicht einmal gern zweifle, und nennt das saja^on de lirc f/nsiotrt\ VIII. 93. — P-ine ordentliche Gharakter- würdigung muss m.an nicht in dieser Schrift suchen. Immer nur die einzelnen Handlungen und die einzelnen Schriften. Die Entla uiange. stehung dieser Schrift scheint die von la (orange angefangene und Na-K-on. die von Naigeon und Holbach fortgesetzte Uebersetzung des Se neca. ■'^j Ausser ihrem eigentlichen Gegenstand ist diese Schrift aber an andern interessanten Dingen sehr reich. In der Geschichte ist er ganz Mahler und Moralist, das erste in einem eminenten (irade. M.. M. — - lieber die Moral. IX. 38. Säicquc avaif retnotifn' la vraie base dr<note type="footnote" n="*)" resp="gnd-116890657"><hi>Jan Valckenaer {ij^8—i8'joJ, Professor der Rechte in Leiden, damals diplomatisch tätig.</hi></note></p>
+
+               <p>In mornlc. A parier rigoureusement, ü n'y a qiinn devoir, c'est d'itrir heureux : ü rCy a gu'une vertu; c'est la justice. Doch heisst es i..M,xic. IX. 213. Qu'est cc que la vertu} Cest sous quelque face quc Von la considlre, uri sacrijice de xoi-mhne. — Leidenschaiien. Das Thier sagt Seneca ist keines Zorns fähig. Diderot radottirt darüber.</p>
+
+               <p>IX. 12. Man vgl. Kants Anthropologie. S. ii-. — I^s grand^s passiaris aniantissent les Jantaisics qui tiaissent toutes de la frivoliii et de tennui; je ne r.on^ois pas, connncnl 11 n etre sensible peut agir</p>
+
+               <p>Sans Passion. 1\. 1 3- — J'ai vü l'affionr, j'ai vü lamitie hiroique. U</p>
+
+               <p>') Claude Loms Michel de Sacy (i-]4ö—r)o), königlicher Zensor.<pb n="15.5" xml:id="pbXV5"/> spedaclc des dcux amis nia plus tuuche qiic celiii des deux ainaris. jyun cote c'Staif la raison, de lautre la Passion, qiii faisait de grandes choscs ; Vhonime et l'animal. VIW. 369. — Freie und revolutionnaire Rcvoiuiio... Stellen: le proverbe dif: pour etre heureiix, il faut ifre ne sot ou roi. Pour Lire tres-heuretix qiic fallait-il naifre?'^) VTII. 86. lieber das Recht des Widerstands des N'olks gegen beleidigte Menschenrechte, bejaht. VIII. 176. Sehr starke Stellen über das Recht der Sklaven, ihre Herren zu morden, mit Wunsch ausgedrückt. VIII. 370. La 'Plaisanierie eouta la ine a Caligida. y^ai toiijours desire, que le despote fut plaisant. V komme Supporte l'oppression, mais non le mipris : il repond toi ou tard a une ironie par un coup de poignard. IX. HO. Lobender Antheil an der Amerikanischen Freiheit. IX. 185. Aber auch se depopulariser oit sc rendre ineilleur, dest la mime chose. VIII. 470. — Definition des Philosophen, qui s'exerce con- stamment a la recherchc de la verite et a la pratique de la vertu. VIII. 391. — Diderots Gutmüthigkeit und dass er lieber honnete als geistreich scheinen will. VIII. 6. zugleich dort über seine ab- gcrissne Art zu schreiben: je ne compose point, je ne suis pas auteur\ je lis ou je converse, j'interroge ou je repo7ids. Seine oben berührte gutmüthige Kritik. VIII. 93. Prächtige Stelle über die Freundschaft. VIII, 368. Nur mit der in Montaigne vergleichbar. Aber mehr Leidenschaft und Glanz hier, w^eniger stille und volle Kraft, als im Alten. Üamour est tivressc de V komme adulte, Vamitie est la passion de la. jeunesse. (Reicher Text.) — Man wird mich eine Art Original nennen. On sera tente de me prendre pour une esphce d" original; mais quest ce que cela fait? Est ce dont un si grand defaut, que d'avoir pü eo7tserver, en s'agitant sans cesse dans la so- ciete, quelques vestiges de la nature, et de se distinguer par quelques cotis anguleux de la multitude de ces uniformes et plats galets qui foisonnent sur toutes les plages? IX. 183. (Zugleich sehr gute Stelle sp.«:.^ für die Sprache: s' agiler, das participium, plage, foisonner.) — Er &gt;veiss viel Sachen, aber keine recht. Schuld der Zerstreuung auf alle, und seiner unvortheilhaften äussern Lage : Je me crois passable moraliste, parceque cette scienee nc suppose qu'un peu de justesse dans lesprit, une ame bien faite, de frequens soliloques (wesentlich in Diderot) et la sincerite la plus rigoureuse avec soi-memc, sarvoir saccuser et ignorer Vart de s'absoudre. IX. 198. — Gegen J. .1. Rousseau enthält diese Schrift fürchterliche Ausfälle, erst die grosse Stelle VIII. 153 — 172. vor der Herausgabe der Confessions<pb n="15.6" xml:id="pbXV6"/> aber nach Rousseaus Tode, 320. 332. JX. 168. und von Naigeon. &lt; .ut^&lt;;,ii. VIII. 355. Rousseau wird ein hypocrUe, im ingrat, un monsfre ge nannt; es ist keine Spur einer chmals mitleidigen Freundschaft, keine innere gerechte Würdigung, keine Rücksicht auf Rousseau's ptianie. Sein schriftstellerisches Verdienst ist lächerlich ungerecht behandelt. Kr hat alles beinah gestohlen, nichts gehört ihm. Ji pre/ererais un pdit volumc ijui contiendrnit Veloge de Descarles (de Th(ytnasj, cclui de Marc AureU et (juelqius pages a chaix de thtsloire naturelle a tous les ouvragcs de Rousseau, p. 162. VIII. A..ti.tijk. Dann wird er ein grosser C^olorist genannt, aber incorrect in der v-,i.aite. Zeichnung und nachläs.sig im Costüme. VIII. 165. — Voltaire ungeheuer gelobt, der ausserordentlichste Mensch, sein Triumph in • .•.n..i,r. Paris so wichtig angesehen. VIII. 451. IX. 10^. — (Corneille gross und bewundernswürdig, rührt im Alter mehr, Racine in der Jugend.</p>
+
+               <p>IX. 27. erh/ilt Thränen, nicht die mele'es de plaisir et de peine, o.e. mais qui naissent de l'admirati&lt;yti. IX. 38. — Cicero unbillig getadelt. u:. Meti.ie. Nicht Gehalt genug. MII. 40(). 419. — La Mettrie verachtet. VII!. Girat. iber- 389. — Garat hoNuete behandelt. IX. 183. — I^berhards Apologie des Socrates ' i erwähnt, ohne ihn zu nennen. VIII. 131. Hirhard ..n. Vol. c). — 22. Eloge de Ric/iardsuN. Vgl. meine ükern Pa icrrw piere über Diderot.^) — 23. de Terence, wichtig für die ästhetische Kritik. Teren/ sehr gelobt. Nicht viel verve, aber sehr viel gotä, elegance, correctian, ßnesse. — 24. FmI retten d'ttti pere avec ses en/ans ou du danger de sc mettre au dessus des loix. Eins der vorzüglichsten Stücke Diderots; ein Meisterstück in der Kunst ein philosophisches Raisonnement ganz erzählend, ganz unterhaltend imd doch auf eine für den fayids entscheidende Weise durchzutühren, und zugleich in dem l'alent eine w^irklichc Scene /.\\. mahlen, l'.r scheint wirklich seine eigne Familie vor Augen gehabt zu haben. Sein \'ater war in der That forgeron. - Prtn cipes de pulitique des souverains. Mittelmässig, Hüchtig gemacht, ••■,rd,.b .. zum Theil dunkel, immer einseitig und ungerecht, (jrossentheils gegen Friedrich 2. — 25. sur la princesse d'Ashkow. Mit Geist,</p>
+
+               <p>') Neue Apologie des Solcrates oder L'ntersuchuiif: der I^'hre von der Seitg- keti der Heiden, Berlin und Stettin 1772— 7Ä</p>
+
+               <p>') Von diesen Papieren haben sich zwei vereinzelte lildtter erhatten. Iku eine enthält folf^endes l'rteil iiber Diderots ,,J;ic&lt;|ues Ic fai.iliste"; „Herr und liedienter reiten. Der liediente ist ein Schwätzer, der Herr lässt sich gern er<pb n="15.7" xml:id="pbXV7"/>Geschmack und Feinheit, ein wenig sehr eitel. Gewiss zu günstig, doch interessant. — 26. Regrets sur tna vieille robe de chambre. S. meine älteren Papiere. Meisterhaft und äusserst charakteristisch und wichtig. Das Stück mahh Diderots und die französische Art überhaupt sehr gut. Viel appret^ viel Lärmen von sich und seiner Philosophie. Doch muss man freilich bedenken, dass alles Scherz ist. Erhabene Stelle in der Schilderung des Vernet, Anrede an Gott über die Felsen : Cest ainsi qnc ta inain puissante les a formes ; (fest ainsi que ta main bienfaisante les a tapissds. IX. 430. — •27. Satire premiere sur les caraderes et les mots de caractere, de Profession et cet. Ein ausserordentliches Stück. Lauter abgerissene Anekdoten. Worte die Leute gesagt, und wodurch sie ihren Stand, ihren Charakter verrathen haben. Eine fortgehende Con- versation. Die praktische Menschenkenntniss der grossen Welt ist darin vortreflich geschildert, und Diderot scheint sie sehr gut besessen zu haben. Rulhieres Rath, nie nach den Namen der Personen zu fragen, sondern sie zu errathen, und sein Beispiel. Während der Unterbrechungen werden immer ganz und halb erdichtete, auch wahre Geschichten erzählt, denen das Ganze nur zum Cadre dient. Hübsch und leicht geschrieben, gut erzählt, aber im Ganzen doch nicht durchaus amüsant, zu viel Wiederholungen desselben Scherzes, und bei weitem weniger Natur als in Voltaires kleinen Romanen. Das metier solcher Geschichtchen blickt durch. — Raisonnements, weniger die über den Fatalismus, nicht der Rede werth. Etwas gegen die Verwicklungen der Rorttane. Eine Art Kritik des bourru bienfaisant M. s. w. — Doch nur Eins der mittelmässigeren Produkte Diderots, die zur Kenntniss oder Erweiterung seines Charakters nichts beitragen." Das andre gibt kurze Auszüge aus Diderots „Salon de 1765 (Vol. i^)", aus denen ich folgende Sätze aushebe: „Antinous est l'extreme de rhomme oisif. II est ne grand comme il est. CMit welchen Augen muss Diderot den gesehen haben?) Vorstellung, als entständen verschiedne Gestalten durch allmähliges Zu- oder Abnehmen der Formen. (Ganz falsch und verräth Mangel an Kunstsinn. Aus der Mitte allein entspringt alles.) p. 12g . . . Uebel ausgedachte Idylle über Greuzes weinendes Mädchen. Sie wird den Vogel verhungern lassen, den ihr ihr Geliebter gegeben hat. Sonst doch Phantasie darin. Aber kein Genie. Nur Geschwäz. Die Neuheit der Liebe, wenn man einmal weiter gehn will, macht sie bang, dumpf; der Vogel stirbt zufällig. Nur natürlich kindischer Schmerz, und Augurium. p. igo . . . Dass die esquisse genialischer ist, als die Ausführung. Uebel bewiesen. Plus l'expression des arts est vague, plus l'imagination est ä l'aise. Er liebt eine Symphonie, weit man sich alles dabei denken kann. Eben so mit der Skitze. Je vois dans le tableau une chose prononcee; combien dans l'esquisse y supposai-je de choses qui y sont ä peine annoncees. — Das heisst ein Kunstwerk nur dazu benutzen, sich etwas dabei zu denken, nicht sich darin zu vertiefen. In der That ist dies Diderot sehr eigen, p. 206."<pb n="15.8" xml:id="pbXV8"/> Woli^rr. UebtrFür die philosophisch.- Menschenkenntniss wenig daraus zu nehmen. — Unterschied 2'.\ischen Zeichner und Mahler. Jcunes foetesy feuületcz aUernativcment Molierc et Terencc. Aprcnez de tun ä desstner, et de Vautre a feindre. S. 251. l'eber Gemälde und Karri- katur und die Englischen Komiker s. Wörterbuch 23. — Das Unübersetzbare ist meist das ßestc. 235. — Revolutionnaire Stellen: die Schutzwehr der Freiheit ist allein allgemeine Bewafnung der</p>
+
+               <p>Bürger. 36 1. Le siipplice public d'un rot change, tesprit (Cum iiaüon pour Jamals. Niemals, steht vorher, müsse das N'olk königliches Blut tliesscn sehen. 378. — Bei Gelegenheit von Dikinsons (S. S. 443.)</p>
+
+               <p>Icttres d'un fcnnier de Pensävante ^) cct. : On nous per viel la lecture de CCS choscs la et fori est e'tonne de nous trouver au bout d'une dizame eTatine'es d'autres lumnnes. Est-ce qiion ne sejit pas, avec quelle facilite des ames im peu genereuses doivent boire ees principes et s^en enivrer. AJi! man avii, heurensemcnt les tyrans sont encorr plus imbdcilles qu'üs ne so7it me'chans ; ils disparaisseut : les le^ons des grands Iwmmcs fructifient, et l'esprit d'une nation sa^randü. 446. -- Diderot schildert sich selbst als einen bon komme, bien um, bleu rond. 5o('). Die Dashkow hat ihn einen der angenehmsten Menschen zu hören genannt, et quc sage on fou, toujours conse'- quenl. 422. Im Geschmack ging er sehr weit über die engen Grenzen des französischen Xationalgeschmacks hinaus und liebte die Knglische derbe Natur und Wahrheit. 223. Die hohe stille</p>
+
+               <p>Schönheit schien er nicht so anzuerkennen. l'&gt; spricht von der Venus Medicis mehr [als] von einem leinen, zarten, als erhabnen grossen Werke und thut ihr Unrecht, Terenzen bis zu ihr zu erheben. 231. — Nach Naigeons -') Zcugniss ist er sehr ungenau im Gitiren, alterirt alle yi7^/&lt;7, 372. war unordentlich, machte lieber ein verlornes Manuscripi noch einmal, als er es suchte. 43(1.</p>
+
+               <p>In philologischen iü-kliirungen ist er sehr unglücklich. Beweis sein Brief an (jaliani über inmeritus major um.^) ^ü\. — \'oltaire covime le fils de thoinme qu'il a taut perse'cute. Wer ist das? — Ueber Galiani. <note type="footnote" n="*)" resp="gnd-116890657"><hi>„Dcliclä iiiiijorum imincritus Im»" Iluraz, Oden '■(, 0, 1.</hi></note> 434. Uebcr die Dashkow. ''1 ^(M). - Hulhieres</p>
+
+               <p>'j London i']4s•) Jean Andre Wiif^eon ifj'^S iKto), der erste HerMts^ehcr von Dideruu Werken.<pb n="15.9" xml:id="pbXV9"/> und seine mevwtren wohl mit Absicht ungünstig dargestellt. 418. t&gt;o8. — Thomas, <note type="footnote" n="^)" resp="gnd-116890657"><hi>Frangois de la Mathe Levayer {i^S8—i0j2j, Erzieher des Herzogs von Orleans; den oben genannten Beinamen gab ihm Naiide.</hi></note> Vhomme de letires le plus eloquent. -^o\, Thom«s.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Fernando Guliani (fj2H- S-j), Abt, hatte als neapolitanischer Legations - Sekretär in Paris freundschaftlich im Kreise der Enzyklopädisten verkehrt.</hi></note></p>
+
+               <p>4Gespräch mit dem Sohn des Baron</p>
+
+               <p>Holbach^) bei der Vandeuil.</p>
+
+               <p>Hoibad». — Sein Vater hat Rousseaun angeboten, seine Kinder umsonst zu Rou"««« erziehen.</p>
+
+               <p>Dieser aber hat es ausgeschlagen.</p>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">— Hume</title>
+               </head>
+               <p>hat seinem</p>
+
+               <p>««"« Vater einen</p>
+
+               <p>Englischen</p>
+
+               <p>Brief geschrieben, den der Sohn noch hat, in dem er sagt: er (Holbach) habe ihm wohl vorhergesagt, dass le bov Hume die dtipe dieses</p>
+
+               <p>Menschen seyn werde.</p>
+
+               <p>— Die Briefe sind merkwürdig, obgleich platt gegen</p>
+
+               <p>Rousseau.</p>
+
+               <p>Ich sah sie und las sie selbst.</p>
+
+               <p>Sonnabend. 1 2 ^ .1 a n u a r. (2'^. N i7&lt; 0 s e. n. s L)</p>
+
+               <p>Oeuvres de Diderot. Vol. 10. — Les bijoux indiscrets. S. meine Diaerot. älteren Papiere. — Voiseau blanc. Cofite bleu. Ein Chinesischer Prin2, der die Wahrheit erzogen hat, und verheirathet. In der bekannten Manier, und stellenweis sehr gut und witzig. Im Ganzen indess von keinem grossen Werth, fast eine fortlaufende Allegorie.</p>
+
+               <p>Vol. 6. Opimons des anciens phüosophes. Fortsetzung. — A ^'•-""« comparer le phüosophe de Note (Jordanus Brunus) et celui de Leipsic (Leibnitz) tun nie semble un fou qui jette son nrgcnt dmis les rties, et Vautre un sage qui le suit et qui le ramasse. S. gq.</p>
+
+               <p>Vol. 7. Fortsetzung. — Einige mir sonst wenig bekannte Männer, auf die ich aufmerksam geworden bin. Francois la Motte '" .^"'"^ '' ' o &gt; Vayer. le Vayer, •) geb. 1586. le Plutarque Frangais. 28. — Huet, *) sehr ge- Huet. lehrt, Sceptiker und Philosoph. 29. — Justus Lipsius. ^) S. 373. i.ipsms. geb. 1547. Stoiker. Politische Schriften.</p>
+
+               <p>') Anioine Leonard Thomas (1^^2—85), berühmter Festredner der Akademie.</p>
+
+               <p>-) Paul Heinrich Dietrich Freiherr von Holbach (ij2^—8gj, der Verfasser dei „Systeme de la nature", dessen gastfreies Haus den Mittelpunkt der Enzyklopädisten bildete.</p>
+
+               <p>*] Pierre Daniel Huet (16^—1721), Abt von Fontenay, Literarhistoriker mid Philosoph.</p>
+
+               <p>') Justus Lipsius (Joest Lips, 1^47—1606), Philologe, Professor der Geschichte in Leiden.</p>
+
+               <pb n="15.10" xml:id="pbXV10"/>
+               <p>Sonntag. 1 3 teo .1 a n ii a r. ( 24. Niv ö s c. n. s l.\</p>
+
+               <p>6. "•""? Mittagsessen bei Bourgoing. — Kinige Spanier: Maury, 'j eines</p>
+
+               <p>Weinhändlers Sohn aus Malaga, ein Mensch von Kenntnissen, der aber ein wenig iv\ sehr den aimabkn und den Literatcur Aiuaga niacht. — Arteaga'^) bei der hiesigen Spanischen Gesandtschaft. — Ha.khoff. fTjjj gewisser HackhoU. ein alter Mann. Hofmeister bei Bourgoing, der im Besitz Mirabeauscher Manuscripte ist, die er mir zum</p>
+
+               <p>■ -■ ' Durchsehen anbot. — Nichts merkwürdiges. — Ins Portugiesische sollen mehr Deutsche JKlcher übersetzt seyn, als ins Spanische.</p>
+
+               <p>Gessner ist es auch in die letztere Sprache. •*) — Maury gestand, dass kein Spanisches Heldengedicht der I.uisiade gleich komme.</p>
+
+               <p>S(jnntdg. josicLi .1 an aar. \^\. P luv lu st. //. xt.) ' ifüf. Nubu (Ulm» Besuch bei Madame Talma. — Das Gespräch betraf vorzüglich den (Charakter der Weiber, die Art, wie in Frankreich die Männer über sie denken und sie behandeln, und das Glück der Ehe. Sie klagte über die Sittenverderbniss ehemals. Man habe nichts als Galanterie gekannt; bei Heirathen und Kindern nur an (wli Vermögen gedacht. Narbonne's (beliebte, die Schauspielerin (]ontat, habe sich bei Narbonne beschwert, und es übel genommen, dass seine I'Yau schwanger geworden sey; und er habe sich damit gerechticrtigi, dass er. für sich ohne X'ermögen, ohne Kind nicht von ihr würde haben erben können. Man habe die Engländer getadelt, dass sie nur Sinnlichkeit kennten, keine dclicafesst' bc Sassen, in liederliche Häuser gingen und nicht Galanterie hätten. Die Talma nahm hierin sehr gut ihre Parthie, und verabscheute diese (ialanierie, die die W^eiber zu Puppen macht. Sieyes und andrer .Männer Grundsatz sey gegen alle Heirathen und bloss für</p>
+
+               <p>.Maitressen. Doch seyen die I'Yauen daran auch selbst Schuld gewesen, da sie zu Anfang der Revolutie)n die politischen Gespräche der Männer langweilig gefunden und verspottet hätten.</p>
+
+               <p>') Ditn Juan Mana Maury {f]ik&gt;~ iü4S', Dichter und Literarhistoriker.</p>
+
+               <p>') E.\tebau Arteaga li7jj—&lt;^), Ästhetiker unJ Musikhistoriker.<pb n="15.6" xml:id="pbXV6"/> Dennoch sey seit der Revolution mehr Hüushchkeit, mehr Sorge für die Kinder entstanden. — Die Talma hat otfenbar mehr Sinn, ^'^'"^ als andre Französinnen ; sie goutirte dass ich sagte, die Franzosen wären ebendeshalb schlechte Republikaner weil sie nicht lieben könnten, und dies se_v dem entsprechend, dass sie sich nicht fest an Principien hielten. — Die Condorcet sagte mir, die Talma ^«"'lo'-'^«- habe schreckliche Leidenschaften gehabt, und sey sehr unglücklich dadurch gewesen. Sie selbst ist aber auch sehr kalt und halt es für besser, dass Mann und Frau immer getrennt wohnten, den Appetit zu reitzen (!). — Die Talma hat mit Narbonne, Choiseul- ^^^^l' Gouffier, ^) Champfort ceA viel gelebt. — Alle diese, sagte sie, wären anfangs sehr für die Revolution gewesen, hätten aber nachher die Gesinnung geändert. Sie selbst ist sehr patriotisch. — Won TonRiouf^) über Buonaparte. Cest un grand citoyen, mais ce rüest pas un concitoyen.</p>
+
+               <p>Montag. 2rsten Januar, (-i. Pluviose. n. st.)</p>
+
+               <p>8.</p>
+
+               <p>Theatre de la republique. Brutus von Voltaire. — Brutus, voitaire. Vanhove; Titus, Talma; Aruns, Baptiste. Das Stück ist schlecht combinirt, die Liebe übel angebracht, Titus Umänderung und Verrath doch nicht motivirt genug, auch nirgends eigentliche Individualität. Indess sind die letzten Scenen sehr schön. Brutus allein mit seinem Sohn; jener sagend, dass er nicht anders handeln könne, aber seine Grösse anerkennend, dieser sich noch freuend für die Freiheit zu sterben, und seines Vaters würdig zu erscheinen. Da sind die Charaktere schön idealisirt, die Lage ist gross und prächtig ausgeführt. Einzelne schöne Worte: ai-je encore un fils ? Vous ri'en avez plus. — Je moiirrai di^ne de mon pere. Es ist die Frage, ob das Stück nicht da schliessen sollte.^ Doch ist sehr geschickt ein langer re'cü vermieden. ' — Ich muss Voltaire mehr studiren; es schien mir sehr viel Grösse hierin zu liegen und eine energischere, als in Racine. — Die Talma nannte Voltaire das Ideal eines Franzosen. — Talma spielte ausserordent- laima. lieh gut; sehr malerische Stellungen und viel Ausdruck. Sein<pb n="15.12" xml:id="pbXV12"/> Gesicht, wie er auf die Bühne triu, hat (ich linde nur ;.iit /.u viel leidendem Antheil) den Ausdruck des durch Leidenschaften travailiirten Helden. — Ks war der Tag der Hinrichtung des Ktinigs; das Haus voll, und der Antheil ziemlich lebhaft.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Marie Gabriel Auguste Florens Graf von CJioiseul-Gouffier ^l^52 — iSi'jJ, Altertumsforscher, damals Direktor der kaiserlichen Bibliothek in Petersburg.</hi></note></p>
+
+               <p>Mittwoch, io'ie" März. (xo. W'Jitos-t. n. sf.\</p>
+
+               <p>9The bei Zeltner. - Kosciusko, ') nicht gross, mager, sehr ein gebogene Nase, kleine ziemlich nah an einander stehende i\ugen, übrigens kränkliche hängende Züge. Er hat nichts Grosses, nichts Heroisches, aber etwas Festes was wohl an Nationaleigensinn grunzt. In der Gesellschaft ist er äusserst höflich, geschmeidig und gegen Weiber ordentlich höfisch.</p>
+
+               <p>lO.</p>
+
+               <p>Mesmer. •} — Ein grosser, dicker, vierschrötiger Mensch mit breitem weder schwärmerischen, noch listigen, bloss unbedeuten- den Gesicht. Ktwas Steifes im Betragen und ünbehülfliches im Reden. Soviel es mir vorkam, sehr platt und alltäglich.</p>
+
+               <p>1 1.</p>
+
+               <p>.Madame Rousseau.'; — .Mt, verständig, entschlossen mit Heftigkeit. Soll die Manie haben, als sey die kalte und einfache Vernunft alles, aber selten, dagegen überall nur Laster, rsprif, Künstelei cet. Ihre eigne schlichte N'ernimlt soll indess nicht frei von l\igcn Hebe seyn.</p>
+
+               <p>12.</p>
+
+               <p>Pcdrajes. — Kiner der zur Bestimmung der Masse und (ie wichte hieher geschickten Spanier. - Klein, dick, breites Gesicht : aber sehr schwarze ,\ugen und Augenbraunen.</p>
+
+               <p>'l ThaäJäus Kosciuszliu ii-j4ö — iSij), der letzte Feldherr Polens, w.ir ititthU.\ im Auftrage des atnerikamschen Kongresses längere Jahre in Paris.</p>
+
+               <p>') Franz Antvn Mesmer (i'JX^—tSisK der Prophet der magnetische^} Heil- meih»de.</p>
+
+               <pb n="15.13" xml:id="pbXV13"/>
+               <p>Arteaga, — Bibliothekar des (Chevalier Azara. Ein kleines Artea^a feuriges Männchen, eingenommen von seinen Meynungen, ziem- lich verächtlich aburtheilend über andre; doppelter Eigensinn und Eigenliebe, des Alters, und des Spaniers. — Er hat spanisch eine Abhandlung über das [dealschöne geschrieben. ^) Er will darin gezeigt haben, dass die Kunst und die Natur und jede einzelne Kunst ihre eigne Schönheit habe. Scheint indess am Ende nicht mehr zu seyn, als dass Gegenstände, die in der einen schön sind, es nicht nothwendig auch in den andern seyn müssen. — Ein andres Buch über den rhythnius hat er Italiänisch im Manuscript. ^) Er theilte mir eine Abhandlung daraus über den ritmo mudo visible (Pantomime) und invisible (Sphärenharmonie cet^ mit, die einige ziemlich gut vorgetragene Gelehrsamkeit, sonst aber nichts rechtes enthielt.</p>
+
+               <p>14.</p>
+
+               <p>Dupont de Nemours. — Hat ein Froject nach Amerika zu »"?&lt;"=' ^ r / Nemours. gehen, einen neuen Staat zu gründen. Que sera la ßn de tout ceci en Europe? — Allez a Palmyre et voyez. In einigen hundert Jahren wird man aus Amerika Colonien nach Europa schicken. Sie werden unsre Gebäude und Werke wie Alterthümer ansehen, und wieder unsre Felder beackern und Wein pflanzen. Sie werden keinen Champagner haben, weil dies zu tief ins Land hinein liegt, aber Bourdeaux. — Er giebt jetzt Turgots Werke heraus. '^)</p>
+
+               <p>Besuch bei Gregoire. — Er ist mit vielen Spanischen Ge- Gregoire. lehrten in Verbindung. Der Bischof Tavari in Salamanca denkt i'^^an ernstlich auf die Verbesserung dieser Universität. — Gregoire lässt eine Schrift gegen die Inquisition hier spanisch übersetzen, und wird sie hinschicken, dort vertheilt zu werden. — Er hat einmal auf Französische Idiotica gesammelt und viel Manuscripte darüber zusammengebracht. — Ein gewisser Rocheguide, der in RocheKuwie.</p>
+
+               <p>') La bellcza ideal l'objeto des artes imitativas, Madrid l'jSg. *) Dies Werk ,,Del ritmo sonoro e del ritroo rauto degli antichi dissertazioni sctte" ist nie gedruckt worden. ') Paris. 1808— II.</p>
+
+               <pb n="15.14" xml:id="pbXV14"/>
+               <p>den 50Ü war, hat auf der Bibliothek rntersuchungen über die Proven;^alische Sprache angestellt. M r.uHot. Besuch von (^ailUird. — Jurgoi hat auf (Jaillards Veranlassung eine metrische Uebersetzung des 41«^« Buchs der Aeneide in Flexa fto^odic nietern gemacht. Hin \'crs daraus ist folgender:</p>
+
+               <p>Fhüsphöre, ( ästre ^il , lant \\du ma^ (in, luis, \ ouvre la \ barriere. ^«*"i das stumme c am Knde zählt nicht. — Suard '^) hat verbreitet, Turgot habe Voltaire diese l'ebersetzung, wie Prose geschrieben, geschickt, und X'oltairc habe sie gelobt, aber hinzugesetzt: au reste pen reviens taujours a thoh idee que les poltes dotvent etre traduüs en vers. Dies ist unrichtig. Caillard hat selbst Voltaires Brief ge lesen. Kr hat die Uebersetzung sehr gelobt, die \'erse zwar nicht itaifn.pr geahndet, aber auch nichts darüber hinzugesetzt. — Die Italiener haben eine Menge sehr guter und antik rhythmischer Stücke in Mri..v,asio ihren Versen, vorzüglich Metastasio, Anapaesten, Trochaeen, nicht (^inaui. leicht Dactylen. — Quinault sey höchst unmusikalisch. — Die Deciama [taliöner lassen den Wortaccent sehr stark hören. Die Franzosen opfern den grammaticalischen dem oratorischen auf. Nach Caillards Meynung streben sie ganz nach dem Hauptwort hin. Dies ist eine Eigenthümlichkeit vor allen andern Nationen. Mir scheint das häufige apostrophiren dazu zu thun. Das ?f in mais je rien ai pas u. s. f. kann keinen Accent haben. Wie mochten es die Griechen halten? Ich glaube nicht übel, fast ebenso.</p>
+
+               <p>»7s«. i».oi.fr. Besuch bei St. Lambert^) mit Holbach. — Kin alter, wie es scheint, sanfter und liebenswürdiger Mann. Sein Gesicht und sein (Sespriich indess nicht bedeutend.</p>
+
+               <p>18.</p>
+
+               <p>»'"r-n Besuch bei St. ( iroix. <note type="footnote" n="*)" resp="gnd-116890657"><hi>Jean llaytiste Antoine Suard (i-jj4--iSi'j), Historiker.</hi></note> — Papon ^) war da. Kr hat jetzt eine weillüuftige Abhandlung über die Pest geschrieben,") und ist mit</p>
+
+               <p>') Rochc'^uics •provenzalischc Arbeiten sind erst Toulouse iSkj erschienen.</p>
+
+               <p>■) Jean J'ranfois Marquis de Saint-I.ambcrt Cijifi— 18011', der Freund der (iräfin d'Uoudetot.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Guiilauwe Emanuel Joseph Guilhein de ClcrmontLodcve, liaron von Sainte- (Iroix (ij40 iSof)), Altertumsforscher.</hi></note></p>
+
+               <p>»j Jean IHerrc Papon (fj'i4—ifiüj), Mitsui ied des Nationalinstituts.<pb n="15.15" xml:id="pbXV15"/> einer Geschichte des Handels im Mittelalter beschattigt. ^) Auf seine Veranlassung hat das National Institut das Gouvernement gebeten, dazu Documente aus den Archiven von Genua zu verschaffen. Es ist auch wirklich eine Sendung geschickt worden, die viel Interessantes enthalten hat. Seitdem aber ist es ins Stocken gerathen.</p>
+
+               <p>Donnerstag. 215^ März. (i. Germinal. n.</p>
+
+               <p>19Gesprach mit Schlabrendorf. — Man spielt in Paris ohne alle J^^^^ Vergleichung besser Schach als in London. Ein berühmter noch chnrakter lebender Schachspieler ist Leger. Philidors Lehrmeister hiess Legat und lebt vielleicht noch. — Alle Franzosen nehmen, wenn sie einen Stein schlagen, erst den Stein des Gegners in die Hand, und dann ihren. Schlabrendorf hatte die entgegengesetzte Gewohnheit. (Ob wohl alle Deutschen.?'} Die Franzosen wunderten sich darüber. Es verwirrte sie, weil sie nun nicht wussten, ob er bloss ziehen, oder schlagen wollte. Im Spiel hat beides Vortheile. Nehme ich erst den Stein des Gegners, so steht es mir noch frei, ihn mit welchem der meinigen ich will zu schlagen; nehme ich erst meinen, steht es mir frei zu ziehen oder zu schlagen.</p>
+
+               <p>Sonntag. 24sten März. (4. Germinal. n. st.)</p>
+
+               <p>20.</p>
+
+               <p>Palais des Thermes. — In der rue de la Harpe untern der Aiterthomer Ecke der rue des Mathurins. Aus des Buchhändlers Fuchs Garten sieht man die eine Mauer mit einem rund gewölbten Fenster. Es ist ein weites und hohes Gewelbe mit mehreren Bögen und grossen runden Fenstern. Es ist anizt die Werkstatt eines Böttigers, voll Tonnen und finster. Merkwürdig ist nichts daran, als dass man die Bauart der Römer sieht. Oben darauf ist ein neues Stockwerk aufgesetzt, oben auf dem alten Gemäuer ist ein Garten, er soll<pb n="15.16" xml:id="pbXV16"/> nach Verschiedenheit der Stellen 3—0 Fuss tief Erde haben. Ks sind einige Obstbäume und ein kleines Lusthaus darin. Das ganze Gebciude gehört /um hötel de Cluny, das jetzt der Nation ist. Zu dem (iarten geht man auf einer Treppe von 79 Stufen.</p>
+
+               <p>21. Kau.i«.//» Vaudei'illc. - Le mariaec de Scarrun.^) — Sehr hübsch und ausgearbeitet. Scarron heirathet Mademoiselle d'Aubigne, ein andrer Liebhaber von ihr muss zurückstehen, Menage und andre</p>
+
+               <p>PYeunde Scarrons railliren ihn über seine Heirath, Ninon l'Enclos interessirt sich erst für seinen Nebenbuhler, hernach aber für ihn. ') Hübsche Krlindung, witzige Einfälle, niedliche Couplets; man versetzt sich lebhaft in jene Zeit. Auch ist das Costume gut becarprntier. wührt. - (.'arpcntier, als Scarron, spielt ausserordentlich gut; er drückt mit den Augen, den Händen, dem Rücken auf dem Stuhl, da er nicht aufstehn kann, prächtig die körperlichen Unbequemlichkeiten, seine \'erlegenheit, ob ihn die d'Aubigne nehmen wird, nachher seine Freude u. s. f. aus. — Mademoiselle Sara als d'Aubigne auch sehr gut in der Steifheit, der reserve, der Keuschheit jener Sitten. — Nachher: Comme7il faire? ou les e'preuves de Kot/ebue. Misanihropie et Repenlir. lüne recht glückliche Persiflage dieses Stücks. Wenig neuer und schlagender Witz. .\ber viel Lustigkeit, gute Einfälle, wenn auch der leichtern Art und localüaet.</p>
+
+               <p>'"''" Unnachahmliches Spiel .luliens als Muscadin. Nie sieht man die non-chalance, den nbandon, das Gehen, als hätte der Leib keine Knochen, das unverschämte Hinlehnen, das alVectirte Lispeln so gut und so ohne I7ebertreibung nachgeahmt. Das Stück ist von Longchamp.</p>
+
+               <p>.Mfjntag. 2j:,s'&lt;'n Mär/. ( j,. (jerminal. n. s f.) ..'■^'t';' .Mittatzsessen bei A/ara. - Die Mevnung, dass der Apoll nicht</p>
+
+               <p>Griechisch, sondern aus (larrarischem Marmor in Italien /u Adrians</p>
+
+               <p>Zeit gemacht ist, rührt eigentlich von ihm her und er hat sie in seiner zweiten Ausgabe von Mengs Werken ^^ ausgeführt. - V.r hat</p>
+
+               <p>') üie Verfasser dieses Stückes sind Barre. Radet und Dcs/unUiines.</p>
+
+               <p>►■ampii<pb n="15.20" xml:id="pbXV20"/> auch eine naturhistorische Schrift, eine Einleitung zur physischen Geographie Spaniens geschrieben. \) — Der Apollo hat /erbrochene F'iisse, sie sind nur angeleimt; dies ist aber unter Michel Angelo's Direction geschehen, und Michel Angelo hat dabei schriftlich hinterlassen, dass man ihn nur ja nicht wieder rühren mögte. — Azara hat einen Bruder in Buenos Ayres der ein Naturforscher und schon einige 20 Jahre dort ist. ') Er hat mehrere naturgeschichtliche Bücher im Manuscript an Azara gesandt. — Izquierdo '^) ''fiuief^o. ist in Paris gewesen, aber auf einen Verdacht verbannt worden, so dass er noch nicht zurückkehren darf. — Azara ist sehr unterrichtet, angenehm und gutmüthig. — Ciceros Leben von Middleton hat er auf den Ruinen des Landguts des Pompejus übersetzt.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Jean Baptiste Bourguignon d'Anville (lögj — 1182), königlicher Geograph, der Reformator der Kartographie.</hi></note></p>
+
+               <p>23.</p>
+
+               <p>Abend bei St. Croix. - Barbie du Bocage, ^) der die Karten BaiWc du zum Anacharsis gezeichnet ") hat. Seine Frau ist die Tochter des Kupferstechers, "') den d'Anville ^) immer brauchte, und sticht auch selbst Karten. Doch ist sie jetzt zu sehr beschäftigt, sich damit abzugeben.</p>
+
+               <p>Sonntag. 7^« April. (18. Germinal. n. .v/.)</p>
+
+               <p>•24.</p>
+
+               <p>The bei Coquebert. — Lecouteulx, aus dem Rath der Alten, Leco..te..ix. Banquier, hatte ehemals ein Haus in Cadiz, eigentlich Lecouteulx de Canteleu. Redete von dem ungezweifelten Zusammenhange der Terroristen und Royalisten. — Ein junger la Tremouille habe J^^^Jf^' mit ihm zusammen in der terretir im Gefängniss gesessen; dieser *^''*'*^^'&lt;^^te.</p>
+
+               <p>') Nach „geschrieben" gestrichen: „die". — Das Madrid 1J82 erschienene Werk ist eine spanische Übersetzung von Bowles' i'jts erschienener „Introduction to the natural history and physical geography of Spain".</p>
+
+               <p>0 Don Feiice d' Azara (IJ46—1811), spanischer General.</p>
+
+               <p>'') Don Eugenio Izquierdo r/772 — 1816), Vertrauter Godois. *■) Azaras spanische Übersetzung von Middletons London ij4i erschienener ,, History of the life of M. Tullius Cicero" kam Madrid l'jgo heraus.</p>
+
+               <p>') Jean Denis Barbie du Bocage (1^60—182^^), Professor der Geographie. *) „gezeichnet" verbessert aus „gesto[chen]".</p>
+
+               <p>') „Kupferstechers" verbessert aus „Zeich[nersJ" .<pb n="15.18" xml:id="pbXV18"/> Robihabe öftentlich erzählt, dass er 8 — lomal in l&gt;ondon gewesen; dass er seine Verwandte die Princesse de Tarente so aus den</p>
+
+               <p>Septemberscenen gerettet habe, dass er seine eigne i.eute mit unter die Mörder gestellt u. s. f. l'ngeachtet dessen sev er un- angegriffen geblieben, und habe andern, guten Patrioten aber Kxadlichen vorhergesagt, ohne sich zu irren, dass sie guillotinirt werden würden, weil sich die l''.migrirten durch die Terroristen an ihnen rächten. Krst wenige Tage vor dem 9. thennidor sey er hingerichtet worden, weil [er; zu arge Unordnungen mit Weibern im Gefängniss getrieben. — Robespierre habe den Plan gehabt, den Sohn Ludwigs i&lt;S. auf den Ihron zu setzen, und sich zu seinem Regenten zu machen. — Lastery, ') ein Gelehrter, der sich mit Economic rnrale beschäftigt, und deshalb eine l^eise in Spanien gemacht. Kaachet. Gcncra! l'HUchet. ■-') — Ein Gascogner, offen, gutmiithig, enthu Hhj^ioioirc. siastisch, hübsche und naive Natur. Wimderbares Gesicht. Zwischen ihm und seinem Bruder soll eine so wunderbare Sympathie herrschen, dass beide immer, auch in den grossesten Entfernungen, zugleich dieselbe Krankheit, leichter oder schwer, bekommen.</p>
+
+               <p>Mittwoch, lo'c" .\pi'il. iii. Grrmifidl. n. sf.\</p>
+
+               <p>2»). ' r.rrrii;r. Truppc dcs Odeons in der Oper. Rodogune von Gorneille.</p>
+
+               <p>Rodogune, Madame I'^leury; Gleopatre, Mademoiselle Raucour. - AcMiirrii Oas Stück ist ganz in der alten gigantesken Manier. Kine ungeheure, bis zur l'nnatur boshafte Leidenschaft zeigt und ent wickelt sich frei und frank, ohne Scheu und Bedauern. (."Icopatras Kachsucht tritt geradezu auf, ohne sich in irgend einen .Mantel zu hüllen; sie gesteht ihre Schandthaten, und rühmt sich damit, wie die (^Ivicmnestra des .\eschylus. Ausser diesen Zügen ist indess auch nichts ausgemahlt. Selbst der übrige (Charakter CJleo patras bleibt im Dunkel: ihre Sfthne sind schwach; Rodogune</p>
+
+               <p>') CJicirks Philibert (irjf Je Lasleyrie du Sjill.vu (i-JxQ—tKfQl. ") Einer der ,,dcux jumraux de l^rcdlc" (lesar und (lonstautiti Kiuchc<pb n="15.19" xml:id="pbXV19"/> unbedeutend, ein I^aar Vertraute unerträglich. - Der Plan ist ohne Kunst angelegt, und schlechterdings nicht zu loben, er hat aber doch das Gute, dass er den Zuschauer (ortführt, und nicht langweilig wird. In dem Ganzen desselben herrscht eine steife Symmetrie. Die beiden Prinzen lieben Kodogunen mehr als den Thron ; sie wollen beide für sie auf diesen Verzicht thun. (Cleopatra will dem das Erstlingsrecht geben, der sie an Rodogunen rächen wird; Rodogune dem, der den Mord seines Vaters an der Mutter rächen wird. Antiochus Heht erst Rodogunens Mitleid an, dann Cleopatras. Die Hebel der Intrigue sind erstaunlich einfach, und nicht übel angebracht. Cleopatra will Rodogunens Tod; dies ist der einfache Inhalt des Stücks. Sie will sich dazu ihrer Söhne bedienen; die Söhne stellen sich auf Rodogunens Seite; sie will also den l^od aller drei und richtet ihn selbst ins Werk. Dazu wird ihr Antiochus behülflich, indem er ihr Mitleid anfleht. Sie stellt sich gerührt und nun hat ihre Verstellung freies Spiel. Die letzte Entwicklung ist schön, vielleicht das Einzige abgerechnet (was aber auch zum gigantesken Stil gehört) dass die Nachricht von Seleucus Tode in demselben Augenblick ankommt, in dem Antiochus den Giftbecher an die Lippen setzt. Da Antiochus nemlich hört, dass Seleucus letzte Worte sind: une main qui nous ftä chere a tous deux^) habe ihn umgebracht, so zweii'elt er, ob es die Hand Rodogunens oder Cleopatras ist, und in dieser schreck- lichen Ungewissheit steht er endlich auf, sagt dass er sich dem Schicksal hingeben, derselben Hand, vor der ihn sein Bruder warne, überlassen wolle, und greift nach dem Giftbecher. Rodogune hält ihn zurück, und schlägt vor, den Becher zu versuchen; darauf nimmt ihn Cleopatra, leert ihn aus, entdeckt noch was sie gethan, und bricht in Verwünschungen über Rodogunen und ihren Sohn aus. Dieser Moment des Ueberiassens an sein Schicksal ist gewiss einer der grossesten, die die tragische Bühne kennt. Es ist die Frage, ob der Dichter nicht wirklich dem Stück diesen Ausgang geben sollte. So gehört es jetzt ganz zu der Art von lYagödien, in denen die Katastrophe aktiv ist, durch einen Menschen allein absichtlich herbeigeführt wird, da die Griechen gewöhnlich das Schicksal allein freier walten lassen. Rodogune ist darin ein sonderbares Stück, dass es eigentlich keinen Helden hat, an dem man allein Theil nähme. Cleopatra kann dies nicht seyn; sonst</p>
+
+               <p>'; „Unc main qui nous ful biea chcre" Rodogune Vers l64Jf<pb n="15.20" xml:id="pbXV20"/>Wäre der (iang des Schicksals vollkommen da, weil sie gezwungen wird den Giftbecher den sie^) Rodogunen bereitete selbst zu leeren. Rodogune soll es seyn. Allein man fühlt, vom ersten Augenblick an. so sehr die (}efahr, in der zugleich die beiden Prinzen schweben, diese intercssiren so sehr durch ihre Freundschaft, und Rodogune'n wird so wenig iMittel gegeben sich zu entwickeln, ja indem sie die Söhne gegen die Mutter brauchen will, fallt so ein schiefes Licht auf sie, dass das Interesse wenigstens ebensosehr die l^rinzen trift. Ks ruht also eigentlich auf allen Dreien, aui der Unschuld überhaupt gegen das Laster. Das nun macht die Katastrophe freilich weniger rein und dem Zuschauer ists am Ende nicht sowohl darum zu thun zu wissen: ist dieser, ist jener gerettet: als nur: hat die Bosheit ihren Plan durchgesetzt, oder ist sie selbst daran gescheitert.^ — Noch Tiel mir an diesem Stück auf, und auch dies ist wohl eine Kigenthümlichkeit des gigantesken Stils, dass ich bei mehrern Stellen lachen musste und so auch nicht selten das Parterre überhaupt lachte. Z. K. Cleopatra hat an Antiochus (nur verstellterweiscj den Thron und Rodogunen gegeben; sie lässt seinen Bruder kommen, sie erzählt ihm dies mit den schwärzesten Farben, um ihn aufzubringen und zu ärgern, und er antwortet ruhig: grade damit hast Du mir einen Gefallen gethan. Das ist geradezu eine K'omcdienscenc. Sollte dies gemildert werden, sollte Seleucus Grossmuth darin hervorblicken, so musste (Cleopatra feiner verfahren, sie musste nicht thun, als wollte sie ihn damit ärgern, sondern ihn nur, sich Nat.tj.ai- selbst entschuldigend, aufhetzen. Bei dieser Stelle klatschte das heia. tT. •"</p>
+
+               <p>Pariser Publikum, und nur wenige lachten. Die Grossmuth schlägt sie immer mit Khrfurcht. Antiochus sagt Seleucus, man müsse Thränen bei der Mutter versuchen, dasselbe sagt er auch nach der Scene mit Rodogunen; Seleucus antwortet: pUurez donc a Ifurs j't'fu:'-) Micr lachte alles und mit Recht. Ivin andermal sagt Seleucus der Mutter, dass sie ja aber das Lrstlings-Recht ganz nach (jefallen drehe. Wieder allgemeines Lachen. Ich rechne diese Stellen zum gigantesken Stil, weil es in diesem ist, die Sachen und Personen nackt imd gleichsam roh darzustellen, und weil, wer darin schreibt, seiner Grösse so gewiss ist, dass er diese Disparaten nicht sieht. l)(»ch kann man diese Dinge nicht Naivetäten des (ienies nennen, wie die Alten einige haben. 1\<pb n="15.21" xml:id="pbXV21"/> sind mehr Grotesken der Lieberspannung. Das Gigantcskc der französischen Bühne und Corneillen's insbesondre stammt von der Ritterzeit, den Spaniern, und — dies ist besonders zu merken — dem Einfiuss der Ideen von Römergrösse und Römerenergie her. Dies hat der Französischen Bühne eine entscheidende Richtung gegeben. — Für die F'ranzosen cigenthümlich. und etwas, das den Spaniern fehh, und die Italiäner weniger haben, hake ich einige sensible Stellen, die auch (Corneille besitzt. — Die Rau- cour spielte unendlich gut. Sie überschrie sich nicht und nahm mit wunderbarer Geschmeidigkeit die verschiednen Gestalten ihrer Rolle an. Am schönsten macht sie sich im Grossen. Die ab- gebrochnen Bewegungen, das Reden zu sich und aus sich heraus, selbst schon ein sonst manchmal übertrieben tragischer Ton passten hier treflich. \'or allem haben ihre Bewegungen etwas so Determinirtes und Sicheres, dass man daran die Meisterin fühlt. So wenn sie erst auftritt, ganz in den langen schvv^arzen Mantel gehüllt, und dann mit einemmal den rechten Arm ^) henorstreckt. ihr Costüme half ihr sehr. Die Fleur}' spielte mittelmässig; die übrigen schlecht. Dies vermehrte das Groteske sehr. — Wenn man in den ersten Scenen die beiden goldbedeckten IVinzen herum stolziren und jeden ^) dem andern einen Thron für ein Weib anbieten sieht, glaubt man in einer Marionettenbude zu seyn, und bewundert das Publikum, das sich geduldig diese F'arce vormachen lässt. — Corneille findet in England allein Gnade und natürlich. ^) Ueberhaupt aber ist Corneille mehr für das Ausland. Racine kann *) fast nur in seiner Sprache gelten. Auch wird «»c ..e. man so oft gefragt, ob man die Schönheiten dieses Dichters alle fasste. Es ist wahr, dass sie genau in die Sprache verwebt sind, und es ist nicht bloss, als wäre die Feinheit der Diction, die Schönheit der Verse schwer zu fühlen, aber es ist, dass seine sensihiUtaet meistentheils nur in den nuancen seiner Diction Hegt, dass man sie also, wenn auch wohl versteht, doch nicht so fühlt, spr»rhe. da man des Eindrucks dieser imancen auf die Seele nicht ge wohnt ist. — Noch eine Gelegenheit, wo die Franzosen im Trauerspiel oft lachen, ist wenn sie die Intriguen eines Bösewichts durchsehn. Recht eigentliche Freude am Verstände.</p>
+
+               <p>') „den rechten Arm^^ verbessert aus ,,die rechte Hand''.<pb n="15.22" xml:id="pbXV22"/> Ariiault. Ar«thctik.</p>
+
+               <p>Montag, is^^''- Aprii. iih. (ie rwt7iai. n. v/j</p>
+
+               <p>Abendessen bei Madame La 1 our. — I.ucien liuonaparte, ') dem Bruder sehr ähnlich. Nur magrer noch und grösser, und nichi das Starke und Bedeutende in der l^hysiognomie, vorzügUch nicht in den Augen und dem Kinn. — (iespräch mit Arnault. Er hat in den veilUes des Muses etwas über das Drama gesciiriebeii. Ks ist un uuvrage dramatique serieiix et n/cessatremenf pathetique,</p>
+
+               <p>(fui n'exclue pas U pUiisant, ou tous les interets peuvent concourir et toutes les pcrsonnes etre introduttes. Bei dem Gespräch hierüber und über die Tragödie bemerkte ich wohl, dass er eigentlich keinen Begrill von dem Charakteristischen der Tragödie, der Katastrophe hat. Indess ist er freier von Vorurtheiien, als man sonst hier ist. — Ich klagte über den Mangel an ausgezeichneten Charakteren aui der Französischen Bühne, und sagte, dass alle tragische Helden last nur derselbe und einzige tragische (&gt;harakter waren. Kr gab mir hierin so sehr Recht, dass er mir selbst gestanü, dass, da er habe Otto von Witteisbach ') bearbeiten wollen, er gefunden, dass er seinen Held fast aller individuellen Züge habe entkleiden müssen, um ihn für die hiesige Bühne brauchen zu können. Kr nannte dies die Schuld des Publikums, dem man aber nur sehr nach und nach entgegenarbeiten könne. - Kinige Gedanken über Tragödie, Drama und Komödie. Die erste ist pathetisch, das zweite bloss rührend, die dritte allein für den Verstand. Alle fodern Handlung, aber jede ist mehr oder minder streng in der b'.inheit derselben. Die Tragödie will eine Katastrophe, das Drama begnügt sich mit einer Handlung, die Komödie, ohne aus ihrem Wesen zu gehn. schon mit einer Situation. Das Dram« entsteht, wenn eine Nation nicht mehr Kraft zum acht Tragischen oder acht Komischen hat, aber trotz dieses Ursprimgs ist es einer idealischen Ausbildung fiihig. Ob es in N'ersen gcschriebeti werden kann - ( )b es einen traurigen Ausgang nehmen kann '</p>
+
+               <p>') Lucien iUmapane (i-j']&lt;^— ili4ü), der spatere hurst vvn i'.anino, wurjitf dann während der römischen Zeit Humboldts enger befreundet.</p>
+
+               <pb n="15.27" xml:id="pbXV27"/>
+               <p>Donnerstag, tien 2^^'=" April. ((S. Flor^.al. n. sl.\</p>
+
+               <p>Gespräch mit (]oray und Villoison. *) (^oray: Die Neu »p'-^*'««^- Griechische Sprache hat verba auxiliaria. Das futurum wird immer mit iyilio gemacht, das imperfedum mit dem alten Aorist, das per/ectum mit e%eiv. Er glaubt, dass dieser moderne /ypus durch die Kreuzzüge und den damaligen Umgang mit Abendländern entstanden sey. — Villoison: läugnet dies. Man habe Documente des Neu Griechischen in Concilien vor den Kreuzzügen. Gharakter Nationai- '-' charaRtev. der Nation knechtisch. Sie sehn Stockschläge nicht nur mit Gleichgültigkeit, sondern oft mit Liebe, selbst als eine Art Medicin an. Sie bekommen sie immer auf die Fusssohlen, und es ist gleichsam eine Art der Erziehung, diese dadurch dazu abzuhärten. Reisen heisst schlechtweg (pevyn%&gt;. Wohin reisest Du, nur Wohin «^rsecb«». fliehst Du? Auf die alte Mythologie hat sich die neue gegründet, Beinamen alter Götter und Göttinnen sind noch heut zu Tage Beinamen der Jungfrau Maria und der Heiligen. Orakel werden noch gefragt. Die Quelle in Amorgus wird, und unter grosser Begünstigung der christlichen Priester von ganz Griechenland aus, wie ehemals Delphi besucht.</p>
+
+               <p>29.</p>
+
+               <p>VeilUes des muses. 2. annee. i. cakier. — Arnaults Aufsatz Ai^watt über das Drama. Nichts Neues, als das neulich Gesagte. (nr. 27.) Nur Eins: Ein Drama kann nie ein classisches Werk seyn, ist immer nur für die blosse Aufführung. Alles höchst seicht und oberflächlich.</p>
+
+               <p>Freitag, den 261^» April. (7. FloreaL n. sL)</p>
+
+               <p>Besuch bei dem Mahler Carmontei. *) — Es ist derselbe, der &lt; ^»^«onteis auch mehrere Bände Sprichwörter geschrieben hat."; Er hat</p>
+
+               <p>') Jean Baptiste Gaspard d'Ansse de Villoison (ijs^ — i^5)&gt; Professor- der ^griechischen Sprache, besonders als Homerforscher bedeutend.</p>
+
+               <p>'^) Nicolas Carmontelle (ijij — o6j.</p>
+
+               <p>'') Pro^erbes dramatiqucs, Paris lyÖS-Sf.</p>
+
+               <pb n="15.24" xml:id="pbXV24"/>
+               <p>zweierlei Dinge, die er zeigt, i.. eine An eines transparenten</p>
+
+               <p>Gemäldes, das, auf einen t5o l'\iss hingen Streifen gemahlt und aufgerollt, sich nach und nach vor den Augen des Zuschauers abwickelt und also immer nur theilweise gesehen wird. Ks stellt die vier Jahrszeiten vor, und ist ein Zusammenhang \ on Landschaften mit Figuren in dem Anblicke und mit den Beschäftigungen der .lahrszeiten. Die Transparenz ist bloss dadurch hervorgebracht, dass das Papier fein ist, das Zimmer verdunkelt und das Gemälde vor das Fenster gestellt wird. 2., hat er 15 F'olianten mit Portraits lebender Personen, meist Adel und Hofleute des anc'ien regime, jedes in 1 Stunde leicht hingeworfen. Sie sind in Lebensgrösse in ihren natürlichen Stellungen und wie man behauptet, selbst wie man ihnen ansieht, ausserordentlich ähnlich. Ks war ein Wunder, aber auch ein Kkel, diese Bände zu durchblättern.</p>
+
+               <p>Unter 20 immer kaum Fme interessante Physiognomie, fast alle leer, stolz, eitel, oder gemein, platt ehrlich und verständig. Wenn man nicht glauben könnte, dass der Maler seine eigne Natur zugleich mit •^riiog"«» in alle getragen hätte, hätte es ein entsetzliches Bild der l*hysiognomien utisrcr Zeit gegeben. — Dieser Garmuntel ist nichts weniger, als .^ei'theuk. ^'" {4^'^^''" Miller. Fr hat aber simplicite und nature beständig im r,r.rhni«rk. Mundc. Fs ist der äng.stlichste Nachbeter der Natur, den man sehen kann, und wenn er ein \&gt;rdienst hat, so ist es dies. Jede</p>
+
+               <p>Kockfalte in seinen Portraits, jede Gegend, jeder Baum in seinem grossen (jemälde sind der Natur abgesehen. Abei- es ist ein plattes Nachmachen, kein Begriff von einem Ivunstanblick der Gegenstände. Daher haben die (jesichter wohl dieselben Züge,</p>
+
+               <p>Minen usw.. aber es ist kein l'leisch, keine Knochen und noch weniger Seele. Vä ist im ancicii regime fast immer zum amu- semcnt in ^Xnw Häusern der Grossen gebraucht worden, und bekannt dafür, dass er sehr viel (ieschmack hat. Das besteht natürlich in gar nichts anderm, als dass er das Maass, was jenen .Menschen zu stark und zu schwach, zu bunt und zu einfach war, u. s. f. verstanden haben mag. Fr und seine Bilder, selbst sein grosses, ja seine ganze Siube sind ein lebendiges Bild des ancien regiitw. Kr selbst mager, eine trockne, aufgespannte, nichtssagende Physio gnomie, allenfalls bloss mii einiger I-'einheit, steif frisirt imd ange zogen, alle Portraits von Männern bei ihm mit Tressen und Degen, die von Weibern in Reifrocken und hohen Aufsätzen (er hat allein eine Menge kleiner Miniaturgemälde, um eine vollständige Sammlung aller chcnialigiMi Damen (!oiifureii zu besitzen), seine l.aiulschaft</p>
+
+               <pb n="15.25" xml:id="pbXV25"/>
+               <p>31Abend bei St. Croix. — Villoison: Mably ist so unwissend '^»•''i' gewesen, dass er weder griechisch, noch italiänisch gewusst.</p>
+
+               <p>3'^The bei Miliin. — Ein Bruder von Madame Pipelet, <note type="footnote" n="^)" resp="gnd-116890657"><hi>Alexandre Etienne Guülaume Baron de Theis fij6s—i84'-i', dessen „Glossaire de botanique" erst Paris 1820 erschien. Seine Schwester, die Dichterin Constancc de Theis, halte in erster Ehe den Chirurgen Pivelet geheiratet.</hi></note> gross, '''"''■' und von frappanter Aehnlichkeit mit der Schwester. Eine ^^^^1^^"' narrische, auf den ersten Anblick mehr italiänische Physiognomie. Er giebt sich mit der Etymologie der botanischen Nomenclatur ab, die er zum Theil aus dem Celtischen herleitet.</p>
+
+               <p>b. l'heater. .lunius 1 799.</p>
+
+               <p>!'•]</p>
+
+               <p>Le Cid, — Theatre de La republique. Talma, Rodrigue ; Vanhove, '-iS^^^'""' sein Vater; die Fleury, (^himene. — Das Stück ist von der Art, ^JJ^^ury^^^ dass wir es uns als alt, aus einer kräftigeren V'orzeit denken "'/'«""^" müssen, um Geschmack daran zu finden, und es als Zeitgenossen nicht begreifen würden. Seine Triebfedern sind die Ehre und die Liebe. Jene ganz rittermässig; diese wohl auch, doch zugleich allgemein menschlich und natürlich. Die Katastrophe hat eigeni lieh kein Interesse und keinen mit ängstlicher Erwartung gc- fürchteten Ausgang. Man sieht zu leicht, dass Rodrigue keine Gefahr läuft und selbst Chimene ihn zuletzt beglücken wird, und der Zank der Väter erweckt gar keine Theilnahme. Die Erwartung entsteht mehr durch die Verwickelungen, die der Dichter</p>
+
+               <p>Handschrift von b f^ Qiiarlseiten) im Archiv in Tegel.<pb n="15.26" xml:id="pbXV26"/> hinein verwebt. Die Stärke des Stücks liegt also in den Personen und dem Gefühl. Diese sind nicht eigentlich natürlich, die Liebe allein ausgenommen; sonst blosses point d'honneur. Aber in diesen Menschen ist es Wahrheit: (ihimene spielt nicht bloss eine Ko mcdie, sie legt ihre Plane gegen Rodriguc mit Krnst an, und es ist nicht blosse Spiegelfechterei, dass sie sich in schrecklicher Alternative glaubt. Rodrigue fühlt, wie er sie beleidigt hat, und ist ernstlich bereit zw sterben. \\s ist dies aber nicht bloss in diesen Menschen, es ist in der Welt, die sie umgiebt, und der Dichter weiss uns in diese Welt zu versetzen, weil es seine eigne ist. Das grös-seste Kunststück im Cid sind die Scenen, wo beide Liebende allein sind, und die immer mit den öffentlichen abwechseln. Hier sehen wir sie ohne Verstellimg; jede endigt sich damit, dass nur der Tod beider volle Genüge leisten kann, und immer sieht in (Ihimenen die einfache Menschlichkeit durch die BegrilVe von Pflicht und Ehrgefühl hindurch. Der Zuschauer könnte sich nie in dieser Lage befinden, und in derselben nicht so reden und handeln, aber er sieht, dass es in jenen Personen wahr ist, und so sympathisirt er. Die Grösse, die wir in ihnen sehen, ist nicht Erhabenheit, die hinreisst, aber Riesengestalt, die erstaunt. l'&gt;s ist die beständige Herrschaft eines künstlich erregten, aufgewundenen, durch \'erstand und Phantasie genährten Gefühls, das aber seine Grösse allen andern mittheilt. Die Liebe in Quinault, wie (Corneille ist unläugbar so gross behandelt, als nur die wahrste, höchste und schwärmerischste se^-n kann, sie so zu fühlen, hatte jenes Zeitalter keine Kräfte; sie wird nur so in Seelen, die nichts als immer das Letzte, immer das Riesenmässige kennen. Selbst aber als Verirrung der Natur trift es uns nur desto stärker. Es ist immer edel an selbstgeschafnen Gefühlen z\x leiden. Weil es aber nicht reine Natur ist, weil Gefühl und Einbildungskralt nicht frei, mehr zufolge eines Verstandesbegritfes wirken, so erhält diese (iatiung dadurch etwas Gothisches; wir sehn offenbar Rodrigue nicht als Menschen, sondern als Kunst geschopf an, und nun ist der (Charakter des Dichters hier dem (&gt;harakter seiner Stücke gleich. Er ist gross, kräftig, riesenhaft, aber gothisch und eckigt. Im- hat keine .\hndung lächerlich werden zu können. Daher behandelt er alle, auch die scabrösesten Stellen mit gänzlicher ( )l1enheit, giebi sich gleichsam ganz Preis. Es schadet ihm nichis, wenn wir geradezu über ihn lachen. Der<pb n="15.27" xml:id="pbXV27"/> perbeln seiner Helden vermehren sie nur. Wenn Chimene sagt, eine Hälfte meines Lebens hat mich der andern beraubt, ') so sieht der ächte Zuschauer Corneilles hier nicht auf das Unsinnige dieser Worte, sondern er fühlt, dass nur eine heftige Empfindung sie hervorbringen kann, dass die Stimmung des Redenden von einer ausserordentlichen Phantasie beherrscht ist. Die Franzosen, die eigentlich Corneille gross 2;u linden, nur alfectiren, sind hier nichts als W^ortklauber. Was die Empfindung tödtet ist der kalte, spielende, geschmackvolle, nicht der hyperbolisirende Witz. So in Emilia Galotti. Ein Genie, wie Corneille, sagt die Sache geradezu am liebsten bei ihrer spitzigen Seite. So der Vers et le combat cessa f ante de combattans,-) der hier so belacht wird. --In dem Steifen und Hochtrabenden und in der sichtbareren Kunstform erinnert der Cid an den Aeschylus. So das Zwiegespräch zwischen beiden Vätern in lauter Monostichen. Manchmal auch besser in der einfachen (irösse. So wenn Rodrigue sagt: mo?i juge est mon amour, mo?i juge est ma Ckünhie. •')</p>
+
+               <p>Talma spielt vortreflich. Seine schöne und prächtig drappirtc Gestalt hilft ihm ausserordentlich. Sein Organ ist das Organ einer quälenden Leidenschaft, ein wenig hohl und von innen heraus. Er unterscheidet sich, glaube ich, von den alten Schauspielern, dass er mehr Ausdruck, und W^ahrheit hat, nicht so bleibende tableaux macht, und überhaupt, so malerisch er auch ist, diesen Theil nicht so einseitig vorwalten lässt. Er hat vielleicht hierin Monvel zum Muster gehabt. Pittoresk ist er vorzüglich. Sein Fehler scheint mir, dass er mehr Kunst, als Natur ist, dass er seine Minen zu sichtbar anlegt und zubereitet, und vielleicht zu viele und starke macht. Sein Charakter ist immer heftig, immer Bewegung, immer vorstrebend, selbst im Sitzen, Knien. — Gegen Deutsche Schauspieler gerechnet, ist die Kunst viel sichtbarer hier, und wenn sie schlecht und outrirt spielen wird man an die Bretter und an Marionetten erinnert. Bei uns will der Schauspieler z. B. den Cid vorstellen, hier seine Verse declamiren und gesticuliren. Darin liegt sehr viel, und dazu trägt die gebundne Kunstform der Verse bei.</p>
+
+               <p>Die Fleury spielte ziemlich, nur nicht mit genug Stärke und noch weniger mit Grazie. Alle andern schlecht.</p>
+
+               <p>■) „La mqitie de ma vie a mis l'aatrc au tombeau" Le Cid Yers 80(i. *) Ebenda Vers 1^28. ■') Ebenda Vers 75.9<pb n="15.28" xml:id="pbXV28"/>.IlliillS. ^r/'^M.*'«/" Theatre de la repubtique. 1^ glorieux von Destouches. ^) "'•''«'""'^'^» per Prahler: IJaptiste. Der Vater: Vanhove. I)er Schwiegervater: Oumont. J)ie Soubrette: die Mezeray. Die Intrigue ist nichts werth. Der glorieux ist von einer ehmals mächtigen P'amilie; sein Vater ist in Ungnade gefallen und ist auf der Flucht. Seine Schwester ist unter einem andern Namen erzogen, und betindet sich, ohne ihre Abkunft zw kennen, als Kammermädchen in dem Hause eines reichen NeuAdlichen, dessen Tochter der glorieux heirathen will. Der \'ater kommt unter einem andern Namen zu iiir. Der glorieux hat einen Nebenbuhler, für den sich die Mutter und der Bruder interessiren. Durch seine Schwester, der ihr</p>
+
+               <p>Vater sich und seine Wiedereinsetzung in seine Güter entdeckt, siegt er über ihn. und nachdem sein N'ater seinen Hochmuth gc- demüthigt hat. beglückt er ihn mit der frohen iuitdeckung. Obgleich ein doppeltes vereintes Interesse ist für den Ikuder und die Schwester, ist die Krwartung gar nicht gespannt. Beim ersten Kischeinen des Vaters weiss man. dass er Lisettens und des glorieux Vater ist, und es sind eigentlich gar keine Schwierigkeiten da. — Die (Charaktere und das Interesse daran sind sehr verlehlt.</p>
+
+               <p>Der Schwicgcn-ater gefällt durch seine complimentenlose OiVen- heil und man begreift nicht sein schlechtes Betragen gegen seine Frau, die gar nicht einmal, auch bei der Meirath nicht erscheint. Die Tochter ist auf eine Weise wechslend, wie es gar nicht in der Natur ist. Der Sohn ist reinweg nichts. Der Nebenbuhler erscheint ganz und gar lächerlich; dann bekommt man Achtung für ihn. und zuletzt wird er durch ein wahres Zerhauen des</p>
+
+               <p>Knotens bei Seite geschafl. - Die Hauptsache des Stücks sollen die Lächerlichkeiten das glorieux und seines Bedienten seyn. Allein sie sind manchmal übertrieben luid immer frostig. Kein eigent lieber und kein schlagender Witz. Aller dieser Fehler un geachtet hält sich das Stück ziemlich gut. Die Lächerlichkeiten des glorieux [\i\k.\ der weiche, empfmdsame (Charakter der Schwester interessiren noch immer genug, und ein guter, reiner und edler Stil in der Sprache erinnert wenigstens an eine gute Zeit.</p>
+
+               <pb n="15.29" xml:id="pbXV29"/>
+               <p>Es soll dies Baptiste's Hauptrolle seyn. Allein er übertreibt isapibtc. sie auf eine unausstehliche Weise. — Die Mezeray spielte sehr Mezcra&gt;. gut, und Caumont nicht übel, immer noch besser als Baptiste. &lt;:aumom.</p>
+
+               <p>3Theatre de la Rifublique. Mmiiit. ^) — Der Onkel : (vaumont. "nflZt'u^' Die Nichte: die Hopkins. Der Neffe: die Mezerai verkleidet. Die Soubrette: die De Vienne. — Eins der niedlichsten, leichtesten Nachspiele in Prosa in Einem Akt. Nichte (eine Wittwe) und Neffe (der unbesonnenste und verliebteste Junge von 16 Jahren) leben zusammen in dem Hause ihres Onkels. Sie lieben sich. Die Scene ist nach Tische am Tage vor Neujahr, nach 1 1 Uhr. Der Netfe bittet die Nichte ihn von '/4I2 bis 12 in ihre Zimmer zu lassen. Der Onkel kommt. Man muss ihn verstecken. Der Onkel schliesst unter einem Vorwand das Zimmer zu. Sie scherzen und singen mit einander, der Onkel findet sie und verspricht sie auf der Stelle. Die Seele der Intrigue ist die Soubrette. — Fein, niedlich, lustig, leicht, unnachahmlich hübsch und Französisch.</p>
+
+               <p>Die Mezerai und De Vienne spielen unvergleichlich gut. Die n^vfenne. letzte war ein eigentliches Muster einer friponne, um nicht coquine 2u sagen, besonders mit den feurigen Augen und schwarzen Augen- braunen.</p>
+
+               <p>Carl y. von Chenier. ') — Carl 9. : Talma. Coligny : Baptiste. ^'^,^^^^1^ l'Hopital: Vanhove. Heinrich 4: Damas. Medicis: die Vestris. — . i. Akt. Gespräche zwischen Heinrich 4. und Coligny, hernach l'Hopital, endlich die Unterzeichnung des Friedens in einer feier- lichen Thronsitzung. -— 2. Akt. Gespräche zwischen der Medicis, den Guisen und Carl 9. ihn zur Bluthochzeit zu bewegen. Gespräch zwischen Carl 9. und Coligny. — 3. Akt. Gespräche zwischen dem Cardinal Guise und l'Hopital, Conseil w^o der König vorschlägt, die Hugenotten mit Todesstrafen zu verfolgen, und l'Hopital in einer langen Rede dies Edict nicht zu siegeln erklärt. ~ 4. Akt. Coligny erklärt dem König seinen Verdacht. Der König giebt ihm sein Sicherheitswort. Er geht. Die Glocke zum Zeichen ertönt. Die Stände versammeln sich, der Cardina! segnet ihre</p>
+
+               <p>') Minuit ou les aventures de Paul de Mirebou, Paris i']gH. Ver/asserin ist Frau Lagrave.</p>
+
+               <pb n="15.30" xml:id="pbXV30"/>
+               <p>Waffen. — 5. Akt. Heinrich ^. erscheint. Tllopital macht ihnn einen redt der Bluthochzeit und (iolignys Todes. Der König und sein Hof kommen. Heinrich \. macht ihm die bittersten Vorwürfe. Der König geriith in Gewissensbisse und Raserei. - Der Plan schlecht, die Katastrophe grausam und blutig, aber nicht tragisch. Keine Einheit, keine gespannte Erwartung. Elendes Ende mit einem allgemeinen rccit, und Gewissensbissen eines Menschen, an dem niemand Theil nimmt und der nicht furiis agüatus Orestes ^) ist. Besonders hat eigentlich die Handlung kein Hinderniss. Bloss die Wankelmüthigkeit (^arls. der ewig schwankt,</p>
+
+               <p>(^oligny's Vertrauen und Heinrichs L'nbedeutenhcit macht alles leicht. — Carls 9. Charakter ganz verfehlt. Er ist in jeder Scene ein anderer Mensch: was ihn zum Morde treibt, ist nicht eine Leidenschaft, sondern elende Furcht vor Gottes Strafen und üeberredung. Für seine Schwäche zeigt er sich manchmal zu richtig fühlend. Problem : wie ist poetisch ein schwacher und wankender Charakter zu zeichnen.^ Er muss schwach seyn und das Schicksal ihn stossen. so dass seine Schwäche selbst (Konsequenz dadurch erhält. — Der 31« Akt ist ganz müssig. Diese Berathschlagung war hier nicht nöthig. — Die Gui«^en sind gar nicht gezeigt. Im Cardinal sieht man bloss den Priester. — Immer macht indess das Stück Wirkung, am meisten der i'e und 4^;^ Akt. Es sind einige grosse Worte, schöne Maximen, Ic dernür des mortels est maitrc de son coenr, und gute Versification. — Cheniers Held ist Voltaire, dieser steht im Ruf eines philosophischen Dichters, ihn hat er nachahmen wollen. Daher die Wahl des</p>
+
+               <p>Sujets und der 3^^ Akt. Aber dadurch ist auch viele-^ kalt geworden. — In diesen Reden zeigt sich die Nation. Wir würden Geist suchen, (iedanken in denen ein (Gepräge der Neuheit und Tiefe läge. Hier hat man lieber sonnenklare, sogar gemeine .Maximen, die allgemein ansprechen, nur präcis. schön und beredt N.tionai- gesact. Auch ist dies freilich \on allgemeinerer Wirkung. T.im.n Talma. Sehr schön, gut declamirt. sehr tragisch, und göttlich gestellt und costumirt. Aber ein wenig zu eintönig, und zu allgemein tragisch. Er war in der verzweifelnden Gewissensangst Hapii.tr. hier, wie in Epicharis et N^rou.^} - Baptiste, übertrieben, gar nicht die Würde Colignys. breitbeinig. Alle übrigen unter aller Kritik.</p>
+
+               <p>') Vergii, Ai'iteis j; jiji.</p>
+
+               <pb n="15.31" xml:id="pbXV31"/>
+               <p>3Gespräch mit Arnaiild. — Darf zwischen den Akten die Scene A.n^uw verändert werden? Nein. Es ist schon schlimm, sie nach den ^^'^T**' CD JrSlTWf . Akten zu verändern. Das Publicum bekommt Zeit, besinnt sich, wird kalt, erklärt sich gegenseitig, das Stück und der Verfasser kommen in Gefahr. Wie unendlich charakteristisch ist diese Auflösung einer ästhetischen Frage. 6.</p>
+
+               <p>Gespräch mit Madame Talma. — Talma ist zum Theil, da i*J~' sein Vater sich nach England begeben und dort etablirt hat, in England erzogen, doch soll das auf sein Studium und seine Kunst keinen Einfluss gehabt haben. Er ist in der ecok dramatique erzogen, in welcher, unter der Aufsicht einiger gentüshofnmes de la chambre, drei auteiirs, als Professoren : Mole, Fleury und Dugazon junge Leute unterrichteten, und niemand, der nicht dort studirt hatte, unter die Frangais aufgenommen wurde. Es sind in dieser Schule nur zwei s^ijets gebildet worden, Talma durch Dugazon und Mademoiselle Degarien durch Mole. Talma hat etwa 1787. d^butirt. Nachher hat man ihm natürlich nur kleine Rollen gegeben, aus denen er aber viel zu machen gewusst hat. So hat er Antiochus in der ßercnice, ') einen Perpenna<note type="footnote" n="*)" resp="gnd-116890657"><hi>Jean Baptiste Britard, genannt Brizard (ij2i—gi), vertrat seit i-jS! &lt;^&lt;^&gt; Fach der Heldenväter und Könige am Theätre frangais.</hi></note> u. s. f. gespielt. Als Carl 9. erschienen ist, hat Chenier St. Phal zwischen der Rolle Carls 9. und Heinrichs 4. die Wahl gelassen. Talma ist in grosser Angst gewesen, dass er ihm Carl 9. nehmen würde. Allein St. Phal hat nach 8 Tagen Heinrich 4. gewählt, und Talma mit Carl 9. allgemeinen Beifall eingeerntet. Seine Hauptrolle soll Othello seyn. Sein Organ hat nur wenige, 4 bis 5, Inflexionen, daher ist er manchmal eintönig. Er soll le Kain darin nach- i.c k^u. stehn, jede Rolle ganz anzunehmen. Doch hat er in Cheniers Heinrich 8.<note type="footnote" n="^)" resp="gnd-116890657"><hi>Von Racine. ^) In Corneilles Seitorius. ') Paris ijgi.</hi></note> diese Rolle des 40 jährigen Königs prächtig und täuschend gemacht. Er studirt vorher seine Gesten nicht. Er lernt bloss auswendig, repetirt seine Rollen oft nur halb laut und überlässt sich dann seinem Feuer vor dem Publikum. Die Talma hat ihn oft so ay com de son feu repetiren lassen. — Brizard *) wtmxxa.</p>
+
+               <pb n="15.32" xml:id="pbXV32"/>
+               <p>ist bei seinem Tode schon sehr alt gewesen. Kr ist, nach le Kains eignem Geständniss, im Mithridates unübertreflich gewesen, vor- uunaion. züglich in solchen Worten, wie /e suis vaincu. Dugazon soll Meury erstaunUch viel Theaterkenntniss haben, und es soll nur an seinem</p>
+
+               <p>Organ und seiner Figur liegen, dass er bloss v.w Bedientenrollen tauglich ist. — Die DumcniP) lebt noch.</p>
+
+               <p>c. Miscellaneen.</p>
+
+               <p>J^aris.</p>
+
+               <p>•Mittwoch, den 24515? .1 u 1 i u s. (&lt;"). The. r mi do r. an 7.)</p>
+            </div>
+
+            <div type="section" n="3">
+               <head>
+                  <title type="main">I,</title>
+               </head>
+               <p>rg...,d Der Architekt Legrand. '■^j Kr ist der, welcher mit Molino na.!vun*t die halle aux bleds gebaut hat. Er beschäftigt sich vor allen Dingen mit der Geschichte der Baukunst. I^r lässt jetzt mit Mo lino an einem Hause, das sie gebaut haben, ein Stück des Gebälks der l'ropylaeen in natürlicher Grösse ausführen. Ks sind zwei Salden mit dem dazu gehörigen yV^v/z/'o'//. In die mefopen kommt eins der von (Jhoiseul davon hergeschickten Basreliefs, der ('cntaur mit dem Lapithen. Auf das Haus kommt die Laterne des I)e- mosthenes in gebrannter Krde. Auch inwendig sind Zimmer nach alten (jebäuden eingerichtet, so ein Saal nach dem Tempel des h'Techiheus. All«-'- Die durch Lhoiseul und Kauvei hieher geschickten Basreliefs tbUm</p>
+            </div>
+
+            <div type="section" n="4">
+               <head>
+                  <title type="main">Ö*</title>
+               </head>
+               <p>muss man besehen; sie sind theils im Antikensaal im Louvre, theils bei Dufourny.</p>
+
+               <p>Die Lropylaeen wurden &lt;7«//ö 11687J beschädigt. Daher fehlen soviele I3asreliefs in Stuart.*') Diese hat ein Französischer Gesandter Nointelle vorher, als sie noch vorhanden waren, zeichnen lassen, und diese Zeichnungen existiren auf der hiesigen Kupfcrstich- kammer.</p>
+
+               <p>') Manc l')\mi,oise Dumesnil (i^i'^ -ti^3)&gt; Ira^ödin. Handschrift von c (4 QuartscUen) im Archiv in Tegel.</p>
+
+               <p>'') Jacques Guillaume I.egrand {i']43 '^&gt;7)<pb n="15.33" xml:id="pbXV33"/>Eine Reihe genauei architektonischer und mit Messungen A'^^jviiien. versehener Zeichnungen und Plane von den Pyramiden, ihrer gegenseitigen Lage, und besonders ihrer inneren Einrichtung hat Legrand bei einem Privatmann hier gefunden. Sie rührt vom Herzog de Chaulnes her, der sie hat verfertigen lassen. Legrand wird sie für sein Werk benutzen. Er versichert, dass es die einzigen vorhandnen so genauen Zeichnungen sind, dass man Modelle danach machen könnte.</p>
+
+               <p>Wir besuchten mit Legrand seinen alten 78 jährigen Schwieger- • le.issaut. vater Clerissaut. ^) Er hat die meisten Zeichnungen zu dem zweiten Theil seines Kupferwerks über das mittägliche Frankreich 2) fertig, und kann sie nur unter jetzigen Umständen nicht füglich herausgeben. Er ist 20 Jahre in Italien gewesen, und hat auch Istrien und Dalmatien durchreist. Die Kupfer zu Adams Kupferwerk über Istrien ■') sind von ihm gezeichnet. Er hat Desgodetz "<note type="footnote" n="*)" resp="gnd-116890657"><hi>Charles Louis Clerisseau (1120— 1820), Maler und Architekt. ^) Antiquites de la France, moauments de Nimes, Paris i'J'jS; die Dveite Auf- lage erschien erst 1806.</hi></note> nach-^^"-"*'''''- gemessen, und äusserst beträchtliche Irrthümer gefunden.</p>
+
+               <p>Legrand hat neulich in der societe libre des sciences et des arts ein mhnoire über den Ammons Tempel vorgelesen. Ein Piemon- tese, der 13 Jahre im Orient und Africa gereist ist, will ihn mit einem Engländer Brown aufgefunden haben. Er hat seine Noten Legrand mitgetheilt, und dieser danach diese Abhandlung gemacht.</p>
+
+               <p>Montag, 29. Julius. {\\. Thermidor. an 7.)</p>
+
+               <p>Gang mit Barbie du Bocage ins bureau du Cadastre. Dies ,,„ g^cl^'e Bureau ist vor 6 Jahren eingerichtet. Es ist eigentlich bestimmt. ''"''""■'^ ganz Frankreich zum Behuf der Abgaben aufzunehmen und zu vermessen. Ingenieurs sollen reisen und messen unter der Auf- sicht eines Astronomen. Man will nicht die einzelnen immer wechselnden Besitzungen messen, sondern ganze Stücke, die sich nach festen Gränzen, Flüssen, Wegen u. s, f. bestimmen lassen:</p>
+
+               <p>') Description des ruinös da palais de l'empereur Diocletien ä Spalatro cn Dal- maüe, London i'j64.<pb n="15.34" xml:id="pbXV34"/> HerOlkr runif.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Antoine Desgodets (16^3—1728), Architekt, veröffentlichte Paris 1682 .,Les cdifices antiques de Rome dessines et mesures tres-exactement".</hi></note></p>
+
+               <p>dabei soll auf die Güte des Bodens Rücksicht genommen werden, und sind die Abgaben für dies ganze Stück bestimmt, so ver- theilen sie die (jemeinden. — Mit diesem Bureau ist eine Lehranstalt die 3 Professoren hat verbunden, und die Lehrlinge kommen aus der ecolf PolytecJmique dahin. — Es sind Calculatoren und Zeichner bei der Anstalt, und beider bedient man sich jet^t auch häufig zu \'erfertigung andrer Arbeit, als zum calcul d^ la con- naissance des tevis, des grandes fahles lo^arithmiques cet., zum Zeichnen der Karten zur Meridianmessung, zu den Barrieren ceL — Seit i8 Monaten ist damit ein depot de Geographie, bei dem auch Barbie angestellt ist, verbunden, der alle Karten vom bureaii de la giurre bekommen hat, die nicht zum Militaire gehören. Wegen Mangel an Gelde stehen fast alle Arbeiten dieses Bureaus still, in der eigentlichen Messung ist noch fast nichts geschehen. — Dies Bureau hat die Karte mit Angabe der Oberfläche und Bevölkerung herausgegeben, die ich besitze. Die Angaben der Oberfläche sind nach Cassini's *) Karte; die der Bevölkerung'-^) hat der Comite de division der Convention 1793. geliefert. Allein da man mir das Manuscript zeigte, fand ich, dass mit Bleistift viele Zahlen geändert waren, und man in der Karte diesen Aenderungen gefolgt ist. Ich fragte, wonach sie gemacht wären. Der Aufseher sagte mir aber, dass sein Vorgänger sie gemacht habe, und eher gestorben sey, ehe er Aufklärung von ihm darüber habe erhalten können. Die geänderten Zahlen waren meist kleiner, und wohl nicht mit Unrecht, da die des comüi de dtviston wahrscheinlich von den D^partementern eingeschickt gewesen sind, und da sie zur Bestimmung der Volksrepräsentanten dienen sollten, leicht zu hoch gewesen seyn können. Solche Angaben schicken alle Departe menter jährlich ein, und die Bevölkerungstabelle im annidaire de ( ».iH . l^an 7. ist nach ihnen durch (iamus gemacht. Sie ist auch beträchtm.i.roir. lici^ grösser, als die Zahlen der Karte. — Der citoycn Pkiuzole '') hatte mehrere Bevölkerungs/&lt;7/5/mwA- gemacht, die er niir zeigte und die sehr interessant sind. Auf einer waren nach der Karte des Obsen'a/oire von jeder Karte die Städte, Flecken und Dörfer genommen. \on. jedem dieser Orte waren (iebiirtslisten von 14. Jahren gesammelt, die Mittelzahl genommen, und um die</p>
+
+               <p>Volkszahl zu finden, diese für Paris und \'ersaillcs mit 30, für</p>
+
+               <p>') Giovanni Donwnico (Jjssini (i62&gt;;~i-ji2j, Direktor der y.iriser Sternwarte<pb n="15.35" xml:id="pbXV35"/> den Ueberrest mit 26 multiplicirt. Diese Angaben waren sehr mühsam aus den mhnotren der AcadSmie, die diese Arbeit gemacht hatte, ausgezogen, und damit Neclcers und anderer An- gaben verglichen. Nur hatte diese Arbeit nicht beendigt werden können, da die Aliademie nicht alles ausgearbeitet hat, und die Revolution dazwischengekommen ist.</p>
+
+               <p>Montag, (9. August. (2. Fructidor. an 7.)</p>
+
+               <p>3Gallois. — Es giebt ein Wort für Lispeln, Zezayer. Es ist Oai'&lt; etwa vor 12 Jahren gebildet, und damals durch die Journale be kannt gemacht, und angenommen worden.</p>
+
+               <p>Donnerstag, 22. August. (5. Fructidor^</p>
+
+               <p>Frühstück bei Degerando. <note type="footnote" n="^)" resp="gnd-116890657"><hi>Elements de grammaire generale appliquee ä la langue frangaise, Paris IJQQ-</hi></note> — Dupont de Nemours. Tollheit p^^^^,;;'^^ kommt manchmal von Continenz. Er selbst hat an sich bemerkt, dass wenn er in zu langer Zeit nicht bei einer Frau gewesen ist, er reizbar gegen Widerspruch, ärgerlich und heftig wird. Die Entledigung des Bedürfnisses ist dann ein sichres Hülfsmittel. — Er ist der Verfasser des grossen tahleau ratsonne des principes de ticonomie polittque ^) das man hier auf den quais sieht. Er hat es in Strasburg gemacht. Er nennt es ein fort iravaü. Er hat immer ^^^^^^ 16 Stunden gearbeitet, ist den Abend so matt gewesen, dass er sich an den Wänden fort zum Bette geschlichen, und hat nichts als Reis und Birnen gegessen. Da er bei einer Stelle verzweifelt, hat er Turgot consultirt. Turgot hat die Lösung unmöglich gefunden, er hat sie aber doch herausgebracht. — Roederer. Un- Ro«derer begreiflich. Sicards Grammaire^) ist ein genievolles Werk. Es sicaii enthält unter andern ein prächtiges Mittel, die Art, wie der Geist abstrahirt, deutlich zu machen. Z. B. man will zeigen, wie man von einer hohen Mauer den Begriff Höhe abstrahirt. Man schreibe an eine Tafel : un und weit auseinander die einzelnen Buchstaben<pb n="15.36" xml:id="pbXV36"/> m u r. Zwischen diese schiebe man äleve so: m tle uve r. Hernach wische man üeve da weg und schreibe es unter mur. Dann wische man mur aus, so hat man un e'leve, nun schiebe nian an un ein e und aus 7'^ mache man vafi&amp;n, so hat man : Höhe allein. (! !) H«rt„,u&lt;ie Rochegude. — Aus Alby im Departement du Tar7i. Ist ehmals Seeofficier gewesen, dann Mitglied der Constituante, Conven tion, und der 500. Er beschüfiigi sich viel mit alt Französischer und Provenzalischer Sprache, und hat viel Bücherkenntniss. Er hat alle Manuscripte des Pindar auf der hiesigen Bibliothek colla tionirt, aber nichts Wichtiges darin gefunden.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Joseph Marie Baron von Degerando (1772 — 1842), Philosoph. «) Paris IJJ5.</hi></note></p>
+
+               <p>Physiognomien.</p>
+
+               <p>76. Jahr all. Klein. Ofne, tlach gewölbte Stirn, ohne Vor köpf. Gut und hoch gebogte Augenbraunen. Tiefliegende, nicht kleine Augen. Die Nase merklich von der Stirn abgesetzt, ein wenig gerad fortlaufend, dann ziemlich stark und gleichförmig gebogen bis zur Spitze. Mund nicht klein, Unterlippe etwas stark, Mundwinkel vor Aller heruntergehend. Backenknochen nicht stark hervorstehend. V^on da bis zum Kinn ein ziemlich stumpfes Dreieck. Backen trotz des Alters nicht eingefallen, eben so nicht die Schläfe. Oval des Gesichts mehr breit, als schmal.</p>
+
+               <p>Also lauter gewölbte, glatte Formen ehemals, jetzt nur durch das Alter verändert. In der Stirn nach GalP) viel (Jcdächtniss. Der Ausdruck auf i\Qn ersten Anblick nicht bedeutend. Aber be lebt und feurig im Reden. Dann hebt sich Auge und Mund. Was so hinzukommt, entsteht weniger von innen heraus, als es angenommen scheint, l'm die Mundwinkel etwas Graziöses. Brünett, yy.</p>
+
+               <pb n="15.37" xml:id="pbXV37"/>
+               <p>Klein und doch vierkantig, kurze Beine, Kurze tlache von s.ivrar,') hinten nach vorn gehende Stirn, zwischen den Augen eine per- pendiculaire Vertiefung. Zusammenlaufende Augenbraunen, stark, breit und schwarz, endigen an den Ecken plötzlich in heruntergehende Spitzen. Augenknochen stark, aber mehr gerad, als ge- wölbt vorstehend. Dadurch die Augen tiefliegend, doch mehr in einer Vertiefung, als Hole. Augen klar, gross, aber flach ^) und heJl. Nase sehr stark abgesetzt, in der Mitte ein kleiner Höcker. Spitze, etwas dick und aufstehend. Langer Uebergang von der Nase zum Munde. Mund klein, aber beim Lachen gross mit grossen perpendikulairen Backenfalten. Von den Backenknochen bis zum Kinn ziemlich spitziges Dreieck. Gesichtsfarbe schwärzlich. Haare schw^arz, glatt, kurz abgeschnitten. Ausdruck, grell, entschieden, rechthaberisch, ernst und finster, doch mehr aifectirt, als wahr. Häufiges Werfen des Kopfes in die Höhe und von der Seite, und Aufziehen der Augenbraunen, etwas Borniites darin, in den Augen und ihrer bedeutungslosen Bestimmtheit und KJarheit und einem gemeinen Lachen. Durchaus voller Ansprüche auf Philosophie, Wissenschaft, W^itz und Artigkeit in einer anscheinend philosophischen Bescheidenheit. 31.</p>
+
+               <p>Aus dem Elsass. Flache, nicht grosse Stirn. Wo die Nase ^3^*^%' angeht, eine kleine Vertiefung. Von da zu beiden Seiten die Augenbraunen sehr in die Höhe gezogen. Kleine, lange, aber schmale, graue Schweinsaugen: am rechten, das häufig thränt, eine Fistel. Kurze dicke, oben besonders plattgedrückte Nase. Grosser Mund mit dicken und doch nicht wurstmässigen Lippen. Die Oberlippe der ganzen Länge nach, aber nicht graziös, sondern hässlich überstehend. Die Backen fleischig und hängend. Haare schwarz, stark und kraus: grosser Backenbart. Das ganze Gesicht breit und plattgedrückt. Teint, unrein. Breitschulterig und un<pb n="15.38" xml:id="pbXV38"/>ilnrtr geschickter Wuchs. Zwischen den Schultern, vorn über steckender Kopf. Plumpe, beinah krumme Füsse.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Anne Joseph Eusebe Baconniere Salvcrte (ij-4—i83g', politischer Schrift- steller, Mitglied der Katasterverwaltung.</hi></note></p>
+
+               <p>Gemeines Aussehen und gemeine Haltung, in der Mine begierige und schläfrige Sinnlichkeit, darin und im Heraufziehn der Augenbraunen etwas Komisches. Schlaffheit und weichliche Melancholie. Sprache ohne allen rechten Accent und Interpunction. Ansehen der Verwirrung. (48.)</p>
+
+               <p>4'':T Grosse, ziemlich stark, doch gar nicht auffallend gewölbte</p>
+
+               <p>Stirn. Dann Augen, Mund und Nase nah bei einander gegen die freie Stirn und Backen. Augen rund, hell, von langsamer Be wegung, nah an der Nase. Nase gerade vorgehend, nicht zu dünn, nicht zu dick. Mund klein, aber im Sprechen leicht mit wulstigen dicken Lippen. Backen, nicht eingezogen, doch mager. Kinn mehr spitz, als breit. Das ganze Gesichtsoval ziemlich, doch nicht sehr schmal. Ziemlich gross, für die übrigen Verhältnisse zu breite Schultern. Ganz gute Lenden und Schenkel. Blond.</p>
+
+               <p>Ausdruck: munter, aufmerksam, langsam bedenkend und feierlich, landjunkermässig-zurückgezogen, do^i vivant^ leicht sinnlich, sich egoistisch leicht über alles hinwegsetzend und eigenmächtig, mehr beschauend, als hervorbringend, überhaupt weder reich, noch gewandt. (49.)</p>
+
+               <p>5koyei- Gross, breites und doch nicht kurzes Gesicht. Ziemlich grosse, aber nicht Hach liegende Augen. Eine grosse, '■*) vorwäns gehende, aber nicht gebogene Nase, die Spitze etwas schief herabschauend; einen ziemlich grossen Mund, dessen Lippen auch geschlossen immer eine kleine Üefnung lassen: einen matten, langsamen Blick. Ausdruck: etwas Ungeschicktes, Schlaffes, Kaltes, mehr aus</p>
+
+               <p>Trägheit, als Stolz Verachtendes. (|^2.&gt; Brünett. uocbe«) l-iner der zugleich grossesten und hiärksten Menschen, die mir vorgekommen sind. Lin grosses, breites, rundes, meist nach</p>
+
+               <p>') Friedrich Wilhelm von liur^sdorff (1JT2 — iÄ'22', Humboldts Jiii;enJ/rcund. ivar vom Jamtar bis August i'jij(j mit Tieck in Paris. '.artin<pb n="15.39" xml:id="pbXV39"/> allen Seiten, doch massig gewölbtes Gesicht. Die Stirn kurz, gan2 wenig gewölbt; die Augenknochen stark, die Augen klein; bei einer ziemlich häufigen Mine ein Heraufziehen der Augen- braunen, wo sie im Schläfewinkel fast eckigt erscheinen. Die Nase gerade vorgehend, kurz und sehr dick. Backenknochen stark, aber nicht hervorstehend. Kinn breit, unten mit einem breiten Kader. ^) Für die Grösse nicht breitschulterig. Bauch. Schwarze Haare.</p>
+
+               <p>Ausdruck: gemein, nichtssagend, Charakter von Sinnlichkeit, nicht roh, nicht heftig, nicht lüstern, aber wie einer, der viel Nahrung braucht und sich darin nichts abgehen lässt. Häufige Mine, ein Hinaufziehen der Züge zu den xVugen, wodurch diese klein werden. Ueber 50 Jahr alt. (50.)</p>
+
+               <p>Ein sonderbarer Kopf und Gesicht. Am meisten auffallend (^i^no; im Profil. Die Stirn nur oben gegen die Haare zu ein klein wenig gewölbt, dann gerade herunter nach den Augen und von hinten nach vorwärts. In der Mitte eine kleine horizontale und auch zwischen den Augen eine leise perpendikulaire Vertiefung. Die Stirnader vom Haarwuchs bis zur Nasenwurzel auffallend bemerkbar. Eine grosse von der Stirn vorwärts abspringende Nase; in der Mitte kein Höcker, aber eine breitere Stelle, die Spitze sehr breit, und die untere Fläche von oben nach unten zugehend. Der Untertheil des Gesichts gegen den oberen sehr zurückspringend. Uebergang zum Munde sehr deutlich gezeichnet. Starke, merklich in ihren Wandungen gezeichnete Lippen. Das Kinn durch eine Vertiefung in zwei Theile getheilt. Von den Mundecken gehen zwei Falten nach dem Kinn, die hieraus eine abgesonderte, in zwei Theile getheilte Parthie bilden. Die Augenknochen stark ; die Augen gross, klar, und flach aufgesetzt, so dass sie ganz vor- liegen würden, wenn die Augenknochen minder stark wären. Schmal in den Schläfen, und noch mehr nach unten zu. Krauses schwärzliches Haar mit merklich vielen grauen dazwischen, abgeschnitten. Breit in den Hüften, wodurch der Gang etwas Sonderbares erhält.</p>
+
+               <p>Ausdruck: ruhig, etwas kalt, aufmerksam, vertragsam, bestimmt mehr durch Klarheit, als Stärke, eine gewisse gutmüthige<pb n="15.40" xml:id="pbXV40"/> Herzlichkeit, discret, manchmal wohl das Ansehen der rückhaltenden Verschlossenheit. C51.)</p>
+
+               <p>8.</p>
+
+               <p>Kleine Figur, kleiner Kopf, wenig Haare, gepudert und im Zopf. Ziemlich hohe Stirn, oben gewölbt, hernach gerade herunter, eine leise horizontale Vertiefung. Die Schlafen eingesenkt, so dass von den Haaren nach den äussern Augenbraunenwinkeln eine scharfe Linie geht. F'este Augenknochen. Helle leicht beweg- liche, kuglichte, schwarze, nah an der Nase zusammenstehende, ziemlich tiefliegende Augen. Die Augenbraunen stark brünett und dick in der Mitte. Die Nase massig von der Stirn abgesetzt. Dann nur wenig über die gerade Stirnlinie vorgehend, eine kleine grössere Breite in der Mitte, eine feine Spitze, das Spitz-ende etwas höher stehend, so dass die an sich kurze untere Fläche von oben nach unten geht, weit geöfnete Naslöcher, die Mügel kürzer, als die Mittelwand. Die Backen ein wenig hohl, gegen den Mund zu ein wenig anschwellend. Kinn breit, auch in der Gegend der Backenknochen das Gesicht, das nicht lang ist, breit. Grosse, ganz freie, oben glattgekrempte Ohren. Häufige Mine: beim Lächlen eine Menge kleiner sternartiger Falten am äusseren Augenwinkel.</p>
+
+               <p>Ausdruck: fein, süsslich, aflectirt freundlich, heftig, bornirt in Stirn und Schläfen.</p>
+
+               <p>'Zu der Gattung acht französischer Gesichter, wie Röderer, nur breiter, nicht so lang. (54.)</p>
+
+               <p>Gross, stark, prächtige iMgur. Langes und breites Gesicht. Stirn fast ganz durch die Haare bedeckt, gerad heruntergehend. Der Kopf scheint spitz, und selbst die Stirn an den Seiten von oben nach den Schlafen breiter zuzugehen. Starke Augenknochen, ziemlich dicke Augenbraunen. Kleine, mehr gemeine, als sprechende Augen. Nase stark abgcsct/i, dann kurz, vogelartig, doch nicht stark gebogen, die Spitze herunterschauend, l'lcischige in allen ihren Parthieen stark gezeichnete Wangen. Langer Mundüber- gang. Ziemlich grosser Mund. Breites ivinn mit einer kurzen<pb n="15.41" xml:id="pbXV41"/> oben spitzig, zu den Seiten dick, und hinten stark und frei und kraus hinlaufend mit lauter kleinen in die Höhe stehenden Spitzen. Häufige Mine: Hinaufziehn der Züge zu den Augen, wodurch diese klein werden und Winkelfalten geben.</p>
+
+               <p>Loyales, freies, muthiges, temperamentartiges Ansehen, doch mehr voll Kraft und Freiheit, als Erhebung, Adel und Feinheit. Doch nichts Hartes noch Rohes, noch Zurückschreckendes, eher gut und Vertrauen einflössend. Aehnliche Gesichter finden sich in der Garde des Corps legislafif. (55.)</p>
+
+               <p>Gross, sehr mager. Ein langes, oben breites, unten spitz zu- Boui^oi««. gehendes Gesicht. Ziemlich hohe nur oben ein wenig gewölbte Stirn. Schmale und schwache Augenbraunen; tiefe Augenhölen und dafür zu kleine Augen. Nase merkwürdig, oben an der Stirn niedrig und schmal, dann gebogen abwärts schauend lang herunter und unten dick. Uebergang von der Nase zum Munde lang, ge rade, so dass die Oberlippe hinter der Unterlippe zurücksteht. Pockengruben und unreiner Teint. Auf dem linken Backen eine horizontale Narbe; schlichte Haare. Häufige Mine: Aufziehen der Augenbraunen, was Feinheit und Wichtigkeit nimmt. Ausdruck : leer, selbstgefällig, gemein. Aber in einem gewissen Auseinanderliegen der Züge etwas Piquantes und Französisches. Sonst Dürrheit, Magerkeit und Aermlichkeit. Aber etwas niedliches, mani- rirtes.</p>
+
+               <p>Immer merkwürdiges Gesicht. (24.)</p>
+            </div>
+
+            <div type="section" n="5">
+               <head>
+                  <title type="main">I I .</title>
+               </head>
+               <p>Gross und vierschrötig. Grosses, länglichtrundes glattes cett«.-) Vollmondsgesicht. Hohe oben stark gewölbte Stirn. Grosse aber unbedeutende Augen unter starken Augenknochen. Breite, aber doch gebogen heruntergehende Nase die merkwürdig erst, weil sie ganz schief, von der Mitte auf die linke, dann von der Spitze auf die rechte Seite schaut. Breite Lippen ohne dick zu seyn, grosser Mund; breites Kinn; rohes, plumpes Untergesicht. Ausdruck: leer, unbedeutend, mit sich zufrieden, plump, grob. Nur merkwürdig wegen dieser Nase die vielleicht durch einen Fall sö ist. und das Rohe des Untertheils. (38.)</p>
+
+               <pb n="15.42" xml:id="pbXV42"/>
+               <p>12.</p>
+
+               <p>Grosse und starke, aber doch angenehme und runde Hgur. Volles, länglichtrundes Gesicht. Nicht sehr hohe, nur oben ge wölbte Stirn. Starke . schwarze gleiche Augenbraunen. Grosse Augen, die die Augenhölen sehr wohl ausfüllen. Eine oben feinere, unten dickere Nase die Feinheit andeutet, etwas gebogen.</p>
+
+               <p>Rundes, gutes Kinn. Sehr kleine perpendikulaire '^) Spalte am Kinn, immer sehr gepudert und artig.</p>
+
+               <p>Ausdruck: gut, fein, klug, don viva^it, feurig, doch nicht sehr bedeutend. (57.) i&gt;*KAr«n.io Gross, schlank und mager. Ein langes und doch, besonders an den Backenknochen nicht schmales Gesicht. Hohe hintenüberliegende ziemlich breite Stirn mit Ecken. Auf der Stirn zwischen den Augen eine sehr tiache aber merklich grosse Ver tiefung. Nicht grosse Augen. Die Augenknochen sind bis an die Schlafecken stark, dann fallen sie erst einmal ganz ab und gehen in die Fläche über, was einen offenbaren Ausdruck von Schwäche giebt. Nase ziemlich dick mit einem kleinen Höcker, ziemlich gerade vorstehend, besonders hohe Nasenflügel. Dicke so um geschlagene Unterlippe dass es am Kinn eine tiefe horizontale Furche giebt; ausserdem hat es einen kleinen perpendikulaircn Spalt. Häufige Mine: ein Ziehen der Wangen, wodurch die äusseren Augenwinkel eine Menge kleiner. Schwachheit verrathen der Falten bekommen.</p>
+
+               <p>Ausdruck: klar, ordentlich, gut, verständig, nicht eigentlich geistreich und nicht wenig schwach. Französisch in dem Hintenüberliegen der Gesichtslinie und dem Auseinanderliegen Jer</p>
+
+               <p>Züge. (58.) 14. Ki«„nK.. Massig gross, und stark ohne Ungeschicktheit. Grosses, länglichtviereckiges (iesicht, schwarzes abgeschnittnes Haar. Nicht grosse Hache Stirn; Augenbraunen stark an der Nase; kleine Augen für das übrige Gesicht. Die Nase entsprmgt von der Stirn</p>
+
+               <p>') Pierre Marec (tj^tj—tüuS), Manm'ininistei .<pb n="15.43" xml:id="pbXV43"/> erst absteigend, dann ein Höcker und eine abwärtsschauende Spitze. Unterlippe gerade vor der Oberlippe vorstehend. Auf der Stirn zvi^ischen den Augen eine merkliche perpendikulaire Vertiefung. Backenknochen von schöner Festigkeit, Wangenzüge mit Kraft gezeichnet.</p>
+
+               <p>Ausdruck: acht Deutsch, nur feiner, kraftvoll, verständig, ruhig, nachdenkend, fein, im Verhalten des Mundes und der Klarheit und [dem] Feuer der Augen Anlage zu Scherz und selbst Spott, Ansehen eines, der lange schweigt und endlich mit einem bon mot kommt.</p>
+
+               <p>Vom Rheinufer, Strasburg gegenüber her. (64.)</p>
+
+               <p>Nicht gross und eine schlecht gebaute und sich schlecht ' '»üiard haltende Figur. Weisses Haar. Freie und grosse Stirn, gerade ziemlich dicke kleine Nase, durchfurchte Wangen- und Stirnzüge.</p>
+
+               <p>Ausdruck: gemein, platt, aber lustig und leichtsinnig. {66.)</p>
+
+               <p>16.</p>
+
+               <p>Eine der auffallendsten Physiognomien. Ein langer schmaler i'isaerer. Kopf, eine sehr gewölbte und hohe Stirn, eine kleine vorstehende Nase, grosse tiefliegende Augen, schwarze ziemlich dicke Augen- braunen, eingefallene Schläfe, ganz hohle Backen so dass dadurch die an sich gar nicht starken Backenknochen beträchtlich hervor- stehn, einen nicht in den Lippen, sondern in den Knochen vorstehenden Mund, ein breites Kinn, einen langen Uebergang von der Nase zum Munde. — So ist also das Gesicht das knöchernste, das man sich denken kann, ein wahrer Todtenkopf, merkwürdig ist daran, dass es so schmal, und doch gar nicht spitzig, vielmehr z. B. im Kinn auffallend breit ist. Daher sieht es auch mit dem Feuer in den Augen mehr schneidend und eitel, als scharfsinnig und spitzig aus. Ueberhaupt ist der intellektuelle Ausdruck darin nicht vortheilhaft, eher als ein Queerkopf, denn als ein scharfsinniger. Französisch ist die Physiognomie sehr, besonders in der Hole der Wangen und dem Vorstehenden des Mundes. (77.)<pb n="15.44" xml:id="pbXV44"/> c. Kinzelnes.</p>
+
+               <p>Mathematik, (Chemie, Naturwissenschaften sind noch ein allgemeines Band Europas, indess Kunst und Philosophie es in ganz heterogene Stücke schneiden.</p>
+
+               <p>Die Deutschen haben keinen Stolz, als Volk dies und jenes gethan zu haben, aber einen Ungeheuern, als Nation dies und das ausschliessend und allein zu können.</p>
+
+               <p>Bei Heirathen verschiedner Nationen muss der Mann die Sprache der Frau annehmen, weil man das Höchste, nicht das Leichteste suchen muss. und nur Frauen lieben können.</p>
+
+               <p>Als Nation null, und als Volk stark und unternehmend gewesen zu seyn. bringt in I*&gt;ankreich ein unangenehmes Miss- verhnltnis hervor.</p>
+
+               <p>Latrennes fand in der Luise mehr Poesie als in Herrmann und Dorothea. So auch Voss*) und alle Deutsche, die Ohr haben. Hier also ein dreifacher Begritl von Poesie: i.. Französischer. •2.. der der Hexametristen. •^., der Göthischen.</p>
+
+               <p>Die Welt ist jetzt in dem Zustande, wie zur Zeit von Roms Aufkommen. lOuropa ist Griechenland. Die andern Welttheile Barbarei. Europa hat (]olonien wie Griechenland. P^s kann eine Nebenbuhlerin entstehen. Aber könnten wohl je die Asiaten, Amerikaner und Negern, wie die \'&lt;')lkerwanderungs-Horden aufstehn '</p>
+
+               <p>Stael. — liujfoti pur sfs ambassadeurs ist sogar sehr hübsch, nach andern spiritud, aber bei Beschreibung der Insecten h carton /es attend geschmackwidrig. — Ein Deutscher würde in beiden die<pb n="15.45" xml:id="pbXV45"/> Verbindung des Conventionellen mit dem Idealen tadeln, der Franzose tadelt nur die, welche ihm niedrig scheint.</p>
+
+               <p>Stael. — Man würde Schillern nicht une bonne tele nennen, wegen des Mangels an Klarheit, aber une tele profondc.</p>
+
+               <p>Idem. y^at du souvent a mon pere, quand on faü le mal, on Le faü entierement ; quand on fait le bien, on ne le faü janiais en en- tier. Nemlich weil man nie ganz frei ist von allem Interesse und nur das gut heisst. Die Stael kommt dazu nicht durch Religion, aber doch durch die sonst nur Religiösen eigne Aengst- lichkeit.</p>
+
+               <p>Idem. Sie ist durch den Stil der Engländer frappin worden, durch den Deutschen nicht. Das ist ebendas Phänomen, durch das ein Engländer persönlich, nie aber ein Deutscher frappirt.</p>
+
+               <p>Vanderbourg. ^) — Die Deutschen unnatürlich, oder einfacher, als die Griechen seyn wollten. So in der Iphigenia. Also Mangel an Sinn fürs Einfach Starke.</p>
+
+               <p>Stael. ~ Klage der Ceres ein concetto. Korn, das man an das Herz legt? 2)</p>
+
+               <p>Constant liebt mehr Racine als Voltaire. Die Stael umgekehrt.</p>
+
+               <p>Beispiel zu nr. lo aus Bitaubes Uebersetzung Herrmanns. — Heldengrösse des Weibes. ^)</p>
+
+               <p>Monsieur de Rivarol*^) pr elend que dans le Latin le sens est suspendu j'usqu'ä la fin de la phrase.</p>
+
+               <p>") „ Trauernd senk' ichs {des Samens goldnes Korn) in die Erde, leg" es an des Kindes Herz'' Schiller, Klage der Ceres Vers gj.</p>
+
+               <p>') „Trug mit Mannesgefühl die Heldengrösse des Weibes'' Hermann und Dorothea 8, g8. Bitaubes Übersetzung lautet : „II porte en homme sensible la jeune personne, l'ornement de son sexe par sa beaute et par la richesse de sa taille."</p>
+
+               <p><note type="footnote" n="*)" resp="gnd-116890657"><hi>Martin Marie Charles Bondens de Vanderbourg (iy65—r82jj, ein Freund Fritz Jacobis, der Übersetzer des Woldemar und des Laokoon.</hi></note> Antoine Graf von Rivarol (i']54 — i8oi), der Übersetzer Dantes, oder sein Bruder Claude Frangois (i'jöo—iS-jg).</p>
+
+               <pb n="15.46" xml:id="pbXV46"/>
+               <p>Mais fignore quelle est la langue dam laquelle U sens peut eire acheve avani la phrase ; et c'est lä encore une d^ ces choses que toui le monde replte sans que personni s'avise i^ne fois au moins dexamimr ce qu'ü dtt. Dans toutes ks langues du monde ce n'est qu'avec la phrase que le sens peut itre terminS et jusqu'au dermer mot le sens est stispendu.</p>
+
+               <p>Die Sprachen mit Inversionen sind der Klarheit vortheilhaft, weil man mehr Mittel sich auszudrücken hat. Wenn . . .</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,338 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Zur Gründung der Universität Berlin</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif10humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1903">1903</date>
+                  </imprint>
+                  <biblScope unit="page" from="263" to="288"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="10.263" xml:id="pbX263"/>
+            <p>mit dem beschränkten ehemaligen Subaltern-Personale in seinem vorigen Besoldungsverhältnisse begnügen wolle, um, wenn dieser Punkt bei den andern Sectionen regulirt würde, diesen gleich gesetzt zu werden. Billigkeit und Pflicht aber gegen die Subalternen meiner Sectionen, unter welchen vorzüglich die Canzellisten mit musterhafter Arbeitsamkeit bei einem sehr beschränkten Personale sogar den grössten Theil der Arbeiten der Medicinal-Section mit besorgen, nöthigen mich Ew. Excellenz zu ersuchen : meine Section hierin nicht andern Sectionen nachstehen, sondern sie, wenn die Angelegenheit bei den andern Sectionen schon in Richtigkeit gebracht und neue Besoldungssätze eingeführt seyn sollten, in die gleichen ^^ortheile geneigtest eintreten zu lassen.</p>
+
+            <p>Berlin, den i4teii May 1810.</p>
+
+            <p>V. Humboldt. An die Königl. Wirkl. Geheimen Staatsminister Herren Freiherrn v. Altenstein und Grafen zu Dohna</p>
+
+            <p>Excellenzien.</p>
+
+            <head>
+               <title type="main">LH. — LVIII. Zur Gründung der Universität Berlin.</title>
+            </head>
+            <p>In seinem Berichte an den König vom 24. Juli i8og (s. 0. No. XXIX) hatte Humboldt schließlich den Vorschlag gemacht, das jährliche Einkommen der Universität durch Verleihung von Domänengütern zu sichern und den Ausfall durch Einziehung katholisch-geistlicher Güter in Schlesien und Westpreußen zu decken. Durch die Cabinettsordre vom 16. August iSog wurden seine Anträge bewilligt: Den vereinigten Anstalten soll „an benachbarten Domainen-Gütern so viel verliehen werden, als erforderlich ist, um ein reines Einkommen von 1^0000 Thlrn. jährlich zu gewähren"; der Vertheilungsplan der Güter wird vorbehalten; die Minister haben mit einander zu erwägen, „wie eine solche Domainen- Verleihung auf die sicherste, der Landesverfassung angemessejtste und der Universität vortheilhafteste Weise eingeleitet werden kann" ; dann ist die Urkunde auf bestimmte Domainen auszufertigen und deren Administration anzuordnen. — Zur Durchführung der Kabinettsordre traten Altenstein, Beyme, Humboldt, die Staatsräte Wilkens und Friese und der Geheime Justizrat Albrecht am 28. August i8og zu einer Konferenz zusammen; sie beschloß: die Domainensektion wählt die Güter aus der Zahl der den Ständen nicht verpfändeten kurmärkischen Ämter; insofern die zu säkularisierenden Güter an Stelle der Domänen treten, soll die Überlassungsurkunde ausgefertigt werden; auf die geistlichen Güter selbst soll die Anstalt unmittelbar nicht verwiesen werden, da die Einziehung derselben schwierig<pb n="10.264" xml:id="pbX264"/> künfte, beschränkten die freie Verfügung, und vernichteten den Dotationsentwurf, insofern die geistlichen Güter nicht wirklich eingezogen wurden. Der Geh. Staatsrat Stägemann, der Geh. Legationsrat v. Raumer, der Geh. Justizrat Albrecht sahen in der Bewilligung eine Verletzung des neuen Hausgesetzes, nach dem Domänen nur im Fall der Not und zur Schuldentilgung veräußert werden sollten. Gegen diese Einwände richtete Humboldt am g. Mai 1810 eine Denkschrift an Dohna (Nr. LH). Am 14. Mai 1810 trat das Staatsministerium zusammen und beschloß, als der Großkanzler v. Beyme hervoj-hob, da keiner von den im Domänengesetz bezeichneten Fällen eingetreten sei, könne die Bewilligung von Domänen nur bei Änderung des Gesetzes erfolgen und diese nur mit Genehmigimg der Stände vor sich gehen; der Universität zwar kurmärkische Domänen mit den beantragten Einkünften zu überlassen, doch so, daß sie Domänen bleiben, die Ausführimg aber vorzubehalten, bis der Ersatz aus geistlichen Gütern nachgewiesen sei. Dieser Beschluß gab Humboldt Anlaß zur Denkschrift vom 21. Mai (No. LIIIJ. Blieb die finanzielle Frage vorläufig noch offen, so drängte er doch auf Eröffnung zum Michaelistermin 1810 und richtete deshalb am 2j. Mai 1810 seinen Generalbericht an den König mit einem Begleitsch-eiben an Dohna (No. LIV und LVJ. Das letzte, was er vor seinem Ausscheiden aus diesem Amte für die Universität noch tun konnte, war die Einsetzung einer Kommission für ihre Einrichtung (No. L VI) imd die Abfassung zweier Schreiben an Hardenberg (No. L VII und L VIII), dem er seine Schöpfung ans Herz legte.</p>
+
+            <p>LH. Denkschrift an Dohna zur Widerlegung der Einwände gegen die Dotation, q, ^lai 1810. (Eigenhändiges Konzept in den Akten des Kultusministeriums, oben das Datum 10. Mai, bei der Unterschrift g. Mai; gedruckt bei Köpke, Die Gründung der</p>
+
+            <p>Königlichen Friedrich-Wilhelm-Universität zu Berlin, S. iggf, No. 26.)</p>
+
+            <p>An den p. Grafen zu Dohna Excellenz. Aus dem Ew. Excellenz verehrlichem Schreiben vom 8. huj. beigefügten und anbei zurückerfolgenden piecen habe ich mit lebhaftem Vergnügen die Theilnahme ersehen, welche ausser Ew. Exe. auch des Hrn. Finanz-Ministers und Grosskanzlers Ex- cellenzien an der Realisirung der von Sr. Königlichen Majestät den hiesigen wissenschaftlichen Anstalten verheissenen Dotation in Grundeigenthum geneigtest bewiesen haben.</p>
+
+            <p>Des Herrn St.Min. Frh. von Altenstein Excellenz bemerken sehr richtig, dass in dem Gutachten des Hrn. G. St.R. Staegemann wohl nur der rechtliche Gesichtspunkt grössere Aufmerksamkeit<pb n="10.265" xml:id="pbX265"/> thum zu geben, ist evident und bei der Abtragung der Staats- schulden können die wahrlich dafür sehr unbedeutenden katholischgeistlichen Güter auch nicht in Betrachtung kommen. Nach angestellter reiflicher Ueberlegung möchte ich jedoch auch behaupten, dass selbst die rechtliche Seite noch eine Ansicht erlaubt, die, wie es scheint, weder Hr. G. O.J.R. Albrecht noch Hr. V. Raumer gefasst haben.</p>
+
+            <p>Der Vorschlag, die Domainen bloss für das Quantum der von der Akademie der Wissenschaften abgetretenen eignen Einkünfte zu bestimmen, und gegen Ueberweisung derselben an den Staat zu überlassen, halte auch ich für rechdich unstatthaft. Die Masse der Königlichen Domainen wird dadurch wirklich verringert und das Geld, um welches sie verringert w4rd, erhält nicht die Bestimmung der Abtragung der Staatsschuld. Die Summe dagegen, welche der Staat empfängt, kann nicht als Capital-Eigenthum desselben gelten und z. B. hypothekarische Sicherheit gewähren. Dagegen kann ich nicht der Meinung seyn, dass der § 3 c des Hausgesetzes (das ich indess freilich nur aus den Allegaten, da ich es selbst nicht gesehen, beurtheilen kann) auch dem Vor- schlag entgegenstehe, an die Stelle der den Instituten zu gebenden Domainen gleich viel geistliche Güter zu setzen.</p>
+
+            <p>Hr. V. Raumer und Albrecht scheinen in ihrem Raisonnement von der Idee ausgegangen zu seyn, dass dies ein Tausch, ein Tausch aber eine Veräusserung und eine Veräusserung im Hausgesetz nur zu dem einzigen hier nicht eintretenden Zwecke verstattet se}^ Allein die von des Hrn. Grosskanzlers Excellenz persönlich im Anhang-Protocoll vom 28. Aug. pr. § II geäusserte Ansicht der Sache, dass<pb n="10.266" xml:id="pbX266"/> nannt werden kann. Denn der cit. § spricht gleich von der Verwendung des Kaufgeldes, und man hat also nur dabei eine Ver- äusserung gegen Geld im Sinn gehabt. Hier aber, wo eine Do- maine (die erst ein geistliches Gut war, und also nicht zu dem gehörte, von dem das Hausgesetz redet) an die Stelle einer andern tritt, ist gar nicht von Kaufgeld und nicht von Verwendung desselben die Rede. Es geht eigentlich gar keine Veräusserung am Domainen-Vermögen des Staates vor, und wird nur ein Gut einem andern substituirt, um Domaine zu sein.</p>
+
+            <p>Das Einzige, worauf es hier noch ankommen könnte, wäre nur, dass vollkommenes Aequivalent da wäre, und hier freilich muss man gestehen, dass dies solange wenigstens als die Saecu- larisation nur projectirt, nicht vollzogen ist, nicht der Fall ist.</p>
+
+            <p>Wären also wirklich so viel saecularisirte Güter vorhanden, als die Revenuen von 150000 Thlrn. betragen, so würde mir das Hausgesetz nicht entgegen zu stehen scheinen.</p>
+
+            <p>Wie aber die Lage der Sache ist, so sind sie für den Augenblick wirklich nicht vorhanden, denn die Schlesischen allein geben diesen Ertrag nicht, und die protestantischen, wenn man auch voraussetzen darf, dass Se. Majestät der König dieselben mit zu diesem Endzweck zu bestimmen geruhen wollten, sind wenigstens nur, wenn ihre jetzigen Xutzniesser nach und nach abgehen, erst disponible.</p>
+
+            <p>Bei dieser Lage der Umstände scheint mir noch ein von Hrn. G. O.J.R. Albrecht angedeutetes Hülfsmittel vorhanden zu seyn.</p>
+
+            <p>Es kann wohl keinem Zweifel unterworfen seyn, dass Se. Majestät der König, so wie Sie die Unveräusserlichkeit der Do- mainen haben aufheben können, ebenso auch durch ein neues Familiengesetz in dem jetzigen Abänderungen auf eine ihren Thronfolger bindende Weise vornehmen können.</p>
+
+            <p>Würde die Schenkungsurkunde mit allen schon beim Haus- gesetz beobachteten Förmlichkeiten vollzogen, so wäre sie selbst dadurch ein neues Hausgesetz.</p>
+
+            <pb n="10.267" xml:id="pbX267"/>
+            <p>Hielte man es aber der Würde des Königs und dem Credit des Landes unangemessen, das jetzige Hausgesetz gleich wieder zu verändern, so könnten auch Se. Majestät die allmählige Einziehung so vieler geistlicher Güter als die Revenue beträgt und die Verwandlung derselben in Domainen in der Urkunde selbst festsetzen. Die Bestimmungen des Hausgesetzes litten alsdann nur in der Zwischenzeit, und dass auch von dieser Seite die Urkunde nicht angegriften werden könnte, davor w^ürde dieselbe durch ihre dem Hausgesetze selbst gleiche Förmlichkeiten geschützt.</p>
+
+            <p>Was aber die katholisch-geistlichen Güter, und namentlich die Schlesischen betrifft, so muss ich frei gestehen, dass ich selbst nicht wünschen kann, dass die Dotation auf diese Weise, besonders allein aus ihnen geschehe. Grade im Universitäts- Wesen werden Katholiken und Protestanten noch sehr lange geschieden bleiben, und es ist nicht zu leugnen, dass das katholische Schulwesen und namentlich die Universität Breslau über Ungerechtigkeit klagen könnte, wenn diese Güter mit Vorübergehung ihrer, auschliesslich auf Berlin verwendet würden. Auf keinen Fall aber müsste mehr als ein geringer Theil, höchstens nach Verhältniss der Provinz zum ganzen Staat, davon genommen werden.</p>
+
+            <p>In Rücksicht der protestantischen Stifter und des Johanniter- Ordens sey es mir, da man einmal dies zur Sprache gebracht hat, erlaubt, noch eine Bemerkung zu machen. Wenn diese Institute dem Staate die Summe von 150000 Thlr., die er sonst auf wissenschaftliche Institute verwenden würde, abnähmen, so könnte hinwiederum der Staat dieselbe Summe, wenn er sie für nöthig hielte, auf Belohnung des Verdienstes durch Gnadengehalt wenden, und die Grossmuth Sr. Majestät des Königs könnte weit freier und ungebundener diese Gnadenbezeugungen austheilen als jetzt.</p>
+
+            <p>Auf jeden Fall käme es ja denn auch jetzt nur auf die Be- schliessung der Einziehung an. Die Einziehung selbst hinge immer von Sr. Majestät dem Könige ab, und käme auch rechtlich nur dann erst in Betracht, wenn es einmal wichtig wäre, die ganze Masse der Domainen disponible zu haben.</p>
+
+            <p>Ich kann diesen Gegenstand nicht verlassen, ohne Ew. Ex. und durch dieselben dem ganzen Staats-Ministerio die Universität in Berlin noch einmal auf das allerdringendste zu empfehlen.<pb n="10.268" xml:id="pbX268"/> die Wissenschaften gefährlichen Zeit die deutsche Litteratur für sich allein zu erhalten vermag. Schon die Eigenthümlichkeiten, eine Universität mit einer Akademie zu verbinden, die ich in dem ausgearbeiteten Organisations-Plan vorzüglich zu benutzen gesucht habe, zeichnet es auf eine merkvv^ürdige Weise aus. Es kommt nur darauf an, es wirklich nunmehr zu gründen und zu sichern.</p>
+
+            <p>Zur Sicherung kann der Staat nichts besseres thun, als ihm seine Einkünfte in Grundeigenthum anzuweisen. Nicht bloss in Hinsicht auf Fälle, die auch nur als möglich gedacht, jeden irgend patriotisch Gesinnten so tief ergreifen müssen, dass er selbst gegen bloss literarische Institute und gegen diese gleichgültig werden könnte, sondern auch an sich ist eine vom Staat herrührende, aber von den Gesinnungen der jedesmaligen Regierenden unabhängige Dotation eines wissenschaftlichen Institutes im höchsten Grade erspriesslich. Sie giebt ihm mehr Selbstständigkeit, mehr innere Würde, und grösseres Vertrauen beim Ausland.</p>
+
+            <p>Eine andere innere Sicherung v/ird sich das Institut selbst schaffen, und ich kann behaupten, dass hierzu schon jetzt ein Grund gelegt ist. Es wird nämlich von seinem ersten Anfange an eine hinreichende Anzahl von Männern umfassen, die mit vorzüglicher Liebe für ihre Wissenschaft arbeiten, mit grossen Hofnungen sich dieser Anstalt widmen, und eine ehrenvolle Freude darin finden, sich, wie sie es in der That sind, mit als Gründer derselben zu betrachten. An diese werden sich bald andere anschliessen, und da keine Regierung so sehr als die Preussische, Gelehrte immer mit ächter nicht geheuchelter Liberalität behandelt hat, so wird man anderwärts selbst glänzendere iVussichten verschmähen, um hierher zu kommen. Allein es ist auch unumgänglich nothwendig, die Universität nun wirklich zu eröfnen, und um Michaelis die Vorlesungen beginnen zu lassen. Dass dies mit der medicinischen, juristischen und philosophischen Facultät möglich ist, dafür stehe ich Ew. Exe, wenn ich die Disposition über die noch nöthigen Mittel erhalte, ein. Mit der theologischen Facultät und den kameralistischen Wissenschaften könnte es eher schwierig seyn.</p>
+
+            <pb n="10.269" xml:id="pbX269"/>
+            <p>Auch ist nie ein Zeitpunkt der Gründung einer neuen Universität so günstig gewesen. Alle Universitäten haben gegen- wärtig gelitten; kaum Eine hat über 600 Studirende; Lehrer und Schüler sind bereiter als je sich nach einem neuen Sitze des höhern Unterrichts zu wenden. Im Königreich Westphalen ist man allgemein zu der Ueberzeugung gekommen, dass die Regierung niemals den wahren deutschen Begriif einer Universität hinläng- lich auffassen wird, um diesen Instituten Genüge zu leisten. In Baiern zerstören alberne Zänkereien das wenige kaum gestiftete Gute. Oesterreich und Sachsen haben gezeigt, dass sie diesen Zeitpunkt für ihre Universitäten zu benutzen weder Geschick noch Lust haben. Ueberdies sind in Göttingen, Kiel und Heidelberg aus verschiedenen Ursachen Unzufriedenheiten unter den Studierenden entstanden; Jena kann nicht aufkommen, da der Herzog von Weimar alles Interesse daran verloren hat; Halle ist durch Reils Abgang in der einzigen Fakultät zersört, die noch da einiger- massen blühte.</p>
+
+            <p>Ich würde durchaus meiner Pflicht entgegenhandeln, wenn ich einen solchen Moment versäumte, und nicht Sr. Majestät dem König dringend vorstellte, was jetzt zu thun ist.</p>
+
+            <p>Ich kann und muss es um so mehr, als ich im Stande bin, mit Thatsachen zu beweisen, dass das noch nicht einmal gegrün- dete Institut grosses Vertrauen in Deutschland gewinnt. Noch keiner, an den der Ruf hierher ergangen ist, hat ihn ausgeschlagen; Reil und Savigny haben sehr gute Lagen verlassen, und allen Anerbietungen ihrer Regierung widerstanden. Mehrere Gelehrte, die ich jetzt nicht zu berufen rathsam finde, haben mir selbst erklärt, dass sie gern kommen würden, und unter diesen einige, die nachher an sie für Halle ergangene Rufe ausgeschlagen haben. Hugo kommt nach seinen letzten Aeusserungen höchst wahrscheinlich, wenn er sich irgend vor Verlust in Einkünften gedeckt<pb n="10.270" xml:id="pbX270"/> Es wird aber allerdings nothwendig seyn, noch eine nicht unbeträchtliche Summe zur Disposition zu stellen, wenn die Er- öfnung der Universität wirklich geschehen soll, und ich fühle, wie peinlich es ist, diese in den gegenwärtigen Umständen in Antrag zu bringen. Allein man muss auch nicht vergessen, selbst nach aussen die innere Wichtigkeit des Institus in Erwägung zu ziehen: dass der Preussische Staat jetzt wirklich keine Universität hat, die allgemein, zugleich gern und mit Vertrauen besucht würde, da Königsberg zu entfernt ist, und Frank- furth immer grosse Mängel behalten wird, dass also immer viele junge Leute regelmässig in's Ausland gehen, wenige aber von dort hierher kommen werden, mithin eine neue Universität nicht Luxus, sondern Bedürfniss ist; dass das auf die Universität gewendete Geld sämmtlich wieder im Lande verzehrt wird, und der grössere Verkehr durch dieselbe in Berlin, da man gewiss ohne Irrthum auf 1000 und lauter nicht ganz unvermögende Studierende zählen kann, selbst für die Stadt in allem Betracht wohl- thätig ist; dass gegen die anderen Bedürfnisse des Staates selbst die ganze Summe von 150000 Thlrn., geschweige denn die jetzt vielleicht nothwendige von 25000 Thlrn. nicht so gross zu nennen ist, dass wenn jene befriedigt werden, diese nicht aufzubringen wäre; und endlich dass der Preussische Staat kein anderes</p>
+
+            <p>Mittel mehr hat, und kein Staat ein edleres haben kann, sich auszuzeichnen und hen^orzuthun, als liebevolle Beförderung der Wissenschaft und Kunst, und dass daher selbst politisch, da Achtung beim Auslande das ist, worauf ein Staat immer zuerst zu sehen hat, auch eine unverhält- nissmässige Verwendung der Staats-Kräfte auf diesen End- zweck gerechtfertigt werden kann. Es kommt nur immer darauf an, nichts unnütz zu verwenden, und dafür glaube</p>
+
+            <pb n="10.271" xml:id="pbX271"/>
+            <p>Indem ich Ew. Exe. wegen der Weitläufigkeit dieses Schreibens recht sehr um Verzeihung bitte, muss ich dieselben gehorsamst ersuchen, dasselbe schleunigst auch zur Kenntniss des Hrn. Finanz Ministers und Grosskanzlers Excellenzen zu bringen.</p>
+
+            <p>Berlin, d. 9. Mai 1810. Humboldt. LIII. Gegenvorstellung anDohna gegen denBeschluss des Staatsministeriums über die Dotation der Universität Berlin. 21. Mai 1810.</p>
+
+            <p>(Konzept in den Akten des Kultusministeriuvis, gedruckt bei Köpke a. a. O.</p>
+
+            <p>S. 204f. No. 28.)</p>
+
+            <p>An des Herrn Grafen zu Dohna Excellenz.</p>
+
+            <p>Aus dem mir durch Ew. E. unterm i(5. huj. geneigtest mit- getheilten Conferenz-Protokolle des Staats-Ministeriums vom 14. huj. habe ich ersehen, dass mein in Absicht der Dotation der hiesigen Universität gemachter Vorschlag darum Schwierigkeit gefunden hat, weil bei einer Schenkungs-Urkunde, welche dem Hausgesetze an Kraft gleich seyn sollte, ebenso wie bei diesem auch die Stände zugezogen werden müssten. Dieser Umstand war mir zwar gleichfalls nicht entgangen, allein ich hielt ihn durch die im Voto des Herrn G. O. J. R. Albrecht enthaltene Bemerkung, dass die Zu Ziehung der Stände nicht nothwendig sey, für beseitigt. Bei der jetzigen Lage der Sache scheint in der That nichts übrig zu bleiben, als entweder die Stände wieder zuzuziehen (eine Massregel die ich selbst nur bei Benutzung eines günstigen Zeitpunkts rathsam halten kann) oder darauf Verzicht zu thun, die Königliche Zu Sicherung, die hiesigen wissenschaftlichen Anstalten mit wahrem Eigenthum in Landgütern zu dotiren, zu erfüllen.</p>
+
+            <p>Jedoch kann ich nicht umhin Ew. E. und des Herrn Gross<pb n="10.272" xml:id="pbX272"/>Was für die Universität wichtig ist, sind offenbar die zwei Punkte :</p>
+
+            <p>1. dass die Güter, aus welchen ihre Einkünfte fliessen, wirklich ihr rechtmässiges und völliges Eigenthum seyen; 2. dass die Einkünfte unmittelbar von den Domainen-Pächtern in die Universitäts-Casse gezahlt werden.</p>
+
+            <p>So wohlthätig schon, wenn je ungtinstige Ereignisse eintreten sollten, die letztere Einrichtung für sich se3'n würde, so bleibt es immer gewiss, dass um ein wichtiges und grosses Institut gänzlich sicher zu stellen, die erstere hinzukommen muss.</p>
+
+            <p>Wäre es indess unvermeidlich von diesem Punkte für jetzt abstrahiren zu müssen, so A^öirde ich im Gefolge des Antrags Sr. Excellenz des Hrn. Gross-Kanzlers folgende jetzt zu treffende Modalitäten vorschlagen :</p>
+
+            <p>1. Se. Maj. der König bestimmten die Domainen-Güter von dem reinen Ertrage von 150000 Thlrn., welche den \vissenschaft- lichen Anstalten angewiesen werden sollen;</p>
+
+            <p>2. Allerhöchstdieselben verfügten, dass die Verwaltung dieser Güter durch die Kurmärkische Regierung unter den im Conferenz- Protocoll vom 28. Aug. pr. angegebnen Bestimmungen besorgt, allein</p>
+
+            <p>3. die nun schon baar angewiesenen und noch anzuweisenden (und nicht als Staats-Schuld behandelten) Einkünfte unmittelbar von den Domainen an den Rendanten der Institute, Kriegsrath Schröder, gezahlt werden sollen;</p>
+
+            <p>4. S. K. Maj. setzten die Art fest, ysäe der nicht baar ange- wiesene Theil der Einkünfte als Staats - Schuld einzuzeichnen seyn wird.</p>
+
+            <p>5. Allerhöchstdieselben stellten eine von dem gesammten Staats-]\Iinisterio contrasignirte, mit den möglichsten Förmlichkeiten versehene Erklärung aus, dass Sie den hiesigen, wissenschaftlichen Anstalten die ausgewählten Domainen-Güter zu ihrer Dotation an<pb n="10.273" xml:id="pbX273"/>werden können, Genüge ieistende Schenkungs-Urkunde wirklich auszustellen.</p>
+
+            <p>Nach Massgabe der Umstände könnte alsdann diese Urkunde früher oder später in der That ausgefertigt werden.</p>
+
+            <p>Mehr wüsste ich in der jetzigen Lage der Sache, und nach den mir von Ew. E. mitgetheilten Umständen nicht zur Sicherung der hiesigen, wissenschaftlichen Anstalten zu thun.</p>
+
+            <p>Meinen Bericht an Se. Maj. den König über die Eröfnung der Universität zu Michaelis werden Ew. E. in wenigen Tagen empfangen.</p>
+
+            <p>Beriin, d. 21. Mai 18 10.</p>
+
+            <p>Humboldt.</p>
+
+            <p>LIV. Generalbericht an den König. 23. Mai i8ro.</p>
+
+            <p>(Eigenhändiger Entwurf in den Akten des Kultusministeriums, Abschriß im Geh. Staatsarchiv ; gedruckt bei Köpke a. a. O. S. 205 ff- Nr. 2g.)</p>
+
+            <p>Die mir im verwichnen Herbst von E. K. M. aufgetragnen, vorläufigen Veranstaltungen zur Errichtung der hiesigen Universität sind gegenwärtig so weit gediehen, dass ich es wagen darf, Aller- höchstdenselben von dem Geschehenen Rechenschaft abzulegen und genöthigt bin, E. K. M. höchste Autorisation zu den fernem noch nöthigen Schritten erfurchtsvoll zu erbitten.</p>
+
+            <p>Die hiesigen höheren wissenschaftlichen Anstalten sollen aus drei selbständigen Theilen, den Akademien, der Universität und den Hülfs-Instituten bestehen, und es kam also zuerst darauf an einen Plan zu ihrer zweckmässigen Verbindung zu entwerfen. Dieser ist, seinen Hauptideen nach, angefertigt, und erwartet nur noch in seinen einzelnen Theilen von den vorzüglichsten Gelehrten, welche bis zur Eröfnung der Universität hier gegenwärtig seyn werden, geprüft und berichtigt zu werden, um ihn E. K. M. in seiner Vollständigkeit vorzulegen.</p>
+
+            <p>Bei der Verbindung der Akademie der Wissenschaften mit der Universität kam es vorüglich darauf an, jedes dieser beiden Institute auf die ihm eigenthümliche Weise zu einem gemein<pb n="10.274" xml:id="pbX274"/>für sich gehen, und endlich die Akademie ganze Reihen wissen- schaftlicher Untersuchungen, zu welchen es den Universitätslehrern an Zeit und freier Müsse fehlt, theils durch besondere Adjuncten nach Aufträgen, bei denen auch die Universität concurrirt, über nimmt.</p>
+
+            <p>Die Akademie der Wissenschaften hat einen ausführlichen Plan zu ihrer neuen Organisation entworfen, welchen die Section des öifentl. Unterr. E. K. M. mit ihren Bemerkungen vorlegen wird. Es wird dabei vorzüglich darauf ankommen, die eigentlich organischen Gesetze mehr zu vereinfachen, und von ihnen dasjenige zu trennen, was mehr in ein blosses inneres Reglement gehört. Durch die Ernennung von vier Classen-Sekretairen hat die Akademie schon jetzt beträchtlich an Thätigkeit und innerm Leben gewonnen; durch die Wahl von den Professoren Illiger, Rudolphi, Oltmanns und Gauss, die bis auf den letzteren, bereits alle die erhaltene Berufung angenommen haben, wird ihre Wirksamkeit noch mehr wachsen, und vielleicht wird es dann möglich seyn einige Mitglieder, welche ihr Alter oder eine einmal ent- schieden genommene Richtung ihrer Studien in die gemeinsame Thätigkeit gehörig einzugreifen hindert, ohne Verlust an äussern Vortheilen, in den verdienten Ruhestand zu versetzen.</p>
+
+            <p>Für die innere Einrichtung der einzelnen Fakultäten der Uni- versität habe ich durch Gelehrte aus denselben bereits zum Theil Aufsätze ausarbeiten lassen und fahre damit noch jetzt fort. Bei dem eigentlichen Statute derselben wird es gut seyn, die Erfahrungen der Männer zu benutzen, die bis zur Bekanntmachung desselben sich noch hier einfinden v^^erden.</p>
+
+            <p>Die wissenschaftlichen Institute werden dergestalt unter die Aufsicht der Section gestellt, dass dieselbe sie der Benutzung der Akademie und Universität offen halten, und die Rathschläge beider zu ihrer Verbesserung benutzen kann. Die Reglements für jedes einzelne müssen zunächst ihre besonderen Aufseher entwerfen.</p>
+
+            <pb n="10.275" xml:id="pbX275"/>
+            <p>Auf diese Weise lässt sich mit Recht hoffen, dass diese Institute, vereinigt nach einem Plane, bei dem in jedem einzelnen Theile eigenthümliche Kenntnisse von Einem Gesichtspunkte aus benutzt werden, ein grosses und schönes Ganzes bilden werden.</p>
+
+            <p>Allein der Mittelpunkt desselben, dasjenige, von dem eigent- lich Alles abhängt, ist die Universität und ihr Emporkommen. Unmittelbar dem Unterricht und der Bildung der Jugend gewidmet, giebt sie auch erst den Arbeiten der Akademie das wahre Leben und die gehörige Brauchbarkeit, und die wissenschaftlichen Insti- tute gewähren nur, von Vielen besucht, bedeutenden Nutzen. Mit Vertrauen nun darf ich behaupten, dass mich Alles zu der Hofnung berechtigt, dass dieselbe, so wie E. K. M. mir zu befehlen geruhen, in den Einrichtungen zu derselben fortzufahren, bald und glücldich zu Stande kommen wird. E. K. M. sind die Männer bekannt, die bis jetzt den Ruf hierher angenommen haben, und zu denen ich nunmehr noch den v. Savigny, der gegenwärtig seinen Abschied in Baiern erhalten hat, rechnen kann. Von den andern Gelehrten, die man zu den ersten ihres Fachs in Deutsch- land rechnen kann, dem Theologen Schmidt in Giessen, dem Juristen Hugo in Göttingen und dem Mediziner Kielmeyer in Tübingen, ist es nach ihren Briefen wahrscheinlich, dass sie, wenn ein Ruf an sie ergeht, demselben folgen werden. Dies verbunden mit mehreren andern Umständen beweist, dass die Ueberzeugung in Deutschland herrschend ist, dass Wissenschaft und Kunst, und diejenigen, welche sich ihnen widmen, nirgend mit einem so liberalen und humanen Geist behandelt werden, als von E. K. M., dass man gern jeden andern Wohnort mit E. K. M. Staaten vertauscht, und schon darum zu einer neuen, von E. K. M. errichteten Anstalt festes und unbedingtes Vertrauen hegt.</p>
+
+            <p>Sind die Aussichten von Seiten zu berufender Lehrer schon aus diesem Grunde erwünscht, so kommt noch hinzu, dass vielleicht in keinem Augenblick zufällige Umstände so sehr die Errichtung einer neuen Universität begünstigten, als in dem jetzigen. Denn fast alle Universitäten haben mehr oder weniger gelitten. Im Königreich Westphalen ist die grösstentheils französische Re<pb n="10.276" xml:id="pbX276"/>vertraut, als dass sie unter ihr gedeihen könnten ; in Baiern haben unglücldiche Religions- und National-Streitigkeiten das angefangne Gute wieder unterdrückt, und in Sachsen ist man nicht thätig genug, um etwas Bedeutendes zu wirken. Auch Studierende sind daher mehr, wie sonst, geneigt, diese Universität mit einer neuen zu vertauschen.</p>
+
+            <p>Soll indess dieser seltene Zeitpunkt nicht unbenutzt verstreichen, soll der Antheil, welchen man jetzt an der zu errichtenden Universität nimmt, nicht erkalten, soll sie nicht wie ein blosses Pro- ject betrachtet werden, dessen Ausführung noch immer zweifelhaft bleibt, so ist es dringend nothwendig ihre Eröfnung sobald als möglich, und schon um Michaelis dieses Jahres zu veranstalten. Denn es ist wirklich alsdann schon ein Jahr verflossen, seitdem E. K. M. die Errichtung auf's Neue zu beschliessen geruhten.</p>
+
+            <p>Allerdings zwar würde dieser Zeitpunkt zu kurz seyn, wenn von der feierlichen Einrichtung, welche die Vollendung der ganzen Anstalt voraussetzt, die Rede wäre. Allein es ist hinreichend, wenn in diesem Zeitpunkte nur Promotionen vorgenommen, ja wenn nur in allen vier Fakultäten eine hinreichende Anzahl von Vorlesungen eröfnet und in der Form eines akademischen Lections- Cataloges bekannt gemacht werden können, und dies ist ohne Bedenken möglich, wenn E. K. M. mir neue Vollmacht zu er- theilen geruhen, dazu die nöthigen Schritte zu thun.</p>
+
+            <p>Freilich werden diese Schritte einigen neuen Aufwand voraussetzen. Allein E. K. M. haben bereits die Gnade gehabt den hiesigen wissenschaftlichen Anstalten eine in jeder Hinsicht hin- reichende Summe auszusetzen, die schon jetzt als Staatsschuld behandelt wird, und es kommt nun darauf an, dasjenige davon, dessen man nach und nach bedarf, wirklich auszahlen zu lassen, und nur wenige Ausgaben dürften sich von Seiten ihrer Nützlich- keit und Wichtigkeit so sehr wie diese, rechtfertigen. Denn sollen nicht die meisten Unterthanen E. K. M. gezwungen seyn, auswärtige Universitäten zu besuchen, so ist die Errichtung einer neuen inländischen unumgänglich nothwendig, da Königsberg, so sehr es sich schon gehoben hat, und durch Fremde aus Russland noch heben kann, doch zu entfernt liegt und Frankfurth<pb n="10.277" xml:id="pbX277"/> als eine blosse Landes-Universität werde. Ihr ganzer Zuschnitt muss sich von Anfang an darnach richten, und es ist*) alsdann wohl zu hoffen, dass die Anzahl der Studierenden hier bedeutend werden wird.*) Geht diese Hofnung endlich in Erfüllung, so muss die neue Lehranstalt nothwendig auch den Wohlstand Berlins bedeutend vermehren; vom ersten Anfange an thut sie dies in einigem Maasse, und immer kehrt alles Geld, was auf dieselbe verw^andt wird, beständig in die Circulation zurück und wird aus- schliesslich im Lande verzehrt.</p>
+
+            <p>Der höheren und wichtigeren wohlthätigen Folgen der hiesigen Universität, der durch sie noch mehr zu verbreitenden geistigen und sittlichen Bildung, des Einflusses, den sie auf das ganze Gebiet der Wissenschaften gewinnen kann, der Achtung die sie dem preussischen Staate fortdauernd erhalten muss, des Schutzes end- lich, welchen E. K. AL durch sie der gesammten deutschen Sprache und Litteratur gewähren, deren Erhalter E. K. M. in einem Zeit- punkte werden, wo Vieles ihr unausbleibliches Verderben droht, brauche ich vor E. K. M. nicht ausführlicher zu erwähnen. Nur die einzige Bemerkung sey mir erlaubt, dass ein Staat wie ein Privatmann immer gut und politisch zugleich handelt, wenn er in einem Augenblick, wo ungünstige Ereignisse ihn betroffen haben, seine Kräfte anstrengt irgend etwas bedeutend Wohlthätiges dauernd für die Zukunft zu stiften, und es an seinen Namen anzuknüpfen.</p>
+
+            <p>Diese Gründe und die ganze hier geschilderte Lage der Umstände rechtfertigen, wie ich mir schmeichle, meinen ehrfurchts- vollen Antrag, dass E. K. M. geruhen mögen mir zu erlauben, in der Organisation der hiesigen Universität mit Berufung neuer Lehrer und Einrichtung der nothwendigen Anstalten weiter<pb n="10.278" xml:id="pbX278"/> und dergestalt vorzugehen, dass die Eröfnung der Universität in der angegebnen Art um Michaelis dieses Jahr Statt finden könne.</p>
+
+            <p>Ich v^^age es mit diesem allgemeinen Antrage noch in dem jetzigen Augenblick einige andere einzelne zu verbinden.</p>
+
+            <p>Die medicinische Facultät ist diejenige, welche hier am leich testen zu einem gev^issen Grade der Vollständigkeit gebracht werden kann, und es ist daher nothwTndig, auch ihr zuerst die meiste Aufmerksamkeit zu widmen.</p>
+
+            <p>Das Wichtige zur Bildung angehender Aerzte ist nun die Anlegung von Kranken-Anstalten, in welchen dieselben zur wissenschaftlichen Kenntniss und Heilung der Krankheiten praktische Anleitung erhalten. In ihrem vollständigen Zustand würde die Universität deren viere, nemlich ein medicinisches, ein chirurgisches, eins für Gemüthskranke, eins für Gebährerinnen bedürfen. Jetzt aber können die beiden ersteren genügen.</p>
+
+            <p>Die Charite taugt zu diesem Behufe nicht. Die Menge der Kranken zerstreut den Anfänger, und macht es dem Lehrer unmöglich bei einem Einzelnen gehörig zu verweilen. Wollte man aber eine kleine Zahl im Gebäude selbst absondern, so würden dadurch die Kosten nicht viel geringer, als in einem eignen Local werden, auch, da die Kranken, an welchen der Studierende geübt werden soll, alle mögliche, körperliche Pflege und Sorgfalt geniessen, und daher weit besser gehalten werden müssen, als es in einem Hospital möglich ist, eine ungleiche Wirthschaft und eine Menge von ColHsionen entstehen. Endlich ist die Charite zu weit von der Stadt entfernt.</p>
+
+            <p>Es wird daher nothwendig zwei kleine Krankenhäuser, ein medicinisches und ein chirurgisches, jedes zu zwölf Betten anzulegen. Das erste würde dem Ober-Bergrath Reil, das letzte dem noch zu berufenden Professor der Chirurgie übergeben. Jedes würde wie auch das Königsbergische und zwei in Halle ausgestattet sind, jährlich 3000 Reichsthlr. brauchen, die von dem Januar c. an bezahlt, zugleich zu den Kosten der ersten Einrichtung und der Anschaffung der Utensilien hinreichen würden.</p>
+
+            <pb n="10.279" xml:id="pbX279"/>
+            <p>Ferner halte ich es theils um der Universität einige neue Lehrer mehr zu gewinnen, theils um einigen verdienten Männern hier eine Auszeichnung zu gewähren, für gut einige hiesige Gelehrte gleich jetzt mit der Universität zu verbinden. Es bewährt sich hierbei der Vortheil der Wahl eines Ortes, wie Berlin, zur Universität, da hier mit kleinen Zulagen Männer in Thätigkeit gesetzt werden können, die man an einem andern Ort mit grossem Aufwände berufen müsste.</p>
+
+            <p>Ich wage es daher E. K. M. in dieser Rücksicht allerunter- thänigst vorzuschlagen :</p>
+
+            <p>1. zum ordentlichen Professor der Botanik den Professor Wildenow mit einer Zulage von 500 Thlrn.</p>
+
+            <p>2. zum ordentlichen Professor der Physik den Professor Erman mit einem Gehalt von 500 Thlrn.</p>
+
+            <p>3. zum ordentlichen Professor der Philosophie den Professor Fichte mit einer Zulage von 1200 Thlrn.</p>
+
+            <p>Er hat jetzt nur 800 Thlr. und man mag auf sein durch Erfahrung erprobtes Talent die Köpfe seiner Zuhörer zu bilden, und sie mit Eifer für alles Wissenschaftliche zu erfüllen, auf seinen wohlbegründeten Ruf in seinem Fach, auf seinen streng moralischen Charakter, oder auf die Anhänglichkeit, mit der er, seit dem Anfange der unglücklichen Ereignisse, immer, und ohne E. K. M. je mit einer Bitte zu behelligen, ausgeharrt hat, sehen, so verdient er gewiss über die Nahrungssorgen hinweg gehoben zu werden, in welche ihn eine schwächliche Gesundheit und Mangel aller andern Hülfsquellen jetzt oft versetzen.</p>
+
+            <p>4. Zum ordentlichen Professor der Mathematik den Professor Tralles. Dieser würde für den Augenblick keiner Zulage bedürfen. Dagegen bitte ich E. K. M. ihm eine Dienstwohnung im obersten Stock des Universitäts-Gebäudes zuzusichern. Ich betrachte dies weniger wie eine Vergünstigung für ihn, als wie einen Vortheil für die Wissenschaft, da er erst, wenn er nicht mehr dem Wechsel gewöhnlicher Miethen ausgesetzt ist, seine sehr schätzbaren Instru<pb n="10.280" xml:id="pbX280"/>5. Zum ausserordentlichen Professor*) den Ober-Medicinal- Rath Hermbstaedt mit einer Zulage von 300 Thlrn. Dieser Mann beschäftigt sich auch in der Chemie grösstentheils nur mit dem technischen Theile, und ich würde ihn daher vorzüglich für Technologie bestimmen.</p>
+
+            <p>Ich wage es bei dieser Gelegenheit zu bemerken, dass ich meine vorzüglichste Sorgfalt auf die baldige Beförderung des Kameralistischen Studiums hin richten werde, da Berlin auch ausser den gelehrten Anstalten so schon viele Hülfsmittel dafür darbietet, und zu erwarten ist, dass selbst junge Leute, die jetzt oft gar keine Universität besuchen, weil sie auf den gewöhnlichen hierfür nicht hinläng- lich Befriedigung finden, diese Studien in Berlin verfolgen werden.</p>
+
+            <p>6. Endlich zum ausserordentlichen Professor den Professor Fischer mit einem Gehalt von 300 Thlrn., der mehr als irgend ein anderer der hiesigen Mathematiker, für optische Wissenschaften, so wie auch für andere Zweige der Mathematik und Physik brauchbar ist. Die Zahlung der hier genannten Gelehrten könnte von I. Jun. c. ihren Anfang nehmen.</p>
+
+            <p>Endlich muss ich E. K. M. allerunterthänigst anzeigen, dass der mit 800 Thlrn. berufene Professor Horkel zwar den Ruf anzunehmen bereit ist, aber mit 200 Thlrn. verbessert zu werden wünscht. Da nun das Gesuch nicht unbillig ist, so wage ich es, bei E. K. M. auf die Vermehrung der ihm bestimmten Besoldung um diese Summe erfurchtsvoll anzutragen.</p>
+
+            <p>Geruhen nun E. K. M. diese Amräge huldreichst zu genehmigen und mich zu ferneren Schritten allergnädigst zu autori siren; so würde ich sogleich alles ferner Nothwendige einleiten.</p>
+
+            <p>Berlin, den 23. Mai 1810. Humboldt.</p>
+
+            <p>LV. Begleitschreiben zum Generalbericht o. D., am Rande mundiert den 23. Mai 18 10. (Eigenhändiger Entwurf in den Akten des Kultusminister iiims.)</p>
+
+            <p>An den p. Hr. Grafen zu Dohna Excellenz.</p>
+
+            <p>Ich gebe mir die Ehre, Ew. Excellenz den inliegenden Bericht zu überreichen. Er bedarf weder bei Ew. Exe. noch bei den<pb n="10.281" xml:id="pbX281"/> übrigen Mitgliedern des Staats-Ministerii, im Fall Ew. Exe. ihn zu weiterer Kenntniss bringen sollten, einer besondern Empfehlung. Diese sowohl als Ew. Exe. haben hinlänglich Ihren Eifer für diese Sache bewiesen, und mich in Ihrem geehrtesten Schreiben vom 16. huj. noch ausdrücklich aufgefordert, das zur Eröfnung der Universität um Michaelis Nothwendige einzuleiten.</p>
+
+            <p>Nur die Umstände könnten der Genehmigung meiner Anträge entgegenstehen, und in diese muss ich mich fügen. Allein meine Pflicht verlangte, Sr. Majestät dem König zu sagen, dass der Zeitpunkt jetzt günstig ist, und dass es Unrecht seyn würde, ihn zu versäumen. Se. Königliche Majestät hätten sonst mich selbst mit Recht der Nachlässigkeit zeihen können.</p>
+
+            <p>Aus gleichem Grunde fühle ich mich gedrungen, auch Ew. Exe. noch einmal zu wiederholen dass, wenn aus der Universität etwas werden soll, ihre Eröfnung nicht über Michaelis hinausgeschoben werden darf, und dass, um sie zu diesem Termin zu eröfnen, neue Zuschüsse nöthig sind. Die Mittel, deren ich bedarf, sind, nach meiner ungefähren Berechnung, etwa 25 bis 26000 Thlr. Indess ist diese Berechnung nur ungefähr, da die auswärtigen Berufungen wohlfeiler und theurer seyn, schneller und langsamer gelingen können. Die Anweisung des grossen Theils würde erst um Michaelis und immer nur nach und nach nothwendig seyn. Ich denke noch 8 — g fremde Gelehrte zu berufen, und wenn ich dann von den hiesigen, ausser den w^irklich schon angestellten und den in diesem Bericht genannten, auch nur noch 4 — 5 nehme, könnten die Vorlesungen mit einem Lehr-Personal von einigen dreissig Professoren anfangen.</p>
+
+            <p>Ich bitte übrigens Ew. Excellenz überzeugt zu seyn, und auch des Herrn Finanz-Ministers Excellenz zu versichern, dass ich überall mit der grösstmöglichen Sparsamkeit verfahren werde.</p>
+
+            <p>Was endlich die Fassung des Berichts betrift, so habe ich nicht geglaubt, Sr. Majestät dem König jetzt eine Summe bestimmt nennen zu müssen, da das Bedürfniss sich wirklich nur ungefähr angeben lässt. Sollten Ew. Exe. etwa in diesem oder irgend einem andern Punkt den Antrag anders gefasst wünschen, so ersuche ich Sie, es mir geneigtest anzuzeigen, da es uns beiden ja auf nichts Anderes ankommt, als eine gute und grosse Sache zu befördern und gelingen zu machen.<pb n="10.282" xml:id="pbX282"/> LVI. Verfügung über die Bildung einer Kommission für Einrichtung der Universität. 3. Juni 1810.</p>
+
+            <p>(Eigenhändiger Entwurf in den Akten des Kultiisministerimns ; gedruckt bei Köpke a. a. O. S. 216 No. jj.J</p>
+
+            <p>Die der Section des öffentlichen Unterrichts in der anliegenden Allerhöchsten Cabinets-Ordre vom 30. pr., welcher der Immediat- Begleitungs-Bericht der Ministerien des Innern und der Finanzen beigefügt ist, aufgetragene Einrichtung der hiesigen Universität zu bevorstehendem Michaelis macht eine vorzüglich sorgfältige und schnelle Betreibung dieser Angelegenheit nothwendig. Es scheint mir daher gut, zu diesem Geschäft eine eigne Commission in der Section zu ernennen, welche sich demselben vorzugsweise widme, abgesonderte Conferenzen darüber bei mir halte, und hernach die Resultate ihrer Berathschlagungen der Section vorlege. Es wird dadurch noch ausserdem der doppelte Vortheil erreicht werden, auch andere sachkundige Männer über die Organisation der Universität bequemer und vollständiger zu Rathe zu ziehen, und diesem Organisations-Geschäft mehr Zeit widmen zu können, als die gewöhnlichen Sitzungen der Section erlauben würden.</p>
+
+            <p>Im festen Vertrauen zu dem Eifer, w^elchen Ew. Hochwohl- geboren und Hochwürden immer für die zu errichtende Anstalt bewiesen haben, bestimme ich Sie für diese Commission und ersuche Sie, sich Mittwoch Nachmittag um 5 Uhr gefälligst deshalb bei mir einzufinden.</p>
+
+            <p>In dieser ersten Zusammenkunft wird es vorzüglich nur da- rauf ankommen, den Plan zu der ganzen Arbeit der Commission zu verabreden, die einzelnen Gegenstände, welche er umfassen muss, zu überschlagen und sie unter die Mitglieder der Commission zu vertheilen. In dieser Hinsicht ersuche ich Ew. Hochwohlgeboren und Hochwürden, Sich auf die Conferenz gefälligst vor- zubereiten.</p>
+
+            <p>Berlin, d. 3. Juni 1810.</p>
+
+            <p>Humboldt. An die Königlichen Staatsräthe Herrn Süvern und Uhden Hochwohlgeboren und den Herrn Professor und Prediger Dr. Schleiermacher Hochwürden.</p>
+
+            <pb n="10.283" xml:id="pbX283"/>
+            <div type="section" n="1">
+               <head>
+                  <title type="main">LVII. An Hardenberg.</title>
+               </head>
+               <p>{Eigenhändiger Entwurf in den Akten des Kultusministeriums.)</p>
+
+               <p>An den p. v. Hardenberg Excellenz. Den lebhaften Antheil, welchen Ew. Excellenz mir neulich mündlich an der Errichtung der hiesigen Universität und der von Sr. Majestät dem König intendirten Eröfnung derselben zu Michaelis 2u äussern die Güte hatten, überhebt mich jeder Entschuldigung, wenn ich mir die Freiheit nehme, Ew. p. noch im Augenblicke meines Abganges von meinem bisherigen Posten, einige Worte über die Dotation dieses so wichtigen und bei der Entfernung Königsbergs und der nicht leicht ganz zu hebenden Mangelhaftig- keit Frankfurts, selbst für das gewöhnliche Bedürfniss der inländischen Studirenden so äusserst nothwendigen Instituts zu sagen. Ew. p. ist vermuthlich schon bekannt, dass diese Dotation durch Anweisung von Domainen-Gütern geschehen soll. Das vormalige Justiz-Ministerium hielt aber, um diese, eine Veräusserung von Domainen involvirende Dotation giltig zu machen, für noth- wendig, den Domainen geistliche Güter eventualiter zu substi- tuiren. Diese Substitution fand Schwierigkeiten, weil sich nicht gleich eine hinreichende Anzahl solcher Güter anweisen Hess. Es wurde nun über die giltige Ausfertigung einer Schenkungs-Urkunde der Domainen (deren Einkünfte jedoch nicht gleich jetzt sämtlich, sondern nur so wie des Königs Majestät sie nach und nach disponibel zu machen geruhen würden, an die wissenschaftlichen Anstalten hier übergehen sollten) im Staats-Ministerio mehrmals discutirt, auch ein Gutachten eingezogen. Die Angelegenheit ist indess noch immer nicht zur Entscheidung gediehen, und die Urkunde nicht ausgefertigt. Meine ganz ergebenste Bitte an Ew. p. ginge daher nun dahin<pb n="10.284" xml:id="pbX284"/> gesichert werden sollte, ist ihre Dotation in Land-Eigenthum, so wie Se. Majestät der König ihr solche zu versprechen die Gnade gehabt haben, eine überaus wesentliche Sache, und auch für den Staat dürfte diese Art, derselben ihre Einkünfte anzuweisen die angemessenste seyn.</p>
+
+               <p>Schliesslich glaube ich noch bemerken zu müssen, dass Se. Königl. Majestät in der Allerhöchsten Cabinetts-Ordre vom 30. Mai c. die Eröfnung der Universität auf Michaelis dieses Jahres zu befehlen und die dazu nöthigen Mittel, welche in dem Immediat- berichte, mit dem das Staats-Ministerium den Antrag der Section d. ö. U. begleitet hatte, auf 26000 Thlr. angegeben sind, zu bewilligen geruhet haben. Die Section wird sich daher jetzt, so wie diese Summe nach und nach nothwendig zu werden anfangen wird, deshalb nur an die Königliche Immediat-Finanz-Commission wenden dürfen, um auf diese Weise ein Institut in Gang zu bringen, dass ich Ew. p. Sorgfalt und Schutz noch einmal auf das dringendste zu empfehlen wagen würde, wenn ich nicht w^üsste, dass es sich desselben schon ohnehin zu erfreuen hat.</p>
+
+               <p>Berlin, den 22. Junius 1810. Humboldt.</p>
+
+               <p>LVIII. An Hardenberg.</p>
+
+               <p>(Gedruckt bei Köpke a. a. O. S. 2/7 Nr. jß.)</p>
+
+               <p>Berlin, d. 12t- August 1810. An des Königl. Staats-Canzlers Herrn Fre3^herrn von Hardenberg Excellenz.</p>
+
+               <p>Ew. Excellenz mir gütigst geäusserten Wunsch von den finanziellen Verhältnissen der hiesigen wissenschaftlichen Anstalten ge- nauere Kenntniss zu erlangen zu genügen, glaube ich das, was Ew. Exe. dabei interessiren kann, zu leichterer Uebersicht so kurz als möglich zusammenfassen zu müssen.</p>
+
+               <p>Die hiesigen höheren wissenschaftlichen Anstalten sollen ein aus folgenden 3 Theilen, den Akademien der Wissenschaften und Künste, der Universität und</p>
+
+               <pb n="10.285" xml:id="pbX285"/>
+               <p>Se. Majestät der König haben geruhet diesen Anstalten eine so grosse Anzahl von Domainen-Gütern als Eigenthum zu versprechen, als zu einem jährlichen Einkommen von 150000 Thlrn. nothwendig seyn würden.</p>
+
+               <p>Bei der jetzigen Lage des Staates soll jedoch von diesem Ein- kommen nur ein Theil, jedesmal durch besondere KönigHche Bewilligung, disponible gemacht werden.</p>
+
+               <p>Der noch nicht disponible gemachte Ueberrest dieses Einkommens aber sollte jedoch vom i. Sept. 1809 an als eine Staats- schuld ordentlich Hquidirt werden. Das Nähere hirüber besagt die in der Anlage gehorsamst beigefügte Allerhöchste Cabinets-Ordre vom 16. Aug. 1809 (a) nebst dem zwischen den damaligen Ministern und mir darüber aufgesetzten Conferenz-Protokoll vom 28. Aug. 1809. (b) Dies Allerhöchste Königl. Versprechen ist nun bis jetzt, wenigstens in so fern noch nicht realisirt worden, dass noch keine Schenkungs- und Stiftungs-Urkunde darüber ausgestellt, die Aus- wahl der Domainen nicht geschehen und die Liquidation nicht angelegt worden ist.</p>
+
+               <p>Alle meine bisherigen Schritte deshalb sind leider fruchtlos geblieben, und Ew. Exe. könnten durch die definitive Regulirung dieser Königlichen Festsetzungen, welche dem Staat jetzt nicht die mindesten Kosten verursachte, aber den Anstalten erst die nothwen- dige Sicherheit verschafft, ein fortwährendes Verdienst erwerben, und der eigentliche wahre Gründer der neuen Stiftung werden.</p>
+
+               <p>Ueber alles Nähere hierüber beziehe ich mich auf mein schon vor einiger Zeit übersendetes gehorsamstes Schreiben.</p>
+
+               <p>Die bis jetzt von Sr. Majestät dem Könige disponible ge- machten Summen, sind folgende:</p>
+
+               <p>L Für die beiden Akademien der Wissenschaften und Künste 42 647 Thlr. durch die Allerhöchste Cabinets-Ordre vom 13. Nov. 1809. Unter dieser Summe ist schlechterdings keine neue Ausgabe, vielmehr sind gegen die vorigen Etats 14000 Thlr. jährlich erspart. Die Akademie der Wissenschaft aber hat ihre bisherigen eignen Reve- nuen (Kalender und Leichen - Pacht , Druck der Edicten-Sammlung u. s. f.) den Staats-Behörden ab<pb n="10.286" xml:id="pbX286"/>Transport 42647 Thlr.</p>
+
+               <p>II. Für die Hülfs - Institute , durch dieselbe Cabinets -Ordre 12055 Thlr. Unter dieser Summe sind nur 1578 Thlr. neue Bewilligung. Alles Uebrige empfingen diese Insti- tute auch bisher, und standen damit auf dem Etat der Akademie der Wissenschaften, welcher aber auch ausserdem um die oben erwähnte Summe verringert worden ist. Die Vertheilung dieser Summe unter die einzelnen Institute besagt die Beilage c.</p>
+
+               <p>III. Für die Universität: a) durch dieselbe Cabinets-Ordre . 12298 Thlr. Unter dieser Summe sind bereits alte, vor der neuen Organisation, für Gehalte einiger, gleich von Halle her- über gekommener Professoren ge- schehene Anweisungen, und ferner 5000 Thlr. zur Reparatur des ehemaligen Prinz Heinrichschen Palais, jetzigen Universitäts-Gebäudes, und der übrigen Gebäude der wissenschaftlichen Anstalten, wozu die Staats-Cassen immer würden haben die Kosten herschiessen müssen.</p>
+
+               <p>b) durch die gedachte Cabinets- Ordre noch fernere 8000 Thlr.</p>
+
+               <p>c) durch die Cabinets-Ordre vom 7. April c I 500 Thlr. d) ist die Section des öffentlichen Unterrichts durch die Allerhöchste Cabinets Ordre vom 30. May 1810 authorisirt worden, um die Eröffnung der Universität um Michaelis d. J. bewirken zu können, noch zu disponiren über . 26000 Thlr. 47 798 Thlr.</p>
+
+               <p>Summa aller disponible gemachten Fonds 102 500 Thlr.<pb n="10.287" xml:id="pbX287"/> nehmen und Promotionen gemacht werden können. Indess wird freiUch, theils wegen der nicht hinreichenden Fonds, tlieils wegen der Schwierigkeit, die Berufungen, die man wünscht, zu Stande zu bringen, noch hie und da eine Lücke übrig bleiben, auch darf man sich im ersten halben Jahre die Anzahl der Studenten noch nicht glänzend versprechen. Allein das einzige Mittel, das Institut zu einem Zustand der Vollkommenheit zu erheben, ist, es in einem, wenn gleich unvollkommeneren, wirklich beginnen zu lassen.</p>
+
+               <p>Zur Empfehlung der Universität und der übrigen wissenschaftlichen Anstalten brauche ich Ew. Exe, unter deren Leitung Erlangen ein neues Leben erlangt hat, nichts weiter hinzuzufügen. Die mir noch heute mündlich geäusserten Gesinnungen sind mir Bürge für die Sorgfalt, welche Ew. Exe. auch diesem wichtigen Theile der Staats-Verwaltung widmen werden.</p>
+
+               <p>Allein zur Rechtfertigung der Idee, jetzt und in Berlin eine neue Lniversität zu gründen, muss ich um so mehr, als die Gründung ohne meinen wiederholten Antrag vielleicht unterblieben wäre, mir folgendes noch einmal zu bemerken erlauben.</p>
+
+               <p>1. Wenn der Preuss. Staat nicht seine Studirenden zum grössten Theil wollte ausser Landes gehen lassen, musste er, bei der Entlegenheit Königsbergs, und der Unmöglichkeit, Frankfurth, das aller Institute ermangelt, ohne unerschwingliche Kosten, und selbst mit diesen, vortrefflich zu machen, eine neue Universität gründen. Eine Regierung, die 4% Millionen Menschen beherrscht, könnte es sich nicht verzeihen, auch nicht eine bequem gelegene und hen'orstechende höhere Lehr- Anstalt zu besitzen, und am w^enigsten wäre dies der Preussischen anständig.</p>
+
+               <p>2. Berlin besass bereits in seinen Instituten, seinen Gelehrten, und seiner beinahe schon organisirten medicinischen Fakultät so viele und treffliche Elemente zu einer Universität, dass man diesen Vortheil in einer Zeit, wo man nicht über grosse Mittel zu gebieten hat, unmöglich vernachlässigen durfte. Die Anlegung der neuen Universität an irgend einem andern Orte der Preuss. Monarchie war jetzt schlechthin unmöglich.</p>
+
+               <p>3. Die Bildung einer grossen und gut organisirten Universität,<pb n="10.288" xml:id="pbX288"/> nennen soll, in einer Zeit macht, in welcher jedes Opfer doppelt kostbar ist, und gewiss stimmen auch Ew. Exe. mit mir darin überein, dass ein Staat in keinem Momente seines Daseyns versäumen muss, sich durch irgend einen eigenthümlichen Vorzug auszuzeichnen.</p>
+
+               <p>Ich fühle auf der andern Seite sehr gut, dass der Aufwand des Staats auch für diese Zwecke seine Grenzen haben muss. Allein im jetzigen Augenbhck werden die schon bewilligten Summen so eben hinreichen, die Organisation zu vollenden, und wenn, wie zu erwarten steht, das Werk gedeihet, wenn selbst, wie natürlich ist, die Stadt Berlin von der Universität Vortheil zieht, so wird eine neue Bewilligung von z.B. looooThlrn. im folgenden Jahre sich von selbst vor den Augen des Publikums im In- und Auslande rechtfertigen.</p>
+
+               <p>Wegen Frankfurth geht meine Meinung dahin, dass man abwarten muss, wie es sich neben Berlin verhalten wird. Sinkt die Anzahl der Studenten irgend bedeutend, so muss es unbedingt aufgehoben werden. Ist aber das Gegentheil der Fall, so ist es ein sicheres Zeichen, dass das Publikum noch Gründe findet, Frankfurth Berlin vorzuziehen, und alsdann würde ich für seine Erhaltung stimmen. Auch mit seinen jetzigen Einkünften kann die Section des öffentlichen Unterrichts dafür einstehen, dass man, wie schon jetzt der Fall ist, wenn auch nicht auf glänzende Weise, aber doch mit vollkommenem Nutzen, in Frankfurth studiren kann. Als Vorbereitungsort der Studierenden für Berlin wäre es sehr gut zu gebrauchen.</p>
+
+               <p>Königsberg hat, ausser den zur Einrichtung des botanischen Gartens ein für allemal gegebenen Summen, 17000 Thl. jährliche Zuschüsse erhalten.</p>
+
+               <p>Breslau befindet sich, von der finanziellen Seite, in sehr trau- rigen Umständen. Wenn aber die so äusserst wahre und treffende Idee realisirt wird, welche Ew. Exe. mir heute unaufgefordert äusserten, dass im Fall ein Beschluss über die katholisch-geistlichen Güter gefasst würde, man dabey nothwendig zuerst auf bessere Dotirung der katholischen Schul- und Lehranstalten aus ihrem Einkommen sehen müsste, so würde es an Mitteln zur Verbesserung dieser Universität nicht fehlen.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

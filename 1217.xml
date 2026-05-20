@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nachträgliches Gutachten über die Regulierung des Provinzial- und Kommunal-Kriegs-Schuldenwesens</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zwölfter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif1202humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1904">1904</date>
+                  </imprint>
+                  <biblScope unit="page" from="455" to="467"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="12.455" xml:id="pbXII455"/>
+            <head>
+               <title type="main">der ständischen Versammlungen zu erwähnen. Versamm-</title>
+            </head>
+            <p>lungen ohne alle OelTentlichkeit nehmen der ständischen Einrichtung zu viel an ihrem Leben, und selbst an ihren wesent- lichsten Erfordernissen. Dagegen muss allerdings nicht ge- stattet werden, dass ernsthafte Geschäftsberathungen zu einem Spiel der Eitelkeit, oder Partheisucht herabgewürdigt werden. Ein angemessener Mittelweg zwischen beiden Extremen, bei dem man vorzüglich zum Augenmerk haben muss, dass das ernste Bestreben, von den öffentlichen Angelegenheiten unterrichtet zu seyn, und das Bemühen junger Leute sich zu künftiger Geschäftsfähigkeit tüchtig zu machen, nicht unbefriedigt bleiben darf, wird, ohne allen Zweifel, leicht zu finden sevn.</p>
+
+            <p>XLVIII. Nachträgliches Gutachten<note type="footnote" n="*)" resp="gnd-116890657"><hi>Wir geben aus dieser umfangreichen Abhandung nur die allgemeinen Abschnitte und lassen die speziellen weg.</hi></note> zum Bericht des Königlichen Staatsministerii über die Regulirung des Provinzial- und Kommunal-Kriegs-Schuldenwesens überhaupt und die Schulden-Angelegenheiten der Kur- und Neumark, der Provinz Ostpreussen und der Stadt Königsberg insbesondere.</p>
+
+            <p>Anfang November 1819.</p>
+
+            <p>(Eigenhändiges Konzept in Tegel; Abschrift im Geh. Staatsarchiv.)</p>
+
+            <p>Da Se. Majestät der König geruhet haben, in der Allerhöchsten Cabinetsordre vom 30. September 1819 zu befehlen, dass, im Fall ich in einigen Punkten von der in dem oben allegirten Bericht geäusserten Meinung abweiche, eine nähere Berathung hierüber in der Absicht angestellt werden solle, die Resultate derselben dem Staatsrathe mitzutheilen ; so glaube ich Ew. Königlichen Hoheit und Einem Königlichen Staatsministerio gegenwärtiges nachträgliches Gutachten über den in Rede stehenden Gegenstand ablegen zu müssen.</p>
+
+            <p>Ich werde der Absicht Sr. Königlichen Majestät am besten entsprechen können, wenn ich meine Meinung i) über die Hauptpunkte des Gutachtens; 2) über die Resultate, welche die Allerhöchste Genehmigung<pb n="12.456" xml:id="pbXII456"/> des darin gemachten Antrages auf die endliche Regulirung des Provinzialschulden-Geschäfts hen-orbringen würde; 3) über die Modifikationen abgebe, welche meines Erachtens in dem Antrage des Königlichen Staatsministerii gemacht werden könnten.</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">I.</title>
+               </head>
+               <p>Indem ich das Gutachten des Königlichen Staatsministerii durchgegangen bin, habe ich geglaubt, mich auf die sorgfältige Prüfung beschränken zu müssen, ob die darin aufgestellten Grundsätze meiner Ueberzeugung entsprechen. Alles was bloss factische Darstellung ist und die Berechnung der einzelnen Summen und Posten betrifft, setze ich, als richtig, voraus. Die Darstellung des Ministerii des Innern, auf welche sich das Gutachten gründet, ist so ausführlich und detaillirt, und dergestalt mit vollständiger Benutzung aller Voracten gemacht, dass es mir eine vergebliche Arbeit geschienen haben würde, denselben Weg noch einmal zu durchgehen. Auch würde es bei der von Sr. Königlichen Majestät anbefohlenen Beschleunigung durchaus an der nothwendigen Zeit dazu gemangelt haben.</p>
+
+               <p>Das Gutachten des Königlichen Staatsministerii fängt damit an, als leitenden Grundsatz aufzustellen, dass im allgemeinen Staatsverbande kein Titel aufzufinden sei, aus welchem eine Provinz von dem Staate Entschädigung für die ihr vom gemeinschaftlichen Feinde zugefügten Schäden fordern könne, und dass die von den seit dem Jahr 1810 ergangenen Gesetzen einmal angeordnete Ausgleichung der Kriegslasten durch die spätem, und namentlich durch das vom 3. Junius 18 14<note type="footnote" n="*)" resp="gnd-116890657"><hi>Edikt wegen Vergütung der Leistungen während des jetzt beendigten Krieges.</hi></note> wiederum aufgehoben worden sei.</p>
+
+               <p>Der Herr Staatsminister von Beyme ist hierbei abweichender Meinung gewesen, und die Abtheilungen des Staatsraths haben gleichfalls in ihrem am 5. Mai 181 8 abgestatteten Gutachten eine andere Ansicht aufgestellt. Ich kann gleichfalls der der Pluralität des Königlichen Staatsministerii in der ausgedrückten Allgemein- heit nicht beitreten.</p>
+
+               <p>Der Krieg trifft die verschiedenen Theile des Staats nicht bloss durch die Lasten, welche die eigene Regierung auferlegt, sondern, wenn der Feind in das Land eindringt, vorzüglich durch<pb n="12.457" xml:id="pbXII457"/> die Verheerungen, welche dieser anrichtet; er ist aber nie gegen eine Provinz, immer gegen den Staat als Ganzes gerichtet. Was daher eine Provinz auf diese Weise leidet, leidet sie um des Ganzen willen. Nun aber liegt es gerade recht eigentlich in dem Begriff des allgemeinen Staatsverbandes, dass dasjenige, was aus diesem Verbände hertiiesst, soviel möglich nach Grundsätzen der Gleichheit behandelt werde. Jeder Theil hat das Recht, dies zu fordern. Die Folgen des Staatsverbandes aber erstrecken sich auch noch weiter. Es fliesst nämlich auch aus demselben die allgemeine Ptiicht der Theile des Staates, sich gegenseitig zu Hülfe zu kommen, nicht zu leiden, dass ein Theil durch irgend ein Un- glück gewissermassen erdrückt werde. Das letzte begründet ge- rechte Ansprüche einer Provinz auf die Hülfe des Staates bei blossen , ganz und gar zufälligen Unglücksfällen. Beide aufge- stellten Principien aber finden Anwendung auf den Krieg, der allerdings auch eine zum Theil zufällige Calamität, allein zugleich auch eine Folge des Staatsverbandes ist.</p>
+
+               <p>Läge nicht ein solcher wahrhaft begründeter Anspruch auf Entschädigung überlasteter Provinzen in den wesentlichsten und ursprünglichsten Begrilfen des Staatsverbandes, so müsste selbst die landesväterliche Huld und Milde Bedenken tragen, einzelnen Provinzen Verleihungen von Millionen zum Retablissement bei einfallender Hungersnoth oder bei Kriegsschulden zu machen. Denn die Mittel zu diesen Verleihungen sind von dem Ganzen aufgebracht, und wenn gleich bei diesen Aushülfen der daraus für das Ganze erwachsende Nutzen auch hauptsächlich zum Zweck des Staats gehört, so würden sie doch offenbar ein andres An- sehen gewinnen, wenn gar kein Anspruch, gar kein Titel auf sie rechnen zu dürfen vorhanden wäre.</p>
+
+               <p>Ich gestehe daher auch, dass in der Darstellung des Ministerii des Innern einige Stellen in dieser Hinsicht mir nicht vollkommen im Zusammenhang mit den darin selbst aufgestellten Grundsätzen zu stehen scheinen.</p>
+
+               <p>So ist p. 106 gesagt: dass die Verheissung Sr. Königlichen Majestät lediglich aus dem Gesichtspunkt landesväterlicher Unterstützung betrachtet werden muss und hieraus von selbst folgt, dass den Kurmärkern keine Vergünstigung auf Kosten anderer Provinzen bewilligt, diese nicht zu ihren Gunsten mit neuen Abgaben belastet w^erden sollen.</p>
+
+               <pb n="12.458" xml:id="pbXII458"/>
+               <p>Allein, sei es Gewährung eines billigen Anspruchs, oder sei es landesväterliche Unterstützung, so ist es doch unmöglich, eine Summe von 8 MilHonen Thalern, wie das Gutachten darauf anträgt, auf die Staatsschulden zu übernehmen, ohne den anderen Provinzen, hier z. B. allen neu en,vorbenen, manche Auflagen, seien es neue oder fortdauernde alte, die sich sonst ermässigen Hessen, aufzulegen. Wäre daher wirklich gar kein Anspruch vorhanden, die Ueberlastung einer Provinz, sei es Ueberlastung gegen andre, oder gegen ihre eigenthümlichen Kräfte zu erleichtern und aufzuheben, wäre keine Verpflichtung der andern Provinzen vorhanden, dazu beizutragen, so weiss ich in der That nicht, ob das Königliche Staatsministerium Sr. Majestät rathen könnte, Allerhöchstihren in sich unbestimmten und allgemeinen ^^erheissungen eine so bestimmte Folge zu geben, als das Gutachten selbst vor- schlägt.</p>
+
+               <p>Ein solcher Anspruch streitet auch garnicht gegen den sehr richtigen Satz, dass eine Gemeinde oder Provinz ebenso gut als ein Individuum das sie betreffende Unglück selbst tragen muss. Dies thut sie immer, wenn sie auch Erleichterung oder Entschädigung erhält. Denn der Xachtheil bleibt, ungeachtet dieser allemal überwiegend.</p>
+
+               <p>Wenn aber weiter die Frage entsteht, worauf eigentlich ein solcher Anspruch oder ein solches Recht geht? so kann die Ant- wort nur wieder aus der Idee des Staatsverbandes geschöpft werden, aus welchem das Recht selbst fliesst. Der Staatsverband erheischt das Wohl des Ganzen, er verlangt ferner, dass dem Rechte des einen das Recht des andern nicht entgegenstehe. Kann daher dem Ansprüche einer überlasteten Provinz nicht genügt werden, ohne die übrigen aufs neue zu drücken, oder ohne die Kräfte des Staats überhaupt zu erschöpfen, so muss jener Anspruch zurücktreten, und seine Befriedigung immer nur innerhalb dieser Schranken erfolgen wollen. Hätte daher die Provinz, die durch Kriegsschaden gelitten hatte, doch wegen ihrer grössern Hülfsmittel, ihren Wohlstand so erhalten, dass die andern, die sich in andrer Lage befänden, ebensosehr oder mehr leiden würden, indem sie ihr zu Hülfe kämen, als sie, wenn sie ohne Hülfe bliebe -- so kann ihr Anspruch nicht erfüllt werden. Was aus dem Staatsverbande fliesst, muss sich auch dem Wohl des Staates unterordnen, und das Recht, von dem hier die Rede ist,<pb n="12.459" xml:id="pbXII459"/> gehön nicht zu denen, welche, aus einem positiven Gesetz fliessend, der richterlichen Erkenntniss unterworfen sind.</p>
+
+               <p>Ob und wieweit daher einem solchen Rechte einer einzelnen Provinz genügt werden kann, oder vielmehr wie weit es sich erstreckt, da es, wo es andern gleich starken Rechten entgegenträte,. in sich selbst aufgehoben würde, kommt bloss dem Regenten zu entscheiden zu.</p>
+
+               <p>In bestimmter Beziehung auf den Krieg führt das Gutachten an, dass dem Feinde durch die Annahme solcher Grundsätze Vorschub geschehe und bei Besetzung eines Landestheils gleichsam die Disposition über alle Kräfte des Staats eingeräumt werde. Dies kann aber zum Theil vermindert werden, zum Theil scheint es mir nicht richtig, und zum Theil halte ich es darum für unerheblich, weil die Annahme entgegengesetzter Grundsätze andere gleich grosse Xachtheile herbeiführt. Der im Gutachten aufge- stellte Satz ist nemlich nur insofern wahr, als die zuerst occupirte Provinz durch die Betrachtung der Vergütung nachgiebiger in Zugestehungen gegen den Feind werden würde. Dies aber lässt sich dadurch vermeiden, dass man, wovon ich in der Folge mehr sagen werde, das Schuldenmachen der Provinzen gänzlich unter- sagen und aufheben sollte. Die Gefahr ist aber auch nicht so bedeutend, und darum halte ich den Satz nicht für richtig. Denn die Provinz, traute man ihr auch sonst noch so wenig vater- ländische Gesinnung zu, wird doch wohl klar genug einsehen, dass es weit rathsamer ist, einen Schaden zu vermeiden, als sich auf eine mit ^Slühe, spät und unvollständig zu erhaltende Vergütung einzulassen. Muss dagegen die Provinz sich so unbillig behandelt ansehen, dass ihr grösstes Leiden ihr gar keinen Titel auf künftige Entschädigung zuspricht, so kann die Grösse von Drangsalen sie zu ganz andern Nachgiebigkeiten gegen den Feind, und selbst zum Abfall bringen.</p>
+
+               <p>Dies Raisonnement wird dadurch noch bew^eisender, wie es mir scheint, dass die geographische Lage, verbunden mit den politischen Verhältnissen, immer dieselbe Provinz den Kriegs- drangsalen aussetzen kann, ohne dass sich nur einmal sagen lässt, dass sie darum von dieser Lage einen sie entschädigenden Nutzen ziehe.</p>
+
+               <p>Ich finde daher schon nach den allgemeinen Grundsätzen des Staatsrechts in dem Staatsverbande einen hinreichenden Titel zur Vergütung von Kriegslasten und Kriegsschäden.</p>
+
+               <pb n="12.460" xml:id="pbXII460"/>
+               <p>Die Gesetzgebung von dem Gesetz vom 27. October 1810*) an bis zur Allerhöchsten Cabinets-Ordre vom 27. Februar 1817 ist nun zwar sehr verschieden hierüber gewesen, und die Principien des Ministerii noch mehr, da seit der letzten Cabinets-Ordre, welche doch die Beitragsverpflichtung der Domänen zugiebt, auch dieser Grundsatz wieder zwischen dem Ministerio des Schatzes und dem des Innern streitig gewesen ist. Allein im Ganzen und bis auf jene neuere Cabinets-Ordre ist die Zulässigkeit und sogar die Nothwendigkeit der Uebernahme eines Theils der Kriegslasten der Provinzen auf die Staatskassen immer anerkannt worden. Dies wird im Gutachten der Abtheilung des Staatsraths an mehreren Stellen, p. 34. u. a. m., richtig angezeigt. Immer waltete dabei der Begriff der Ausgleichung der Praegravation vor, dergestalt, dass das praegravirende Quantum vom Staat getragen werden sollte. Ich kann auch nicht mit dem Gutachten des Königlichen Staats-Ministerii annehmen, dass das Edikt vom 3. Junius 18 14 auch für die Periode von 1806 — 8 diese Grundsätze verlassen habe. Der § 3 widerspricht, wie mir scheint, dieser Behauptung, und die aus der Einleitung angeführte Stelle spricht doch nur gegen das System, eine Provinz unmittelbar durch die andre entschädigen zu lassen, nicht gegen die Uebernahme auf die Staatskassen. Diese ist wesentlich dadurch verschieden, dass die Staatseinkünfte nicht bloss aus Abgaben bestehen, dass der Staat auch Ueberschüsse und Ersparungen hat, und im jetzigen Falle noch dadurch, dass auf diese Weise die ganze Monarchie beiträgt, da man zu der Peraequation unter den Provinzen wohl nie hätte die neuen zuziehen können. Die eben aus der Einleitung zu jenem Gesetz angeführte Stelle wäre auch viel besser aus dem- selben weggeblieben. Denn zur Entschädigung eines Theils der Nation, der mehr Unglück gelitten hat, dem andern selbst beträchtliche Lasten aufzuerlegen, könnte vielleicht manchmal der Staatsklugheit, aber schwerlich der Gerechtigkeit zuwider sein; und wenn der Satz dadurch weniger unrichtig wird, dass von Unglück durch Zufall die Rede ist, so ist wohl übersehen, dass der Krieg für eine Provinz kein Zufall, sondern eine aus bestimmten Verhältnissen oder Handlungen des Staatsverbandes entspringende Folge ist.</p>
+
+               <p>*J Das Edikt „Ueber die Finanzen des Staates und die neuen Einrichtungen wegen der Abgaben", die KO. vom 27. Februar iSi'j, ist nicht zu finden.</p>
+
+               <pb n="12.461" xml:id="pbXII461"/>
+               <p>Steht also nach allgemeinen Begriffen und nach unserer Gesetzgebung fest, dass eine Hebung der Ueberlastung, oder eine Ausgleichung der Kriegslasten allerdings eine im Recht gegründete Massregcl ist, so kommt es nur darauf an, ob dieselbe möglich war, oder ob sie es noch jetzt sein dürfte?</p>
+
+               <p>Das Erste ist mir nicht zweifelhaft. Zwar konnte eine Ausgleichung der Kriegslasten wohl nicht durch eine Kommission geschehen, wie sie 1812 in Thatigkeit gesetzt wurde, nachdem sie seit 18 10 versprochen worden war. Allein der Staat hätte durch Communikation mit den Ständen allerdings auf wenige , einfache und leicht zu übersehende Tatsachen einen solchen Ausspruch fällen und im Ganzen und Grossen die Quanta festsetzen können, um welche eine Pronviz mehr als die andere gelitten hätte. Das Gutachten der Abtheilungen des Staatsraths enthält auch darüber nützliche Winke.</p>
+
+               <p>Wenn indess das Königliche Staatsministerium der Meinung ist, dass an eine Ausgleichung, bei der wirklich gewissermassen jede Provinz das zurückerhielte, was sie mehr als eine andere geleistet hatte, nicht gedacht werden müsse, so stimme ich demselben durchaus bei. Ein solches Wiederherstellen des vorigen Zustandes ist eine unmögliche Sache.</p>
+
+               <p>Dagegen w^ar es sehr möglich und höchst praktisch, sobald es thunlich wäre, mit den Provinzen zusammenzutreten, um einerseits, wo es nöthig war, wie in Preussen geschehen ist, ihnen Hilfe zu geben, andrerseits ihre Schulden w^ahrhaft zu reguliren, und da es alsdann hierbei doch gar sehr darauf ankäme, inwiefern der Staat mehr oder weniger verpflichtet und (gegen seine übrigen Untenhanen) berechtigt war, den Provinzen aus seinen Mitteln zu Hülfe zu kommen, so wäre die Erwägung der Ausgleichung nach grossen Gesichtspunkten, bei welchen die Kriegslasten nur in ihren Hauptmassen genommen wurden, gewiss nicht von ge- ringer Erheblichkeit. Sie war es auch nicht in Rücksicht auf die öffentliche Meinung, da die Unterlassung dieser Operation jetzt den Streit der verschiedenen Provinzen darüber immer unentschieden lassen wird.</p>
+
+               <p>In dieser Beziehung hätte mir unter den Umständen, wie sie obgewaltet haben, die Ausführung der frühern Gesetze von 18 10 und 181 2 möglich geschienen, es konnte aber von denselben erst seit 1814 wieder eigentlich die Rede sein. In den früheren Jahren<pb n="12.462" xml:id="pbXII462"/> waren die Bedürfnisse und Verlegenheiten der Regierung und des Landes zu gross.</p>
+
+               <p>Die Frage stellt sich nun zwar allerdings sehr verschieden, wenn die Lasten, von welchen die Rede ist, von einer Gemeinheit contrahirte Schulden sind, und ich habe daher im Vorigen mit Fleiss immer nur von Lasten gesprochen.</p>
+
+               <p>Dass eine Ausgleichung der Kriegslasten nach Möglichkeit er- folgen müsste, scheint mir unumstösslich gewiss. Allein bei Schulden kommt die Handlung dessen, welcher sie contrahirt, hinzu, und es fragt sich, ob er sie machen durfte, und ob er sie hätte machen wollen ? War das Eine, oder Andre nicht der Fall, so kann allerdings kein Anspruch , am wenigsten ein Recht auf Entschädigung stattfinden.</p>
+
+               <p>Hiervon auf eine irgend spezielle Weise die Anwendung auf den vorliegenden Fall zu machen, ist so gut als unmöglich. Niemand kann jetzt den Faden des so verwickelten Schuldenwesens der Provinz so verfolgen, niemand sich herausnehmen zu sagen, dass so, oder anders hätte gehandelt werden können. Fände man auch einzelne Fälle auf, so würden sie nicht von wesentlichem Einfluss auf das Ganze sein. Die beiden Mittel, die hier, wenn man die höchste Strenge anwenden wollte, übrigblieben, wären</p>
+
+               <p>1. entweder die Rechte der Gläubiger umzustossen, oder</p>
+
+               <p>2. die Mitglieder der Corporation, die es zur Zeit der contra- hirten Schulden waren, allein verant\\^ortlich zu machen, und beide sind unanwendbar.</p>
+
+               <p>üeber das Erste ist es nicht nöthig, ein Wort mehr zu verlieren. Es kann darüber nur eine Stimme sein, dass man in dem Uebel auch gerade wieder die Hilfe dagegen finden und der Provinz durch die Aufrechthaltung ihres Credits eine Quelle neuen Wohl- standes anschaffen muss. Was das Zweite betrifft, so sehe ich nie ab, wie es, wenn es auch sollte gerecht genannt werden können, mit Erhaltung des Credits ausführbar wäre.</p>
+
+               <p>Ich muss bei dieser Gelegenheit bemerken, dass die Anwendung der Bestimmungen des Allgemeinen Landrechts Theil 2, Titel 6 § 107<note type="footnote" n="*)" resp="gnd-116890657"><hi>§ loy : Haben die Mitglieder einer Corporation zwar durch einen an sich rechtsbeständigen Schluss, oder zu einem Behufe, welcher nicht das fortwährende Beste der Corporation, sondern nur die gegenwärtigen Mitglieder betrifft, Schulden gemacht, so sind nur diese und ihre Erben zur Abtragung verpflichtet.</hi></note> doch vielleicht nicht unbedingt hierher passet. Die<pb n="12.463" xml:id="pbXII463"/> Wonc „2u einem Behufe, welcher nicht das fortwährende Beste der Corporation, sondern nur die gegenwärtigen Mitglieder betriflt". finden doch auf Contributionen, von denen, vorgespiegelter- massen, die Räumung des Landes abhängt, auf Abwehrung von Brand und Verheerung keine unbedingte Anwendung; die gesetz-, liehen Begriffe des Zwanges, und der Xöthigung kamen auch hinzu, und endlich würde die Anwendung schwer werden, da, wenn die Schulden alle damaligen Mitglieder der Corporation der Provinz d. h. alle ihre Einwohner, und ihre Erben verbindlich machen, doch eigentlich die ganze Provinz bis auf neuangekommene Mitglieder (von welchen auch § 109<note type="footnote" n="*)" resp="gnd-116890657"><hi>§ log: Dagegen ist die Weigerung eines neuen Mitgliedes, Beiträge zu Schulden von dieser Art zu übernehmen, für sich allein noch kein hinreichender Grund, demselben die Aufnahme zu versagen.</hi></note> ausdrücklich spricht) ver- pflichtet würden. Etwas anderes wäre es, wenn die ständischen Repräsentanten ihre \^ollmachten überschritten hätten.</p>
+
+               <p>Unstreitig ist es eine bessere, kräftigere und mehr vater- ländische Gesinnung, dem Feinde nichts zuzugestehen, als was er mit Gewalt nimmt, und keine Verpflichtungen für ihn der Nachkommenschaft aufzuladen. Allerdings haben die Provinzen, die sich möglichst vor Schulden bewahrten, allen Beifall, und alles Lob verdient. Allerdings müsste man, wenn in einzelnen Fällen Verwahrlosung oder strafbare Absicht Schaden angerichtet hätte, strenge Untersuchung verfügen. Allein welches auch die Geschichte der Entstehung der Schulden sein möchte (worüber übrigens actenmässig nichts feststeht, und die Provinzen sich voll- ständig rechtfenigen zu können behaupten) so würde dies, meines Erachtens, niemals einen so entscheidenden Einfluss auf die Behandlung des jetzigen Schuldenwesens im Ganzen haben, da es jetzt vorzüglich auf eine, dem allgemeinen und provinziellen Wohl angemessene Behandlung der Sache ankommt, und in der That das Schicksal der Gläubiger auf der einen, und das der Provinzen auf der andern Seite von der Entscheidung abhängt.</p>
+
+               <p>Um jede Rückkehr solcher Fälle zu verhüten, muss man alle Schulden dieser Art für alle Zeit als ungültig erklären, und die Rechte der Gläubiger, ehe sie entstehen, verrichten.</p>
+
+               <p>In dem vorliegenden Fall muss man übrigens nicht vergessen, wie auch beide Gutachten es bestimmt anführen, dass die Stände fast immer unter den Augen und mit Zuziehung einer Regierungs<pb n="12.464" xml:id="pbXII464"/>behörde handelten, und dass die Contrahirung von Schulden zur Bezahlung der Contributionen in dem System des Staats selbst für die Provinzen lag.</p>
+
+               <p>Da jedoch Schulden nur immer insofern auf Vergütung, oder Ausgleichung im Staatsverbande Anspruch machen können, als sie der reelle jMassstab der getragenen Last sind, so erschwert dies die thatsächliche Erörterung ungemein.</p>
+
+               <p>Indem ich nun darin von dem Königlichen Staatsministerio gänzlich abweiche, dass ich nicht zugeben könnte, dass der Staatsverband keine Titel darböte , die Aufhebung von Ueberlastungen wegen Kriegsschäden, und selbst wegen Schulden zu begründen, so bin ich doch der Meynung, dass es ein durchaus vergebliches Bemühen sein würde, in Zahlen ausdrücken zu wollen, was aus diesem Titel den verschiedenen Provinzen, von deren Schulden hier die Rede ist, zukommen möchte. Man würde bei Bestimmungen stehen bleiben müssen, die in so hohem Grade approximativ wären, dass es weit besser ist, sich derselben zu enthalten, und zur Bestimmung des Quanti der zu leistenden Hilfe andere Grundsätze aufzusuchen.</p>
+
+               <p>Ich glaube auch noch hinzusetzen zu können, dass der Weg, einer Provinz gerade den Betrag ihrer Ueberlastung zu erstatten, nicht der günstigste für irgend eine der unsrigen sein dürfte. Es könnten doch hier nur die alten Provinzen concurriren, und von diesen hat eigentlich keine wenig gelitten. Alle sind auf das härteste mitgenommen werden, und jede sehr wahrscheinlich bis an, und über den Punkt, den sie nur immer ertragen konnte.</p>
+
+               <p>Demungeachtet schien es mir wesentlich nothwendig, die hier aufgestellten Principien nicht unerörtert zu lassen. Sie sind, meines Erachtens, die einzige Grundlage, auf welcher die Zulässigkeit einer Uebernahme von Pro\dnzialschulden auf Staatskassen beruht; es ist, wenn man dieselben für wahr anerkennt, Pflicht gegen die Provinz, es auszusprechen, und es ist nicht unwichtig, selbst von den Verleihungen landesväterlicher Huld und Milde jede, auch leiseste Idee von Willkühr oder Parteilichkeit zu entfernen. [Die folgende, ins Einzelne gehende Kritik des Ministerialgutachtens bietet nichts allgemeiner Interessierendes.]</p>
+
+               <p>Ich glaube nicht, dass die Frage, wieviel der Staat von den einzelnen Provinzialschulden, von welchen hier die Rede ist, über<pb n="12.465" xml:id="pbXII465"/>nehmen muss, allein nach dem Gesichtspunkte des strengen Rechts beurtheilt werden kann. Da ein politischer Zweck, die Befreiung des Landes von Schulden, erreicht werden soll, so kommen vor- 2üglich Betrachtungen der Staatsklugheit dabei zur Sprache. Dies ist natürlich an sich, da Alles, was vom Staate ausgeht, immer durch die Idee des Gesammtwohls geleitet werden muss. Es ist den Allerhöchsten Cabinetsordres von 1807<note type="footnote" n="*)" resp="gnd-116890657"><hi>Sie ist vom 7. September und an die schlesischen Deputierten gerichtet; sie verspricht alles anzuwenden, um die Kriegslasten zu erleichtern, verlangt aber die schleunige Entrichtung der rückständigen Kontributionsgelder. Ähnliche Kabinettsordres ergingen an die anderen Provinzen.</hi></note> gemäss, die, wie ich schon oben bemerkt habe, auch hauptsächlich die Absicht aussprechen, dass der Staat für die Tilgung der Schuld Sorge tragen will.</p>
+
+               <p>Nun scheint es mir der Zweck des Staats sein zu müssen, €s wo möglich dahin zu bringen, dass keine seiner Provinzen eine Schuldenlast behalte, welche auf ihre Fähigkeit, die Staatslasten zu tragen, oder durch ihre Kräfte zum lebendigen Wohlstand des Ganzen mitzuwirken, einen bedeutend nachtheiligen Einfiuss ausübe. Denn kleine Ungleichheiten bleiben unschädlich. Der Staat kann sich nicht entbrechen, der überlasteten Provinz Abzüge von seinen Abgaben zu machen, darum entstehen Ungleichheiten in seiner Finanzverwaltung, und er muss für diese nach möglichster Gleichförmigkeit streben.</p>
+
+               <p>Aus diesem Grunde haben mehrere Staaten eine Consolidation aller Schulden vorgenommen, und alle Provinzialschulden in Staatsschulden verwandelt. Dies würde bei uns ein ganz und gar ver- w^erfliches System sein. Es wäre eine ungerechte Härte gegen einige Provinzen und eine unverdiente Erleichterung für andere; es häufte die Staatsschulden zu einer unbehülflichen Masse, und steigerte das Bedürfniss der Auflagen auf eine unabsehbare Weise.</p>
+
+               <p>Das entgegengesetzte System ist das, die Provinzen sich selbst 2u überlassen. Es zieht den doppelten Nachtheil nach sich, entweder, dass die Schuld nicht bezahlt wird, was durch das Stocken in den Capitalien dem Handel und gewerblichen Verkehr schädlich wird, oder dass die Provinz sich über ihre Kräfte anstrengt.</p>
+
+               <p>Der Mittelweg zwischen beiden Extremen ist, dass der Staat nur soweit hinzutrete, als nöthig ist, diesen zwiefachen Nachtheil zu vermeiden. Dagegen können die andern nicht verschuldeten</p>
+
+               <p>Humboldt Politische Denkschriften III. 30<pb n="12.466" xml:id="pbXII466"/> Provinzen keine lüage führen. Denn es ist ihr eigener Verlust^ wenn der Credit in bedeutenden Theilen des Landes stockt, oder eine ihrer Mitprovinzen kraftlos wird, da nur durch die verhält- nissmässig gleiche Kraft aller Theile das Ganze gehalten werden kann.</p>
+
+               <p>Wieviel der Staat gewinnen müsse durch vollständige Aufrechthaltung jedes bedeutenden und auf das Ganze einwirkenden Communalkredits , und durch allmähliche Schuldenbefreiung der Gemeinden, liegt am Tage, und ich nehme es daher als eine all- gemeine Maxime an, dass er durch die ganze Monarchie die Communalschulden zu tilgen suche, und wo es wahrhaft nöthig ist, durch Kredit, oder Geldzuschüsse verhältnissmässig hinzutreten muss. Wenn dies Hinzutreten in der Anwendung richtig^ verstanden ist, so wird es unfehlbar im Wohlstande des Landes angemessene Früchte bringen, und so wird daher auch das Land das herzugeben vermögen, was dazu augenblicklich erfordert wird.</p>
+
+               <p>Mit dieser Operation, die freilich nur allmählich sein kann, und die durch gute Communalverfassung, und strenge Verwaltung des Communalvermögens unterstützt sein muss, ist hernach eine gesetzliche Massregel zu verbinden, die Erklärung nämlich, dass alle Schulden von Gemeinden , welches auch die damit verbun- denen Formalitäten sein mögen, in sich selbst ungültig sind, welche contrahirt werden, um die Gemeinde einer Last zu entledigen, die eigentlich von den gegenwärtigen Mitgliedern getragen werden sollte. Bloss für nutzbare Anlagen dürfte die Verschuldung noch erlaubt bleiben, und auch in diesem Falle müsste die Verzinsung und Tilgung gleich durch die erste Anlage regulirt und gedeckt sein.</p>
+
+               <p>Diesen Grundsätzen gemäss, darf also der Staat nicht es dabei bewenden lassen, nach einem auch sonst noch so gerechten Princip die Provinzialschuld zwischen sich und der Provinz zu theilen, dann aber dieser die Deckung anheimzustellen, sondern er muss mit ihr gemeinschaftlich, wenn nämlich einmal, wie hier, die Nothwendigkeit seines Zutritts feststeht, die Regulirung vornehmen, und durchführen. Wieviel er zur Erreichung des oben angegebenen Zwecks, und innerhalb der erwähnten Schranken zu- schiessen muss, kann eigentlich erst der Versuch der Regulirung selbst ergeben. Vor diesem kann man nur muthmasslich feststellen, nur ein Minimum und Maximum bestimmen. Geschieht die Regulirung auf diese Weise, so wird weder die betheiligte Provinz leicht Ivlage führen können, noch der<pb n="12.467" xml:id="pbXII467"/> Ueberrest des Landes; jene nicht, weil sie fühlen wird, dass ihr nur eine erträgliche Last auferlegt ist; dieser nicht, weil er ein- sehen wird, dass sie bedeutend mehr nicht hätte tragen können. Verarmende Provinzen sind ein viel grösserer Nachtheil für das Ganze, und auf eine bis in jeden kleinsten Theil fühlbarere Weise, als es die Opfer sein können, welche der Staat wegen der Provin- zialschulden übernehmen muss.</p>
+
+               <p>Wenn auch der Staat definitiv nicht mehr übernähme, als das Gutachten vorschlägt, so dürfte die Massregel doch mehr Zufriedenheit erregen, wenn damit doch auch die Angelegenheit wirklich beendet wäre, als jetzt wo, indem die Provinz das Resul- tat erfährt, sie über die Möglichkeit der Abänderung der übrigen Last noch gänzlich ungewiss bleibt. Die Regierung handelt milder, wenn sie wirklich die Tilgung mit der Provinz regulirt, als wenn sie, nach näherer und einseitiger Bestimmung ihren Theil übernimmt, und nun die Provinz gleichsam sich selbst überlässt. [Die folgenden Aiisführungeti gehen spe-iell auf Kur- und Neumark, Ostpreußen und Königsberg ein]</p>
+
+               <p>Auf diese Weise habe ich, nach sorgfältiger Ueberlegung, mein nachträgliches Gutachten abgeben zu müssen geglaubt.</p>
+
+               <p>Ew. Königliche Hoheit und Ein Königliches Staatsministerium werden daraus geneigtest ersehen, dass ich zur Uebernahme von Communal- und Provinzialschulden zwei Fundamente annehme: den Domainenbesitz und die Ueberzeugung, dass eine Commune oder Provinz sich ihrer Schulden allein nicht entledigen kann, ohne von ihrem Wohlstande herabzusinken, und dass es daher vor allen Dingen meine Meinung ist, dass die Bestimmung, welchen Theil der Provinzial- oder Communalschuld der Staat übernehmen soll, nicht anders definitiv geschehen kann, als indem die Verzinsung und Tilgung der Schuld selbst regulirt wird. Darin, dass dies hier getrennt worden ist, scheint mir der Grund zu liegen, dass es, wie ich vvenigstens bei dieser Arbeit in vor- zügUch hohem Grade empfunden habe, so schwer wird in der gegenwärtigen Sache eine bestimmte Entscheidung über jeden der darin berührten wesentlichen Punkte zu fällen.</p>
+
+               <p>Berlin, den November 181 9. H.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aratos' Phainomena</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Achter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif08humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1909">1909</date>
+                  </imprint>
+                  <biblScope unit="page" from="261" to="266"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1816">1816</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="8.261" xml:id="pbVIII261"/>
+            <head>
+               <title type="main">Praxagora.</title>
+            </head>
+            <p>Nichts brauchst Du zu fürchten , kein Streit ist alsdann mehr.</p>
+
+            <p>Blepyros. 645 Und warum?</p>
+
+            <p>Praxagora. Um der Liebe verbotene Lust. Frei l^annst im Genüsse Du schwelgen. Wohl haben wir diess nun mit Weisheit erdacht. Denn aufs gründlichste ist nun auf ewig, dass nicht Einer der Schooss leer bleibe,, gesorgt.</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">Blepyros.</title>
+               </head>
+               <p>Wie aber ergeht es den Männern? Denn es werden die Weiber die Hässlichen fliehn, und allein nach den Schönen nur laufen.</p>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">Praxagora.</title>
+               </head>
+               <p>Nicht doch, es lauern alsdann die Hässlichen auf, wenn vom</p>
+
+               <p>Schmause zurück nun die schönsten 6=;o Jünglinge kommen und so auch wiederum harr'n an den Ecken der Gassen und Märkte die verschmäheten Männer, und kein Weib darf sich zur</p>
+
+               <p>Seite dem Schöneren legen, bis erst sie die Kleinen und Garstigen all', nach der Reihe, genügend bedienet.</p>
+            </div>
+
+            <div type="section" n="3">
+               <head>
+                  <title type="main">Blepyros.</title>
+               </head>
+            </div>
+
+            <div type="section" n="4">
+               <head>
+                  <title type="main">Praxagora.</title>
+               </head>
+               <p>Volkliebend, Ha! scheint beim Apollon der Rath, und gar treflich nun können wir spotten 655 der so mächtig sich brüstenden Herrn, die stolz und mit</p>
+
+               <p>Ringen beladen einhergehn. Denn kurz ist, wenn einer nun kommt, der Bescheid: „Erst dem Früheren weiche, und warte, bis, wenn ich behaglich vollendet das Werk, ich zum zweiten sie Dir übergebe."</p>
+
+               <pb n="8.262" xml:id="pbVIII262"/>
+            </div>
+
+            <div type="section" n="5">
+               <head>
+                  <title type="main">7- Aratos' Phainomena.</title>
+               </head>
+               <p>Zeus sey unser Beginn, den nimmer wir wollen, ihr<note type="footnote" n="^)" resp="gnd-116890657"><hi>„günstig" verbessert aus „heilsam". "j In der Handschrift: „jeglichen".</hi></note> Männer, preislos lassen; erfüllet von Zeus sind jegliche Pfade, jegliche ^) Völkerversammlung der Menschen, das Meer ^) und die Häfen seiner erfüllt; allwärts Zeus immer bedürfen wir alle.^) Denn des Geschlecht auch sind wir; er aber, gewogen den Menschen, rechtsher kündiget günstig, erwecket die Völker zur Arbeit, mahnend des Lebensbedarfs sie, verheisst, wann tauglich die</p>
+
+               <p>Scholle ist für den Stier und die Hacke, verheisst, wann günstig^) die Stunden zu der Gewächs' Umgrabung, und jederlei Samen zu streuen. Denn selbst hat an den Himmel geheftet er solcherlei Zeichen, sondernd die hohen Gestirne, gewählt sorgsam auf das Jahr hin Sterne, die jegliches *^) Werkes Beginnen am besten den Männern zeigten, dass fehllos alles gezeitigt beständig ^) erwüchse. Darum sie ihn auch immer, den ersten und letzten versöhnen. Handschrift ohne Titel (j Folioseiten) im Archiv in Tegel. Ebenda ist eine Reinschrift der ersten j8 Verse (i Folioseite) erhalten. V In der Handschrift: „wir". ^) jjegliche" verbessert aus ,Jede". y „das Meer" verbessert aus „die Wogen des Meers". *j „Zeus — alle" verbessert aus „stets alle des Zeus wir bedürfen". 'j „gezeitigt beständig" verbessert aus „gezeitiget immer".<pb n="8.263" xml:id="pbVIII263"/> 15 Sey mir, Erzeuger, gegrüsst, du der Menschen Bewundrung und Labsal,</p>
+
+               <p>Du,<note type="footnote" n="^)" resp="gnd-116890657"><hi>„man berichtet" verbessert aus „sie berichten".</hi></note> und der Frühergewordnen Geschlecht, seyd, Musen, gegrüsset, sanftholdselig ihr alle zumal! da die Sterne zu singen ich, wie es Recht, mir erflehe, so leitet den ganzen Gesang mir! Diese zugleich unzählig, und andere anders verstreuet, 20 werden am Himmel gewälzt, unablässig, an jeglichem Tag stets.</p>
+
+               <p>Doch es bewegt nie fort, auch nicht sich ein wenig, es haftet fest so ewig die Axe, und hält gleichschwebend nach allen</p>
+
+               <p>Seiten die Erd' in der Mitte; um jene sich drehet^) der Himmel.</p>
+
+               <p>Und zwei Pole sie enden, sich gipflend an jeglicher Spitze. 25 Nicht ist sichtbar der eine, allein der entgegen ihm, ragt hoch nordwärts her aus Okeanos Flut ; um ihn laufen zugleich stets die zwei Bärinnen kreisend ; '■^) drum auch sie ^) die Wagen sie heissen.</p>
+
+               <p>Die nun halten beständig die Köpfe gewandt zu den Hüften, eine der andren , und wälzen sich fort stets Schulter an</p>
+
+               <p>Schulter 30 rückwärts über zur Seite gekehrt. Wenn wahr man berichtet,-^) schritten von Kreta jene durch Zeus, des Erhabenen, Willen ein zu dem Himmel empor, weil einstmals, als er, noch Knabe, weilet' im duftenden Diktos, sie nah dem Idaeischen Berg- wald in das Geklüft ihn verbargen, und dort ihn ernähret' ein Jahr durch 35 die Diktaeische Schaar der Kureten, da Kronos sie täuschten. Und Kynosura die eine mit eigenem Namen man nennet, aber die andr' Helike; Helike den Achaiischen Männern y In der Handschrift: „selbst". ^J ,Jene sich drehet" verbessert aus „sie dreht um sich", y „um — kreisend" verbessert aus „Zwei Bärinnen laufen um ihn im Kreise zugleich".</p>
+
+               <p>*■) „sie" ver-bessert aus „man".</p>
+
+               <pb n="8.264" xml:id="pbVIII264"/>
+               <p>dienet zum Zeichen im Meer, wo man muss hinsteuern die Schiffe ; doch die Phöniker durchschneiden auf jene vertrauend die</p>
+
+               <p>Salzflut. 40 Rein ist diese, und immer bereit, dass man leicht sie er- schauet, hell Helike herfunkelnd vom ersten Ergrauen <note type="footnote" n="^)" resp="gnd-116890657"><hi>„diese — Kopf" verbessert aus „ihr um den Kopf dort dies'". *J „einiger" verbessert aus „einziger".</hi></note> der Nacht an. Zwar ist klein nur die andre, allein für die Schiffenden besser, weil, eng kreisend, sie ganz in geringerem Wirbel sich um- dreht.</p>
+
+               <p>Drum am geradesten auch die Sidonier seegeln von allen. 45 Zwischen die beiden hindurch, wie ein Arm, der vom</p>
+
+               <p>Strome sich abreisst, wälzt,'-) ein mächtiges Wunder, der Drache, sich durch sie, und um sie brechend unzählig; ihm haften zu jeglicher Seite der Windung die Bärinnen, sich wahrend Okeanos bläulicher Fluten. Aber er schneidet die eine nur ab mit dem äussersten Schwänze, 50 doch mit der Windung umschlingt er die andre; die Spitze des Schwanzes ruht dicht neben dem Kopf Helikes, der gewaltigen Bärin; drin in der Windung hält Kynosura das Haupt, und es dreht sich diese ihr dort um den Kopf^) und gelangt ihr bis hin zu dem Fusse.</p>
+
+               <p>Drauf rückkehrend aufs neu, steigt wieder empor er, und nicht ihm 55 strahlt, einsam herfunkelnd, ein einiger^) Stern nur am Kopfe; zwei an den Schläfen, und zwei an den Augen ihm leuchten, und drunter am Kinnbacken des grässlichen Thiers nimmt einer den</p>
+
+               <p>Rand ein.</p>
+
+               <p>Seitwärts neigt sich das Haupt, ganz über zu beugen sich scheinend nach Helikes Schwanzspitze ; allein zu der eigenen schnurgrad<pb n="8.265" xml:id="pbVIII265"/> 60 Stehet der Rachen gekehrt, und die rechte der Seiten des<note type="footnote" n="*)" resp="gnd-116890657"><hi>V „Ergrauen" verbessert aus „Erdunkeln". y In der Handschrift: „wälzt sich".</hi></note></p>
+
+               <p>Schlafes.</p>
+
+               <p>Dort nun schwimmet dies Haupt,<note type="footnote" n="^)" resp="gnd-116890657"><hi>Nach „Mühe" gestrichen : „sich". *J „heissen" verbessert aus „nennen". ^) „es" verbessert aus „ihn".</hi></note> wo eben am äussersten Saume sich mit einander vermischen die Pfade des Unter- und</p>
+
+               <p>Aufgangs.</p>
+
+               <p>Nah dort,-) ähnlich dem Mann, der mit Mühe^) anstrenget die Kräfte, wälzt ein Gebild sich das niemand weiss zu benennen mit</p>
+
+               <p>Klarheit, 65 noch was die Arbeit ist, der es obliegt, sondern sie heissen ^)</p>
+
+               <p>Denaufdenknieen es ^) bloss, weil müd' ausruhend im Knieen niederzuhocken er scheinet; er hebt^) hoch über die ') beiden Schultern die Hände, die breit hierhin sich erstrecken und dorthin klafterentfernet; zugleich hält über der Mitte der Scheitel 70 er dem gewundenen Drachen die Spitze des Fusses, des rechten.</p>
+
+               <p>Dort auch drehet die Krone , die ^) strahlend gesetzt</p>
+
+               <p>Dion3'SOS herrlich ein Zeichen zu se3'n, als dahin Ariadne geschieden, dicht ^) an dem Rücken herum sich des arbeitmüden Gebildes. Dicht an dem Rücken ihm nahet die Krone , die Scheitel des Kopfes 75 siehest du neben dem Kopfe des Trägers der Schlang', und an jenem kannst du gewahren ihn selber, den glänzenden Träger der</p>
+
+               <p>Schlange.</p>
+
+               <p>Also ihm lichtreich unter dem Kopfe die glänzenden Schultern hell herscheinen; es sind ^°) auch am monattheilenden V^oll- mond</p>
+
+               <p>V Nach „Haupt" gestrichen: „in der Fläche".</p>
+
+               <p>""-) Is'ach „dort" gestrichen: „wälzet sich".</p>
+
+               <p>"/l „hebt" verbessert aus „hält".</p>
+
+               <p>') „die" verbessert aus „den". V „die Krone, die" verbessert aus „der Kranz, den". ^) „dicht" verbessert aus „nah".</p>
+
+               <p>'*y „sind" verbessert aus „wären" aus „sind".</p>
+
+               <pb n="8.266" xml:id="pbVIII266"/>
+               <p>gleich gut jene zu schauen, doch nicht ganz gleich so die Hände. 80 Denn nur gering läuft über die eine und andere Schimmer.</p>
+
+               <p>Aber man sieht dennoch auch diese, da nicht sie so leicht sind.</p>
+
+               <p>Beid' arbeiten ^) bemüht um die sträubende Schlange, die mitten windend umwirbelt den Träger; doch er steht, sicher ge- heftet,-) fest auf den Füssen, und drückt das gewaltige Thier mit den beiden<note type="footnote" n="*)" resp="gnd-116890657"><hi>V „arbeiten'' verbessert aus „arbeitend".</hi></note></p>
+
+               <p>2j „sicher geheftet" verbessert aus „haltend sich sicher".</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

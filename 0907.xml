@@ -1,0 +1,258 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Weibertreue</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Neunter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif09humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1912">1912</date>
+                  </imprint>
+                  <biblScope unit="page" from="72" to="81"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1809">1809</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="9.72" xml:id="pbIX72"/>
+            <p>7-</p>
+
+            <head>
+               <title type="main">Weibertreue.</title>
+            </head>
+            <p>Wie eine Pflanze, die, des Südens Zonen entrissen, unter fremdem Himmel spriesst, wenn auch des Nordens Stürme sie verschonen, doch furchtsam nur und bang die Zweige schiesst; 5 so ist das Weib, — in höhern Regionen, die wolkenloser Aether rein umfliesst, bestimmt in ewger Klarheit frei zu thronen, — ein Fremdling nur, der diesen Boden grüsst. Wie zart und rein ihr Busen ist besaitet, lo fühlt nicht der Männer irrdisches Geschlecht; wie sie mit scheuem Fuss durchs Leben schreitet, stösst sie auf Rauhheit und auf schroffes Recht; zur eignen Brust nur kehret ungeschwächt der zartste Laut, der himmlisch ihr entgleitet. 15 Drum wundert nicht euch, wenn von Ernst geleitet, nur Trauerweisen dem Gesang entklingen,</p>
+
+            <p>Handschrift (18 Quartseüeti) im Archiv in Tegel. Der Titel steht dort über Sonett j, da die Sonette j — 14, mit römischer Sonderzählung (I — XIIJ versehen, später ohne die übrigen ein Ganzes für sich bilden sollten. Von dem Eingangs- soneit ist eine Abschrift (i Quartseite) erhalten ; nach Humboldts Brief an Karoline vom 4. August i8og der erste Druck: Wilhelm imd Karoline von Humboldt in ihren Briefen j, 20g figog).</p>
+
+            <p>I „Wie eine" verbessert aus „So wie die"; „des Südens" verbessert aus „Hesperiens". — ^ „Stürme" verbessert aus „Lüffte]". — g „zart" verbessert aus „leis" ; „ihr Busen ist" verbessert aus „ist ihre Brust" (so im Brief und in der Abschrift). — // „sie" verbessert aus „zart". — 12 „Rauhheit" verbessert aus „Rohheit''. — /j. 14 zuerst umgekehrt (so auch im Brief und in der Abschrift). — ij „zur — kehret" verbessert aus „kehrt nur zum eignen Busen" (so im Brief und in der Abschrift). — 14 nach dem ersten „der" gestrichen: „Laute".</p>
+
+            <pb n="9.73" xml:id="pbIX73"/>
+            <p>wenn Schmerzen tief zu eurem Herzen dringen, die auch der Beste oft dem Weib bereitet.</p>
+
+            <p>Im Kampf, wo Kränkung schwach mit Liebe streitet, 20 sah ich die Armen oftmals leidend ringen, und mit dem Blick, der Mitleid rings verbreitet, sich immer selbst zum sauren Opfer bringen. Was ich geschauet, soll mein Lied nun klagen, und an mir selbst die eignen Schulden rächen, 25 wenn los mich sollte auch mit Hulden sprechen, der ich, der Liebe schönste Frucht zu brechen, mich früh vermählt in seiger Jugend Tagen, zu der sich schüchtern diese Töne wagen.</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">I.</title>
+               </head>
+               <p>Also hat die Stunde denn geschlagen, 30 wo ich, frei von diesen nächtgen Plagen, aus dem Bett den glühnden Fuss darf setzen, nicht mehr brauche fremde Lust zu letzen, die, der Thränen, die mein Kissen netzen, achtend nicht, sucht mir verhasst Ergetzen? 35 Lang schon sah' ich sehnsuchtsvoll es tagen, hinterm Hause dort die Strahlen ragen, durfte mich den Armen nicht entwinden noch, die mich mit herrisch kaltem Schweigen streng an herber Pflichten Uebung binden. 40 Möchtst Du langsam dich zum Abend neigen, hehres Licht! denn bei des Tags Verschwinden muss ich wieder dieses Bett besteigen!</p>
+
+               <p>2.</p>
+
+               <p>Ist denn dies Recht auch ihm eingeräumet, mir die Sinne tief so zu empören? 45 wenn die Lust empor in ihm sich bäumet,</p>
+
+               <p>■24 nach „und" gestrichen: „selbs[t]". — 26 „der ich" verbessert aus .,die, um mit mir". — 27 „mich früh" verbessert aus „ich mich"; „seiger" verbessert JUS .Jenen selgen". — 29 „hat die" verbessert aus „hast du". — jo „ich, frei" verbessert aus „befreit". — ^4 „mir" verbessert aus „ein" aus „sein". — 97 nach „mich" gestrichen: „noch". — 4j nach „Ist" gestrichen: „ihm".— 44 „tief" verbessert aus „wild'^ aus „tief.</p>
+
+               <pb n="9.74" xml:id="pbIX74"/>
+               <p>in mir selbst mich selber zu bethören, ähnlich der, die schwere Träume träumet?</p>
+
+               <p>Gnügts nicht, wenn sich gegen mich verschwören seine Lüste, duldsam ihn nicht stören? 50 Muss erglühn auch ich, wenn auf er schäumet?</p>
+
+               <p>O! wie konntest so verhasste Gluten ein dem armen Weibe, Gott, du hauchen? Ach! in tausend bittre Thränenfluten möcht' ich diese schnöden Glieder tauchen, 55 die, wenn Seel und Herz vor Kummer bluten, mit in frevelvoller Hitze rauchen!</p>
+
+               <p>„Komm, dass, Weib, ich dich umfah' aufs Neue, froh mir eines Erben Samen streue, und die vielen Töchter dir verzeihe!" 60 Also schrieb er, und ich kam mit Treue.</p>
+
+               <p>(3hne Gruss und Wort Hess er mich stehen, rief zur Kammer mich; was da geschehen, davon zeugen herb die bangen Wehen, die nun bald durch Mark und Bein mir gehen. 65 Sprach dann: „jetzt kannst du nach Hause fahren, nimm in Acht dich, wohl es zu bewahren; auch ein schwangres Weib darf Müh' nicht sparen." Und ich fühlte bald drauf seiner Lenden</p>
+
+               <p>Stärke Mühe mir und Schmerzen senden, 70 die vielleicht ein bittrer Tod wird enden!</p>
+
+               <p>4.</p>
+
+               <p>„Einen Knaben hab' ich dir geboren, theurer Mann, und säug' ihn an den Brüsten, welche oftmals deine Lippen küssten, als du mich zuerst zum Weib erkohren.</p>
+
+               <p>4g „Lüste^^ verbessert aus „Sinne"'. — ^o nach „Muss'' gestrichen: „auch^\ — 57 „dass, Weib'^ verbessert aus „0 Weib, dass'-; „umfah"' verbessert aus „schwängr"". — 6j „bangen'' verbessert aus „grossen". — 64 „Bein mir" verbessert aus „Beine". — 68 „ich" verbessert aus „bald''; „bald drauf verbessert aus jjetzo" aus „nun", — 6g „Stärke" verbessert aus „Samen". — j4 „zum Weib" verbessert aus „zur Braut".<pb n="9.75" xml:id="pbIX75"/> 75 Furchtbar litt ich; doch nicht will ich brüsten mich mit meiner Pein vor deinen Ohren.</p>
+
+               <p>Wieder haben wir, was wir verloren ! Sprich nur, ob ich soll zur Fahrt mich rüsten, ihn dir bringend fragen, still geneiget, 80 wie soll heissen, den du stark gezeuget?"</p>
+
+               <p>Also ich, und so der Antwort Zeilen: „Er heisst Franz; wann du ihn ausgesäuget, werden Frauen ihn zu holen eilen; dein bedarfs nicht; du kannst dort verweilen!"5* S5 Der, die Freistatt ihm im Schooss gewähret, und an ihrer</p>
+
+               <p>Brust ihn gross genähret, nun bedarfs nicht mehr; des Vaters</p>
+
+               <p>Rechte fordert ab ihn; lässt sie gramverzehret.</p>
+
+               <p>Ach ! indess beim frohen</p>
+
+               <p>Mahl er zechte,</p>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">90</title>
+               </head>
+               <p>sass sie auf die langen</p>
+
+               <p>Winternächte, ohne dass sie Ruhe je begehret von der Mühe, die den Körper schwächte. Einsam sitzt sie nun auf Einer Stelle, wähnt zu sehen noch der kleinen Glieder 95 Zappeln, blickt zum leeren Schoosse nieder, wehrt umsonst der heissen Thränen Quelle, aber hofft, dass, umgewandt, sie wieder ihm und sich der strenge Mann geselle.</p>
+
+               <p>6. Jahre hatte trauernd sie geschwiegen, loü doch vermag nicht ruhig mehr zu bleiben, und beschliesset, bittend ihm zu schreiben: „Theurer Mann, verzeih, wenn angstvoll Treiben, Gram und Unruh Pflicht und Scheu besiegen, wenn du siehst mich weinend vor dir liegen, 105 um Erlaubniss flehn dir zu zu fliegen,</p>
+
+               <p>75 „doch — i'c/j" verbessert aus „aber nicht }}iich^'. — So „soll heissen" verbessert aus „du 7tennen willst]". — 92 „den Körper'^ verbessert aus „die Glieder^'. — g8 „strenge^^ verbessert aus „hart&amp;\ — Nach loj gestrichen: „und mit bangen (aus „Thränen"), heiss benetzten Zügen". — 104 „wenn — weinend" verbessert aus „du dein Weib siehst ßehend". — lo^ „Erlaubniss" verbessert aus „Ver- gfebung]"; „dir zu" verbessert aus „zu dir".</p>
+
+               <pb n="9.76" xml:id="pbIX76"/>
+               <p>und mich gegen dein Gebot mich sträuben. Bin ich werth auch nicht, zu dir zu kehren, mögst du doch des Mutterherzens schonen und mir mit des Knaben Anblick lohnen!" HO Er versagt es, schreibt, den Gram zu mehren: „Dir geziemet einsam fern zu wohnen, und gehorchend mein Gebot zu ehren."</p>
+
+               <p>7Und wie sie, versenkt in tiefe Trauer, an dem stillen</p>
+
+               <p>Kammerfenster sitzet,</p>
+            </div>
+
+            <div type="section" n="3">
+               <head>
+                  <title type="main">115</title>
+               </head>
+               <p>schaut ein Ritter sie, der Jagd-erhitzet ruhet an des Schlosses hoher Mauer.</p>
+
+               <p>Plötzlich da ergreift ihn Liebesschauer; wie ein Strahl ihm durch die Seel' es blitzet: „die da weinet, auf den Arm gestützet, I20 sey die Meine auf des Lebens Dauer!</p>
+
+               <p>Doch der trübumwölkten Blicke Leiden zeugt nicht von der Jungfrau holder Blüthe; ach ! gekostet hat sie fremde Freuden, und zu spät für sie mein Herz erglühte!" 125 Aber festgewurzelt im Gemüthe trägt er sie, kann nicht vom Platz mehr scheiden.</p>
+
+               <p>8.</p>
+
+               <p>Als gewahr sie ward sein Gehn und Kommen, hatte sie mit Sorgfalt ihn gemieden. „Nicht mir stören soll der Seele Frieden 130 fremde Neigung!" sprach sie bang beklommen.</p>
+
+               <p>Meiden kann nicht gegen Liebe frommen, und was Eins ist, findet sich hienieden.</p>
+
+               <p>106 „dein Gebot'' verbessert ans „eignes WorV^ aus „eignen Vorsatz". — loj „Bin — nicht" verbessert aus „Doch bin umverth ich". — 108 „mögst" verbessert aus „lass". — lOg „mir^^ verbessert aus „mich" aus „mir"; „Anblick lohnen" verbessert aus „Blick belohnen" aus „Anblick lohnen". — /// nach „geziemet" gestrichen: „fern". — 112 „und" verbessert aus „zu". — iis &gt;,5?e" verbessert aus „von". — 116 „ruhet" verbessert aus „ruhend". — iij „Plötzlich — ergreift" verbessert aus „sie, und plötzlich fasst". — 121 nach „der" gestrichen: „Blicke". — iji „Meiden — Liebe" verbessert aus ./gestrichen: „Aber Meiden") Doch (aus „Was") kann gegen Liebe Meiden".</p>
+
+               <pb n="9.77" xml:id="pbIX77"/>
+               <p>Ist sie lang von seinem Blick geschieden, war ihr Bild nicht seiner Brust entnommen. 135 Wie, wer scheitert, an des Schiffes Trümmer, hält er fester an der theuren Stelle, schauet nach der matterhellten Zelle, bis er dunlcel einstmals fand das Zimmer, und an ihrer Gartenthüre Schwelle 140 ihr begegnete bei Mondesschimmer.</p>
+
+               <p>9Glücklich waren Wochen hingeschwunden, und in traulichen Gespräches Feier hatten seiner Liebe tiefe Wunden linden Balsam ihrem Schmerz gefunden. 145 Er auch wurde ihrem Herzen theuer, und ein Himmel schuldlos milder, neuer Freuden ging ihr auf in süssen Stunden, und sie wurden treuer sich und treuer.</p>
+
+               <p>Doch sie fühlte plötzlich Liebe keimen, 150 sah, dass glühen, und doch Glut vermeiden ist ein eitel und vergeblich Träumen. „Theurer Adolph, ach! wir müssen scheiden, lass mich Strafbare nicht länger säumen!" sprach sie, und vergrub sich in ihr Leiden.</p>
+
+               <p>10. 155 \'orwurf nagte nun mit Natterbissen an dem banggeängsteten Gewissen, und es fand sie oft auf wunden Knieen noch der Morgen bei der Nacht Entfliehen. Einsam trauert ihres Bettes Kissen, 160 Speis' und Schlummer will sie büssend missen.</p>
+
+               <p>77 j^6 nach „er" gestrichen: ,.fest an seiner und". — i^-] zuerst: „schaut, dass Sehnsucht mehr das Herz ihm schwelle". — ij8 „einstmals fand'" verbessert aus ..findet einst''; zuerst: „nach der Lampe Schein im kleinen Zimmer". — ijg „und an ihrer'' verbessert aus „bis er an der". — 140 „begegnete" verbessert aus „begegnet einst"; „bei" verbessert aus „im" aus „bei". — 14g „Doch sie" verbessert aus „Aber plötzlich"; „plötzlich" verbessert aus „sie". — i^o „doch Glut vermeiden" verbessert aus „die Glut doch lyieiden". — 756" „banggeängsteten" verbessert aus „wildgeängsteten" .</p>
+
+               <pb n="9.78" xml:id="pbIX78"/>
+               <p>Leichter, denkt sie, wird die Schuld verziehen den Belasteten mit Schmerz und Mühen. Und noch mahnt sies in der irren Seele, sich zu werfen zu des Mannes Füssen, 165 zu bekennen die begangne Fehle, dass er Strafe, hart und ernst, ihr wähle.</p>
+
+               <p>„Nach dem Fehltritt kann nur strenges Bussen", seufzt sie, „noch des Weibes Qual versüssen.<note type="footnote" n="11.^)" resp="gnd-118554727"><hi></hi></note></p>
+
+               <p>Doch selbst auferlegte Schmerzen büssen 170 kann ich, und was schuldig ich verbrochen, sey mit Striemen an dem Fleisch gerochen!</p>
+
+               <p>hat es Lust gesucht, mag Pein ihm spriessen." Eilig lässt sie einsam ein sich schliessen,</p>
+            </div>
+
+            <div type="section" n="4">
+               <head>
+                  <title type="main">und vom Augenblick, wo sies gesprochen, 175 Tag für Tag in schmerzensreichen Wochen</title>
+               </head>
+               <p>unter Streichen ihre Thränen fliessen.</p>
+
+               <p>Sich enthüllen müssen nackt die Glieder, und sie schwingt mit unbarmherzgen Händen selbst die Ruth' auf Rücken, Arm' und Lenden. 180 Aber Angst und Unruh kehren wieder; reuig will sie doch zum Mann sich wenden, und bang wogt ihr Busen auf und nieder.</p>
+
+               <p>12.</p>
+
+               <p>Wie sie zweifelnd mit dem Vorsatz ringet, und der Zweifel noch die Pein vermehret, 185 kommet Botschaft, dass zurück er kehret, und zurück ihr ihre Kinder bringet. Freude nun ihr armes Herz verjünget.</p>
+
+               <p>„Mein ist wieder, den ich tief verehret,</p>
+
+               <p>16^ „irren" verbessert ans „bangen". — 166 „hart und ernst" verbessert aus „ernst und hart". — 170 „schuldig" verbessert aus „strafbar". — 172. ijß zuerst umgekehrt. — 172 zuerst: „wo die schärfsten Birkenreiser spriessen". — /7j zuerst: „Eilig Hess die Kammer sie verschliessen" . — i-]4 .„Augenblick, wo sies" verbessert aus „Tag, wo sie das Wort". — 176" „unter Streichen ihre" verbessert aus „Ströme Bluts mit ihren". — 182 „bang" verbessert aus „in Zweifeln"; „ihr" verbessert aus „der". — iSs „kommet" verbessert aus „kommt ihr".</p>
+
+               <p>V Dieses Sonett ist am Ende hinter den Terzinen nachgetragen; ich habe die Numerierung im folgenden entsprechend geändert.</p>
+
+               <pb n="9.79" xml:id="pbIX79"/>
+               <p>da der Trennung Kelch ich ausgeleeret; 190 Liebe wieder mich und ihn umschhnget. —</p>
+
+               <p>Doch wie wird der Strenge mich empfangen?</p>
+
+               <p>Führt ihn wirklich sehnendes V^erlangen, oder kehrt er kalt in meine Arme?</p>
+
+               <p>Ach! mit Inbrunst will ich an ihm hangen, 195 ihm erzählen von dem langen Harme, dass er mild sich seines Weibs erbarme!"</p>
+
+               <p>Da nun ist er. Monde kommen, schwinden, und sie hört nur kurz und ernst Befehlen, darf nur des Gehorsams Loos sich wählen, 200 und doch nimmer auf Verzeihung zählen.</p>
+
+               <p>Tag' und Nächte muss sie ab so winden, und vom strengen Dienst sie zu entbinden, können Bitten nicht Erhörung finden,</p>
+
+               <p>Thränen nicht, die sich dem Aug' entstehlen. 205 Dennoch wandelt ewig unverdrossen sie den Pfad, den Dornen rings umsprossen, trägt geduldig, spart kein Gehn und Kommen, wenn ihr Dienst nur mag dem Theuren frommen; und sein Aug' hat ihre Hand geschlossen, 210 eh' er ihrer Klage Laut vernommen.</p>
+
+               <p>14.</p>
+
+               <p>Einsam waltet sie im Hause wieder, blicket starr zum stillen Rasen nieder, und mit nächtlich düsterem Gefieder deckt der Schmerz die schwarzumhüllten Glieder. 215 Adolph hört sie sich zurückgegeben; darf noch Hofnung durch die Brust ihm beben? Ach ! vergeblich ist sein eitles Streben ; nur dem Gram will die Verwaiste leben. Monde sich indess zu Jahren thürmen; 220 rasch die Söhne schon ins Leben stürmen,</p>
+
+               <p>20J „Bitten'^ verbessert aus „U'or/e". — 204 „sich'^ verbessert aus „aus". — ■20J nach „kein" gestrichen: „mühvoU". — 209 „sein — Hand'^ verbessert aus „es hat sein Auge sich''. — 216 „durch — beben" verbessert aus „ihm den Busen heben".</p>
+
+               <pb n="9.80" xml:id="pbIX80"/>
+               <p>treue Gatten mild die Töchter schirmen.</p>
+
+               <p>Und die Mutter schwingt des Geistes Flügel frei nun, und von ihrem Grabeshügel blüht die Lilie, reiner Treue Siegel.</p>
+
+               <p>15225 Der Liebe Zartheit und des Geistes Adel keimt nicht bloss da, wo Gold und Reichthum blinken; rein, wie der Bach, und sonder Fehl und Tadel ist oft auch die, der bei des Abends Sinken, wenn sie den langen Tag in Schweiss durchfrohnet, 230 nur schwarzes Brot und hartes Lager winken.</p>
+
+               <p>Ein Herz auch unterm groben Kittel wohnet, in das Natur den reichen Schatz gesenket, den höchsten, mit dem Mensch dem Menschen lohnet, das rücksichtslos sich dem Geliebten schenket, 235 und in des Lebens engbefangnem Gleise am Aetherduft der Himmelsliebe tränket. So warst in deines Hauses kleinem Kreise du, stilles Tagelöhnerweib, Rosine, begleitend auf des Lebens saurer Reise, 240 mit stets geduldig demuthsvoller Mine, den Mann, dem dich dein Vater früh gegeben, dass unterwürfiger dein Arm ihm diene. Der Strenge, gegen den kein Widerstreben, kein Flehen galt, kein rührend Bitten, 245 sprach : „dieses ist der Mann, mit dem zu leben ich dir befehle !" und gehorchen mitten in Thränen musste sie und Jammer, wie sehr dagegen Herz und Neigung stritten. Auf ihren Knieen fand in ihrer Kammer 250 die sanftre Mutter sie; sie rang die Arme, ihr Busen pochte, wie ein Eisenhammer; da, dass zum Leben wieder sie erwarme,</p>
+
+               <p>226^ ,,Gold'^ verbessert aus „Rang^^; „Reichthum^'' verbessert aus „Schätze^\ — 241 ^,gegeben'^ verbessert aus „vermählet^'. — 246 „gehorchen" verbessert aus „sie musste". — 247 „musste sie" verbessert aus „nun gehorchen" ; nach „und" gestrichen: „in". — 25/ „Busen pochte" verbessert aus „Herz schlug". — 252 nach „dass" gestrichen: „die".</p>
+
+               <pb n="9.81" xml:id="pbIX81"/>
+               <p>zog sie an sich der Tochter kalte Glieder, und sprach ihr zu in ihrem tiefen Harme: 255 „Mein Kind, ein Herz, das schlaget unterm Mieder, ist da in dieser Welt allein zum Leiden, und steigt mit schwerem Graun zur Grube nieder. Das Weib muss dienen und gehorchen, scheiden von jeder eignen Lust, und sonder Klage 260 im sauren Dienst der Stirne Schweiss vergeuden.</p>
+
+               <p>Beginne drum die mühevollen Tage geduldig, Rosa, wein' dich satt im Stillen, wenn, wie des Regens Flut, die saure Plage mit jedem Kindbett wächst. Du weisst, den Willen 265 nicht bloss dem Mann, dem Amtmann auch, dem Schreiber, dem Herrn, der gnädgen Frau müssen erfüllen wir, wenn nicht unsre unbarmherzgen Treiber mit Schmerz und Hohn, nach strengen Rechtes L'eben, bedecken sollen unsre armen Leiber. 270 Vergiss es nie: zu dulden, und zu lieben den, dem sie dienet, ist das Weib geboren. Denn sie ist nicht zum Glück nach eignen Trieben, zu fremden Vortheils Werkzeug nur erkohren."</p>
+
+               <p>259 „Tochter^' verbessert ans „Amien". — 254 „ihrem tiefen^'' verbessert ans „ihres Herzens^^. — 26^ „saitre^' verbessert aus „Müh' und". — 269 „annen'^ verbessert aus „unterthängen^^.</p>
+
+               <p>W. V. Humboldt, Werke. IX.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

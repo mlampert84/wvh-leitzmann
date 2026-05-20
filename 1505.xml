@@ -1,0 +1,1052 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Londoner Tagebuch</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Fünfzehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif15humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1918">1918</date>
+                  </imprint>
+                  <biblScope unit="page" from="467" to="516"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1817">1817</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="15.467" xml:id="pbXV467"/>
+            <p>Cumberland mit Lord Govver und andren — Furchtbar dicker Nebel. <note type="footnote" n="^)" resp="gnd-116890657"><hi>Vgl. Wilhelm und Karoline von Humboldt 6, gi. §2.</hi></note></p>
+
+            <p>Januar 1818.</p>
+
+            <p>1 (Donnerstag).<note type="footnote" n="^)" resp="gnd-116890657"><hi>Spanischer Gesandter. ^) Friedrich Franz Dietrich Graf von Bremer (175g— iSjö), hannoverscher Minister.</hi></note> Mittag bei Marquis Staftord. Bei der Dent — Geschirre und Wagen besehen bei dem Stellmacher Messer und Paget — Vergeblicher Besuch bei Pfeffel, ^) Bourke, Esterhazy — Besuch bei Osmond — Besuch von Lieven — bei Floret — Mittag bei Lord Stafford mit Mr. Knight<note type="footnote" n="*)" resp="gnd-116890657"><hi>Bairischer Gesandter.</hi></note> cet — Besuch bei Castlereagh. — Bülow ass nicht zu Hause.</p>
+
+            <p>2 (Freitag). Besuch von dem jungen Cohen — Knight — Stiernild — bei dem Herzog San Carlos ^) — der Dent — Mittag mit Bülow zu Hause gegessen.</p>
+
+            <p>3 (Sonnabend). Isst Bremer bei mir zu Mittag. Besuch bei Graf Lieven — der Dent — Gräfin Lieven — Lord Gower — Frau von Berg — zu Hause mit Herrn von Bremer ^) und Schlichtegroll gegessen — Abend bei Lord Gower mit seiner Familie und Knight.</p>
+
+            <p>4 (Sonntag). Mittag Y, 7. bei Lord Holland. Besuch von Bourke — Pfeffel — Guerreiro — Fagel — Mittag bei Lord Holland mit Lord Alvanley, ') einem gewissen Bierda, Mr. Allen, ^) Brougham. ^)</p>
+
+            <p>5 (Montag). V2 7- Mittag bei Graf Münster.</p>
+
+            <p>Versprechen um 11. zu Rothschild zu kommen. Besuch bei Rothschild — mit seinem Schwager Cohen, Frau von Berg und Bülow im Hause der Ostindischen Compagnie — bei Planta — Knight. — der Dent — Mittag bei Münster mit dem<note type="footnote" n="2)" resp="gnd-118554727"><hi>Vor „Mittag" gestrichen: „Mittag isst Rothschild und sein Bruder bei mir."</hi></note></p>
+
+            <p>*■) Richard Payne Knight (ij^o—1824), Altertumsforscher, Reisender und Numismatiker.</p>
+
+            <p>') Williatn Arden Lord Alvanley (i-j8g—i84g). *) John Allen {i']-] 1—1843), Historiker. ®) Henry Peter Brougham (i-]-] 8— 1868), Lordkanzler, Historiker.<pb n="15.468" xml:id="pbXV468"/> Herzog Leeds, ^) Lord Melville, -j u. s. w. nach Tische kam die unverheirathete Miss"^) Tistale hin — Abends bei Osmond.</p>
+
+            <p>6 (Dienstag). Mittag mit Bülow zu Hause gegessen — Vormittag Besuch einer verarmten Madame Darman — Abend bei Cumberlands. — Ich ersah heute aus den Zeitungen Max Schenckendorffs Tod am ii. December, iSry. <note type="footnote" n="*)" resp="gnd-116890657"><hi>Robert Saunders Dundas Lord Melville (1771—1851), erster Lord der Admiralität.</hi></note></p>
+
+            <p>7 (Mittwoch). Mittag V2 7- bei Knight. Besuch von Moet — bei der Gräfin Lieven — vergebHcher bei Pohtica — Besuch bei Obrist Cooke — Planta — Frau von Berg — Mittag bei Knight mit Lord und Lady StalTord, Lord Gower und Lady Surrcy, und Mr. Long — VergebHcher Besuch bei Mrs. Dent — der Gräfin Pahnclla — Besuch bei San Carlos.</p>
+
+            <p>8 (Donnerstag). Mittag bei Bourke. In der Bibliothek des Brittischen Museums — bei der Dent — zum Essen bei Bourke — Bülow ass nicht zu Hause — Abendgesellschaft bei Bourke. Herr Hay. Q (Freitag). Mittag bei Fagcl. Besuch vom^) Professor Bernstein") aus Berlin — Ich fuhr zum Herzog von York,') imd gab einen ^) Xotificationsbrief für die Heirath des Prinzen Friedrich<note type="footnote" n="*)" resp="gnd-116890657"><hi>„Miss" verbessert aus „Lady". *■) Humboldts Schätzung Schenkendorfs ergiebt sich aus Wilhelm und Karo-</hi></note> da ab — Besuch bei der Berg — vergeblicher bei Lord Palmerstone ^°) — Stiernild — Besuch bei Ozarowski — bei der Dent — Mittag bei Fagel : dort der Herzog Leeds, Lord Binning.</p>
+
+            <p>10 (Sonnabend). Mittag bei Lieven mit Cumberlands. Um 12. mit der Berg bei Knight.</p>
+
+            <p>Besuch mit Frau von Berg bei Knight — bei der Dent —</p>
+
+            <p>') George William Frederick Osborne, Herzog von Leeds (1775— iSj8), Ober Stallmeister. line von Humboldt 4, /^y. 5, 26"/. 6", 99.<note type="footnote" n="*)" resp="gnd-116890657"><hi>„vom" verbessert aus „beim". «) Georg Heinrich Bernstein (i-]S7 — i86o) , Professor der orientalischen Sprachen in Berlin.</hi></note></p>
+
+            <p>') Friedrich August Herzog von York (176^—1827).</p>
+
+            <p>•) „einen" verbessert aus ,,meinen". ") Erbprinz Friedrich von Hessen- Homburg (176g— i8ug) heiratete im .April Georgs II L Tochter Flisabct: vgl. ebenda 6, lO.f..</p>
+
+            <p>'") Henry John Tcmplc Viscount Patmerston ( /jrV./— /Ä65', Kriegsminister.<pb n="15.469" xml:id="pbXV469"/> vergeblicher bei Esterhazy — bei Mrs. Morgan — ^ Mittag bei Lieven mit Cumberlands, dort sah ich Marquis Worcester, Lady Melville u. s. f.</p>
+
+            <p>1 1 (Sonntag). Isst Professor Bernstein bei mir.</p>
+
+            <p>^2 12. zu Lord Stewart. Vergeblicher Besuch bei Stewart — Besuch beim Chevalier Sir Thomas Lawrence, <note type="footnote" n="^)" resp="gnd-116890657"><hi>Thomas Lawrence (ijög — 18^0), berühmter und beliebter Portraitmaler.</hi></note> dem Mahler — bei der Dent — Gräfin und Graf Lieven — Es assen bei mir ausser uns Hamilton aus Hertford, von Grawert, Professor Bernstein, de Sanctis, Dr. Schinas. — Besuch bei Sir Joseph Banks "^j — der Marquise Lansdown; Mrs. Adam, Lord Charleville, Sir George Warrender.</p>
+
+            <p>12 (Montag), ^/ä 7. Mittag beim Herzog Leeds. Vergeblicher Besuch bei der Berg — Lady StaflFord — Lady Melville — Lord Liverpool <note type="footnote" n="^)" resp="gnd-116890657"><hi>Josef Banks (i']44 — 1820), Präsident der Royal society, Cooks Begleiter auf seiner ersten Weltreise.</hi></note> — beim Kaufmann Middleton — Buchhändler Sotheby<note type="footnote" n="*)" resp="gnd-116890657"><hi>Samuel Sotheby (iq']i — 1842), Buchhändler. ^) Morton Eden Lord Henley (ijs^ — i8_go).</hi></note> — vergeblich bei Lord Charleville — Mittag beim Herzog Leeds — dort Lord Henley <note type="footnote" n="^)" resp="gnd-116890657"><hi>Robert Banks Jenkinson Lord Liverpool (i-j']0 — 1828), erster Lord der Schatzkammer und Ministerpräsident.</hi></note> — Mr. Brodrick — Besuch bei der Herzogin Cumberland — dort Chevalier Stepney *) und dessen Frau — Bei mir ass niemand.</p>
+
+            <p>13 (Dienstag). Bei der Dent — mit ßülow zu Hause gegessen. 14 (Mittwoch). Vergeblicher Besuch bei dem Chevalier Stepney — Obrist Cooke — Lord Binning — Lord Henle}'^ — Sir George V\"arrender — Herzog Leeds — Mr. Long — Besuch bei Frau von Berg — Planta — Treuttel und Würtz — bei der Dent — Ehe ich ausgieng w-ar bei mir Bourcard — Barandon — Ruppel. — Zu Hause mit Bülow gegessen — Beim Essen kam Rothschild mit seinen beiden Schwägern — nach Tische bei der Dent, die ich den Morgen nicht gefunden hatte — Ich fing an die Stunden von 12 — 2. möglichst frei zu halten.</p>
+
+            <p>15 (Donnerstag). Mittag beim Herzog von Cumberland. Besuch von Giese — Splittgerber — Rothschild — Marcet mit Prevost — bei der Dent — Mittag beim Herzog von Cumberland. ')</p>
+
+            <p>®) Thomas Stepney (ij-]0—i82§), Haushofmeister des Hersogs von York.</p>
+
+            <p>'') Vgl. Wilhelm und Karoline von Humboldt 6, 102.<pb n="15.470" xml:id="pbXV470"/> Mittag zu Hause — Abend bei Lady Charleville — den Miss Eden, Lord Henleys Tochter — <note type="footnote" n="^)" resp="gnd-116890657"><hi>James Graham Lord Montrose (iTj^S—iS-^Ö), Über Stallmeister. *) Dieser Stiefbruder aus der ersten Ehe von Llumboldts Mutter (i-jÖJ—tSij),</hi></note> Sir Graham Moore. -)</p>
+
+            <p>17 (Sonnabend). Vergeblicher Besuch bei Mr Brodrick — Sir Graham Moore — mit Gumberlands und Frau von Berg bei Lord Gower — Mittag bei Cumberlands gegessen, ohne bei mir absagen zu können — Abend vergeblicher Besuch bei Münster — Besuch bei Bourkes.</p>
+
+            <p>18 (Sonntag). V2 7- Mittag bei Bourke. Besuch von Langsdortf — bei Esterhazy — der Dent — beim Herzog von York mich einzuschreiben — vergeblicher bei der Berg — Spaziergang durch den Park — Mittag bei Bourke, dort kennen gelernt General Phipps und dessen Bruder, Brüder von Lord Mulgrave, ^) Mr Croker, <note type="footnote" n="*)" resp="gnd-116890657"><hi>John Wilson Croker (i~&lt;So — iS'i4), AJmiralitätssekretär, Parlamentarier und Dichter.</hi></note> Mr Carr, ^) der eine Gemahlde- Sammlung hat — Conferenz mit Lord Castlereagh.</p>
+
+            <p>19 (Montag). Mittag bei Lord Castlereagh. Besuch bei der Lieven — vergeblicher bei Palmella — Besuch bei der Berg — bei der Dent — Mittag mit Bülow und Lusi bei Lord Castlereagh, nach Tische kamen viel Leute hin, darunter Arbuthnot") und seine Frau (bei der Treasnry) — Lady Macdonald — Lord Montrose, "') OberStallmeister.</p>
+
+            <p>20 (Dienstag). Mittag bei Cumberlands.</p>
+
+            <p>^''ergeblicher Besuch bei der Dent — der Lady Burghersh — Mittag beim Herzog von (Jumbcrland — an diesem Tag bekam ich die Nachricht des Todes meines Bruders Holwcde. *j</p>
+
+            <p>21 (Mittwoch). Mittag bei (3raf Lieven.</p>
+
+            <p>') Nach dem Strich gestrichen: „eine ver/ieir . . ."</p>
+
+            <p>'') Graham Moore (ij04—i84j), Admiral. *) Henry Phipps Lord Mulgrave (iJSS—iSsi), Staatssekretär des Aus- wärtigen.</p>
+
+            <p>'') William Jlohvell Carr (ij&gt;;iS—iS^oK Geistlicher. Seine reiche Gemäldesammlung, die Fürst Pückler in den Briefen eines Verstorbenen 4, y2j beschreibt, vermachte er später dem Staat.</p>
+
+            <p>•) Charles Arbuthnot (ij6j—i8^o), Schat:sekretär. Militär, war am 26. Dezember iSiy gestorben: vgl. \]'ilhelm und R'.imliiir von Humboldt 6, ic/j.</p>
+
+            <pb n="15.471" xml:id="pbXV471"/>
+            <p>Vergeblicher Besuch bei Wellington <note type="footnote" n="^)" resp="gnd-116890657"><hi>Arthur Wellesley Herzog von Wellington {'ij6g—iSs2), der Sieger von Talavera und Waterloo.</hi></note> — dann auf dem Britti- schen Museum, in der Bibliothek und bei den Statuen — bei der Dent — Mittag bei Graf Lieven — Abends bei der Herzogin vofl Cumberland.</p>
+
+            <p>22 (Donnerstag). Mittag De Sanctis eingeladen. Vergeblicher Besuch beim Herzog Montrose — Besuch beim Herzog von York — bei der Berg — vergeblicher bei Lady Surrey — Lady Staflford — Lord Castlereagh — Planta — Hamilton — Arbuthnot — Lady Melbourne — Baron Fagel — bei der Dent — Mittag allein mit Bülov/ gegessen — Abends Besuch bei der Dent.</p>
+
+            <p>23 (Freitag). Besuch bei Wellington<note type="footnote" n="^)" resp="gnd-116890657"><hi>Nach dem Strich gestrichen: „bei C[astle7'eagh]". *) Alleyne Fitzherbert Lord St. Helens (n53~^^39)&gt; Verwalter des britischen Museums.</hi></note> — vergeblicher bei Palmella — Besuch bei der Lieven — vergeblicher bei San Carlos — Besuch bei der Dent — Mittag bei Esterhazy — Abend bei Lad}' Charleville.</p>
+
+            <p>24 (Sonnabend). Besuch bei der Dent — ") vergeblicher bei der Berg — Besuch bei Castlereagh — Mittag ass ich allein zu Hause — Besuch bei Münster.</p>
+
+            <p>25 (Sonntag). Besuch bei der Gräfin Lieven — vergeblicher bei der Dent — Besuch bei der Berg — Mittag zu Hause mit Bülow.</p>
+
+            <p>26 (Montag). Mittag bei Bourke.</p>
+
+            <p>12 Uhr verabredet, auf das Museum zu kommen. In der Bibliothek des Museums — bei der Dent — Besuch bei Frau von Berg — Mittag bei Bourke, dort Mr. Allen, und ein Italiener Bierda, die bei Lord Holland gewöhnlich sind — in Cove7itgardcn mit der Herzogin von Cumberland — nachher bei ihr.</p>
+
+            <p>27 (Dienstag). ^/^ 7. Mittag bei Lord Stafford. Besuch bei Graf Lieven — bei der Dent — Besuch von Esterhazy — Mittag und Abend bei Lord Stafford. Dort Lord St. Helens, *) Mr. Vernon (Sohn des Erzbischoffs von York) ^) mit seiner Frau,<note type="footnote" n="2)" resp="gnd-118554727"><hi>Vgl. Wilhelm und Karoline von Humboldt 6, log. 128. An erster Stelle wird ein Besuch der Frau von Berg bei Humboldt am selben Tage erwähnt.</hi></note></p>
+
+            <p>•^) Edward Harcourt (i-j^j—i84jj, Erzbischof von York.</p>
+
+            <pb n="15.472" xml:id="pbXV472"/>
+            <p>28 (Mittwoch). 12. zu Lord Liverpool.</p>
+
+            <p>Mittag Leute bei mir. Besuch bei Lord Liverpool — bei der Berg — vergeblicher bei Lord St. Helens — Mr. \'ernon — Lady Granville — Lady Worcester — Besuch bei der Gräfin Lieven — bei der Dent — Es assen bei mir: Giese, Bourcard, Mf Solly, Professor Bernstein, Ruppel aus Memel.</p>
+
+            <p>29 (Donnerstag). Mittag bei Palmella. Besuch bei Lieven — Marquis Osmond — Mit Bülow herumgegangen meiner Frau und den beiden Töchtern etwas zu kaufen — Besuch bei Castlereagh — der Herzogin von Cumberland — bei der Dent — vergeblicher bei A'Court — Mittag bei Palmella *) — dort der Obrist Murphie.</p>
+
+            <p>30 (Freitag). Nach Brighton gebeten. -) Nach Brighton gefahren — in Marlboroughhouse gewohnt — bei Tische, und bei der Abendgesellschaft kennen gelernt: Lord und Lady Cholmondeley, Lord und Lady Henford, Lord William Gordon — Lord Carleton — Keppel — Little (?) den Bischof von Exeter mit seiner Frau — den Herzog von Ciarence ^) — Chevalier Bloomfield^) und Frau — den Haushofmeister des Prinzen Waltier.</p>
+
+            <p>31 (Sonnabend). In Brighton — am Morgen den Stall und die Küche besehen — mit Palmella am Meer spatzieren gegangen — besonderes Gespräch mit dem Prinzen Regenten, zu dem er mich rufen liess — dann Mittagessen, Lady Say and Seal mit ihrer Tochter Miss Twisselton — Abend beurlaubte ich mich, weil der Prinz Regent am folgenden Tag nach Windsor gehen wollte.</p>
+
+            <p>Februar 18 18.</p>
+
+            <p>I (Sonntag). Muss der Barbier für fünf Wochen bezahlt werden.</p>
+
+            <p>■) Vgl. Wilhelm und Karoline vom Uinnbuldt 0, iij'') Über diesen Besuch beim Prin:regenten in Brightvn vgl. ebenda 6, iii. iij.</p>
+
+            <p>') Wilhelm Heinrich Herzog von (llarence (i'jOs—iS^']), der spätere König Wilhelm IV.</p>
+
+            <p>*i Thomas Blomefield (ij44—-ifijj), General.</p>
+
+            <pb n="15.473" xml:id="pbXV473"/>
+            <p>Von Brighton nach London zurück gefahren — Mittag bei Palmella gegessen. ')</p>
+
+            <p>2 (Montag). Besuch bei der Berg — der Herzogin Cumber- land — dem Grafen Lieven — der Dent — der Frau von Bourlie ^} — allein mit Bülow zu Hause gegessen.</p>
+
+            <p>3 (Dienstag). (3.) ^) Besuch bei der Dent — vergeblicher bei der Lieven — und Osmond — ich ass mit Bülovv^ allein zu Hause, es wsLT aber für Rothschild mit angerichtet — Abends Besuch bei Esterhazy — Unterredung mit Castlereagh.</p>
+
+            <p>4 (Mittwoch). (2.) 3. Uhr Conferenz im foreign office.</p>
+
+            <p>Abend bei Lady Castlereagh.</p>
+
+            <p>Bei der Dent — Conferenz bei Castlereagh über Barbaresken und Negerhandel — beim Uhrmacher Rentzsch — Vergeblich bei Palmella — Mittag bei Cumberlands, aber das Essen war zu Hause bestellt — Abend bei Castlereagh zum Rout, dort Herzog Salisbur\\</p>
+
+            <p>5 (Donnerstag), (i.) Besuch bei der Lieven — der Lady Burghersh — vergeblicher bei der Dent, die ich mit einem andern Mann fand — Sir Thomas Liddel <note type="footnote" n="*)" resp="gnd-116890657"><hi>Vgl. Wilhelm und Karoline von Humboldt 6, 116.</hi></note> — Osmonds — Mittag bei Palmella, wohin ich Caraman in meinem Wagen brachte — ■ Abends bei der Herzogin von Cumberland, Vv^o der Herzog von Sussex ") gegessen hatte.</p>
+
+            <p>6 (Freitag). (2.) Abend bei Lady Charleville. Besuch bei Hausen — Lieven — bei der Dent, Versöhnung — Besuch von Esterhazy — mit Bülow allein zu Hause gegessen — Abends bei Lady Charleville, sehr dicker Nebel.</p>
+
+            <p>7 (Sonnabend). (4.) Conferenz im foreign office um 4.</p>
+
+            <p>Abends bei Young.</p>
+
+            <p>Mittags Leute bei mir.</p>
+
+            <p>Besuch bei Bourke's — bei der Dent — vergeblicher bei Rose — Conferenz wegen der Barbaresken und Negersklaven, erst allein.</p>
+
+            <p>boldt und Bülow ausgebeten, i Bülow allein, während Humboldt ausgebeten war, oder umgekehrt, 2 Humboldt und Bülow usw.; die Namen der Gäste sind dann jedesmal genannt.</p>
+
+            <p><note type="footnote" n="*)" resp="gnd-116890657"><hi>Vgl. ebenda 6, 122. *j Die von hier an hinter dem Datum auftretenden Zahlen beziehen sich auf die Anzahl der an Humboldts Mittagstafel teilnehmenden Personen : o Hum-</hi></note> Thomas Henry Liddel (iTJS — iSss)°) August Friedrich Herzog von Sussex fi']']^ — 184^).<pb n="15.474" xml:id="pbXV474"/> 8 (Sonntag). (2.) Abend bei Marquise Landsdowne. Besuch bei der Gräfin Lieven — vergeblicher bei Lord West- morland — Lord Harrowby ^) — Lord Sidmouth -) — Lord Bathurst") ~ Vansittart^) — Lord Mulgrave — Welleslei Pole'^) — Lord Cholmondeley — Lord Hertford — Lady Salisbury — Lord Jersey*') — Lord Covvper — Lord Holland — Prinz von Hessen Homburg') — Besuch bei Lord Lansdowne — und Frau von Berg — vergeblicher bei General Blomfield — Meinen Namen beim Prinzen Regenten aufgeschrieben — Vergeblicher Besuch bei Knight — Besuch bei der Dent — Mittag mit Bülow allein zusammen gegessen — Abends bei Sir Joseph Banks — und der Marquise Lansdowne — dort die Herzogin Arg}il — und Lady Henlei. 9 (Montag). (1.) Mittag bei Lord Gower. Vergeblicher Besuch bei Lord Headfort — Besuch bei Graf Münster — Baron Best^) — vergeblicher bei der Berg — Lord Lauderdale '-') — Lord Ellenborough ^'^') — Langsdorff — Lord Stewart — Besuch bei Mrs. Adams — vergeblicher bei Lady Da\T — der Herzogin Argyll — Guerreiro — Mittag bei Lord Gower — dort Walpole ^^) — Abends bei Palmella, dort Graf Ludolf, der Amerikanische Gesandte Rush, Viscount Ebrington. 10 (Dienstag). (3.) 2. Uhr zu Lord Palmerstone. Besuch von der Berg — von Rothschild — Zusammenkunft mit Palmcrston — Besuch bei der Berg — bei der Dent — Mittags ass ich mit Bülow und Bernstein — Abends nahm ich ein l'\issbad. 1 1 (.\Littwoch). (o.) Abend bei Lady Castlereagh. ") William Wellesley-Polc (1^6^—184^), Münzmeister. •) George Child Villiers Lord Jersey (i77j—i8s[)), Sportsmann. ') Vgl. oben S. 468 Anm. f) und Wilhelm und Karoline von Humboldt 0, 114. 155<note type="footnote" n="*)" resp="gnd-116890657"><hi><note>Dudlcy Ryder Lurd Harrowby ^i']62—i84'j), Feldzeugmeister. ^) Henry Addinglon Lord Sidmouth (ij^^—1844), Mitüster des Inneren.</note> Henry lialhurst (ij6-j — i6'j4J, Kriegs- und Kolonialsekretär. *) Nicolas Vansittart (i"] 08— 18-24), Finanzminister.</hi></note> William Draper Best (i-]0-]—i84\), Kronanwalt. ") James Mailland Lord Lauderdale (i'JSO — ^^S9'&gt; f&lt;^''l&lt;-^»'ffttarier. '") Edward Law Lord Ellenborough fi-jßO—i8i8), Oberrichter. ") Wohl der General George Walpole (i75^~'^35J<pb n="15.475" xml:id="pbXV475"/>Conferenz bei Castlereagh über den Negerhandel — Besuch bei der Berg — Mittag bei Esterhazy, wo Schönfeld war, der aus Rio Janeiro kommt — Abends bei Lord Castlereagh. 12 (Donnerstag), (i.) ^/^ 7. Mittag bei Graf Münster. Zum Levcr beim Prinz Regenten — Besuch bei Frau von Berg — Mittag bei Graf Münster — Vergeblicher Besuch bei Palmella. 13 (Freitag), (i.) Besuch von Rothschild — Palmella — Rose — Besuch bei der Dent — Besuch von San Carlos — Mittag bei dem Herzog von Cumberland. 14 (Sonnabend), (i.) '^j^ 7. Mittag bei Lord Liverpool. Vergeblicher Besuch bei mir von Splittgerber — Nosse — Besuch bei der Dent — Conferenz bei Castlereagh — Vergeblicher Besuch bei der Berg — Mittag bei Lord Liverpool, dort Sir Gore<note type="footnote" n="^)" resp="gnd-116890657"><hi>„Sir Gore" verbessert aus „Lord Gower". 2) Gore Ouseley (i'/']0 — 1844), Diplomat. *J Edward Law (ijgo — i8jij, Parlamentarier.</hi></note> Ouseley-J — Besuch bei Cumberlands — Palmella. 15 (Sonntag). (2.) Abend bei Lady Castlereagh. Besuch bei der Dent — von Palmella — Burghersh — Mittag mit Bülow zu Hause — Abends bei Lady Castlereagh, wo der Regent seyn sollte, aber wegen Unpässlichkeit nicht hinkam — dort Mr Law, ^) Ellenboroughs Sohn — Lady Grantham. 1(3 (Montag), ^i.) Muss Mrs. Dent wieder bezahlt werden. Abend bei Lady Ellenborough. 9. Uhr.</p>
+
+            <p>^/^ 7. Mittag beim Herzog Montrose mit dem Regenten. Vergeblicher Besuch bei Lord Ebrington — Lord Carleton — ^) Mf ehester — Marquis Grimaldi — der Herzogin Leeds — Besuch bei dem Bischof von Exeter — vergeblicher bei Herrn Rush — Baron Stiernild — Besuch bei Graf Ludolf — vergeblicher bei Lord Winchilsea — Herrn Smith und Taylor — Mr Sapte — Lord Bathurst — Lord Camden^) — Lord Grantham — Besuch bei Palmella — Frau von Berg — dem Uhrmacher Rentzsch — vergeblicher bei Lady Stafford — Mittag beim Herzog Montrose *') — dort Marquis Anglesea ') — Abends bei Lady Ellenborough.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Nach dem Strich gestrichen: „dem Bischof von Exeter — ". ^) John Jeffreys Pratt Lord Camden (i'jS9—i84o), Parlamentarier. ®) Wo auch der Prinzregent anwesend war: vgl. Wilhelm und Karoline von Humboldt 6, i2j. '} Henry William Paget Marquis Anglesey (1^68 — i8s4j, General.</hi></note></p>
+
+            <pb n="15.476" xml:id="pbXV476"/>
+            <p>18 (Mittwoch). (2.) Conferenz mit Lieven und Esterhazy bei mir — Besuch bei der Dent — Mittag zu Hause gegessen mit Bülow um 5. und nach 7. schlafen gegangen.</p>
+
+            <p>19 (Donnerstag), (i.) Mittag bei Esterhazy mit dem Regenten.</p>
+
+            <p>\'ergeblicher Besuch bei Engström — Besuch bei der. Berg — vergeblicher bei Robinson — Lady Liverpool — Besuch bei der Dent — Mittag bei Esterhazy — dort Lady Ham|^p]den — Lady Westmouth.</p>
+
+            <p>20 (Freitag). (8.) Mittag Leute bei mir. Besuch bei der Berg — Gang zu Bish, in die Lotterie zu setzen -- Besuch bei der Dent — Mittag bei mir: Bülow, Lusi, Giese, Geisler, Nosse, Ruppel; Bourcard kam nicht — Abends bei Lady Charleville.</p>
+
+            <p>21 (Sonnabend), (o.j Mittag ^^/^ 7. bei Westmorland =^) mit dem Regenten.</p>
+
+            <p>Besuch bei der Lieven — der Berg — Mittag bei Wesimor- land — dort Lord Yarmouth — Mr Singleton ^) — Abends bei Lady Davy — dort Sir James Mackintosh ^) — Lord Har[d]vvicke.</p>
+
+            <p>22 (Sonntag), (i.) Mittag bei Bourke. Den ganzen Vormittag bis 6. Uhr am Seeräubervertrag gearbeitet — Mittag bei Bourke, — dort der Amerikanische Gesandte Rush und dessen Frau.</p>
+
+            <p>23 (Montag). (2.) Abend 9. Uhr bei der Marquise Salisbun,'. (Konferenz mit l^sterhazy und Lieven bei mir — Besuch bei der Dent — bei der Berg — Mittag mit Bülow zu Hause") — Abends bei der Marquise Salisbury.</p>
+
+            <p>24 (Dienstag). (2.) Zusammenkunft mit Lord Lauderdalc bei der Herzogin von Cumberland — Besuch bei der Berg — ver•) Charles Lord Whitworth f'/yj::— /&amp;5A Diplomat. *) Die schöne, 4-^0 Meter, mit den Anfahrten -46 Meter lange Waterloobrücke von neun grossen Korbbogen wurde von Rennie ifiii—i-; gebaut. 'j „Westmurland'* verbessert aus „Fagel". *) Henry Singleton (ijöö—iiSjg), Maler.</p>
+
+            <p>'') James Mackintosh (lyüs—iSjsJ, Parlamentarier und J-Iistorikcr. •; Vgl. Wilhelm und Karoline von Humboldt 6, /yj'.<pb n="15.477" xml:id="pbXV477"/> geblicher bei der Dent — Mittag mit Bülow allein — Abends vergeblich bei der Dent.</p>
+
+            <p>25 (Mittwoch), (i.) Mittag beim Marquis Anglesey mit dem Prinzen Regenten.</p>
+
+            <p>Mit Bülow herumgegangen, vielerlei Sachen einzukaufen — Mittag beim Marquis Anglesey mit dem Prinzen Regenten.</p>
+
+            <p>26 (Donnerstag), (o.) Besuch bei der Dent, die ich nöthigte, zu Hause zu bleiben, nicht zum Draivhiv room zu gehen, und sich wieder auszuziehen — Besuch bei Münster — Mittag mit Bülow bei Cumberlands.</p>
+
+            <p>27 (Freitag). (lo.) 9. Uhr Abends Lady Ellenborough zum Tanz.</p>
+
+            <p>Mittag Leute bei mir. <note type="footnote" n="^)" resp="gnd-116890657"><hi>Vgl. Wilhelm und Karoline von Humboldt 6, iß-j.</hi></note> Besuch bei der Gräfin Lieven — bei Mrs. Dent — Mittag bei mir: Lieven, Stewart, Planta, Bülow, Neumann, Bourke, Burghersh, und Ksterhazy; Castlereagh kam wegen des Parlaments nicht — Abends bei Lady Ellenborough.</p>
+
+            <p>28 (Sonnabend), (o.) Besuch bei Bourke — bei der Berg — vergeblicher bei der Herzogin von York — Besuch bei der Dent — Mittag mit Bülow bei Münster — Abends bei Lady Holland.</p>
+
+            <p>März 1818.</p>
+
+            <p>1 (Sonntag), (o.) 'Vi 7- bei Lord Lansdowne zu Mittag. Besuch bei der Berg — bei Lady Stafford — Mittag bei Lord Lansdowne — dort Lord und Lady Morpeth. 2)</p>
+
+            <p>2 (Montag), (o.) Mittag beim Herzog von Cumberland zum Geburtstag der Herzogin.</p>
+
+            <p>Besuch bei der Herzogin von Cumberland, um ihr Glück zu wünschen — bei der Dent — iNlittag bei dem Herzog von Cumberland.</p>
+
+            <p>3 (Dienstag). (2.) i. Uhr bei Lady Harcourt.</p>
+
+            <p>Nach 5. zur Herzogin von York. Abendessen nach der Oper beim Herzog Devonshire.</p>
+
+            <p>Gespräch mit Lady Harcourt über die Herzogin Cumberland — Besuch bei Lord und Lndy Burghersh, denen ich die Geschenke für Rom übergab ^) — bei der Dent — bei der Herzogin von</p>
+
+            <p>'■') George' Howard Lord Morpeth (i']-]^—i848), Parlamentarier. ') Vgl. ebenda 6, 1^6.<pb n="15.478" xml:id="pbXV478"/> York — bei Frau von Berg — Mittag zu Hause mit Bülow — Abend bei dem Herzog von Devonshire zum Abendessen.</p>
+
+            <p>4 (Mittwoch). (2.) Besuch bei Lady Graham Moore — vergeblicher bei Lady Binning — Lord Chetwynd — Lord Morpeth — Herzog von Devonshire — Sir James Mackintosh — Herzog von York — Besuch bei der Berg — bei dem Uhrmacher — vergeb- licher Besuch bei Lord Hardwicke — Gang zum Silberarbeiter Garrard — vergeblicher Besuch bei Lady Warrender — beim Herzog Leeds — Besuch bei Hamilton <note type="footnote" n="*)" resp="gnd-116890657"><hi>John Hampden Trevour fi'j4Q—i8j4), Diplomat. ») Sarah Siddons (i-js5—'f^:i0&gt; «^'&lt;-' berühmte, seit i~S-^ am DruryLvu- 1 luaier wirkende Tra^ödin.</hi></note> — Planta — vergeblicher beim General Congreve — Besuch bei der Dent, wo ich warten musste — allein mit Bülow zu Hause zum Mittag — Abends auf dem Almacks Ball. -)</p>
+
+            <p>5 (Donnerstag), (i.) Mittag ^/^ 7 bei Fagel mit dem Prinzen Regenten.</p>
+
+            <p>Besuch bei der Lieven — vergeblicher bei Münster — Besuch bei der Berg — bei der Dent — bei Bourkes — Mittag bei Fagel mit dem Prinzen Regenten — Abends in den Argyle rooms — dort eine Lady Gordon — bei Fagel Lord Amherst. ")</p>
+
+            <p>6 (Freitag). (3.) Abends um 10. zur Musik bei Lady Chol- mondeley.</p>
+
+            <p>Besuch bei General Congreve — Spatziergang auf der Waterloo Brücke — Mittag zu Hause mit Bülow und Herrn Hermann aus Schönebeck — Abends bei Lady Charleville — dort Lord Hamipjden^) — Mj Fitzew, Hamiltons Bruder — Mrs. Siddons •*) — Dann bei Lady Cholmondeley, wo der Regent gegessen hatte — dort Lady Antrim.</p>
+
+            <p>7 (Sonnabend), (i.) V2 8 .NLittag beim Herzog von York. Besuch bei Lord und Lady Hampden — vergeblicher bei Lady Duff Gordon — bei Lord Amherst — Besuch bei der ver- wittweten Herzogin Leeds — vergeblicher bei Lady Antrim — bei Sir Gore ( )uselcy — Besuch bei der Herzogin von Gumber- land — bei der Dent — Mittag bei dem Herzog von York.</p>
+
+            <p>•) Vgl. Wilhelm und Karvlinc von Ilinnboldt 6, i4J~ »j V{;1. über diese von der höchsten Aristolimtie veranstalteten Bälle Pückler, Briefe eines Verstorbenen j, J55. 4, 16.</p>
+
+            <p>») William Pitt Lord Amherst (1773—1^^57), Diplomat.</p>
+
+            <pb n="15.479" xml:id="pbXV479"/>
+            <p>8 (Sonntag). (2.) Muss der Barbier für fünf Wochen bezahlt werden.</p>
+
+            <p>Abends bei Lady Dav}\</p>
+
+            <p>Besuch bei Rothschild — vergeblicher bei Splittgerber — Giese — Besuch bei der Dent — Mittag mit Bülow allein zu Hause — Abend bei Lady Davy, — dort Sir John Murra}', <note type="footnote" n="^)" resp="gnd-116890657"><hi>John George Lord Beresford (i']']3 - 1862), der spätere Erzbischof von Dublin.</hi></note> der General — Mrs. Ord — Mrs. Denner.</p>
+
+            <p>9 (Montag), (i.) ^/i 7. Mittag bei Lord Stafford. Abgesagt.</p>
+
+            <p>Abend bei der Marquise Camden, small party. Mittag bei Graf Lieven mit dem Regenten. Um 3. zu Robinson auf dem Board 0/ trade. Besuch bei der Dent — Gang in Silberläden — Besuch bei der Berg — vergebens bei Robinson — bei Lady Melbourne — Lady Castlereagh — Lord Yarmouth — Lord Beresford -) — Gang zum Uhrmacher — Besuch bei Osmond — Mittag bei Graf Lieven mit dem R.egenten — Abend bei Lady Camden.</p>
+
+            <p>10 (Dienstag). (2.)^) 2. Uhr zu Robinson. Unterredung mit Robinson über die Auflagen auf das Holz — Gang zum Silberarbeiter — und Uhrmacher — vergeblicher Besuch bei der Berg — bei Esterhazy — Besuch bei der Dent — Mittag bei Cumberlands, aber so spät gebeten, dass schon für mich gekocht war.</p>
+
+            <p>11 (Mittwoch), (i.) ^/a 7 Mittag bei Young. Abgesagt.</p>
+
+            <p>^/i 7. bei Lord Stafford mit dem Regenten. Vergeblicher Besuch bei der Dent — Gang zu einem Buchhändler — Mittag bei Lord Stafford mit dem Regenten.</p>
+
+            <p>12 (Donnerstag), (i-)<note type="footnote" n="*)" resp="gnd-116890657"><hi>John Murray (i'j68—i82'j), General.</hi></note> Mittag bei Lord Cholmondeley mit dem Herzog von York.</p>
+
+            <p>Besuch bei der Dent — Gang zum Lotterie Collecteur Bish — Besuch bei der Berg — mit ihr bei Miss Goom ^) — zu dem Kolossen^) — vergeblicher Besuch bei Lord Burghersh — Mittag ö) Vgl. oben S. 466 Anm. 11.<pb n="15.480" xml:id="pbXV480"/> bei Lord Cholmondeley — dort dessen Schwester Lisle — Mr. Cholmondeley, Cousin — Sir William Keppel, General — Abends in den Argyle roovis — dort Mr Lottrel.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Nach ,/2.)" gestrichen: „i. Uhr zu Lady Harcourt." *) Nach „(I.)" gestrichen: „Mittag bei Lord Anglesey mit dem Prinzen Regenten." 5) Ist das die Wilhelm und Karoline von Humboldt 6, 144 erwähnte Bildhauerin ?</hi></note></p>
+
+            <p>13 (Freitag). (2.) Abend, 10. Uhr, bei Lady Antrim. V/, 'O- Gang zur Dent — Besuch von Esterhaz}- — Mittag mit Bülow allein zu Hause — Abend bei Lady Antrim.</p>
+
+            <p>14 (Sonnabend). (1.) Mittag bei dem Herzog San Carlos.</p>
+
+            <p>Abend bei Lady (]astlereagh. Besuch bei der Lieven — vergeblicher bei Stewart — Gang zum Silberarbeiter Garrard — Besuch bei Bloomfield — vergeblicher mit Stewart bei dem Prinzen von Hessen Homburg — Besuch bei der Herzogin von (^umberland, wo die Berg hinkam — nachher bei der Berg selbst — Mittag bei San Carlos — Abend bei Lady (]astlereagh.</p>
+
+            <p>15 (Sonntag), (i.) '/aV- Mittag bei Lord Carleton.- ^'ergebliche^ Besuch bei Münster — Besuch bei Frau von Berg — bei der Dent — Mittag bei Lord Carleton — dort Lady Cle- mond — Lord und Lady Say and Sele, mit ihrer Tochter Miss Twisleton, und dem ^) Schwiegervater Lord Kardley — Lord James Murray, zweiter Sohn vom Herzog von Atholl '-) — Banquier Dent mit seiner Frau — Vergeblicher Besuch bei Osmond.</p>
+
+            <p>16 (Montag). (2.) Unterredung mit Castlereagh — Gang zum Uhrmacher — Besuch bei Frau von Berg — Vergeblicher bei Lord Lansdowne — Besuch bei der Dent — Allein mit Bülow zu Hause gegessen.</p>
+
+            <p>17 (Dienstag), (i.) Abend bei Lady Dav}' von 9 — 12. Uhr. Besuch bei der Dent — Ich ass allein zu Hause — Abends bei Lady Davy.</p>
+
+            <p>i.S (Mittwoch), (i.) Mittags bei Prinz Ksterhazy.</p>
+
+            <p>Vergeblicher Besuch bei Mrs. Siddons — Sir John Miirray — Lady Ann Smith — Lord Say and Sele — Lord Kardley — Obrist Lieutenant Stanhope — Besuch bei Lord (iower — Bourke — PfeiVcl — Gang zum Uhrmacher — Namcncinschreiben in Carlton hoiise — N'^ergeblicher Besuch bei Lady (Castlereagh — Besuch bei der Dent — Mittag bei l'-stcrhazy.</p>
+
+            <p>19 (Donnerstag), (o.)") Mitlag bei Herzog (Cumberland.</p>
+
+            <p>') „dem" verbessert aus „ihrem". *) John Murray, Herzog von Atholl (i-j-;6—i8t4). *) Nach „(o." gestrichen: ,.MittJ&lt;; bei l.ord An&lt;,'lesey mit dem Prinzen Regenten. — Abgesagt."</p>
+
+            <pb n="15.481" xml:id="pbXV481"/>
+            <p>Unterredung mit Lord Castlereagh — Mittag beim Herzog von Cumberland.</p>
+
+            <p>20 (Freitag). (2.) Unterredung mit Lieven — Besuch bei Lawrence — bei der Berg — bei der Dent — Mittag mit Bülow allein zu Hause — Abends bei Münster. • 21 (Sonnabend). (lö.) Frei zu halten. Prinz Regent zum Mittag bei mir. <note type="footnote" n="^)" resp="gnd-116890657"><hi>Vgl. Wilhelm und Karoline von Humboldt 6, 156. 166. *) „nicht" verbessert aus „wieder^'. ') Eduard August Herzog von Kent (i']6'] — 1820), der Vater der Königin Viktoria.</hi></note> Besuch bei der Dent — zu Tisch bei mir mit dem Prinzen Regenten, Prinzen von Hessen Homburg, General Bloomfield, Lord Stewart, Marquis Osmond, Graf Lieven, Fürst Esterhazy, Baron Fagel, Herzog San Carlos, Graf Münster, Herzog Montrose, Lord Anglesey, Lord Liverpool, Bülow und Lusi — Abends bei der Gräfin Lieven. 22 (Sonntag). (2.) Namenaufschreiben in Carltonhouse beim Prinzen Regenten — vergeblicher Besuch bei Bloomfield — bei Frau von Berg — Besuch bei der Marquise Osmond — Mittag mit Bülow allein zu Hause. 23 (Montag). (2.) Muss Madame Dent nicht ^) bezahlt werden. Besuch bei Graf Lieven — Mrs. Dent — der Herzogin von Cumberland, wohin der Herzog von Kent ^) kam — Mittag mit Bülow allein zu Hause. 24 (Dienstag). Mittag bei Herrn Sapte V2 7- Uhr.</p>
+
+            <p>Abends bei der Bourke. Besuch von Frau von Berg — Neumann — Mittag bei Sapte, Lusis Bruder, — dort General Torrens <note type="footnote" n="*)" resp="gnd-116890657"><hi>Henry lorrens (i^jg — 1828), General.</hi></note> — Chevalier Lamenel — Abends bei der Bourke. 25 (Mittwoch), (i.) Mittag bei Lord Cholmondeley. Besuch von Rother ^) — Conferenz bei mir mit Lieven und Esterhazy — Besuch bei der Dent — Mittag bei Lord Cholmondeley — dort Lord Hetford — General Hammond®) — Lord Percy. ') Christian von Rother (i-/y8—i84g), der spätere Finanzminister. Er kam der preussischen Anleihe wegen auf Humboldts Wunsch nach London: vgl. ebenda 6y 157- ^65.</p>
+
+            <pb n="15.482" xml:id="pbXV482"/>
+            <p>26 (Donnerstag). (8.) Frei zu halten. Besuch von Rother — bei der Lieven — der Dent — der Berg — Mittag ausser Bülow bei mir — Colqhoun, Bollmann, ^) Giese, Schinas, Solani und Ramadani — Abends bei Münster.</p>
+
+            <p>27 (Freitag). (14.) Frei zu halten. Besuch von Gerning^) — bei der Dent — Mittag zu Hause mit : Bülow, Lusi, Rose Vater und Sohn, Neumann, Everett, ') Chinnery, <note type="footnote" n="*)" resp="gnd-116890657"><hi>Gustaf Adolf Tzsclioppe (i-j()4 — i84-j), Hülfsexpcdient in Hardenbergs Kanzlei, Begleiter Rothers auf seiner londoner Reise.</hi></note> Hamilton, Langsdorff, Gerning, Tom, Pfeffel, und Ludolf — Abends in den Ar^yle rooms.</p>
+
+            <p>28 (Sonnabend). (8.) Mittag bei Hamilton ^^ 7. Namenaufschreiben in Carlton hoiise — Conferenz bei mir mit Lieven und Esterhazy über die Barbaresken — Namenaufschreiben beim Herzog von Kent in Kensington — bei Hamilton hatte ich abgesagt — Es assen bei mir Bülow, N. M. Rothschild, Samuel Rothschild,^) Cohen, Barandon, Rother, Tzschoppe. ^)</p>
+
+            <p>2g (Sonntag), (o.) Mittag bei Sir Gore Ouseley</p>
+
+            <head>
+               <title type="main">Xi-</title>
+            </head>
+            <p>Besuch bei Miss Maria — der Herzogin von Cumberland — Frau von Berg — Mittag bei Sir Gore Ouseley — dort Lord und Lady Ennismore — Marquis und Marquise Sligo — Admiral Gore ") mit Lady Gore — Mr. und Mrs. \V. Curtis *j — Obrist Shawe — Abends bei Bourke — Mrs. Brickets.</p>
+
+            <p>30 (Montag). (4.) Abends bei Lady Murray.</p>
+
+            <p>Wird Mrs. Dent nicht bezahlt.</p>
+
+            <p>Besuch von Lieven — der Berg — Guerreiro — PfetVel — Mittags mit Bülow, Rother und Tzschoppe — Abend bei Lady John Murray.</p>
+
+            <p>31 (Dienstag). (3.) Besuch bei Planta — Namenaufschreiben</p>
+
+            <p>•) Jiistus Erich Bollmann (i-jOg — 1821), Direktor einer chemischen Fabrik, bekannt durch seinen ijg4 unternommenen Versuch, Lafayette aus ülmütz zu befreien: vgl. über seine Beziehungen zu Humboldt f^app, Justus Erich Bollmann S. J82. 4'i*j Johann Jsaak Freiherr von Gerning (iy6j—i8^), der Dichter, homburgischer Gesandter: vgl. Wilhelm und Karoline von Humboldt 6, !*,&gt;;. 160.</p>
+
+            <p>») Jatnes Everett (1-84—18-2), Schriftsteller.</p>
+
+            <p>*■) George Chinnery 0766—1846), Porträt- und Eiudschaftsmaler. ") Wohl Salomon Rothschild (ij'j4—i8^^), der Leiter des wiener Bank- hauses.</p>
+
+            <p>'•) John Gore (i-j']2—i8^6), Admiral. •) William Curtis (ij52—i82(j), Überbürgermeister.<pb n="15.480" xml:id="pbXV480"/> beim Prinzen Regenten — Gang zum Uhrmacher — Besuch bei Frau von Berg — Mittags mit Bülow und de Sanctis.</p>
+
+            <p>April 1818.</p>
+
+            <p>1 (Mittwoch), (o.) Mittags bei Rothschild. Besuch vergeblicher bei der Gräfin Lieven — Besuch bei Miss Maria — bei Frau von Berg — bei der Herzogin von Cumber- land — Mittags bei Rothschild — Abends auf dem Almacks Ball.</p>
+
+            <p>2 (Donnerstag). (7.) Mittags zu Hause mit Bülow, Millingen, Baumann, de Sanctis, Everett, und Liverati.</p>
+
+            <p>3 (Freitag), (i.) Mittag bei Lord Hertford um ^^ 7. mit dem Regenten.</p>
+
+            <p>Zusammenkunft der Bibelgesellschaft — dort Lord Gambier <note type="footnote" n="^)" resp="gnd-116890657"><hi>James Gambier (1756—18^^), Admiral.</hi></note> — Besuch bei Planta — vergeblicher bei Lord und Lady Castle- reagh — Nameneinschreiben beim Prinzen Regenten — Besuch bei Frau von Berg — vergeblicher bei Rother — Mittag bei Lord Hertford, wo aber der Prinz Regent nicht hinkam.</p>
+
+            <p>4 (Sonnabend). (9.) Mittag bei mir Rother — Tzschoppe — Giese — Bourcard — Splittgerber — Nosse — und Baumann — Abends bei Lady Castlereagh.</p>
+
+            <p>5 (Sonntag), (o.) Mittag bei Lord Bathurst.</p>
+
+            <p>Abend bei der Gräfin Lieven.</p>
+
+            <p>Unterredung mit Lord Castlereagh — Besuch bei Maria — Namenaufschreiben beim Prinzen Regenten — Vergeblicher Besuch bei Frau von Berg — und der Herzogin Cumberland — Besuch bei Dodwell ^) — vergeblicher bei Pfeffel und Bourke — Mittag bei Lord Bathurst — Abends bei Lieven — dort Mrs. Littleton.</p>
+
+            <p>6 (Montag). (2.) Wird Mrs. Dent nicht bezahlt.</p>
+
+            <p>Abend bei Marquise Cholmondeley. Conferenz bei mir mit Esterhazy und Lieven — vergeblicher Besuch bei der Dent — Besuch bei Maria — allein mit Bülow zu Hause gegessen — Besuch von Guerreiro — Abends zum Concert bei der Marquise Cholmondeley.</p>
+
+            <p>7 (Dienstag). (2.) Vergeblicher Besuch bei Rose — Namenaufschreiben bei dem Prinzen Regenten — und der Herzogin von<pb n="15.484" xml:id="pbXV484"/> York — Besuch bei Frau von Berg — und der Herzogin von Cumberland — allein mit Bülow zu Hause gegessen.</p>
+
+            <p>8 (Mittwoch). (2.) Vergeblicher Besuch bei der Dent — im Colonial Departement bei Lord Bathurst, die Correspondenz von St. Helena zu lesen ^) — Namenaufschreiben in Carleton House — Vergeblicher Besuch bei der Berg — Besuch bei der Bourke — — mit Bülow allein , zu Hause gegessen — Abends auf den Almacks — dort Miss Stanhope, Nichte von Lord Harrington ^) — Miss Addington.</p>
+
+            <p>9 (Donnerstag), (o.) Mittag bei dem Herzog von Cumberland.</p>
+
+            <p>Abends bei Lady Lansdown.</p>
+
+            <p>Besuch bei Mrs. Dent — ^) bei der Gratin Lieven — vergeblicher bei Lalmerston — Lord James Murray — General Ham- mond — Lord Ennismor — M^ (&gt;urtis — Lord Keith <note type="footnote" n="*)" resp="gnd-116890657"><hi>Es handelt sich um Berichte des englischen Gouverneurs über Napoleon.</hi></note> — Lord Amherst — Mittag bei Cumberlands gegessen mit Bülow — Abends bei Lady Lansdown, ^) dort — Lord Stair (John Dalrymple). ^)</p>
+
+            <p>10 (Freitag). (2.) Abend bei Lady Davy. 9 — 12. Uhr. Besuch bei der Dent, die krank war — Mittag mit Bülow allein zu Hause gegessen — Abends bei der Davy unter Vorwand von Unpässlichkeit abgesagt — Später Conferenz mit Lord Castle- reagh.</p>
+
+            <p>11 (Sonnabend), (i.) Mittag bei Lord Westmorland. Geschäftsunterredung mit Herzog und Herzogin Cumberland, und Frau von Berg — desgleichen mit C^astlereagh — desgleichen abermals mit dem Herzog von Cumberland, und Frau von Berg — Besuch bei Neumann — Mittag bei Lord Westmorland — dort Lord Cardigan — Lord Henniker ') — Sir Halfort *<note type="footnote" n="*)" resp="gnd-116890657"><hi>Charles Stanhope Lord Harrington (ijSji — ^S^9J&gt; Gouverneur von W'indsor. *) Nach dem Strich gestrichen: „vergeblicher".</hi></note> — M^ Scott, Bruder des Kanzlers — Sir Thomas Plemor — Besuch bei der Herzogin von Cumberland — Abends bei C^astlereagh — dort Lady Shelley.</p>
+
+            <p>12 (Sonnlag), (o.) Muss der Barbier be;^ahlt werden.</p>
+
+            <p>Mittag bei Baron Bourke. Abgesagt.<note type="footnote" n="*)" resp="gnd-116890657"><hi>George Keith Elphinslone (i-j40—i6'2'^), Admiral. ') Vgl. U ilhelni und Karotine von Humboldt (/, i&amp;j. •j John Hamilton Maci^iil Dalrymple Lord Stair (iJJi — iSsj), General.</hi></note></p>
+
+            <p>'') John Henniher Major (ly^s — i8-ji), l\irlamcntarii:r. ") Henry Haiford (iy66-ifi44), Arzt.</p>
+
+            <pb n="15.485" xml:id="pbXV485"/>
+            <p>Mittag mit Bülovv allein beim Herzog von Cumberland. — Abend bei der verwittvveten Lady Lansdown.</p>
+
+            <p>13 (Montag), (o.) Wird Mrs. Dent nicht bezahlt.</p>
+
+            <p>Mittag bei Bourke. Abend bei Lady Jersey.</p>
+
+            <p>Gang nach dem Panorama von Athen ^) — zu Dollond -) eine Lorgnette für meine Frau zu kaufen — nach Exeter Change die wilden Thiere zu sehen — Gespräch auf der Strasse mit Planta — vergeblicher Besuch bei der Berg — Besuch bei Graf Putbus *) — Mittag bei Bourke — Abends bei Lady Jersey — dort Miss Se5^mour.</p>
+
+            <p>14 (Dienstag), (i.) Besuch bei der Berg*) — vergeblicher bei Castlereagh — Besuch bei Lady Staiford — Gang zum Uhrmacher — Namenaufschreiben beim Prinzen Regenten — Besuch bei Bloomfield, vergeblicher — vergeblicher bei Anglesey — Ab- holen von Graf Putbus — Besuch mit ihm bei Gräfin Lieven — bei Lady Castlereagh — zu Hause ganz allein gegessen.</p>
+
+            <p>15 (Mittwoch), (o.) Besuch und Zusammenkunft mit Frau von Berg und Lord Lauderdale bei Cumberlands — vergeblicher Besuch bei Lord Preedhoe — M^ Montague — Marquis Hertford — Besuch bei Lady Ouseley — vergeblicher beim Herzog von Mont- rose — Lord Garleton — Lord Liverpool — Lord Stair — Lord Cardigan — Lord Henniker — und Lord Boston — Besuch bei der Dent — Mittag bei Osmond — Abends auf den Almacks.</p>
+
+            <p>16 (Donnerstag). (2.) Um 5. zu Rothschild. Besuch vom Director Brahl — Barrandon — Bourcard — bei der Dent — der Herzogin von Cumberland — bei Rothschild — Mittags mit Bülow allein zu Hause.</p>
+
+            <p>17 (Freitag). (3.) Besuch von der Berg — Mittag zu Hause gegessen mit Bülow, und dem Admiralitätsdirector Brahl.</p>
+
+            <p>18 (Sonnabend), (i.) Mittag bei Lieven mit dem Herzog und Herzogin von York.</p>
+
+            <p>\) Das Panorama von Athen nach Entwürfen Robert Burfords (vgl. über ihn Dictionary of cational biography 7, ^oo) war seit kurzem in Henry Aston Barkers Panoramatheater am Leicesterplatz aufgestellt und bildete einen der Hauptanziehungspunkte von London: vgl. Wilhelm und Karoline von Humboldt 6, ig2. 233.<note type="footnote" n="2)" resp="gnd-118554727"><hi>Peter Dollond (ijjo—1820), Optiker. s) Wilhelm Malte Graf von Putbus (1J83—18S4). *) Vgl. ebenda 6, i-]0.</hi></note></p>
+
+            <pb n="15.486" xml:id="pbXV486"/>
+            <p>IC) (Sonntag), (i.) Mittag bei Davy. -^/^ 7. Besuch bei der Gräfin Münster — vergeblicher beim Fürsten von der Lippe ^) — Namenaufschreiben beim Prinzen von Hessen Homburg — Mittag bei Sir H. Davy=') — Abends beim Herzog von Cumberland.</p>
+
+            <p>20 (Montag), (i.) Mittag bei Fagel. 8 _</p>
+
+            <p>/4 /• Abends bei der Marquise Salisbury. 9. Uhr. bei Lady Jersey.</p>
+
+            <p>Vergeblicher Besuch bei Graf Lieven — bei Young — Besuch bei Frau von Berg — bei Lady Shelley — bei Mrs. Dent — Mittags bei Fagel — dort Marquis Bath — Earl Fortescue — Lord Grenville <note type="footnote" n="*)" resp="gnd-116890657"><hi>t^ach „.\bends" gestrichen: „Versprochen Neumann abzuholen." •) George Hamilton Gurdon Lord Aberdeen (i~S4 — iS6o\ Diploma</hi></note> — Admiral von Capellen — Abends mit Puttbus bei Lady Salisbury — allein bei Lady Jersey.</p>
+
+            <p>•21 (Dienstag), (i.) Mittag bei Lord Carleton. V-, 7- ^hr. Mrs. Sotheby Abends. *) Besuch von Frau von Berg — Mittag bei Lord Carleton — dort Lord Westmouth — Abends bei Mrs. Sotheb}'.</p>
+
+            <p>22 (Mittwoch). (3.) Abends bei Mrs. Curtis 9. Uhr.</p>
+
+            <p>Mittags beim Herzog von York ^'3 8. Abgesagt. Vergeblicher Besuch bei Lord Cholmondeley — Lord Bathurst — Baron Beil — Graf Bassewitz — Lord Delaware — Lord Anson — Lord Bath — Lord Fortescue — und Lord Grenville — Gang zum Uhrmacher — Besuch bei der Berg — vergeblicher bei Lord Aberdeen *■) — zu Hause gegessen mit Bülow und dem Director Brahl — Abends bei Mrs. Curtis — auf den Almacks.</p>
+
+            <p>23 (Donnerstag), (i.) Mittag bei Lord Castlereagh.</p>
+
+            <p>Abend bei Lady Lansdowne. Besuch bei der Dent — Namenaufschreiben beim Prinzen Regenten — Besuch bei der Berg — Mittag bei Lord (Castlereagh zum Ge') Henry Charles Englefield (i'/52 — i82'2j, Altertumsforscher. *) Paul Alexander Leopold (i'jgÖ—iSsi), seit 1820 Fürst von Lippe. ') Humphry Davy (lyjS — iS^g), Chemiker. *) William Wyndham Lord Grenville (fjt,g—i8^4), Parlamentarier.</p>
+
+            <pb n="15.487" xml:id="pbXV487"/>
+            <p>•25 (Sonnabend), (i.) Mittag bei Lord Ennismore ^^ 7. Um 12. Everett zu mir bestellt, um zu</p>
+
+            <p>Knight zu gehen. Abend bei Lady Stepney und Lady Castlereagh.</p>
+
+            <p>Mit Everett bei Knight — allein Besuch bei De Sanctis — vergeblicher bei Lady Strachan — Lord Westmouth — Fürst von der Lippe — Baron Landsberg — Lord Buckingham — Mr. Bennet — M^ Convett — Sir Burrell — Besuch bei Münster — bei der Dent — Mittag bei Lord Ennismore — dort Lord Bantry — M'. Trevor, Bruder von Lord Hampden — Abends bei Lady Stepney — Lady Castlereagh.</p>
+
+            <p>26 (Sonntag), (i.) Abends bei Frau von Bourke.</p>
+
+            <p>Mittags beim Herzog von Cumberland. Mittag bei der Herzogin von Cumberland — Abends bei Frau von Bourke.</p>
+
+            <p>27 (Montag). (2.) Abends bei der Marquise Salisbur)''. 9. Uhr.</p>
+
+            <p>Ä'Irs. Chinnery. abgesagt. Um I. Uhr im Ostindischen Hause. Abends bei Lady Jersey.</p>
+
+            <p>Besehen des Ostindischen Hauses — dort Mr. Wilkins ') — der Gasanstalt in der Münze — derselben in Southw^ark — zu Hause mit Bülow gegessen — Abends bei Lady Jersey.</p>
+
+            <p>28 (Dienstag). (2.) Abends bei Lady Glengall. <note type="footnote" n="*)" resp="gnd-116890657"><hi>„Glengall" verbessert aus „Clangore". ^) Henry Somerset Herzog von Beaufort (i-jg2—i853), P&lt;^rlamentarier.</hi></note> Um 12. zu Esterhazy. Abgesagt. Besuch von Esterhazy — Besuch bei der Gräfin Lieven — bei der Dent — bei Frau von Berg — Mittag mit Bülow allein zu Hause — Abends bei Lady Glengall — dort Herzog vonBeaufort. ^)</p>
+
+            <p>') Vielleicht der Maler William Mineard Bennet (i-jß—iSsfi). 2) Nach „York" gestrichen: „^1^8. Abends". *) Charles Wilkins fi'j4g—i8ß6), Sanskritist, Bibliothekar der ostindischen Kompagnie.</p>
+
+            <pb n="15.488" xml:id="pbXV488"/>
+            <p>Vergeblicher Besuch bei Lord Glenbende ^) — dem Herzog Beaufon — Lady Castlereagh — Gang zum Uhrmacher — Besuch bei Planta — vergeblicher bei Frau von Berg — Besuch bei Graf Münster — vergeblicher bei Lady Ennismore — Besuch von La- borde — Mittag bei Bourkes — dort M^ Foster, ^j der Englische Gesandte in Coppenhagen — Lady Stuart — Abend auf den Al- macks — dort x\l'.' Littleton — Mrs. Dent.</p>
+
+            <p>30 (Donnerstag), (i.) Mittag bei M^ Curtis. V'^ 7. Uhr. Lady Charleville. 1 au -1</p>
+
+            <p>Viscountess Anson. j Um II. in der Münze.</p>
+
+            <p>Besehen der Münze •<note type="footnote" n="*)" resp="gnd-116890657"><hi>Au^ustiis John Foster (ij^o — i6'./&lt;!&gt;", Diplomat. *) ^S^- WW«?///J und Kciruline von Humboldt 6, iH-j *) Vgl. ebenda 6, ifij. •</hi></note> — Geschäftsbesuch bei Doxat und Divet — bei der Dent — Mittag bei Mr. Curtis*) — dort Mr. Alexander — Abends bei Lady Charleville — Lady Anson.</p>
+
+            <p>May 181 8.</p>
+
+            <p>1 (Freitag). (2.) Abends 9. Marquise Salisbur}'.</p>
+
+            <p>Zwischen 2. und 3. bei Doxat und Divett. abgesagt.</p>
+
+            <p>Besuch bei Lady Ennismore — vergeblicher bei der Dent — Mit Bülüw allein gegessen — Abend im Parlament zugebracht.</p>
+
+            <p>2 (Sonnabend), (i.) Mittags Royal Academy Sotnmersei Place, 6. Uhr.</p>
+
+            <p>Besuch bei Frau von Berg — bei der Dent — Mittag in der Kunstakademie in Sommersethouse — Abend bei Lady Castlereagh.</p>
+
+            <p>3 (Sonntag), (i.) Abend Lady Davy. Besuch bei der Dent — der Lieven — Hamilton — Frau von Berg — allein zu Hause gegessen — Abends nicht zu Lady Davy gegangen, sondern zu Graf Münster.</p>
+
+            <p>4 (Montag), (i.) Abend Mrs. Ross. 10. Uhr.</p>
+
+            <p>Lady Jersey. Auf dem Brittischen Museum — bei der Dent — bei Bourkes — bei Frau von Berg — Mittag allein zu Hause — Abend bei Mrs. Ross. ^)</p>
+
+            <p>•j Sylvester Düu&lt;^Ijs Lord Glcnbervie fi-j 4^—1823), SUMsnumn.</p>
+
+            <p>*j \'gl. ebenda 6, ib'y.</p>
+
+            <pb n="15.489" xml:id="pbXV489"/>
+            <p>5 (Dienstag), (i.) Mittag bei Lord Henniker V2 7« Uhr.</p>
+
+            <p>Abend zum Souper beim Herzog Devonshire.</p>
+
+            <p>Mittag bei Lord Hennilver — dort Lord Pomfret <note type="footnote" n="^)" resp="gnd-116890657"><hi>Thomas William Fermor Lord Pomfret (ijyo—i8^j), General. ^) Charles Robert Cockerell {iy88—iS6j), Forschungsreisender und Archäolog bekayint besonders durch seine Teilnahme an den Ausgrabungen auf Aegina und in Phigalia.</hi></note> — Ge- mähldeausstellung in der British Gallery — Ball beim Herzog De- vonshire.</p>
+
+            <p>6 (Mittwoch). (2.) Um 5. zu Rothschild. Besuch bei Graf Lieven — bei der Dent — vergeblicher bei Esterhazy — bei Neumann — bei Rothschild — Mittag allein mit Bülow zu Hause — Vormittags noch Gang zum Uhrmacher — vergeblicher Besuch bei Frau von Berg — Namenaufschreiben bei der Herzogin von Gumberland.</p>
+
+            <p>7 (Donnerstag). (2.) Vergeblicher Besuch bei Sir Charles Cockerell '^) — beim Herzog Wellington — Namenaufschreiben bei den Herzoginnen York — und Gumberland — vergeblicher Besuch bei Frau von Berg — bei Mrs. Littleton — Mrs. Dent — Lord Pomfret — der Herzogin von Beaufort — Mittags mit Bülow allein zu Hause.</p>
+
+            <p>8 (Freitag). (2.) Besuch bei dem Herzog von Gumberland — der Herzogin — Frau von Berg — Mittag mit Bülow allein zu Hause — Abends im Unterhause.</p>
+
+            <p>9 (Sonnabend). (18.) Leute Mittags bei mir.</p>
+
+            <p>Zu Wellington ^4 i.</p>
+
+            <p>Besuch bei Wellington — bei Frau von Berg — Gräfin Lieven Marquis d'Osmond — der Dent — Mittag zu Hause mit Bülow — Fürst Lippe — Graf Münster — Graf Putbus — Baron Pfeffel — Graf Schönborn — Neumann — Stjerneld — Planta — Davy — Baron Landsberg — Graf d'Aglie — Graf Caraman — Marquis Anglesey — Baron Beil — Graf Bassewitz — Fürst Esterhazy.</p>
+
+            <p>10 (Sonntag), (i.) Abends bei der verwittweten Lansdowne. 9. Uhr.</p>
+
+            <p>Mittags allein bei mir — Abends bei der verwittweten Lansdowne — Morgens Besuch von Guerreiro — Foscolo ^) — Ruppell und dessen Sohn.</p>
+
+            <p>1 1 (Montag). (14.) Viscountess Ennismore, Abends, abgesagt.<pb n="15.490" xml:id="pbXV490"/> 12 (Dienstag). (2.) Abend bei M? George Pelham. 10.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Der Dichter Ugo Foscolo (iy/8 — i&amp;y) lebte seit 1816 als Flüchtling in London.</hi></note></p>
+
+            <p>dem Herzog von Devonshire. Besuch bei der Dent — Mittag bei mir allein mit Bülow — Abends bei dem Bischof von Exeter ^) — bei dem Herzog von Devonshire — wo an beiden Orten der Prinz Regent war. 13 (Mittwoch). (2.) 12. Brahl zu mir bestellt. Vergeblicher Besuch bei Woronzow — Besuch bei Mrs. Derby — Unterredung mit Planta — Besuch bei Frau von Berg — mit ihr bei dem Colossen -) — im Panorama von Athen — in Summer set- house — Mittag bei Palmella — Abends bei Bourke. 14 (Donnerstag). (2.) Abend, ^a ^o- Herzogin Montrose.</p>
+
+            <p>Marquise Hertford. abgesagt. Y2 10. bei der Herzogin von Gloucester.</p>
+
+            <p>Lady Shelley.</p>
+
+            <p>12 — 1. zu Cockerell zu kommen versprochen. Mit Frau von Berg zu Cockerell, seine Zeichnungen zu sehen') — Besuch bei der Dent — Mittag mit Bülow allein zu Hause — abends bei der Herzogin von Gloucester, wo es zu spät wurde zur Herzogin Montrose und Lady Shelley zu gehen. 15 (Freitag). (5.) Abends Marquise Hertford. Mittag mit Palmella und Neumann gegessen (Fsterhazy Hess vor Tisch absagen) -— Abends bei der Marquise Hertford mit dem Prinzen Regenten. 16 (Sonnabend). (1.) Mittag bei Lord Anglesey.</p>
+
+            <p>Um 2. Uhr im Colonial Office. Namenaufschreiben beim Herzog und der Herzogin von ') George Pelham (lyCÖ—iS-jj), Bischof von Exeter. ') Vgl. oben S. 466 Anni. /;. 'j Es /tändelt sich um seine Zeichnungen von Aeginj und Phigalij: vgl. Wilhelm und Karoline von Humboldt 6, iij2.<pb n="15.491" xml:id="pbXV491"/> Gloucester <note type="footnote" n="^)" resp="gnd-116890657"><hi>William Friedrich Herzog von Gloucester (i-jj6—i8^4), Neffe und durch dessen Tochter Marie Schwiegersohn König Georgs III.</hi></note> — Geschäft im Colonial Office — Vergeblicher Besuch bei der Berg — Mittag bei Lord Anglesey — dort Lord Lonsdalc '<note type="footnote" n="^)" resp="gnd-116890657"><hi>William Lowther Lord Lonsdale (i'jS-] — 18']2), Schatzsekretär.</hi></note> — Besuch bei Palmella — Abends bei Lady Castlereagh.</p>
+
+            <p>17 (Sonntag). (2.) Muss der Barbier bezahlt werden.</p>
+
+            <p>Abends bei der Herzogin Salisbury. Besuch bei der Herzogin von Cumberland — und Frau von Berg — bei Lad}'- Shelley — vergeblicher beim Herzog Montrose — Besuch bei Lord Mountcashel — vergeblicher bei Mrs. Ramsay — bei Mrs. Ross — Besuch bei der Marquise d'Osmond — Mittags mit Bülow allein zu Hause — Abends bei Lady Salisbury — und Lord Anglesey mit dem Prinzen Regenten.</p>
+
+            <p>18 (Montag). (3.) Abends Ball bei Lady Ennismore.</p>
+
+            <p>Bekommt Mrs. Dent kein Geld. Um 12. nach Claremont zum Prinzen Leopold. '<note type="footnote" n="^)" resp="gnd-116890657"><hi>Leopold Prinz von Sachsen-Koburg [ijgo—iSö^^, Feldmarschall, Witwer der englischen Thronerbin Charlotte Auguste, der spätere König Leopold L von Belgien.</hi></note> Abends bei Lady Jersey. Besuch bei Prinz Leopold in Claremont — vergeblicher bei Frau von Berg — bei Lad}^ Stafford — Besuch bei der Dent — Mittags mit Bülow^ und Tschoppe — Abends Besuch bei der Herzogin von Cumberland — bei Lady .Jersey — bei Lady Ennis- more.</p>
+
+            <p>19 (Dienstag). (2.) Mittag bei Lord Harro wby.</p>
+
+            <p>Abend Prinz Regent. Costume. V2 ^o. Besuch bei General Bloomfield — bei Castlereagh — Gang zum Uhrmacher — Besuch von Esterhazy — Mittag bei Lord Harrowby — Abends, auch zum Souper in Carlto7i House beim Regenten.</p>
+
+            <p>20 (Mittwoch), (i.) Mittag Sotheby V2 7- Abgesagt.</p>
+
+            <p>Mittag bei Knight ^/i 7. Besuch bei der Dent — bei der Berg — vergeblicher bei Lady Vernon — Mittag bei Knight — dort W. Banks '<note type="footnote" n="^)" resp="gnd-116890657"><hi>George Howland Beaumont (1J5J—1827J, Kunstkenner und Sammler.</hi></note> — AL^ Nur- rit — Mr Beaumont. ^)<note type="footnote" n="*)" resp="gnd-116890657"><hi>Vielleicht der Genealog und Heraldiker Thomas Christopher Banks (1-65-1854).</hi></note></p>
+
+            <pb n="15.492" xml:id="pbXV492"/>
+            <p>2 1 (Donnerstag), (i.) Mittag bei Lord Whitvvorth % 7.</p>
+
+            <p>Aberld bei Lady Shelley.</p>
+
+            <p>V2 12. Conferenz bei Lord Castlereagh. Vergeblicher Gang zur (Konferenz bei Lord Castlereagh — Namenaufschreiben beim Prinzen Regenten — Gang zum Uhrmacher — Besuch bei Frau von Berg — bei Graf — und Gräfin Lieven — Besuch von Daviss ^) — Mittag bei Lord Whitworth — dort Lord Rivers — Lord Verulam — Lord Winchester — Abends bei Lady Shelley.</p>
+
+            <p>•22 (Freitag), (i.) Prinzessin Elisabeth's '^) Geburtstag. 2. Uhr zu Planta.</p>
+
+            <p>Mittag beim Prinzen Regenten. Unterredung in Geschäften mit Planta — Namenaufschreiben beim Prinzen von Hessen Homburg — Besuch bei Frau von Berg — bei der Herzogin von Cumberland — vergeblicher be dem Fürsten von der Lippe — bei Graf Münster — Mittag beim Prinzen Regenten.</p>
+
+            <p>23 (Sonnabend). (17.) Mittag Leute bei mir. Conferenz bei Lord Castlereagh über die Barbaresken — Bilder und Ställe besehen bei Sir Benjamin Bloomfield^) — Besehen eines Bildes von Murillo — vergeblicher Besuch bei Frau von Berg — Mittags zum Essen bei mir: der Herzog und die Herzogin Cumberland, Frau von Berg, Major Poten, Lord, Lady Stafford, Lady Elisabeth Lewesen-Gower, Lord Gower, beide Brüder Fagel, Graf Putbus, Graf Lusi und Bülow, Graf und Gräfin Lieven, Hamilton — Abends bei Lady Castlereagh.</p>
+
+            <p>24 (Sonntag). (3.) Conferenz bei Castlereagh. i^l^.</p>
+
+            <p>Abends bei der Marquise Salisbury.</p>
+
+            <p>Conferenz mit Castlereagh über die Barbaresken — vergeblicher Besuch bei Frau von Berg — und der Herzogin von Cumberland — Mittags mit Fürst Esterhazy und Bülow allein zu Hause — Abends bei Lady Salisbury.</p>
+
+            <p>25 (Montag). (10.) Abend Lady Murray.</p>
+
+            <p>Mittag Leute bei mir. Abend bei Mrs. C]hinnery. Ladv Jcrsev.</p>
+
+            <p>') WohlJohn Francis Davis (lygs — tS^K der Sinolog und spätere Diplomat. *) Vgl. oben S. 46S Anm. g. *} Benjamin Bloom jield (ijOfi — 1846}. Stallmeister.</p>
+
+            <pb n="15.493" xml:id="pbXV493"/>
+            <p>Besuch bei der Dent — der Gräfin Lieven — vergeblicher bei Lord Macciesfield — Besuch bei der Berg — Mittags ausser Bülow bei mir die beiden Rothschild — Barandon — ßrahl — Tschoppe — und Schauber — Abends Besuch bei der Berg — Lady Murray — Mrs. Chinnery — Lad}^ Jersey.</p>
+
+            <p>26 (Dienstag), (i.) Mittag bei Fagel. ^/^ 7.</p>
+
+            <p>Abends bei der Marquise Camden.</p>
+
+            <p>Besuch bei der Berg — bei Mrs. Dent — Mittag bei Fagel — dort Lord Apsley — Lord Brownlow — des Marquis Wellesley^) Sohn — Abends Besuch bei dem Herzog von Cumberland — vergeblicher bei Frau von Berg — Auf dem roiä der Marquise Camden.</p>
+
+            <p>27 (Mittwoch). (2.) Mittag bei Convett.</p>
+
+            <p>Zwischen 2 — 3. Uhr Graf Lusi's Hochzeit bei der Marquise Lansdowne. Besuch bei der Dent — Hochzeit von Lusi und Miss Maria Gifford ^) — vergeblicher Besuch bei Frau von Berg — bei Palmella — bei Lord Verulam — Namenaufschreiben bei dem Herzog von Cambridge ^) — Besuch bei Frau von Bourke — Mittag bei Mr. Convett — dort Miss Längster — Abends Almacks.</p>
+
+            <p>28 (Donnerstag), (i.) Abend bei Lady Ennismore. Besuch bei der Gräfin Lieven — bei der Dent vergeblich — Mittag ganz allein zu Hause — Abend bei Lady Liddell — und Lady Ennismore.</p>
+
+            <p>29 (Freitag). (3.) Besuch bei der Dent — bei Rothschild — mit Tzschoppe und Bülow zu Hause gegessen — Abends in den Argyle Rooms.</p>
+
+            <p>30 (Sonnabend), (o.) Abend bei Mrs. Hamilton.</p>
+
+            <p>Mittag Lord Macciesfield ^/^ 7. abgesagt. Mittag bei San Carlos mit dem Regenten. =7^ 7. Abend bei Lady Lansdowne.</p>
+
+            <p>Besuch bei Graf Lieven — vergeblicher bei Mrs. Dent — Namenaufschreiben beim Landgrafen von Hessen'^) — Besuch bei Lady Lansdowne, der Wittwe — bei Dumont — vergebUcher bei<note type="footnote" n="1)" resp="gnd-118554727"><hi>Richard Colley Marquis von Wellesley (IJ60 — 1S421, Diplomat.</hi></note></p>
+
+            <p>') Vgl. Wilhelm und Karoline von Humboldt 6, 21. ^) Adolf Friedrich Herzog von Cambridge (1114 — 1850).</p>
+
+            <p>*■) Friedrich ' V. Ludwig (114S — 1S20), seit i-^i Landgraf von Hessen- Homburg.<pb n="15.494" xml:id="pbXV494"/> Pictet — Hamilton — Planta — Besuch bei der Herzogin von Cumberland — vergeblicher bei Frau von Berg — Besuch bei Latreille ^) — vergeblicher bei Cuvier -) — Mittag bei dem Herzog San Carlos mit dem Regenten. ')</p>
+
+            <p>31 (Sonntag), (o.) Mittag bei Lord Stafford. Besuch bei Lord Castlereagh — bei Frau von Berg — dem Herzog von Cumberland — vergeblicher bei dem Marquis Lans- downe — Mittag bei Lord Stafford.</p>
+
+            <p>Junius 181S.</p>
+
+            <p>1 (Montag). (2.) Ball. 10. Abend. Lady Ellenborough.</p>
+
+            <p>Wird Mrs. Dent nicht bezahlt. Abend Lady Jersey.</p>
+
+            <p>12. Uhr zum Herzog von York. Besuch beim Herzog von York — bei Frau von Berg — vergeblicher bei M": ehester — Sitzung im Oberhause <note type="footnote" n="*)" resp="gnd-116890657"><hi>Vgl. ebenda 0, 214.</hi></note> — Mittags allein mit Bülow zu Hause — Abend bei Lady Jersey — bei Lady Ellen- borough.</p>
+
+            <p>2 (Dienstag). (2.) Abends beim Prinzen Regenten. 10. Uhr. Mittags bei mir mit Bülow allein zu Hause — Abends zum Cercle beim [Vinzen Regenten.</p>
+
+            <p>3 (Mittwoch), (i.) Mittags '/^ 7, bei Sir John Murray. Vergeblicher Besuch bei der Gräfin Lieven — Besuch bei Neumann — bei Lady Vernon — vergeblicher bei Chester — Namenaufschreiben bei dem Herzog und der Herzogin von Cambridge — bei dem Landgrafen Friedrich von Hessen — beim Prinzen Regenten — Besuch bei Frau von Berg — Gang zum Uhrmacher — vergeblicher Besuch bei Lady Castlereagh — bei Pictet — bei Knight — Besuch vom Prinzen von Hessen Homburg — Mittag bei Sir John Murray — Abends auf den Almacks. 4 (Donnerstag). (2.) Besuch bei der Gräfin Lieven — vergeblicher bei Mrs. Dent — bei Sir Benjamin Bloomfield — Besehen der Bilder in ^Xcr Brütsh Gallcry — Mittags allein zu Hause mit Bülow.</p>
+
+            <p>') Pierre Andre Latreille (i']62 — 18^\ Professor der Entomologie am natur- historischen Mustutm in Paris.</p>
+
+            <p>'') Vgl. Wilhelm und Karoline von Humboldt 6, 21 j. ') Vgl. ebenda 0, 2/j. 214.<pb n="15.495" xml:id="pbXV495"/> 5 (Freitag). (lo.) Mittag Leute bei mir.</p>
+
+            <p>Lever beim Prinzen Regenten. 2. Uhr. Herzog von Cumberlands Geburtstag. Morgens Besuch bei Frau von Berg — vergeblicher bei dem Herzog und der Herzogin von Cumberland — Audienz und Lever beim Prinzen Regenten — Besuch bei der Herzogin von Cumberland — Namenaufschreiben bei dem Herzog von York — Clarence — Gloucester — der Prinzessin Sophia <note type="footnote" n="^)" resp="gnd-116890657"><hi>Sophia (iyjj—1848), Tochter König Georgs III. ^) George Catining (lyjo — i82y), Präsident des indischen Kontrollamts im Ministerium.</hi></note> — Mittags zu Hause gegessen mit Bülow — Cuvier — Young — de Sanctis — Lapasse — Decazes — Latreille — Putbus —- und Schlichtegroll — Abends in den Argyle roonis. 6 (Sonnabend), (i.) Mittag bei Canning. <note type="footnote" n="^)" resp="gnd-116890657"><hi>Michael (i~g8—i848), jüngster Sohn Kaiser Pauls I. und Bruder Kaiser Alexanders I. von Russland.</hi></note></p>
+
+            <p>Prorogation des Parlaments. 2. Uhr. Mittag bei Canning. 7 (Sonntag), (o.) Mittag in Kew beim Herzog von Cumberland. Vergeblicher Besuch bei Bloomfield — dem Prinzen Regenten — dem Fürsten Lippe — dem Grafen Münster — Lady Vernon — der Herzogin Beaufort — Besuch bei der Gräfin Palmella — Neumann — Esterhazy — Namenaufschreiben beim Grossfürsten Michael ^) — Mittag beim Herzog von Cumberland in Kew. 8 (Montag), (o.) Abend bei Lady Liddell.</p>
+
+            <p>Mittag bei Dr. Young.</p>
+
+            <p>2. Uhr Markgräfin von Anspach. <note type="footnote" n="*)" resp="gnd-116890657"><hi>Elisabet Berkeley Lady Craven (17 so — 1828), Wittwe des letzten Mark-</hi></note> I. Uhr beim Prinzen Regenten. Abend bei Lady Jersey. Unterredung mit dem Prinzen Regenten ^) — Besuch bei der Markgräfin von Anspach — Frau von Berg — Mittag bei Young — Abends bei Lady Jersey — am Morgen Gang zum Uhrmacher. 9 (Dienstag). (5.) 2. Uhr Frühstück bei Cockerell. Vergeblicher Besuch bei Graf Lieven — dem Baron Nicolai grafen von Ansbach Karl Alexander, der i-jgi seine Länder an Preussen abgetreten hatte und nach London übergesiedeil war. ^) Vgl. Wilhelm und Karoline von Humboldt 6, 211.<pb n="15.496" xml:id="pbXV496"/> — WoUaston ^) — Mittag zu Hause gegessen mit Bülow — Brahl — Otto — Accum. -)</p>
+
+            <p>10 (Mittwoch), (o.) Mittag bei M^ Burnand. -^j II. beim Grossfürsten.</p>
+
+            <p>2. Prorogation des Parlaments. Besuch bei dem Grossfürsten Michael — bei Graf Lieven — Gehen zur Prorogation des Parlaments — Besuch bei der Mar- quise Lansdowne, WHttwe — bei der Gräfin Lusi -— Mittag bei M^ Burnand, wo Kindtaufe war.</p>
+
+            <p>11 (Donnerstag), (i.) Mittag bei Hamilton.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Friedrich Christian Accinn (i'/ög — i8jS), Chemiker, sehr verdient um Einfiihruni^ der Gasbeleuchtung.</hi></note> Besuch von O'Naython — von Cuvier — Mittag bei Hamilton.</p>
+
+            <p>12 (Freitag), (i.) Abend bei M? Young.</p>
+
+            <p>Mittag bei Lord Castlereagh mit dem Gross- fürsten.</p>
+
+            <p>Besuch bei Lord Holland — von Lebzeltern ^) — Mittag bei Lord Castlereagh — Abends in Vaux/iall — bei Young.</p>
+
+            <p>13 (Sonnabend), (i.) Mittag bei Münster mit dem Regenten.</p>
+
+            <p>I. Uhr mit Brahl bei Robinson auf dem</p>
+
+            <p>Board 0/ trade.</p>
+
+            <p>Mit Brahl Besuch bei Robinson — bei Planta — vergeblicher bei Lord Castlereagh — Gang zum Uhrmacher — Besuch bei der Herzogin und dem Herzog von (^umberland — bei Engström ^j — bei Mrs. Waddington — Mittag, bei Graf Münster mit dem Regenten — Abends bei Castlereagh.</p>
+
+            <p>14 (Sonntag), (o.) Mittag bei San Carlos. Mittag bei dem Herzog San Carlos.</p>
+
+            <p>15 (Montag). (2.) Besuch bei der Gräfin Lieven — vergeblicher bei PfelTel — bei dem General Alcdimkey — General Park- wilch — bei dem Baron Nicolai — Besuch bei Bourkes — Mittag mit Bülow allein zu Hause — Abends bei der Grätin Lieven.</p>
+
+            <p>') William Hydc WolListon CijOO—iS-jS), Chemihcr und Physiker.</p>
+
+            <p>") Nach „Burnand" f,estrichen : ,,2— J. l'ei Robinson mit Brahl auf dem Board of iraic."<note type="footnote" n="*)" resp="gnd-116890657"><hi>Nach „Hamilton gestrichen: „11. Uhr beim Grossfurst Michael." *j Ludwig Freiherr von Lebzeltern (iT]4 — i&lt;^S4), österreichischer Gesandter in Petersburg, vorher beim Papst: vgl. Wilhelm und Karoline von Humboldt 6, 222.</hi></note></p>
+
+            <p>•j Lorenz Graf Engeström (i-j^i—iS-Ji), schwedischer Diplomat.<pb n="15.497" xml:id="pbXV497"/> i6 (Dienstag), (i.) Va ^- Herzog von York Mittag. Mittag beim Herzog von York. 17 (Mittwoch), (o.)*) Mittag beim IVinzen Regenten.</p>
+
+            <p>12 — I. beim Herzog von (]umberland. Besuch bei dem Herzog — und der Herzogin von Cumberland — Namenaufschreiben beim Herzog von Clarence — vergebhcher Besuch bei Lord Keith — Besuch bei Osmond — Mittag beim Prinzen Regenten. i8 (Donnerstag), (o.) <note type="footnote" n="^)" resp="gnd-116890657"><hi>Nach „fo.J" gestrichen: „Mittag Leute bei mir."</hi></note> Abends Lady Ouseley.</p>
+
+            <p>Mittag beim Herzog von Cumberland in Kew. Bei der Westminster Wahl ^) — Namenaufschreiben beim Prinzen Regenten — dem Herzog von Clarence — dem Herzog von York — Zusammenkunft mit Mrs. Cashel — Mittag beim Herzog von Cumberland in Kew — wo "ich hin und her mit Lord und Lady Stafford fuhr. 19 (Freitag). (15.) Mittag Leute bei mir. Mittag mit Bülovv — Cuvier — de Bosset — Lansdowne — Münster — Planta — Ouseley — Wollaston — Wilkins — Bourke — Osmond — Long*) — Bierda — Lamb °} — Abends auf den Argyle rooms — Vormittags Besuch von den Obrist Lieutenants Eisenbart — und Bissingen. 20 (Sonnabend). (17.)^) Mittag den Herzog und die Herzogin von York bei mir. Spatzieren in den Strassen am Morgen gegangen — Mittag zu Hause mit Bülow — Lusi — Putbus — dem Herzog und — der Herzogin von York — Cook — dem Grafen und — der Gräfin Lieven — Esterhazy — Lord Alvanley — Lord Lauder- dale — Lord und — Lady Jersey — Mr. und — Mrs. Burrell. ') 21 (Sonntag), (o.) Mittag bei Lord Westmorland.</p>
+
+            <p>Hört die Trauer auf. Vergebliches Gehen nach Mrs. Cashel — Namenaufschreiben bei dem Herzog von Clarence — und Herzog von York — Nach<pb n="15.498" xml:id="pbXV498"/>fragen nach dem Herzog von Cumberland — Besuch bei Graf Münster — vergeblicher bei Grafin Lieven — Mittags bei Lord Westmorland — Abends bei Lady Salisbury.<note type="footnote" n="2)" resp="gnd-118554727"><hi>Nach „(o.y gestrichen: „Mittag bei Lord Westmorland" *) Vgl. Wilhelm und Karoline von Humboldt 6, 225. *) Charles Long Baron Farnborough (i-jöi — iS^S), Generalzahlmeister. ^) William Lamb (i-]-]g—i84SK Parlamentarier.</hi></note></p>
+
+            <p>22 (Montag). (9.) Mittag Leute bei mir.</p>
+
+            <p>Abend bei Lady Jersey.</p>
+
+            <p>Parlamentswahl in Guüdhall^) — Mittags zu Hause mit Bülow — Möller — Clausewitz — Giese — Bourcard — Brahl — Otto*) — Wagner — Abends bei Lady Jersey.</p>
+
+            <p>23 (Dienstag). (8.) Mittag Leute bei mir. Vergeblicher Besuch bei Lord Castlereagh — bei der Gräfin Lieven — Mittags zu Hause mit Bülow — Herrn Obristlieutenant Kysenbart — dessen Frau — Obristlieutenant Bissingen — und dessen Frau — Professor Otto — und Graf Lusi.</p>
+
+            <p>24 (Mittwoch). (2.) Dejeuner bei Lord F&gt;ssex. abgesagt. Auf dem Brittischen Museum — Mittags allein zu Hause mit dem Professor Otto.</p>
+
+            <p>25 (Donnerstag), (i.) Abends Mrs. George Pelham.</p>
+
+            <p>Mrs. Chinnery. abgesagt. Dejeuner bei Lord Essex, wenn es nicht am 24. ist. abgesagt.</p>
+
+            <p>Mittags bei Graf Lieven mit dem Prinzen</p>
+
+            <p>Regenten. 12. Uhr bei Millingen. Abends Lady Dain. Vormittag auf dem Museum — vergeblicher Besuch bei Planta — Cumbcrlands — Mittag bei Lievens mit dem Prinzen Regenten.</p>
+
+            <p>26 (Freitag). (2.) Abend bei Liddel. Geschäfiszusammenkunft mit Planta — Besuch bei Hamilton — bei dem Herzog von (Äimbcrland — Mittag allein mit Bülow — Abend bei Sir Th. Liddel mit dem Prinzen Regenten.</p>
+
+            <p>27 (Sonnabend), (i.) Mittag bei Long. Vormittag auf dem Museum — Mittag bei Charles Long. 2&gt;&gt; (Sonntag). (2.) Muss der Barbier bezahlt werden. Besuch bei Hamilton — der Gräfin Münster — Mittag mit Bülow allein zu Hause.</p>
+
+            <p>2C) (Montagj. (o.) Mittag bei (iumberlands.</p>
+
+            <p>Herunigelien zu W'agenmachern — aiil dein Museum — Mittag in Kew bei (Cumbcrlands.</p>
+
+            <p>') ^A'/- H'j///i'//» uni Karoline von Ilumboldl 6, 29?. »j Adolf Wilhelm Üitu (i-j60—i84^), l'rujessor der AnMomie in Drcsljii.</p>
+
+            <pb n="15.499" xml:id="pbXV499"/>
+            <p>30 (Dienstag), (i.) Mittag bei Vansittart. '/^ 7. Mittag bei Vansittart.</p>
+
+            <p>Julius 1818.</p>
+
+            <p>1 (Mittwoch), (o.) Mittag bei Lady Dowagey Lansdowne. Auf dem Museum — Namenaufschreiben beim Regenten — vergeblicher Besuch bei Bloomfield — Gang zum Uhrmacher — Namenaufschreiben beim Herzog, und der Herzogin von York — vergeblicher Besuch bei Lady Stafford — Mittag bei der Marchioness Doivager 0/ Lansdowne.</p>
+
+            <p>2 (Donnerstag) (1.) Mittag bei Lord Jersey.</p>
+
+            <p>Abends Mrs. Chinnery.</p>
+
+            <p>Lady Cholmondeley.</p>
+
+            <p>Auf dem Brittischen Museum — vergeblicher Besuch bei VVest- macott — Mittag bei Lord Yersey, dort Lady und Lord March — Lord und Lady Enston — Abend bei Lady Cholmondeley mit dem Regenten.</p>
+
+            <p>3 (Freitag), (i.) Mittag bei Graf Lieven mit dem Herzog von Cumberland.</p>
+
+            <p>Mittag bei Graf Lieven mit dem Herzog und der Herzogin von Cumberland.</p>
+
+            <p>4 (Sonnabend). (2.) 4 — 5. zum Obristen Cotton in Gloucester house.</p>
+
+            <p>Auf dem Brittischen Museum — Zusammenkunft mit dem Obristen Cotton — Mittag allein mit Bülow zu Hause.</p>
+
+            <p>5 (Sonntag). (2.) Esterhazy's Wagen besehen, und mit ihm und Neumann gesprochen — vergeblicher Besuch bei Lord Radstock ') — bei Fagel — bei Osmond — Besuch bei San Carlos — allein mit Bülow zu Hause gegessen.</p>
+
+            <p>6 (Montag). (2.) Vor 3. in Kew bei dem Herzog von Cum- berland.</p>
+
+            <p>Nach Kew zum Herzog und der Herzogin von Cumberland gefahren, — den Garten besehen — nach Hamptoncourt gefahren — in Kew beim Herzog den Mittag gegessen.</p>
+
+            <p>7 (Dienstag). (2.) Abend bei der Marquise Hertford. Mittag allein mit Bülow zu Hause — Abends bei der Marquise Hertford mit dem Prinzen Regenten.<pb n="15.500" xml:id="pbXV500"/> 9 (Donnerstag). (4.) Abend Herzogin von ArgvH. Auf dem Brittischen Museum <note type="footnote" n="*)" resp="gnd-116890657"><hi>Esmond Henry Percy Lord Limerick ('/75Ä— /Ä'45J, Parlamentarier . *) Fitzroy James Henry Somerset (tj88—i8ssJ, Wellingtons Adjutant und Privatsekretär.</hi></note> — vergeblicher Besuch bei Guvier — Besuch bei Rothschild — Mittag mit Bülow — Brahl — und Otto zu Hause — Abend bei Lady Cork — und der Herzogin Argyll. 10 (Freitag). (2.) Vergeblicher Besuch beim General Ross — bei Lord Limerick ^) — bei dem Grafen Testaferrata — bei Lord Fitzroi Somerset^) — bei Lamb — bei dem Grafen Veitheim — bei Graf Münster — bei Lady Jersey — Spatziergang — Mittag mit Bülow allein zu Hause. 1 1 (Sonnabend). (2.) Abend bei Lady Charleville. Auf dem Brittischen Museum ^) — Besuch bei Xeumann — vergeblicher bei Esterhazy — Graf und Gräfin Lieven — Mittags mit Bülow allein zu Hause — Abend bei der Herzogin von Cum- berland — und Lady (Charleville. 12 (Sonntag), (i.) Mittag bei Sir B. Bloomlield auf dem Steedhonse um 2. Uhr. — zwischen 12. und i. holt mich Esterhazy ab. Mittag beim General Bloomfield mit dem Prinzen Regenten — und dem Grossfürsten Michael. 13 (Montag), (i.) Abend bei der Gräfin Mengden. Besuch bei Miss Price zum erstenmal — bei Planta — vergeblicher bei Lord (Castlercagh — Gang zum Uhrmacher — Namenaufschreiben beim Prinzen Regenten — beim Herzog und der Herzogin von (Clarcnce — Mittag beim Fürst Esterhazy — Abend bei der Gräfin Mengden. 14 (Dienstag). (5.) Abend bei Lady Hcathcote. Murray. Besuch bei Lord (Castlcreagh — bei Neumann — Gespräch ') Vgl. Wilhelm und Karolinc yun UumbuhU 6, 24.2.<note type="footnote" n="*)" resp="gnd-116890657"><hi>William Waldegrave Lord Radstock (i']53—i82ß), Admiral.</hi></note><note type="footnote" n="*)" resp="gnd-116890657"><hi>^'ä^- ^^f"^'^ (^&gt; 252.</hi></note></p>
+
+            <pb n="15.501" xml:id="pbXV501"/>
+            <p>mit Esterhazy auf der Strasse — vergeblicher Besuch bei Graf Lieven — Mittag zu Hause mit Bülow — Accum — Schlichtegroll — und Osann — Abends bei Lad}' Heathcote mit dem Prinzen Regenten</p>
+
+            <p>15 (Mittwoch), (i.) 12 — I. zu Houlditch. Abend 10. Uhr im Frack zum Prinzen</p>
+
+            <p>Regenten. 12. Conferenz bei Lord Castlereagh. Mittag beim Herzog von Cumberland. Conferenz bei Castlereagh — vergeblicher Besuch bei Graf Veitheim — Besuch bei der Grätin Schulenburg-Burgscheidungen — bei Miss Price — Mittag beim Herzog von Cumberland — Abend beim Prinzen Regenten. ^)</p>
+
+            <p>16 (Donnerstag), (o.) Mittag bei Esterhaz}'.</p>
+
+            <p>Abend bei Lady Glengall. Auf dem Brittischen Museum — Besuch bei der Herzogin von Cumberland — Mittags bei Esterhazy — Abend bei Lady Glengall.</p>
+
+            <p>17 (Freitag). (2.) Besuch bei dem Herzog und der Herzogin von Cumberland, um sie abreisen zu sehen ^) — Namenaufschreiben beim Prinzen Regenten — Besuch bei Esterhazy, von ihm Abschied zu nehmen — Mittags mit Bülow allein zu Hause. 18 (Sonnabend). (3.) Auf dem Brittischen Museum — Zusammenkunft mit Planta — Besuch von Esterhazy — Mittag mit Bülow und Esterhazy zu Hause gegessen.</p>
+
+            <p>19 (Sonntag). (2.) Besuch von Bourke — Chinnery — Münster — Mittag mit Bülow allein zu Hause.</p>
+
+            <p>20 (Montag). (2.) ^) Besuch bei Lady Avv'ning — vergeblicher bei Graf Veitheim — Mittag mit Bülow allein zu Hause.</p>
+
+            <p>21. (Dienstag). (12.) Leute bei mir. Spatzierengehn in den Strassen — mit Mrs. Elisa in Oxenden street — Mittag zu Hause mit Graf und Gräfin und Comtesse Veitheim, Gräfin Schulenburg, Baron Pfeffel, Graf Giech, ■<note type="footnote" n="*)" resp="gnd-116890657"><hi>Vgl. Wilhelm und Karoline von Humboldt 6, 251. *) Vgl. ebenda. '} Nach „(2.)" gestrichen: „Leute bei mir."' *) Friedrich Karl Hermann Graf Giech, der Schwiegersohn des Freiherrn vom Stein.</hi></note> Graf (]hlapowski, Chinnery, Thun, Bülow und Lusi.</p>
+
+            <p>22 (Mittwoch). (2.) Untersuchung der Sachen von Lady<pb n="15.502" xml:id="pbXV502"/> 23 (Donnerstag). (2.) Auf dem Brittischen Museum — Besuch bei Planta — Xamenaufschreiben bei dem Prinzen Regenten — Gang zum Uhrmacher — mit Mrs. Eliza in Oxenden Street — mit Bülow Mittag allein zu Hause. — Mrs. Kliza vorgeschossen 3. £. 24 (Freitag), (i.) Abend bei Lady Charleville.</p>
+
+            <p>Mittag 6 Vi- bei Lord Holland. Mittag bei Lord Holland. 25 (Sonnabend). (1.) Mit Mrs. Kliza in Oxenden s housc — Mittag bei Bloomfield im Steed housc — vorher im Schloss von Hamptoncourt. 26 (Sonntag), (o.) Mittag bei Bourke, Zusammenkunft in Geschäften mit Planta — Namenaufschreiben beim Prinzen Regenten — vergeblicher Besuch bei Mrs. Hamilton — Besuch bei Münsters — bei Veliheims — Mittag bei Bourke mit Bülow — Abend vergeblicher Besuch bei der Gräfin Palmella. 27 (Montag). (2.) Besuch von Bourcard — von Perregaux und Sohn — Mit Mrs. Eliza Duncan — Besuch bei der Gräfin Lieven — Zusammenkunft mit Rothschild — allein mit Bülow Mittags zu Hause. 28 (Dienstag). (2.) Besuch bei Lieven — Zusammenkunft bei Castlereagh über die Schwedische Sache — Besuch bei Bloomfield — Mittags mit Bülow allein zu Hause. 2(j (Mittwoch), (i.) Besuch bei Planta — Bloomfield — Mittag bei Lord Jersey in Osterley Park. 30 (Donnerstag), (i.)^) Mittag bei Osmond mit dem Re- genten. Mit Mrs. Duncan ~* Gang zum Uhrmacher Mittag bei Osmond mit dem Regenten. 31 (Freitag). (5.) Abend Lady Murray. Geschäftsgang zu Bourcard — Rothschild Besuch bei Madame Dupuis — Mittag zu Hause mit Bülow — i^^ckard — dessen Sohn — Brahl ~ Abend bei (iraf .Münster — Lady Murray. ') Nach ,//./' gestrichen: „MitUg Leute hei mir."</p>
+
+            <pb n="15.503" xml:id="pbXV503"/>
+            <p>August 1818.</p>
+
+            <p>i (Sonnabend). (1.) 12 — i. mit Bourke zu Hope. Besehen der Kunstsachen bei Hope ') — vergeblicher Besuch bei Möller — Besuch bei der Gräfin Lieven — Mittag allein zum Essen dort.</p>
+
+            <p>2 (Sonntag). (2.) Muss der Barbier bezahlt werden. Besuch bei San Carlos — Spatziergang in den Strassen — Mittag mit Bülow allein zu Hause.</p>
+
+            <p>3 (Montag). (2.) Abend Mrs. Villiers. Besuch bei Graf Lieven — Gang zum Uhrmacher — vergeblicher Besuch bei Wellington — Mittags allein zu Hause mit Bülow.</p>
+
+            <p>4 (Dienstag). (12.) Mittags der Prinz Regent bei mir. <note type="footnote" n="^)" resp="gnd-116890657"><hi>Vgl. Wilhelm und Karoline von Humboldt 6, 26-]. ') George Frederick Blomberg, Hofkaplan des Prinzregenten. *) Karl Andreas Graf Pozzo di Borgo (1J64—1842), russischer Diplomat.</hi></note> Mittags zu Hause mit — Bülow — dem Prinzen Regenten — ßloomfield — General Keppel — Castlereagh — Blomberg') — Long — Arbuthnot — Wellington.</p>
+
+            <p>5 (Mittwoch). (14.) Mittags Leute bei mir.</p>
+
+            <p>Abends Lady Cockerell. Gang zum Uhrmacher — vergeblicher Besuch bei Graf Löwen- hielm — Zusammenkunft mit Lord Castlereagh — Besuch bei Baron Stjerneld — vergeblicher beim R. H. Villers — Mittag zu Hause mit Bülow — Graf — Gräfin Lusi — Mr. — Mrs. Burnant — Miss Gifford — Poppenpohl — Graf Ludolf — Pozzo di Borgo *) — Bloudoff — Herzog — Herzogin San Carlos — Marquise Lans- down — Besuch von Neumann — Bourke.</p>
+
+            <p>6 (Donnerstag). (1.) Gang zum Stellmacher — zum Buchhändler Lackington — Mittag ganz allein zu Hause. 7 (Freitag). (3.) Besuch bei Rothschild — Mittag allein mit — Bülow — und Schinas zu Hause.</p>
+
+            <p>8 (Sonnabend), (i.) Besuch bei Möller — Gang zum Uhrmacher — Fahrt zu Lord Castlereagh nach North Cray. 9 (Sonntag), (i.) In North Cray.</p>
+
+            <p>10 (Montag). (2.) Von North Cray zurück — Besuch von</p>
+
+            <p>') Thomas Hope (ijjo — 18^1), berühmter Sammler und künstlerischer Mäzen.</p>
+
+            <pb n="15.504" xml:id="pbXV504"/>
+            <p>1 1 (Dienstag). (2.) Besuch von Palmella — Gang zum Uhrmacher — Mittag mit Bülow allein zu Hause. 12 (Mittwoch), (i.) Geburtstag des Prinzen Regenten.</p>
+
+            <p>Mittag bei Palmella. Namenaufschreiben beim Prinzen Regenten — Besuch bei Planta — vergeblicher bei Ludolf — Mittag bei Palmella — Abend bei Osmonds.</p>
+
+            <p>13 (Donnerstag), (i.) Mittag bei Graf Pieven. Mittag bei Graf Litven.</p>
+
+            <p>14 (Freitag). (2.) Mittag allein mit Bülow zu Hause. 15 (Sonnabend), (i.) Mittag bei Bourke. Vergeblicher Besuch bei Bloudoff — bei Poliiica — Besuch bei Veitheims — Gang zum Uhrmacher — Mittag bei Bourke.</p>
+
+            <p>16 (Sonntag). (2.) Geburtstag des Herzogs von York. Namenaufschreiben beim Herzog von York — beim Prinzen Regenten — vergeblicher Besuch bei Bloomfield — Besuch bei Fräulein von Hedemann — vergeblicher bei den jungen Prinzen von Hessen — Namenaulschreiben beim Herzog von Cambridge und der Herzogin — vergeblicher Gang zu Mrs. Miles wegen Mrs. Right — Mittags mit Bülow allein zu Hause.</p>
+
+            <p>17 (Montag). (8.) Leute Mittag bei mir. Besuch vom Domainen Inspector Linz aus (Koblenz — und Justizrath Heyer aus Halberstadt — Mittag zu Hause mit Lieven — Palmella — (&gt;araman — Bülow — Neumann — l^lanta — und Bourke.</p>
+
+            <p>18 (Dienstag). (4.) Mittag Leute bei mir. Besuch bei der Grafin Lieven — bei der Gräfin Schlaberndorff *) — Mittag zu Hause mit Bülow — dem Justizrath Heyer — dem Domainen Inspector Lintz. '^j</p>
+
+            <p>10 (Mittwoch). (4.) Zusammenkunft mit Mrs. Right bei Mrs. Miles — Besuch bei Neumann — bei Planta — vergeblicher bei Mrs. Miles Gang zu Houlditch — Besehen von der St. Pauls</p>
+
+            <p>') Karuliue Gräfin von Schlabrcndorff, geborene Gräfin von Kalckreuth (lyOi — ifi'-ij): y^l- über sie Gallerie von liildnissen aus Ruhds Vm^ang und Briefwechsel i, 20-j und W'Hliclin und Karoline von Humboldt 4, iVa. iS^- 0. 377. 27g. 281. 288. i'97. 5j^. S34») \%'l. ebenda 6', 27.9. 288.<pb n="15.505" xml:id="pbXV505"/> Kirche — Besuch bei Rothschild — Mittags zu Hause mit Bülow — der Grafin Schlabrendorll' — und deren Pllegetochter. ^)</p>
+
+            <p>20 (Donnerstag). (2.) -) Mittag mit Bülow allein. 21 (Freitag). (14.) Mittag l.eute bei mir. Mittag zu Hause mit Bülow — (]anning — Grimaldi — Fagel — Rush — Guerreiro — Robinson — Wagner — Löwenhielm — Stjerneld — Möller — Lusi — und Lord Palmerston — Abends vergeblicher Besuch bei Osmonds.</p>
+
+            <p>22 (Sonnabend). (3.) Mittag Accum^) bei mir. Mittag Accum bei mir. 23 (Sonntag). (2.) Besuch bei Gallatin — Lady Elizabeth Moner — der Gräfin Schlabrendorff<note type="footnote" n="*)" resp="gnd-116890657"><hi>Vgl. Wilhelm und Karoline von Humboldt 6, 279.</hi></note> — allein mit Bülow Mittag zu Hause.</p>
+
+            <p>24 (Montag). (3.) Mittag Bourcard bei mir. Mittag Bourcard bei mir.</p>
+
+            <p>25 (Dienstag), (i.) Mittag bei Osmond in Uniform.^) Um I. mit Brahl zu Robinson auf dem</p>
+
+            <p>Board of trade. Besuch von Graf Lieven — von Chlapowski — Conferenz mit Brahl bei Robinson — Gang zur Glashandlung von Blades — Besuch bei Planta — Lord Castlereagh — vergeblicher bei Palmerston — Besuch bei der Gräfin Lieven - Mittag bei dem Marquis Osmond.</p>
+
+            <p>26 (Mittwoch). (2.) II. Uhr zu Graf Lieven. Zusammenkunft mit Graf Lieven — vergeblicher Besuch bei Graf Ludolf — Besuch bei Frau von Bourke — bei Lady Castlereagh — Mittag allein mit Bülow zu Hause. 27 (Donnerstag). (3.) Mittag die Gräfin Schlabrendorff bei mir. Besuch bei Neumann — bei Graf Lieven — Mittag allein mit Bülow und der Gräfin Schlabrendorff zu Hause.</p>
+
+            <p>28 (Freitag), (o.) Mittag bei Graf Lieven. Mittag bei Graf Lieven — Abends Besuch bei der Gräfin Palmella.</p>
+
+            <p>29 (Sonnabend). (3.) Gang zum Pawnbroker Saul — zu vielen Buchhändlern — Besuch bei Rothschild — Mittag mit Bülow — und de Sanctis zu Hause.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Nach „(2.)" gestrichen: „Mittag Bourcard bei mir." ') „Accum" verbessert aus „Bourcard". *) Vgl. ebenda 6, 2S1. ^) Vgl. ebenda 6, 282.</hi></note></p>
+
+            <pb n="15.506" xml:id="pbXV506"/>
+            <p>I. Uhr bei Lord Castlereagh. Chlapowsky isst bei mir. Besuch von Bourcard — Conferenz mit Castlereagh — Spatziergang — Mittag mitBülow und — Graf Chlapowsky zu Hause. 31 (Montag). (2.) I. Uhr bei Lord Bathurst. Conferenz mit Rothschild — Besuch vom Obristen Brown — von Bates — Besuch bei Bathurst — Mittag allein mit Bülow zu Hause — Conferenz mit Lord (Castlereagh.</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">*Ö'</title>
+               </head>
+               <p>September i8iS. 1 (Dienstag). (2.) Gang zum Stellmacher — zum Cameen- händler Tassin — Mittag mit Bülow allein zu Hause. 2 (Mittwoch). (2.) Besuch bei der Gräfin Lieven — vergeblicher bei Bourke — Besuch bei Frau von Stürmer — Spatzierengehen — Mittags mit Bülow allein zu Hause. 3 (Donnerstag). (2.) Besuch bei Lieven — Mittag mit Bülow allein zu Hause. 4 (Freitag). (4.) Mittag Gräfin SchlabrendorlT bei mir. Besuch bei Gräfin Lieven — Spatzierengehen — Mittag mit Bülow — der SchlabrendorlT — und ihrer Ptiegetochter. 3 (Sonnabend), (i.) Besuch von Trengrouse ^) — Bourke — San Carlos — Spatzierengehen — Mittag allein zu Hause. 6 (Sonntag), (o.) Mittag bei Bourkes. Vergeblicher Besuch bei Sir Henry Englefield — Spatzierengehen — vergeblicher Besuch bei San Carlos — Besuch bei Os- mond — Mittag bei Bourke. 7 (Montag). (3.) I. Uhr zu Lord Bathurst. IvCsen der Papiere von St. Helena bei Bathurst-) — Gang zum Uhrmacher — Besuch bei Planta — Gang zum Wagenmacher — zum Buchhändler — Mittag zu Hause mit Bornemann ") — und dessen Sohn.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Vgl. oben S. 4S4 Anm. 1 tnui Wtllwlin und Kjroline von Humboldt 6, 296". *) Wilhelm Uortiem.mn (lyOd—i'S-ir), Lutteriedirektor in Berlin, bekannt besonders durch seine Berlin ifiio erschienenen „PLittdeutschcn Gedichte": vgl. ebenda 6, /yiw.</hi></note> ') Henry Trengrouse (ijj2—iS'i4), Erfinder eines Rettung sjpp.ir.its .ii;s Seenot.<pb n="15.507" xml:id="pbXV507"/> 8 (Dienstag), (i.) Spatzierengehen — Mittag allein zu Hause — Abends bei Astley. <note type="footnote" n="^)" resp="gnd-116890657"><hi>Major: vgl. Wilhelm ujid Karoline von Humboldt 6, 320.</hi></note> 9 (Mittwoch), (i.) Besuch von Lawrence ~ Martens ') — Chlapowski — Vergeblicher Besuch bei Neumann — Mittag allein zu Hause — Abends in Coventgardin. 10 (Donnerstag). (2.) Auf dem Brittischen Museum — vergeblicher Besuch bei Mrs. Williams — Graf Ludolf — M^ Rush — Mittag mit Martens allein zu Hause. 11 (Freitag), (i.) Gang dMi 6.2^% foreign office — zum Stellmacher — Besuch bei Mrs. Williams — allein Mittags zu Hause. 12 (Sonnabend), (i.) Mit der Gräfin Schlabrendorff auf dem Brittischen Museum — Gang zu Murray — vergeblicher Besuch bei Mrs. Williams — Spatziergang — Mittag allein zu Hause — Abends in Drurylane. ^) 13 (Sonntag), (i.) Besuch bei Mrs. Williams — Mittag allein zu Hause. 14 (Montag). (5.) Besuch bei Planta — Hamilton — Miss Knight — Mittag zu Hause mit Bülow — Martens — Schlichtegroll — John Siegling. ■*) 15 (Dienstag). (2.) Vergeblicher Besuch bei Mrs. Williams — allein zu Hause Mittags mit Bülow. 16 (Mittwoch). (2.) Bülows Geburtstag. Besuch bei Mrs. Williams — Gang zum Wagenmacher — Mittag allein mit Bülow^ zu Hause. 17 (Donnerstag). (2.) Besuch bei Mrs. Williams — bei Hamilton — bei Lord Guilford^) — Mittags allein mit Bülow zu Hause. 18 (Freitag). (2.) Gang zu einem Buchhändler — Mittag mit Bülow allein zu Hause. 19 (Sonnabend). (2.) Abend 2. Gang zum Wagenmacher — zu Dollond — vergeblicher Besuch bei boxat und Divett — Gang zu Mac Daniel — Mittag mit ') Zirkusunternehmen. ') „Drurylane" verbessert aus „CoveD[tgarden]". *) Sohn von Johann Blasius Sieglivg, Professor der Mathematik in Erfurt: vgl. ebenda 6, 561. ■*) Frederick. North Lord Guilford (i'j66—i827), Philhellene und Altertums- forscher.<pb n="15.508" xml:id="pbXV508"/> ßülow allein zu Hause — Abends bei Astley — Alexander^) und Valenciennes^) kamen bei mir an.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Wilhelm Burnenunn (i-j(f8—i8ö'4' , der spdtere Justizminister im Mi- nisterium Camphausen iS4fi.</hi></note></p>
+
+               <p>20. (Sonntag). (4.) Spatziergang — Mittag zu Hause mit Bülow — Alexander — und Valenciennes.</p>
+
+               <p>21 (Montag). ((S.) Leute bei mir. Namenaufschreiben beim Prinzen Regenten — Besuch bei Hloomfield — bei Hamilton — auf dem Brittischen Museum — bei dem Wagenmacher — bei Doxat und Divett — Mittag zu Hause mit Bülow — Alexander — Valenciennes — Rothschild — Hornemann — dessen Sohn — und Martens.')</p>
+
+               <p>22 (Dienstag). (7.) Leute bei mir.</p>
+
+               <p>Zum Uhr- — und Wagenmacher — zu Dollond— Spatziergang — Mittag zu Hause mit Bülow — Alexander — Valenciennes — Schlichtegroll — Meckel <note type="footnote" n="*)" resp="gnd-116890657"><hi>Johann Friedrich MecUel (ijSi — ifij^), Professor der .Anatomie und Phy-</hi></note> — Pound.</p>
+
+               <p>23 (Mittwoch), (o.) Vergeblicher Besuch bei Licven — der Gräfin Schlabrendorif — Besuch bei Bourke — Mittag bei Pound in Greenwich.</p>
+
+               <p>24 (Donnerstag), (i.) Mittag bei Hamilton um 6. Uhr. Besuch von Lieven — Praesentation Alexanders beim Prinzen Regenten^) — vergeblicher Besuch bei Bathurst — bei Fagel — Namenaufschreiben beim Grossfürsten Michael — vergeblicher Besuch bei Lieven — Mittag bei Hamilton — daselbst Admiral (vockburn ") — Mr. Mackenzie. ')</p>
+
+               <p>25 (Freitag). (5.) Besuch bei Graf Lieven — bei der Gräfin Schlabrendorlf — bei der Gräfin Lieven — Mittags zu Hause mit Alexander — Bülow — Valenciennes — und Accum — Abends in der Englischen Oper.</p>
+
+               <p>26 (Sonnabend). (2.) Mittag bei Lord Bathurst, '/a 7- Beim (irossfürsten Michael — und Baron Nicolav — Besuch</p>
+
+               <p>') Alexander vun Humboldt blieb bis zum 8. Oktober in London und ging dann zum aachener Kongress: vgl. Bruhns, Alexander von Humboldt 2, 76 und Wilhelm und Karoline von Humboldt 6, 'fJO.</p>
+
+               <p>'-) Achitle Valenciennes (jjf/4 — 1'%4), Professor der Zoologie in Paris, Mit- arbeiter Cuviers: vgl. ebenda.</p>
+
+               <p>') Vgl. ebenda.</p>
+
+               <p>siologie in Halle.</p>
+
+               <p>») Vgl. ebenda (&gt;, j-jj^. •) George Cochburn (ijj-j—iS^j), Admiral.</p>
+
+               <p>') Vielleicht der Novellist Henry Mackenzie (iy4'!;—t^jfi/ oder der Portrait- maler Samuel Mackenzie (i7S^—iS4j).<pb n="15.509" xml:id="pbXV509"/> bei Neumann — dem Herzog San Carlos — Mittag bei r.ord Bathurst.</p>
+
+               <p>27 (Sonntag). (4.) ii. Uhr mit Alexander zum Grossfürsten. Besuch mit Alexander beim Grossfürsten — Stjerneld — Gräfin Palmella — Marquise Hertford — Ludolf — Rush — und Gallatin — Besuch von Lebzeltern — Mittag bei Lievens mit dem Grossfürsten.</p>
+
+               <p>28 (Montag). (4.) Alexander nicht zu Hause. ^)</p>
+
+               <p>V2 10. in die Lancasterschulen. ^) 2. zu Lord Bathurst im Office.</p>
+
+               <p>5. zu Rothschild.</p>
+
+               <p>In die Bellsche^) Volksschule gegangen — in Lord Bathursts Office — Besuch bei Rothschild — Mittag zu Hause mit Bülow — Valenciennes — und Martens.</p>
+
+               <p>29 (Dienstag). (3.) Alexander den Mittag aus.</p>
+
+               <p>In Lord Bathurst's Office — vergeblicher Besuch bei Mackenzie — bei Lievens — Mittag zu Hause mit Bülow, — Valenciennes — Abends zu Astley.</p>
+
+               <p>30 (Mittwoch). (5.) Alexander den Mittag aus. Gang zum Wagenmacher — Besuch bei der Gräfin Lieven — bei Lord Holland — Spatziergang um Kensington Palace — Mittag zu Hause mit Bülow — Martens — Bornemann Vater — und Sohn.</p>
+
+               <p>Üctober 181 8.</p>
+
+               <p>1 (Donnerstag). (2.) Um 3. beim Herzog von Devonshire in Chiswick.</p>
+
+               <p>Beim Herzog von Devonshire in Chiswick zum Frühstück. 2 (Freitag), (o.) Mittag bei Lord Guilford. Mittag bei Lord Guilford — dort Lady Caroline Lamb — Lady Besborough.</p>
+
+               <p>3 (Sonnabend), (o.) Mittag beim Herzog San Carlos. Im East India House — vergeblicher Besuch bei Lord Bathurst gebildeten Methode des wechselseitigen Unterrichts gelehrt wurde.</p>
+
+               <p><note type="footnote" n="*)" resp="gnd-116890657"><hi>Vgl. Wilhelm und Karoline von Humboldt 6, ^25. *) Joseph Lancaster (ijj8—i8^8) hatte bis zum Jahre 181 1 in London g^ nach ihm benannte Volksschulen begründet, in denen nach der von ihm aus-</hi></note> Andrew Bell (ij§^—i8^2) hatte in seiner Schule die gleiche Unterrichts' methode unabhängig von Lancaster eingeführt.<pb n="15.510" xml:id="pbXV510"/> — Hamilton — Mittag beim Herzog San Carlos — Abends bei Lady Hardwick.</p>
+
+               <p>4 (Sonntag), (i.) Muss der Barbier bezahlt werden.</p>
+
+               <p>Mittags beim Herzog von York in Oatlands. ^) Nach Oatlands — Nacht dort.</p>
+
+               <p>5 (Montag). (i6.) Mittag der Grossfürst bei mir.') Von Oatlands zu Bennet in Walton') — nach Hamptoncourt — nach London — Mittags zu Hause mit dem Grossfürsten — General Paskevvitch<note type="footnote" n="*)" resp="gnd-116890657"><hi>Iwan FedoroM'itsch Paskewitsch (iyS2 — i8^6j, russischer General, Reise-</hi></note> — General Congreve — Herzog von De- vonshire — Lord Guilford — Lord Bathurst — Canning — Alexander — Politica — Bülow — Valenciennes — Martens — .Fagel.</p>
+
+               <p>6 (Dienstag). (2.) Mittag bei Canning. Namenaufschreiben beim Prinzen Regenten — vergeblicher Besuch bei Bloomfield — Gang zum Uhrmacher — zu Mac Daniel — vergeblicher Besuch bei Bourke — Mittag bei Canning — Abend bei Bourkes.</p>
+
+               <p>7 (Mittwoch). (12.) Mittag Leute bei mir.</p>
+
+               <p>Vergeblicher Besuch bei Hamilton — Gang zu Dollond — Mittag zu Hause mit Hamilton — Alexander — Mackenzie — Wilkins — Leach ^) — de Sanctis — König — Murray — Bülow — Valenciennes — und Barrow ") — Abends bei Bovvdwich.</p>
+
+               <p>8 (Donnerstag). (8.) Mittag zu Hause mit Splittgerber — Alexander — Hausen — Bülow — Valenciennes — Bourcard — und Giese — meinen Bruder zur Mail bei seiner Abreise begleitet. ') 9 (Freitag). (2.) Mittag allein mit Bülow zu Hause.</p>
+
+               <p>10 (Sonnabend). (2.) Bei Lord Bathurst Papiere aus St. Helena zu lesen<note type="footnote" n="*)" resp="gnd-116890657"><hi>William Elford Leach (i~ffO — iS^.^), Zoolog. •1 Juhn Barrow iiy64—i848), Sekretär der Admiralität.</hi></note> — Mittag allein mit Bülow zu Hause.</p>
+
+               <p>') Vgl. Wilhelm tnid Karoline von Humboldt 6, j^2. *J Vgl. ebenda 6, vj^.</p>
+
+               <p>') Vgl. ebenda 6, vVjbegleiter des Grossfursten Michael.</p>
+
+               <p>') Vgl. ebenda 0, yj^. Der dort (S. jj6) als Mutagsgast erwähnte „alte Mann . . . der, da wir sehr kleine Kinder waren, mit meinem V^ater o/t auf der Jagd gewesen ist" scheint Hausen zu sein (vgl. schon oben S. 4^3 unter dem 6. Februar).</p>
+
+               <p>•) Vgl. üben S. 4S4 Anm. 1.</p>
+
+               <pb n="15.511" xml:id="pbXV511"/>
+               <p>511</p>
+
+               <p>11 (Sonntag). (2.) Mittags zu Hause mit Bülow. 12 (Montag). (2.) Gang zu Bates — Besuch bei der Bourke — Besuch von Schlichtegroll — und Osmond — Mittags mit Bülow allein zu Hause.</p>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">13 (Dienstag). (4.) Gang zum Uhrmacher — Namenauf-</title>
+               </head>
+               <p>schreiben beim Erzherzog Maximilian ^) — Spatziergang — Mittag 2u Hause mit Bülow — Bornemann — und dessen Sohn.</p>
+
+               <p>14 (Mittwoch), (i.) Mittags bei Osmond. Besuch bei Hamilton — Mittags bei Osmond.</p>
+
+               <p>15 (Donnerstag). (2.) Nach Woolwich — dort das 74. Ca- nonen Kriegsschiff Talavera vom Stapel laufen gesehen — dem Pferderennen, das die Officiere veranstaltet hatten, beigewohnt — Mittags mit Bülow allein zu Hause.</p>
+
+               <p>16 (Freitag). (2.) Mittags mit Bülow allein zu Hause. 17 (Sonnabend). (5.) Giese bei mir. Ueberzeugte mich durch Befragung von de Sanctis, dass ich die Krätze vom Jäger bekommen — Besuch bei Bourkes — Osmond — vergeblicher bei Neumann — San Carlos — Mittags Giese — Bourcard — De Sanctis — mit Bülow zum Essen bei mir.</p>
+
+               <p>18 (Sonntag). (3.) Besuch bei Hamilton — Mittags mit Bülow und — Bopp ^) zu Hausci</p>
+
+               <p>19 (Montag), (o.) Mittag mit Bülow bei Bourkes. Auf dem Ostindischen Waarenhause — Mittags bei Bourke.</p>
+
+               <p>20 (Dienstag). (3.) Gang zum Uhrmacher — Spatziergang — Besuch bei Frau von Bourke — Mittags mit Bülow — und de Sanctis zu Hause.</p>
+
+               <p>21 (Mittwoch). (2.) Bopp bei mir. Gang zu Rothschild — zu Doxatt und Divett — Mittags mit Bopp allein zu Hause — Bülow verreiste heute nach Portsmouth.</p>
+
+               <p>22 (Donnerstag), (i.) Vergeblicher Besuch bei Lord Bathurst — und Hamilton — Mittags allein zu Hause.</p>
+
+               <p>23 (Freitag). (4.) Bornemanns bei mir. Besuch bei Hamilton — Mittags mit Bornemann — dessen Sohn — und dem, als Courier, gekommenen Legationsrath Michaelis zu Hause.<note type="footnote" n="1)" resp="gnd-118554727"><hi>Maximilian Josef Johann Erzherzog von Österreich (i'j82 — iS6^). ') Franz Bopp (ijgi — i86jj, der Begründer der vergleichenden indogerma- nischen Sprachwissenschaft, hielt sich damals wegen seiner Sanskritstudien längere Zeit in London auf: vgl. Wilhelm und Karoline von Humboldt 6, ^ßi und Lef- mann, Franz Bopp S. 64. jg.</hi></note></p>
+
+               <pb n="15.512" xml:id="pbXV512"/>
+               <p>24 (Sonnabend). (3.) Kam Bülow zurück — Mittags mit Bülow und Michaelis zu Hause.</p>
+
+               <p>25 (Sonntag). (G.) Mittags bei Knglefield (3Vo. Bei Miss White — Spatziergang — Mittags zu Hause mit Bülow — Bornemann — dessen Sohn — Michaelis — und Lusi.</p>
+
+               <p>2() (Montag). (2.) Besuch bei Watson — vergeblicher bei Lord Bathurst — Besuch bei Hamihon — vergeblicher bei l'Xgel — Gang zum Uhrmacher — vergeblicher Besuch bei Murra}' — Stjerneld — d'Aglie — Rush — Ludolf — Gang zu Miss Williams — Besuch bei San (Carlos — bei Osmond — Besuch von LangsdorfT — von Bourcard — Mittags allein zu Hause mit Bülow.</p>
+
+               <p>27 (Dienstag). (3.) \''ergeblicher Gang ins Bad von Lei- cestersquarc ~ Bad in Harleystrcct — Mittags zu Hause mit Bülow und — Michaelis.</p>
+
+               <p>28 (Mittwoch). (3.) Besuch bei Möller — Murray — Westmacott — Gang zum Silberarbeiter — Unterredung mit dem Prinzen Regenten ^) — vergeblicher Besuch bei ^) Bathurst — Liverpool — Bourke — Besuch bei Hamilton — Osmond — Gang zum Herzog von York zum Namenaufschreiben — Bad — Mittags zu Hause mit Bülow — Michaelis.</p>
+
+               <p>29 (Donnerstag). (5.) Deponirung der Documente der IVeussi- schen Anleihe auf der Bank mit Rothschild ^) — Mittags mit Bülow — Bornemann — dessen Sohn — und Bourcard zu Hause.</p>
+
+               <p>30 (Freitag). Von London mit Graf Lusi abgereist um 8. bis 10. noch beim Sattler Houlditch geblieben, den Wagen anders zu hängen — in Rochester Mittag gegessen — in Dover im York hötel die Nacht geblieben.</p>
+
+               <p>31 (Sonnabend). Ueber das Meer in drei Stimden gefahren mit dem eigen gemiethetcn Paketboot Sybilla des (&gt;apitaine Middleton — in (Calais Mittag gegessen — Abends in St. Omer angekommen, um die Nacht zu bleiben.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Nach „bei" gestrichen: „Hamilton — ". 'j Iiin wehmiitiger Abschiedsbesuch bei den Elginschen Marmorstatuen M'ird (ebenda) am Vormittag des 'M). erwähnt. *) Vgl. ebenda 0, 36'^.</hi></note></p>
+
+               <p>') Vgl' Wilhelm und Kcirvlinc von Humboldt 6, y57<pb n="15.513" xml:id="pbXV513"/>November 1818.</p>
+
+               <p>I (Sonntag). Mittags in Lille gegessen — zum Nachtquartier In Ath angekommen. ^)</p>
+
+               <p>3 (Dienstag). Geburtstag der Prinzessin Sophie. 8 (Sonntag). Muss der Barbier bezahlt werden.</p>
+
+               <p>Als Umschlag der londoner Tagebuchhefte ist ein Foliobogen überliefert, der von Humboldts Hand folgende Namenlisten enthält:</p>
+
+               <p>„Es sind zu bitten. X, Lord Eldon. ^i. Herzog von York. 2. Lord Harrowby. 32. Herzosin. 3. Lord Sidmouth. ^j. Major Poten. 4. Vansittart. 34- Obrist Cook. 5. Lord Mulgrave. 3S- Lord Stafford. 6. Lord Cholmondeley. 36. Lady. 7. Lord Hertford. 3j. Lady Elisabeth Gower 8. Lord Palmerston. 38. Herzog Leeds. g. Popenbohl. 3g. Sapte. £0. De Cazes. 40. Sir George Warrender. II. William Fagel. 41. Lord Binning. 12. Engström. 42. Chevalier Lawrence. 13. Clausewitz. 43. Obrist Leake. 14. Guerreiro. 44. Lord Carleton. 15. d'Aglie. 45. Sir Gore Ouseley. 16. Grimaldi. 46. Bierda. 17. Rush. 47. Arbuthnot. 18. Knight. 48 Mr. Allen. ig. Englefield. 4g. Campuzano. 20. Young. SO. Remilly. 21. Davy. Si. Bauer. 22. Hausen. 52. de Bosset. 2^. Lord Lansdowne. 53. Putbus. 24. Lord Holland. 54. Bassewitz. 25. Lord Henley.</p>
+
+               <p>55- Beil. 26. Baron Best. 56. Convett. % 27. Möller. 57. Sir John Murray. 28. Lord Gower. S8. Lord Ennismore. 2g. Herzog von Cumberland. Sg. Lord Jersey. ßO. Herzogin. 60. Lord Whitworth.</p>
+
+               <p>33</p>
+
+               <pb n="15.514" xml:id="pbXV514"/>
+               <p>Sind gebeten gewesen und haben abgesagt. 1. GraJ Münster. 9, 21. 2. Lord Gastier eagh. 2, 27. 5, 21. ^. Lord Batliurst. j, 21. 5, g. 4. Lord WestmoreLmd. q, 21. 5, g. 5. Lord Melvüle. j, 27. 6. Robinson. 3, 27. 7. Canning. 3, 27. 8. Ritsh. 3, 27. g. Young. 3, 27. 10. Dodwell. 4, 2. //. Wellington. 5, 9. J2. Aberdeen. 5, 9.</p>
+
+               <p>/^. Clanwilliam. ^) 5, 5. i^. General Congreve. 5, 9. ij. Lord Stewart. 5, ^.</p>
+
+               <p>/^. Spencer. 5, //. 77. Hamilton. 5, //. /^. Sotheby. 5, //.</p>
+
+               <p>79. Sir James Mackintosh. 6, 5.</p>
+
+               <p>20. Combe. <note type="footnote" n="*)" resp="gnd-116890657"><hi>Taylor Combe (1^^4—1826', Altertumsforscher. *) Dominique Fran^ois Arago (iy86—i8\3l, Professor der Astronomie an der polytechnischen Schule in Paris, intimer Freund AUwandvr von Humboldts, den er bei seinem londoner Besuche vom 31. Oktober — 2. Dezembtr i8ij begleitet hatte: vgl. Wilhelm u)id Karaline von Humboldt 6, 25. 30. 95. 64-</hi></note> 6^, 5. 21. Lady Worcester. 6, 20.</p>
+
+               <p>22. Ml Leitrell. 6, 20.</p>
+
+               <p>23. Best. 24. Vansittart. 1. Prinz Regent. März. 21. 2. Prinz von Hessen Homburg, eodem. 3. Graf Lieven. 2j. Februar. 21. März.</p>
+
+               <p>5, 23. 4. Fürst Esterhazy. December. 27. Februar. 21. März. 5, g. 5. Marquis Osmond. 21. März. 6. Herzog San Carlos. 21. März. 7. Baron Fagel. 3, 21. 5, 23. 8. Graf Münster. 3, 21. 5, 9. 0, ig. 9. Lord Anglesey. 3, 21. 5, 9. 10 Herzog Montrose. 3, 21. 11. Lord Stewart. 27. Februar. 3, 21. 12. Lord Liverpool 3, 21. 13. General Bloom field. 3, 21. 14. Graf Palmella. December. 5, 75. 75. Neumann. December. 2, 27. 5, 9. 75. 16. Alexander. Oft. 77. Arago. ') Oft. 18. Caraman. — 5, 9. ig. Giese. oft. 3, 26. 4, 4- 20 Bourcard. oft. 4, 4.</p>
+
+               <p>2324.</p>
+
+               <p>2526. 27. 28.</p>
+
+               <p>29</p>
+
+               <p>30. .V3-34.</p>
+
+               <p>3&gt;3(^</p>
+
+               <p>31- 38.</p>
+
+               <p>39</p>
+
+               <p>40.</p>
+
+               <p>41.</p>
+
+               <p>Soll)'. Ruppel. Frau von Berg. October. December^.</p>
+
+               <p>5, 23. Nosse. oft. 4, 4. von Martens.</p>
+
+               <p>Bernstein. de Sanctis. Oft. 4, 2. 6, 5.</p>
+
+               <p>Scliinas. ojt. 3, 26.</p>
+
+               <p>Professor Hamilton.</p>
+
+               <p>Lord Burghersh. 2, 27. Planta. 2, 27. 5, 9.</p>
+
+               <p>Baron Bourke. 2, 27. 5, 11.</p>
+
+               <p>Geisler. Bremer. Herrmann.</p>
+
+               <p>Spliligerbcr. — 4, 4- Schlichtegroll. Oft. 5, 77. 6^ 5. von Grawert.</p>
+
+               <p>Colqhoun. 3, 26. Bollmann. 3, 26.</p>
+
+               <p>Solani. ?, 26.</p>
+
+               <p>') Richard Charles Francis Meadc Baron Clanwilliam (fjgs—tS-jq), Castle- reaghs Privatsekretär.<pb n="15.515" xml:id="pbXV515"/> 42. Ramadani. 3, 26. 43. Rose, Vater. 3, 27. 44. Rose, Sohn. 3, 27, 45. Everett. 3, 27, 4, 2. 46. Chinnery. 3, 27. 47. Hamilton, j, 27. 5, 23. 48. Langsdorff. 3, 27. 4g. G.rning. 3, 27. 50. Tom. 3, 27. 5/. P/e^el. 3, 27. 5, 5. 52. LudolJ. 3, 27. 55. N. M. Rothschild. 3, 28. 5, 25. 54. Samuel Rothschild. 3, 28. 5, 25. 55. Cohen, q, 28. 56. Barandon. 3, 28. 5, 25. 57. Rother. 3, 28. 4, 4- 58. Tzschoppe. 3, 28, 4, 4- Oft. 5, 25. 59. Millingen. 4, 2. 60. Baumann. 4, 2. 4, 4. 61. Liverati. 4, 2. 62. Fürst Lippe. 5, g. 63. Graf Pulbus. s, 9- i^- ^3- 6, 5. 64. Graf Schönborn. 5, g. 65. Stjerneld. 5, g. 66. iJavy. 5, g. 67. Baron Landesberg. 5, g. 68. Graf d'Aglie. 5, g. 6g. Baron Beil. 5, g. 70. Graf Bassewitz. 5, g. 71. Englefield. 5, 11. 72. Lawrence. 5, //. 7^. Brahl. Oft. 5, 11. 25. 6, g. 74. Young. 5, II. 6, 5. 75. Leake. 5, //. 76". Cockerell. 5, ii- 77. Knight. 5, II. 7^. Cordmann. 5, //. 79. Wj7üar?2 Fagel. 5, 23. 80. Lord Gower. 5, 2,5. 81. Gräfin Lieven. 5, 2j. 82. Herzog von Cumberland. 5, 23. 83. Herzogin von Cumberland. 5, 23. 84. Lord Stafford. 5, 23. 85. Lady Stafford. 5, 23. 86. Lady Elisabeth Leweson Gower.</p>
+
+               <p>5&gt; 23. 87. Paten, Major. 5, 23.</p>
+
+               <p>88. Schauber. 5, 25.</p>
+
+               <p>8g. Cuvier. 6, 5. ig. go. LaPasse. 6, 5. gi. Decazes. 6, 5. g2. Latreille. 6, 5.</p>
+
+               <p>g3. Otto. 6, g. g4. Accum. 6, g.</p>
+
+               <p>gs. de Bosset. 6, ig. g6. Lansdov.me. 6, ig.</p>
+
+               <p>gj. Ouseley. 6, ig. g8. Wollast on. 6, ig.</p>
+
+               <p>gg. Wilkins. 6, ig. 100. Long. 6, ig. loi. Bierda. 6, ig. 102. Lamb. 6, ig.</p>
+
+               <p>103. Herzog von York. 6, 20. 104. Herzogin von York. 6, 20.</p>
+
+               <p>105. Cook. 106. Lord Alvanley.</p>
+
+               <p>wj. Lord Lauderdale. 108. Lord Jersey.</p>
+
+               <p>lOg. Lady Jersey. HO. Mr. Burrel. 111. Mrs. Burrel.</p>
+
+               <p>112. Möller.</p>
+
+               <p>113. Clausewitz. 114. Wagner. 115. Obristlieutenani Eysenbart. 116. dessen Frau.</p>
+
+               <p>117. Obristlieutenant Bissingen. 118. dessen Frau, iig. Graf Veitheim. 120. dessen Frau. 121. dessen Schwester.</p>
+
+               <p>122. Gräfin Schulenburg.</p>
+
+               <p>123. Graf Giech. 124. Graf Chlapowski. 125. Eckard, Vater. 126. Eckard, Sohn.</p>
+
+               <p>12']. General Keppel. 128. Dr. Blomberg.</p>
+
+               <p>12g. Ml Arbuthnot. 130. Herzog Wellington.</p>
+
+               <p>131. Gräfin Liisi.</p>
+
+               <p>132. Mr. und 133. Mrs. Burnant. 134. Miss Gifford.<pb n="15.516" xml:id="pbXV516"/> i^j. Poppenpohl. 1^4. Vatenciennes. ij6. Pozzo di Borgo. 1^5- Meckel. ij]. Bloudoff. 1^6. Pound. 138. Herzogin San Carlos. 157. Grussfürst Michael. 13g. Marquise Lansdowne. 1^8. General Paskewitsch. 140. Justizrath Heyer. isg. Congreve. 141. Domainen Inspector Linz. 160. Herzog von Devonshire. 142. Gräßn Schlabrendorff. 161. Lord Guilford. i4j. deren Pßegetochter. . 162. Lord Bathurst. 144. Canning. i6j. Politica. 145. Grimaldi. 164. Mackenzie. 146. Rush. lös- Leach. i4y. Guerreiro. 166. König. 148. Robinson. i6j. Murray. 14g. Löwenhielm. 168. Barrow. 1^0. Pahnerston. i6g. Hausen. 151. Siegling, John. ijo. Bopp. 752. Bornemann. i-jr. Michaelis." ^53- dessen Sohn.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

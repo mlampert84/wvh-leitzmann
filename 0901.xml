@@ -1,0 +1,296 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Jugendgedichte</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Neunter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif09humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1912">1912</date>
+                  </imprint>
+                  <biblScope unit="page" from="1" to="8"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1786">1786</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="9.1" xml:id="pbIX1"/>
+            <head>
+               <title type="main">Jugendgedichte.</title>
+            </head>
+            <p>Ainsi qu'au milieu du printems Coule ä flots paisibles et lents Un ruisseau par une prairie, Puisse ainsi toujours sans soucis 5 Toujours en plaisirs et en ris</p>
+
+            <p>Aussi s'ecouler Votre vie. Que les Dieux Vous fassent jouir</p>
+
+            <p>Toujours d'une pure allegresse. Que loin de Vous ils fassent fuir lo A jamais la sombre tristesse.</p>
+
+            <p>Ahl que pour Vous en exaucant ces voeux, Belle Fanchon, ils me rendraient heureux.</p>
+
+            <p>Mais s'ils pouvaient de tendresse Remplir pour moi Votre coeur IS Et si de ne pas Vous deplaire</p>
+
+            <p>Ils pouvaient m'accorder la faveur,</p>
+
+            <p>Quel autre bonheur de la terre Egalerait älors mon bonheur! Komm wieder allgütiger Mai, Komm wieder und führ uns die Freuden der Liebe herbei! y Handschrift von a — d (2 Quartseiten) im Archiv in Tegel. 4 „sans soucis" verbessert aus „eu plaisirs". — 16 „pouvaient m'accorder" verbessert aus „m'accordaient". '^) Eine Umarbeitung dieses Gedichts enthält die zu f erwähnte Handschrift, deren Varianten ich im folgenden gebe. I. 7. ij „holdseliger". — 2 „Und bring ims die Wollust der". W. V. Humboldt, Werke. IX. I</p>
+
+            <pb n="9.2" xml:id="pbIX2"/>
+            <p>Denn danken wir Dir nicht alleine die Freuden Um die uns die Götter des Himmels beneiden ! 5 Führst Du nicht die Wonn und das Glük Das Venus und Amor verschaffen zurük ?</p>
+
+            <p>Komm wieder allgütiger Mai, Komm wieder und mache von Kummer uns frei ! Denn wer kann traurig noch Thränen vergiessen lo Wenn rund um ihn Knospen und Blüthen spriessen, Wenn wieder geschmükt von Mutter Natur Entgegen ihm winket die grünende Flur.</p>
+
+            <p>Komm wieder allgütiger Mai, Komm wieder, komm wieder und leih 15 Verjüngete Reize den einsamen Gängen</p>
+
+            <p>Wo oft bei der Nachtigall holden Gesängen An Dorilis Arm mir der Abend verfloss Wenn ich ihres würzigen Kusses genoss.</p>
+
+            <p>Komm wieder und schmükke mit lachendem Grün 20 Die Laube, wo oft von Umarmungen glühn, Wo oft von süsserer Wollust durchdrungen Als je eines Sterblichen Lippen gesungen Der Wonne der himmlischen Götter so nah Beneidend die einsame Luna uns sah! 25 Doch mach, dass vor allen bekleidet mit Pracht Entgegen dem Auge das Pläzchen lacht, Da wo bebend zuerst ich es wagte Und dass ich sie liebte in Worten ihr sagte, Da wo zuerst meinem jauchzenden Ohr 30 Laut Treue und Gegenliebe sie schwor.</p>
+
+            <p>c.</p>
+
+            <p>Gern sang' ich heute Dir ein Lied, Ein Lied, so schön es Amarant</p>
+
+            <p>Je seiner Nantchen sang, ^)</p>
+
+            <p>5 „nicht allein uns". — g „ Wes Auge kann". — 10 „rings". — 12 „grünende" verbessert aus „lachende".</p>
+
+            <p>V So nennt Goeckingk sich und seine Geliebte Sophie in den zuerst Leipzig i-jyj und vermehrt i-jyg erschienenen „Liedern zweier Liebenden".</p>
+
+            <pb n="9.3" xml:id="pbIX3"/>
+            <p>Gern sang' ich, wie mein Herz für Dich, o Freundin, glüht, 5 Gern sagt' ich Dir den wärmsten, besten Dank,</p>
+
+            <p>Den ich so lange schon empfand, Doch den in Thaten Dir zu zeigen, Es mir an Willen nicht, nein nur an Kraft gebricht. Allein so sehr ich zu ihm flehen mag lo So will doch Phöbus nicht</p>
+
+            <p>Herab zu meinem Saitenspiel sich neigen;</p>
+
+            <p>Sag' ich ihm gleich, dass dieser Tag Der fröhlichste für mich im Jahre ist. Weil Du o Holde! Du an ihm gebohren bist, 15 Du die ein freundschaftliches Band</p>
+
+            <p>Seit Jahren schon mit mir verknüpfte. An deren liebevoller Hand</p>
+
+            <p>Ich schon als Knab' oft hüpfte, Mit der im Jünglingsalter oft mein Herz 20 Bald Freude theilte und bald Schmerz,</p>
+
+            <p>Bitt' ich ihn gleich, nur diesen einzgen Tag Wie ers verdient zu feiern und zu ehren</p>
+
+            <p>Ein kleines Lied mir zu gewähren, Der Unerbittliche, er hört mich nicht. ^5 Drum zürne, Freundin, nicht wenn kein Gedicht,</p>
+
+            <p>Wie es für Dich sich ziemte, ich Dir singe, Und wenn ich Dir an diesem Tage Nur arme schlechtgereimte Wünsche bringe. Nicht Harm, nicht Kummer, keine Plage 30 Umwölke Deiner Jugend Frühlingsmorgen.</p>
+
+            <p>Mit immer heitrem, immer frohem Sinn</p>
+
+            <p>Schwind' er Dir, wie ein Traum dahin, Fern sei von Dir der Sorgen, Der kummervollen Sorgen schwarzer Schwärm, 35 Fern selbst der Liebe Harm.</p>
+
+            <p>Kurz, glüklich sei diess Jahr für Dich, So glüklich als für Dich und mich Das vorge unruhvoll gewesen ! Und will das Schiksal Dir ein Leben 40 Von höchster Erdenwonne geben,</p>
+
+            <p>So geb' es Dir zum Manne, wen wohl? — .</p>
+
+            <pb n="9.4" xml:id="pbIX4"/>
+            <p>Liebe, Liebe, Wonngefühl,</p>
+
+            <p>Dir allein weih' ich mein Leben, Du bist holder Jugend Spiel, Du kannst Kraft dem Alter geben. 5 Was war ohne Dich die Erde,</p>
+
+            <p>Ach! ein finstres trübes Thal, Angefüllt mit Pein und mit Beschwerde, Und mit tausendfacher Qual! Aber wenn noch irgend Freude lo Einen Sterblichen entzükt.</p>
+
+            <p>Wenn ein Trost ihn noch erquikt, O so danket Dir er beide. Welcher Pinsel schildert das Entzükken</p>
+
+            <p>Wenn ein Jüngling, der die Liebe noch nicht kennt, 15 Vor des schönsten Mädchens Blikken</p>
+
+            <p>Nun zum erstenmal entbrennt. Wer beschreibt uns, was beim ersten Kuss Dann sein wonnerfülltes Herz empfindet! Jedes andre Erdenglük verschwindet 20 Gegen diesen himmlischen Genuss!</p>
+
+            <p>In der Liebe Rausch versunken. Von dem Anblik seines Mädchens trunken, Ruft er: Jagt nach Ruhme, jagt nach Gold! Ich dien um der Minne Sold! 25 Seid an Nachruhm Cäsarn gleich.</p>
+
+            <p>Seid, wie Krassus, gross und reich, Glüklich durch der Liebe Freuden, Wird mein Herz Euch nie beneiden. Zwar sieht er sich oft betrogen, 30 Wenn er Buhlerinnen traut,</p>
+
+            <p>Und auf Liebe, die sie ihm gelogen. Seine ganze Hofnung baut. Aber hat denn jede Tugend</p>
+
+            <p>Unsern Erdball schon verlassen? 35 O! dann wehe seiner Jugend,</p>
+
+            <p>Er wird Lieb und Leben hassen.</p>
+
+            <p>Aber nein Beständigkeit und Treue wohnt Noch auf Erden, weiss er nur zu wählen.</p>
+
+            <pb n="9.5" xml:id="pbIX5"/>
+            <p>Wird's ihm nicht an einem Mädchen fehlen, 40 Die mit Treue seine Treue lohnt.</p>
+
+            <p>Und wie glüklich dann an ihrer Hand Er durchs Thal des Lebens wallt,</p>
+
+            <p>Wie verknüpfet durch der schönsten Liebe Band Stets sein Herz von Wonne überwallt, 45 Wie sein Leben heitrer, reiner.</p>
+
+            <p>Als der Himmel an dem schönsten Frühlingstag,</p>
+
+            <p>0 1 das fühle, wer zu fühlen es vermag,</p>
+
+            <p>, Nur zu singen wag' es keiner!</p>
+
+            <p>e.^j</p>
+
+            <p>Eilet raschen Flugs dahin,</p>
+
+            <p>Eilt, ihr trägen Augenblikke, Dass mein lieberfüllter Sinn</p>
+
+            <p>Meine Lina bald erblikke, 5 Sie, die meinem Herzen ach! so nah</p>
+
+            <p>Nie mein schwermuthsvolles Auge sah!</p>
+
+            <p>Dass ich an ihr klopfend Herz</p>
+
+            <p>Traulich-brüderlich mich schmiege. Süss vergessend jeden Schmerz, 10 Jede Sorg in Schlummer wiege.</p>
+
+            <p>Und versenkt in Himmelsschwärmerei, Nur in Lina lebe, webe, sei !</p>
+
+            <p>Ha! wenn dann mich hochentzükt</p>
+
+            <p>Sie in sehnendem Verlangen 15 An den Schwesterbusen drükt!</p>
+
+            <p>Wie wird dann auf meinen Wangen Süss beglükter Liebe Feuer glühn! Geist und Sinnen werden vor mir fliehn!</p>
+
+            <p>Trunken, meiner unbewusst, 20 Werd ich denken nur sie können;</p>
+
+            <p>Doch, durchglüht von reiner Lust, Wird mein Blik sie Schwester nennen, V Handschriß (ß Oktavseiten) im Archiv in Tegel. — Erster Druck: Wilhelm und Karoline von Humboldt in ihren Briefen i, 5 — 6 (igo6).</p>
+
+            <pb n="9.6" xml:id="pbIX6"/>
+            <p>AusdruksvoU ihr sagen, was, zu schwach, Sprache nachzubilden nicht vermag! 25 Schliesse, Lina, schHess den Bund,</p>
+
+            <p>Der an Seele Seele kettet. Der aus diesem Erdenrund</p>
+
+            <p>Uns in bessre Sphären rettet, Den von seines Thrones Herrlichkeit 30 Hoch der Vater sieht und benedeit!</p>
+
+            <p>Nie zerreisst ein Liebesband, Von der Tugend selbst geschlungen. Siehst Du nicht im Sternenland, Wenn wir endlich ausgerungen 35 Dieses Pilgerleben, ausgeweint</p>
+
+            <p>Jedes Leiden, dort uns fest vereint?</p>
+
+            <p>Sie, die sich mit heisser Gier Nach Unsterblichkeiten sehnet. Diese Seele, die sich hier 40 Stets an jene Hofnung lehnet —</p>
+
+            <p>Sieh! der ewge Vater gab uns sie, Und er täuschte seine Kinder nie!</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">I.</title>
+               </head>
+               <p>Es hebt in Ispahan, auf vierzig Marmorstufen Ein Pallast sich, ringsum mit Statuen geschmükt Wie Zeuxisse sie einst, und Praxitele schufen, So schön, so himmlischschön, dass wer sie sieht entzükt 5 Sie für beseelte Wesen hält, betrogen</p>
+
+               <p>Bald sich zur Leier neigt, die hier Amphion trägt. Bald fliehend, abgewandt vor dem gespannten Bogen Erbebt, mit dem Apoll den Pütho dort erlegt.</p>
+
+               <p>2.</p>
+
+               <p>Mit Gold sind überall die Wände übergössen; 10 Zehntausend Säulen tragen, von Marmor ausgehauen Und oben künstlich wie Kolossen</p>
+
+               <p>V Handschrift von f und g fj QiiaHseiten) im Archiv in Tegel; zuerst steht die Umarbeitung von b.</p>
+
+               <p>4 „himmlischschön" verbessert aus „meisterhaft".</p>
+
+               <pb n="9.7" xml:id="pbIX7"/>
+               <p>Gestaltet — ein Wunder ists zu schauen — Das goldgedekte Dach. Wie, wenn sie zum Entzükken Der Schöpfung sich erhebt, Hyperions Tochter strahh, 15 Wenn sie ihr Flammenbild im Blau der Wellen mahlt,</p>
+
+               <p>So schimmert schon von fern des Daches stolzer Rükken.</p>
+
+               <p>3Und wer vermag die Kunst, die tausendfache</p>
+
+               <p>Pracht,</p>
+
+               <p>Die Eleganz zu schildern</p>
+
+               <p>Die dort aus jedem</p>
+
+               <p>Steinchen lacht? 20 Den Reichthum wer, in Statuen, in Bildern,</p>
+
+               <p>In Basreliefs worauf der Künstler Schöpferhand, Unsterblichkeit sich und dem Kunstwerk zu bereiten. So manche grosse That, aus alt und neuen Zeiten, Dem Nebel der Vergessenheit entwand?</p>
+
+               <p>4. 25 Allein wie sehr die Pracht, vom Fusse bis zur Zinnen Von aussen glänzt, so hat doch drinnen Bequemlichkeit und Kunst mit zehnfach mildrer Hand Was sie vermag verschwendet.</p>
+
+               <p>Als fesselt' ihr ein magisches Band. . . .</p>
+
+               <p>Kommt, Pierinnen, Ihr berühmt durch holde Gesänge, Kommt und singet preisend mit mir den Vater Kronion! Denn durch ihn, durch Zeus des Mächtigen waltenden Willen Sind die Sterblichen gross und berühmt und dunkel und niedrig.</p>
+
+               <p>5 Leicht erhebet er sie, leicht stürzt er wieder den Hohen,</p>
+
+               <p>Leicht verdunkelt er den Berühmten, verherrlicht den Dunklen,</p>
+
+               <p>Macht, was krumm ist, gerad', und erniedrigt den Stolzen, Zeus der Donnerer, der des Olümpos Gipfel bewohnet.</p>
+
+               <p>Höre mich, Persa, hör' und bewahr es, sei wenn du richtest 10 Der Gerechtigkeit treu; ich will Recht und Wahrheit dich lehren.</p>
+
+               <p>25 „wie" verbessert aus „so".</p>
+
+               <p>V Diese Übersetzung des Eingangs von Hesiods Werken und Tagen hätte Band 8, 2j6 eingereiht werden sollen.</p>
+
+               <pb n="9.8" xml:id="pbIX8"/>
+               <p>h. Canzone. ^)</p>
+
+               <p>An Schiller.</p>
+
+               <p>Wenn einst an des Lebens schmalem Rande Wir in zweifelhafte Zukunft blicken,</p>
+
+               <p>Wenn der Tod die blasse Lipp' umschwebt, Und in diesen letzten Augenblicken 5 Nur ein dunkles Ahnden noch zum Unterpfande</p>
+
+               <p>Dessen, was das Schicksal fürder webt, In dem sorgenvollen Geiste lebt; O! dann mögen alle liebliche Gestalten Längst verschwundener Vergangenheit lo Mit der Gegenwart lebendger Innigkeit</p>
+
+               <p>Sanft zurück den scheidenden noch halten! Holder Kindheit liebliche Gefühle, Du der Auserwählten Erstlingskuss, Schnell verflogner Jugend Schwärmereien, 15 Schwebt herbei die Seele gaukelnd zu erfreuen,</p>
+
+               <p>Dass noch einmal dann des Lebens Vollgenuss In der schönsten Bilder reizendem Gewühle Um die sanfterhellten Sinne spiele. Denn allein des vollen Lebens rege Kraft 20 Ists, die wieder aus sich neues Leben schaft.</p>
+
+               <p>Schweb', o Lied, zu Schillers Richter Ohren, Sag' ihm, dass Petrarcas Liederbau Besser doch mit Worten, als mit leeren Todten Zeichen inhaltlos ihm zu erklären, 25 Du, so wie Du bist, gedankenarm und rauh.</p>
+
+               <p>Weder für den Almanach, noch für die Hören, Gestern seyst in Fieberfrost geboren.</p>
+
+               <p>Mit dem Tode meyne man's so ernstlich nicht; Sinn und Inhalt sey nicht mehr, als — ein Gedicht. V Handschrift (2 Quartseiten) in der Königlichen Bibliothek in Berlin. Erster Druck: Euphorion j, yj (i8g6).</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

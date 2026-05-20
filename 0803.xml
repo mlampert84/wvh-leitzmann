@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Über Ol. 2. V. 92 — 102</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Achter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif08humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1909">1909</date>
+                  </imprint>
+                  <biblScope unit="page" from="11" to="14"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1792">1792</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="8.11" xml:id="pbVIII11"/>
+            <p>2. Ueber OL 2. v. 93 — 102.^)</p>
+
+            <p>Schütz äusserte mir neulich schriftlich, bei Gelegenheit meiner Uebersezung, folgende Muthmaassung über diese Stelle:</p>
+
+            <p>„Wollte man bloss auf die Gedankenfolge des Dichters sehn; so scheint mir am natürlichsten zu sein, er wolle das G 1 ü k ohne Thätigkeit [%o xvyuv) entgegensezen dem Glükke, das mit Thätigkeit verbunden ist {nXoviio agercug dsdaidal(.ievio) und. wolle nun sagen: jenes macht sorglos, dieses aber hält den Menschen zwar in mühevoller Anstrengung und Sorge, ist aber doch auch für ihn ein wahrer aoxriQ aQiCrjlog u. s. w."</p>
+
+            <p>„Nun kommt zwar der Sinn, den ich eben angegeben, in den Worten: to öe tvx^lv — övoqjqoviov zur Noth heraus, wenn man, vt vulgo fit, übersezt : fortuna eum, qtii expertus est certamen, Uberat a solUciiudinibus. Allein er wird doch dadurch sehr verdunkelt, dass ja derjenige, welcher einen Kampf versucht hat, und glüklich gewesen ist, doch nicht ganz unthätig blieb."</p>
+
+            <p>„Ich bin daher auf folgende, freilich von allen bisherigen ab- weichende Erklärung gefallen: Das Glük versucht die Kampflust (Thätigkeit) unweiser Menschen, und lähmt sie. so dass construirt wird: to (Je xvielv ^eiQtofxevov ayionag övocpQOviov [avd-QMTiiov) TtaQaliei [avcr^v).'"''</p>
+
+            <p>„Wenn Leuten, die keine Grundsäze haben, ein grosses Glük zufällt, so pflegt dieses ihre Thätigkeit zu lähmen, sie werden, indem</p>
+
+            <p>V Diese)- Aufsatz über eine schwierige Stelle der vorhergehenden Ode befindet sich in Wolfs Nachlaß in der Königlichen Bibliothek in Berlin bei den Briefen Humboldts an Wolf: es schien mir zweckmäßiger, ihn nicht wie in der alten Ausgabe (s, 51) unter den Briefen, sondern hier einzureihen. Zeitlich gehört er wohl in den aulebener Winter ijgsjg^, spätestens in den Sommer ijgj.<pb n="8.12" xml:id="pbVIII12"/> sie sich auf ihr Glük verlassen, träge und sorglos, fortuna vis nervös incidit fortitudinis."'</p>
+
+            <p>^^AyiJivia braucht nicht bloss einen Kampf, sondern kann auch die Strebsamkeit zum Kämpfen bedeuten. JvGcpQoveg, obs gleich gewöhnlich durch: curü affecti gegeben wird, kann auch ebensoviel heissen, als i^a-Mcfiqoveg. Dass TtaQalueiv ebenso- wohl debilitare, laxare, als exsoluere heisst, brauche ich nicht erst 2u erinnern."</p>
+
+            <p>„Nun käme der Gegensaz : ist aber der Reichthum mit aQsraig, mit männlicher Thätigkeit geschmükt, (fSQSt xtav te v.ai xtov ycaiQov. Diess Tiov re /ml tiov scheint mir unläugbar auf zwei Stükke zu gehen, die folgen sollen, wovon das eine in ßad-eiav — ayQoregav, das andre in aarr^Q — cpsyyog liegt. Aber Reichthum mit Thätigkeit, mit männlicher Tugend geschmükt, hat einen zwiefachen Erfolg; er befeuert den Menschen zu mühvollen, unermüdlichen Sorgen, ist aber auch ein herrlicher Stern, der ächteste Glanz seines Lebens, d. i. er führt ihn zu einem wahren, soliden Ruhme. Wer ihn besizt, der bedenkt auch die Zukunft, blikt hinaus auf den Zustand nach dem Tode, und sucht also, scüicet einen guten Gebrauch von ihm zu machen."</p>
+
+            <p>So scharfsinnig jedoch auch diese Erklärung ist, so gestehe ich, bleiben mir dabei einige Zweifel übrig, die ich nicht zu lösen vermag. •'</p>
+
+            <p>Das Hauptsächlichste derselben besteht darin, dass die Worte TO 6e xvyuv — dvGcpQOvcov und '0 (.lav Tclovxog — cpeyyog einen Gegensaz enthalten, und auch in der lezteren Periode zwei, durch das: rwv re xat twv v.aiQov bezeichnete verschiedene Säze von ßad-eiav — ayQozegav und von aoTTjQ — cpeyyog liegen sollen.</p>
+
+            <p>Was nun das Erstere betrift, so sollen beide Säze dieselbe Sache: das Glük, nur in Ansehung verschiedener Subjekte, des thätigen und unthätigen Menschen darstellen. Allein als- dann, dächte ich, hätte Pindar auch einen gleichen, wenigstens nicht weit abweichenden Ausdruk gebraucht, nicht aber in dem ersteren Saze das Glük durch das Gelingen des Kampfes, im zweiten durch den Reichthum bezeichnet. Wenigstens ist doch soviel gewiss, dass diess den Gegensaz ausserordentlich verdunkelt. Dann scheint mir die, bei dieser Erklärungsart nothwendige Con- struction der Worte zo de tv%blv — övorpQoviov sehr gezwungen, wenigstens gewiss nicht diejenige, welche dem unbefangenen Leser zuerst einfallen wird. Endlich kommt es mir vor, als passte<pb n="8.13" xml:id="pbVIII13"/> dieser ganze Gegensaz minder in den Zusammenhang des Anfangs der Antistrophe und der folgenden Epode.</p>
+
+            <p>In Ansehung des Lezteren gestehe ich gern, dass ich das Tiüv TS y.ai Tojy /.aigov so gut, als gar nicht verstehe, dass, es auf Glük und Unglük zu deuten mir ziemlich erzwungen, und also die Schützische Erklärung natürlicher scheint. Nur weiss ich nicht, ob, wenn ßa-d-eiuv — ayoozcQav und aorr^Q — (fsyyoq. auch nun zv^'ei verschiedne und gar entgegengesezte Säze sein sollten, Pindar sie ohne alle trennende Partikeln gelassen haben würde?</p>
+
+            <p>Ungezwungener und dem Zusammenhange anpassender scheint mir noch immer die folgende Erklärungsart zu sein:</p>
+
+            <p>Pindar hat die Siege erzählt, welche Theron und sein Bruder erlangt hatten, {v. 87 — 93.) Nun wendet er sich zum Lobe des Siegens und des Strebens darnach. Von jenem redet er von To 6b Tvxiiv — öiag^Qovcov, von diesem von '0 uav jikovrog — (feyyos.</p>
+
+            <p>Das Erlangen des Sieges, sagt er, befreit von Sorgen. Aber um zu siegen, ist überhaupt Thätigkeit (a^er/;) und in Ansehung der Olympischen Spiele — welche er, auch bei der allgemeinsten Anwendung seiner Sentenzen, doch immer zunächst in den Augen behält — auch Reichthum nothwendig. Er geht also nun zu diesem, gleichsam als der hervorbringenden Ursach des Sieges über. Indess verliert er bei dem nun Folgenden den Reichthum mehr aus den Augen, und redet allein von der agerj-. Er hatte ihn nur, gleichsam als eine Brükke gebraucht, um von seinem speciellen Gegenstande, dem Kämpfen in den Ohinpischen Spielen, zu einem allgemeinen Gesichtspunkt, dem Kämpfen um grosse Zwekke überhaupt, zu kommen. Von dieser aQsrr; prädicirt er nun dreierlei:</p>
+
+            <p>I., g^eoei tojv ts y.ai twv y.aioov. Um diess ganz zu verstehen, oder wenigstens einer richtigen Erklärung gewiss zu sein, müsste man wohl irgend eine Parallelstelle im Pindar selbst, oder einem andern ähnlichen Schriftsteller aufsuchen, in welchem ra re xat ra ähnlich gebraucht würde, wozu aber meine Unbelesenheit freilich nicht hinreicht. Solange aber würde ich es dem Wortverstande nach, und wie unser Deutsches in diesem und jenem, folglich überall, und insofern, dem Zusammenhange nach, für: „bei jedem Wechsel des Schiksals" nehmen. KatQog hiesse alsdann Bequemlichkeit, Hülfe.</p>
+
+            <p>2., äad-eiav vrtexdiv uequirav aygoTSQav. Diess enthält den Grund<pb n="8.14" xml:id="pbVIII14"/> der vorigen Enunciation. Die Tugend hilft in jedem Schiksal, weil sie ein höheres Streben, nemlich das Streben nach allem Edlen und Guten, nicht nach Genuss allein, mit sich führt, so dass sie den Menschen über Glük und Unglük hinwegsezt. MeQii-iva bedeutete dann sorgsames Streben, gerade so wie es Ol. I. 174. gebraucht ist; und ayqoteqav soviel als ayQ£VTixi]v. Hiermit schiene denn auch die von Heyne in seiner Ausgabe p. 125. angeführte noch ungedrukte Scholle: vjteQavoj lov tojv 7tQoo7iL7t%ovTcov uya^iov tE ■aai xaxwv übereinzustimmen.</p>
+
+            <p>3., aoriqQ agii^rflog, aXa^ivov avÖQi cpeyyog. Diess ist eine Folge aus dem Beiden Vorigen. Da die Tugend diess thut, so ist sie u.s. w. Scheint es nicht zu subtil; so kann man aorr^Q und q)syyog für Metaphern der Erhöhung der intellektuellen Kräfte, die zugleich mit der Seelenstimmung, von der Pindar hier redet, verbunden ist, und für eine Vorbereitung zu dem Folgenden st öe (.uv Eyßi tig, aide ro /.isllov /.. r. l. ansehn. Darum, oder wenigstens um diese Verbindung zu erleichtern, habe ich „Wahrheitsflamme" übersezt, nicht etwa, als hätte ich aXaS-ivov cpsyyog für cpiog alr^^eiag ge- nommen.</p>
+
+            <p>Mit dieser Erklärung kommt dann schon die Schmidische und seine Uebersezung beinah ganz überein.</p>
+
+            <p>Heyne's /.. 125 seiner Ausgabe vorgeschlagene Umänderung der Lesart scheint mir der Sache nicht hinlänglich Genüge zu thun, und bei weitem nicht alle Schwierigkeit hinwegzuräumen.</p>
+
+            <p>Meine bisherige Uebersezung endlich drukt, meiner jezigen Empfindung nach, den Sinn, den ich der Stelle gebe, lang nicht adäquat genug aus. Vielleicht könnte ich mich bestimmter so fassen :</p>
+
+            <p>Des Siegs Erreichung befreit, wer, des Kampfes versuchend, rang, von Sorgen. Reichthum umkränzet von</p>
+
+            <p>Tugend gewährt bei jedem Wanken des Schiksals sichre Hülfe, führend zu höhrem ewig sorgsam ringendem Streben; ist ein funkelnd Gestirn, ist der Sterblichen Wahrheitsflamme.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

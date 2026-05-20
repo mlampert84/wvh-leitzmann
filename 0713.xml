@@ -1,0 +1,231 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Auszüge aus englischen Arbeiten über Staatslehre</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Siebenter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif0702humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1907">1907</date>
+                  </imprint>
+                  <biblScope unit="page" from="571" to="580"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="7.571" xml:id="pbVII571"/>
+            <head>
+               <title type="main">g. Auszüge aus englischen Arbeiten über Staatslehre.</title>
+            </head>
+            <p>Algernon Sidney.<note type="footnote" n="*)" resp="gnd-116890657"><hi>geb. um 1622. enthauptet 7. Decembr. 1683.</hi></note></p>
+
+            <p>Discourses concerning government**) Ed. London. 1763. 4.</p>
+
+            <p>Uebersicht der Verfassungen, die hauptsächlich auf Krieg, oder Frieden oder Handel ausgehn. — Das Beste ist hauptsächlich auf Krieg, zunächst, diess zu unterstützen, auf Handel auszugehn, und geradezu Eroberung abzuzwecken. c. 2. s. 22. /. 161.<note type="footnote" n="^)" resp="gnd-116890657"><hi>„Homicidii festinatio est prohibere nasci" Tertullian, Apologeticum g. Ich verdanke den Nachweis dieses ungenauen Zitats meinem Kollegen Hans Lietzmann.</hi></note></p>
+
+            <p>[Frankreichs Beeret nicht zu erobern.]</p>
+
+            <p>Innerliche Unruhen und Bürgerkriege sind nicht die grossesten Uebel, die eine Nation betreffen können. Prohibere nasci est occidere. Tertullian.-) c. 2. s. 26. p. 206.</p>
+
+            <p>Alle Verfassungen sind auf A^erträge gegründet, die, wenn keine ausdrücklichen vorhanden sind, als stillschweigende ange- nommen werden müssen, c. 2. s. 32. f. 247. Allgemeine Gleichheit. Wenn die väterliche Gewalt kein</p>
+
+            <p>Handschrift (14 Quartseiten, ohne Titel) im Archiv in Tegel.</p>
+
+            <p>*•) nicht ganz vollendet, und erst nach seinem Tode herausgegeben. S. Mim. of A. Sydney p. 39. nach seiner Aussage vor Gericht v/ohl 20 Jahr früher geschrieben. Trial. p. 134.</p>
+
+            <p>V Diese Zitate stehen in der Handschrift immer am Rande des betreffenden Absatzes.<pb n="7.572" xml:id="pbVII572"/> Eigenthum über die Kinder giebt; we may conclude, that men are all made of the same paste, and that one owes no more to another, than another to htm, tmless for some henefit received, or hy mrtue of sojne promise made. c. 3. s. i. p. 255.</p>
+
+            <p>Diese ganze Schrift ist von keiner wissenschaftlichen Bedeutung für die Politik. Sie trägt zwar die Grundsätze vom Staatsvertrag, von allgemeiner ursprünglicher Freiheit und mithin die erste Grundlage alles Rechts richtig vor; allein sie beweist sie nirgends auf eine demonstrative Weise, beruft sich vielmehr durchgehends nur auf die Folgen, die aus einer oder der andren Lehre entspringen, und auf das Zeugniss der Geschichte, aus welcher eine zahllose Menge von Beispielen angeführt werden. Das ganze Werk ist gegen Filmers Patriarcha ^) gerichtet, völlig polemisch, und folgt seinem Gegner Schritt vor Schritt. Daher ist auch nirgends eigentlich systematische Ordnung.</p>
+
+            <p>Die abgehandelten Materien sind bloss: die ursprüngliche Freiheit der Menschen; die elterliche Gewalt, aus der Filmer das Recht der Könige abgeleitet hatte, und die hier, gerade wie im Locke bestimmt wird; das Verhältniss des Souverains zum Volk bloss im Ganzen und in Rücksicht auf den Grund des Rechts des erstem; die Befugniss des Volks den Souverain einzuschränken und zu entsetzen; und die Vorzüge einer freien Staatsverfassung, vorzüglich einer aus allen Formen gemischten, vor einer absoluten Monarchie.</p>
+
+            <p>Kurz ist es eine Rechtfertigung des Whiggismus gegen den Torryismus.</p>
+
+            <p>Der Stil ist beredt, aber weder klassisch noch schön. Seine Vorzüge sind männliche Stärke, und lebhafter Eifer für die ver- fochtene Sache; daher durchaus viel Gharakter darin herrscht. S. z. B. C. 1. s. 26. Daher mag das Buch grossen Eindruck gemacht, und politischen Einfluss zu seiner Zeit ausgeübt haben.</p>
+
+            <p>V Filmers „Patriarcha or the natural power of kings" erschien London 1680. Vgl. über ihn und Sidney Hettner, Geschichte der englischen Literatur * S. 48.</p>
+
+            <pb n="7.573" xml:id="pbVII573"/>
+            <p>James Harrington.<note type="footnote" n="*)" resp="gnd-116890657"><hi>geb. 161 1. t II. Septerabr. 1677. *) um 1650. geschrieben und herausgegeben.</hi></note> John Toland's Ed. Dublin. 1737. fol.</p>
+
+            <p>T/ie cofmnon-iüealth of Oceana.**) (Oceana ist England; Marpesia Schottland; Panopaea Irrland.)</p>
+
+            <p>Einleitung über die Grundsätze der Staatsverfassung.</p>
+
+            <p>Die Staatsherrschaft {domestic emptre) gründet sich auf das Eigenthum. p. 39.</p>
+
+            <p>Das Verhältniss des Landeigenthums bestimmt die Art der Verfassung. — Wo Ein Mann das Uebergewicht des Landeigenthums hat, ist absolute Monarchie (Türkei); wo der Adel allein oder mit der Geistlichkeit es hat {the Gothic balance), ist vermischte Monarchie (England) ; w^o das ganze Volk es hat, ist ein Freistaat ( common-wealth ) . Ein gleicher Freistaat ist ein solcher, der, auf ein gleiches Ackergesetz gegründet, aus drei Ständen besteht: einem rath- schlagenden und vorschlagenden Senat, einem beschliessenden Volk, und einer übrigkeit, die, in einem gleichen Ringgang (durch alle Bürger hindurch) durch die Stimmensammlung des Volks erwählt, das Gesetz in Ausübung bringt. — Der einzig vollkommene ist des Verfassers Oceana; am nächsten kommt Venedig, p. 55.</p>
+
+            <p>2.</p>
+
+            <p>Verfassung des Freistaats von Oceana. /. 81. Die Grundlagen, worauf die Vollkommenheit und Gleichheit dieses Freistaats beruhen, sind:</p>
+
+            <p>1. das Ackergesetz. Niemand soll mehr als soviel Land besitzen, als eine gewisse bestimmte Summe von Einkünften trägt. p. lOI.</p>
+
+            <p>2. eine gleiche Stimmengebung bei der Wahl der obrigkeit- lichen Personen, wo das Ballotement von Venedig angenommen wird. p. III.</p>
+
+            <p>Die Haupttheile des Staats sind:</p>
+
+            <p>I . der Senat, der rathschlagt und Gesetze in Vorschlag bringt. p. 122.</p>
+
+            <pb n="7.574" xml:id="pbVII574"/>
+            <p>2. das Volk. Beschliesst über Gesetze. Ist der höchste und letzte Gerichtshof, p. 141.</p>
+
+            <p>Oeffentliche Erziehung, p. 173. Nationalmiliz, p. 171. Kurzer Auszug der ganzen Verfassung, p. 204.</p>
+
+            <p>The art 0/ law-gwing.</p>
+
+            <p>(Ein Auszug und eine Rechtfertigung der Oceana.) p. 383. Regeln zur Prüfung der Güte von Volksverfassungen:</p>
+
+            <p>1. sie müssen frei von aller Ungleichheit und allem Widerspruch seyn. 2. so, dass wer Interesse hätte, sie zu beunruhigen, nicht die Macht besitze, und wer die Macht besässe, kein Interesse habe. p. 462.</p>
+
+            <p>A System of Politics, deliiieated in short and easy aphorisms.</p>
+
+            <p>Enthält des Verfassers System kurz und klar. p. 496.</p>
+
+            <p>Political Aphorisms. Wenn der Geist einer Nation, einer Verfassung durch Gewalt {by arms) überdrüssig, nach einer Verfassung durch Gesetze verlangt, so ist er nicht mehr unfähig, ihr selbst seine Freiheit anzuvertrauen, p. 515. 7ir. 7. Das Volk wird durch Namen, nicht durch Sachen betrogen. nr. 16.</p>
+
+            <p>Der Mensch kann eher als ein religiöses, denn als ein vernünftiges Wesen definirt werden, da in andren Geschöpfen wohl etwas der Vernunft, nichts aber der Religion ähnliches ist. nr. 35.</p>
+
+            <p>Die Verfassung, die um Religion unbekümmert ist, ist nicht genugthuend für die menschliche Natur, nr. 37.</p>
+
+            <p>Harringtons Werke sind im eigentlichsten Verstände politisch, und beschäftigen sich, mit gänzlicher Uebergehung aller Grundsätze des Natur, Staats und Völkerrechts, bloss mit der Einrichtung einer Staatsverfassung, und zwar auch hier bloss mit Bezug auf ihre Sicherheit und Dauer. Der ihm hierin eigenthüm- liche Grundsatz ist die Abhängigkeit der herrschenden Gewalt von dem Gleich- oder Uebergewicht im Landeigenthum. Das noth- wendigste Mittel zur Befestigung eines Staats ist ihm daher ein<pb n="7.575" xml:id="pbVII575"/> Ackergesetz. Das zweite Gleichheit in der Besetzung der obrig- keitlichen Würden. Objectiven Werth für die Politik hat er nicht viel. Sein Hauptgrundsatz drückt bloss eine Thatsache aus, die sich mit ihrem Grunde sehr leicht einsehen lässt. Praktisch führt er aber zu nichts weiter, als dass in einer guten Verfassung freilich kein Keim einer nothwendigen und wesentlichen Ungleichheit geduldet werden muss ; schlechterdings aber nicht zur Nothwendigkeit eines Ackergesetzes.</p>
+
+            <p>Mehr Wichtigkeit hat Harringtons Werk in historischer Rücksicht, da er alle bekannte Verfassungen zweckmässig aufstellt, und besonders die alte Politik, die nur Alleinherrschaften oder Republiken kannte, im Gegensatz mit der neuen, welche die einge- schränkte Monarchie einführte, aus sehr richtigen Gesichtspunkten ansieht.</p>
+
+            <p>Der Verfasser selbs^t zeigt zwar einen gewissen Grad des Scharfsinns und ein Talent des Philosophischen Raisonnements, die sich jedoch nicht über das Mittelmässige erheben. Weder systematische Anordnung, noch Erfindung, noch feine Beobachtung zeichnet ihn aus. Aus einer grossen Kenntniss der Geschichte und der Verfassungen hat er einzelne Grundsätze geschöpft, die nicht bloss die Grundlage seines Systems ausmachen, sondern beständig (da alle seine weitläuftigen Werke nur Wiederholungen derselben sind) wiederkehren. Feinere psychologische Züge fehlen ganz. Dagegen ist er voll von den detaillirtesten Ausführungen seiner politischen Anordnungen bis auf Stunde, Ort und Summe, und misst denselben überhaupt höchst einseitig einen zu hohen Werth bei.</p>
+
+            <p>Ueber sein Vaterland scheint sein System, dass es anfangs eine ziemlich gute, völlig Gothische Verfassung war, dass Heinrich 7. (Panurgus) vorzüglich durch das Statut der Alienationen diese Verfassung umstürzte, und dass es zu Cromwells Zeiten eine Republik hätte werden können und sollen.</p>
+
+            <p>Lobenswürdig ist, dass er überall den Ursprung der Verfassungen in einer Anordnung und einem Vertrag des Volks voraussetzt.</p>
+
+            <p>Der Stil ist kaum mittelmässig zu nennen. Zur eigentlichen innren Gesetzgebungskunst enthält Harrington gar keinen bedeutenden Beitrag.</p>
+
+            <pb n="7.576" xml:id="pbVII576"/>
+            <p>Johann Locke.<note type="footnote" n="*)" resp="gnd-116890657"><hi>geb. 1632. f 1704.</hi></note></p>
+
+            <p>Two treatises of Government**)</p>
+
+            <p>(Nß.^) Heyward — Black wood — Barclay — Sibthorp — Manwering — Bellarmine — Hunton — Bodinus — Seldenus — Hooker. Eccles. pol.) -)</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">B. I.</title>
+               </head>
+               <p>Gegen Robert Filmer.</p>
+
+               <p>Dieser hatte in seinen Schriften, vorzüglich dem Patriarcha behauptet, dass die Könige eine nur durch ihren eignen Willen beschränkte ungebundene Macht über das Leben, den Leib und die Habe ihrer Unterthanen besessen; dass diese Herrschaft in der väterlichen Gewalt ihren Grund habe, ursprünglich von Gott an Adam, durch die Schöpfung, die Bildung der Eva aus seinem Leibe u. s. f. mitgetheilt, und von diesem auf die Könige vererbt sey. c. 1.</p>
+
+               <p>Weitläuftige Widerlegung dieses abgeschmackten Systems, vorzüglich zuletzt aus der Unmöglichkeit zu bestimmen, wer nun eigentlich Adams Erbe sey. c. w.</p>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">B. 2.</title>
+               </head>
+               <p>Lockes eignes System.</p>
+
+               <p>Naturrecht.</p>
+
+               <p>Politische Gewalt ist das Recht Gesetze unter Bedrohung aller auch der Todesstrafen zur Anordnung und Erhaltung des Eigenthums zu machen, und die Macht der Gemeinheit zur Auf♦♦) Diese treatises sind wohl, wie es offenbar scheint, nach der Revolution geschrieben und erschienen.</p>
+
+               <p>V Nach „NB" gestrichen: „Robert Filmer"; vgl. oben S. 572 Anm. y Es sind folgende Schriften gemeint: Blackwood, „Apologia pro regibus" (Poitou 1581); Barclay, „Axgtms'' (Paris 1621); Bellarmin, „De translatione imperii" (Paris 1610); Hunton, „A treatise of monarchy" (London 164^); Bodin, „La re- publique" (Paris 1577); Seiden, „De successionibus" (London 16^1); Hooker, ,,0f the laws of ecclesiastical policy" (London IS93)- ^^^^ die politischen Flugschriften Haywards, ManwaringS und Sibthorps vgl. Dictionary of national biography 25&gt; .?"• 3^&gt; ^04- 52, 188.<pb n="7.577" xml:id="pbVII577"/> rechthaltung dieser Gesetze und zur Vertheidigung gegen äussren Angriff zu gebrauchen, jedoch alles nur zum allgemeinen Besten, c. i .</p>
+
+               <p>Natürliche Freiheit und Gleichheit, nur beschränkt durch das Naturgesetz. Diess befiehlt weder sich selbst zu zerstören, noch andren zu schaden, vielmehr ihr Bestes zu befördern. Im Uebertretungsfall hat jeder die ausübende Macht zu strafen 2um Behuf des Ersatzes und der Verhinderung für die Zukunft für ihn und andre, c. 2. Die Strafe kann so weit gehn, als hiezu immer nöthig ist, weil der ungerechte Angreifer sich selbst aus dem Stand, nach Vernunft und als Mensch behandelt zu werden, setzt, cf. nr. 181. Naturstand. nr. 12.</p>
+
+               <p>Kriegszustand gerechtfertigt durch jeden widerrechtlichen Angriff auf den andren, vorzüglich durch einen auf seine Freiheit. Nicht einerlei mit dem Naturstand. — Veranlassung in einen ordentlichen Staat zu treten, c. 3.</p>
+
+               <p>Freiheit ist Mangel jeder andren gebietenden Macht, als des Gesetzes. — Zum Sklaven kann sich niemand geben, weil er sein Leben nicht weggeben kann. Wer sein Leben verwirkt hat, kann zum Sklaven gebraucht werden; kann aber den Tod durch Widerstand über sich bringen. — Sklaverei ist fortwährender Krieg, c. 4.</p>
+
+               <p>Alles Eigenthum geht von der Person aus, an die kein andrer ■ein Recht hat, und entsteht durch Arbeit. Es darf nicht mehr in Eigenthum verwandelt werden, als soviel jeder zu seinem Nutzen verwenden kann, ohne dass es verdirbt. — Daher die Erfindung •des Geldes. — Die Fundamente dieser Theorie sind sehr schwach, und werden bald in das Recht jedes Menschen, sein Leben zu erhalten, bald in das Geschenk, das Gott dem ganzen Geschlecht mit der Erde macht, bald in das gemeine Beste, dass Arbeit den Vorrath der Mittel vermehrt, und immer für andre genug übrig bleibt, gelegt, c. 5. nr. 44.</p>
+
+               <p>Väterliche Gewalt. Muss Elterliche heissen. Ist nicht ein durch die Zeugung erlangtes Recht, sondern auf Seiten der Eltern eine Folge der Pflicht zur Erziehung, auf Seiten der Kinder eine Verbindlichkeit zur Pietaet. \^ermehrt wird in facto die väterliche Gewalt durch die Freiheit das Vermögen ungleich zu vertheilen, wodurch die Kinder auch, vermöge des Landeigen- thums, an den Staat des Vaters gebunden werden, da sie sonst frei sind. c. (3.</p>
+
+               <p>Sklaverei durch Gefangenschaft in einem gerechten Krieg ge- W. V. Humboldt, Werke. VII. 37<pb n="7.578" xml:id="pbVII578"/> billigt, weil die Gefangnen ihr Leben verwirkt haben. — Unterschied der politischen und häuslichen Gesellschaft. — Die erstere entsteht durch Uebertragung der Befugniss, das Recht zu entscheiden und auszuüben. — Absolute Monarchie ist keine Form der CivilGewalt, da der absolute Monarch gegen seine Unterthanen keinem Gesetz unterworfen und nicht im Naturstand ist. c. 7. nr. 85. nr. 90 — 94.</p>
+
+               <p>Staatsrecht.</p>
+
+               <p>Der Anfang des Staats beruht auf der gegenseitigen Einwilligung. — Diese schliesst zugleich die Erklärung in sich, sich der Majorität unterwerfen zu wollen. — Die Geburt in einen Staat bringt keine Unterwerfung unter denselben hervor, wohl aber das Erben von väterlichem, mithin zum Staat gehörigen Eigenthum, und Genuss der Rechte des Staats, welche für stillschweigende Einwilligung gelten, c. 8. nr. 97 — 99. 7ir. 116 — 122.</p>
+
+               <p>Der Zweck des Staats ist Sicherheit des Eigenthums. — Legislative und executive Gewalt. — Beide können nicht weiter, als zum gemeinschaftlichen Besten ausgedehnt werden, c. 9.</p>
+
+               <p>Gränzen der gesetzgebenden Macht: i. es müssen genau bestimmte Gesetze seyn. 2. diese müssen zum Guten des Volks abzwecken. 3. sie muss keine Taxen, ohne Einwilligung des Volks, erheben können. 4. sie kann ihre Macht nicht weiter delegiren. c. 11. nr. 138 — ^140.</p>
+
+               <p>I. Gesetzgebende Gewalt. Braucht nicht immer thätig zu seyn. — 2. Ausübende. Gefahr ihrer Verbindung. — 3. Föderative, in Rücksicht auf die äussern Verhältnisse. Von der ausübenden nicht füglich zu trennen. Nicht so bestimmten Gesetzen zu unterwerfen, c. 12.</p>
+
+               <p>Die gesetzgebende Gewalt selbst ist nur eine anvertraute und die eigentliche höchste bleibt immer in den Händen der Nation, die davon Gebrauch machen kann, wenn jene dem Zweck ihrer Einsetzung entgegen handelt. — Die executive ist nur dann die höchste zu nennen, wenn sie mit zur gesetzgebenden gehört. — Das Recht diese zu berufen und zu trennen, wenn sie nicht immer thätig ist, wird am besten der executiven anvertraut. — Mit der Zeit entstandene Ungleichheit der Repräsentation kann der, welcher die executive Macht hat, von selbst bei der Zusammenberufung der gesetzgebenden abändern, c. 13. nr. 158.</p>
+
+               <p>Prärogative ist die Macht der executiven Gewalt, nach ihrem<pb n="7.579" xml:id="pbVII579"/> Gutdünken ohne oder wider die Bestimmung der Gesetze in dringenden Fällen zu handeln. — Sie kann nicht anders als nur zum Behuf des gemeinen Wohls übertragen vorausgesetzt werden, und es steht im entgegengesetzten Fall immer in der Freiheit der Nation, sie einzuschränken, c. 14.</p>
+
+               <p>Eroberung giebt kein Recht dem ungerechten Angreifer; dem gerechten Vertheidiger nur ein despotisches über das Leben der wirklich Kriegführenden und eins zum Schadensersatz aus ihren beweglichen Gütern, und den Einkünften (nicht der Substanz) der unbeweglichen, aber schlechterdings keins an die nicht Kriegführenden, die Kinder und selbst die Güter (wegen der Kinder und ausser dem Schadensersatz) der Kriegführenden selbst. — Wenn das Recht zum Schadensersatz und das Bedürfniss der Kinder collidirt, soll der nachgeben, der es am besten entbehren kann. — Doppeltes Recht jedes Menschen: der Freiheit seiner Person, und vorzügliches, aber mit den Brüdern gemeinschaftliches Erbrecht auf das Elterngut. c. i6. nr. 184. iir. 183. nr. 190.</p>
+
+               <p>Gegen offenbare Tyranney ist Gewalt erlaubt, c. 18. Fälle, wo die Verfassung für aufgehoben zu achten. Das Volk kann sich gegen Ungerechtigkeiten des Königs auflehnen; ist alsdann sein eigner Richter, c. 19. — Die beiden letzten Kapitel in naher Beziehung auf England.</p>
+
+               <p>Im Ganzen ein ziemlich mittelmässiges Werk, ohne grossen Scharfsinn und ohne alle demonstrative Strenge. Verdienst: die beständige Behauptung, dass Staaten nur durch Einwilligung bestehen, dass die gesetzgebende und ausübende Macht nur übertragen sind, und wiederum zurückgenommen werden können. Eeberhaupt richtige Bestimmung der Hauptsätze des Natur- und Staatsrechts. Mängel: Vorzüglich oberflächliche Seichtigkeit und Unbestimmtheit in der Herleitung jener Grundsätze. Mehr Prin- cipien der Nützlichkeit und des gemeinen Besten, als des Rechts. — Zu voreilig angenommenes und zu weit ausgedehntes Erbrecht der Kinder, wovon ein sonderbarer Gebrauch gemacht wird. — Nicht hinlänglich allgemeines und unabhängiges Raisonnement, vielmehr zu viel Hinsicht auf die Englische \'erfassung. Daraus scheint nr. 138 — 140. der Satz, dass zu jeder Abgabe besondre Einwilligung des Volks da seyn muss, zu fliessen. nr. 151. ist geradezu die Englische Verfassung geschildert, nr. 157. 158. ist<pb n="7.580" xml:id="pbVII580"/> aus derselben der Fall der ungleichen Repraesentation hergenommen. c. i8. IQ. stehen ganz und gar in Beziehung auf die Revolution zu deren Vertheidigung überhaupt das ganze Werk abzuzwecken scheint.^) — Stil. Leidlich klar und präcis; sonst ohne alle Vor- züge. Ziemlich diffus und nach dem Geschmack der damaligen Zeit mit Beispielen und Citaten aus der Bibel versehen.</p>
+
+               <p>'Nach dem WasserzeicheTi der Handschrift stammen diese Auszüge aus Sidney, Harrington und Locke aus der tegeler Zeit zwischen den beiden jenaer Aufenthalten, also aus dem Jahre lyg^ oder ijg6- Was die nähere Veranlassujig dieser Studien über Staatslehre gewesen ist, wissen wir nicht: vielleicht wollte Humboldt seine Schrift über die Grenzen der Staatswirksamkeit jetzt umarbeiten und zu diesem Behufe breitere historische Studien über Politik Einfluß gewinnen lassen; vielleicht haben wir Seitentriebe der Studien über den individuellen imd nationellen Charakter vor uns, die in der Schrift über das achtzehnte Jahrhundert behandelt werden sollten. Die Briefwechsel geben keine Auskunft.</p>
+
+               <p>Hier ist der Ort, der tätigen Teibiahme Hmnboldts an seines Bruders Alexander galvanischen Forschungen und Experimenten zu gedenken, die i']g-j in dem Werke „Versuche über die gereizte Muskel- und Nervenfaser" ihren Abschluß fanden ( Wundt bei Bruhns, Alexander von Humboldt ^, joi). Ein von ihm herrührender wichtiger Versuch wird von Alexander selbst erwähnt und beschrieben (Versuche i, g4 Anm.). Daß er eine ganze Reihe galvanischer Experimente während des Sommers imd Herbstes i'jgs in Tegel angestellt hat, lehren einige im Nachlaß erhaltene Blätter, auf denen ihre Resultate verzeichnet stehen. Sie tragen den Titel: „Versuche über die Dauer der Muskelreizbarkeit durch den galvanischen Versuch". Danach hat er am 16. Juli an einem Froschweibchen, am. 4. August an einem Froschherzen und einem ausgenommenen Frosch, am 6. August an einem Froschmännchen und vier Froschweibchen, am 6. November an der Lunge eines sezierten jungen Hundes experimentiert : überall sind Dauer und Art der Reizbarkeit genau angegeben. Auch Sezierübungen hat er sich damals hingegeben: es sind Aufzeichnungen über den Sektionsbefund des eben erwähnten jungen Hundes und eines Habichtsgehirns erhalten. In den Jahren i']g4 und gs hatte er in Jena, angeregt durch häufige Besuche imd Briefe Alexanders imd durch Goethes naturwissenschaftliclie Arbeiten und Studien, eine Reihe naturwissenschaftlicher Vorlesungen gehört, vor allem Anatomie bei Loder und Chemie bei Göttling. Zugleich übte er sich im Skelettieren und sammelte Schädel, um eine Monographie über das Keilbein zustande zu bringen (an Goethe, 6. Februar i'jgs)- ^Hi Genugtuung sah Goethe damals die Teilnahme beider Brüder Himiboldt an seinen Studien in der vergleichenden Knochenlehre, deren Schema er im Beisein Humboldts im Januar i^gs Max Jacobi diktierte (Briefe 10, 2^2; Werke js, 4s weimarische Ausgabe).</p>
+
+               <p>V Vgl. Fischer, Geschichte der neueren Philosophie 10, 440.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

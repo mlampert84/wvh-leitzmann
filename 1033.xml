@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Zur Einrichtung eines Museums in Berlin</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif10humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1903">1903</date>
+                  </imprint>
+                  <biblScope unit="page" from="242" to="243"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="10.242" xml:id="pbX242"/>
+            <p>Städtischen Schul - Commissionen Inspection über gelehrte oder höhere Bürgerschulen ausüben, und in diesen Commissionen werden doch immer mehrere sitzen, welche sich keiner Prüfung unterzogen haben.</p>
+
+            <p>Privaterzieher wären der Prüfung nicht unterworfen, als insofern sie es selbst wünschten.</p>
+
+            <p>Es ist in der That nicht ungegründet, dass bei Pensionsanstalten dem freien Unternehmungsgeist Raum gestattet und dies Beginnen nur nach seinen nachherigen Resultaten beurtheilt werden muss, und bei Hauslehrern ist die Controlle unmöglich.</p>
+
+            <p>Aber eingeladen, an den Prüfungen Theil zu nehmen, könnten auch diese werden, indem man in der Verordnung selbst sagt, dass diejenigen Pensionsanstalten, die nur geprüfte Lehrer besitzen, schon dadurch sich ein grösseres \^ertrauen beim Staat erwerben würden, und dass von allen Geprüften Listen geführt werden sollten, welche zur Kenntniss der oberen Behörden kämen, und daher den auf ihnen Verzeichneten eine vorzügliche Hoffnung zur Berücksichtigung bei jeder sich ereignenden Gelegenheit gäben.</p>
+
+            <p>II. April 1810.</p>
+
+            <p>Humboldt.</p>
+
+            <head>
+               <title type="main">XL VIII. Zur Einrichtung eines Museums in Berlin.</title>
+            </head>
+            <p>24. April 18 10.</p>
+
+            <p>(Abschrift im Geh. Staatsarchiv.)</p>
+
+            <p>Die erste Anreguyig zur Gründung eitles Museums fällt schon in das Jahr 180S, aber erst 1810 ging man ernstlich daran. Der Bericht des Potsdamer Gallerieinspektors Puhlmann veranlaß.e den König, den Kupferstecher v. Mechel, der Mitglied der Akademie der Künste war und als „Bibliothekar der Königin" eine kleine Pension bezog, mit der Ordnung der Sammlungen zu beauftragen. Mechel übernahm es, beantragte aber zugleich, „dem stillen Wunsch wahrer Kunst- und Vaterlandsfreunde, einmal im schönen Berlin eine öffentliche und gutgewählte Kunstsammlung zu sehen", jetzt, da so viel für die Wissenschaft geschehe, der Erfüllung näher zu führen. Der König stimmte zu und beauftragte den Grafen Dohna mit Humboldt und Mechel darüber zu konferieren. Jener erstattete den vorliegenden Bericht, worauf die Inventarisienmg durch das Hofmarschallamt begann.<pb n="10.243" xml:id="pbX243"/> Absicht: in Berlin eine öffentliche gutgewählte Kunstsammlung anzulegen, zu erklären und die Einreichung eines Planes, nach vorgängiger Berathung mit dem von Mechel, zu befehlen aller- gnädigst geruhet.</p>
+
+            <p>Die Section für den öffentlichen Unterricht hat, zufolge der früheren Aeusserungen Ev^. Majestät, hierauf bereits gedacht und es ist auch im Universitätsgebäude schon der erforderliche Raum zu einer Gallerie ausgewählter Bilder ausgemittelt worden; die Section würde sich auch schon erlaubt haben, Ew. Majestät ihre Anträge deshalb unterthänigst vorzulegen, wenn sie nicht gewünscht hätte, Allerhöchstderoselben weitere Beschlüsse über die noch in Königsberg aufbewahrten Kunstsachen, Gemähide und Antiken, zuvor zu erfahren, um auch diese bei ihren Vorschlägen mit berücksichtigen zu können.</p>
+
+            <p>Zur Erreichung Ew. Königlichen Majestät Absicht für jetzt schon eine öffentliche ausgewählte Gemähide und Kunst-Sammlung zu bilden, scheint es der Section nöthig zu seyn, dass zuvörderst ein Inventarium von sämtlichen gegenwärtig in Allerhöchstdero Schlössern befindlichen Gemählden, Statuen, Büsten und dergleichen mit der grössten Genauigkeit angefertigt werde und sie ist daher wegen Aufnahme eines solchen Inventarii mit Ew. Majestät Hofmarschallamte in Correspondenz getreten, um sodann eine Aus- wahl aus den vorhandenen Kunstsachen zu einem öffentlichen Museum treffen zu können.</p>
+
+            <p>Bei dieser künftigen Auswahl wird die Section gewiss gern von den praktischen Kenntnissen des von Mechel Gebrauch machen, nur muss sie ehrerbietigst anheimstellen : ob nicht, zur Vermeidung mancherley unangenehmer Collisionen der von Mechel anzuweisen seyn dürfte, das ihm aufgetragene Geschäft unter der unmittelbaren Aufsicht der Section auszuführen.</p>
+
+            <p>Berlin, den 24. April 1810. Section im Ministerio des Innern für den öffentlichen Unterricht.</p>
+
+            <p>Humboldt.</p>
+
+            <p>An des Königs Majestät.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

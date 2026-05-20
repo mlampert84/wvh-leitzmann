@@ -1,0 +1,586 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rom</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Neunter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif09humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1912">1912</date>
+                  </imprint>
+                  <biblScope unit="page" from="23" to="46"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1806">1806</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="9.23" xml:id="pbIX23"/>
+            <p>4-</p>
+
+            <head>
+               <title type="main">Rom.</title>
+            </head>
+            <p>An</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">Frau von Wollzogen</title>
+               </head>
+               <p>gebohrne von Lengefeld. Handschrift (ji Qiiartseiten) im Archiv in Tegel. Ebenda ist eine spätere Fassung (21 Quartseiten, ohne Titel) mit längeren Versen und Strophenzählung erhalten. Ich gebe die Varianten der ersten Handschrift stets zuerst, dahinter in besonderen Absätzen die der zweiten. Ein Einzelblatt enthält weitere Verbesserungen, die mit Ausnahme der unten angeführten Fälle durchweg mit dem ersten Druck übereinstimmen. — Erster Druck: Rom von Wilhelm von Humboldt. Berlin 1806. In Kommission bei Haude und Spener. ^5 Seiten.</p>
+
+               <pb n="9.24" xml:id="pbIX24"/>
+               <pb n="9.25" xml:id="pbIX25"/>
+               <p>Tibris, der du rollst die stolzen Wogen, Denkst du wohl noch jener grauen Zeit, Wo noch nicht, gewägt auf luftgen Bogen, Stand des Capitoles Herrlichkeit; 5 Roma's Name, noch von Nacht umzogen.</p>
+
+               <p>Nicht des Nachruhms Stimme war geweiht? — Kehrt einst Nacht, die wieder ihn verschlinget?</p>
+
+               <p>Strahlt ein Tag, wo keinem Ohr er klinget? —</p>
+
+               <p>Nein! so lang auf seinen Felsensäulen lo Ragt das schmale, meerumflossne Land,</p>
+
+               <p>Das der Götter Ahnherrn einst sah weilen.</p>
+
+               <p>Gründen goldne Reich' an seinem Strand, Mag dahin das Rad der Zeit auch eilen. Wird die Siebenhügelstadt genannt. 15 Ewig hiess sie in der Vorwelt Munde,</p>
+
+               <p>Ewig tönt der Nachwelt ihre Kunde.</p>
+
+               <p>Wenn der Tiefe Flut in wüstem Schwalle</p>
+
+               <p>Sich empört' auch auf vom Meeresgrund, t „ Tybris". — 6 „Nicht war später Völker Ruf geweiht". — / / „einst sah" verbessert aus „sah einst". — 12 „Stiften". — jj „das Rad der Zeit" verbessert aus „der Zeiten Rad". — 16 „währt". — 17. 18 ursprünglich nach ig. 20. — ij „Wenn" verbessert aus „Und"; „in wüstem (aus „grausem")" verbessert aus „mit un- geheure[m]". — 18 „empört — Meeresgrund" verbessert aus „empörte aus des Meeres Grund".</p>
+
+               <p>j „du der du" ; zuerst : „Du, der du rollst die majestätschen (aus „ernsten stolzen") Wogen". — 2 „Gedenkst" ; „wohl" verbessert aus „Tibris"; , Jener" verbessert aus „der". — j „Als hoch noch nicht gewägt" verbessert aus „Wo nicht gewäget noch". — 4 „Prangte" verbessert aus „Hoch stand". — 5 „Der Name Roms, noch dicht". — 6 „Nicht %var"; „stolz geweiht". — 7 „Kehrt jemals". — 8 „Strahlt einst". — 9 „Nein .' dauernd wie". — 10 „Fest ruht". — // „Das einst"; „sähe". — J2 „Sah gründen". — /j „Wie schnell dahin"; „mag". — 14 „Wird stets". — J5 „Schon ewig". — 16 „Und ewig". — 77 „Wenyi auch". — 18 „Empörte tief sich auf".</p>
+
+               <p>j „Als noch ragend nicht mit" Einzelblatt.</p>
+
+               <pb n="9.26" xml:id="pbIX26"/>
+               <p>Die jetzt schlummern, die Vulkane alle, 20 Flammen spieen aus umdampftem Schlund,</p>
+
+               <p>Auf das Land mit unerhörtem Falle</p>
+
+               <p>Beide stürzten in vereintem Bund, Dass, wo jetzt den Ulm umschlingt die Rebe,</p>
+
+               <p>Leicht zerrissen Well' an Welle bebe; 25 Staunend würde doch der Schiffer lauschen.</p>
+
+               <p>Rufen: „Freunde, zieht die Segel ein! Höret Ihr die Welle stolzer rauschen?</p>
+
+               <p>Seht! auf wogt sie vom Romulschen Hain.</p>
+
+               <p>Erd' und Meer kann wohl sein Loos vertauschen, 30 Doch vertilgt nie Römername seyn.</p>
+
+               <p>Todt Gebilde nicht ists, was ihn traget,</p>
+
+               <p>In der Menschen Brust ist er gepräget."</p>
+
+               <p>Als Aeneas zu Evanders Hütte, Wälzend, kam, des grossen Krieges Last, 35 Und in seiner Opfertische Mitte</p>
+
+               <p>Nun der Held empfieng den neuen Gast, Wankten schon durch Trümmer ihre Schritte, Die die grause Hand der Zeit erfasst. „Phryger, schaue diese öden Reste; 40 Hier stand Janus, dort Saturnus Veste !" ^) ig „Die jetzt schlummern" verbessert aus „Wenn, die ruhn jetzt". — 20 „Flammen spieen" verbessert aus „Feuer (aus „Ströme") spien auch"; „umdampftem" verbessert aus „entflammtem". — 2/ „unerhörtem" verbessert aus „ungeheurem". — 22 „Beide stürzten" verbessert aus „Niederstürzend". — 2j „der". — 27 „der Welle"; „Welle" verbessert aus „Wogen"; „Rauschen". — 2g „Erd' — wohl" verbessert aus „Wohl kann Erd' und Meer". — ^4 zuerst: „Tiefgebeugt einst kam von Sorgenlast". — ^5 „in" verbessert aus „an". ig yjetzo". — 20 „Spie'n Flammen wütend". — 21 „Und auf"; „nie erhörtem". — 22 „Sich beide". — 2j Jetzt fest". — 24 „Nur, leicht". — 25 „Bewundernd". — 26 „Leis rufen". — 27 „Hört stolzer ihr empor die Welle". — 28 „Auf, sehet.'". — 2g „Ihr Loos wohl können Erd und Meer". — jo „Allein". — ^i „Nicht todtes Bildwerk ist es". — ^2 „Im Busen ist der Menschen". — j^ „Als einst". — ^4 „Kam, wälzend jenes". — j§ „Und nun an". — ^6 „Der Herrscher froh". — ^7 „ Wankten durch Trümmer schon der Helden". — j8 „Die ungestüm die". — jg „Schau, Phryger, diese ödverlassnen". — 40 „Saturnus, drüben Janus". 40 „Kronos, drüben Janus" Einzelblatt. V Vgl. Vergib Aeneis 8, ^57.</p>
+
+               <pb n="9.27" xml:id="pbIX27"/>
+               <p>Also Sprach Arkadiens Greis und stillte</p>
+
+               <p>Seines Freundes Sehnsucht — ahndungslos, Welcher Werke Pracht noch Nacht umhüllte, Welche Zinnen, wunderhehr und gross, 45 Da, wo ihm die frohe Heerde brüllte,</p>
+
+               <p>Einst entstiegen dunkler Zukunft Schooss. Ach ! die da noch nicht das Licht getrunken, Liegen wieder jetzt in Schutt gesunken!</p>
+
+               <p>Und wenn einst in später Jahre Rollen 50 Seinen Schritt hieher der Waller lenkt,</p>
+
+               <p>Wird vielleicht er Trümmern Wehmuth zollen. Wo sich jetzt die Menschenwelle drängt. Wenn herab den heiigen gnadenvollen Segen mild der Fürst der Priester senkt. 55 Der sich jetzt des nahen Aethers freuet,</p>
+
+               <p>Jener Dom, liegt dann in Staub zerstreuet.</p>
+
+               <p>Stadt der Trümmer! Zufluchtsort der Frommen!</p>
+
+               <p>Bild nur scheinst du der Vergangenheit; Pilger deine Bürger, nur gekommen, 60 Anzustaunen deine Herrlichkeit;</p>
+
+               <p>Denn vor allen Städten hat genommen Dich zum Thron die allgewaltge Zeit.</p>
+
+               <p>42 „Seines" verbessert ans „Des erhabnen". — 45 „wo nun". — 46 „Stiegen einst aus dunkelm" ; zuerst: „Stiegen aus des Dunkels nächtgevi Schooss". — 4g „am Ziel von späten Jahren" verbessert aus „in — Rollen" — ^o „der" verbessert aus „ein". — 5/ „Trümmer da gewahren" verbessert aus „Trümmern — zollen". — 52 „nun" verbessert aus , Jetzt". — 5^ „ Wenn sich auf die frommgebeugten Schaaren" verbessert aus „ Wenn — gnadenvollen". — 54 „Mild die Hand des Gnadensegens senkt" verbessert aus „Segen — senkt". — 56 „klagt' verbessert aus „liegt". — 60 „anzustaunen" verbessert aus „zu bew[undern]". — 61 „Städten dich". — 62 „hat".</p>
+
+               <p>41 „So"; „Greis zu ihm". — 42 „Des Freundes tiefe". — 43 „Noch welcher"; „da Nacht". — 44 „Und welche". — 45 „Dort"; „ihm nun". — 46 „Entstiegen einst der Zukunft dimklem". — 4j „Die damals, ach ."'. — 48 „Liegen schon". — 49 „in der Jahre spätem". — 50 „Den Pilgrimschritt" . — 5/ „ Wehmuth er vielleicht Ruinen". — $2 , jetzt sich dicht". — 5^ „ Wann hoch (aus „mild")". — 54 „Segen der"; „liebreich senkt". — S5 &gt;yDer Dom, der nun des Aethers nah sich**. — 56" „Liegt trauernd dann in Schutt imd". — 57 „Stadt du" verbessen aus „Ol Stadt". — 56' „Ein Bild". — 59 „Bewohner, fern". — Oo „Nur anzustaunen". — 61 „Denn dich". — 62 „Zum Throne sich".</p>
+
+               <pb n="9.28" xml:id="pbIX28"/>
+               <p>Dass du seyst des Weltenlaufes Spiegel, Krönte Zeus mit Herrschaft deine Hügel. 65 Oft sah ich von Aventinus Spitze,</p>
+
+               <p>Wo sich engt der Pfad von Ostia her,</p>
+
+               <p>Tiber, unter Cacus altem Sitze, Hin dich rollen zum Tyrrhener Meer. Wie, geschmelzt an hohen Ofens Hitze, 70 Erz sich wälzet, langsam, gelb und schwer,</p>
+
+               <p>Rollst du ernst und feierlich die Wellen, Die das Herz mit tiefer Wehmuth schwellen.</p>
+
+               <p>Starr verfolgt die Woge, wie sie gleitet. Festgebannt der thränumwölkte Blick, 75 Und wenn sie zur fernsten Fern' ihn leitet.</p>
+
+               <p>Kehrt mit gleicher Sehnsucht er zurück. Dieser Wogen finstres Rollen deutet Wohl des Menschen innerstes Geschick.</p>
+
+               <p>Wenn den Busen Freud' und Kummer engen, 80 Ist es mehr als dunkles Wogendrängen?</p>
+
+               <p>Schnell vorüber rauscht der Freud' Entzücken, Langgehegt wird Schmerz und Kummer mild. Wenn es fern die Jahr' und fern entrücken, Schwankt erbleichend das geliebte Bild. S5 Ewger Wechsel taumelt vor den Blicken,</p>
+
+               <p>Und eh Lösung tief die Sehnsucht stillt,</p>
+
+               <p>6^ „wardst". — 64 „Herrschaft deine" verbessert aus „Sieg die sieben". — 65 „sah von des Aventines". — 67 „ Tiber, unter" verbessert aus „Ich dich über". — 68 ,Jch dich" verbessert aus „ Tiber". — 6g „geschmelzt — Ofens" verbessert aus „geschmolzen von des Ofens". — 72 „das Herz" verbessert aus „des Schauers". — ']8 „wohl" verbessert aus „mir". — 82 zuerst: „Und der Gram wird, langgeheget, mild". — 8^ „die Jahre fern und fern es rücken". — 86 „Eh' die" verbessert aus „Und eh'".</p>
+
+               <p>6j „Dass würdest du". — 64 „mit Siegesglanz Zeus". — 65 „von des". — 66 „Dort, wo". — 6-j „Dicht unter" verbessert aus „Hoch über"; „Felsensitze". — 68 „Dich, Tiber". — 6g „So wie, geschmolzen an des Feuers". — 70 „Erz heiss {aus „trag")". — 7/ , feierlich und trübe du". — 72 „Die ernst". — 7j „folgt der" ; „dahin sie". — 7^ „ Versenkt in ihr". — 75 „zur fernsten Ferne sie ihn" verbessert aus „sie ihn zur fernsten Ferne". — y6 ,,Kehret". — 77 „O! dieser". — ■/8 „Dem Menschen wohl sein". — 79 „Freud' und Kummer seinen Busen". — 80 „Ists"; „als unverstandnes". — 81 „Vorüber rauschet schnell". — 82 „Und langgehegt". — 8^ »fßff^ die Jahr" und ferner es entrücken" verbessert aus „fern und fern die Jahre fort es rücken". — 84 „matt erbleichend". — 8^ „Rastloser" verbessert aus „Ein ewger". — 86 „ehe".</p>
+
+               <pb n="9.29" xml:id="pbIX29"/>
+               <p>Schlingt das Grab die streitenden Gefühle, Dumpf und still, wie Sommermittagsschwüle.</p>
+
+               <p>So von Oed' und Kummer trüb' umschwebet, 90 Blicken, wie durch zarten Trauerflor,</p>
+
+               <p>Roms Gefild', und einsam klagend strebet Trümmer dicht an Trümmer nur empor. Gräber, von der Vorzeit Hauch durchbebet. Schweigend ewig dem erschrocknen Ohr, 95 Hingestreut in wechselnden Gestalten,</p>
+
+               <p>Feiern Orkus dunkler Mächte Walten.</p>
+
+               <p>Denn bis wo des Meeres Woge schwillet. Vom Gebirg her am Sabiner Land, Das mit tiefem Blau die Luft umquillet, 100 Wo der Sonne glühend heissen Brand;</p>
+
+               <p>Sparsam schattiges Gehölz umhüllet, Herrschet der Zerstörung grause Hand.</p>
+
+               <p>W^ehmuth hat ihr Reich hier aufgeschlagen; Wehmuth flüstern tausend stumme Klagen. 105 Doch wie, wem des Lebens Kraft versieget</p>
+
+               <p>Von der Liebe heissem Wonnekuss,</p>
+
+               <p>Schlürfet, inniger stets angeschmieget, Ihrer Flammen tödtenden Erguss; So in sehnsuchtsvoll Erstarren wieget 110 Dieser Himmelsfluren Zaubergruss. 8g „und Ruhe". — 9: „Gefild' — klagend" verbessert aus „Gefilde, und verlassen". — g6 „Orkus dunkler" verbessert aus „stumm der dunkeln". — loi „keines Baumes Schatten mild". — J07 „Schlürfet" verbessert aus „Schlürß doch": „Schlürfet — stets" verbessert aus „Den noch schlürft, stets innger". — log „So" verbessert aus „also". 8j „Verschlingt". — S8 „Dumpjbrütend, wie des Sommers Mittagsschwüle". — 8g „Von Oede so und Ruhe". — go „wie zart gehüllt in". — gi „Roma's". — 92 „An Trümmer Trümmer dicht gereiht". — gj „Grabmäler". — g4 „Auf ewig schweigend". — g^ „ Weit hin verstreut". — g6 „der Orkusmächte dunkles" verbessert aus „des Orkus dunkler Mächte". — 97 „bis zum Saum, wo hoch (aus „weiss" aus „hoch") die". — g8 „Her vom Gebirg dort". — gg „Dem tiefes Blau die heitre Stirn". — wo „ Wo mild". — loi „Kein Baum mit schattigem Gezweig^'. — 102 „Herrscht furchtbar''. — 10^ „hat weit umher". — 104 „leis flüstern". — 105 „Allein". — 106 „heisser Liebe tief getrunknem Kiiss". — io~ „Doch schlürfet". — 108 „Der süssen". — log „So auch". — iio „Hier dieser".</p>
+
+               <pb n="9.30" xml:id="pbIX30"/>
+               <p>Segnen muss der Mensch, auch wenn er kranket, Doch den Epheu, der ihn fest umranket.</p>
+
+               <p>Stets an Albas ernster Scheitel hängen Möchte zauberisch gebannt der Blick, 115 Wo einst Latium mit Festgesängen</p>
+
+               <p>Flehte von dem Donnrer Sieg und Glück,</p>
+
+               <p>Zu Sorakte's lichten Höhn sich drängen. Kehren über Tiburs Hain zurück; All die tiefen, schweifenden Verlangen 120 Halten in dem engen Raum gefangen.</p>
+
+               <p>Denn in dieses engen Raumes Schranken Ruht der Umfang einer halben Welt, Wie in Einem flüchtigen Gedanken Oft ein Menschenleben dar sich stellt. 125 Ferner Völker stolze Throne sanken</p>
+
+               <p>Hier, an Roma's Felsenmacht zerschellt, Und mit Blüthen, fremder Zon' entpflücket, Stand sie da, die Herrscherstirn geschmücket.</p>
+
+               <p>112 „der ihn fest" verbessert aus „welcher ihn". — iij zuerst: „Stets um Albas ernste (aus „heitre") Scheitel (aus „Herr scher Stirnen") weilen" verbessert aus „Stets um Tiburs Albas Gipfel weilen". — 114 „zauberisch gebannt" verbessert aus „festgebannt". — //j „einst Latium mit" verbessert aus „mit lauter Hymnen" ; zuerst: „Wo (gestrichen: „herab") mit seines lauten Donners Keilen" verbessert aus „Lauschen, wie mit seines Donners Keilen". — 116 zuerst: „Zeus einst lenkte Latiums Geschick". — j/7 „lichten Höhn" verbessert aus „lichten Gipfeln (aus „Höhen")" aus „Inselhöhn",; „sich drängen" verbessert aus „dann eilen". — 118 „Hain" verbessert aus „Höhn" aus „Felsenkluft" ; zuerst: „Und, Praeneste, dich, geweiht dem Glück". — 121 „Denn" verbessert aus „Und". — 122 „halben" verbessert aus „ganzen". — 124 „Menschenleben" verbessert aus „ganzes Leben". — 125 „Ferner" verbessert aus „Mächtiger" aus „Aller"; „stolze Throne" verbessert aus „mächtge Reiche" aus „stolze Throne". — i2j „überall gepflücket" verbessert aus „fremder (aus ,ferner" aus ,Jeder"J Zon' entpflücket".</p>
+
+               <p>III ,Ja muss". — 112 „Den Epheu, der verzehrend". — 113 „An Albas ernster Scheitel stets zu". — 114 „Sehnt sich der zauberisch gebannte". — 115 „Wo Latium mit festlichen Gesängen". — 116 „Einst flehte". — ii-j „Sich zu"; „zu drängen". — 118 „Zu kehren". — iig „Alle". — 120 „Zu halten". — 121 „Denn hier". — /22 „Ruhet". — 123 „Wie oft". — 124 „Ein ganzes". — 125 „Entfernter". — 126" „Hier hin". — 127 „Mit"; „fremder Himmel". — 128 „reich sie".</p>
+
+               <pb n="9.31" xml:id="pbIX31"/>
+               <p>Wie von Helios zu Selenens Glänze, 130 Kehrt zwar von der Heldin blutgem Schwert</p>
+
+               <p>Und der schlachtenfroh gebäumten Lanze Gern der Geist zu der, die, gramverzehrt, Mit der Locken wild zerrauftem Kranze</p>
+
+               <p>Sitzet an dem umgestürzten Heerd, 135 Deren Schmuck, mit Siegeshand entführet.</p>
+
+               <p>Nun der Stolzen hohe Mauern zieret.</p>
+
+               <p>Arme Hellas! traure nicht bekümmert! Hebe froh den gottdurchströmten Sinn! Wenn in heiiger Tempel Halle schimmert 140 Waltend deine Nebenbuhlerin,</p>
+
+               <p>Wenn mit Mavors Städte sie zertrümmert, Wurde dir ein höherer Gewinn; Du nur sangst im Götterreihn der Musen, Du nur herrschest in der Menschen Busen !</p>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">M5 An Ilissos sanft gewundnem Strande,</title>
+               </head>
+               <p>Wo Platanen wehrten Helios Strahl, Führten lieblicher gewöhne Bande Durch des Erdenlebens dunkles Thal.</p>
+
+               <p>12g „Von der Heldin kühngeschwungner La7ize". — 1^0 „Zwar und ihrem todumblitzten''. — jji „Kehret, wie zu Lunas stillerm Glänze^'. — ij2 „Geist" verbessert aus „Blick". — i^s „Siegeshand" verbessert aus „Siegershand", im Druck „Tigerhand" (Druckfehler ; vgl. Himiboldt an Schweighäuser, 6. September :8o6). — i^g „in — Halle" verbessert aus „Minerven (aus „Bellonen") auf goldnen Thrones Sitze (aus „auf hohem Throne" aus „rasch zur Seite")". — 140 „ Waltend" aus „Kampffroh". — 141 „Mavors" verbessert aus „Pallas". — 142 „Wurde — höherer" verbessert aus „Ward ein höhres Loos dir zum" aus „Wurde — höherer". — 145 „Ilissus". — 146 „Hälios". — /^y „leichtere und schönre".</p>
+
+               <p>12g „Zwar von der Heldinn kühngeschwungner Lanze". — 1^0 „Und ihres Gürtels todumblifztem". — /j&gt;/ „Kehrt, wie von Helios zu Selenens Glänze". — 1^2 „Gerne zu Der der Geist". — i^j „Mit ihrer". — ij4 „Sitzt schwermuthvoll am" verbessert aus „Verwaiset (aus „Verlassen") sitzt am". — i^ „Mit deren Schmuck, von". — 1^6 „Die Stolze nun die hohen". — ij-j „Verwaiste". — ij8 „Erhebe". — i^g „in des Tempels heiiger". — 140 „Hochstrahlend". — i4i „mit Bellona" verbessert aus „an Bellonens Seite". — 142 „Ward vom Geschick (aus „Geschicke") dir (gestrichen: „ein")". — j4j „Nur Du sangst in dem". — j44 „Nur Du durchwaltest tief. — 14^ „An des". — 146 „W'o mild". — i4y „Geleiteten schöner". — 148 „Leicht durch".</p>
+
+               <pb n="9.32" xml:id="pbIX32"/>
+               <p>In der Dichtung magischem Gewände »50 Stand die Weisheit bei der Freude Mahl,</p>
+
+               <p>Und, begeisterter empor zu flammen. Schmolz mit Freundschaft Liebe fest zusammen.</p>
+
+               <p>Wenn der Perser wilde Schaaren drohten, Glühte jedem Griechen hoch der Muth, «55 Und von allen Küsten her entboten,</p>
+
+               <p>Spendeten der Freiheit sie ihr Blut. Ueberdeckt mit Trümmern und mit Todten, Ausgespieen von des Meeres Wut, Können Salamis Gestade zeugen, 160 Ob dem Joche sich Hellenen beugen.</p>
+
+               <p>Doch wenn sie des Friedens Opfer weihten, Rosteten die Waffen unberührt. Knechtschaftsfesseln einer Welt bereiten</p>
+
+               <p>Ist nicht, was Hellenenbrust verführt; ^65 Für des Vaterlandes Götter streiten;</p>
+
+               <p>Aber, wenn der Freiheit Kranz sie ziert, Froh den Reigen um die Freien schliessen. Und der Hohen Gegenwart gemessen!</p>
+
+               <p>Ihren Geist — der Erd' und Himmel füllet, «70 Flüstert in dem gottgeweihten Hain, i4g „lieblichem^K — i^o „bei" verbessert ans „an" ans „bei". — 152 „Schmolzen Lieb und Freundschaß" ; „fest" verbessert aus „sanft". — 755 „allen Küsten her" verbessert aus „ Vesten her und Inseln fern". — 160 „Ob — sich" verbessert aus „Dass Hellenen sich nie dem (aus „keinem")". — 161 „wenn Friedens sie sich wieder freuten". — zfc „Moderten". — 164 „Ist es nicht, rvonach ein Grieche giert" verbessert aus „Ist — verführt".</p>
+
+               <p>i4g „In hoher (aus „holder")"; „lieblichem" verbessert aus „magischem". — ißo „Stand heitre (aus „lieblich")". — i^i. 752 „Uftd Freundschaft schmolz und Liebe fest zusammen, Begeisterter zum Himmel aufzuflammen". — '53 ,,W?Mn wild des Morgenlandes". — is4 „Erglühte". — 155 „Vom aller Inseln Küsten fern". — 1^6 „Gern spendeten". — 157 „Und überdeckt". — 158 „Unwillig ausgespie'n von Meereswut". — 759 „Kann"; „jauchzend zeugen". — 76b „Ob feige sich dem Joch". — 76"7 „Allein". — 76"2 „So rosteten". — i6j „J^^^ Knechtschaft Fesseln". — 164 „Nicht ist es". — i6s „Kühn für". — 166 „Doch, wann ihr Haupt der Kranz der Freiheit". — löj „Den frohen". — 168 „Erhabnen". — 769 „So ihren". — lyo „Der ßüstert".</p>
+
+               <pb n="9.33" xml:id="pbIX33"/>
+               <p>In des Meeres dunkler Woge schwillet, Furchtbar starrt im nakten Felsgestein,</p>
+
+               <p>Zart der Schönheit Wellenform entquillet — Schlürfen mit geweihten Sinnen ein, 175 Tief die Brust in alles Leben tauchen,</p>
+
+               <p>Und es bildend wieder von sich hauchen.</p>
+
+               <p>Aus dem Nichts da sprangen die Gestalten, Die umsonst die Hand der Zeit bezwang, Deren überirrdisch Götterwalten 180 Jetzt noch füllt den Sinn mit Himmelsdrang,</p>
+
+               <p>Die der Schönheit Urform rein entfalten, Rhythmisch, wie der Sphären Feierklang, Und sich, wie sie frei den Aether schlürfen. Huldreich fügen menschlichem Bedürfen.</p>
+            </div>
+
+            <div type="section" n="3">
+               <head>
+                  <title type="main">185 Da entströmeten der Hymnen Töne,</title>
+               </head>
+               <p>Wenn in Elis und des Isthmos Flur, Eifernd, ob des Sieges Kranz sie kröne? Flog zum Ziel der Flammenräder Spur. „Eins sind Götter, eins der Menschen Söhne, 190 Aber beiden Eine Mutter nur.</p>
+
+               <p>Werden jene vom Olymp getragen, Können auf zu ihnen wir doch ragen !"• ^)</p>
+
+               <p>33 jy^ „Zart'^ verbessert aus „Rein". — I-/4 „Trinken"' über „Schlürfen". — 180 „den Sinn" verbessert aus „die Brust". — 18^ „da". — 1% „Da entströmeten" verbessert aus „Auf da strömeten". — i8g „Menschen" verbessert aus „Erde". — igi. 192 „Tragen jene des Olympus Säulen, Können doch auch wir (aus „wir doch auch") sie nah (aus „kühn") ereilen!"</p>
+
+               <p>17/ „Der in". — 772 „Der furchtbar". — ijj „Und zart". — iy4 „reingeweihten". — 175 „Den Busen tief. — lyö „bildend wiederum es". — ijj „Dem Nichts entsprangen (aus „entströmten") plötzlich". — 1^8 „Die stets". — 179 „Die mit der Gottheit überirrdschem Walten". — 180 „Noch füllen jetzt". — j8i „Der"; „unentweiht" . — 182 „Harmonisch" verbessert aus „Eiirhythmisch" . — j8-^ „sie den Hauch des Aethers". — 184 „anschmiegen". — 18^ „Hervor da brachen des Gesanges". — 186 „Wann in des Isthmos und in Elis". — i8j „Der Kämpfer, eifernd ob ihn (aus „der" aus „ihn") Sieg bekröne (aus ..ihn kröne" aus ..bekröne")". — 188 „Lenkte". — i8(j „sind die". — igo „Doch athmet". — iqi „Wann jene des Olympos Säulen tragen" 792 „doch auf; „wir auch".</p>
+
+               <p>V uEv ävSocöv, er deajf yei'Oi' ty. ftid^ öe TtveotiiEV uaTov~ durfözEOOi . . . aU.d rt ■jiQoafEQOfiEv sjuTtar . . . ddardroi^" Pindar, Netneen 6, I.</p>
+
+               <p>W. V. Humboldt, Werke. IX. 3</p>
+
+               <pb n="9.34" xml:id="pbIX34"/>
+            </div>
+
+            <div type="section" n="4">
+               <head>
+                  <title type="main">34 4.</title>
+               </head>
+               <p>So vom Hauch der Schönheit überthauet, So ergriffen von der Grösse Macht, 195 Drang der Geist, von Morgenröth' umgraaet, Tiefer in des Menschenschicksals Nacht.</p>
+
+               <p>Keiner hat es je so klar geschauet. — Wie der Zorn der Eumeniden wacht, Wie das Leben irrt, ein Traum am Tage, 200 Ewig tönts des Chores Wechselklage.</p>
+
+               <p>Klagt Euch selber; denn kaum flüchtge Spuren Liess von Euch zurück Barbarenwuth. Argos trauert, und Mykenes Fluren,</p>
+
+               <p>Oed' ist Aulis strudelreiche Flut; ■205 Der Zerstörung wilde Stürme fuhren</p>
+
+               <p>Da, wo Götter menschlich einst geruht.</p>
+
+               <p>Wie der Leier Tön' in Luft verhallen, Muss des Lebens zartste Blüthe fallen.</p>
+
+               <p>Nicht gegeben ward es Euch, zu gründen, 210 Was durch grauer Zeiten Alter lebt.</p>
+
+               <p>Der selbst, dessen kühnem Ueberwinden Dienstbar Indus Ufer einst gebebt. Konnte Welten wohl mit Ruhm entzünden;</p>
+
+               <p>Doch es sank, was er mit Müh' erstrebt. 215 Wie der Gott im Zweigespann der Tiger,</p>
+
+               <p>Zog dahin und schwand der trunkne Sieger.</p>
+
+               <p>Wer empor ein fest Gebäu will führen, Trotzend Zeit und Schicksal unverwandt.</p>
+
+               <p>207 „Töne in die". — 2/2 vor „Dienstbar" gestrichen: „Einst". — 21J „wohl die WcW^ ; „mit Ruhm" verbessert aus „mit Krieg"; zuerst: „Konnte wohl des Ruhmes Stern entzünden".</p>
+
+               <p>igj „Vo}7i"; „also überthauet". — ig4 „Ergriffen also". — ig^ „Durchdrang". — ifjö „Tiefer des"; „finstre Nacht". — igj „Nie hat es einer". — igS „Wie stets". — 199 „Wie hin". — 200 „ertönts". — 201 „Klaget". — 202 „Nur liess". — 205 „£5 trauert Argos". — 204 „Und öd'". — 20s „Grauser". — 206" „Wo Göttersöhne". — 207 „des Gesanges". — 208 „jede zartste Lebensblüthe" . — 20g „ward es Euch gegeben, fest". — 210 „Was spät". — 211 „Er selber". — 212 „des Indus". — 2iß „mit Ruhme Welten wohl". — 214 „Allein". — 215 ,.So wie". — 2/6 „Zog er". — 2/7 „Wer sicheres Gebäu empor" verbessen aus „Wer auf ein ehernes Gebäu". — 218 „Das trotze".</p>
+
+               <pb n="9.35" xml:id="pbIX35"/>
+               <p>Muss das Irrdsche muthig zu berühren 220 Nimmer scheun mit arbeitkühner Hand,</p>
+
+               <p>Und des innren Busens Kräfte spüren Näher mit der Erde Staub verwandt, Wie die Eiche tief die Wurzeln senket, Wenn am Aether sie die Zweige tränket. 225 Zwar sie schöpfend von des Himmels Zinnen,</p>
+
+               <p>Goss ins Bild, das starrte kalt und taub, Jene Gluten, die uns noch durchrinnen. Kühn Prometheus; doch der Stoff war Staub. Nun in jedem menschlichen Beginnen 230 Wird des Himmels Frucht der Erde Raub.</p>
+
+               <p>Was entflammt den freigeschwungnen Kräften, Muss sich an die Nacht des Bodens heften.</p>
+
+               <p>Ewig hätt' Homeros uns geschwiegen, Hätte Rom nicht unterjocht die Welt; 235 Nimmer war' aus Grabesnacht gestiegen.</p>
+
+               <p>Der die Seele fest im Leiden hält. Da die Glieder Schlangen ihm umschmiegen, Und der Knaben Tod den Busen schwellt,</p>
+
+               <p>Liess nicht Titus einst von Siegestrümmern 240 Seine weiten goldnen Hallen schimmern.</p>
+
+               <p>Wie empor, den Himmel tragend, strebet Atlas, eine allgewaltge Wehr.</p>
+
+               <p>220 „Sich nicht scheun''. — 224 „am — Zweige'' verbessert aus „die Zweige sie am Aether'. — 226 ,,kalt" verbessert aus „stumm". — 229 „Drum". — ^35 nach „aus" gestrichen: „seiner". — 2^5. 2^ zuerst: „Nie geschaut, wie in des Schmerzens (gestrichen: „grossen") Zügen Unbesiegt die grosse Seele hält". — 257 ,ßa der Schlangen Leiber ihn" über „Dem die Glieder Drachen wild". — 2^8 „Söhne" über „Knaben"; „die Brust ihm" über „den Busen". — 2jCf. 240 zuerst: „Hätten wir, wetm nicht mit Siegestrümmern Titus liess die goldnen aus „weiten" aus „stolzen'') Hallen schimmern."</p>
+
+               <p>2ig „Der muss". — 220 „Sich nimmer". — 22/ „Und seines Busens innre'. — 222 „mit dieser". — 22j „Wie tief die Eiche ihre''. — 224 „an dem". — 22j „Sie" ; „hohen Zinnen". — 226 „Zwar goss" ; „kalt" verbessert aus „stumm". — 227 „Kühn jene". — 228 „Prometheus einst; allein". — 229 ..Darum". — 2jo „Wird nun". — 2JI „Was licht''. — 2j,'2 „an das Dunkel sich". — 2^^ „hätte"; „Homerus". — 2^4 „Hätte nicht Roma". — 2^5 „Nie war" aus seiner". — 2j6 „Der fest (aus „unb. . .") die grosse Seel". — 2^7 „Da Schlangenleiber vielfach ihn". — 2j8 „Und ihm der Söhne". — 2^g „Wann nicht einst Titus liess (aus „Titus nicht einst Hess")". — 240 „Des Esquilinus goldne''. — 241 „Wie, Erd und Himmelswölbung trennend". — 242 „Empor Atlas zu allgewaltger".</p>
+
+               <pb n="9.36" xml:id="pbIX36"/>
+               <p>Dicht von Wolken ist sein Haupt umschwebet. Und die Wurzel birgt das dunkle Meer. 245 So von dort, wo Dichtung Fabeln webet,</p>
+
+               <p>Ragt zu uns Roms mächtig Schicksal her. Was von Thatenkunde wir vernahmen, Wölbet sich um ihrens tolzen Namen.</p>
+
+               <p>Nicht ein frei Geschenk aus Göttergüte, 250 Ward der Thron der Welt des Römers Loos.</p>
+
+               <p>Wie stets neu ein zürnend Haupt erblühte Lernes Drachen aus der Wunde Schooss, Hob die oft Besiegte sich, und sprühte Neue Flammen auf den Sieger los, 255 Bis ihr letztes Blut er nun vergossen.</p>
+
+               <p>Und sich Janus hohe Pforten schlössen.</p>
+
+               <p>Stark, der Arbeit Riesenlast zu wägen, Schritt Quirinus Volk den Ringerpfad; Schnöd verschmähend. Ruh nach Kampf zu pflegen, 260 Erntend ewig neuer Siege Saat;</p>
+
+               <p>Von des Ruhmes lichtbestrahlten Wegen, Achtend nichts als Herrscherwort und That;</p>
+
+               <p>Gern vergeuderisch mit Blut und Schweisse, Wenn es nur der Welten Richter heisse.</p>
+
+               <p>24j „Dicht'''' verbessert aus „Stets". — 245 „da^'. — 248 „um ihren^^ verbessert aus „an ihrem^' ; „ Wölbt zum Ganzen (aus „und schliesst") sich in Roma's (aus „ihrem") Namen" verbessert aus „Wölbet — Namen". — 252 „Lerna's"; „Drachen''' verbessert aus „Hydra". — 255 „ihr" verbessert aus „der". — 26b „Erntend ervig" verbessert aus „Dass ihm" aus „Wurden Sieg" ihm". — 26^2 „Herrscherwort und That" verbessert aus „Sieg und Herrscherthat". — 264 „ Wenn's der Richter einer Welt tiur" verbessert aus „Dass der (gestrichen : ,. Völker") Richter nur der Welt es".</p>
+
+               <p>24j „Getvölken" . — 244 „Es birgt die (gestrichen: „dunkle") Wurzel ihm". — 24s Ji-^o ragt"; „dort" verbessert aus „da". — 246 „Zu"; „strahlend her". — 247 „Was wir"; ,Je vernahmen". — 24ß „Wölbt luftig". — 24g „Nicht frei" ; „aus milder". — 250 „Wurde". — 25/ „Wie immer (aus „ewig")". — 252 „Dem Drachen Lerna's". — 25^ „Hob sich (aus „so hob") die Oftbesieg ete" . — 2^4 „Stets neue". — 2§s „Bis kämpfend er ihr letztes Blut". — 256" „Und nun". — 257 „Stark, jeder" verbessert aus „Stark schritt, der". — 258 „Schritt Romul's" verbessert aus „Quirinus" ; „den sauern". — 259 „Schnöde". — 26b „Ei-ntend stets neuer"; „frohe Saat". — 261 „Von allen lichtbestrahlten Ruhmeswegen". — 26'2 ,,Nichts achtend je". — 26^ „ Vergeuderisch mit Blute gern". — 264 „es (aus „nur") der Richter einer Welt nur (aus „es")".</p>
+
+               <pb n="9.37" xml:id="pbIX37"/>
+               <p>Hielt es den erschrocknen Völkern vor; Dass Gewalt den Schwachen nicht verletze, Der zum Schirm es flehend sich erkohr, Und zum Sieg der Rache Schwert es wetze, 270 Lieh es dem Bedrängten gern sein Ohr.</p>
+
+               <p>So von einem Aleeresstrand zum andern</p>
+
+               <p>[Jess es seine blutgen Schaaren wandern.</p>
+
+               <p>Doch eh' kühn sie waget ferne Züge, Uebt daheim erst Roma Schlachtenmuth. 275 Denn dass, kaum gebohren, sie erliege,</p>
+
+               <p>Zischt um sie der Nachbarvölker Wut; Doch die Hände streckt sie aus der Wiege. Und erwürget liegt der Nattern Brut. Bändigend Ausonien ihrem Worte, 280 Steht sie an der Weltbeherrschung Pforte.</p>
+
+               <p>Und das Meer lacht ihren stolzen Füssen, Und es reitzt sie, sich ihm zu vertraun. ,,Mag den Uebermuth Carthago büssen.</p>
+
+               <p>Und Circejis Wald die Fluten schaun!" 285 Ruft sie, und mit lauten Siegesgrüssen</p>
+
+               <p>Senden ihre Flotten Todesgraun. Zwischen Schiff' und Schiffen kühne Brücken Schlagen sie sich auf der Woge Rücken.</p>
+
+               <p>268 „Schirmer es sich aiiserkohr". — 272 „blutgen Schaaren'^ verbessert aus „Legionen". — 27J „sie" verbessert aus „e5". — 2j4 „Roma'' über „Rom den". — 279 „Ausonien" verbessert aus „Italien". — 2ii2 „sie reitzt es" verbessert aus „es reitzt sie". — 28J „Uebermuth" über „Stolz der Macht"; „Carthago" verbessert aus „der Poene". — 284 „Soralnes". — 288 „der Woge" verbessert aus „der Wogen" aus „des Meeres".</p>
+
+               <p>265 „Denn strengen". — 266 „unerbittlich es den Völkern". — 267 „nicht Gewalt den Schwächeren". — 268 „ßehend es zum Schirm sich auserkohr". — 269 „Und neuem". — 270 „es Bedrängten"; „sein willig". — 27/ „Von eines fernen Meeres Strand". — 272 „so es". — 27^ „ehe". — 2-]4 „Roma erst daheim den". — 275 „dass sie"; „schon erliege". — 2j6 „Zischt wild". — 277 „Allein". — 276? „hingewürget". — 279 „Ausonien bezwingend". — 280 „nun sie". — 281 „Und schmeichelnd lacht das Meer den". — 282 „Und reitzet sie, sich kühn ihm". — 28j „Mag ihren". — 284 „Apenninus". — 2^5 „Sie ruft es". — 2SO „Entsenden". — 26*7 „Von Schiff zu"; „kühngeschlagne". — 288 ..Bereiten".</p>
+
+               <pb n="9.38" xml:id="pbIX38"/>
+               <p>Und der Kampf nun auf den schwachen Brettern 290 Tobt', als wütet' er auf Felsengrund. Vor des Römerschwertes Flammenwettern</p>
+
+               <p>Sinkt der Poene in der Wellen Schlund, Und von seinen Siegern, wie von Rettern, Bettelt er des Friedens schmähigen Bund. 295 Von dem schönen, dreigezackten Lande</p>
+
+               <p>Muss er fliehn zu seinem öden Strande.</p>
+
+               <p>Aus der Heimath ist sie nun geschritten. Morgendlich, gleich schöngeschmückter Braut; Muth und Stärke hat sie sich erstritten, 300 Dass vor keinem Kampf sie mehr ergraut.</p>
+
+               <p>Zwar noch blutgen Regen auf sie schütten Ungewitter, denen Nacht entthaut; Doch sie harret aus, die Wolken fliehen, Und es sinkt die Welt zu ihren Knieen.</p>
+            </div>
+
+            <div type="section" n="5">
+               <head>
+                  <title type="main">305 Und nach jedem schwer bestandnen Streite</title>
+               </head>
+               <p>Heftet, noch vom Kampfgew^ühle heiss, An der Götter Tempel sie die Beute, Des vergossnen Blutes theuren Preis. Mit den Grenzen dehnt sich in die Weite 310 Auch der Stadt, der Einzgen, heiiger Kreis;</p>
+
+               <p>Denn zum Heerd des Reichs ist sie geweihet, Wo sich ewger Flamme Vesta freuet.</p>
+
+               <p>2go „als ständen sie". — 29z „Flammemvetteni'^ verbessert aus „biutgen Wettern". — joo „Katnpfe mehr ihr graut". — joj „harret aus" über „widersteht".</p>
+
+               <p>28g „Und Kampf nun tobet". — 290 „Als wütet er auf festem". — 291 „Hin vor". — 292 „Entsinkt". — 29^ „von den Siegern bettelt". — 2g4 „Ohnmächtig er". — 2Q!^ „Vom" ; „Insellande". — 296" „entßiehn". — 297 „Hervor ist aus der Heimath sie". — 2g8 „Nun morgendlich". — 299 „Kraft (aus „Muth") hat sie männlich sich, und Muth". — ^00 „Dass sie" ; „Kampfe mehr". — ^01 „Zwar werden blutgen". — j02 „Noch Ungewitter". — joj „Allein". — J04 „Und dienstbar sinkt". — JOS „Und jedesmal, nach schwer bestandnem". — jo6 „von dem'-. — joy „Sie an"; „Tempeldach die". — jo8 „Des theuren Bürgerblutes edlen". — jog „Und mit den fernen Grenzen in". — jio „Dehnt sich". — jii „zu des Reiches Heerd". — J12 „ewig sich der Flamme".</p>
+
+               <p>2(fj „seines Meeres Strande" Einzelblatt.</p>
+
+               <pb n="9.39" xml:id="pbIX39"/>
+               <p>Um den Siebengürtel dieser Hügel, Deren Stirn die hohen Zinnen trägt, 315 Schwingt der Sieg die goldumstralten Flügel,</p>
+
+               <p>Treu dem Kreise, der ihn einzig hegt. Ewger Herrschaft unverletztes Siegel Hat hier nieder das Geschick gelegt; Wohl verpflanzen lässt sich Muth und Tugend, 320 Aber nicht des Glückes Götterjugend.<note type="footnote" n="^)" resp="gnd-116890657"><hi>Als einst von der Gallier Siegerhänden Rom verbrannt in Graus und Schutte lag, Und den neuen Aufbau zu vollenden, Es an Muth dem müden Volk gebrach, 325 Wollten sie sich feig nach Veji wenden;</hi></note></p>
+
+               <p>Doch Camill, der kühne Retter, sprach: „Von der Väter Hecrde wollt ihr fliehen r In die Stadt besiegter Götter ziehen?</p>
+
+               <p>So, Quirlten, traget ihr nur Liebe 330 Zum Gebälk, von Menschenhand erbaut?</p>
+
+               <p>So umfasst ihr nicht mit inngerm Triebe Dieser Muttererde süssen Laut?</p>
+
+               <p>Nein! wenn auch nur jene Hütte bliebe. Die den grossen Gründer einst geschaut,</p>
+
+               <p>3^5 „goldumstralten Flügel'' über „goldnen Götterßügel". — jij ,.Ewger'' über „Steter"; „Hier nur hat der hohen" über „Ewger — unverletztes". — ^18 „Ewig" über „Hat hier". — ^20 „Götter" über „ewge". — ^21 nach „Gallier" gestrichen: „wilden". — J24 nach „Es" gestrichen: „dem Volk". — ^25 „feig" verbessert aus „hin". — j2j „Heerde" über „Sitzen". — ^jo nach „Gebälk" gestrichen: „erbaut".</p>
+
+               <p>^iß „ Um ihn". — j^/4 „Der jene thatenschwangern (aus „thatenschwanger jene" aus „jene thatenschwangern"/'. — j/5 „goldumstrahlt der" ; „die raschen". — ^16 „Dem Kreise treu, welcher". — j/7 „Der Herrschaft ewig". — ji8 „nieder hier des Schicksals Guyist". — ^ig „ Verpßanzen lasset wohl". — J20 „Doch" ; „ewge Götterjugend". — j2i „einstmals". — J22 „Zerstöret Rom in Schutt und Asche". — ^2^ „Und es". — J24 „Dem müden Volk an hohem Muth". — ^25 „feige sich". — ^26 „Allein". — ^27 „Vom Heerd der Väter wollet"; „ent' fliehen". — ^28 „Fort in". — ^29 „tragt, Quirlten, in der Brust ihr". — 9^ ,i^^"'' sum". — jji „Umfasset nicht mit inniglicherm" . — ^^2 „Der süssen Muttererde theuern". — j^j „allein auch". — ^j^4 „Die einst"; „hat".</p>
+
+               <p>V Zugrunde liegt die Rede des Camillus bei Livius 5, 51.<pb n="9.40" xml:id="pbIX40"/> 335 Möcht' ans Herz ich diese Oede drücken,</p>
+
+               <p>Lieber, als den alten Sitz verrücken.</p>
+
+               <p>Oft mit Thränen netzte meine Wangen,</p>
+
+               <p>Als ich weilt' in Ardea verbannt, Hier nach diesen Fluren tief Verlangen, 340 Nach des Tibers altgewohntem Strand,</p>
+
+               <p>Nach dem Himmel, von dem hold umfangen. Mir der ersten Jugend Blüthe schwand. Dass nicht Sehnsucht trübe unsre Freuden, Lasst uns nie vom süssen Boden scheiden!</p>
+            </div>
+
+            <div type="section" n="6">
+               <head>
+                  <title type="main">345 Und wer wird den Göttern Opfer bringen,</title>
+               </head>
+               <p>Deren Dienst von unsern Vätern stammt?</p>
+
+               <p>Deine Schilde wer, Gradivus, schwingen, Wenn kein Bürgerheerd mehr wirthlich flammt, Und, wo jetzt der Freiheit Kräfte ringen, 350 Ist zur Wüste dann der Markt verdammt?</p>
+
+               <p>Vestas Lohe wer zu löschen wagen? Wer auf Feindesheerd sie frevelnd tragen?</p>
+
+               <p>Fest noch steht die hohe Burg gegründet. Aller Götter Häuser unversehrt. 355 Wem die Brust das Vaterland entzündet.</p>
+
+               <p>Dem bleibt kein Beginnen je verwehrt.</p>
+
+               <p>j^^ „Möcht ich lieber unter diesen Trümmern weilen^' verbessert aus „MÖchf — drücken'' aus „Möcht' (aus „Wählf") ich lieber diese Aschenhaufen". — jj6., Als verbannt zu neuen Mauern eilen"' verbessert aus „Lieber — verrücken'' aus „Als Palläste mit Verbannung kaufen". — j^^8 „lag" verbessert aus „sass". — j4i „hold" verbessert aus „froh". — ^4j „trübe Sehnsucht" verbessert aus „Sehnsucht trübe". — ^4ß „von alten" verbessert aus „her von den". — ß^o „Ist" verbessert aus „Dann" ; „dann" verbessert aus „ist".</p>
+
+               <p>335 »^^'^ ans Herz doch". — j^^6~ „als so". — jjjy „netzete mit Thj-änen". — ^^8 „Als fern". — jjg „Nach diesen Fluren tiefes Heimverlangen". — ^40 „Hier nach". — ß4i „Nach diesem'. — ^42 „Der ersten Jugend Blüthe mir entschwand". — j4ß „nicht einst". — j44 „nimmer uns". — ^4$ „welch Geschlecht wird nun die". — ^46 „Von grauer Väter Vorzeit angestammt". — ß4y „ Wer deine Schilde, 0". — J48 „Wann nirgends". — j4g „der Freiheit Kräße jetzo". — j^o „Zur Wüstenei das Forum ist". — ^51 „Die Lohe Vestas". — J52 „Wer frevelvoll auf'.—j^j „stehet noch". ~ js4 ^,L!nd (aus „Noch") aller". — 355 „Wem rein". — j^6 „jedes Beginnen unverwehrt".</p>
+
+               <pb n="9.41" xml:id="pbIX41"/>
+               <p>Für die oft, in Schlachtenreih verbündet,</p>
+
+               <p>Ihr gekämpft mit blutgefärbtem Schwerdt, Diese wüsten Mauern, o Quirlten, 360 Lasst aufs neue Trotz den Zeiten bieten."</p>
+
+               <p>Und sie wankten zweifelnd hin und wieder.</p>
+
+               <p>Da zieht übers Forum Kriegerschaar, Und begeistert schallt es durch die Glieder: „Hier zu bleiben frommt uns, immerdar! 365 Senket hier der Adler stolz Gefieder !"</p>
+
+               <p>Und als tönte Götterstimme klar. Hört vom Markt man und des Rathes Stufen,</p>
+
+               <p>„Hier zu bleiben frommt uns !" alle rufen.</p>
+
+               <p>Und seitdem mit aller Götter Gnaden 370 Ward die Herrscherin der Welt beschenkt;</p>
+
+               <p>Schauend von des weiten Aethers Pfaden</p>
+
+               <p>Grössres nichts, worauf den Strahl er senkt,</p>
+
+               <p>Ists, als ob, in Glänze sie zu baden, Phöbus seine Flammenrosse lenkt. 375 W^o nur Hauch der Menschlichkeit je wehte, Sehnt die Brust sich nach der Stadt der Städte.</p>
+
+               <p>Denn als hin das erste war gesunken.</p>
+
+               <p>Blüht' in ihr empor ein neues Reich. j&gt;59 „Mauern lasst, Quinten". — ^60 „Trotz aufs neue sie". — ^61 „Und — zweifelnd'' verbessert aus „Sprach es, und sie wankten". — j6^ „ Und der Führer rufet^": — j68 „frommt uns! nach ihtn" verbessert aus „hier zu bleiben!" — jög „Darum reich" verbessert aus „Und seitdem". — jyj „in Glänze sie" verbessert aus „um sie in Licht". — ^jö „die Brust" verbessert aus „der Mensch". — j-8 „Blüht'" verbessert aus „Ragt'". 351 Jhr oft". — J56' „Muthig gekämpft". —35g „0/ diese"; „lasst, Quirlten". — 360 „Aufs neue Trotz dem Sturm der". — j6i „Sprachs, und". — j62 „ziehet". — j6j „Und wie". — j64 „Nur hier" verbessert aus „Hier nur". — j^5 „Senkt hier der goldnen". — j66 „ertönte". — j6j „Hört man vom Forum"; „Rathes" verbessert aus „Marktes". — ^68 „Nur hier". — j6g „reich mit". — 3J0 „Wurde". — jyi „Nichts Größres schauend"; „des Aethers". — ^-j 2 „Worauf verweilend seinen". — j^y^ „Scheint es". — j']4 ,,Die ßammensprühnden Rosse Phöbus". — ^75 „Wo immer". — jj6 „Sehnet". — jyy „dahin". — ^-jS ., Erblüht". j6g „von allen Götter gnaden", 3^0 „Strömt der Herrscherin die reiche Flut", 372 „worauf er fröhlich ruht", j-jj „f^enkt, in Strahlenglanze sie", jj4 „seiner Rosse Flammenmuth" Einzelblatt.</p>
+
+               <pb n="9.42" xml:id="pbIX42"/>
+               <p>Die durch Blut und Kampf schritt siegestrunken, 380 Herrscht nun sonder Schwert und Lanzenstreich;</p>
+
+               <p>Liebe weckt in ihr die Himmelsfunken,</p>
+
+               <p>Statt des Lorbeers, grünt der Palme Zweig. Tod und Knechtschaft hat sie sonst entsendet, Segnend jetzt die Welt sich zugewendet. 385 Zwar auch dieses Glanzes Strahlen bleichen.</p>
+
+               <p>Was die Erde Grosses je gesehn. Sinkt einst vor des Schicksals mächtgen Streichen, Fortgewirbelt in des Poles Drehn. Selbst die Sonne muss am Abend weichen, 390 Neu am Morgen glühend zu erstehn.</p>
+
+               <p>Doch der Geist, der tief verborgen weilet, Wird von keiner Flucht der Zeit ereilet.</p>
+
+               <p>Und zu ihm, der, licht entflammt dem Himmel, Um die Wange dieser Hügel schwebt, 395 Fliehet freudig aus dem Weltgetümmel,</p>
+
+               <p>Wem Betrachtung still die Seele hebt. Balsam ist der Schatten Nachtgewimmel, Wenn den Busen Ahndung bang durchbebt. Aus dem Leben in die Wüste schweifen, 400 Muss, wer kühn will Göttliches ergreifen.</p>
+
+               <p>Soviel Saiten tief im Busen schwingen, Wenn der Welten Einklang rührt das Herz; ^80 „drauf verbessert aus „nun". — j84 „dann" verbessert aus ,Jetzt". — jgi „Doch" verbessert aus „Nur". — ^95 „Rettet gern sich". — ^g6 „Wem Gefühl die goldnen Stunden webt". — ^g8 „Ahndung still durchbebt" verbessert aus „tiefe Ahndung hebt". — 400 „kühn will Göttliches" über „will das Göttliche". — 401 „tief im" verbessert aus „in dem". J7g„ schritt durch Blut und Kämpfe". — j8o „Herrschet". — j8i „zündet". — ^2 „Statt hohen". — j8^ „Tod hat sie sonst" ; „weit entsendet". — j84 „die Welt sich jetzo". — j^8^ „Auch" ; „zwar erbleichen". — jSG „Was je" ; „hat gesehn". — j8'j „einstmals". — j88 „Hinweggewirbelt". — j8g „Die Sonne selber". — jgo „Am Morgen glühend wieder". — ^gi „Allein". — ^92 „Wird nie von schnöder". — ^9j „Und auf ; „rein". — ^g4 „Die Wange dieser Hügel licht umschwebt". — ßgs „Rettet sich". — jg6 „Wem Einsamkeit die goldnen Stunden webt". — jgj „ist dunkler". — ^g8 „Wenn Ahndungsschauer still die Brust'''. — ^gg „Vom Leben scheidend". — 400 „das Göttliche will kühn". — 401 „So viele". — 402 „Wann aller".</p>
+
+               <pb n="9.43" xml:id="pbIX43"/>
+               <p>Soviel Töne allgewaltig dringen Auf von diesem Boden himmelwärts. 405 Grabestrümmer, öd' und wüst, durchklingen</p>
+
+               <p>Bang die Brust mit sehnsuchtsvollem Schmerz; Grösse ruht auf Mauern und Gefilden; Schönheit flammt aus himmlischen Gebilden.</p>
+
+               <p>Wann, von ihrem Lichte, Ihr, umflossen, 410 Göttersöhne, die ihr, ewig jung.</p>
+
+               <p>Stehet bei den wildgebäumten Rossen,^) Hebt die Brust zw überselgem Schwung, Wie dann in einander mild ergossen Strömen Wehmuth und Bewunderung, 4' 5 Bis der Geist, von Ahndungsblitz gerühret.</p>
+
+               <p>In dem Loos der Menschheit sich verlieret!</p>
+
+               <p>Denn es soll vergehn des Menschen Treiben ; Ewig währet nur, was leblos starrt. Nichts soll von der langen Vorzeit bleiben, 420 Was nicht lebend trägt die Gegenwart;</p>
+
+               <p>Kraft an Kraft sich funkensprühend reiben. Hauch beleben Hauch, nach Geisterart. Der selbst, von dem alles Leben stammet</p>
+
+               <p>Ist nur ewig, weil stets neu er flammet.</p>
+            </div>
+
+            <div type="section" n="7">
+               <head>
+                  <title type="main">425 Darum sonder bittrer Klag' Entsenden,</title>
+               </head>
+               <p>Senken edle Trümmer hier das Haupt,</p>
+
+               <p>40-^ „dringen'' verbessert aus „klingen-. — 405 „durchklingen" verbessert aus „durchdringen'-. — 40g „umflossen" verbessert aus „umgössen". — 411 „bei" verbessert aus „mit". — 412 „überirrdschem". — 42^ „Selbst der Weltgeist, von dem Alles stammet" über „Der — stammet".</p>
+
+               <p>40-^ .,So viele". — 404 „Empor". — 405 „Grabtrümmer , klagend". — 4/j6 „Die Brust ynil bangem, schwermuthsvollem" . — 40-] „ruht still". — 40S „entflammet himmlischen". — 40g „ Wann hell". — 410 „Ol Göttersöhne". — 411 „Kühn stehet". — 412 „Den Busen hebt". — 41^ „in einander milde dann". — 414 „Strömt wechselnd". — 415 .,Bis sich". — 416 „Nachdenkend in der Menschheit Loos". — 41 j „Denn ja vergehen soll". — 418 „währt"; „was starr der Tod beyvahrt". — 41g „soll je". — 420 „lebendig". — 421 „Kraft rasch an". — 422 „zart beleben". — 42J „welchem". — 424 „ewig nur, weil ewig". — 4^5 „Drum"; „Trauerklag'". — 426 ..Senken hier": ..still das".</p>
+
+               <p>') Vgl. oben S. 75 Anm. 2.</p>
+
+               <pb n="9.44" xml:id="pbIX44"/>
+               <p>Als verziehti sie den Barbarenhänden, Die der Pracht der Jugend sie beraubt, Sanft noch lächelnd in den öden Wänden, 430 Von des Epheus dichtem Schmuck umlaubt;</p>
+
+               <p>Wie der Saat, die bald der Sommer bleichet. Still im Herbst des Halmes Aehre weichet.</p>
+
+               <p>Niedern Dienst dem neuen Wohner leihet</p>
+
+               <p>Hoher Säulen schöngeformter Knauf; 435 Achtlos, ob er Werk der Kunst entweihet.</p>
+
+               <p>Stützt er häusliches Geräth darauf.</p>
+
+               <p>Soll, der sich des Augenblickes freuet, Greifen in der Zeiten raschen Lauf?</p>
+
+               <p>Blüthen, die aus ihrem Schoosse spriessen, 440 Mögen welkend hin mit ihnen fliessen.</p>
+
+               <p>Grosses ewig muss der Mensch erzeugen, Weil zum Himmel auf sein Wesen strebt; Doch das Grosse muss der Zeit sich beugen. Der im Busen wieder Grössres webt, 445 Schlingen so sich hin ein Götterreigen,</p>
+
+               <p>In dem Schönes Schöneres belebt. Nur ein Leben aus dem Tod Entfalten</p>
+
+               <p>Ist der Menschheit schmerzumwölktes Walten.</p>
+
+               <p>Der des Menschen Busen heiss durchglühet, 450 Hält die Welten auch im ewgen Gleis, 428 „der Pracht'' verbessert ans „des Schmucks". — 4j2 „des Hahnes'' über „die goldne". — 440 „ihnen" verbessert aus „ihr auch". — 446 „Schönres stets". — 448 „der Menschheit" verbessert aus „des Weltgeists" ; „schmerzum- ßortes'^ über „unverstandnes" . 42J „Und als (gestrichen: „ob sie")". — 428 „Die grausam sie der Jugend Pracht". — 42g „Lachten sie sanft noch". — 4jo „Die dicht des Epheus grüner". — 4^1 „So wie". — 4^2 „Willig des Herbstes goldne". — 4jj „Dem neuen Wohner niedre Dienste". — 4^4 „Der schlanken Säule". — 4-^5 „Nicht achtend". — 436 „er sein". — 4^7 „der, der". — 438 „Eingreifen". — 43g „die harmlos ihrem Schooss entspriessen". — 440 „Mögen auch". — 441 „muss ewig fori". — 442 „auf sein Wesen zu den Himmeln". — 44j „Allein". — 444 „Grössres wiederum im Busen". — 445 „So hin sich schlingen stets". — 446 „welchem". — 447 &gt;)^"^ ewges". — 448 „Nur ist". — 44g „Der lebenswarm des Menschen Brust". — 4^0 „auch die Welten in dem".</p>
+
+               <pb n="9.45" xml:id="pbIX45"/>
+               <p>Und die Funken, die er flammend sprühet, Fasset keiner Ewigkeiten Kreis. Neues auch aus seinem Schooss erblühet, Ohne dass er ahndungsvoll es weiss. 455 Er auch kennt nur ewig neu Entwinden,</p>
+
+               <p>Ringt, im Grössren wieder sich zu finden.</p>
+
+               <p>Denn das Neue doch ist heimisch wieder. Stammt aus gleich verborgnem Urquell her. Drum wer lenken will des Geists Gefieder 460 Um der Erde Rand, der Sterne Heer,</p>
+
+               <p>Steige nur zum eignen Busen nieder, Schwelle, wie der Ströme Flut das Meer, Ihn mit aller Schöpfung reichem Leben, So um Einen lichten Punkt zu schweben. 465 Denn, ein Abglanz göttlicher Gedanken,</p>
+
+               <p>Reisset, theilend keines Irrdschen Loos, Aus der Alltagsbilder irrem Wanken Plötzlich, still verklärt, Gestalt sich los. Grösse, die nicht Wandel kennt, noch Schranken, 470 Ruht in ihrer Züge tiefem Schooss;</p>
+
+               <p>Was dem Geist entflieht, als reine Wahrheit, Strahlt aus ihr in hoher Sinnenklarheit.</p>
+
+               <p>So erwuchsen durch der Gottheit Segen Diese Hügel in der Hören Tanz.</p>
+
+               <p>4sr „Und" verbessert aus „Doch''. — 45^ „auch'' verbessert aus „stets". — 4j^4 „vorher ers ahndend". — 4^5 „Er — nur" über „Leben ist ihm". — 456 „Ringt'' über „Lust''; „wieder — finden" über „stets sich wiederfinden". — 460 „Rand" verbessert aus „Kreis". — 47/. 472 zuerst: „Und zu immer höhrer Ahndung schwellen Unsern Busen ihrer Schönheit Wellen". — 4j4 „Hügel" verbessert aus „Mauern".</p>
+
+               <p>4^1 „Allein die". — 452 „Fasst endlos". — 45J/ „aus seinem Schooss auch stets". — 4s4 „Eh", sich erahndend, er vorher". — 4^5 „Auch er nur kennet". — 4Sfi „Und ringt". — 457 „Denn doch"; „ist auch". — 458 „aus dem"; „verborgnen". — 4S9 „Darum". — 460 „Jenseits der". — 461 „Der steige". — 462 „Schwell' ihn, so". — 46j,&gt; „Mit"; „reich ergossnem". — 464 „So dann". — 465 „Denn reiner". — 4J(Jfj „Reisst" ; „dürfiges Loos". — 467 „Sich aus''. — 4/')8 „Gestalt urplötzlich, still verkläret, los". — 469 „die keinen". — 470 „tief in" ; „Götterzüge" verbessert aus „Züge reichem'^ — 471 „Was imserm" ; ,.lautre" verbessert aus ..reine". — 472 „Entstrahlet ihr". — 4yj „So nun". — 474 „Roms Heldenhügel".</p>
+
+               <pb n="9.46" xml:id="pbIX46"/>
+               <p>Hängt an ihrer Gipfel heitrem Glanz, Um die sich der Menschheit Loose legen. Wie um Heldenstirn ein Lorbeerkranz.</p>
+
+               <p>Welcher Laut hat menschlich je geschallet, 480 Den die Vorzeit hier nicht wiederhallet?</p>
+
+               <p>Ihren Tönen lass mich, Freundin, lauschen! Mag, was leicht, wie Windes Hauch, verweht. Immerhin sein Wechselloos vertauschen; Was das ernste Schicksal will, besteht. 4^5 Lass den Augenblick vorüberrauschen!</p>
+
+               <p>Nur das Meer, des Fluten, glanzbesät, An der Menschheit tiefe Wurzeln schlagen,</p>
+
+               <p>Ist es werth, den müden Geist zu tragen. 4j6 „Gipfel^' verbessert aus „Zimien^^ aus „Gipfel'^. — 481 „Ihren — Freundin^'' verbessert aus „Lass mich, Freundin, ihren Tönen". — 4S2 zuerst: „Soll mit dem, was ewig fest besteht". — 4^9 „Immerhin — Wechselloos" verbessert aus „Ich den ßiichtgen Augenblick"; „Wechselloos" verbessert aus „flüchtig Loos". — 484 zuerst: „Den, wie Windes Hauch in Luft verweht". — 48^ „Lass — Augenblick" verbessert aus „Fliehend hört das Ohr". — 486 „glanzerhöht". — 48j ,M^f^ Wurzeln" verbessert aus „letzte Grän[zen]". 475 „Was Grosses jemals kann die Brust". — 4-/6 „i-eich an". — 477 „sich rings". — 4'j8 „Wie froh". — 479 „Wo hat ein Laut auch"; „erschallet". — 4E0 „Den graue". — 481 „Lass ihren Tönen mich, o". — 482 „rvas, wie Windeshauch, in Luft". — 48j „Dock immerhin". — 484 „Das, was". — 48s „Lass schnell". — 486 „Das Meer nur, dessen"; „glanzerhöht" verbessert aus „glanzbesät". — 48-] „Tief an" ; „ferne". — 488 „Ist werth"; „lebensmüden".</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

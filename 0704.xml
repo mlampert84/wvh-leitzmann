@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Paralipomena</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Siebenter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif0702humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1907">1907</date>
+                  </imprint>
+                  <biblScope unit="page" from="353" to="354"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="7.353" xml:id="pbVII353"/>
+            <head>
+               <title type="main">Paralipomena.</title>
+            </head>
+            <p>W. V. Humboldt, Werke. VII.<pb n="7.354" xml:id="pbVII354"/> Als „Paralipomena" habe ich in diesem Bande eine Reihe von Stücken aus Humboldts handschriftlichem Nachlaß vereinigt, für die mir teils wegen ihres fragmentarischen oder skizzenhaften Charakters, teils wegen ihres zu geringen Umfangs oder zu nebensächlichen Inhalts, teils endlich andrer zutage liegender Ursachen wegen zwischen den großen imd mehr oder wetiiger vollendeten Arbeiten, wie sie in den bisherigen Bänden nach der Reihenfolge ihrer Entstehimg gesammelt sind, nicht die richtige Stelle schien. Sie entstammen, bis auf zwei Nummern bisher unbekannt und ungedruckt, allen Epochen von Humboldts Leben von der Unselbständigkeit der frühen Jugend bis zur Reife des Greisenalters. Das wenige, was sich ynir an Nachträgen zu den früheren Bänden, besonders zu yneinen Schlußübersichten seitdem ergeben hat, glaubte ich hier an den betj-effenden Stellen einfügen zu sollen. Die die Werke im engeren Sinne umfassende Abteilung der Ausgabe ist mit diesem Bande geschlossen. Jena, ji. Januar igo8.</p>
+
+            <p>Albert Leitzmann.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

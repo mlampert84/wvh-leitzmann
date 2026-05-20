@@ -1,0 +1,406 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aristophanes Lysistrata</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Achter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif08humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1909">1909</date>
+                  </imprint>
+                  <biblScope unit="page" from="250" to="259"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1795">1795</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="8.250" xml:id="pbVIII250"/>
+            <head>
+               <title type="main">5- Aristophanes Lysistrata.</title>
+            </head>
+            <p>Personen.</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">Lysistrata.] Kalonike. | Athenienserinnen. Myrrhina. J</title>
+               </head>
+               <p>Lampito, eine Spartanerin.</p>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">Lysistrata.</title>
+               </head>
+               <p>1. Aufzug.</p>
+
+               <p>I. Auftritt.</p>
+
+               <p>Lysistrata, gleich nach ihr Kalonilce. Lys. Hätt' einer nur zu Bachus Tempel sie gerufen, zu Pan, zu Aphroditen, oder Genetyllis, dann käme man nicht durch vor Trommeln und vor</p>
+
+               <p>Pfeifen.</p>
+
+               <p>So aber ist auch keine einzge hier. Nur meine Nachbarin kommt endlich noch. Heil Kalonike Dir!</p>
+
+               <p>Kai. Auch Dir, Lysistrata. Warum so mürrisch? nicht verdriesslich, Kind! Es ziemt Dich nicht, die Augenbraunen so zu runzeln. Lys. Ach! Kalonike, tief im Herzen schmerzt es mich. Handschrift (12 Quartseiten'i im Archiv in Tegel; auf dem Titelblatt unten steht die Notiz: „Tegel, 22. Jul. i']%."'<pb n="8.251" xml:id="pbVIII251"/> der Arglist stehn — Kai. Und doch mit Recht? nicht wahr?</p>
+
+               <p>Lys. und jetzt, da allen herzukommen angesagt, um über wichtge Dinge rathzuschlagen, 15 sie schlafen, und nicht kommen.</p>
+
+               <p>Kai. Aber, Liebste, sie werden kommen; lang nur währt es, eh' ein Weib sich losmacht, eine muss noch erst den Mann bedienen, die andre weckt den Sklaven, oder bringt das Kind zu Bette, oder wäscht es, giebt ^) ihm Brei. 20 Lys. Allein ganz andre grössre Dinge warten ihrer hier.</p>
+
+               <p>Kai. Welche doch, geliebteste Lysistrata? Warum rufst Du die Weiber hier zusammen?</p>
+
+               <p>Was für ein Ding —</p>
+
+               <p>Lys. Ein grosses.</p>
+
+               <p>Kai. Auch ein dickes?</p>
+
+               <p>Lys. Beim Zeus, ein dickes.</p>
+
+               <p>Kai. Und sie kommen dennoch nicht? 25 Lys. Pfui doch, das mein ich nicht, längst wären sie sonst da.</p>
+
+               <p>Allein ein Ding ist es, mit Müh' von mir ersonnen, in viel schlaflosen Nächten lang herumgewälzt.</p>
+
+               <p>Kai. Was Du so lang gewälzt, ist sicherlich nur klein.</p>
+
+               <p>Lys. Ja, ja, so klein, dass an den Weibern nur 30 das Wohl des ganzen Hellas einzig hängt.</p>
+
+               <p>Kai. Nur an den Weibern hängt? so hängt es denn an wenig. Lys. Dass nur auf uns der ganze Staat beruht, ob er noch sey? beruht, dass kein Peloponnese — Kai. Viel besser wärs, die wären nicht, beim ZeusI 35 Lys. Dass die Böotier alle untergehn.</p>
+
+               <p>Kai. Nicht alle, rette doch die Aale wenigstens.</p>
+
+               <p>Lys. Von den Athenern red' ich nichts dergleichen.</p>
+
+               <p>Du kennst mich, wie ich denke, und verstehst mich. Wenn aber nur die Weiber hier zusammenkommen, 40 die aus Böotien, und dem Peloponnes, und wir, dann retten wir vereint das Vaterland!</p>
+
+               <p>V y&gt;g^^^^" verbessert aus „bringt".</p>
+
+               <pb n="8.252" xml:id="pbVIII252"/>
+               <p>Kai. Was könnten auch wir Weiber wohl vollbringen, das klug und glänzend sey, die wir geschminkt da sitzen in purpurnem Gewand, und mit Kimberischem 45 geradgeschnittnen Kleid und hohen Schuh'n uns brüsten?</p>
+
+               <p>Lys. Diess eben ists, wovon ich Rettung hoffe, das Purpurkleid, die hohen Schuh' und Salben, die Schminke und die halbdurchsichtigen Gewände. Kai. Und wie denn so?</p>
+
+               <p>Lys. So, dass von allen Männern jetzt 50 nicht Einer mehr die mörderische Lanz' erhebt —</p>
+
+               <p>Kai. Bei Gott, ich färbe mir ein Purpurkleid I</p>
+
+               <p>Lys. noch zu dem Schilde greift —</p>
+
+               <p>Kai. Ich kleide mich Kimberisch.</p>
+
+               <p>Lys. noch zu dem Schwerdt.</p>
+
+               <p>Kai. Ich kaufe hohe Schuhe.</p>
+
+               <p>Lys. Und sollten nun die Weiber nicht erscheinen? 55 Kai. Herbeigeflogen hätten längst sie kommen sollen. Lys. Allein sie zeigen sich als ächte Athenienserinnen, die dann erst handeln, wenn die Zeit vorüber ist.</p>
+
+               <p>Auch von der Küst' erscheint kein einzig Weib, noch auch von Salamis.</p>
+
+               <p>Kai. Die auf der Insel, weisst 60 Du wohl, gehn früh am Morgen schon ins Wasser.</p>
+
+               <p>Lys. Auch die, auf die am meisten ich gezählt, zuerst vor allen sie zu sehn, die Weiber der Acharner, auch diese kommen nicht.</p>
+
+               <p>K a 1. Theagens Weib befragte doch, um herzugehen, Hekaten. 65 Allein sieh nur, da kommen ja schon einige gegangen und dort wieder andre. He ! ^)</p>
+
+               <p>2. Auftritt.</p>
+
+               <p>Die Vorigen und Myrrhina mit andren</p>
+
+               <p>Atheniensischen Weibern.</p>
+
+               <p>Myrrh. Wir kommen wohl zu spät, Lysistrata?</p>
+
+               <p>Du schweigst? was meinst Du? Lys. Schön ists freilich nicht,</p>
+
+               <p>V Hier sind zwei Verse des Originals mit dem Scherz über Anagyros un- übersetzt geblieben.</p>
+
+               <pb n="8.253" xml:id="pbVIII253"/>
+               <p>o ! Myrrhina, erst jetzt zu solchem Rath zu kommen. 70 Mvrrh. Ich fand mit Müh' im Dunkel meinen Gürtel.</p>
+
+               <p>Allein eilt es so sehr, so sprich, wir sind nun da. Lys. Ein wenig nur lass uns noch warten, bis auch aus Böotien und dem Peloponnes die andren Weiber kommen.</p>
+            </div>
+
+            <div type="section" n="3">
+               <head>
+                  <title type="main">Myrrh. Du hast Recht, 75 Lysistrata, auch seh' ich dort schon Lampito.</title>
+               </head>
+               <p>3. Auftritt.</p>
+
+               <p>Die Vorigen und Lampito mit andren Weibern aus Böotien und dem Peloponnes.</p>
+
+               <p>Lys. Sei uns gegrüsset, Lampito, geliebte[ste]</p>
+
+               <p>Spartanerin, wie glänzt. Du Süsse, Deine Schöne, wie blühst Du jugendlich, wie strotzen kraftvoll Deine</p>
+            </div>
+
+            <div type="section" n="4">
+               <head>
+                  <title type="main">Glieder ! Du würgtest einen Stier, schlängst Du verlangend 80 den Arm um ihn.</title>
+               </head>
+               <p>Lamp. Das glaub' ich, bei den Dioskuren! Auch üb' ich mich nicht trag, und schlag' im nakten</p>
+
+               <p>Tanz, des Rhythmus Weisen folgsam, an den Arsch die Ferse.</p>
+
+               <p>Lys. (indem sie mit den übrigen die Lampito überall betastet)</p>
+
+               <p>Wie niedlich diese Brüstchen sind, die lieben Dinger! Lamp. Betastet Ihr mich doch, gleich einem Opferthier. 85 Lys. Wer aber ist denn diese hier, die junge.'' Lamp. Ein edles Weib, beim Poilux! aus Böotien kommt sie zu Euch.</p>
+
+               <p>Lys. Ja, aus Böotien. Ein schönes Gärtchen hat sie, seht!</p>
+
+               <p>Kai. Ja, und beim Zeus! so zierlich ist ringsum das Unkraut ausgerupft. 90 Lys. Und diese hier.^ wer ist sie.^</p>
+
+               <p>Lamp. Gar ein gutes Ding. Ich meyne, aus Korinth.</p>
+
+               <p>Lys. Ja warlich gut, bei Gott. Man sieht es ihr gleich an, sie ist wie alle dort.</p>
+
+               <pb n="8.254" xml:id="pbVIII254"/>
+               <p>L a m p. Wer aber hat denn diesen Kreis versammelt, wer die Weiber herberufen?</p>
+            </div>
+
+            <div type="section" n="5">
+               <head>
+                  <title type="main">Lys. Ich. Lamp. So sprich, 95 was foderst Du von uns?</title>
+               </head>
+               <p>Lys. Gleich, Hebes Weib.</p>
+
+               <p>Myrrh. Sag' an, was Wichtiges Du auf dem Herzen hast! Lys. Ich will es sagen, aber eh' ichs sag', erlaubt mir eine kleine Frage.</p>
+
+               <p>Myrrh. Jede, die Du willst. Lys. Sehnt Ihr Euch nach den Vätern Eurer Kinder, loo die bei dem Heer abwesend sind? Denn keine von uns erfreut sich jetzt des gegenwärtgen Mannes. Kai. Der meinige ist schon fünf Monde lang, der Arme, in Thracien, den Eukrates zu hüten.</p>
+
+               <p>Lys. Und meiner sieben volle Monate in Pylos. 105 Lamp. Wenn meiner auch einmal vom Feld nach Hause kommt, gleich gürtet er sich wieder, und lässt mich allein. Lys. Auch nicht das kleinste Stück von einem Buhlen ist zurückgeblieben, und seit uns Milet verrathen, seh ich auch nicht einmal nur ein achtzölliges 110 Godemüchet, das, wenn von Leder gleich, doch immer eine Hülfe war. Wollt ihr nun also, wenn ich ein Mittel weiss, dem Krieg ein Ende machen ? Myrrh. Gern will ich, wenn Du das kannst, heute noch hier diess mein Feierkleid versetzen und vertrinken. 115 Kai. Und ich will auf der Stelle mich, wie eine Auster, lebendig in zv/ei Hälften spalten lassen. Lamp. Und ich noch heut den schroffsten Gipfel des Taygetos ersteigen, wenn ich nur von dort den Frieden sehe.</p>
+
+               <p>Lys. So sag' ichs denn, warum sollt' ichs verbergen? 120 Wir müssen uns, ihr Weiber, wenn wir wollen zum Frieden plötzlich unsre Männer zwingen, enthalten —</p>
+
+               <p>Myrrh. Wessen? sprich nur!</p>
+
+               <p>Lys. Wollt Ihrs thun ? Myrrh. Wir thuns, und sollt' es unser Leben gelten.</p>
+
+               <p>Lys. Enthalten müssen wir uns, hört es wohl, des —</p>
+
+               <p>Schwanzes.</p>
+
+               <pb n="8.255" xml:id="pbVIII255"/>
+            </div>
+
+            <div type="section" n="6">
+               <head>
+                  <title type="main">125 — Was schneidet Ihr Gesichter, lauft davon?</title>
+               </head>
+               <p>Seid Ihr dieselben noch ? Was schüttelt Ihr den Kopf? Warum so bleich? warum vergiesst Ihr Thränen? Wollt Ihr mir folgen ? wollt Ihr nicht ? was zaudert Ihr?</p>
+
+               <p>Myrrh. Nein, niemals thu' ich das, es bleibe ewig Krieg! 130 Kai. Noch ich, beim Jupiter, es bleibe ewig Krieg!</p>
+
+               <p>Lys. Und das sprichst Du, Du Auster, die so eben</p>
+
+               <p>Dich für den Frieden in zwei Hälften spalten wolltest ? Kai. Ach! alles was Du willst! Durchs Feuer will ich gehn, wenns seyn muss; nur den Schwanz, den Schwanz nicht lassen! 135 Das ist unmöglich, theuerste Lysistrata.</p>
+
+               <p>Lys. Und Du?</p>
+
+               <p>Lamp. Auch ich will gern durchs Feuer gehn! Lys. O! durch und durch verhurte Weiberbrut I Nicht ohne Grund verspottet uns die Bühne. Ein weites Meer sind wir, ein ausgeholter Nachen, 140 und weiter nichts. Doch Du, geliebteste Spartanerin, sei Du allein mit mir, und unser Vaterland ist noch durch uns gerettet! Komm!</p>
+
+               <p>Lamp. Ha! bei den Dioskuren! schwer ist es für ein Weib, allein und ohne Eichel zu schlafen! — Doch man muss, denn traun! der</p>
+
+               <p>Fried ist noth. 145 Lys. O! Liebste Du, 0! Du allein ein Weib!</p>
+
+               <p>Myrrh. Doch wenn wir noch so sehr, wovon Du sagtest,</p>
+
+               <p>— was nicht geschehe! — uns enthielten, würde schneller darum der Friede werden?</p>
+
+               <p>Lys. Bei den Göttern, sicherlich! Denn wenn wir schön geschminkt zu Hause sässen, 150 und in den feinsten, halb durchsichtigen Gewändern sie nackt umschmunzelten, mit kahl geschornem Delta, und dann der Schwanz den Männern allen schwölle, und sie zu vögeln brennten, aber wir nicht wollten — stracks, glaube mir, stracks schlössen sie den Frieden. 155 Lamp. Entfiel doch Menelaos selbst, als er</p>
+
+               <p>Helenens blosse Aepfel sah, das Schwerdt. Myrrh. Wie aber wenn der Mann uns aus dem Hause schickt?</p>
+
+               <pb n="8.256" xml:id="pbVIII256"/>
+               <p>Lys. Dann, sagt das Sprichwort, hilft man selbst sich, wie man kann.</p>
+
+               <p>Myrrh. Ein eitles Machwerk, ach! ein wesenloser Traum! '6q Und wenn er mich nun greift, und mit Gewalt zur Kammer schleppt?</p>
+
+               <p>Lys. Dann stemme Dich nur tüchtig an die Pfoste. Myrrh. Und wenn er schlägt?</p>
+
+               <p>Lys. Dann gieb Dich, aber linksch und mürrisch. Denn nie giebt Freude was Gewalt erzwingt.</p>
+
+               <p>Aergr' ihn auf jede Art, und glaube mir,^) 165 bald wird ers satt. Denn nie freut sich des Mannes</p>
+
+               <p>Herz, als wenn die gleiche Lust mit ihm das Weib empfindet. Myrrh. Nun denn, gefällts Euch so, wir sinds zufrieden. Lamp. So wollen wir denn unsre Männer überreden, gerecht und ohne Trug den Frieden schnell zu schliessen. ^70 Allein den ausgelassnen Pöbel der Athener, wer überredet den, nicht fernerhin zu necken? Lys. Sei ohne Sorge, wir, wir überreden ihn. Lamp. Niemals so lange noch die Wimpel der Trieren wehn, und ungeheures Gold das Haus der Göttin birgt. 175 Lys. Auch dafür ist bereits von uns gesorgt.</p>
+
+               <p>Noch heute ist die Burg in unsern Händen. Den Aeltesten von uns ist aufgetragen, indess wir hier versammelt uns berathen, die Burg, als zögen sie zum Opfer, zu ersteigen. 180 Lamp. So ist denn alles wohl und weislich angeordnet. Lys. Jetzt aber lasst uns schnell, was wir, o! Lampito, beschlossen, auch beschwören, dass es heilig bleibe! Lamp. So sage an den Schwur, damit wir alle schwören. Lys. Gut so! Wo ist die Dienerin? Wozu »85 diess Zaudern? legt den umgekehrten Schild und reichet mir das Opferthier.</p>
+
+               <p>Myrrh. Lysistrata, wie lassest Du uns schwören?</p>
+
+               <p>Lys. Wie? so wie<pb n="8.257" xml:id="pbVIII257"/> einst, sagt man, Aeschylus. Ich schlachte hier in den Schild das Lamm.<note type="footnote" n="*)" resp="gnd-116890657"><hi>V „mir" verbessert aus „sicherlich".</hi></note></p>
+
+               <p>Myrrh. Nicht so, Lysistrata. 190 Weg n^it dem Schild, wenn wir zum Frieden schwören I</p>
+
+               <p>Lys. Und wie wird denn der Schwur?</p>
+
+               <p>Myrrh. Wenn einen weissen Hengst wir irgendwo bekämen, den zu opfern. Lys. Wozu denn nun den Hengst?</p>
+
+               <p>Myrrh. Wie aber schwören wir denn sonst?</p>
+
+               <p>Lys. Beim Zeus! ich will Dirs sagen, hör nur an! 195 W^ir setzen einen grossen schwarzen Becher her, erfüllen ihn mit Thasos edlem Weine, und schwören, dass — den Becher Wasser nie benetze ! Lamp. Oho! ein schöner Schwur ! den lob' ich w^eidlich mir!</p>
+
+               <p>Bringt Wein und Becher schnell von drinnen uns herbei !</p>
+
+               <p>(Man bringt einen Krater voll Tiiasischen Weins und eine Menge Becher.) 200 Lys. O! liebste Weiber, welch ein Schatz von Bechern.</p>
+
+               <p>(die Weiber nehmen die Becher in die Hand.)</p>
+
+               <p>Wohl freut sich der, des Hand solch ein Gefäss umfasst !</p>
+
+               <p>Doch setz' es weg, und greife mir (sie zeigt auf den Krater) den Eber an!</p>
+
+               <p>(sie betet)</p>
+
+               <p>„Suada, Gebieterin, und Freundschaftsbecher Du, „Empfangt diess Opfermahl, uns frommen Weibern hold !"</p>
+
+               <p>(sie giesst Wein in den Becher) 205 Myrrh. Schönfarbig ist das Blut, heilbringend sprudelt es! Lamp. Und riecht so wundersüss, so wahr mich Kastor schützt !</p>
+
+               <p>Lys. Lasst mich zuerst, ihr Weiber, trinkend schwören. Myrrh. Bei Aphroditen! nein, wenn nicht das Loos Dich trift. Lys. Fasst alle diesen Becher an, o! Lampito, 210 für alle rede Eine meinen Worten nach!</p>
+
+               <p>Ihr andren aber horcht, und schw^ört dasselbe heilig!</p>
+
+               <p>(Alle fassen den Becher an ; sie schwört vor, Myrrhina ihr nach)</p>
+
+               <pb n="8.258" xml:id="pbVIII258"/>
+               <p>„Es ist kein einzger Mann, kein einzger Ehebrecher — " Myrrh. „Es ist kein einzger Mann, kein einzger Ehebrecher — "</p>
+
+               <p>Lys. „Der zu mir kommt mit stehndem Schwänze." —</p>
+
+               <p>Sprich ! 215 Myrrh. „Der zu mir kommt mit stehndem Schwanz." — O! weh!</p>
+
+               <p>Es wanken mir die Knie, Lysistrata.</p>
+
+               <p>Lys. „Zu Hause will ich ungevögelt bleiben, — " Myrrh. „Zu Hause will ich ungevögelt bleiben, — " Lys. „mit purpurfarbigem Gewand geschmückt, — " 220 Myrrh. „mit purpurfarbigem Gewand geschmückt, — "</p>
+
+               <p>Lys. „damit noch mehr zu mir der Mann entbrenne." Myrrh. „damit noch mehr zu mir der Mann entbrenne."</p>
+
+               <p>Lys. „Nie will freiwillig ich mich seiner Lust bequemen, — " Myrrh. „Nie will freiwillig ich mich seiner Lust bequemen, — " „und zwingt er mit Gewalt mich wider meinen</p>
+
+               <p>Willen, — "</p>
+
+               <p>„und zwingt er mit Gewalt mich wider meinen</p>
+
+               <p>Willen, — "</p>
+
+               <p>„da liegen, wie ein Klotz, und nicht den Arsch bewegen; — "</p>
+
+               <p>„da liegen wie ein Klotz, und nicht den Arsch bewegen; — "</p>
+
+               <p>„nicht aus dem Bett empor die Schenkel brünstig heben, — "</p>
+
+               <p>„nicht aus dem Bett empor die Schenkel brünstig heben, — "</p>
+
+               <p>„noch über ihn mich knieen, auf allen Vieren stehend!" „noch über ihn mich knieen, auf allen Vieren stehend!" Lys. „Diess heilig schwörend, leer' ich diesen Becher aus, — " Myrrh. „Diess heilig schwörend, leer' ich diesen Becher aus, — " 235 Lys. „und halt' ich nicht den Schwur, so mög' ihn Wasser füllen!"</p>
+
+               <p>Myrrh. „und halt' ich nicht den Schwur, so mög' ihn Wasser füllen !"</p>
+
+               <p>Lys. Habt Ihr nun alle mitgeschworen?</p>
+
+               <p>Kai Alle, ja!</p>
+
+               <p>Lys. So trink' ich opfernd denn, (sie trinkt)</p>
+
+               <p>Myrrh. Nur Deinen Theil, bitt' ich, damit wir alle Freundschaft trinken. 225 Lys.</p>
+            </div>
+
+            <div type="section" n="7">
+               <head>
+                  <title type="main">Myrrh.</title>
+               </head>
+            </div>
+
+            <div type="section" n="8">
+               <head>
+                  <title type="main">Lys.</title>
+               </head>
+            </div>
+
+            <div type="section" n="9">
+               <head>
+                  <title type="main">Myrrh.</title>
+               </head>
+            </div>
+
+            <div type="section" n="10">
+               <head>
+                  <title type="main">Lys.</title>
+               </head>
+               <p>230 Myrrh.</p>
+            </div>
+
+            <div type="section" n="11">
+               <head>
+                  <title type="main">Lys. Mvrrh.</title>
+               </head>
+               <pb n="8.259" xml:id="pbVIII259"/>
+               <p>(man hört in der Ferne ein Freudengeschrei) 240 Lamp. Welch Jauchzen, welch Geschrei?</p>
+
+               <p>Lys. Es ist was ich Euch sagte. Die Weiber haben jetzt der Burg der Göttin sich bemeistert. Du geh nun, o! Lampito, und ordne schnell zu Haus' in Sparta alles an! Die hier lass uns zu Geissein in Athen zurück! 245 Wir aber nehmen alle Weiber aus der Stadt, gehn in die Burg, und schieben unsre Riegel vor. Myrrh. Besorgst Du aber nicht, dass gleich die Männer uns bestürmen? ^)</p>
+
+               <p>Lys. Wenig kümmr' ich mich um sie. Sie werden keine Drohung, keine Waffen haben, 250 kein Werkzeug, anders dieses Pförtchen zu eröfnen, als unter der Bedingung die wir selber machen! 2)<note type="footnote" n="*)" resp="gnd-116890657"><hi>V „bestürmen" verbessert aus „bekriegen".</hi></note></p>
+
+               <p>-; Hier folgen im Original noch zwei Verse der Myrrhina, ehe das erste Chorlied beginnt.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

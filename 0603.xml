@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Memoire sur la Separation des mots dans les textes sanscrits</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Sechster Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif0601humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1907">1907</date>
+                  </imprint>
+                  <biblScope unit="page" from="31" to="36"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1827">1827</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="fr">Français</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="6.31" xml:id="pbVI31"/>
+            <head>
+               <title type="main">V</title>
+            </head>
+            <div type="section" n="1">
+               <head>
+                  <title type="main">Memoire sur la Separation des mots dans les textes samscrits.</title>
+               </head>
+               <p>II ny a, selon moi. que trois manieres d'ecrire le samscrit, qui soient fondees sur un veritable principe, et que Ton puisse adopter sans inconsequence, savoir:</p>
+
+               <p>1. Celle de ne rien separer, mais d'ecrire un vers entier, ou une phrase entiere comme un seul mot;</p>
+
+               <p>2. Celle de separer les mots dont les lettres finales n'alfectent point les lettres initiales de ceux qui les suivent, mais de laisser les autres lies ensemble ;</p>
+
+               <p>3. Celle de separer tous les mots indistinctement.</p>
+
+               <p>Erster Druck: Journal asiatique 11, i6j—iy2 (Septemberheft 182']). Burnouf leitet den Abdruck durch folgendes „Avertissement" ein: „Dans le courant de 1825 M. le baron G. de Humboldt voulut bien communiquer ä une personne qu'il honore de sa correspondance, ses idees sur la division possible des mots dans les textes sanscrits. J'eus occasion d'en prendre connaissance et dans le compte succinct que je rendis dans le Journal asiatique de la belle edition des Lois de Manou par M. Haughton, je m'autorisai sur ce point de l'opinion de M. de Humboldt, sans entrer dans le detail des preuves sur lesquelles il l'appuyait. D'un autre cote M. F. Rosen dans son travail sur les racines sanscrites indiqua aussi le Systeme de ce savant illustre, de la bouche de qui il avait pu l'apprendre. M. de Humboldt s'est trouve ainsi tacitement engage ä rediger ses idees sur ce point interessant de pbilologie indienne et il a bien voulu choisir le Journal asiatique pour les y deposcr. II n'cst pas bcsoin de dire qu'on retrouvera dans le memoire suivant cettc sagacite et cn meme temps cette hauteur de vues qui caracterisent ses precedcntes productions, et pcrsonnc ne<pb n="6.32" xml:id="pbVI32"/> discours cxigent neccssairement. Le seul but qu'on peut avoir eu en vue, et le seul avantage qui en r^sulte, est qu'on ecrit plus vite, et que T^criture occupe moins d'espace, si, en liant tous les mots, on s'epargne les a qui commencent les mots, les consonnes entieres lä oü Ton fait a present des groupes abreges, et de nom- breux intervalles.</p>
+
+               <p>La deuxieme de ces methodes a pour principe de Her, pour l'oeil, les mots qui sont li^s ensemble par leur prononciation ; eile est par-lä sans doute preferable a la premiere. Elle nous apprend quelque chose, eile nous montre quels sont les mots dont les lettres, en se touchant, se lient ou se changent. Ceux qui l'adop- tent partent d'ailleurs du principe qu'il faut separer les mots; ils se trouvent seulement arretes dans l'application de ce principe, par la nature particuliere de la prononciation indienne, qui fait qu'une meme lettre appartient souvent ä deux mots; malgre cela il est facile de combattre aussi le principe de cette seconde methode. II nY a aucune raison de Her pour les yeux ce qui se He dans la prononciation. Les loix de la prononciation sont familieres a tous ceux qui savent le samscrit; d'ailleurs, on reconnait egalement bien, en separant les mots, ceux qui exercent une influence sur ceux qui les avoisinent. Les difficultes par lesquelles ceux qui ont introduit cette methode se trouvent arretes, peuvent se vaincre. Dans la poesie latine, deux vo3^elles qui se suivent ne fönt egalement qu'une syllabe, l'w, devant une voyelle, est dans le meme cas, et nous n'ecrivons pas pour cela deux mots ensemble. En francais, le son de Ys et du t final passe a la voyelle qui les suit; en allemand il en est de meme de toute consonne suivie d'une apostrophe, et nous ne separons pas moins pour cela ces memes mots.</p>
+
+               <p>La derniere des trois methodes ci-dessus indiquees est la seule, Selon moi, qui soit conforme a la nature du langage, et la seule qui offre des avantages reels. Elle peut ctre adoptee et meme facilement; eUe meriterait donc d'etre introduite.<pb n="6.33" xml:id="pbVI33"/> il est donc convenable que ce que l'esprit cherche pour comprendre la phrase, se presente ä Foeil d'une maniere complete et isolee. Voila ce que les premiers editeurs des auteurs classiques ont senti. Les manuscrits avaient beau etre ecrits d'un seul trait, pour ainsi dire, ils eurent soin de separer les mots et etablirent des intervalles.</p>
+
+               <p>Un autre avantage qui nait de la Separation des mots est la possibilite de la ponctuation; eile n'existe point lorsque les mots sont lies ensemble, puisque les signes de ponctuation ne sauraient se placer qu'a la Hn des mots. Or la ponctuation est Tarne du discours; un lecteur qui negligerait de la marquer par les inflexions de sa voix, ne serait ni compris, ni goüte. N'y aurait-il donc pas de l'inconsequence ä prendre soin de peindre aux yeux, ainsi que nous le faisons ä present dans nos livres samscrits, la maniere de Her les sons, et de negliger de marquer les inten'alles qu'exige la pensee? II arrive que le sens d'un passage entier peut etre r^tabli par une virgule ou un point autrement place, ün m'objectera peut-etre qu'aussi d'autres langues s'impriment sans signes de ponctuation; je repondrai simplement que c'est tant pis pour elles.</p>
+
+               <p>Aussi long-tems que nous suivrons notre methode actuelle d'ecrire le samscrit, il me parait difficile, si-non impossible, que la critique, qui s'occupe des textes indiens, atteigne le dernier degre d'exactitude. Un editeur d'un ouvrage samscrit n'a pas les memes moyens que celui d'un ouvrage grec, de faire comprendre son auteur ä ses lecteurs, par la publication seule de son texte. II manque des signes de ponctuation, et il lui arrive souvent d'etre dans l'impossibilite de faire voir si un groupe de syllabes forme plusieurs mots, ou ne presente qu'un seul compose. II est vrai qu'il peut suppleer a ce defaut par une traduction et des notes; mais cela est infiniment long, et ne se fait que dans les passages vraiment importans. Par la Separation constante des mots, et par une ponctuation exacte et judicieuse, un editeur guide pas ä pas les lecteurs, en marquant, jusque dans les plus petites nuances, le sens dans lequel il prend les dilTerens passages de son auteur; cet avantage inappreciable se perd par notre maniere de publier<pb n="6.34" xml:id="pbVI34"/> s'y opposent qu'en apparcncc, mais cette Opposition füt-clle mcme plus rc^clle, eile ne vaudrait jamais la peine de sacrilier a cette partie seule de la langue ce qui est vraiment essenticl a la maniere de comprendre et de saisir les auteurs Indiens.</p>
+
+               <p>Je n'insiste point ici sur l'avantage que la Separation complete des mots olVrirait ä Tdtude du samscrit, qui serait rendue beau- coup plus facile par-la. On peut trouver utile de forcer, au contraire , par cette difficultd meme , les commencans , ä s'occuper davantage de la partie grammaticale de la langue; cette difticulte subsisterait au reste toujours pour les mots composes.</p>
+
+               <p>Le moyen le plus facile de sdparer les mots, en conservant toutes les particularit^s de l'orthographe samscrite, me parait celui de laisser les lettres absolument ainsi que nous les ecrivons ä präsent, et de se contenter de joindre la oü deux lettres se reunissent en une meme, cette derniere au dernier des mots lies par la prononciation, en marquant le premicr d'une apostrophe. LV et Vzi passant ä Vy et au rv resteraient auprcs du mot auquel ils appar- tiennent originairement; on conserverait egalement ä chaque mot sa consonne finale et initiale, quel que füt le changement qu'elles eussent subi. Les lettres redoublees, ainsi que l'j, qui s'interpose parfois, seraient traitees comme un / euphonique dans la phrase francaise: y a-t-il; on placerait entre deux traits cct s et la se- conde des consonnes doubles. Les exemples suivans rendront ceci plus clair: äsramasy' äwidilrasthäh lomapädam uwäch^ edafi ycn öpäyena phaläny atra pratigaiäsw ewan parisräntas tath* atw' äsä^u akritwä kandukais cli atwa yach ch' änyat kasmän man bhagaiüan-n-iha grämän-s-cha.<pb n="6.35" xml:id="pbVI35"/> ete pris ä son voisin; mais une fois qu'on est averti de cette particularite, il ne reste aucune difficult^, d'autant moins que cet usage est toujours le meme, et qu'il n'y a aucun cas oü l'apo- strophc, teile que je Tai formee, eüt un autre emploi.</p>
+
+               <p>Un point sur lequel on peut facilement rester en doute, c'est s'il ne vaudrait pas mieux joindre les lettres coalescemes au pre- mier des mots lies par la prononciation, et ecrire: äsramasya widürasthäh.</p>
+
+               <p>On s'epargnerait par-lä des signes de repos {imrämd) et des voyelles initiales. Mon savant ami, Monsieur Bopp, est de cette opinion, tout en approuvant d'ailleurs, sous le rapport de l'intro- duction de la ponctuation, la Separation totale des mots. Comme les consonnes sourdes sont changees en sonores devant les voyelles initiales, et qu'il est clair par-lä que la prononciation a etroitement reuni ensemble les consonnes finales et les voyelles initiales, il serait contre la nature du langage, qui va toujours en avant, de croire qu'on eüt öte la voyelle initiale ä qui eile appartient, et qu'on eüt prononce lömapädamu wächa ; on a bien certainement dit au contraire: lömapäda muwächa et c'est cette analogie que j'ai suivie.</p>
+
+               <p>Monsieur Bopp partage cet avis, mais il observe avec raison qu'il ne s'agit point ici de marquer la prononciation, que la me- thode proposee offrirait d'autres avantages, et aurait pour eile l'exemple de plusieurs editions indiennes dans lesquelles on Joint quelquefois, en employant l'apostrophe, les voyelles coalescentes, en ecrivant, par exemple, chachära surasainyesu.</p>
+
+               <p>Je conviens que le Systeme orthographique propos^ ici cho- querait, au commencement, les savans habitues ä celui que nous suivons ä present; mais je doute qu'on puisse dlever contre cette methode une objection plus sdrieuse, et on ne saurait lui contester lavantage de placer le samscrit sur la meme ligne que les langues<pb n="6.36" xml:id="pbVI36"/> Si, en Tadoptant, on se sen-ait d'autres moyens que ceux qui sont indiques ici. cela serait tout-ä-fait inditVerent.</p>
+
+               <p>Si on n'adopte point la Separation de tous les mots indistincte- ment, je croirais devoir insister sur ce qu'on ne s'^cartät plus en rien de la seconde methode, teile que Messieurs Bopp et de Schlegel Tont regularisee dans le Nalus et le Bhagavad-Gita. En voulant separer des mots li^s par la prononciation, et en s'arretant neanmoins devant ceux qui semblent etre devenus un meme mot par leur son. on son des principes et on retombe dans un vague entierement arbitraire. On ne saurait non plus pan'cnir jamais par-la a l'avantage de placer les signes de ponctuation, et c'est, je le r^pete, cet avantage surtout qui me semble rendre la Separation des mots desirable.</p>
+
+               <p>Voila mes idees: je les abandonne volontiers au jugement de ceux que je reconnais pour mes maitres en fait de samscrit. Mais il fallait peut-etre quelqu'un moins verse dans cette langue pour etre frappe davantage de la difterence qui, dans des points seulement accessoires, s'est etablie entre son orthographe et celle des autres langues savantes.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

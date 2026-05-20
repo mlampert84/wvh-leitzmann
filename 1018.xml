@@ -1,0 +1,246 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Plan zur Organisierung der Medizinalsektion im Ministerium des Innern</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif10humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1903">1903</date>
+                  </imprint>
+                  <biblScope unit="page" from="122" to="138"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="10.122" xml:id="pbX122"/>
+            <p>Verfügungen fordern kann; allein übrigens und in allem, was nicht gesetzlich bestimmt ist, bleibt er gänzlich frei und handelt nach eigener Einsicht. Wo er Unterstützung von der gesamten Bürgerschaft oder Schutz gegen einzelne Mitglieder derselben braucht, wendet er sich an das städtische Schul-Collegium; wo er gesetzlicher Vorschriften bedarf, an die geistliche und Schul-Depu- tation, bei der er auch POage führt, wenn das städtische Schul- Collegium seine Gränzen überschreitet. Ausserdem bleibt ihm zugleich der Weg an die Section immer offen.<note type="footnote" n="2)" resp="gnd-118554727"><hi>Das städtische Schul-Collegium hat eine dreifache Ver- bindlichkeit a) die Schulen und ihre Rectoren zu unterstützen und ihr Bestes sowohl bei der Bürgerschaft, als bei den Staatsbehörden zu befördern.</hi></note></p>
+
+            <p>b) mit den Rectoren und Lehrern, wo sich Gelegenheit dazu darbietet, über die zweckmässigsten Alassregeln im Unterricht und Disciplin, da wo keine gesetzlichen \''orschriften bestimmte Gränzen ziehen, zu berathschlagen; und gemeinschaftlich, jedoch immer nur durch ^"orschläge und Rath, nicht befehlend, zu einer Ver- besserung der Schulen beizutragen. c) eine zwar möglichst liberale, aber auch strenge und genaue Aufsicht auf die Schulen zu führen, um für die Erfüllung der Pflichten der Schulbedienten, und für die pünktliche Befolgung der besonderen Verfügungen der Oberbehörden verantwortlich seyn zu können.<note type="footnote" n="3)" resp="gnd-118554727"><hi>Die Staatsbehörden endlich haben die gesetzliche Gewalt in Händen, und üben die oberste Controlle sowohl über die Schulen und ihre Lehrer und die städtischen Schul-Collegien selbst aus.</hi></note></p>
+
+            <head>
+               <title type="main">XXIV., XXV. Plan zur Organisierung der Medizinal- Sektion im Ministerium des Innern.</title>
+            </head>
+            <p>Juli-August 1809, (Konzept und Abschriften in den Akten des Kultusministeriums, Abschrift im</p>
+
+            <p>Geh. Staatsarchiv.)<pb n="10.123" xml:id="pbX123"/> Schrift an Dohna und ist Königsberg, den 26. Jidi i8og, datiert (Konzept mit eigenhändigen Korrekturen und Abschriß in den Akten des Kidtiisministeriums) ; daraus wurden dann bestimmte Stellen herausgehoben und paragraphiert, und dieser Plan (No. XXV) am 2. August an Dohna gesandt, der einige kleine Zusätze machte. Wir geben die Denkschrift ohne die in den Plan übergegangenen Stellen und den Plan mit den Varianten aus der Denkschrift.</p>
+
+            <p>XXIV. Denkschrift über die Organisation des Medizinalwesens. 26. Juli 1809.</p>
+
+            <p>Ew. Excellenz haben die Güte gehabt, mir aufzutragen, einen Plan für die neue Organisation der obern Medizinalbehörde aufzusetzen, und dabei von dem Gesichtspunkt auszugehen, dass die- selbe unter einem und eben demselben Chef mit der Section des Cultus und öfl^entlichen Unterrichts stehen solle. Ich habe mich zu diesem Behuf mit den wenigen hier vorhandenen Acten bekannt gemacht, auch mündlich mit sachkundigen Personen Rück- sprache genommen, und wage es hiernach Ew. Excellenz, meine Ideen mitzutheilen ; ich muss indess dabei vorläufig gestehen, dass es mir noch an gehöriger Lokalkenntniss fehlt, um vollkommen sicher zu se3'n, nicht vielleicht in Personen und Sachen selbst nicht unwesentliche Verhältnisse übersehen zu haben.</p>
+
+            <p>Zur Grundlage der ganzen Organisation der obersten Medizinalbehörde habe ich natürlich die Verordnung vom 24. November 1808 genommen. Diese bestimmt ihre Gränzen und Verhältnisse zu andern Sectionen. Bloss das zur Section des Cultus und öffentlichen Unterrichts wird noch einer genaueren Festsetzung bedürfen, wovon weiter unten bei den Bildungsanstalten Gelegenheit zu reden seyn wird.</p>
+
+            <p>Die obere Medizinalbehörde tritt im Ganzen in eben dasselbe Verhältniss zum Ministerio des Innern, in welchem alle andern Sectionen zu denselben stehen, und wenn sie auch Einen Chef mit der Section für den Cultus und öffentlichen Unterricht hat, so bilden doch beyde immer zwey verschiedene Collegia. Diese Bestimm.ung scheint mir nothwendig, weil die Führung der Geschäfte beyder doch nicht ganz dieselben Kenntnisse voraussetzt, und eine für die allgemeine Polizei so wichtige Branche, als das Medizinalwesen ist, leiden könnte, wenn sie nur als eine blosse</p>
+
+            <pb n="10.124" xml:id="pbX124"/>
+            <p>Die Räthe dieser Section haben das Recht, den Sitzungen des Pleni des Ministerii des Innern beizuwohnen, die Section stattet monatlich, wie alle übrigen, einen Generalbericht an den Minister des Innern ab, und ihr Haupt-Etat wird von ihm vollzogen.</p>
+
+            <p>Gegen die in der Verordnung vom 24. November 1808 ange- gebene Zusammensetzung der Medizinal - Section lässt sich mit Grunde einwenden, dass sie unter 4 Personen nur 2 Aerzte zu- lässt, und wenn man annimmt, dass, bei Gleichheit der Stimmen, der Chef entscheidet, 3 Laienstimmen gegen 2 sachkundige aufstellt. Dies ist unstreitig zweckwidrig, die Ob er- Medizinalbehörde muss, soviel möglich, bloss aus Aerzten bestehen; da es offenbar viel leichter ist, dass diese sich die nöthige Geschäftskenntniss erwerben, als dass Geschäftsleute mit Verstand über medizinische Gegenstände urtheilen, auch die Fehler, die aus dem Mangel der erstem entstehen können, bei weitem leichter zu heben, und minder gefährlich sind.</p>
+
+            <p>Meiner Meinung nach, muss alles, was irgend technisch ist, in diesem Collegio allein mit dem Chef durch Aerzte, und ausnahmsweise gegen den Geschäftsgang in den andern Sectionen, schlechterdings streng durch Stimmenmehrheit entschieden werden. Damit auch die Stimme des Chefs keinen Schaden thun könne, so muss die Zahl der Aerzte darin gleich se3'n, und er bloss bei vollkommener Stimmengleichheit den Ausschlag geben. In diesem Fall, wo er zwei Aerzten gegen zwei Aerzte beitritt, ist niemals Gefahr zu besorgen.</p>
+
+            <p>[Es folgen § j, 4, 5, 6 des endgültigen Planes mit den dort angegebenen Varianten.]</p>
+
+            <p>Ich kann nicht umhin, hier einen Gedanken zu äussern, der die Organisation aller wissenschaftlichen Anstalten betrifft, und mit Herrn Geheimen Staats-Rath v. Bosse näher zu überlegen se3'n dürfte. Es giebt im Ministerium dreyerlei Arten der wissenschaft- lichen Deputationen die für die Section des Cultus und öffentlichen Enterrichts<pb n="10.125" xml:id="pbX125"/> wenn jede Deputation besoldete und unbesoldete Mitglieder hätte, und wo es nöthig wäre, die Besoldeten der einen zugleich Unbesoldete der andern würden. Theilten sie sich alsdann in die verschiedenen Wissenschaften, so nähme: die des öffentlichen Unterrichts die allgemeinen philoso- phischen, mathematischen und historischen Wissenschaften, die für das Medizinalwesen bloss die eigentlich medizinischen, die sogenannte technische aber alle auf den Universitäten uneigentlich zur philosophischen Facultät gerechneten auf, als die einzelnen vorzüglich die angewandten Theile der Mathematik, die speziellen Naturwissenschaften, Chemie u. s. f.</p>
+
+            <p>Würde dies ausgeführt, so verringerte sich die Zahl der be- soldeten Mitglieder in der medizinischen Deputation schon von selbst um vieles.</p>
+
+            <p>Zweige in den Provinzen brauchte die medizinische Deputation ausser den Medizinal-Commissionen der Regierungen, nicht zu haben.</p>
+
+            <p>[Es folgen § 7 und 8 mit den Varianten.]</p>
+
+            <p>Dass endlich die Verbindung beider Sectionen unter Einem Chef, ohne Verschmelzung derselben in die nemliche Behörde, am besten sichert, dass jede, da ihre Tendenz in der That, indem die eine eine ganz allgemeine, fast durch nichts Positives bedingten, die andre grösstentheils zugleich einen politischen und sogar polizeilichen Zweck hat, doch sehr verschieden ist, ihre Selbständigkeit unvermischt bewahrt, und doch beide frei und ungehindert zum gemeinschaftlichen Staatszweck zusammen wirken, leuchtet von selbst in die Augen.</p>
+
+            <p>Die andern drei Gattungen der Bildungsanstalten hängen dagegen allein von der Medizinalsection ab, nur hat die Unterrichts- section eben den Einfluss auf dieselben, der im Vorhergehenden der Medizinal-Section auf die Universitäten eingerämt ist, nemlich durch die Beiordnung eines Mitgliedes, die Mitwirkung der wissen- schaftlichen Deputation der Unterrichtssection, welcher sich die Medizinalsection zu allem, was nicht bloss medizinisch bey diesen Bildungsanstalten ist, bedient, und durch die freie, aber fort- währende Verbindung beider Sectionen mit einander. Die zweite oben angegebene Gattung der Bildungsanstalten<pb n="10.126" xml:id="pbX126"/> Universitätsstudio und geschehener Promotion, noch einen Unterricht am Krankenbett nun, wo nicht melir zu fürchten ist, den Zögling zu zerstreuen, in einem grossen Hospital geben, da die Universität immer ein kleines vorziehen muss.</p>
+
+            <p>[Hier folgt § g und daran schließt sich folgende Ausführung über die vierte Gattimg, d. h. Ärzte ohne wissenschaftliches Studium.]</p>
+
+            <p>Meine Meinung darüber ist folgende:<note type="footnote" n="i)" resp="gnd-116890657"><hi>Das Vorurtheil, dass gar kein Arzt, wohl aber ein Wundarzt ein Unstudirter se^-n könne, muss aufhören; 2) noch mehr, dass jeder Bader zum Wundarzt und dadurch auch zum Pfuscher als Arzt bestimmt se}^;</hi></note><note type="footnote" n="3)" resp="gnd-118554727"><hi>ich halte es für unmöglich, dass es überall studirte d. h. wissenschaftlich gebildete Aerzte geben;</hi></note><note type="footnote" n="4)" resp="gnd-118554727"><hi>es scheint mir sehr bedenklich, Leute, die studirt haben, und doch in der Prüfung nicht so gut bestehen, dass man sie als Aerzte zulassen will, auch nur unter Aufsicht cursiren zu lassen. Sie werden immer arrogant bleiben und trotz aller Aufsicht doch eigenmächtig handeln, auch geht auf dem verunglückten Wege zur Wissenschaft meistentheils der gesunde bon sens mit verloren, und ver^virrte Erinnerungen von Krankeitsfällen und Curmethoden verdunkeln die schlichte und reine Erfahrung.</hi></note><note type="footnote" n="5)" resp="gnd-118554727"><hi>es ist gewiss unzweckmässig, junge Leute, bei denen Universitätsstudium nicht unmöglich ist, gleichsam zu Routiniers zu prädestiniren.</hi></note><note type="footnote" n="6)" resp="gnd-118554727"><hi>Allein ich halte es für sehr möglich, solche, von denen nun einmal ausgemacht ist, dass sie die Universität nicht besuchen können, weil es ihnen an den nöthigen vorgängigen Schulkenntnissen fehlt, so weit zu bringen, dass sie den vom Staate bestellten Aerzten als Assistenten dienen, leichte Fälle in Chirurgie und Arzneiwissenschaft selbst und allein behandeln, und über schwere richtige und genaue Berichte machen können. Für solche Assistenten müssten die BUdungsanstalten eingerichtet seyn, von denen hier die Rede ist.</hi></note></p>
+
+            <p>[Hier folgen die §§ 10. 11. 12 mit den Variajiten; dann heißt es weiter:]</p>
+
+            <p>Besonderer Bildungsanstalten bedarf, wenn man unpartheiisch reden soll, das Militär für sein Medizinalwesen nicht. Seine wissenschaftlichen Aerzte können und sollten sich, ohne Ausnahme, wie<pb n="10.127" xml:id="pbX127"/> weder in denselben für das Civil bestimmten Anstalten, oder durch die Militärärzte, bei denen sie angestellt sind, gebildet.</p>
+
+            <p>Bisher hat das Militär aber freilich etwas Andres verlangt. Es hat, mit Ueberspringung des Universitäts- und selbst des höhern Schulunterrichts, doch wissenschaftliche Aerzte bilden wollen, und daher philosophische Collegia und sogar Vorlesungen über die griechischen Kunstausdrücke mit seiner Pepiniere verbunden. Allein von dieser Forderung sollte es abstehen, und weder die Unterrichts- noch die Medizinalsection kann solche Anstalten begünstigen. Die Medizin ist einmal keine bloss technische Fähigkeit, wie z. B. die Pharmacie, sondern eine rationelle Wissenschaft, die also auch nur studirt werden kann im Zusammenhange mit den historischen, mathematischen und philosophischen Wissenschaften, welche die Propädeutik aller rationalen Bildung ausmachen, und die, seltene Ausnahmen abgerechnet, nur in Köpfen gedeiht, die durch die langen und mühsamen Uebungen der Schule und Universität durchgegangen sind. Nach allem, ohne Ausnahme, was der höchste medizinische Gebrauch erfordern kann, zu streben, sich aber bloss auf das isolirte Fach beschränken, und von den übrigen spät noch einige Kenntnisse, die man früh erlernen muss, damit sie den Kopf lange allein und ungestört beschäftigen, rhapsodisch nachholen zu w^ollen, und dabei vom ersten Anfang an Theorie und Praxis zu vermischen, und das zur Wissenschaft nöthige speculative Leben mit einem sehr drückenden ausübenden zu verbinden, heisst wenigstens einen sehr gefährlichen Weg der medi2inischen Bildung einschlagen.</p>
+
+            <p>Besser also schiene es mir, von den höhern Militärärzten mehr, und den niedrigeren weniger zu fordern, die erstem ganz und die letztern, soviel möglich in den allgemeinen Anstalten bilden zu lassen. Sollten aber einmal die bisherigen medizinischen Bildungsanstalten für das Militär bestehen, so müssen sie für die Organisation des Unterrichts ganz der Medizinalsection untergeordnet werden. Dasselbe gilt von Allem, was bei den Militär-Lazarethen allgemeine Einrichtung und medizinische Behandlung ist. Denn die specielle Direktion und Controlle bleibt natürlich den Militärbehörden.<pb n="10.128" xml:id="pbX128"/> könnte man beibehalten und den Secretair, welcher die Protocolle bei den Prüfungen führte, weil er einmal mit diesem Geschäfte bekannt ist, und nur eine geringe Besoldung bekommt.</p>
+
+            <p>[Hier folgen die §§ ij — 77 und einige Vorschläge zu Pensionierungen und Gehältern.]</p>
+
+            <p>Königsberg, den 26. Julius 1809. Humboldt. An den Königlich wirklichen Geheimen Staatsminister des Innern Herrn Grafen zu Dohna Excellenz hierselbst. XXV. Plan zur Organisirung der Medicinal-Section im Ministerio des Innern.</p>
+
+            <p>Das Ressort und die Organisation der obersten Medicinal- Behörde wird durch die auszugsweise anliegenden §§ der Verordnung vom 24. November pr., des Publicandi vom 16. December ejusd. a. bestimmt.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Dieser § ist ein Zusatz Dohnas.</hi></note></p>
+
+            <p>§ 2.-) Die Ober-Medicinalbehörde muss, so viel möglich, bloss aus Aerzten bestehen, welche sich die erforderliche staatswirthschaft- liche Kenntnisse erworben haben. Alles, was irgend technisch ist, gehört vor die wissenschaftliche Deputation für das Medicinal- wesen.</p>
+
+            <p>§3- Da die Medicinal-Section auf der einen Seite mit der Section der allgemeinen Polizei, auf der andern mit der des öfrenthchen Unterrichts in der genauesten Verbindung steht, und es wichtig ist, diese Verbindung so leicht und für die Geschäfte so nützlich als möglich zu machen, so würde ein Rath von jeder der beiden Sectionen der Medicinal-Section beizuordnen sein.*<note type="footnote" n="**)" resp="gnd-116890657"><hi>§ 2 entsprach ursprünglich genau den entsprechenden Sätzen der Denk-</hi></note> Der Rath der schrift; wie die jetzige Fassung und die Einfügung der wissenschafilichen Deputation zu Stande kam, ist aus den Akten nicht zu ersehen.<pb n="10.129" xml:id="pbX129"/> Polizei-Section kann die ökonomischen und Rechnungsgeschäfte der Medicinal-Section zugleich mit besorgen. Es versteht sich übrigens, dass diese beiden gleichsam fremden Mitglieder, auch bei sie betreffenden Gegenständen nicht mehr Theil an der Dis- cussion nehmen und nicht mehr Recht an der Entscheidung haben als jedes andere Mitglied, mithin nicht gleichsam ihre Section bei der Medicinal-Section vertreten, sondern bloss dienen, die vor- kommenden Sachen mit ihren Kenntnissen und von ihren Standpunkten aus in ein helleres Licht zu setzen und dadurch die Sectionen selbst mehr in Uebereinstimmung zu bringen. Wo v^irklich gemeinschaftliches Handeln einer von beiden Sectionen mit der Medicinal-Section nöthig ist, kommt es darnach immer noch auf eine anderweitige Mittheilung oder eine Discussion im Pleno des Ministerii des Innern an.</p>
+
+            <p>Die rechtlichen Angelegenheiten besorgt der Justitiarius des Ministers des Innern.*)</p>
+
+            <p>§4. Hiernach bestände die Section für das Medicinalwesen aus</p>
+
+            <p>1. dem speciellen Chef;</p>
+
+            <p>2. einem Staatsrath,**) w^elcher einer der ausgezeichnetsten Aerzte, sowohl in Rücksicht auf wissenschaftliche Bildung als wie auf ausgebreitete Erfahrung, sein muss;**) 3. dem Director der wissenschaftUchen Deputation, dem man zu mehrerer Auszeichnung gleichfalls den Titel eines Staatsraths geben könnte;</p>
+
+            <p>4. und 5. zwei Geheimen Ober-Medicinalräthen.</p>
+
+            <p>Alle diese 4 ärztUchen Mitglieder hätten vollkommen gleiches Stimmrecht und wären nur durch den Titel und die Besoldung unterschieden, da die beiden Staatsräthe respective 3000 Thlr. und 2000 Thlr., die Geheimen Ober- Medicinalräthe resp. nur 1500 und 1400 Thlr. erhalten. 6. dem Rath aus der Section der allgemeinen Polizei; 7. so oft von medicinischen Bildungsanstalten die Rede wäre, da seine beständige Gegenwart bei den Sitzungen unnütz<pb n="10.130" xml:id="pbX130"/> sein würde, dem Rathe der Section des öffentlichen Unter- richts.</p>
+
+            <p>Zu diesen 7 Mitgliedern käme endlich, allein aus- schliessend für alle Gegenstände, welche mehr oder minder auf das Militair-Medicinalwesen Bezug haben, und daher auch nur, wenn er vom Chef wegen dieser eingeladen würde oder selbst etwas in derselben anzubringen für gut fände, 8. der Chef des Militair-Medicinalwesens. Der Geschäftsgang wäre wie bei den andern Sectionen. Der Chef erbräche, vertheilte und unterzeichnete allein alle Sachen; indess würde es gut sein, dass die ärztlichen Mitglieder selbst unter sich übereinkämen, für welche Art von Geschäften jeder sich am meisten geeignet glaubte.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Im ersten Entwurf heißt es noch : „Der einzige Unterschied gegen die andern Sectionen wäre, dass man sich bei wirklich technischen Gegenständen</hi></note></p>
+
+            <p>§5. Unmittelbar unter der Section stehen nach der Verordnung:</p>
+
+            <p>1. Die wissenschaftliche Deputation für das Medicinalwesen, 2. die medicinischen Bildungsanstalten,</p>
+
+            <p>3. die grösseren Krankenanstalten. Die wissenschaftliche Deputation hat ausser den ihr in der Verordnung zugetheilten Geschäften noch die Prüfung aller Aerzte, Wundärzte und Apotheker, die nach der jetzigen Verfassung cur- siren müssen. Obgleich dieses in der Folge näher wird bestimmt werden müssen, so kann man im Voraus annehmen, dass diejenigen, welche vor diese Prüfungen gehören, die sind, welche auf einer Universität studirt oder<note type="footnote" n="**)" resp="gnd-116890657"><hi>Im ersten Entwurf steht: „oder sich anderweitig eine höhere und wahr-</hi></note> sich sonst die vorgeschriebene Bildung, um. heilen zu dürfen, erworben haben.**) Die Prüfung der übrigen Subjecte bleibt den Medicinal-Commissionen der Regierungen unter dem Vorsitz der Medicinalräthe überlassen.***) streng an Stimynenmehrheit hielte, und wenigstens bei jedem wichtigern Decrete zugleich, wie sie ausgefallen wäre, bemerkt würde." haß wissenschaftliche Bildung erworben haben." ***J In der Denkschriß schließt sich noch folgender Passus an: „Da indess jetzt noch eine Prüfungskommission besteht, deren Mitglieder wohl nicht alle in</p>
+
+            <pb n="10.131" xml:id="pbX131"/>
+            <p>§6.</p>
+
+            <p>Da die Medicin mehrere Disciplinen unter sich begreift, welche sehr verschiedene Talente und Kenntnisse erfordern, und es für manche Fächer gut ist, mehr als einen Mann zu besitzen, so muss die wissenschaftliche Deputation aus einer ziemlichen Anzahl von Mitgliedern bestehen.*) Ihre Zahl wird auf 12 festzusetzen sein.<note type="footnote" n="**)" resp="gnd-116890657"><hi>Im ersten Entwurf: „Ich glaube ihre Zahl auf 12, doch so, dass es ver-</hi></note> Es würde in Rücksicht auf die Ernennung und Remuneration der Mitglieder der wissenschaftlichen Deputation für das Medicinalwesen ganz dieselbe Verfassung eintreten wie bei der wissenschaftlichen Deputation für die Geistlichen und Schulangelegenheiten ; es fänden mithin nicht lebenswierige Anstellungen statt, sondern es würden jährlich vom Chef der Section, auf den Grund des Gutachtens der Mitglieder derselben, des Königs Majestät die ausgezeichnetsten Männer vorgeschlagen, welche aus Liebe zur Wissenschaft und reinem Eifer für die Beförderung des allgemeinen Besten gegen eine den individuellen Verhältnissen eines jeden angemessene Remuneration auf Ein Jahr es übernähmen, Mitarbeiter bei der wissenschaftlichen Deputation für die Medicinal-Angelegenheiten zu sein.</p>
+
+            <p>§7. In Absicht der Bildungsanstalten ist es besonders nothwendig, die Grenzen der Unterrichts- und Medicinal-Section genau zu bestimmen. Vorausgesetzt, dass aller und jeder medicinische Unter- richt vom Schulunterricht durchaus getrennt ist, so kann es viererlei Arten der medicinischen Unterrichts- und Bildungs- anstalten geben:</p>
+
+            <p>1. die medicinischen Facultäten der Universitäten,</p>
+
+            <p>2. praktische x\nstalten nach vollendetem Universitäts-Studio ; 3. medicinische Specialschulen, und zwar eigentlich wissenschaftliche, oder 4. empirische für diejenigen, die nicht studiren können.</p>
+
+            <p>*J Im ersten Entwurf: „und da mehrere unter ihnen oft und viel beschäftigt seyn werden, auch mehrere wirklich besolden können."</p>
+
+            <pb n="10.132" xml:id="pbX132"/>
+            <p>Die Universitäten stehen allein unter der Section des öffentlichen Unterrichts und sind von der Medicinal-Section durchaus unabhängig. Dies setzt schon die Verordnung vom 24. November 1808, wenn man die verschiedenen hierher gehörigen Stellen ge- nau vergleicht, fest. Es ist aber auch darum schlechterdings noth- wendig, weil der Universitätsunterricht, auch in einer einzelnen Facultät, vorzugsweise theoretisch und auf das Allgemeine der Wissenschaft gerichtet sein muss und ja nicht isolirt und aus dem gemeinschaftlichen Bande der Wissenschaft herausgerissen werden darf; Bedingungen, welche alle bei der Unterordnung der medi- cinischen Facultäten der Universitäten unter die Medicinal-Section, die, ihrer Natur nach, eine mehr praktische, politische und selbst locale Tendenz hat, viel schwerer erfüllt werden W'ürden. Ueber- dies würde eine wirklich doppelte Unterordnung der Universitäten unter zwei Collegia, da sie schon an Einem beinahe zu viel haben, die ihnen so sehr zu gönnende Unabhängigkeit noch mehr stören, und endlich könnten die Tribunale gleiche Ansprüche auf die juristische, die Section des Cultus auf die theologische Facultät machen, es bliebe der Unterrichts-Section nur die, auch noch vielleicht mit den staatswirthschaftlichen Behörden zu theilende philosophische übrig; es ginge alle Einheit in diesem Punkte verloren, und die Universitäten wären nicht mehr in Facultäten getheilt, sondern in Specialschulen zerrissen.</p>
+
+            <p>§8.</p>
+
+            <p>Damit es aber der Section des öffentlichen Unterrichts nicht an der nothwendigen medicinischen Kenntniss fehle, wird ein Mitglied der Medicinal-Section ihr zugeordnet. Von diesem Mit- gliede gilt aber übrigens alles, was von dem der Unterrichts-Section in der Medicinal-Section gesagt ist. Es vertritt nicht die eine Section in der andern, sondern hat nur die Rechte jedes andern ein- fachen Mitgliedes, und nur in Sachen seiner Competenz; daher es denn auch nur den Sitzungen beiwohnt, wenn es vom Chef Nachricht erhält, dass eine medicinische Sache vorkommen wird, oder es eine solche selbst anbringen will.<pb n="10.133" xml:id="pbX133"/> unterstützt vorzüglich die Section des öffentlichen Unterrichts mit ihrem Gutachten über das Ob- und Subjective des Medicinal- Unterrichts auf Universitäten.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Die wissenschaftliche Deputation für das Medicinalwesen</hi></note></p>
+
+            <p>Uebrigens wählt der Chef der Section des Unterrichts, welches Mitglied der Medicinal-Section er zu haben wünscht, und ebenso der Chef dieser, welches Mitglied jener (er) seinem Collegio bei- ordnen will.</p>
+
+            <p>Die wissenschaftliche Deputation der Section des öffentlichen Unterrichts tritt mit der wissenschaftlichen Deputation für das Medicinalwesen zusammen, wo sie deren Beirath für erforderlich hält, oder wo solcher einzuholen vorgeschrieben ist.<note type="footnote" n="*)" resp="gnd-116890657"><hi>„Die wissenschaftliche Deputation der Section des öffentlichen Unterrichts hat auch keine ärztlichen Mitglieder, sotidern bedient sich, wo sie medicinischer</hi></note> Ausserdem communicirt auch die Unterrichts-Section mit der Medicinal-Section über medicinische Gegenstände, auch der Universitäten, und auch die letztere kann die erstere unaufgefordert dazu einladen. Nur handeln beide bei diesen Mittheilungen, wie überhaupt zwei Sectionen, frei und unabhängig von einander, vereinigen sich entweder oder bringen ihre Differenzen zur Entscheidung des Staatsraths <note type="footnote" n="**)" resp="gnd-116890657"><hi>Zusatz von Dohna.</hi></note> oder im Pleno des Ministerii des Innern. **)</p>
+
+            <p>§ 9. Die dritte Art ist nichts als eine isolirte medicinische Facultät und muss künftig durchaus ganz wegfallen. Nur so lange als noch keine Universität in Berlin errichtet ist, muss man die in Berlin existirende Anstalt dieser Art <note type="footnote" n="***)" resp="gnd-116890657"><hi>Das Collegium medico-chirurgicum, das aber schon am 14. Dezember i8og aufgelöst wurde.</hi></note> bestehen und der Aufsicht der Medicinal-Section anvertraut lassen, f) Statt solcher erhält die Medicinal-Section die Aufsicht auf die Bildungsanstalten ad 2.t)</p>
+
+            <p>Ob die vierte Gattung endlich existiren soll oder nicht .^ ff) und wie sie im ersten Fall zu modificiren und allgemein nützlich betrifft, so jnuss, weil mit dieser Stelle ein Gehalt verknüpft ist, und das Mitglied wirklich Rath in der Medicinal-Section wird, deshalb immer auf den Vorschlag des Chefs der Medicinal-Section, ein Vortrag beim Könige geschehen." Arbeiter bedarf, der für das Medicinalwesen, die jedoch immer bloss der MedicinalSection untergeordnet ist" (sie!).</p>
+
+            <pb n="10.134" xml:id="pbX134"/>
+            <p>§ 10.</p>
+
+            <p>Von Krankenanstalten müsste bloss die Charite in Berlin der Section unmittelbar untergeordnet bleiben. Dass diese aber geradezu unter ihr stehe, ist höchst nothwendig, weil die Section eine Krankenanstalt zu ihren Bildungs- und Prüfungsanstalten bedarf, sie auch, um das Hospitalwesen überhaupt zu verbessern, ein Hospital selbst dirigiren mufs, um*) ein Muster von Instituten dieser Art aufstellen zu können. Die nothwendige Verbindung der Charite mit den Berlinschen Armenanstalten wird dadurch erleichtert, dass ein Mitglied der Polizei-Section selbst der Medicinal-Section beigeordnet ist.</p>
+
+            <p>Das Verhältniss der Medicinalräthe und Commissionen bei den Regierungen, welche in die Stelle der Provinzial-Collegiorum medicorum treten, zur Section wird dasselbe, in welchem geistliche und Schul-Deputationen zur Section des Cultus und öffent- lichen Unterrichts stehen. Ueberhaupt ist die Section für alle Gegenstände ihres Ressorts zugleich Oberbehörde der Regierungen, f) Es bilden sich in den Provinzen die wissenschaftlichen Deputationen für das Medicinalwesen bei den Regierungen in ähnUcher Art wie die wissenschaftliche Deputation bei der Section.***) Das Militair- Medicinalwesen steht zwar in Absicht seiner äussern Organisation unter den Militairbehörden , jedoch mit folgenden zwei Modificationen :</p>
+
+            <p>1. Wo und in wiefern Militair- Aerzte Civil-Praxis treiben, sind sie wie jeder andere Civil- Arzt zu betrachten und allein und ausschliesslich der Section unterworfen.</p>
+
+            <p>2. Insofern das Militair-Medicinalwesen in das wissenschaftliche eingreift, steht es unter der Section, der aus diesem Grunde</p>
+
+            <p>*J Im ersten Entwurf steht noch: „hierin, nicht zwar mit den Kranken selbst, aber mit einzelnen Hospitaleinrichtungen Versuche machen und".</p>
+
+            <pb n="10.135" xml:id="pbX135"/>
+            <p>§ 12.</p>
+
+            <p>In dieser letztern Hinsicht ist die wissenschaftliche Deputation, in welcher ohne Unterschied und nur mit Rücksicht auf ihre Geschicklichkeit Militair- und Civil-Aerzte Platz finden, ebenso wohl für das Militair- als Civil-Medicinalwesen geschäftig.</p>
+
+            <p>Diese Modificationen haben vorzüglich Einfluss auf die</p>
+
+            <p>1. Prüfung und</p>
+
+            <p>2. die Bildung der Militair-Aerzte und auf 3. die Militair-Hospitäler. Die Prüfung geschieht, wie bei den Civil-Aerzten, durch die wissenschaftliche Deputation, der nur für den besondern Theil der Militair-Praxis, vorzüglich im Kriege, ein oder zwei Militair- Aerzte zu diesem Behuf zugeordnet werden.</p>
+
+            <p>Das Mass der Kenntnisse und Geschicklichkeit, welche die Reife bestimmen sollen, müsste von den Militair-Behörden und der Section gemeinschaftlich festgesetzt werden, da dasjenige, womit man sich begnügen muss, von den Mitteln und von dem Aufsichtsverhältniss abhängt, in welches die verschiedenen Arten der Militair-Aerzte gesetzt werden.<note type="footnote" n="*)" resp="gnd-116890657"><hi>Hier heißt es in der Denkschrift: „Im Allgemeinen muss ich hier be</hi></note>Im Civil und überhaupt im Ganzen muss es zwei Klassen von Aerzten geben, nämlich vollendet wissenschaftlich theoretisch und praktisch, und, zwar in minderm Grade theoretisch, aber vor- züglich praktisch gebildete Aerzte. Die Aerzte von der ersten Klasse müssen auf einer Universität Studiren und promovirt haben, und müssen vorher einen ganz vollständigen Schulunterricht durchgegangen sein.</p>
+
+            <p>kreise angemessen ist.<note type="footnote" n="**)" resp="gnd-116890657"><hi>Die zweite Klasse der Aerzte hat wissenschaftliche Bildung bis auf einen gewissen Punkt, der ihrem beschränkteren Wirkungs</hi></note>merken, dass ein unrichtiger Weise angenommener Unterschied zwischen Wundärzten und Aerzten, und die Ascension von Compagnie-Chirurgus zum Regiments- und Stabchirurgus hierin, einzelne, nur durch individuelle hervorstechende Talente entstandenen Fälle ausgenommen, sehr beträchtliche Nachtheile hervorgebracht hat.</p>
+
+            <p>Im Civil, und überhaupt im Ganzen muss es wissenschaftlich und em<pb n="10.136" xml:id="pbX136"/>Diesen Unterschied einmal festgesetzt, müssen die Militair- behörden überlegen, ob sie zu allen Militair-Aerzten oder zu welchen Gattungen derselben die der ersten oder zweiten Klasse fordern wollen und können.*) Unter den obern Militair-Aerzten könnten die Aerzte der zweiten Klasse gebraucht werden, diese aber müssten nicht zu Regiments-Chirurgen ascendiren, sondern anderweitig im Civil zu gleichen, aber einträglichem oder weniger mühsamen Posten befördert oder sonst auf irgend eine Weise bei höhern Jahren besser gesetzt werden.</p>
+
+            <p>Dass indess es hier nicht gerade auf Schule, Universität und Doctor-Titel ankommt, versteht sich übrigens von selbst. Wenn also einer sich ohne diese Formen im Militair eine wirklich wissenschaftliche Bildung erworben hätte, so könnte auch er, nach ge- hörig bestandener Prüfung, jedoch nur ausnahmsweise, zu der höhern Klasse zugelassen werden.</p>
+
+            <p>Würde dieser Unterschied festgesetzt, so bestimmte sich hiernach nun auch die Prüfungsart bei der wissenschaftlichen Depu- tation.</p>
+
+            <p>§ 13- Was nun die Stellenbesetzung nach diesem Plan betrifft, so wird für die Section zum Staatsrath der Geheime Rath Hufeland; zum Geheimen Ober - Medicinalrath der vom p. Hufeland empfohlene und mit dem ganzen bisherigen Geschäftsgange genau bekannte Doctor Welper, der jedoch sein Physicat niederlegen müsste ; zum Mitglied für die Militair-Behörden der General-Stabs- Chirurgus Görcke; Uebel geduldet, aber um der Halbwisserei, die, ohne sich eine Gränze zu ziehen, bis zu der sie bloss gehen will, doch nicht das Rechte erreichen kann, und um dem zur Schande u. s. w."<pb n="10.137" xml:id="pbX137"/> zum Mitglied von Seiten der Section für den öffentlichen Unterricht der Staatsrath Süvern vorgeschlagen.*)</p>
+
+            <p>Die Stellen des andern Staats- und andern Geheimen OberMedicinalraths bleiben für jetzt unbesetzt.**)</p>
+
+            <p>Der p. Hufeland würde zugleich Mitglied der wissenschaftlichen Deputation für das Medicinalwesen sein und einen wesentlichen Antheil an den Prüfungen nehmen. Die übrigen Mitglieder der Deputation werden nach der Organisirung der Medicinal- Section von deren Chef sofort für das erste Jahr vorgeschlagen werden.</p>
+
+            <p>§ 14. Bei diesem Punkte der Stellenbesetzung hat man geglaubt, dass es darauf ankomme, solche Vorschläge zu machen, von denen man eine zweckmässige Führung der Geschäfte erwarten kann, und die verschiedenen Stellen so zu dotiren, dass sich der Mann, dem sie übertragen werden, wirklich, auch seiner äussern Lage nach, ernstlich damit zu beschäftigen im Stande ist. Das alte System, lauter kleine, aber viele Gehälter zu geben, wenig auf das Verhältniss des Aufwandes zum Zweck, sondern nur auf die absolute Grösse des Aufwandes zu sehen, kann nicht gebilligt werden. Die wahre Oekonomie liegt nur in der richtigen Bestimmung der Mittel zum Zweck. Man glaubt jedoch auch die beiden andern Rücksichten, die bis jetzt angestellt gewesenen Personen mit Billigkeit zu behandeln und dem Staate in seiner gegenwärtigen Lage nur so wenig Kosten als möglich zu verursachen, mit den höheren auf die innere Güte der zu bildenden Collegien verbunden zu haben.***)</p>
+
+            <p>*J „Zum Justitianus der Herr Karnmergerichtsrath Eimbeck. Das Mitglied der Section der Allgemeinen Polizei würde ich für diesmal Ew. Excellenz selbst zu bestimmen bitten."</p>
+
+            <p>**J „um auswärtige dazu zu berufen, da man freimüthig gestehen muss, dass Berlin jetzt keinen andern berühmten und hinlänglich wissenschaftlich ausgebildeten Arzt besitzt.</p>
+
+            <p>Als Mitglieder der wissenschaftlichen Deputation schlage ich vor von den bisherigen Mitgliedern der Ober-Collegii medici et sanitatis imd Collegii medico- chirurgici die Herren Knape, Formey, Hermbstaedt, Klaproth und Wildenow; um herein zu nehmen die Herren Sick und Lader. Da jedoch dieser noch abwesend ist, so tritt er erst bei seiner Zurückkunft in Gehalt. Die Stellen der</p>
+
+            <pb n="10.138" xml:id="pbX138"/>
+            <p>§ 15- Das Ober-Collegium medicum et sanitatis und das Collegium medico-chirurgicum hörte sogleich auf und die Mitglieder würden theils mit, theils ohne Pension und Wartegelder entlassen.</p>
+
+            <p>Nur diejenigen, welche als Docenten angestellt sind, blieben auch jetzt bis zur Einrichtung der Universität in Berlin. Vielmehr würde dieser Unterricht noch vollständiger gemacht und verbessert.<note type="footnote" n="*)" resp="gnd-116890657"><hi>„und namentlich würdeHerrS ick gleich Vorlesimgen zu halten verpflichtet.'' **) „und wissenschaftliche Deputation."</hi></note> Bei Errichtung der Universität setzten diejenigen, die nicht zu Professoren derselben berufen würden, ihre Vorlesungen als Privat- Docenten fort.</p>
+
+            <p>Die neue Section**) träte sogleich ihre Geschäfte an.</p>
+
+            <p>§ 16.</p>
+
+            <p>So lange die Ministerien<note type="footnote" n="***)" resp="gnd-116890657"><hi>„und der Chef der Section des Cidtus und öffentlichen Unterrichts."</hi></note> noch nicht in Berlin zurück sind, machten der Doctor Welper mit einem vom Geheimen Rath Hufeland zu ernennenden Bevollmächtigten unter dem Vorsitz des in Berlin befindlichen Bevollmächtigten des Chefs der Section des öffentlichen Unterrichts eine mit gehöriger Vollmacht versehene Commission der Section aus. Weniger wichtige oder dringende Geschäfte besorgten sie auf der Stelle, die andern schickten sie, gehörig vorbereitet, hierher an den Chef, der sie hier mit Geheimen Rath Hufeland, dem Mitglied der Section der allgemeinen Polizei und, wo es nöthig wäre, dem General-Stabs-Chirurgus Görcke und Staatsrath Süvern abmachte. Auf gleiche Weise würde die Corre- spondenz mit den Regierungen geführt.</p>
+
+            <p>§ 17- Die wissenschaftliche Deputation hätte ihre Sitzungen abgesondert, und das älteste MitgHed führte, bis zur Ernennung eines wirklichen Directors, den Vorsitz in derselben. des Qiianti der Besoldungen und Zulagen vorzüglich Ew. Excellenz Aufmerksamkeit verdienen."</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,398 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Über die deutsche Verfassung</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Elfter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif11humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1904">1904</date>
+                  </imprint>
+                  <biblScope unit="page" from="95" to="115"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="11.95" xml:id="pbXI95"/>
+            <p>altere Ic complc qu'il cn rcnd. Lc (ioiivcrncmcnl aiira par con- s^qucnt mille moyens de la soustraire i\ la connoissance du Public et de rintcrpr^ter d'une maniere contraire aux intcnlions des Allids; et je ne düute point que le peu de paroles du discours du l'rince Rc«,'ent au Parlcment, oü il est parld de la paix, ne pm- duisent une imprcssion plus forte et plus favorable quc la procla- mation projcttcc.</p>
+
+            <head>
+               <title type="main">XXVII., XXVIII. über die deutsche Verfassung.</title>
+            </head>
+            <p>Schon itn St'yk'inl'cr /(S; y. n'ährend des AuJ'cnlhalls der Sualsindnner in Teplitz, regte Freiherr vom Stein die Frage nach der zukünftigen deutschen Verfassung an, und Humbuldt übernahm es, seine Ansichten darüber des näheren zu entwickeln. Es geschah dies in der folgenden, an Stein gerichteten Denkschrift (No. XXVIIK Er sandte sie auch an Gentz, der aber die drei wichtigsten Punkte bemängelte: daß den beiden Großstaaten allein das Recht über Krieg und Frieden übertragen werde — dagegen, meinte er, werden Bayern und Hannover laut und mit Recht Einspruch erheben ; daß die Staaten von geringerer Macht als die vier ersten vom Range souveräner zum Range untergeordneter herabgedrücln werden, dagegen werden sämtliche Degradierte mit einstimmiger Erbitterung sich erklären; daß in allen deutschen Staaten gewisse Verbesserungen der inneren Verfassung herbeigeführt werden, dem werden wahrscheinlich alle. Große und Kleine, widersprechen. Nur zwischen Gleichen könne ein Staatenverein (da sie eine eigentliche Verfassung ebenfalls nicht zulassen) bestehen. Zwischen ursprüng- lich Ungleichen ließe er sich zwar noch denken, aber schon nicht ohne große Schwierigkeit und Gefahr; aber ursprünglich Gleiche (oder solche, die es im ge- gebenen Augenblicke seien) in Ungleiche zu verwandeln und dann in einen Verein zu ziehen, halte er für eine der gewagtesten Unternehmungen, die je ein Staats- mann ersinnen könnte. Er erkläre daher ganz freimütig, daß ihm der Plan, in dem einzelne Bestimmungen sehr beherzigenswert seien, nicht ausführbar erscheine, und glaube überdies, daß er beinahe alle deutschen Fürsten gegen die beiden Großmächte aufbringen würde. Diesen Ausstellimgen gegenüber schrieb Humboldt die folgende Widerlegung (No. XXVIII). X.W'll. Denkschrift über die deutsche N'erfassung.</p>
+
+            <p>Dezember 1X13. ; Original im Geh. Staat.sarchiv ; gedruckt bei Schmidt, Geschichte der deutschen Verfassungsfrage während der Befreiungskriege und des \\'iener Kongresses</p>
+
+            <p>S. luj—rji.)<pb n="11.96" xml:id="pbXI96"/> lüsst es sich mit mehr Ruhe und Ernst über die wichtigste Angelegenheit reden, die ein Deutscher behandeln kann.</p>
+
+            <p>Der erste \'orwurf, den meine \^orschläge erfahren werden, ist vcrmuthlich der, dass man sie auf wandelbare Voraussetzungen gegründet fmden wird. Allein dieser \"orwurf tri iTt weniger mich, als die Sache. Eine wahrhaft sichere Verbindung kann nur durch physischen Zwang, oder moralische Nothigung zu Stande gebracht werden. Die Politik ist aber grade so angethan, dass sie auf die letztere wenig rechnen kann, wenn sie nicht den ersteren im Hintergrunde zeigt, und wie nöthig und wirksam dieses Zeigen sey? hängt immer gar sehr zugleich von der zufälligen Verknüpfung der Umstände ab. Sie darf also nie auf Mittel denken, die gleich- sam absolut sichernd seyn sollen, sondern nur auf solche, welche sich jener Verknüpfung, sowie sie in sich wahrscheinlich ist, am besten anschmiegen, und sie am natürlichsten beherrschen. In die Möglichkeit einer Ungewissheit des Erfolges muss man sich immer ergeben, und nicht vergessen, dass der Geist, welcher eine Einrichtung gründet, immer fort nothwendig ist, sie zu erhalten. Brauchte man nichts Neues einzurichten, könnte man die Dinge so lassen, wie sie, nach der Auflösung des Unstatthaften, von selbst seyn werden; so wäre es bei weitem vorzuziehen. Denn die Weltbegebenheiten gehen immer in dem Grade besser, in dem die Menschen nur negativ zu handeln brauchen. Allein hier ist dieses unmöglich; hier muss etwas Positives geschehen, erbaut werden, wo man gezwungen war niederzureissen. Da der Rheinbund aufgelöst ist, muss entschieden werden, was nunmehr aus Deutschland werden soll, und selbst wenn man keinerlei Art der Vereinigung wollte, w^enn alle Staaten einzeln fortbestehen sollten, so müsste doch auch dieser Zustand zugerichtet und ge- sichert werden.</p>
+
+            <p>Wenn man aber über den zukünftigen Zustand Deutschlands redet, muss man sich wohl hüten, bei dem beschränkten Gesichtspunkte stehen zu bleiben, Deutschland gegen Frankreich sichern<pb n="11.97" xml:id="pbXI97"/> l-'eind venheidigcn könne, sondern deswegen, weil nur eine, auch nach aussen hin starke Nation den Geist in sich bewahret, aus dem auch alle Segnungen im Innern strömen; es muss frei und stark seyn, um das, auch wenn es nie einer Prüfung ausgesetzt würde, nothwendige Selbstgefühl zu nähren, seiner Nati(mal- entwickclung ruhig und ungestört nachzugehen, und die wohl thätigc Stelle, die es in der Mitte der lüiropiiischen Nationen für dieselben einnimmt, dauernd behaupten zu können.</p>
+
+            <p>\'on dieser Seite angesehen, kann die Vrsigc nicht zweifelhaft seyn, ob die verschiednen deutschen Staaten einzeln fortbestehen, oder ein gemeinschaftliches Ganzes bilden sollen.' Die kleineren Fürsten Deutschlands, bedürfen einer Stütze, die grösseren einer Anlehnung, und selbst Prcussen und Oesterreich ist es wohlthütig, sich als Theile eines grösseren, und, allgemein genommen, noch wichtigeren (ianzen anzusehen. Dies aus grossmüthigem Schutz und bescheidner Unterordnung zusammengesetzte Verhältniss bringt eine grössere Billigkeit und Allgemeinheit in ihre, auf ihr eignes Interesse gerichteten Ansichten. Auch lässi sich das Gefühl, dass Deutschland ein Ganzes ausmacht, aus keiner deutschen Brust vertilgen, und es beruht nicht bloss auf Gemeinsamkeit der Sitten, Sprache und Literatur (da wir es nicht in gleichem Grade mit der Schweiz, und dem eigentlichen Preussen theilen), sondern auf der Erinnerung an gemeinsam genossene Rechte und Frei- heiten, gemeinsam erkämpften Ruhm und bestandene Gefahren, auf dem Andenken einer engeren Verbindung, welche die \'äter verknüpfte, und die nur noch in der Sehnsucht der Fnkel lebt. Das vereinzelte Dasein der sich selbst überlassenen deutschen Staaten (selbst wenn man die ganz kleineren grösseren anfügte,) würde die Masse der Staaten, die gar nicht, oder schwer auf sich selbst ruhen können, auf eine dem Europäischen (Gleichgewichte gefährliche Weise vermehren, die grösseren deutschen Staaten, selbst Oesterreich und Preussen, in Gefahr bringen, und nach und nach alle deutsche Nationalität untergraben.<pb n="11.98" xml:id="pbXI98"/> nicht vermessen, der natürlichen BeschatVenheit der Dinge entgegen zu handeln. Nun aber wird Deutschland in seinen, nach den Zeitumständen erweiterten, oder verengerten Gränzen immer, im Gefühle seiner Bewohner, und vor den Augen der Fremden, Eine Nation, Ein Volk, Ein Staat bleiben.</p>
+
+            <p>Die Frage kann also nur die sein: wie soll man wieder aus Deutschland ein Ganzes schallen?</p>
+
+            <p>Könnte die alte Verfassung wiederhergestellt werden, so wäre nichts so wöinschenswerth, als dies ; und hätte nur fremde Gewalt ihre, in sich rüstige Kraft unterdrückt, so würde sie sich wieder mit Federkraft emporheben. Aber leider war ihr eignes langsames Ersterben selbst hauptsächlich Ursache ihrer Zerstörung durch äussere Gewalt, und jetzt, wo diese Gewalt verschwindet, strebt keiner ihrer Theile anders, als durch ohnmächtige Wünsche, nach ihrer Wiedererweckung. Von enger Verbindung, von strenger Unterordnung der Glieder unter dem Oberhaupt war durch das Losreissen dieses und jenes Theils ein lockres zusammenhängendes Ganzes geworden, in dem, ungefähr, seit der Reformation, alle Theile auseinanderstrebten. Wie soll daraus das entgegengesetzte Streben hervorgehen, dessen wir jetzt so dringend bedürfen?</p>
+
+            <p>Er\\'ägt man die einzelnen Punkte, so wachsen alle Schwierigkeiten. Herstellung der Kaiserwürde, Beschränkung der Wahlfürsten auf eine kleine Zahl, Bedingungen der Wahl, alles würde bei Haupt und Gliedern unendliche Hindernisse finden, und wenn alle überwunden wären, würde doch etwas Neues gebildet, nicht das Alte hergestellt seyn. Denn niemand wird wohl an der Unzulänglichkeit des ehemaligen Reichsverbandes zu der jetzt nöthigen Sicherung unserer Selbstständigkeit zrv\'eifeln. Selbst unter den alten Namen, müsste man also neue Gestalten schaffen.</p>
+
+            <p>Es giebt nur zwei Bindungsmittel für ein politisches Ganzes ; eine wirldiche Verfassung, oder einen blossen Verein. Der Unter<pb n="11.99" xml:id="pbXI99"/>weniger nachbilden kann. Jede N'erfassung, auch als ein bloss theoretisches (jcwebc betrachtet, muss einen materiellen Keim ihrer Lebenskraft in der Zeit, den Umständen, dem Nationalcharakter vorfinden, der nur der Entwicklung bedarf. Sie rein nach Principien der \'ernunft und Erfahrung gründen zu wollen, ist im hohen (irade mislich, und so gewiss alle wirklich dauerhaften \'erfassungen einen unförmlichen, und keine strenge Prü- fung ertragenden Anfang gehabt haben, so gewiss würde es einer von Anfang herein folgerechten an Bestand und Dauer mangeln. Auf die Frage: soll Deutschland eine wahre Verfassung erhalten? lässt sich daher, meines Erachtens nur so antworten. Sprechen zu der Zeit, wo die Frage entschieden werden muss, Haupt und Glieder aus, dass sie Haupt und Glieder seyn wollen, so folge man der Anzeige, und leite nur, und beschränke. Ist das aber nicht, verlautet nichts, als das kalte Verstandesurtheil, dass ein Band für das Ganze da seyn muss; so bleibe man bescheiden beim Geringeren stehn, und bilde bloss einen Staatenverein, einen Bund. Alle Verfassungen, deren Dauerhaftigkeit sich bewährt hat, haben eine gewisse Form in ihrer Zeit vorgefunden, an welche sie sich bloss anschlössen, wie sich leicht historisch erweisen Hesse. Nun aber giebt es in unserer Zeit gar keine Form, die einer Ver- fassung Deutschlands zur Grundlage dienen könnte; vielmehr sind alle sogenannte Constitutionen durch die Erbärmlichkeit und Zerbrechlichkeit der seit der Französischen Revolution bis zum Ekel wiederholten in gerechte Ungunst gerathcn. Dagegen ist die vollkommene Ausbildung aller politischen Formen der \'erbindung der Staaten untereinander der neuesten Zeit eigenthümlich, und ein jetzt zu gründender Staatenverein wird sich daher auch besser durch diese fest knüpfen lassen.</p>
+
+            <p>Fragt man mich nun, was eigentlich die bindenden und erhal- tenden Principien in einer, durch blosse Schutzbündnisse gebildeten \'ereinigung Deutschlands seyn sollen? so kann ich bloss folgende, allerdings wohl sehr starke, allein freilich meist moralische nennen:<pb n="11.100" xml:id="pbXI100"/> den wieder erweckten, und durch Freiheit und Selbständigkeit zu erhaltenden Geist der Nation; und die Gewährleistung Russlands und Englands. Die feste, durchgängige, nie unterbrochene Uebereinstimmung und Freundschaft Oesterreichs und Preussens ist allein der Schlussstein des ganzen Gebäudes. Diese Uebereinstimmung kann ebensowenig durch den Verein gesichert, als der Verein, wenn sie mangelte, erhalten werden. Es ist der feste Punkt ausserhalb des Bundes, der gegeben seyn muss, um ihn zu schliessen; und da er durchaus ein politischer ist, ruht er auch auf einem rein politischen Princip. Gerade aber indem man in das Verhältniss Oesterreichs und Preussens schlechterdings nicht mehr A^erpflich- tendes bringt, als jedes Bündniss enthält, und dieselbe zur Grundlage der Wohlfahrt des gesammten Deutschlands macht, welche ihre eigne in sich begreift; verstärkt man sie durch das Gefühl der Freiheit und Nothwendigkeit; wozu sich die x\bwesenheit alles Grundes zu einem ausschliessenden Interesse gesellt, da zwischen beiden Mächten wieder Unterordnung, noch Theilung der Gewalt gestattet ward.</p>
+
+            <p>Die nach Oesterreich und Preussen grossesten Staaten müssen gross sein, damit sie sich über alles Mistrauen, und alle Furcht vor ihren nächsten Nachbarn erheben, ihr Gewicht zur Vertheidi- gung der Unabhängigkeit des Ganzen fühlen, und, frei von eignen Besorgnissen, nur die gemeinschaftlichen zu entfernen bedacht sind. In diesem Fall können sich nur Baiern und Hannover befinden. Die mittleren, wie Hessen, Würtemberg, Darmstadt u. a. m. waren, müssen dagegen in ihren alten Schranken gehalten werden. Ihre geringe Grösse erlaubt nicht, sie über alle kleinliche und einseitige Ansichten erhaben voraussetzen; und eine fremde Macht muss daher ein grosses Interesse finden, einen einzelnen davon mit sich zu verbinden.</p>
+
+            <p>Da es natürlich ist, dass in einer Zeit, wie die gegenwärtige, ohne Rücksicht auf das Bestehende, alle Verhältnisse einer neuen Prüfung unterworfen werden ; so hört man jetzt oft die zwiefache Behauptung; dass die kleineren Staaten in Deutschland ganz auf<pb n="11.101" xml:id="pbXI101"/>Die X'enheidigung gegen fremde Macht könnte allerdings, in- sofern man Feinheit unter den Wenigen voraussetzen darf, bei einer Theilung Deutschlands in vier, oder fünf grosse Staaten ge- winnen. Allein Deutschland hat, mehr als jedes andere Reich, olfenbar eine doppelte Stelle in Europa eingenommen. Nicht gleich wichtig als politische Macht, ist es von dem wohlthätigsten F^influss durch seine Sprache, Litteratur, Sitten und Denkungsart geworden; und man muss jetzt diesen letzteren Vorzug nicht aufopfern, sondern, wenn auch mit Ueberwindung einiger Schwierigkeit mehr, mit dem erstercn verbinden. Nun aber dankt man jenen ganz vorzüglich der Mannigfaltigkeit der Bildung, welche durch die grosse Zerstückelung entstand, und würde ihn, wenn sie ganz aufhörte, grossentheils einbüssen. Der Deutsche ist sich nur be- wusst, dass er ein Deutscher ist, indem er sich als Bewohner eines besonderen Landes in dem gemeinsamen Vaterlande fühlt, und seine Kraft und sein Streben werden gelähmt, wenn er, mit Aufopferung seiner Provincial-Selbständigkeit, einem fremden, ihn durch nichts ansprechenden Ganzen beigeordnet wird. Auch auf den Patriotismus hat dies Einfluss, und sogar die Sicherheit der Staaten, für welche der Geist der Bürger die beste Gewährleistung ist, möchte am meisten bei dem Grundsatz gewinnen, jedem seine alten Unterthanen zu lassen. Die Nationen haben, wie die Individuen, ihre, durch keine Politik abzuändernden Richtungen. Die Richtung Deutschlands ist ein Staatenverein zu sein, und daher</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">ist es weder, wie Frankreich und Spanien, in Eine Masse zu-</title>
+               </head>
+               <p>sammengeschmolzen, noch hat es, wie Italien, aus unverbundnen einzelnen Staaten bestanden. Dahin aber würde die Sache unfehlbar ausarten, wenn man nur vier, oder fünf grosse Staaten fortdauern liesse. F^n Staatenverein fordert eine grössere Anzahl, und man hat nur zwischen der nun einmal unmöglichen (und, meiner</p>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">Me3'nung nach, keineswegs wünschenswürdigen) Einheit, und dieser Mehrheit die Wahl. Zwar kann es wunderbar scheinen, wenn</title>
+               </head>
+               <pb n="11.102" xml:id="pbXI102"/>
+               <p>läugnende Ansprüche — einer der wichtigsten Gründe, sich Ungerechtigkeiten gleich von Anfang standhaft entgegenzusetzen. Ob gerade die Grenze mit Frankreich durch grosse Staaten gebildet werden soll? scheint mehr eine militärische Frage. Allein die Sicherheit Deutschlands beruht auf der, durch die übrigen Deutschen Fürsten vermehnen Stärke Oesterreichs und Preussens, und diese können es freier vertheidigen, wenn sie, mehr entfernt stehend, durch eigne feste Gränzen gesichert, zwischen sich und dem P'einde ein ihrer Aufsicht und ihrem Einfluss unterworfenes Gebiet haben. Auch die grossesten Staaten verhindern nicht leicht, dass der Feind ihre Gränzen überschreite, w-enn einmal der Krieg wirklich ausgebrochen ist, und ihre unmittelbare Berührung führt diesen leichter herbei. Alle grossen Staaten haben daher gern minder bedeutende zwischen sich gelassen, und es kann immer kleine Staaten diesseits, und (wenn, wie es billig der Fall seyn sollte, der Rhein wieder ein deutscher Fluss wird) auch jenseits des Rheins geben, w^enn nur die Schweiz und Holland unabhängig sind, man keine Angriffsfestungen auf dem Rheine selbst duldet, und ein paar Plätze zur Unterstützung allenfalsiger Kriegsoperationen anlegt.</p>
+
+               <p>Diese vorläufigen Betrachtungen werden hinreichend seyn, die folgenden Vorschläge zur Bildung einer Vereinigung Deutschlands zu begründen.</p>
+
+               <p>Alle deutschen Fürsten vereinigen sich durch ein gegenseitiges A'ertheidigungsbündniss zu einem politischen Ganzen.</p>
+
+               <p>Dies Bündniss ist eine vollkommen freie und gleiche Verbindung, wie sie von souveränen Fürsten geschlossen wird, und es findet unter den Mitgliedern desselben keine andere Verschiedenheit der Rechte Statt, als welche sie selbst durch dasselbe freiwillig unter sich eintreten lassen.</p>
+
+               <pb n="11.103" xml:id="pbXI103"/>
+               <p>3über-</p>
+            </div>
+
+            <div type="section" n="3">
+               <head>
+                  <title type="main">nommen.</title>
+               </head>
+               <p>Da diese beiden Mächte und Oesterreich imd Preussen, auch als Nichtdeutsche Mächte, durch eigne Allianztraktaten verbunden sind, so würden diese, in Rücksicht auf diese Garantie, noch einer erweiternden Bestimmung bedürfen, inwiefern auch ein nicht auf sie, sondern auf Deutschland unternommener AngrilT zur Forderung einer Hilfe berechtigen solle?</p>
+
+               <p>4Diese</p>
+
+               <p>Garantie bezieht sich jedoch nur auf die Beschützung Deutschlands gegen auswärtige</p>
+
+               <p>Angriffe, und die garantirenden Mächte begeben sich aller Einmischung in die inneren</p>
+
+               <p>Angelegenheiten Deutschlands.</p>
+
+               <p>Ohne diese Bestimmung würde das Bestreben eines, oder des andern deutschen Staats, sich einer der garantirenden Mächte gegen eine der grösseren in Deutschland zu bedienen, dem man immer entgegensehen muss, zu sehr begünstigt werden. Die garantirenden Mächte müssen hierbei von unbedingtem Vertrauen in die Mässigung Preussens und Oesterreichs ausgehen. Das Bemühen Alles durchaus sichern, und gegeneinander abwägen zu wollen, führt nur Klagen und Uneinigkeiten herbei.</p>
+
+               <p>5Die Garantie der gegenseitigen</p>
+
+               <p>Rechte der einzelnen deutschen Staaten, sie mögen aus dem Bündniss selbst herfliessen, oder nicht,</p>
+            </div>
+
+            <div type="section" n="4">
+               <head>
+                  <title type="main">übernehmen</title>
+               </head>
+               <p>Oesterreich,</p>
+
+               <p>Preussen,</p>
+
+               <p>Baiern und Hannover gemeinschaftlich, und mit durchaus gleichen</p>
+
+               <p>Befugnissen.</p>
+
+               <p>In Fällen, wo von den Rechten einer oder mehrerer dieser</p>
+
+               <p>Mächte selbst die Rede ist, ruhen die aus der Garantie tiiessenden</p>
+
+               <p>Rechte für diese, und es treten andere deutsche</p>
+
+               <p>Staaten in ihre Stelle.</p>
+
+               <p>Es werden zu diesem</p>
+
+               <p>Behuf vier andere in bestimmter</p>
+
+               <p>Folge im Bündnisse eventuell bezeichnet.</p>
+
+               <p>Diese besondere (Garantie der inneren Rechte ist noth<pb n="11.104" xml:id="pbXI104"/>6.</p>
+
+               <p>Das gemeinschaftliche Bündniss wird auf ewige Zeiten geschlossen, und jeder Theil thut Verzicht auf das Recht, je davon auszuscheiden.</p>
+            </div>
+
+            <div type="section" n="5">
+               <head>
+                  <title type="main">Hierdurch w^ürde sich dies Bündniss von gewöhnlichen Bündnissen unterscheiden, deren Dauer von der Willkühr jedes Theils abhängt. Jeder, auch noch so feierlich vorher angekündigte Austritt würde als ein Bruch angesehen werden, und berechtigen, dem Austretenden feindlich zu begegnen. Diese Bestimmung ist durchaus nothwendig und auf keine Weise ungerecht. Denn das Ausscheiden eines deutschen Fürsten aus einem, auf die Sicherung der Unabhängigkeit Deutschlands abzweckenden Bunde ist eine an sich widernatürliche, kaum denkbare, allein nie zu duldende Sache.</title>
+               </head>
+            </div>
+
+            <div type="section" n="6">
+               <head>
+                  <title type="main">Bedingungen des Bündnisses.</title>
+               </head>
+               <p>Diese betreffen Gegenstände des äusseren und inneren Staatsrechts, und der Gesetzgebung.</p>
+            </div>
+
+            <div type="section" n="7">
+               <head>
+                  <title type="main">Aeusseres Staatsrecht.</title>
+               </head>
+               <p>7-</p>
+            </div>
+
+            <div type="section" n="8">
+               <head>
+                  <title type="main">Jeder</title>
+               </head>
+            </div>
+
+            <div type="section" n="9">
+               <head>
+                  <title type="main">deutsche</title>
+               </head>
+            </div>
+
+            <div type="section" n="10">
+               <head>
+                  <title type="main">Fürst</title>
+               </head>
+            </div>
+
+            <div type="section" n="11">
+               <head>
+                  <title type="main">verbindet</title>
+               </head>
+               <p>sich, mit einer verhältnissmässigen</p>
+            </div>
+
+            <div type="section" n="12">
+               <head>
+                  <title type="main">Anstrengung</title>
+               </head>
+               <p>aller Kräfte seiner</p>
+
+               <p>Staaten zur Vertheidigung des gemeinschaftlichen</p>
+
+               <p>Vaterlandes thätig zu sein.</p>
+
+               <p>8.</p>
+
+               <p>Jeder setzt daher die durch das Bündniss selbst zu bestimmenden Streitkräfte in Bewegung, sobald der Fall eines vaterländischen Krieges eintritt.</p>
+
+               <p>Die Erklärung,</p>
+            </div>
+
+            <div type="section" n="13">
+               <head>
+                  <title type="main">ob und wann</title>
+               </head>
+               <p>ein solcher</p>
+
+               <p>Fall vorhanden sey?<pb n="11.105" xml:id="pbXI105"/> solchen ErkLlrung nicht.</p>
+
+               <p>Da unter allen deutschen Staaten nur Oesterreich und</p>
+
+               <p>Preussen Mächte sind, welche auch in den Kuropaischen Staatsverhältnissen den Ausschlag geben können, so kann das Recht der Kriegserklärung nur ihnen anvertraut werden. Das weiter unten (14) erwähnte der Friedensschliessung beruht auf dem gleichen Grunde. Dem Bündniss Bestimmungen für den Fall beizufügen, wo diese beiden Mächte mit einander über einen so wichtigen Punkt uneins wären, würde durchaus zwecklos seyn. Ihre Uebereinstimmung kann, wie schon oben bemerkt worden, weder durch das Bündniss erzwungen, noch bei demselben entbehrt werden.</p>
+
+               <p>10.</p>
+
+               <p>Jeder deutsche Fürst macht sich durch das Bündniss auf den Fall eines gemeinschaftlichen Krieges zur Stellung einer gewissen Truppenzahl, und zu gewissen Leistungen zu den Kriegsbedürfnissen anheischig.</p>
+
+               <p>Es versteht sich von selbst, dass Preussen und Oesterreich nicht nach Massgabe ihrer deutschen Besitzungen, sondern ihrer gesammten Kräfte, und als Europäische Mächte an einem solchen Kriege Theil nehmen. Denn die hauptsächlichste Bürgschaft für die Dauer des Deutschen Vereins liegt gerade in dem Umstände, dass Oesterreich und Preussen die Unabhängigkeit und Selbständigkeit Deutschlands als unzertrennlich von ihrer eignen politischen Existenz ansehen. Von einem bloss lauen Antheile einer dieser beiden Mächte an einem Vertheidigungskriege Deutschlands kann fernerhin nicht mehr die Rede seyn.</p>
+            </div>
+
+            <div type="section" n="14">
+               <head>
+                  <title type="main">II.</title>
+               </head>
+               <p>Es wird eine gewisse Truppenzahl bestimmt, welche den Staat, der sie als Uontingent stellt, berechtigt, aus seinen Truppen ein eignes Armeecorps zu bilden. Die Truppen aller übrigen Fürsten werden in allgemeine Armeecorps vereinigt. Die Auf<pb n="11.106" xml:id="pbXI106"/>Jedem Fürsten, dessen Truppen ein eignes Armeecorps bilden, wird es selbst überlassen, die Streitkräfte seiner Staaten in ver- fassimgsmässigem Zustande 7.u erhalten. Diejenigen aber, deren Truppen Theile der allgemeinen deutschen Armeecorps ausmachen, versprechen, sich auch in Friedenszeiten diejenige besondere Aufsicht auf die Militairanstalten gefallen zu lassen, ohne welche keine Einheit erhalten werden könnte. Diese Aufsicht wnrd von den (]hefs dieser Armeen unter der Autorität derjenigen Macht ausgeübt, welche sie bestellt hat.</p>
+
+               <p>So nothwendig eine solche Aufsicht bei den kleineren Fürsten ist, so unmöglich wäre sie bei den grösseren. Der Eintiuss, den man auch bei ihnen hierauf ausüben muss, kann nur ein allgemein politischer se3fn.</p>
+
+               <p>Die gemeinschaftliche MilitairA^rfassung Deutschlands, die Errichtung von Landwehr und Landsturm, die vielleicht noth- wendige Anlegung gemeinschaftlicher Festungen, die Vertheilung des Commandos im Kriege u. s. f. erfordert eine Menge andrer einzelner Bestimmungen, theils in dem Bündnisse selbst, theils in eigenen Regulativen, die hier, wo es nur auf die Hauptzüge an- kommt, übergangen werden.</p>
+
+               <p>14.</p>
+
+               <p>Das Recht der Friedensschliessung bei einem gemeinschaftlichen Kriege steht allein Oesterreich und Preussen gemeinschaftlich zu. Beide Mächte aber versprechen, nie einen Frieden, oder andern \'ertrag einzugehen, durch welchen der Besitzstand, oder die Rechte eines in dem Bündniss begriffenen Fürsten geschmälert würden.</p>
+
+               <p>Einige, oder alle deutsche Fürsten an diesem Rechte Theil nehmen lassen zu wollen, würde ein durchaus vergebliches Bemühen seyn. Angelegenheiten dieser Wichtig- keit werden immer nur durch den politischen Einfluss der Staaten aufeinander entschieden werden; und Mächte wie Oesterreich und Preussen werden und können sich in</p>
+
+               <pb n="11.107" xml:id="pbXI107"/>
+               <p>'5Alle in dem Bündniss begrill'enen Fürsten versprechen, keinerlei Art von \'ertrag oder \'erbindlichkeit einzugchen, welche einem in demselben enthaltenen Punkte zuwiderliefe.</p>
+
+               <p>Diejenigen, welche bloss deutsche Länder besitzen, entsagen dem Rechte, an auswärtigen Kriegen, und überhaupt an andern, als Deutschen Bundeskriegen Theil zu nehmen; darauf abzweckende Bündnisse zu schliessen, fremden Truppen den Eintritt in ihren Staaten zu gestatten, oder die ihrigen in fremden Sold zu geben.</p>
+
+               <p>Diese Beschränkung kann auch den grösseren Deutschen Fürsten, wüe Baiern, nicht erlassen werden. Die Streit- kräfte Deutschlands dürfen für ein fremdes Interesse weder zersplittert, noch geschwächt werden; und man muss jeden</p>
+
+               <p>Vorwand entfernen, welcher Deutschland in Kriege verwickeln könnte, die nicht sein unmittelbares Wohl angehen. Es versteht sich, dass Hannover denselben (Grundsätzen folgen muss.</p>
+
+               <p>17Alle deutschen Fürsten versprechen, ihre Streitigkeiten untereinander durch gütlichen Vergleich beizulegen, wenn aber ein solcher nicht sollte zu Stande gebracht werden können, sich un bedingt dem schiedsrichterlichen Ausspruch der die innere Ruhe Deutschlands garantirenden vier deutschen Mächte, deren im \'origen (5) erwähnt worden ist, zu unterwerfen.</p>
+
+               <pb n="11.108" xml:id="pbXI108"/>
+               <p>Inneres Staatsrecht.</p>
+
+               <p>18.</p>
+
+               <p>Obgleich jeder Fürst mit allen Souverainitätsrechten innerhalb seiner Staaten begabt wäre, so müssten doch in jedem deutschen Staat Stände errichtet, oder hergestellt werden.</p>
+
+               <p>Gut eingerichtete Stände sind nicht bloss eine nöthige Schutzwehr gegen die Eingriffe der Regierung in die Privatrechte, sondern erhöhen auch das Gefühl der Selbstständigkeit in der Nation, und verbinden sie fester mit der Regierung. Sie sind überdies eine altdeutsche Einrichtung, und nur in neueren Zeiten abgekommen, oder zu einer leeren Förmlichkeit geworden.</p>
+
+               <p>19.</p>
+
+               <p>Bei Bestimmung der Rechte der Stände müssen gewisse Grundsätze, als allgemein durch ganz Deutschland geltend, ange- nommen werden; im Uebrigen aber muss die Verschiedenheit eintreten, welche die ehemalige Verfassung der einzelnen Länder mit sich bringt.</p>
+
+               <p>Eine solche Verschiedenheit ist nicht allein durchaus unschädlich, sondern sie ist nothwendig, um in jedem Lande die Verfassung genau an die Eigenthümlichkeit des Nationalcharakters anzuschliessen. Die der neuesten Zeit sehr eigne Methode, allgemeine, theoretisch gebildete Reglements ganzen Ländern vorzuschreiben und dadurch alle Mannigfaltigkeit und Eigenthümlichkeit niederzuschlagen, gehört zu den gefährlichsten Missgriffen, die aus einem unrichtig verstandenen Verhältniss der Theorie zur Praxis entspringen können.</p>
+
+               <pb n="11.109" xml:id="pbXI109"/>
+               <p>Die N'crhältnisse der mediatisirten Reichsstande bedürfen noch ausserdem eigner Festsetzungen.</p>
+
+               <p>Diese Verhältnisse müssten mehr nach staatsrechthchen</p>
+
+               <p>Grundsätzen, als gerade mit historischer Rücksicht auf die ihnen bei der Mediatisation, die nichts, als eine Gewalthandlung war, gelassenen Rechte bestimmt werden. Ks muss hierbei nothwendig die doppelte Frage entstehen: ob es nicht besser scyn dürfte, die mediatisirten Reichsstände gänzlich den übrigen Fandständen gleichzustellen? oder im Gegen- theil ihre Verhältnisse noch günstiger zu bestimmen, und dann auch die kleineren unter den jetzt souverän gelassenen Fürsten zu mediatisiren und grösseren unterzuordnen?</p>
+
+               <p>Das Frstere w^äre hart gegen eine schon höchst unge- gerecht behandelte Classe und würde wenig oder keinen Nutzen bringen.</p>
+
+               <p>Das Letztere wird bei allen denen Beifall finden, welche wünschen, Deutschland bloss aus einigen grossen Staaten bestehen zu sehen.</p>
+
+               <p>Ich würde aus den im Anfange dieses Aufsatzes angeführten Gründen dagegen seyn. Deutschland wird kein Staatenverein, und das Wesentlichste, seine Feinheit, leidet, wenn es bloss vier oder fünf Staaten zählt. P^s lässt sich alsdann keine Garantie der inneren Rechte, kein gemein- schaftlicher Gerichtshof denken, und alle mediatisirten Fürsten würden sehr bald ihre Rechte gegen die FingritTe der grösseren Regierungen verlieren. Die gegenwärtigen</p>
+
+               <p>Vorschläge beschränken aber schon dergestalt die Souve- rainitätsrechte der kleineren, jetzt bestehenden Fürsten, dass der gemeinschaftlichen Sicherheit keine Gefahr daraus erwachsen kann.</p>
+
+               <p>Die allgemeine Aufhebung der Mediatisation für alle, welche unter ihr gelitten haben, würde unübersteigliche Hindernisse linden.</p>
+
+               <p>•21.</p>
+
+               <pb n="11.110" xml:id="pbXI110"/>
+               <p>Aul dem gleichen Wege kann auf Klagen der Stände über verschwenderische Regierungen ein temporäres Sequester ihrer Länder eingeleitet werden.</p>
+
+               <p>-3'</p>
+
+               <p>Ks wird nach der Bevölkerung eine gewisse Normalgrösse eines deutschen Staates bestimmt, von welcher abhängt, ob die C&gt;ivilprozesse seiner Unterthanen sollen innerhalb desselben durch alle Instanzen gehen können.^ oder ob die höchste Instanz ausserhalb gesucht werden muss.^</p>
+
+               <p>24.</p>
+
+               <p>Derjenige Staat, welcher nicht gross genug ist, um drei Civil- instanzen in sich selbst zu begreifen, muss auch seine Criminal- unhel, sobald die erkannte Strafe einen zu bestimmenden Grad erreicht, einer fremden Revision unterwerfen.</p>
+
+               <p>Da kleinere Staaten schlechterdings nicht drei geschiedene, und gehörig besetzte Gerichtshöfe zu unterhalten im Stande sind, so ist diese Festsetzung durchaus noth- wendig, wenn Willkühr vermieden werden soll.</p>
+
+               <p>25Ein solcher Staat kann ferner keine das bisher in ihm bestehende (jvil- und Criminalrecht abändernde Verordnung ergehen lassen, ohne dieselbe demjenigen, an dessen höchste Gerichtshöfe er die Appellation zugeben muss, zur Genehmigung vorzulegen.</p>
+
+               <p>Die Rechtspflege und die Gesetzgebung stehen in so enger Verbindung mit einander, dass diese Bestimmung schlechterdings durch die vorige nothw^ndig gemacht wird.</p>
+
+               <p>26.</p>
+
+               <p>Wenn derjenige Staat, welchem andre in Absicht der Appel<pb n="11.111" xml:id="pbXI111"/>Um den kleineren Staaten auf eine bequeme und nicht kost- bare Weise eine h()chste Instanz zu verschallen, werden sie alle, nach ihrer geographischen Lage, einer jener vier grösseren Machte zugetheilt, welche alsdann jene Rechte über sie ausübt.</p>
+
+               <p>\'iel besser, als diese Einrichtung vvürc die Anordnung eines eignen (jerichtshofes für alle Fürsten, von deren Staaten aus an andre appellirt werden müssie, wie ein solcher ehemals vorhanden war. iMit diesem müsstc dann ein besonderer gesetzgebender Rath für ganz Deutschland verbunden seyn, dessen Aussprüche für jene kleineren Fürsten verbindend wären und dessen Gutachten auch die grosseren einholen könnten — ein Weg, auf welchem vielleicht nach und nach eine allgemeine Deutsche (Gesetzgebung zu Stande käme. Allein es ist sehr schwer, wenn kein Reichoberhaupt vorhanden ist, einem solchen Gerichtshöfe die gehörige (Konsistenz, Unabhängigkeit und Finheit zuzusichern. (3b dieser Gerichtshof mit demjenigen, von welchem oben (17.) die Rede war, und der eigentlich nur publizistische Fragen zu entscheiden haben würde, ver- bunden werden könnte? erfordert genauere, nicht hierher gehörende Untersuchung.</p>
+            </div>
+
+            <div type="section" n="15">
+               <head>
+                  <title type="main">Gesetzgebung.</title>
+               </head>
+               <p>In Rücksicht dieser würde ich, ausser dem schon im Vorigen (25. 27.) über die Civil- und Criminalgesetzgebung (Gesagten, nur folgende Bestimmungen aufzunehmen vorschlagen.</p>
+
+               <p>28.</p>
+
+               <p>Jedem l'nterthanen eines Deutschen Staates steht es frei, in einen andern deutschen Staat auszuwandern, und es kann ihm hierin keine Schwierigkeiten entgegengestellt, noch ein Abzug von seinem \'crmögen auferlegt werden.</p>
+
+               <p>Diese Freiheit ist die (Grundlage aller \'orzüge, welche der Deutsche für seine individuelle Fxistenz aus der Verbindung Deutschlands zu einem (Ganzen zu ziehen vermag.</p>
+
+               <p>2().</p>
+
+               <pb n="11.112" xml:id="pbXI112"/>
+               <p>Soist allgemein, und wird durch keine Bestimmung, auch nicht durch die. wenigstens eine gewisse Zeil auf einer inländischen gewesen /u seyn. beschränkt.</p>
+
+               <p>Die Gleichmässigkeit der Fortschritte der Geistesbildung in dem gesammten Deutschland hängt vorzüglich von dieser bYeiheit ab, die auch in politischer Rücksicht wesentlich nothwendig ist.</p>
+
+               <p>3' •</p>
+
+               <p>Die Deutschen Staaten schliessen einen, allen ihren gegenseitigen ^'e^kehr umfassenden Handelsvertrag, in welchem wenig- stens das Maximum aller Eingangs- und Ausgangszölle im Innern von einem Deutschen Staat in den andern bestimmt wird. Die darin gemachten Festsetzungen können nur gemeinschaftlich abgeändert werden.</p>
+
+               <p>Es liesse sich vielleicht auch in anderer Hinsicht ein Zusammenwirken der Deutschen Staaten in Finanz- und Handelsangelegenheiten denken, und alsdann könnte eine gemeinschaftliche deutsche Handels- und Finanzbehörde nützlich se3'^n, die es vielleicht möglich wäre, an den wegen der solidarischen Obligationen der Fürsten angeordneten Comit^, welcher ohnehin bis 1821 bestehen muss, anzu- schliessen.</p>
+
+               <p>«</p>
+
+               <p>Dies wären etwa meine, hier erst flüchtig hingeworfenen Vorschläge. Sie müssen aber nie vergessen, dass dieser ganze Aufsatz nur ein Versuch ist, zu zeigen, w^as noch geschehen kann, wenn einmal die Wiederherstellung einer Verfassung mit einem wahren Reichs-Oberhaupte, wie ich glaube, unmöglich ist. Könnte man dem Deutschen Reich ein Oberhaupt wiedergeben (welches aber, um nicht viel grössere Nachtheile herbeizuführen, genug Macht besitzen müsste, um sich des Gehorsams zu versichern, und genug Achtung, um nicht zur Eifersucht und zum Widerstände zu reizen), so müssten freilich die meisten Dinge anders gerichtet werden, als hier gesagt ist. Denn alsdann müssten dem Ober<pb n="11.113" xml:id="pbXI113"/>X.W'lll. An (icnl/ über die Deutsche \'e rl'ass u n^. (Abschrift im Geh. Sualsarchiv.) l'Ycyburg, d. 4. Januar 1.S14.</p>
+
+               <p>Sic wissen, liebster bYeund, dass ich meine Vorschlüge zu einer künftigen deutschen Verfassung vorzüglich deswegen aufgesetzt habe, damit etwas vorhanden wäre, woran sich andere Ideen, sollten sie auch die meinigen umstürzen, anschliessen könnten. Man macht leichter Bemerkungen zu einem fremden Aufsatz, als man sich zu einem eignen entschliesst. Niemand kann daher über den Inhalt seiner Arbeiten nachgiebiger sein, als ich über diese \'orschläge, nur das kann ich Ihnen nicht zugestehen, dass die- selben unausführbar sein sollten.</p>
+
+               <p>Denn was den ersten Punkt betrilVt, dass Bayern und Hannover sich nicht würden von dem Recht über Krieg und Frieden zu stimmen, ausschlicssen lassen; so könnte diese Schwierigkeit leicht dadurch gehoben werden, dass man sie an diesem Rechte Theil nehmen Hesse, ob ich gleich dies nicht ganz billigen würde. Unbequemlichkeit aber könnte daraus wenig erwachsen, da F^ngland, welches mit Hannover zusammen fällt, doch immer seine Stimmen dabei haben würde, und Bayern, wenn es auch, dem Namen nach, mitspräche, sich dennoch den grösseren Mächten fügen müsste.</p>
+
+               <p>Den Widerspruch der mittlem und kleinern deutschen 1^'ürsten würde ich nicht sehr hoch achten. Sie haben nie eine uneingeschränkte Souveränität gehabt, nicht unter dem deutschen Reiche, nicht der Rheinbundsakte nach (in der Ausübung haben sie sich gefallen lassen, willkürlich behandelt zu werden, um wieder willkürlich zu behandeln) nicht in unseren Traktaten, die eine ganz unbedingte (Klausel enthalten.") Ihre anfängliche l'nzufriedenheit würde sich mit der Zeit geben und nicht zu laut werden dürfen, da ihre Intcnhanen und Landständc durchaus für das neue Svsiem sein würden. Die Kinschränkungcn sind überdies für die nicht<pb n="11.114" xml:id="pbXI114"/> keiten mit andern deutschen Inirsten einem Schiedsrichter unterwerfen, und ständische Rechte respektiren müssen, die doch nur zu leicht umgangen werden können.<note type="footnote" n="*)" resp="gnd-116890657"><hi>In den mit Jen einzelnen deutschen Fürsten, die der pro/Jen Allijnz beitraten, zu Frankfurt abgeschlossenen Acccssionsverträgen, war die ausdrückliche Bestimnuing aufgenommen, daß der neue Bundesgenosse dasjenige im voraus</hi></note></p>
+
+               <p>In den Punkten endlich, die ganz allgemein eingeführt werden sollten, Hessen sich mehrere Modifikationen machen.</p>
+
+               <p>Ich liiugne jedoch nicht, dass es allerdings Schwierigkeit kosten würde, die Sache zuerst durchzusetzen. Allein Deutschland leidet an einer grossen Krankheit, welche man, ohne einiges Schneiden^ nie heilen wird, und keine grosse Unternehmung ist je ohne den Krnst und die Strenge zu Stande gebracht worden, welche derjenige, dessen ungerechter Willkür man Schranken setzt, Härte nennt.</p>
+
+               <p>Gehe ich aber ganz von meinen Ideen ab, und bleibe bei ihrem Grundsatz, dass der zu bildende Staaten- Verein nur unter gleichen Fürsten bestehen darf, so fällt erstlich alle Möglichkeit, einen besseren innern Zustand in den einzelnen deutschen Ländern hervorzubringen, hinweg. Dies ist aber nicht blos die Entbehrung eines A'ortheils, sondern man begeht, wenn man dies gestattet, eine wahre Ungerechtigkeit. Die Rechte der Einzelnen waren in Deutschland durch Gesetze, die oft, w^enn auch nicht immer Kraft hatten, gesichert; fremde Gewalt hat nicht blos dies zerstört, sondern eine Menge von Fürsten selbst zu Unterthanen gemacht. Die gebliebenen Fürsten und ihre Regierungen sind durch diesen gewaltsamen und ungesetzlichen Zustand selbst zu Prinzipien und Maximen gekommen, welche ihnen in dem alten (Reich) ganz fremd waren. Wird diesem Zustand kein Ende gemacht, so entsteht daraus, wie schon jetzt zum Theil entstanden ist, völlige Verderb- niss desjenigen Charakters, welchen Regierungen und Unterthanen haben sollten, und so geht auch der Geist verloren, auf welchem, wie die neuern Ereignisse genug gezeigt haben, die Erhaltung der Staaten wirklich beruht.</p>
+
+               <p>Beschränkt man sich aber auch nur auf äussere Venheidigung, so würden, soviel ich einsehe, nach Ihrer Idee freie Allianz- Traktate mit den deutschen Fürsten geschlossen werden müssen, und man thäte auf schiedsrichterliche Garantie, allgemeinen Ge- richtshof und s. f. Verzicht. Enthielten nun diese Traktate<pb n="11.115" xml:id="pbXI115"/> N'ercin so locker vvi'irc, dass, wenn auch der Hauptzweck noch erfülh werden könnte, man kaum sagen könnte, dass ein Deutsch- land vorhanden sei. In jedem Falle auch würde alsdann, wo die ein/einen P'ürsten eine sehr grosse, um nicht zu sagen unein- geschränkte (jewalt behielten, ihre Zahl beträchtlich vermindert werden müssen, und wie man dies einrichten möchte, sei es durch neue Mediatisirung oder wie es, so viel ich weiss, Ihre Idee ist, durch Zusammenschlagen der Linien derselben Häuser und Unterordnen unter eine derselben (was, im \'orbeigehen gesagt, sie vielleicht noch mehr kränken würde, da die Kifersucht immer gegen die Nächsten am grossesten ist,) so weiss ich nicht, ob diese Massregcln nicht viel häner scheinen, und viel mehr I'nzu- friedenheit hervorbringen würden.</p>
+
+               <p>Ich kann Sie indess nicht genug bitten, Ihre Ideen, die ich gewiss zu unvollständig übersehe, ausführlich und bestimmt aufzusetzen. Ks wäre dies um so wichtiger, als Sie wirklich im Prinzip von mir abweichen und durch Ihren und meinen Aufsatz die beiden, wenn man von der Herstellung der Kaiserwürde ab- strahirt, einzig möglichen Systeme erschöpft werden. Denn es lässt sich nur entweder eine wirkliche N'erfassung mit einem (Jbcrhauptc, oder ein Staatenverein, dessen Verfassung ohne Oberhaupt durch ursprünglich freie, aber hernach auf immer bindende Traktate gegründet wird; oder endlich eine \'erbindung, ohne alle \'erfassung, durch bloss freie Allianz -Traktate, wie ganz unabhängige Mächte sie schliessen, und deren Auflösung, wenn sie auch von der andern Seite rechtmässigen Krieg hervorbringen könnte, doch nie gesetzwidrig heissen dürfte, denken.</p>
+
+               <p>Die letzte Alternative ist, soviel ich einsehe, diejenige, welche Ihren Ideen entspricht.</p>
+
+               <p>Als eine Ausführung der zweiten müssen Sie meinen Aufsatz ansehen, und insofern jeder Plan zu einer \'erfassung in sich Mittel enthalten muss, auf welche ihre Dauer berechnet ist, so liegen diese Mittel bei meinem Plane darin,</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

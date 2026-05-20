@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dritte olympische Ode</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Achter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif08humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1909">1909</date>
+                  </imprint>
+                  <biblScope unit="page" from="27" to="32"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1792">1792</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="8.27" xml:id="pbVIII27"/>
+            <head>
+               <title type="main">5« Dritte Olympische Ode.</title>
+            </head>
+            <p>An Theron, aus Akragas.</p>
+
+            <p>I. Strophe.</p>
+
+            <p>Den Tyndariden und der schönlokkigen Helena zu gefallen streb' ich, und weihe, preisend die herrliche Akragas, Therons Sieg den 5 Hymnos, den blühenden Schmuk^) der Rosse mit unermüdeten Füssen. Da2u hilft mir in neuer, niebewunderter Weise freundlich die Muse mit dem Dorischen Rhythmos die festeschmükkende Stimme</p>
+
+            <p>I. Antistrophe. lo zu gatten. Der Kranz, welcher des Reigens Haar wehend umflattert, heischt von mir diese Schuld, die wechselndertönende, göttliche Leier, und der Flöten lautschallende Stimme 15 in des Gesangs harmonische Fügung schön für Aenesidemos Sohn zu flechten. Es fordert Pisa mich auf, woher die Sterblichen göttergesandte Hymnen besuchen; Handschrift: Reinschrift (vgl. oben S. 2) S. 29—^4. Außerdem ist ein Entwurf fj Quartseiten) erhalten. — Erster Druck (ohne die Anmerkungen): Wilhelm von Humboldts Gesammelte Werke 2, 27/ — 27J (1841)V Im Entwurf: „den Kranz".</p>
+
+            <pb n="8.28" xml:id="pbVIII28"/>
+            <p>1. Epode. wem, vollbringend Herakles alte Befehle, 2o wahrheitliebenden Sinnes, der Aetolische Mann, der Richter des Kampfes, Haar und Stirn mit des wilden Oelbaums grünlichem Schmuk umwindet. Diesen brachte zu des Olympischen Sieges 25 nimmer verwelkendem Denkmal einst der Amphitryonide von des Isters düsterumschatteten Quellen.</p>
+
+            <p>2. Strophe. Vom Diener Phoibos, H3'perboreens Volk, fordert' er, seiner Spiele 30 treu eingedenk, Zeus wirthlicher Stätte den schattigen Baum, der Menschen Ehre, die Ivrone der Tugend. Denn auf des Vaters heiliggev^eihten Altar hatte schon, in des Monats Hälfte, von 35 goldnem Wagen Selene, mit dem stralenden Auge des Abends, voll ihm geschimmert;</p>
+
+            <p>2. Antistrophe. und an Alpheos lieblichem Felsenhang hatte er schon der hohen, fünfjährgen Spiele heilig Gericht bestellt. 40 Aber noch grünten nicht in Kronions Tiefen, geschmükt mit luftigen Bäumen, Pelops Gefilde, und er sähe die nakte Flur dem stechenden scharfen Strahle dei Sonne dienstbar. Fern zu der 45 Istrier Gränzen trieb ihn sein Muth zu</p>
+
+            <p>2. Epode. wandern; da, wo, als er Arkadiens Nakken, und das vielfachgewundne Thal verlassen, ihn Lätos Tochter empfieng, die rossefreuende Göttin. 50 Denn Zeus eherner Wille zwang ihn, Eurystheus gehorchend, die Hindin mit goldnen</p>
+
+            <pb n="8.29" xml:id="pbVIII29"/>
+            <p>Hörnern im Lauf zu ereilen, sie die Taygeta einst zum heiigen Eigenthume Orthosien weihte.</p>
+
+            <p>3. Strophe. 55 Diese verfolgend, sah er uch jenes Land, hinter des Nordens kaltem</p>
+
+            <p>Hauch. Dort erblikt' er staunend den Schattenhain, und es ergriff ihn süsse Lust um der Rennbahn der Rosse 60 zwölfmalumlenktes Ziel ihn zu pflanzen.</p>
+
+            <p>Aber jezo besucht' er gnädig schauend diess</p>
+
+            <p>Fest, begleitet vom göttergleichen Zwillings Paare der hochgegürteten Leda.</p>
+
+            <p>3. Antistrophe.</p>
+
+            <p>Denn ihm vertraut' er, gehend zum Himmel, der 65 herrlichen Spiele Pflege, des Kampfes um der Tugend der Männer Preis, und der Gespanne leicht dem Ziele zurollendes Eilen. Mich aber treibt zu singen mein Herz, wie 70 Therons Haupt und der Emmeniden Tyndaros</p>
+
+            <p>Heldensöhne umkränzt,^) die sie mit wirthlicher Tafel vor allen Sterblichen ehren,</p>
+
+            <p>3. Epode. frommen Sinnes der Seigen Opfer bewahrend. Wenn das Edelste Wasser 75 ist, und mehr als ein andres Kleinod das Gold strahlt; so erreicht, zu der Menschheit Gränze jezt sich durch Tugend schwingend, Theron nun vom Heerde der Väter Herakles</p>
+
+            <p>Säulen. Darüber ists beiden, 80 Weisen und Thoren, unwegsam.</p>
+
+            <p>Ich versuch' es nimmer. Es wäre vergebens.<note type="footnote" n="*)" resp="gnd-116890657"><hi>V „zu — umkränzt" verbessert aus „mein Herz zu Gesängen! Therons Sieg und der Emmeniden preis' ich, den Tyndars Söhne verliehn".</hi></note></p>
+
+            <pb n="8.30" xml:id="pbVIII30"/>
+            <div type="section" n="1">
+               <head>
+                  <title type="main">Anmerkungen.</title>
+               </head>
+               <p>V. I. 2. Den Tyndariden und der schönlokkigen Helena) Hercules übertrug den Tyndariden die Aufsicht über die Olympischen Spiele, und aus diesem Grunde, und weil dieselben in Agrigent, welches Theron beherrschte, und im Peloponnes, woher seine Vorfahren stammten, vorzüglich verehrt wurden, erwähnt Pindar hier ihrer und ihrer Schwester. - 7. neuer — Weise) Aus dieser Stelle scheint es als habe diese Ode einen ganz eignen neuen Rhythmus gehabt, wovon wir aber, da sich überhaupt wenig Kenntniss der Musik der Alten erhalten hat, nichts mehr wissen. - 16. Aenesidemos Sohn) Theron. - ig. Herakles) als Stifters der Olympischen Spiele. - 21. der Aetolische — Kampfes) Oxylus, ein Aetolier, zeigte den Heracliden den Weg in den Peloponnes, und erhielt dafür die Herrschaft von Elis, so dass er die Eleer und Aetolier vereinte, und der Aetolische Mann ebensoviel ist, als der Eleische. Dieser Oxylus war auch Kampfrichter zu Olympia. Denn anfangs war nur Ein Richter bei den Spielen. Erst seit der 50. Olympiade wurde ihre Zahl vermehrt. - 28. Vom Diener — Volk) Die Hyperboreer, die nördlichsten</p>
+
+               <p>Völker, welche die Griechen kannten. Sie verehrten, wie man sagte, vorzüglich den Apoll und sandten jähr- lich geheimnissvolle in Weizenähren eingewikkelte Geschenke, die niemand ansehen durfte, nach Delphi. Diese Geschenke giengen nemlich von benachbartem Volk zu benachbartem, durch die Hände der Arimaspen, Issedonier, Scythen, Sinopenser, Prasienser und Athener und kamen so nach Delphi. C/. Hermanns Mythol. d. Lyr. S. 124. nt 242. - 29. fordert er) Ich habe airei von aireio abgeleitet, weil es an sich grammatisch möglich ist, einen guten Sinn giebt, und die Construction leichter macht, als wenn man alles bis V. 32. von dem hsLxev v. 25. abhängen lässt. - 30. eingedenk) Iliorcc cpQovecov scheint mir soviel als Uiarbg löv zu sein, und absolut zu stehn. Die Idee der Treue ist hier sehr passend, da Hercules auch auf seinen Zügen<pb n="8.31" xml:id="pbVIII31"/> der Olympischen Spiele nicht vergass. Aehnlich ist das Homerische ^i]Ö€a etdcbg. ?/. 31. 32. der Menschen Ehre) Ewbv ävd-Qcortoig. Ich über-- seze das den Menschen gemeinschaftlich ist, d. i. das unter die Menschen kommt, d. i. das berühmt ist, oder Ruhm bringt. Eben so steht Ol. 7. v. 38. Swbv Xöyov und dort erklären es die Scholiasten auf eben diese Weise.</p>
+
+               <p>Der ältere uiors ^vvwoai, -/mI tiüolv ävd-QcoTtoig eig fiioov äyayslv. Der Neuere -/.olvov ticcolv avd^qcjTtoig Xöyov gerade wie hier steht. Heynes propter tnnbram versteh ich nicht. - 33. Denn auf des — geschimmert) Es war schon eine Feier der Olympischen Spiele gewesen. Pindar beschreibt diese nach der Zeit, da sie gehalten wurden, nemlich den ersten Tag nach dem Vollmond, am \^^ folglich in der Hälfte des Monats. - 36. Auge des Abends) Ich verbinde "Eoneqag ocp^al^iöv. So nennt Aeschylus in den Sieben vor Theben v. 392. den Mond vvATog öcpS-al^iög. - 39. fünljährgen) Eine Olympiade hielt zwar nur 4, aber</p>
+
+               <p>4 volle Jahre, und weil die Spiele nach Ablauf dieser vier Jahre, also im fünften gefeiert wurden, heissen sie auch bisweilen fünfjährig. - 40—42. in Kronions — Gefilde) Ich verbinde xf^Qos mit</p>
+
+               <p>UeloTTog und ßdooaig mit KqovLov, da sonst ßdooaig so absolut und ohne alles Beiwort steht. - 42. Pelops Gefilde) Weil Pelops mit Hippodamien, seiner</p>
+
+               <p>Gattin, Elis erhielt. S. Ol. i. v. 108 — 151. und Ol. 9. V. II — 16. - 45. Istrier Gränzen) Scythien. - 46 — 49. Da wo, als — Göttin) Diana hatte nemlich dort einen Tempel. - 50—52. Denn Zeus — ereilen) Als Eurystheus und Hercules beide der Geburt nah waren, Hess sich Juno vom Jupiter versprechen, dass der frühergeborene dem Späteren gehorchen solle, und machte darauf, als geburtshelfende Göttin, dass Eurystheus später zur Welt kam. Daher Hercules Gehorsam gegen ihn. Eurystheus gab dem Hercules seine Befehle nicht unmittelbar, sondern aus Furcht durch Boten. Daher hiesse es genauer: auf Eurystheus Bothschaft.<pb n="8.32" xml:id="pbVIII32"/> v. 53. 54. sie die — weihte) Taygeta, eine Tochter des Atlas, wurde von Dianen, um dem Jupiter, der sie verfolgte, 2u entgehn, in eine Hirschkuh verwandelt, und erhielt nachher gleichfalls durch sie ihre vorige Gestalt wieder. Zur Dankbarkeit weihte sie der Göttin eine Hirschkuh mit vergoldeten Hörnern, die hernach Hercules fieng. Orthosia, Diana, nach einem Berge Orthosion in Arcadien. - 60. zwölfmalumlenktes Ziel) Bei jedem Wagenrennen musste die Rennbahn mehreremale zurükgelegt werden, und der Sieg beruhte vorzüglich darauf, dass man so dicht, als immer möglich, um das Ziel herum lenkte. Beim Wagenrennen mit Füllen wurde die Rennbahn acht-, mit ausgewachsenen Pferden zwölfmal zurükgelegt. - 62. 63. begleitet — Leda) den Dioscuren, welchen, wie schon oben gesagt, Hercules die Aufsicht der Olympischen Spiele vertraut hatte. - 70. Therons) Diess ist eben der Theron, an den auch die</p>
+
+               <p>2. Olympische Ode gerichtet ist. Auch feiert diese Ode denselben Sieg. - 70. Emmeniden) Der Name der Zunft in Agrigent, aus welcher Theron stammte. - 71. 72. die sie — ehren) Diese vorzügliche Feier der T3^ndariden in Therons Hause und Zunft muss man aus einem der v. i. 2. erwähnten Gründe erklären. - 78. vom Heerde der Väter) omod'Ev. Die Scholiasten erklären diess: durch eigenerworbenen Ruhm. Allein diese Erklärung scheint mir weder dem griechischen Ausdruk, noch dem Sinne angemessen. Ich halte dieses Wort vielmehr für einen Zusaz, womit Pindar das Bild der Grösse Therons verstärkt. Von seinem Hause an reicht Theron an das Ende der Welt. - 78. 79. Herakles Säulen) Als Hercules auf seinem Zug gegen den Gerj^on an die Meerenge zwischen Spanien und Africa kam, wollte er seine Fahrt fortsezen, fand aber Dunkel und Chaos dahinter, und stellte zwei Säulen auf, um damit anzudeuten, dass dort das Ende des be- schiffbaren Meeres sei.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

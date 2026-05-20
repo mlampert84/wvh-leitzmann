@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Über den Einfluß des verschiedenen Charakters der Sprachen auf Literatur und Geistesbildung</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Siebenter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif0702humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1907">1907</date>
+                  </imprint>
+                  <biblScope unit="page" from="640" to="644"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="7.640" xml:id="pbVII640"/>
+            <head>
+               <title type="main">i8. Ueber den Einfluss des verschiedenen Charakters</title>
+            </head>
+            <div type="section" n="1">
+               <head>
+                  <title type="main">der Sprachen auf Literatur und Geistesbildung.</title>
+               </head>
+               <p>Dass eine Sprache bloss ein Inbegriff willkührlicher, oder zufällig üblich gewordener Begriffszeichen sey, ein Wort keine andre Bestimmung und Kraft habe, als einen gewissen, ausser ihm entweder in der Wirklichkeit vorhandenen, oder im Geiste gedachten Gegenstand zurückzurufen, und dass es daher gewissermassen als gleichgültig angesehen werden könne, welcher Sprache sich eine Nation bediene, sind Meynungen, die man wohl bei niemanden mehr voraussetzen darf, welcher der Natur der Sprachen auch nur einiges Nachdenken gewidmet hat. Man kann vielmehr als all- gemein anerkannt annehmen, dass die verschiedenen Sprachen die Organe der eigenthümlichen Denk- und Empfindungsarten der Nationen ausmachen, dass eine grosse Anzahl von Gegenständen erst durch die sie bezeichnenden Wörter geschaffen werden, und nur in ihnen ihr Daseyn haben (was sich in der Art, wie sie im Worte gedacht werden, und im Denken durch Sprache auf den Geist wirken, eigentlich auf alle ausdehnen lässt), dass endlich die Grundtheile der Sprachen nicht willkührlich, und gleichsam durch Verabredung entstanden, sondern aus dem Innersten der Menschennatur hervorgegangene, und sich (man könnte hinzusetzen : als gewissermassen selbstständige Wesen in einer bestimmten Persönlichkeit) erhaltende, und forterzeugende Laute sind. Allein über die Natur des Einwirkens der Sprache auf das Denken, die Andeutung derjenigen unter ihren Eigenschaften, auf welchen es eigentlich beruht, die Festsetzung der Erfordernisse in ihr, wenn ■darin ein solcher, oder solcher Grad erreicht werden, oder diese,</p>
+
+               <p>Handschrift (4 halbbeschriebene Folioseiten} im Archiv in Tegel.<pb n="7.641" xml:id="pbVII641"/> oder jene bestimmte Verschiedenheit des Denkens hervorgebracht werden soll, über die Abhängigkeit, oder Unabhängigkeit in der sich die Nation zu ihrer Sprache befindet, die Macht, die sie über dieselbe ausüben kann, oder den Zwang, den sie von ihr erleiden muss, liegt das Feld der Forschung noch offen, und man darf, wenn man auf diese Fragen eingeht, eher besorgen, ein wenig zugängliches, als ein schon zu oft durchwandertes Gebiet zu betreten.</p>
+
+               <p>Es ist der Zweck der gegenwärtigen Arbeit, diese Unter- suchung vorzunehmen, und so weit, als nothwendig und möglich scheinen wird, fortzuführen, dabei ebensowohl rein betrachtend, und in die Natur der Sprache überhaupt eindringend, als geschichtlich durch Prüfung der bedeutendsten wirklich vorhandenen Sprachen zu verfahren, und auf diese Weise dahin zu gelangen, den Einfluss des verschiedenen Charakters der Sprachen (welchen genau festzustellen schon an sich keine leichte Aufgabe ist) auf Literatur und Geistesbildung zu bestimmen.</p>
+
+               <p>Wenn die Grammatik und Wörterlehre als die Zergliederung der Sprachen gelten können, so werden wir hier gleichsam auf ihre physiologischen Functionen geführt; erkennen, wie ihre Be- standtheile einzeln, und zusammen wirken, und wie sich daraus und dadurch ihr organisches Leben gestaltet. Denn ein solches kann den Sprachen nicht abgesprochen werden. Die Geschlechter vergehen, aber die Sprache bleibt; jedes findet sie schon vor, und stärker und mächtiger, als es selbst ist, ergründet sie nie ganz, und hinterlässt sie dem nachfolgenden; ihr Charakter, ihre Eigen- thümlichkeit lässt sich nur durch die ganze Reihe der Geschlechter hindurch erkennen, aber sie verbindet sie alle, und alle stellen sich in ihr dar; man sieht, was sie einzelnen Zeiten, einzelnen Männern verdankt, aber was alle ihr schuldig sind, bleibt immer unbestimmbar. Im Grunde ist die Sprache, nicht wie sie in fragmentarischen Lauten und Werken auf die Nachwelt kommt, sondern in ihrem regen, lebendigen Daseyn, nicht auch die äussere bloss, sondern zugleich die innere, in ihrer Einerleiheit mit dem durch sie erst möglichen Denken, die Nation selbst, und recht eigentlich die Nation. Denn was ist die Sprache anders, als die Blüthe, zu der Alles in des Menschen körperlicher und geistiger Natur zusammenstrebt, in der sich Alles sonst Unbestimmte und Schwankende erst gestaltet, und die feiner und aetherischer, als die immer tiefer mit Irrdischem vermischte That ist.»* Sie ist aber ebenso die Blüthe</p>
+
+               <p>W. V. Humboldt, Werke. VII. 4I<pb n="7.642" xml:id="pbVII642"/> des Organismus der ganzen Nation. Denn der Mensch kann sie ebensowenig allein hervorbringen, als bloss von andern empfangen, und das Geheimniss ihres Ursprungs beruht auf dem Geheimniss einer getrennten, und doch in höherem Sinne wieder unläugbar verbundenen Individualität.</p>
+
+               <p>Bei der Untersuchung des Einflusses der Sprachen auf die Nationen scheint es vielleicht sonderbar, gerade der Literatur zu erwähnen, die oft bloss ein künstUches, nicht von selbst, und durch die Begeisterung der eignen Sprache aus ihr hervorgehendes Werk ist. Ein Volk gewährt im häuslichen und öffentlichen Leben, auch wenn es nie nur zu einem Anfange von Literatur gelangte, viel merkwürdigere Erscheinungen, und grössere Energien, die gewiss nicht minder unter dem Einfluss der Sprache stehen, und diese geht meistentheils nur geschwächt und arm gemacht in Schriften und Bücher über, indess sich ihr voller Strom kräftig und sinnvoll durch die tägliche Rede des Volkes ergiesst. Die Bildung einer Literatur gleicht der Bildung der Verknöcherungs- punkte in dem alternden menschlichen Körperbau, und von dem Augenblick an wo der frei in Rede und Gesang ertönende Laut in den Kerker der Schrift gebannt wird, geht die Sprache erst angeblicher Reinigung, dann ihrer Verarmung, und endlich ihrem Tode zu, wie reich und weitverbreitet sie se3^n möge. Denn der Buchstabe wirkt erstarrend auf die noch einige Zeit frei und mannigfaltig neben ihm fortbestehende gesprochene Rede zurück, drückt seine ungebundneren Ausbrüche, seine vielfachen Formen, seine jede kleinste Nuance bildlich bezeichnenden Modificationen durch seine Vernehmlichkeit zur Volkssprache herunter, und duldet bald nichts mehr um sich, als was ihm gleich ist. Allein auf der andren Seite ist dies ein unvermeidliches, nur daher entspringendes Uebel, dass die Sprache mit allem übrigen Irrdischen ein vergäng- liches Daseyn theilt. Denn wenn die Schrift sie nicht heftet, wenn die Gegenwart nichts hat, als die immer dunkle und schwankende Ueberlieferung um die Töne der Vorwelt zu vernehmen, so wnrd kein Fortschritt festgehalten, und alles läuft in einem dem Zufall allein überlassenen Kreisgang durch einander. Auch gehören selten in der Weltgeschichte wiederkehrende Verknüpfungen von Umständen dazu, wenn es einer Sprache, da sie aus der Alltagsrede des Volks in ein abgeschiedneres Gebiet der Ideen geborgen wird, nicht an Reinheit, Adel, und Würde fehlen soll. Ohne also, was gewiss sehr irrig wäre, das Dasej'n, oder den Mangel einer Literatur<pb n="7.643" xml:id="pbVII643"/> gerade als das Kennzeichen anzusehen, das den Einfluss der Sprachen auf die Geistesbildung bestimmte, kann man doch bei einer Untersuchung, wie die gegenwärtige, nicht nur die Literaturen der Nationen nicht übergehen, sondern muss sogar dabei anfangen, das Augenmerk auf sie zu richten, da sie allein feste und sichere Formen abgeben, in welchen sich der Einfluss der Sprachen ausprägt, und durch die man ihn sicher beweisen kann. Zugleich aber muss man allerdings frei von aller, dem Sprachforscher gerade am wenigsten geziemenden Geringschätzung solcher Sprachen seyn, die vermuthlich nie eine Literatur besessen haben, noch besitzen werden, und kann gewiss aus ihnen einen grossen und mächtigen Nutzen auch für diese Untersuchung ziehen. Denn eine unparthei- ische Prüfung wird zeigen, dass auch scheinbar dürftige und rohe Sprachen reichlichen Stoff zu feiner und vielseitiger Bildung in sich tragen, der darum, dass er nicht durch Schriften wirklich ausgebildet wird, nicht ohne Wirkung auf die Sprechenden bleibt. Denn da das menschliche Gemüth die Wiege, Heimath und Wohnung der Sprache ist, so gehen unvermerkt, und ihm selbst verborgen, alle ihre Eigenheiten auf dasselbe über. Auf den hier angedeuteten Einfluss der Schrift auf die Sprache, der übrigens auch schon vielfältig, vorzüglich bei Gelegenheit der Aufzeichnung der Homerischen Gesänge, bemerkt worden ist, werden wir in der Folge noch besonders zurückkommen. Der Gang mancher Sprachen lässt sich bloss durch diese Wanderung aus Volks- in Schriftsprache erklären, und wenn man Montaigne mit Voltaire vergleicht, sollte man meynen, die Sprache einer Nation sey in die eines Stadtzirkels übergegangen.</p>
+
+               <p>Es giebt noch immer, und nicht wenige Menschen, welche, die Sprache doch mehr für ein gewissermassen in sich gleich- gültiges Werkzeug haltend, alles, was man von ihrem Charakter behauptet, dem Charakter der Nation beilegen. Für diese wird in dieser ganzen Untersuchung immer etwas Schiefes liegen, und nach ihnen wird hier nicht vom Einfluss der Sprachen, sondern vom Einfluss der Nationen auf ihre eigne Literatur und Bildung die Rede seyn. Man kann, um diese Ansicht zu widerlegen, auf die Thatsache aufmerksam machen, dass doch gewisse Sprachformen dem Geist unläugbar eine gewisse Richtung geben, und ihm einen gewissen Zwang auflegen, und dass, um in einer wortreichen und wortarmen dieselben Ideen auszudrücken, man doch wenigstens einen verschiedenen Gang gehen, und also wenigstens<pb n="7.644" xml:id="pbVII644"/> Vorzüge mit Vorzügen vertauschen muss, was unmöglich ohne allen ferneren Einfluss bleiben kann. Man kann hernach ferner zeigen, dass ....</p>
+
+               <p>Diese unvollendete Abhandlung, die wohl für den Vortrag in einer Sitzung der berliner Akademie bestimmt gewesen sein dürfte, gehört nach Wasserzeichen und äußerem Charakter der Handschrift in das Jahr 1821, also etwa in dieselbe Zeit, in der auch die Vorlesung über die Aufgabe des Geschichtschreibers entstanden ist. So bildet sie ein Bindeglied zwischen Humboldts erster sprachwissenschaftlicher Arbeit der Altersmuße über das vergleichende Sprachstudium einerseits und den Abhandlungen über das Entstehen der grammatischen Formen und über den Nationalcharakter der Sprachen andrerseits.</p>
+
+               <p>Jakob Grimms brieflicher Dank für die Übersendung der Vorlesung über das Entstehen der grammatischen Formen (Band 4, 285. 439), höchst charakteristisch für den Gegensatz der wissenschaftlichen Methoden beider Forscher, ist inzwischen im Anzeiger für deutsches Altertum jo, 150 von mir veröffent- licht worden.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

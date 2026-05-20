@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Über Denken und Sprechen</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Siebenter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif0702humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1907">1907</date>
+                  </imprint>
+                  <biblScope unit="page" from="581" to="583"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="7.581" xml:id="pbVII581"/>
+            <head>
+               <title type="main">lo. über Denken und Sprechen.</title>
+            </head>
+            <p>1. Das Wesen des Denkens besteht im Retlectiren, d. h. im Unterscheiden des Denkenden von dem Gedachten. 2. Um zu reflectiren, muss der Geist in seiner fortschreitenden Thätigkeit einen Augenblick still stehn, das eben Vorgestellte in eine Einheit fassen, und auf diese Weise, als Gegenstand, sich selbst entgegenstellen. 3. Die Einheiten, deren er auf diesem Wege mehrere bilden kann, vergleicht er wiederum unter einander, und trennt und ver- bindet sie nach seinem Bedürfniss. 4. Das Wesen des Denkens besteht also darin Abschnitte in seinem eignen Gange zu machen; dadurch aus gewissen Portionen seiner Thätigkeit Ganze zu bilden; und diese Bildungen einzeln sich selbst unter einander, alle zusammen aber, als Objecte, dem denkenden Subjecte entgegenzusetzen. 5. Kein Denken, auch das reinste nicht, kann anders, als mit Hülfe der allgemeinen Formen unsrer Sinnlichkeit geschehen; nur in ihnen können wir es auffassen und gleichsam festhalten. 6. Die sinnliche Bezeichnung der Einheiten nun, zu welchen gewisse Portionen des Denkens vereinigt werden, um als Theile andern Theilen eines grösseren Ganzen, als Objecte dem Subjecte gegenübergestellt zu werden, heisst im weitesten Verstände des Worts: Sprache. 7. Die Sprache beginnt daher unmittelbar und sogleich mit dem ersten Act der Reflexion, und so wie der Mensch aus der Dumpfheit der Begierde, in welcher das Subject das Object verHandschrift (4 halbbeschriebene Quartseiten, ohne Titel) in der Königlichen Bibliothek in Berlin.<pb n="7.582" xml:id="pbVII582"/> 582 schlingt, zum Selbstbewusstseyn erwacht, so ist auch das Wort da — gleichsam der erste Anstoss, den sich der Mensch selbst giebt, plötzlich still zu stehen, sich umzusehen und zu orientieren.</p>
+
+            <p>8. Der Sprache suchende Mensch sucht Zeichen, unter denen er, vermöge der Abschnitte, die er in seinem Denken macht, Ganze als Einheiten zusammenfassen kann. Zu solchen Zeichen sind die unter der Zeit begriffenen Erscheinungen bequemer, als die unter dem Räume.</p>
+
+            <p>9. Die Umrisse ruhig neben einander liegender Dinge vermischen sich leicht vor der Einbildungskraft, vv^ie vor dem Auge. In der Zeitfolge hingegen schneidet der gegenwärtige Augenblick eine bestimmte Gränze zwischen dem vergangenen und zukünftigen ab. Zwischen Seyn und Nicht mehr seyn ist keine Verwechselung möglich. 10. Das Auge unmittelbar und für sich allein würde keine anderen Gränzen, als zwischen verschiedenen Farben, nicht aber durch die Umrisse zwischen verschiedenen Gegenständen bestimmen. Es kommt zu dieser Bestimmung nur entweder durch die tastende, also in einer Zeitfolge den Körper umgleitende Hand, oder durch die Bewegung, mit welcher ein Gegenstand sich von dem anderen losreisst. Auf das eine oder andre bauet dasselbe nachher alle seine analogischen Schlüsse.</p>
+
+            <p>11. Die schneidendsten unter allen Veränderungen in der Zeit sind diejenigen, welche die Stimme hervorbringt. Sie sind zugleich die kürzesten, und aus dem Menschen selbst mit dem Hauche, der ihn belebt, hervorgehend, und augenblicklich verhallend, bei weitem die lebendigsten und erweckendsten. 12. Die Sprachzeichen sind daher nothwendig Töne, und nach der geheimen Analogie, die zwischen allen Vermögen des Menschen ist, musste der Mensch, sobald er deutlich einen Gegenstand als geschieden von sich erkannte, auch unmittelbar den Ton aussprechen, der denselben bezeichnen sollte. 13. Dieselbe Analogie wirkte weiter fort. Als der Mensch Sprachzeichen suchte, hatte sein Verstand das Geschäft zu unterscheiden. Er bildete ferner dabei Ganze, die nicht wirkliche Dinge, sondern Begriffe, also eine freie Behandlung, abermalige Trennung und neue Verbindung, zulassend, waren. Diesem ge- mäss wählte also auch die Zunge artikulirte Töne, solche die aus<pb n="7.583" xml:id="pbVII583"/> Elementen bestehen, welche vielfache neue Zusammensetzungen erlauben.</p>
+
+            <p>14. Solche Töne giebt es sonst in der ganzen übrigen Natur nicht, weil niemand, ausser dem Menschen, seine Mitgeschöpfe zum Verstehen durch Mitdenken, sondern höchstens zum Handeln durch Mitempfinden einladet.</p>
+
+            <p>15. Der Mensch nimmt daher keinen einzigen Naturlaut, roh wie er ist, in seine Sprache auf, sondern bildet immer nur einen demselben ähnlichen artikulirten.</p>
+
+            <p>16. Er unterscheidet sogar sein eignes Empfindungsgeschrei gar sehr von der Sprache ; und hierin leitet die Empfindung auch den Gebildetsten sehr richtig. Ist er so bewegt, dass er nicht mehr daran denken kann, den Gegenstand von sich selbst wenigstens in der Vorstellung loszureissen, so stösst er den Naturlaut aus; im entgegengesetzten Fall redet er, und erhöht nur den Ton nach Massgabe seines Affects.</p>
+
+            <p>Diese Aufzeichnung , die frühste, die sich mit dem Weseti der Sprache beschäftigt, ist nach dem Wasserzeichen der Handschrift in den tegeler Winter jjgsl^ zu setzen.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

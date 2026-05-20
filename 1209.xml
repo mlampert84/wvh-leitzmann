@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>über Friedensschlüsse mit den Barbaresken und die Anknüpfung von Verbindungen mit den südamerikanischen Kolonien</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zwölfter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif1201humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1904">1904</date>
+                  </imprint>
+                  <biblScope unit="page" from="216" to="224"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="12.216" xml:id="pbXII216"/>
+            <p>3. le but, l'objet et la forme de la negociation ä entamer en commun avec la Porte, et, autant que cela pourra se faire, le projet du traite;</p>
+
+            <p>4. les stipulations qui en resulteraient eventuellement pour les Puissances dans les deux cas que la Porte eüt decline ou accepte la proposition;</p>
+
+            <p>5. la demande ä faire vis-ä-vis des Barbaresques ; 6. les obligations des membres de la ligue qui peuvent resulter de l'issue de cette demarche.</p>
+
+            <p>Les stipulations du traite preliminaire, en en excluant tout ce qu'il avait du encore laisser incertain, seraient converties, apres la negociation avec la Porte, en traite definitif.</p>
+
+            <p>Si la Conference jugeait que, sauf les modifications ä y ap- porter, teile pouvait etre la nature et la marche de la negociation, eile aurait ä prendre en deliberation si eile pouvait d'abord pro- ceder ä un projet de traite preliminaire pour le soumettre a l'ap- probation des Cours, ou si eile devrait se borner ä ne leur presenter qu'une anatyse raisonnee de la question et la serie des points qui devraient y etre decides, et demander leurs Instructions sur ces points. Le premier conduirait plus promptement et plus directement au but, mais aussi, en se tenant au second, la Conference devra, pour obtenir des Instructions precises et completes, prendre en consideration chaque point qui devra etre determine, et l'examiner avec soin pour faire voir aux Cours la maniere dont eile l'envisage. Humboldt.</p>
+
+            <head>
+               <title type="main">XXXIII. über Friedensschlüsse mit den Barbaresken</title>
+            </head>
+            <div type="section" n="1">
+               <head>
+                  <title type="main">und die Anknüpfung von Verbindungen mit den süd-</title>
+               </head>
+               <p>amerikanischen Kolonien. (1818?)</p>
+
+               <p>(Eigenhändiges Konzept in Tegel.)<pb n="12.217" xml:id="pbXII217"/> Kolonien auf dem Aachener Kongreß ihren Platz. (S. Treitschke, Deutsche Geschichte 11^, S. 4~5f- und Stern, Geschichte Europas I, 472 ff.) In diese Zeit glauben wir auch vorliegende Arbeit Humboldts setzen zu düi-fen.</p>
+
+               <p>Ich habe bei Durchlesung der Denkschrift des Handelsministerii über die Möglichlveit und Nützlichkeit eines Friedensschlusses mit den Barbaresken wieder dasselbe erfahren, was ich schon, als ich mich in London mit dieser Frage beschäftigen musste, empfand, dass es kaum einen politischen Gegenstand gibt, der undankbarer und unfruchtbarer genannt werden könnte. Denn wenn man auf der einen Seite gestehen muss, dass ein Friedensschluss mit den Raubstaaten fast unverhältnissmässige Aufopferungen erfordert,") so kann man dennoch nicht abläugnen, dass die gefahrlose Schiff- fahrt in den von den Barbaresken durchstochenen Meeren keineswegs von geringer Wichtigkeit ist. Wie die Sache im gegenwärtigen Augenblick liegt, spricht offenbar viel mehr dagegen, als dafür. Dem Vielen für die ab- rathende Meynung höchst treffend Gesagten möchte ich noch das Eine hinzusetzen, dass es Preussen noch viel schwerer werden würde, als andern Regierungen, das Einverständniss mit den Barbaresken zu erhalten. Es ist bekannt, dass man sich, um hierin zu gelingen, oft sehr starke Demüthigungen gefallen lassen muss, ja sich zu Dingen erniedrigen, die, wie Lieferung von Waffen und Kriegsmunition, wirklich als moralisch unerlaubt anzusehen sind. Einer grossen Macht, wie Preussen, wird es schwer werden, das Gefühl ihrer Schwäche in einem einzelnen Punkt so zu ertragen, dass sie gegen Demüthigungen gleichgültig sej'n sollte, und bei unsern höhern und niedern Behörden herrscht glücklicherweise ein so rechtlicher und loyaler Sinn, dass man immer der Anwendung von Mitteln Vväderstreben würde, durch welche den Nordafrikanischen Staaten ihr Räuberhandwerk erleichtert wird. Wenig geneigt, sich ihnen gefällig zu erzeigen, und durch ihren Uebermuth leicht verletzbar, würde daher Preussen den Frieden mit ihnen theurer kaufen, kostbarer unterhalten, und einen ent- stehenden Bruch schwerer heilen.</p>
+
+               <p>Auf der andern Seite aber kann ich den Gedanken nicht aufgeben, dass der Preussischen Schiffarth immer etwas Wesent<pb n="12.218" xml:id="pbXII218"/>liches fehlt, solange sie nicht auf allen Meeren gesichert ist, oder vielmehr auf einigen unfehlbare Gefahren läuft, und dass es daher wohl Pflicht des Staats sey, diesen Uebelstand aufzuheben.</p>
+
+               <p>Ich kann zwar auf keine Weise die Ansicht des Handelsministerii theilen, dass die freie Schiffarth nach und in dem Mittelmeere auch nur in irgend einem erheblichen Grade den Seehandel und die Rhederei aus dem Verfall retten würde, in den sie ge- rathen sind. Dieser Verfall scheint mir sogar unrichtig dargestellt, da man einen ausserordentlichen Zustand, den nämlich einer neutralen Schiffarth während eines Ivrieges der grossen Seemächte zum Vergleichungspunkt angenommen hat. Aus den sehr gut gegen diese Ansicht entwickelten Gründen glaube ich nicht einmal, dass gegenwärtig Handel und Schiffarth im Mittelmeere bedeutend seyn würde, und wenigstens scheint es mir ausgemacht, dass gerade jetzt kein wahres Bedürfniss dieser Schiffahrt und dieses Handels vorhanden ist.</p>
+
+               <p>Aber dem allen ungeachtet bleibt es höchst wünschenswerth, und von einem gewissen Gesichtspunkt aus, sehr nothwendig, die Preussische Flagge gegen die Angriffe der Barbaresken zu schützen.</p>
+
+               <p>Preussen ist offenbar durch seine Lage, seine natürlichen Erzeugnisse, seine Fabriken, und den Vorrath aller Schiffsbaumaterialien zu einem bedeutenden Seehandel und einer ausge- breiteten Schiffarth berufen. Um aber beide wahrhaft teilen zu können, muss man mit denen, die sich in ähnlichem Falle befinden, auf der gleichen Linie stehen, die Preussischen Schiffe müssen mit denen andrer Nationen concurriren können, nicht gegen die- selben zurückstehen. Das Letztere ist aber doch immer der Fall, wenn sie von allen Fahrten ausgeschlossen sind, welche von den Barbaresken beunruhigt werden können. Sie verlieren alsdann weit mehr, als bloss den durch das wirkliche Schiffen im Mittelmeere zu erlangenden Gewinnst, und es ist buchstäblich wahr, dass unsrer Schiffarth die Meinung, dass sie keine Sicherheit gegen die Barbaresken geniesst, weit mehr schadet, als einzelne wirkliche Prisen zu thun im Stande wären. Da der Preussische<pb n="12.219" xml:id="pbXII219"/> auch dafür, dass nicht die Barbaresken einmal wieder ihre Streif- züge weiter ausdehnen, so wie es vor einigen Jahren der Fall war.^ Ohne Frieden mit ihnen kann ein Preussisches Schiff absolut sicher nur in der Ost- und Nordsee fahren, das Atlantische Meer kann es schon nur entweder mit Umwegen oder mit einiger Ungewissheit betreten. Nichts aber fordert so nothwendig Sicher- heit vor feindlicher Störung als der Handel; solange mit der Preussischen Schiffarth dieser Charakter der Unsicherheit (der unter allen Europäischen nur ihm allein anklebt) verbunden ist, wird sie weniger gesucht seyn, oft zurückgestossen werden, und von Zeit zu Zeit sich höheren Assecuranzprämien auch ausser dem Mittelmeere unterwerfen müssen.</p>
+
+               <p>Bei einer solchen Beschränkung und Ungewissheit kann die Preussische Rhederei nicht den vollen Muth fassen, keinen rechten Aufschwung gewinnen, nicht veranlasst werden, sich auf eine andre regelmässige Schiffarth, als in der Ost- und Nordsee einzurichten, und nicht aufhören, jede weitere bloss als Ausnahme zu betrachten. Wer bloss kaufmännische Rücksichten nimmt, und diese darf man doch nur voraussetzen, wird zu einer Expedition nach den Vereinigten Staaten sehr leicht ein Dänisches oder Schwedisches Schitf einem Preussischen vorziehen, da er sich natürlich auch gegen den Schatten einer Gefahr sichern will.</p>
+
+               <p>Nicht also um durch den Handel im Mittelmeere die Stockung zu heben, über die man jetzt klagt, nicht einmal, um im gegen- wärtigen Augenblick durch jenen Handel dem Staat oder den Unterthanen grosse Vortheile zuzuwenden, aber um die Preussischen Schiffe erst nur auf den Punkt zu stellen, mit den Schiffen andrer Nationen concurriren zu können, um dem Handel nach allen Gegenden hin den Vortheil zuzuwenden, der immer für ihn daraus entsteht, sich nicht Fremden anvertrauen zu dürfen, und um den Grund zu einem soliden, auf die Dauer, nicht auf einzelne vorzüglich günstige Momente, berechneten Gedeihen der Preussischen Schiffarth zu legen, würde ich Friedensschlüsse mit den Barbaresken (da es einmal für uns kein anderes Sicherungsmittel giebt) zweckmässig und gewissermassen nothwendig halten.*) Welches</p>
+
+               <p>*J Gestrichen ist folgende Stelle: „Unter der Voraussetzung eiyier guten und haushälterischen Finanzverwaltung und in Zeiten, wo nicht besondere un<pb n="12.220" xml:id="pbXII220"/>Geldopfer diese Vortheile werth seyn möchten, scheint es mir schwierig und fast unmöglich im Voraus zu bestimmen. Es ist unbillig zu verlangen, dass die Auslage augenblicklich wieder in Einnahme erscheinen soll. Es ist hier nicht von einer Finanzspeculation, sondern von der Erweiterung eines wichtigen Nahrungs- und Erwerbszweiges des Volks die Rede. Durch die Unsicherheit selbst eines Friedensschlusses müsste man sich nicht abschrecken lassen. Denn wenn einmal die Sache nothwendig ist, und es kein andres Mittel zur Erreichung derselben giebt, muss man sich schon die mit diesem verbundenen Unbequemlichkeiten gefallen lassen. Man gewinnt doch immer den hauptsächlichen Vortheii in die Reihe der wahrhaft Seehandel treibenden Nationen zu treten und die Meinung zu vernichten, dass die Preussische Handelschiffarth von gewissen Meeren gänzlich ausgeschlossen ist.</p>
+
+               <p>Man darf jedoch auf der andern Seite nicht vergessen, dass dem Bemühen, der Preussischen Schiffarth eine solche Ausdehnung zu geben, sehr die Unmöglichkeit, sie auf dem Meere zu schützen, entgegensteht, und dass es für eine allgemeine ausgedehnte Handels- schiffarth ohne alle und jede Marine, wenigstens noch kein Beispiel in der Geschichte gegeben hat.</p>
+
+               <p>Auf keinen Fall scheint man auch jetzt auf den Frieden mit den Barbaresken nur irgend eine bedeutende Summe verwenden zu können.*) Ich möchte daher nur rathen, darum nicht über die ganze Sache abzuurtheilen, sondern die Entscheidung darüber offen zu erhalten, allein vorläufig zu beschliessen, wenigstens keine schickliche Gelegenheit zur Ausführung vorübergehen zu lassen.</p>
+
+               <p>Vielleicht könnte man indess versuchen, sich durch türkische Pässe sicher zu stellen. Denn es scheint in der That noch nicht recht bis jetzt geprüft worden zu seyn, wie wirksam dies Schutz- mittel seyn dürfte. Der Handelsstand würde sich schwerlich darauf verlassen. Man müsste daher damit ein Versprechen des Staats verbinden, den Schaden zu ersetzen, im Fall das Schiff dennoch benommen würde. Dies würde dem Staat vermuthlich weniger kostbar seyn, als die beabsichtigte Friedensschliessung.</p>
+
+               <p>Sollte aber auf diesem Vv'ege der allgemeine Zweck der diese Siinime wieder einbrächte. Es ist wirklich zu viel verlangt, wenn man die Auslage augenblicklich wieder in Einnahme erscheinen sehen will."<pb n="12.221" xml:id="pbXII221"/> Preussischen Schitfarth Vertrauen zu erwecken erreicht werden, so müsste die Pforte diese Pässe nicht bestimmten Schiffen, sondern in blanco und in nicht unbedeutender Menge geben, um, bei den Consulaten vertheilt, den Preussischen Schiffen gelegenthch helfen zu können. Dies wird die Pforte schwerlich eingehen. Ein dauernder Zustand würde sich auch schon darum hierauf nicht gründen lassen, weil ein Staat nicht immerfort von dem andern Gefälligkeiten verlangen kann, zu welchen er ihn weder zu nöthigen vermag, noch ihn durch Gegengefälligkeiten zu veranlassen im Stande ist. Endlich wenn man auch für Schiff und Ladung Vergütigung leistete, dürfte m.an schwerlich die Verantwortlichkeit übernehmen, durch ein so leicht trügliches Mittel die Mannschaft dem Elend der Gefangenschaft auszusetzen. Man kann daher nicht rathen, diesen Weg auch nur versuchsweise einzuschlagen.</p>
+
+               <p>Wenn sich mithin aus dem hier Gesagten ergiebt, dass sich im gegenwärtigen Augenblick in dieser Angelegenheit gar nichts thun lässt, so folgt noch weit mehr daraus, dass die gesuchte Belebung des stockenden Handels nicht in der Eröffnung des Mittelmeeres für unsere Flagge zu suchen ist. Dagegen würde man eine solche und sehr bedeutende allerdings in der Anknüpfung von Handelsverhältnissen mit den Südamerikanischen Spanischen Colonien, die sich vom Mutterlande zu trennen unternommen haben, antreffen. Hierüber kann kein Zweifel seyn, es kommt nur darauf an zu prüfen, inwiefern sich der Staat in Rücksicht auf seine eignen Grundsätze, auf Spanien und auf seine Bundesgenossen eine solche Verbindung mit abgefallenen Colonien erlauben darf.^ Man berührt hier die wichtigsten und zartesten Fragen des Staats- und Völkerrechts. Es ist indess sehr glücklich, dass, wenn man nur (wie aber die Politik der letzten Jahre wenig gethan hat) darauf Verzicht leistet, diese Fragen theoretisch und casuistisch zu beantworten, man praktisch durch sie höchst selten in Verlegenheit gesetzt wird. So wird auch hier leicht jeder die beiden folgenden Sätze zugeben, die gleichsam die Extreme auf beiden Seiten bezeichnen, nämlich:</p>
+
+               <pb n="12.222" xml:id="pbXII222"/>
+               <p>Er hat hingegen kein Recht,<note type="footnote" n="*)" resp="gnd-116890657"><hi>Zuerst hieß es: „einem andern Staat Grämen in dem Verkehr vorzu-</hi></note> von einem andern Staat zu fordern, dass er sich lediglich nach ihm und seiner Genehmigung richten soll, um mit den abgefallenen Golonien, wie mit allen andern Theilen des Erdbodens in Verkehr zu treten.</p>
+
+               <p>Der Staat, welcher dies thut, verfolgt nur sein allgemeines Recht, sich in Streitigkeiten, an denen er nicht Theil zu nehmen gezwungen ist, nicht zu mischen, er beleidigt nicht das Mutterland der abgefallenen Golonien, sondern verfolgt nur seine Freiheit. Hätte dies Mutterland das Recht, ihn hieran zu hindern, so zwänge es ihn seine Parthei zu ergreifen, und alle ursprünglichen Rechte unter Staaten sind nur negative. Positive können nur aus einem Vertrage entstehen.</p>
+
+               <p>Indess entscheidet dies freilich nicht allein. Man braucht Spanien kein Recht des Widerspruchs einzuräumen, aber man kann sich innerlich verpflichtet halten, etwas, wenn es ursprüng- lich pflichtwidrig war, auch nicht einmal mittelbar und entfernt und selbst scheinbar sanctionniren zu wollen.</p>
+
+               <p>Diese Ansicht ist gewiss an sich richtig und edel. Aber es lässt sich doch mit Recht die Frage aufwerfen: ob nun darum diese Ausschliessung von allem Verkehr mit einer abgefallenen Golonie ewig dauern? oder wenigstens solange fortgesetzt werden soll, bis das Mutterland den Abfall selbst anerkannt hat?</p>
+
+               <p>Das Erstere dürfte wohl niemand leicht behaupten. Nimmt man aber das letztere an, so macht man einen Staat von den Ansichten, den Fehlgriffen, den Irrthümern, ja dem Eigensinn eines andern abhängig, und thut wirklich auf die politische Freiheit Verzicht.</p>
+
+               <p>Die Wahrheit ist wohl die, dass es allerdings einen Zeitpunkt giebt, wo jeder Staat sich den Verkehr mit einer abgefallenen Golonie erlauben darf, und dass die Beurtheilung, wenn dieser Zeitpunkt eintritt, lediglich jedem selbst zustehen muss.</p>
+
+               <p>Für Preussen nun in Absicht der Amerikanischen Golonien ist dieser Zeitpunkt meines Erachtens jetzt vollkommen eingetreten. Denn Preussen möchte mit der Anknüpfung von Verhältnissen mit den Spanischen Golonien noch so lange Anstand nehmen, so wird daraus Spanien nicht der mindeste Nutzen erwachsen. Dagegen<pb n="12.223" xml:id="pbXII223"/> schadet Preussen sich und seinem Handel ganz unfehlbar, wenn es auch nur noch wenige Jahre damit zögert. Denn nicht bloss, dass es sich alsdann gewiss keiner Begünstigung zu erfreuen haben wird, so läuft es auch Gefahr, von diesem Handel ganz und gar ausgeschlossen zu werden.</p>
+
+               <p>Wenn ein solcher Schritt die Grundsätze verletzte, welche jeder Staat um sein Daseyn und seine moralische Achtung zu sichern, aufrecht erhalten muss, so würde ich fast behaupten, dass man auch die grossesten Vortheile den Grundsätzen aufzuopfern verbunden sey. Es ist aber hier durchaus keine Verletzung zu besorgen.</p>
+
+               <p>Denn der Staat, welcher mit einer sich losreissenden Colonie Verhältnisse anknüpft, billigt darum nicht diese Losreissung, sanc- tionnirt nicht das Geschehene, nimmt nicht Parthei zwischen den streitenden Theilen, sondern erklärt bloss factisch, dass er nicht darauf Verzicht leisten kann, den vorgezeichneten Weg des allge- meinen Verkehrs der Staaten und Nationen unter einander zu verfolgen, und dass er sich nicht berufen fühlt, sich zum Richter aller Streitigkeiten, und zum Rächer alles geschehenen Unrechts aufzuwerfen. Er schlägt hierbei sogar eine von der Gerechtigkeit selbst vorgezeichnete Bahn ein. Denn wollte er nicht sich bloss von einer ihm fremden Streitigkeit zurückziehen, sondern Billigung und Misbilligung durch sein Betragen beweisen und urtheilen, so müsste er sich über beide Parteien stellen, und sich auch dem entgegensetzen, wenn die eine ihr Recht zu streng und unbillig verfolgte. Könnten und wollten die Europäischen Mächte Spanien seine Besitzungen wieder erobern, (und dass sie es könnten, dürfte wohl nicht ganz abzuleugnen seyn) so w^äre es eine politische Massregel, wie jede andre, die doch zu irgend einem entscheidenden Erfolge führen müsste. Aber dass die Europäischen Staaten sich unthätig und bloss missbilligend zurückziehen, und dadurch für wichtige Interessen des Handels, der Schilfarth, und des allgemeinen Ver<pb n="12.224" xml:id="pbXII224"/>auch etwas wirklich zum Ziel führendes, und soviel sie, ohne höheren Pflichten entgegenzutreten, könnte, zu thun.</p>
+
+               <p>Nach allgemeinen Grundsätzen zu urteilen ist es daher für mich keinem Zw^eifel unterworfen, dass der Preussische Staat Herr und Meister ist, Verhältnisse mit den Spanischen Amerikanischen Colonien sobald anzuknüpfen, als er es für nothwendig in Absicht seiner Verpflichtung der Sorgfalt für den Wohlstand seiner Unter- thanen hält, und ebenso jene Staaten, als diejenigen, zu denen sie sich constituirt haben, anzuerkennen. Er würde dabei indess immer zugleich so schonend als möglich nicht gegen die Rechte Spaniens, da diese gegen fremde Staaten in dieser Angelegenheit nicht zugestanden werden können , aber gegen seine eignen freundschaft- lichen Verhältnisse mit Spanien zu Werke gehn, und sich daher mit jenen Staaten zunächst nicht tiefer einlassen müssen, als es jene Zwecke erforderten.</p>
+
+               <p>Welche Schranken aber Preussen sich in dieser Freiheit schon, sey es gegen Spanien, oder gegen die andern grossen Mächte selbst gesetzt haben mag, kenne ich zu wenig, um mir irgend ein Ur- theil darüber erlauben zu dürfen.</p>
+
+               <p>Ich halte es nur für nothwendig, die Verhältnisse zu diesen neuen Staaten in ernsthafte und gründliche Betrachtung zu nehmen, und da ihm Wichtigkeit für unsern Handel nicht abgeläugnet werden kann, da nicht verkannt werden kann, dass man durch unstatthaftes Säumen höchst wahrscheinlich einen nie zurückkehrenden Moment fahren lässt, und das wichtigste Mittel, dem stockenden Verkehr zu Hülfe zu kommen, aufgiebt :</p>
+
+               <p>1 . diesen Staaten wirklich insoweit näher zu treten, als es die oben erwähnten bindenden Verpflichtungen erlauben; und</p>
+
+               <p>2. auf die unter den Staaten, welche hierüber gemeinschaftliche Verbindungen eingegangen sind, ferner zu nehmenden Beschlüsse so einzuwirken, dass Preussen im Stande ist, in dieser Sache ein ihrer und seiner Lage gemässes S3^stem zu befolgen, und sich nicht durch ein ihm fremdes die Hände binden zu lassen.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

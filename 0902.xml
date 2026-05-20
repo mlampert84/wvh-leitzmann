@@ -1,0 +1,246 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An den erwarteten Sohn</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Neunter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif09humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1912">1912</date>
+                  </imprint>
+                  <biblScope unit="page" from="9" to="14"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1800">1800</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="9.9" xml:id="pbIX9"/>
+            <p>2.</p>
+
+            <head>
+               <title type="main">An den erwarteten Sohn.</title>
+            </head>
+            <p>Als Dich die Mutter im Schooss, die sorgsame, sorgsam noch hegte,</p>
+
+            <p>Lächelte mild ihr des Tags stralenumleuchtet Gestirn.</p>
+
+            <p>Denn durch Iberiens Gefild', an den Ufern des flutenden Meeres, Ferne vom heimischen Land, trug Dich ihr wallender Fuss. 5 Bätica sah sie und Gades, Italicas klagende Trümmer,</p>
+
+            <p>Und Dich, öd' und verwaist, zweimal zerstörtes Sagunt. Unter der Mirthe Dach, umblüht vom Duft der Orange,</p>
+
+            <p>Blickte Dir werdenden dort freundlich und sanft die Natur.</p>
+
+            <p>Nie mit frostigem Hauch berührte das Wehen des Nordes lo Da den schwellenden Schooss, der Dich verborgenen trug.</p>
+
+            <p>Nur der Odem des Wests, des blüthenumschaukelten Gottes,</p>
+
+            <p>Kühlte das wallende Blut, das Du, Begieriger, trankst.</p>
+
+            <p>Mög' im Leben auch so Dir schonend erscheinen das Schicksal, Möge der Schwestern Chor freundlich den Faden Dir drehn, 15 Bis Du in schirmendem Schutz, gewärmt an dem Strale der Sonne,</p>
+
+            <p>Reifend entgegen dem Mann, Tugend und Kräfte gestärkt ! Denn nicht in üppiger Trägheit nur hinzuschwelgen das Leben, Sonder Frommen und Ruhm, rief das Geschick Dich ans Licht;</p>
+
+            <p>Handschrift (8 Oktavseiten, ohne Titel) im Archiv in Tegel. — Erster Druck : „In der Sierra Morena" Wilhelm von Humboldts Gesammelte Werke i, 319—3S3 (184.1}.</p>
+
+            <p>13 „im Leben auch" verbessert aus „auch im Leben"; „schonend" verbessert aus „mild" aus „schonend". — 18 „das Geschick Dich" verbessert aus „Dich das Schicksal".</p>
+
+            <pb n="9.10" xml:id="pbIX10"/>
+            <p>Darum nur hegt umzäunend der Pflanzer den Sprössling der Eiche, 20 Dass in dem Walde sie einst minder sich beuge dem Sturm,</p>
+
+            <p>Und voll freudigen Muths, von des Süds verzärtelnder Sonne</p>
+
+            <p>Kehret zum heimischen Nord wieder der wandernde Mann.</p>
+
+            <p>Schwer, o Kind! ist die Zeit und mühvoll, wo Du den Tag siehst,</p>
+
+            <p>Arbeit heischend und Muth in dem ermüdenden Kampf. 25 Niemals forderte mehr der Genius, strenger es niemals.</p>
+
+            <p>Welcher sinnenden Geists lenket der Menschen Geschick; Und auf die Stimme des Gotts, des ernstgebietenden Führers,</p>
+
+            <p>Merke mit achtsamem Sinn, wo in der Brust sie Dir tönt ! Denn nicht in luftigen Wolken noch hoch in der Wüste des</p>
+
+            <p>Aethers 30 Thront er, ihn zeuget des Manns tiefer Gedanke sich selbst.</p>
+
+            <p>Los von der Hand der Natur und der still beschränkenden Sitte, Die ihn in kreisendem Lauf sorgsam und sicher geführt, Riss sich im Ungestüm der plötzlich erwachenden Kräfte Ungeduldig der Mensch, zeichnend sich selber den Pfad. 35 Und nun gilts in der Nacht des tiefaufwogenden Meeres Vom umnebelten Pol kühn zu entreissen den Stern, Welcher den schweifenden Nachen, nicht mehr am nahen Gestade,</p>
+
+            <p>Sicher und unversehrt führ' in den Hafen hinein. Glücklich noch, müsste nicht stets zum Streit gerüstet die</p>
+
+            <p>Rechte 40 Kämpfen mit tückischem Wahn, welcher die Wahrheit verschmäht ;</p>
+
+            <p>Oder stählte der Vorzeit Muth und rüstige Stärke</p>
+
+            <p>21 „voll freudigen Muths" verbessert aus „mit freudigem Muth". — 26 „sinnen- den Geists" verbessert aus „mit sinnendem Geist". — 27. 28 zuerst: „Und zu gehorchen ihm, dem ernstgebietenden Geiste, Sey nur allein Dein Ziel, ihm der im Herzen Dir spricht." — 27 „Führers" verbessert aus „Lenkers" aus „Richters". — 29 zuerst : „Denn nicht auf Wolken thront er, noch in den Räumen der Himmel". — ßo „Thront — zeuget" verbessert aus „Ihn erzeuget" ; „tiefer" verbessert aus „erns[ter]". — ji „Los von" verbessert aus „ Von" ; „und — Sitte" verbessert aus „der bisher mit bescheidener Stille". — j2 zuerst: „Treu er gefolgt, hat jetzt los sich gewunden der Mensch." — ^j. j4 zuerst: „Keinem Gesetze gehorchend, als das er selbst sich gegeben. Sucht er sich, zügelfrei, eigene Richtung und Bahn." — 95 „tiefaufwogenden" verbessert aus „dimkelwogenden" . — ßj „am nahen Gestade" verbessert aus „im gewohnten Geleise". — ^g „müsste" verbessert aus „wenn".</p>
+
+            <pb n="9.11" xml:id="pbIX11"/>
+            <p>Noch den Männern den Arm, noch in dem Busen das Herz- Aber es sinket den Feigen die Kraft beim halben Beginnen;</p>
+
+            <p>Muthlos geben sie auf, was sie mit Blut sich erkauft; 45 Und nach Ruhe sich sehnend, vergessen sie thörichten Sinnes,</p>
+
+            <p>Dass nur des Tapfren Muth bricht das erzürnte Geschick. So auch haben sie Dir die göttliche Freiheit entweihet.</p>
+
+            <p>Pflanzend mit Unbedacht, wo sie der Boden nicht trug; Nicht so verschwendet die Frucht, die goldne, die Tochter des Himmels, 50 Nur ein starkes Geschlecht pflückt sie mit würdiger Hand.</p>
+
+            <p>Wenig noch ists des Wahns weitwuchernde Wurzel vertilgen, Findst Du die Wahrheit nicht auch, wo sie das Dunkel verbirgt,</p>
+
+            <p>Tief in den fruchtbaren Schooss des wirkenden Busens sie senkend,</p>
+
+            <p>Dass sie lebendig aus Dir spreche in Wort und in That. 55 Dahin, o Kind, wenn einst, in der rollenden Jahre Begleitung, Dich das Alter gereift, wende den strebenden Sinn. Viel der Gestalten entrollt der Welten unendlicher Gürtel, Wie er, sonnendurchwirkt, hin durch die Sphären sich schlingt;</p>
+
+            <p>Staunend irret der Blick und wähnt zu vergehen in Sehnsucht 60 In dies flammende Meer stralender Schönheit getaucht;</p>
+
+            <p>Staunend irret der Geist zu ergründen dies zahllose Wirken</p>
+
+            <p>Ewig von Kraft zu Kraft, zeugend und wieder erzeugt; Und es verzweifelt der Mensch in diesem chaotischen Fluthen</p>
+
+            <p>Je durch der Wogen Gewühl sicher zu gründen den Fuss. 65 Willst Du ihn finden den Punkt, auf den Du mit Sicherheit tretend,</p>
+
+            <p>Leicht Dich, wohin Du nur willst, rechtshin und linkshin bewegst,</p>
+
+            <p>Wo Dein forschender Geist stets weiter schweifend und weiter</p>
+
+            <p>Endlich die Räume sie all', alT die unendlichen misst,</p>
+
+            <p>4^ „die Kraft beim" verbessert aus „der Muth im". — 44 „Muthlos" verbessert aus „ Thöricht". — 45 „thörichten" verbessert aus „eitelen". — 4ß „nur — bricht" verbessert aus „dem Tapferen nur weicht" ; „Muth" verbessert aus „Trotz". — Si zuerst: „Wenig ist es von Wahn und Vorurtheil sich befreien". — 52 „Findst" verbessert aus „Führst"; „wo — verbirgt" verbessert aus „tief aus dem Dunkel ans Licht". — ^8 „er" verbessert aus „sich" aus „er"; „sich" verbessert aus „er" aus „sich". — 65 „den" verbessert aus „dem"; „tretend" verbessen aus „fussend".</p>
+
+            <pb n="9.12" xml:id="pbIX12"/>
+            <p>Wo Du Dich selbst umschafst nach des Alls unendlichem Urbild, 70 Rings versammelnd in Dir, was zu erfassen Du magst?</p>
+
+            <p>Sieh! er ruhet in Dir! In Dich versenke die Kräfte,</p>
+
+            <p>Welche, göttlich und frei, reichlich Dein Busen bewahrt I Siehst Du die rollenden Welten dort oben im luftigen Aether ? Sicher durch eignes Gewicht hält sich der schwebende Ball ; 75 Niemals schmettern sie wild mit grausem Gekrach an einander, Stets harmonischen Flugs schwingt sich die goldene Bahn. So auch Du! in der gleich gemessenen Kräfte Bewegung Folge muthig dem Weg, den sie sich selber erspähn. Nie gedeiht, was nicht frei aus eigenem Busen hervorspriesst, 80 Nicht der verlangende Sinn reines Gefühls sich erwählt.</p>
+
+            <p>Aber, welche der Bahnen, der weitgestreckten, betretend.</p>
+
+            <p>Du den bedeutenden Weg jetzt durch das Leben beginnst; Ob Du mit forschendem Blick der Kräfte lebendiges Wirken, Ob, was in ewigem Tod starret. Du emsig erspähst; 85 Ob in des Aethers Raum Dein Geist sich dichtend empor- schwingt,</p>
+
+            <p>Hoher Begeisterung voll, bildend in Farben und Wort; Ob in der Tiefe der Nacht des einsamempfundenen Urseyns Dir aus dem Dunkel hervor sprühet der Funke des Lichts, Oder ob leichtren Beginnens, umkost von Weib und von Kindern, 90 Du aus der Fülle des Glücks wieder mit Segen belohnst;</p>
+
+            <p>Immer mit allen Vermögen umschling des Geists und des Herzens,</p>
+
+            <p>Was im unendlichen All mächtig die Kräfte Dir regt, Dass, in der einsamen Brust befruchtet von zeugender Fülle, Stets die empfundne Natur neu sich gestalte in Dir. 95 Was nicht stammet von ihr, in festem Boden gewurzelt,</p>
+
+            <p>Schwindet, ein Schattengebild, das in die Luft sich verliert. Und wo neue Gestalt nicht und höheres Leben der Geist giebt, Fehlt der beseelende Hauch, fehlet der leichtere Flug.</p>
+
+            <p>86 „in" verbessert aus „mit". — 95 „stammet" verbessert aus „stammend"; „in" verbessert aus „auf; „gewurzelt" verbessert aus „sich wurzelt". — g-j „Und wo" verbessert aus „ Wo nicht". — Nach g8 gestrichen :</p>
+
+            <p>„Darum nur preist man die Ceder vor allen Bäumen der Erde, Festgewurzelt und tief weil sie zum Himmel sich schwingt. Eins nur ist das Ziel, was allen Bewohnern der Erde</p>
+
+            <p>Luftig in Aetherhöh mächtig gesteckt die Natur;</p>
+
+            <pb n="9.13" xml:id="pbIX13"/>
+            <p>So nun schreite, mein Kind, mit fröhlichem Muth in das Leben, loo Stark zu jeglicher That; offen für jeden Genuss.</p>
+
+            <p>Suche nicht ängstlich die Bahn, sie hiehin zu lenken und dorthin;</p>
+
+            <p>Lieblicher krümmt sich des Bachs wellengeschlängelter</p>
+
+            <p>Pfad.</p>
+
+            <p>Aber mit spähendem Fleiss benutze, was günstig das Schicksal,</p>
+
+            <p>Was Dir der Zufall reicht; keine der Blüthen verschmäh' ! 105 Denn wer die meisten Gestalten der vielfach umwohneten Erde,</p>
+
+            <p>Die er vergleichend ersah, trägt im bewegenden Sinn, Wem sie die glühende Brust mit der fruchtbarsten Fülle durchwirken.</p>
+
+            <p>Der hat des Lebens Quell tiefer und voller geschöpft. Und Dir gab das Geschick, die Höhen und Tiefen der</p>
+
+            <p>Menschheit no Eigner und besser zu schaun, höher und reicher die Kraft.</p>
+
+            <p>Denn die Sprache Teutoniens ists, die, geschmeidiger Bildung, Einst Dir des ahndenden Geists Erstlingsgedanken er- schliesst;</p>
+
+            <p>Sie, die von eigenem Stamm entsprossen, und kräftig und edel Näher des Griechen Flug rauschende Fittige schwingt. "5 Wenig wird noch erkannt das Volk, das still und bescheiden. Aber tieferen Ernsts kühnere Bahnen sich bricht;</p>
+
+            <p>Doch sie kommt die vergeltende Zeit, schon winkt sie nicht fern mehr.</p>
+
+            <p>Wo es dem Folgegeschlecht zeichnet den leuchtenden Pfad. Nicht mit Waffen wird es, nicht kämpfen in blutigen Kriegen, 120 Sichrer herrschet durchsWort,edlersein schaffender Geist.</p>
+
+            <p>Wie in den Tagen des Herbsts die Sonne, von Nebel um- schleiert.</p>
+
+            <p>Durch den verhüllenden Flor einzelne Stralen erst schiesst; Aber kräftiger bald zertheilt sie die tliehenden Wolken,</p>
+
+            <p>Und auf die freudige Flur giesst sie das flammende Licht.</p>
+
+            <p>Aber der Wege sind viel; den eigenen wählen, gebührt es,</p>
+
+            <p>Nie ausweichend, ihm dann folgen mit sicherem Schritt, Dass stets fester und fester der Fuß in geraderer Richtung Näher deyn herrlichen Ziel lenke die kühnere Bahn "</p>
+
+            <p>106 „im bewegenden" verbessert aus „in bewegendem". — 112 „erschliesst" verbessert aus „entschliesst". — 116 „tieferen Ernsts" verbessert aus „mit tieferem Ernst". — II'] „Doch" verbessert aus „Aber".<pb n="9.14" xml:id="pbIX14"/> 125 Das nur können die Eltern, nur das allein Dir gewähren,</p>
+
+            <p>Dass sie mit Deutschem Sinn sorgsam Dich nähren und früh;</p>
+
+            <p>Was sie besassen der Kraft, und was sie sich mühsam er- strebten,</p>
+
+            <p>Haben sie innig und treu Dir in die Seele gehaucht; Geh nun selbst es vollendend und zeige dem kommenden Enkel, 130 Dass Dich zum Weichling nicht zeugt' ein entartet Ge- schlecht.</p>
+
+            <p>Aber sind sie Dir einst von der liebenden Seite gewichen,</p>
+
+            <p>Klage, Lieber, dann nicht, weine nicht Thränen des Wehs. Siehe, sie welken ja alle, die sprossenden Kinder der Erde, Und ein neues Geschlecht trägt der verdrängende Raum. 135 Aber gedenke des Vaters, gedenke der hebenden Mutter,</p>
+
+            <p>Blumen streue dem Grab, segnend die bergende Gruft!</p>
+
+            <p>In der Carolina, im Anfang Januars, 1800.</p>
+
+            <p>128 „sie — treu" verbessert aus „dem Werdenden sie". — 1^0 „Dich" verbessert aus „nicht"; „nicht zeugt" verbessert aus „Dich schuf". — 1^4 zuerst „Einst in dujtendem Reiz neu zu erstehen im Lenz'.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

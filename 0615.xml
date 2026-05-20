@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Kunstvereinsbericht vom 7. April i830</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Sechster Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif0602humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1907">1907</date>
+                  </imprint>
+                  <biblScope unit="page" from="487" to="491"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1830">1830</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="6.487" xml:id="pbVI487"/>
+            <head>
+               <title type="main">Kunstvereinsbericht vom 7. April 1830.</title>
+            </head>
+            <p>Ich muss meinen heutigen Vortrag mit einer Entschuldigung der Verspätung der gegenwärtigen Versammlung beginnen. Wenn das Directorium diesmal länger, als gewöhnlich, gesäumt hat, die statutenmässige Rechenschaft von den Bemühungen und dem Zustande des Vereins abzulegen, so ist es dazu nur durch den Wunsch bewogen worden, eine grössere Anzahl von Bildern zur Verloosung zu bringen. Es darf sich vielleicht auch schmeicheln, die geehrten Mitglieder des Vereins für diese Zögerung durch die angeordnete Ausstellung entschädigt zu haben, die aber ohne die Sorgfalt, die Ankunft mehrerer noch fehlenden Bilder abzuwarten, nur hätte sehr ungenügend ausfallen können. Dennoch hätten das Directorium und der Künstlerausschuss ungern dem Wunsche entsagt, diese Ausstellung so befriedigend zu machen, als es die Umstände erlaubten. Da die zur heutigen Verloosung kommenden Bilder dem Publicum noch grösstentheils unbekannt waren, so schien es für die Künstler und die Mitglieder gleich angemessen, sie vorher zu allgemeinerer Kenntniss zu bringen, und soviel es der uns durch die Güte des Herrn Geheimen Ober-Finanz-Raths Beuth gewährte Raum verstattete, auch andere Personen, als bloss Mitglieder des Vereins, daran Theil nehmen zu lassen. Die Verthei- lung der Bilder in Privatwohnungen, auf welche sich unser Verein von seinem Ursprünge an beschränkt hat, gewährt unstreitig sehr grosse Vorzüge, wenn man die allgemeine Verbreitung eines ge- läuterten Geschmacks und den Einfluss künstlerischer Darstellung 2ur Absicht hat. Wenn die Kunst auf das Leben einwirken soll, muss man sie so enge, als möglich, mit dem Leben verbinden, und ein Gemälde wird nirgends so genossen, und so empfunden. Erster Druck: Verhandlungen der am 7. und 22. April i8ßO gehaltenen Versammlungen des Vereins der Kunstfreunde im preußischen Staate S.j — i^ (i^joj.<pb n="6.488" xml:id="pbVI488"/> als WO es Begleiter und Zeuge des ganzen häuslichen Daseyns ist. wo man in einsamen ^Momenten und im vertraulichen Gespräch zu seiner Betrachtung zurückkehren, die glückliche und heitere Stimmung bald zu ihm hinzubringen, bald dankbar von ihm empfangen kann. Auf der andren Seite aber ist ausschliesslicher Ge- nuss eigentlich gegen die Natur eines Kunstwerks. Es ist bestimmt, von Vielen gesehen, gefasst und beurtheilt zu werden, und der Künstler, der die Zuversicht in sich fühlt, mit den Höheren in seiner Kunst wetteifern zu können, sieht sein Werk, an dem er Jahre gearbeitet, das er mit Liebe umfasst hat, das einen Theil seines Selbst mit sich hinwegnimmt, nur mit einer Art schmerzlichen Gefühls in einzelnen Besitz übergehen. Wenn auch die Erfahrung lehrt, dass Meisterwerke allerdings endlich doch öffent- lichen Sammlungen zuzufallen pflegen, so geschieht dies nur auf langem und ungewissem Wege. Hierin bieten nun Ausstellungen, welche die Arbeiten der Künstler auf eine Zeit wieder gleichsam zum gemeinschaftlichen Eigenthume machen, einen schönen Mittel- weg dar. Man kann Besitzern von Kunstwerken nicht dringend genug empfehlen, dieselben im schönsten und ächtesten Sinne der Kunst zu befördern, und es ist eine höchst lobenswerthe Einrichtung, die mehr, als bisher geschehen, in Deutschland nachgeahmt zu werden verdiente, alle, dessen würdige, auch längst bekannte im Privatbesitze befindlichen Bilder nach und nach in jährlichen Ausstellungen, wie es in London geschieht, wieder vor die Betrachtung des Publicums zu bringen. Ich würde es für unnütz halten, die heute zur Verloosung kommenden Gegenstände noch besonders aufzuzählen. Da ich voraussetzen darf, dass sie von der Ausstellung her gehörig bekannt sind, so werde ich nur — und zwar um so mehr, als die Verloosung heute mehr Zeit wegnehmen wird, nur mit wenigen Worten — dasjenige erwähnen, was ich dieser hochgeehrten Versammlung über die früheren, noch rückständigen Bestellungen, und über die im vorigen Jahre, wie in diesem aufs Neue ge- machten mitzutheilen habe.</p>
+
+            <p>Ich beginne mit den in Rom angeordneten Preisbewerbungen. Die Herren Dräger aus Trier und Temmel aus Schlesien haben zwar ihre beiden, in Folge der dritten Preisvertheilung übernommenen Gemälde, die Beschützung der Töchter Reguels vorstellend, beendigt. Sie sind aber damit zu spät fertig geworden, um dieselben noch zur heutigen Verloosung einschicken zu können.<pb n="6.489" xml:id="pbVI489"/> Bei der vierten Preisbewerbung, wo man den Gegenstand der Wahl der Künstler überlassen hatte, war eine Skizze: Moses, der aus dem Felsen Wasser schlägt, gekrönt worden. Sie rührt von Herrn Erhard in Rom her, und das darnach angefangene Gemälde ist bereits sehr weit vorgerückt. Die andere damals gekaufte Skizze^ welche die Verstossung der Hagar vorstellt, hat Herrn Dräger aus Trier zum Urheber. Zur fünften Preisbewerbung war Penelope gewählt, wie sie, von zwei Mägden begleitet, die Treppe herabsteigt, um den in der Ferne sichtbaren Freiern den Bogenkampt anzubieten. Von den zwei eingelaufenen Skizzen ist die eine, von Herrn Hopfgarten ^) eingesandte, angekauft worden. Ein Gemälde nach einer dieser Skizzen zu bestellen, wurde vom Künstler- ausschuss nicht für rathsam erachtet. Ganz neuerlich hat man eine sechste Preisaufgabe, mit gänzlicher Freistellung des Gegenstandes, gemacht. Wenn diese Preisbewerbungen in der letzten Zeit einen weniger günstigen Erfolg gehabt haben, als es das Directorium und der Künstlerausschuss des Vereines gewünscht hätten, so darf man sich darüber nicht wundern. Es liegt dies nicht an den aufgegebenen Gegenständen, auch nicht überhaupt an der Aufgabe eines Gegenstandes, die ja auch bei den meisten Bestellungen eintritt. Der Grund ist vielmehr in dem Bedenken zu suchen, welches der Künstler in der Ungewissheit des Erfolgs findet, auch wohl bisweilen in einem gewissen Selbstgefühl, das ihn abgeneigt macht, sich einer vergleichenden Beurtheilung zu unterwerfen. Der Verein wird regelmässig fortfahren, alljährig in Rom eine Preisbewerbung zu eröffnen, und die eingehenden Skizzen um so dankbarer empfangen, als die Einsender durch ihre Theilnahme ihr Vertrauen zu der Unpartheilichkeit seiner Beurtheilung aussprechen. Er wird auch die Ungewissheit des Erfolgs dadurch zu vermindern suchen, dass er fortfahren wird, bei ungefähr gleicher Güte von zwei Skizzen, zwei Bestellungen zu machen. Sollte indess dennoch der Erfolg dieser Preisbewerbungen den Erwartungen weniger entsprechen, so wird darum der an den Ursprung unsres Vereins geknüpfte, und im Statute desselben ausgesprochene Grundsatz, gerade die Arbeiten der Preussischen Künstler in Rom für unsere Zwecke zu benutzen, nicht minder aufrecht erhalten werden. Nur</p>
+
+            <p>V August Ferdinand Hopfgarten fi8oj—i8g6J, Historienmaler, war später Professor an der berliner Akademie der Künste.<pb n="6.490" xml:id="pbVI490"/> die Form, nicht die Sache, wird verändert seyn. Denn die hier versammelten geehrten Mitglieder des Vereins werden sich sowohl durch die heutige Verloosung, als durch den Inhalt dieses Vortrags überzeugen, welchen bedeutenden Antheil gegenwärtig in Rom studirende Künstler an den bereits erfüllten, noch rückständigen, und neugemachten Bestellungen nehmen.</p>
+
+            <p>Von den Bestellungen, die ich die Ehre hatte, bei unsrer letzten Versammlung anzuzeigen, ist nur der Kupferstich des Herrn Caspar, von dem eine hochgeehrte Versammlung einen Probedruck hier vor sich sieht, bis jetzt fertig geworden. Von diesem Kupferstich erhält jedes Mitglied ein Exemplar, und man ist mit dem Drucken soweit vorgeschritten, dass die Versendung der Abdrücke wird in kurzem erfolgen können. Die Ausführung des Blattes entspricht den günstigen, davon gehegten Erwartungen.</p>
+
+            <p>Die andren Bestellungen sind noch rückständig. Doch hat Herr Philipp Veit die Beendigung des ihm übertragenen Gemäldes : die Aussetzung des Moses, bestimmt bis zum Anfange des Monats Junius versprochen. Das Bild des Herrn Sohn^), welcher den Raub des Hylas zum Gegenstande gewählt hat, wird zur dies- jährigen Academischen Ausstellung hier eintreffen. Herr Catel behandelt eine aus dem Römischen Alterthum entlehnte Scene, welche geeignet ist, mit einer grösseren landschaftlichen Darstellung verbunden zu werden. Herr Hübner-), gegenwärtig in Rom, hat uns noch nicht angezeigt, welchen Gegenstand er auszuführen gedenkt. Von Herrn Meister erwanen wir eine Darstellung aus der neuesten vaterländischen Kriegsgeschichte, den Moment, wo der Feind, nach der Schlacht von Belle- Alliance, unter Anführung des Feldmarschalls Grafen von Gneisenau durch Cavallerie verfolgt wird, wo man sich aber der Kriegslist bedient hat, Trommelschläger zu Pferde zu setzen, als befände sich auch Infanterie unter den verfolgenden Truppen.</p>
+
+            <p>Sehr gern hätte das Directorium des Vereins auch heute den Bronce-Guss der Statue des Ganymedes von Herrn Wredow zur Verloosung gebracht. Herr Geheimer Ober-Finanz-Rath Beuth hat die Geneigtheit gehabt, die Ausführung dieses Gusses im König- lichen Gewerbeinstitut, gegen Erstattung der Kosten des Metalls<note type="footnote" n="*)" resp="gnd-116890657"><hi>Karl Ferdinand Sohn (1805—186-]), Historienmaler, wurde einer der Begründer der düsseldorfer Schule.</hi></note></p>
+
+            <p>') Jidius Rudolf Benno Hübner (iSoC—1882), Historienmaler, war später Professor an der Akademie in Dresden.<pb n="6.491" xml:id="pbVI491"/> und Feuermaterials, zu übernehmen. Allein theils der Wunsch, einen nach Paris gesendeten geschickten Arbeiter zurückzuerwarten, theils die grosse und anhaltende Kälte des letzten Winters, welche dem Formen schädlich ist, haben gemacht, dass wir uns die Beendigung des Werkes erst in der Mitte des Sommers, dann aber mit Gewissheit, versprechen können.</p>
+
+            <p>Die seit dem Anfange des vorigen Jahres gemachten neuen Bestellungen betreffen bloss Gegenstände, welche die eigene Wahl der Künstler sind. Mehrere in der hochgeehrten Versammlung erinnern sich gewiss von der Ausstellung des Jahres 1824. her einer Landschaft, einer Ansicht auf Rom, vom Kloster S. Onofrio aus bei einer Abendbeleuchtung genommen, die jetzt hier in Privatbesitz befindlich ist, und damals mit so ungemeinem Beifall auf- genommen wurde. Sie rührte von dem in Strasburg lebenden, aus Magdeburg gebürtigen Maler Helmsdorf ^) her, und der Verein hat gut zu thun geglaubt, zwei Landschaften bei ihm zu bestellen.</p>
+
+            <p>Ausserdem sind den untengenannten Künstlern folgende neue Gemälde übertragen worden:</p>
+
+            <p>Herrn Lessing zu Düsseldorf ein Schloss am Meere, nach einem Gedichte von Uhland;</p>
+
+            <p>Herrn F. Nerly -) eine Italienische Gegend in Abendbeleuchtung, mit Landleuten, welche, festlich bekleidet, von der Weinlese zurück- kehren;</p>
+
+            <p>Herrn Architecturmaler Schulz zu Berlin") eine Ansicht des Römischen Forum vom Palatinischen Hügel aus;</p>
+
+            <p>Herrn Brüggemann in Stralsund eine Landschaft, und ein Seestück, die Verfolgung einer Griechischen Brigg vorstellend. Schon bei der heutigen Verloosung werden die hier anwesenden geehrten Mitglieder des Vereins einen Amor die Leyer spielend auf einem Löwen in Bronce, und einen in Stein geschnittenen Kopf des Homer, von Herrn Voigt, bemerkt haben. Es ist aufs Neue bei demselben Medailleur in Rom eine ähnliche Arbeit bestellt worden: Bellerophon, welcher den Pegasus bändigt, in einem orientalischen Carneol erhaben geschnitten.</p>
+
+            <p>') Vgl. über ihn Neue Briefe von Karoline von Humboldt S. 110. -) Friedrich Nerly (iSo-j — i8-j8), Architektur- und Genremaler. ") Johann Karl Schultz (1801 — iS-]^) war Lehrer an der berliner Bau- akademie.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

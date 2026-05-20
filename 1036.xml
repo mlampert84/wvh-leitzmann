@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Über die Organisation der Sektion und der Stellimg ihrer Mitglieder</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif10humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1903">1903</date>
+                  </imprint>
+                  <biblScope unit="page" from="261" to="262"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="10.261" xml:id="pbX261"/>
+            <p>LI. Über die Organisation der Sektion und die Stellung ihrer Mitglieder.</p>
+
+            <p>14. Mai 1810.</p>
+
+            <p>(Abschrifi im Geh. Staatsarchiv.) Die Regulirung der Etats für das nächstfolgende Jahr scheint es mir nothwendig zu machen, unmittelbar bei Ew. Excellenzien einen Punkt zur Sprache zu bringen, welcher nicht recht für die gemeinschaftliche Berathung der Staatsräthe geeignet ist, da er die Organisation der Section und diese ihre Mitglieder selbst betrifft. Ich glaube nemlich, dass es unumgänglich nothwendig seyn wird, für den Etat der Section eine, jedoch nicht bedeutende Er- höhung wenigstens vorläufig gleich jetzt vorzubehalten. Nach der Verordnung vom 24. November 1808 sollen die Sectionen des öifentlichen Unterrichts und des Cultus, ausser den geistlichen Mitgliedern zum Vortrag über eigentlich kirchliche Angelegenheiten, zusammen Sieben Staats-Räthe haben. Ich habe dagegen nur viere, und wann auch hierzu noch der Geh. Rath V. Lancizolle hinzukommt, so ist dieser verdienstvolle, aber jetzt schon alte, und überdies nur mit den französischen Angelegen- heiten bekannte Mann nur aus Achtung für ihn und die Golonie, nicht aber eigentlich zu einer irgend wesentlichen Hülfe bei den Arbeiten der Section derselben beigeordnet worden.<pb n="10.262" xml:id="pbX262"/> durch Krankheit behindert wird, oder beide Fälle gar zusammen eintreten. Auch hat die Section noch kein Mitglied, das sich mit vorzüglicher Sachkenntniss und Lust der Bearbeitung ökonomischer und finanzieller Gegenstände, deren doch viele vorkommen, widmete.</p>
+
+            <p>Ich muss daher bei Ew. Excellenzien gehorsamst darauf antragen, dass wenigstens Ein neues Staats-Raths-Gehalt im Laufe dieses Jahres, wenn es mir einen tüchtigen Mann zu einer solchen Stelle zu finden gelänge, vorbehalten bleibe.</p>
+
+            <p>Einen zweiten Antrag muss ich mir in Absicht der Herren Staats-Räthe Süvern, Uhden und Schmedding erlauben. Jeder dieser drei durch Talent und Kenntnisse ebenso ausgezeichneten als durch fleissiges und treues Arbeiten verdienten Männer haben nur 2200 Thl. jährliche Besoldung. Man muss aber offenherzig gestehen : dass dies für das Leben mit Familie in Berlin, in einem so angesehenen Posten, welcher dem Präsidenten-Posten aufs mindeste gleich zu achten ist, gewiss nur eine geringe Besoldung genannt werden kann. Auch haben wohl die meisten Staats-Räthe in den anderen Sectionen die ursprünglich allen bestimmte von 2500 Thl. und sehr viele eine bedeutend höhere, auch einige Erleichterung durch Dienstw^ohnungen. Alle die bei meiner Section Angestellten, befinden sich überdies in keiner günstigen eigenen Vermögenslage. Herrn p. Süvern ist von Seiten des Ministerii des Innern ausdrücklich der geringere Gehalt, den er damals zuerst erhielt, nur desshalb gegeben worden, weil er in der Folge bei der hiesigen Universität lesen sollte. Ew. Excellenzien sehen indess gewiss ein, dass, so schätzbar Herrn Süverns Thätigkeit bei der Universität seyn würde, es doch nicht gut wäre, wenn ein Staats-Rath auf einem Nebenposten, der sich hier, wo das Lehr- amt auf einer Universität, die sich auszeichnen soll, ungetheilte Kräfte erheischt, sogar nur als sehr ungewiss ansehen lässt, in Rücksicht seines Einkommens verwiesen würde. Herr p. Schmed-</p>
+         </div>
+      </body>
+   </text>
+</TEI>

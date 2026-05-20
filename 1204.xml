@@ -1,0 +1,227 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gemeindeordnung für das platte Land</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zwölfter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif1201humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1904">1904</date>
+                  </imprint>
+                  <biblScope unit="page" from="148" to="153"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="12.148" xml:id="pbXII148"/>
+            <p>wenn Vorträge der Abtheilungen vorhanden sind. Dann aber muss man jeden Aufschub entfernen. Wäre es daher nicht besser, dass das Plenum keine regelmässigen Sitzungen hätte, sondern der Staatskanzler immer ansagte, wenn Stoff zu einer Sitzung vorhanden wäre.^' ad § 35.*) Die regelmässige Suspension während eines ganzen Vierteljahres scheint mir nachtheilig, und dürfte um so mehr einen schädlichen Eindruck auf die öffentliche Meynung machen, als der Staatsrath erst mit dem April angeht, und mithin nur zwei Monate wirksam seyn kann. Die Arbeiten der Abtheilungen könnten ja wohl ungehindert fortgehen, und wenn die Plenarsitzungen nicht regelmässig immer, sondern nach Befinden der Umstände angesagt würden, so könnten diese füglich während der drei Sommermonate ruhen, ohne dass die Suspension ausdrücklich festgesetzt würde. Es könnte daher der § ganz wegfallen.</p>
+
+            <head>
+               <title type="main">XXI. XXII. „Gemeindeordnung für das platte Land."</title>
+            </head>
+            <p>Frühjahr 181 7.</p>
+
+            <p>(Unvollendeter, eigenhändiger Entwurf in Tegel.)</p>
+
+            <p>Am Tage der Eröffnung des StaatS7'ats (jo. März iSij) erließ der König eine Kabinettsordre, durch welche unter Hardenbergs Vorsitz eine Komttiission desselben eingesetzt wurde, die sich mit der Organisation der Provinzialstände, der Landesrepräsentanten und der Ausarbeitung einer Verfassungsurkunde beschäftigen sollte. Auch Humboldt gehörte ihr an, und es scheint, daß er als Grundlage für ihre Beratungen die im folgenden abgedruckte „Gemeindeordnung für das platte Land" (Nr. XXI) imd eine Disposition für die Kommunalordnimg (Nr. XXII) entwarf. Daß sie Bruchstücke blieben, ist erklärlich, denn die Verfassungskommission trat nur ein einziges Mal, am 7. Juli iSi-j, zusammen und den Staatsrath auch zu ausserordentlichen Sitzungen zusammenberufen, oder wenn die Gegenstände in eiyiem Tage nicht beendigt werden können, die nachjolgenden dazu bestimmen. — Die Abtheilimgen bestimmen ihre Versammlungen nach Massgabe ihrer Geschäfte, müssen aber jedesmal am vorhergehenden Tage dem Minister- Staatssecretair Anzeige davon machen.<pb n="12.149" xml:id="pbXII149"/> beschloß eine Rundreise der Minister von Altenstein, Klewiz und Beyme durch die Provinzen zur Austnittelung der bestehenden Verhältnisse und Erkundung der Ansichten und Wünsche. Da also die eigentliche Verfassungsarbeit dadurch vertagt wurde, ließ Humboldt wohl die begonnenen Entwürfe liegen, zumal ihn andre Tätigkeit lebhaft in Anspruch nahm.</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">XXI.</title>
+               </head>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">I.</title>
+               </head>
+               <p>Jedes Dorf, so wie jeder, nicht mit wirklichem städtischem Privilegio versehene Fleclvcn bildet eine Landgemeinde. Die Pro- vincial Gemeinde Ordnungen bestimmen, in wiefern Vorwerke, und zerstreut liegende Höfe zusammen Gemeinden bilden, oder zu den benachbarten gehören sollen.</p>
+
+               <p>2.</p>
+
+               <p>Es steht jedem frei durch Ankauf einer Besitzung, oder Ein- miethung in eine Wohnung, Mitglied einer Landgemeinde zu werden, und es findet dabei keine Entrichtung einer Abgabe statt.</p>
+
+               <p>3Eine Ausnahme hiervon tritt bloss, nach den darüber vorhandenen allgemeinen</p>
+
+               <p>Gesetzen, bei der Aufnahme, oder Zurückweisung verarmter</p>
+
+               <p>Familien ein.</p>
+
+               <p>4Alle innerhalb des Umfangs der Gemeinde wohnende, oder mit liegenden</p>
+
+               <p>Gründen ansässige</p>
+
+               <p>Individuen sind Mitglieder der Gemeinde; stimmführende aber nur diejenigen, welche mit dem persönlichen</p>
+
+               <p>Aufenthalt</p>
+
+               <p>Ackerbesitz darin verbinden.</p>
+
+               <p>Hiervon kann es provinzielle Abweichungen geben, allein immer werden die stimmführenden Mitglieder wenigstens ein Haus eigenthümlich besitzen müssen.</p>
+
+               <p>Ebenso wird nach Verschiedenheit der Provinzen zu bestimmen seyn, ob uneingeschränktes Eigenthum erforderlich, oder welche Art des beschränkten hinreichend seyn soll.</p>
+
+               <p>Der Regel nach haben alle Mitglieder der Gemeinde gleiche Rechte auf die Benutzung des Gemeinde-Eigenthums; jedoch bilden die bestehende</p>
+
+               <p>Verfassung und einmal erworbene</p>
+
+               <p>Rechte</p>
+
+               <pb n="12.150" xml:id="pbXII150"/>
+               <p>6.</p>
+
+               <p>Ebenso hat jedes Mitglied gleiche Verbindlichkeiten. Befreiungen davon müssen, als besonders zustehende Rechte, aus- drücklich bewiesen werden.</p>
+
+               <p>?•</p>
+
+               <p>Die Entscheidung über alle Angelegenheiten der Gemeinde steht bei den stimmführenden Mitgliedern derselben, oder deren Stellvertretern. Die Ausführung der auf diese Weise gewonnenen Beschlüsse, so wie die Besorgung aller Geschäfte, die einmal in einen festen Gang gewiesen sind, ist in den Händen der Gemeinde- vorsteher.</p>
+
+               <p>8. Ueberall, wo eine Gemeinde nicht über 24 stimmführende Mitglieder zählt, rathschlagt und beschliesst sie durch sich selbst. Grössere theilen sich in soviel verschiedene Bezirke, als nöthig ist, um in jeden nicht mehr, als 24 Individuen zu bringen. Jeder dieser Bezirke wählt alsdann so viele Stellvertreter, dass diese zusammen nicht weniger, als 12, und nicht mehr, als 24 Personen ausmachen. Diese Stellvertreter, oder da wo sie nicht nothwendig sind, die stimmführenden Mitglieder selbst bilden den Gemeinderath.</p>
+
+               <p>9Die Vorsteher bestehen in dem Schulzen und zwei Schöffen,</p>
+            </div>
+
+            <div type="section" n="3">
+               <head>
+                  <title type="main">und werden</title>
+               </head>
+            </div>
+
+            <div type="section" n="4">
+               <head>
+                  <title type="main">vom Gemeinderath</title>
+               </head>
+               <p>gewählt.</p>
+
+               <p>Jedes stimmführende Gemeindeglied, das 30 Jahre alt, unbescholtenen</p>
+
+               <p>Rufes, und des Lesens,</p>
+
+               <p>Schreibens und Rechnens kundig ist, kann zum Schulzen, oder Schöffen gewählt werden.</p>
+
+               <p>10.</p>
+
+               <p>Die Stellvertreter werden alle zwei Jahre, jedoch dergestalt, erneuert, dass dieselben, wiedergewählt werden können. Ebenso die Schöffen. Der Schulze verwaltet sein Amt lebenslänglich. Doch hängt es alle 6 Jahre von dem versammelten Gemeinderath ab, ihn durch -/s der Stimmen von demselben zu entfernen.</p>
+
+               <p>1 1.</p>
+
+               <pb n="12.151" xml:id="pbXII151"/>
+               <p>auf die Gerechtsame der Gemeinde zu wachen, das Vermögen der Gemeinde zu verwalten, für die Gemeindeanstaltcn, Kirche, Schule, Backhaus u. s. f.</p>
+
+               <p>zu sorgen, die Dorfpolizei, und die Dorfgerichtsbarkeit zu üben.</p>
+
+               <p>12.</p>
+
+               <p>Die Gemeinderechnung führt der Schulze, aber die Schöffen lassen sich dieselbe alle Monate vorlegen, und sehen die Gasse nach. Alljährlich nimmt der Gemeinderath sie förmlich ab, ehe sie aber als richtig erklärt w4rd, steht es vier Wochen lang jedem stimmführenden Mitgliede der Gemeinde frei, dieselbe auf dem Gemeindehause, oder wo es ein solches nicht giebt, bei dem Schulzen einzusehen, und seine Ausstellungen dagegen zu machen.</p>
+
+               <p>13Die Kirche und Schule erhalten einen eigenen Vorstand, welchen der Gemeinderath entweder aus seinen, oder den übrigen Mitgliedern der Gemeinde jedoch mit Zustimmung des Schulzen- amts wählt, wobei es auch nicht darauf ankommt, ob dieselben Stimmrecht haben, oder nicht. In der Ausführung ihres Geschäfts stehen dieselben unter dem Schulzenamt, dagegen machen sie unmittelbar dem Gemeinderath Vortrag über den Zustand der Kirche und Schule, und bringen Vorschläge zur Verbesserung an. Es hängt vom Gemeinderath ab, ob er noch für andre Gegenstände, als für die oben genannten, solche Vorstände einsetzen will; so wie er dies auch, jedoch dann nur auf Antrag des Schulzenamts für vorübergehende Geschäfte, Einquartirungen, Lieferungen, Holzschläge u. s. f. thun kann.</p>
+            </div>
+
+            <div type="section" n="5">
+               <head>
+                  <title type="main">H-</title>
+               </head>
+               <p>Die Polizei übt der Schulze ausschliesslich allein, ohne das Zuthun der Schöffen.</p>
+
+               <p>15Die Dorfgerichtsbarkeit beschränkt sich bloss (auf) schiedsrichterliche Aussprüche,</p>
+
+               <pb n="12.152" xml:id="pbXII152"/>
+               <p>Bei den letzten ist das Mass der Strafe bestimmt, die verhängt werden kann. i6.</p>
+
+               <p>Alles was nicht bloss Ausführung von Beschlüssen des Ge- meinderaths, oder Vollziehung von Befehlen der Regierung (wo- von weiter unten) ist, und entweder das Vermögen, oder die Gerechtsame, oder sonst überhaupt das Gemeinwohl betrifft, oder eine neue, von der bisherigen Regel abweichende Bestimmung enthält, muss von dem Schulzenamt vor den Gemeinderath ge- bracht werden. Dieser berathschlagt und entscheidet darüber, und das Schulzenamt ist an den Beschluss gebunden, dieser Beschluss müsste denn den Rechten eines Dritten, oder Verordnungen des Staats entgegenlaufen.</p>
+
+               <p>In diesem Fall geht der Recurs an die Kreisbehörde des Staats.</p>
+
+               <p>Verhältnisse der Gemeinde zum Staat.</p>
+
+               <p>17Der Staat führt die Oberaufsicht auch auf die Landgemeinde. Er übt dieselbe aus durch die Kreisbehörde, an deren Verfügungen die Gemeinde, mit Vorbehalt des Recurses dagegen an die Re- gierung gebunden ist.</p>
+
+               <p>i8.</p>
+
+               <p>Schulze und Schöffen bedürfen der Bestätigung der Kreisbehörde ; dieselbe kann aber nicht ohne bestimmt erklärte und erhebliche Gründe verweigert werden. Vermöge gleicher Befugniss kann die Kreisbehörde die Mitglieder des Schulzenamts suspen- diren; ihre Entfernung vom Amt aber kann nicht ohne Untersuchung, und nur durch den bestätigenden Ausspruch der Re- gierung geschehen.</p>
+
+               <p>19.</p>
+
+               <p>Die Unterordnung der Gemeinde unter die Ober- Aufsicht des Staats besteht in folgenden Punkten:</p>
+
+               <p>Die Gemeinde ist an alle allgemeinen Verordnungen des Staats da, wo dieselben Gegenstände ihrer Verwaltung betreffen gebunden, also in Schul-, Kirchen-, Forstord<pb n="12.153" xml:id="pbXII153"/>sie ist bei jeder Art einer Veräusserung, welche die Substanz ihres Vermögens angeht, und bei der Contra- hirung von Schulden an die Einholung der höhern Genehmigung gebunden, wo keiner dieser Fälle eintritt, allein der Staat glaubt, dass der Gemeinderath, mit oder ohne Zustimmung des Schulzenamts, oder beide zugleich dasjenige, was heilsam ist verabsäumen, oder etwas beschliessen, was ihr verderblich ist, kann die Staatsbehörde eine Berufung von dem Beschluss des Gemeinderaths , da wo dieser aus Stellvertretern besteht, auf die ganze Gemeinde veranstalten, und den fraglichen Gegenstand zur allgemeinen Berathung bringen. Bei demjenigen, was dieser beschliesst, hat es aber hiernach durchaus sein Bewenden.</p>
+
+               <p>Die Gemeinde ist verpflichtet, der Regierung, so oft dieselbe es verlangt, den ganzen Zustand ihrer Verwaltung, und ihres Vermögens darzulegen, und jede verlangte Erläuterung darüber zu geben.</p>
+
+               <p>20.</p>
+
+               <p>Der Schulze ist ausserdem die unterste Landbehörde der Regierung, und verbunden, ihre Befehle zu vollstrecken.</p>
+
+               <p>Verhältniss der Gemeinen zum Gutsherrn.</p>
+
+               <p>(bricht hier ab.)</p>
+            </div>
+
+            <div type="section" n="6">
+               <head>
+                  <title type="main">XXII. Disposition zur Communalordnung.</title>
+               </head>
+               <p>(Eigenhändiger Entwurf in Tegel.)<note type="footnote" n="i)" resp="gnd-116890657"><hi>Die Communalordnung muss von der Gesetzgebung bis zur Kreisordnung fortgeführet werden.</hi></note><note type="footnote" n="2)" resp="gnd-118554727"><hi>Es fragt sich, ob zwischen Commune und Kreis noch eine Zwischenstufe seyn muss.''</hi></note></p>
+
+               <p>Rhediger*) nimmt zum Behuf der Bauernwahlen Collective von zehn Dörfern an.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

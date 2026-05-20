@@ -1,0 +1,270 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gedichte aus den Jahren</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Neunter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif09humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1912">1912</date>
+                  </imprint>
+                  <biblScope unit="page" from="82" to="92"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <creation>
+            <date when="1809">1809</date>
+         </creation>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="9.82" xml:id="pbIX82"/>
+            <head>
+               <title type="main">Gedichte aus den Jahren 1809 — 1820.</title>
+            </head>
+            <p>Gegrüsset seyd mir, freundlich holde Hügel, die schon mein Blick so lange nicht geschaut, auf die ich früh des Lebens Glück gebaut, wohin so oft mich trug der Sehnsucht Flügel! Rasch eilt das Leben mit verhängtem Zügel, von Nacht und Stürmen finster oft umgraut; doch wer gern lauscht des Busens innrem Laut, dem glänzet der Erinnrung sanfter Spiegel. Mir leuchtet er in Euch. Des Tages Schwüle wich allgemach; der Aehren Häupter wallten, bewegt vom leisen Hauch der Abendkühle, die Sonne sank hinter des Berges Falten, da sagte mir ihr Blick zu die Gefühle, die engeltreu sie mir seitdem gehalten.</p>
+
+            <p>b. Schwarzburg. ^) In dem schönverschränkten Felsenthale, wo die Schwarza rollt die klare Flut, auf der Tannen Nacht der Himmel ruht, hoch von Bergen winken Helden-Male,</p>
+
+            <p>V Handschrift (i Quartseite) im Archiv in Tegel; Humboldt hat mit zitternder Altersschrift den Titel „Auf Burgörner" und die auf falscher Erinnerung be- ruhende Jahreszahl iSiy übergeschrieben. — Erster Druck: Wilhelm und Karoline von Humboldt in ihren Briefen j, ß46 (iQog)10 „der^^ verbessert aus „die schweren". y Handschrift von b und c (2 Folioseiten) im Archiv in Tegel.</p>
+
+            <p>I „schönverschränkten" verbessert aus „engverschränkten".</p>
+
+            <pb n="9.83" xml:id="pbIX83"/>
+            <p>trinkt beglückt man tief aus Lethes Schale, und vergisst Hesperiens Pracht und Glut beim Gespräch, das wohl dem Herzen thut, in des Schlosses hochgewölbtem Saale. Glücklich, wem auf seiner Lebensreise, wenn ihn mancher Länder Raum auch trennt, dennoch in dem edlen Fürstenkreise oft zu weilen freundlich wird vergönnt, den, nach gutgesinnter Völker Weise, segnend noch der Enkel spätster nennt!</p>
+
+            <p>Glückliche Tage, wo tief in selgem Vergessen begraben liegt, was furchtbar die Zeit traget im schwangeren Schooss, wo die Natur dir die Hand, die freundlich tröstende, bietet, und in der Edlen Kreis still das Gemüth sich erfreut; solcher Tage bezeichnen nur Wenge der Sterblichen Daseyn, auf einförmiger Bahn einzeln und sparsam verstreut; wie in herbstlicher Nacht, umzogen von düstrem Gewölke, einsam ein freundlich Gestirn hier dir nur leuchtet und dort. Aber ein einziges auch bereichert auf immer das Leben, wird zum ewigen Quell neu sich erzeugender Lust. Denn es entflieht wol die Zeit, doch an die entfliehende reiht sich</p>
+
+            <p>5 „beglückt man tief '' verbessert ans „man leicM^ ; nach „Lethes'^ gestrichen: ,.goldner^'. — 6 „vergisst — und^' verbessert aus „vergisset (aus „vertauschet'') gern des Südens''. — 7 zuerst: „wo sich üppig auf die Schöpfung thut". — 8 „in des Schlosses" verbessert aus „beim Gespräch im" aus „mit des Schlosses". — 10 „mancher" verbessert aus „ferner". — 12 „oft" verbessert aus „manchmal wird"; „freundlich wird" verbessert aus „mild". — 14 „Enkel spätster" verbessert aus „spätste Enkel".</p>
+
+            <p>V Erster Druck: Archiv Jür Literaturgeschichte ij, 426 — 427 (1S85). Die zugrunde liegende Handschrift befitidet sich im Nachlass der Fürstin Karoline Luise von Schwarzburg-Rudolstadt und trägt das Datum des 10. September 1810.</p>
+
+            <p>4 „Edleren" in der rudolstädter Handschrift. — 6 „einförmiger" verbessert aus „der dornigten"; zuerst: „wie durch zerrissen Gewölk zittert ein einsam Gestirn", dann: „durch die Hand des". — 8 „einsam" verbessert aus „einzeln"; „freundlich Gestirn" verbessert aus „freundlicher Stern"; „dir — dort" verbessert aus „nur imd dort dir erscheint"; „leuchtet" verbessert aus „lächelt". — 11 „an" verbessert aus „auf"; „reiht sich" verbessert aus „folget" aus „reihet".</p>
+
+            <pb n="9.84" xml:id="pbIX84"/>
+            <p>in wehmüthiger Brust süsser Erinnerung Glück. Und süss sind auch dem Herzen die Trümmer vergangener Freuden, wenn der Hofnung Strahl sanft sie und HebHch erheilt. 15 So in dankbarer Brust nun trag' ich auf immer die Höhen, welche der Tannen Nacht mächtig und finster umkränzt, und den grünenden Hain, der zum süssen Gemurmel der</p>
+
+            <p>Schwarza sanft einladend herab steigt von der felsigten Höh, und den waldigten Hügel, den inselartig geformten, 20 den wie ein blumiger Fluss lieblich die Wiese umschlingt, aber vor allen euch, des Schlosses heilige Hallen, alten Fürstengeschlechts nimmer entweiheten Sitz, wo noch die Deutschheit weilt, bewahrt in Kraft und in Sitte, die, auf das Eigne nicht stolz, würdig das Fremde ver- schmäht, 25 wo zwei edle Geschlechter, die rühmend nennet die Vorzeit, holder Eintracht Band glücklich und sicher verknüpft.</p>
+
+            <p>Hier verflossen die Tag' in mancherlei Wechselgespräche, das zu dem Fernen sich bald, bald zu dem Näheren wand, im Genuss der Natur und der Abgeschiednen Erinnrung, 30 die, auf immer getrennt, einzig die Nahen doch sind, wie die waltende Gottheit des Busens, umgebend das Daseyn, dass die beklommene Brust Wonne durchschauert und</p>
+
+            <p>Schmerz.</p>
+
+            <p>Glücklich, wem das Geschick, und die Huld der Edlen auch künftig ähnlicher Tage Genuss freudig zu hoffen vergönnt!</p>
+
+            <p>12 „süsser" verbessert aus „sich der". — 14 „lieblich" verbessert aus „freundlich". — 77 „Hain" verbessert aus „Wald". — 20 „wie — Fluss" verbessert aus „in verzogener Bucht" (so auch in der rudolstädter Handschrift). — 2ß „die Deutschheit noch" in der rudolstädter Handschrift; „noch — Sitte" verbessert aus „in Sitte und Kraft bewahrt die Deutschheit noch weilet" aus „noch — Sitte". — 25 „die — Vorzeit" verbessert aus „zum Segen des glücklichen Volkes"; „rühmlich" in der rudolstädter Handschrift. — 26 „glücklich und sicher" verbessert aus „nimmer zerreissbar". — 28 „Näheren" verbessert aus „Nahen sich". — ßO nach „getrennt^^ gestrichen: „sind doch auf". — ji „umgebend das Daseyn" verbessert aus „das Daseyn umgebend". — ^2 „Brust" verbessert aus „Herz" aus „Brust"; zuerst: „Wonne giessend und Schmerz in die beklommene Brust". — ^4 „freudig" verbessert aus „öfter".</p>
+
+            <pb n="9.85" xml:id="pbIX85"/>
+            <p>Da wir zerknirscht die Beichte nun gesprochen, so bleiben nicht auf halbem Weg' wir stehn. Nun wacker einmal ist die Bahn gebrochen, so müssen wir mit gutem Vorsatz gehn 5 aus diesem Jahr, das herrlich uns gerochen, in das, dem hoffend wir entgegensehn; damit, von aller Sünde nun entbunden, wir werden rein und fleckenlos erfunden.</p>
+
+            <p>Wir wollen der Verwilderung entsagen, 10 in die uns hat das Hauptquartier geführt, nach Rücken nicht, noch Attitüden fragen, Würfel und Karten lassen unberührt, nicht Toback rauchen, und selbst Puder tragen, dass jeder morgen früh gleich an uns spürt, 15 dass wir geworden sind auf einmal heute, fürwahr, ganz fein' und ordentliche Leute. Und wenn wir uns dann grässlich ennuyiren, uns, wie ein neuer Schuh, die Bessrung drückt, und seufzend wir im Stillen uns doliren, 20 dass uns die goldne Freiheit ist entrückt, und wenn, statt frei und frank sich zu mocquiren, ein jeder vor sich hin trübselig blickt, dann woll'n das Jahr vierzehn wir sehr erheben, allein für uns, wie anno Dreizehn leben.</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">e. Karl Kaspar a Petra (vom Felsen) Erzbischof und Kurfürst von Trier, [anno 1652. — 1676.) aus dem Ge-</title>
+               </head>
+               <p>schlecht der von der Leyen an Deutschland.-)</p>
+
+               <p>Fels bin ich, nicht wank' ich, mit fest anknüpfenden Banden heftet mich Austria; Du, Gallier, lockest umsonst!</p>
+
+               <p>V Handschriß (i Quartseite) im Archiv in Tegel.</p>
+
+               <p>I „wir" verbessert aus „nun"; „nun" verbessert aus „ist". — 2 ,,so bleiben" verbessert aus „bleiben wir" ; „Weg" wir" verbessert aus „Wege". — 4 „so müssen wir" verbessert aus „müssen"; nach „Vorsatz" gestrichen: „auch wir". — 7 „damit" verbessert aus „dass". — 18 „Schuh" verbessert aus „Rock".</p>
+
+               <p>-) Handschrift (j QuartseitenJ im Archiv in Tegel. Das lateinische Original dieser Übersetzung, löyg von Franz Xaver Trips, Pastor in Hontief, verfasst, der</p>
+
+               <pb n="9.86" xml:id="pbIX86"/>
+               <p>Fels bin ich, und auf felsigtem Grund nicht Lilien wachsen; aber der Adler, er baut hoch sich im Felsen das Nest. 5 Ganz Germanien mag abstehen von Austrias Herrscher,</p>
+
+               <p>Karl wird Austrias Stamm einzige Hofnung doch seyn. Erzesgewalt bricht nimmer, es beugt Gold nimmer den Felsen,</p>
+
+               <p>Cäsar'n gehöret er an; Cäsar'n nur bleibet er treu. Kehr auch Alles sich um, stürz hin es, und werde verheeret, lo wo er gestanden zuvor, bleibt unerschüttert der Fels.</p>
+
+               <p>Kein Heil ist bei dem Gallier, der Gallier stürzet uns Alle.</p>
+
+               <p>Kein Sohn Teuts kann je leben vom Gallier beherrscht. Sträubend verweigert das Joch Germanische Freiheit zu tragen, doch kommst nicht du zuvor, wirst du, Teutone, Vasall. 15 Wahrheit Sprech' ich, allein wer glaubt, kaum höret mich einer,</p>
+
+               <p>Schmach, die selbst er erträgt, rüstet, Teutone, er Dir. Gienge dem Feinde mit enge verbundenen Kräften entgegen</p>
+
+               <p>Deutschland; längst schon kein GalHer wäre da mehr. Doch weil jetzt der Teutone, getheilt, zwiespältigem Pfad folgt, 20 ruft mit dem eigenen Schwert selbst sich den Tod er herbei. Siehe! in Regensburg wie lang schon wird da gerathschlagt? Weh ! Rathschlagens wo wird Ende denn kommen und Ziel } Traun! Rathschlagens erspriesslichste Art ist, brauchen die</p>
+
+               <p>Schwerter.</p>
+
+               <p>Unserer Ahnherrn Rath, sage, was war er? das Schwert. 25 Wie einst mehrtest der Lorbeern Zahl Du, fünfter der Karle ?</p>
+
+               <p>Stets auf dem Schwert damals ruhte dem Kaiser der Rath.</p>
+
+               <p>Auf! Leopold ! auch Du zück' endlich die WafP aus der Scheide.</p>
+
+               <p>Nicht mehr kommet es an — brennet das Haus doch ! — auf Rath.</p>
+
+               <p>Siehe ! das Reich durchstürmt schon lange die Gallische Flamme 30 prasselnd ; was flechten wir noch, säumend und säumend, Verzug ?</p>
+
+               <p>Eitel nur ist Rathschlagen, wenn i m Rathschlagen man um- kommt.</p>
+
+               <p>Bleibet noch Hofnung zurück, birget allein sie das Schwert. neunte Abschnitt einer Gedichtreihe „Europae Status descriptio metrica", findet sich im Tyrocinium poeticum autore quondam e societate Jesu 6, ^8 (der Text bei Hont- heim, Prodromus historiae trevirensis S. 8g8 ist um ein Distichon kürzer).</p>
+
+               <p>12 „Sohn Teuts^^ verbessert aus „Teutone". — 24 „sage"' verbessert aus „siehe"'. — 26 „Schwert"" verbessert aus „Schwerte".</p>
+
+               <pb n="9.87" xml:id="pbIX87"/>
+               <p>Unsere Schlaffheit macht, hinstarrend, den Gallier muthig, dass ausrichten er will, was ihm nur irgend beliebt. 35 O ! Germanische Grossen ! wie weit ab stehn wir von jenen ! Was doch waren wir einst? Weh! die Erinnrung be- schämt.</p>
+
+               <p>Nicht von dem Gallier besieget, und furchtbar erscheinend dem Gothen; jetzo die Fabel der Welt sind wir, und eitles Gespött. Freiheit verkaufet, die Stärke zerrissen ! und wenig vermag noch 40 Cäsar, vom Alten nun bleibt kaum noch der Schatten zurück.</p>
+
+               <p>Laut lacht dazu der Gallier; was Wunder? die Gallische Palme konnte zu finden sie je herrlicher nähern die Zeit? Wohin wichest Du, Tugend Germaniens, Treue der Vorzeit?</p>
+
+               <p>So werd' ich es nur seyn, welcher die Lilien verschmäht. 45 Treu seyn werd' ich, wie lebend ; es stinken die Lilien an mich ;</p>
+
+               <p>Du bist Leopold nur Ruhm mir und Ehre der Brust.</p>
+
+               <p>Ja ! nur für Leopolds Heil werd' ewig ich leben und sterben, und nie achten, was Du, Gallischer Ludewig, drohst. Nimm Trier ein, und zerstöre die Städte, die Dörfer, die</p>
+
+               <p>Häuser 50 wild; nie wanke ich, nie werde ich, Gallier, Dein.</p>
+
+               <p>Lieber zu Austrias Landstrich wähl' ich zu ziehn, ein Ver- bannter, eh' ich mich beuge ins Joch, trügrischer Gallier, Dir. Gallier, Du kannst mir die Mosel, das Land mir entreissen der Väter, thun, was schäumender Zorn, was Dir gebietet die Wut. 55 Alles verachte ich kühn, nicht beuget der Güter Verlust mich, nicht, mir zum Mord auf die Brust furchtbar gezücket, der Dolch. Mein bin ich, Reichsfürst, frei unter den Kaiser gestellet; wollt' ich, der mein seyn kann, werden des Anderen je ? Komme ich um, schön ist umkommen zum Schirme der Freiheit, 60 nicht kommt um, wen um kommen so lässt das Geschick.</p>
+
+               <p>Komme ich um, komm' um ich allein durch die Schlaffheit der Deutschen, denen zu retten, als Zeit noch dazu war, mich geziemt. Möge ich um, mein Land um, um auch Jegliches kommen, bleibe getreu ich nur dem, welchen ich nenne mir Herrn.<pb n="9.88" xml:id="pbIX88"/> 65 Rein ist stets mein Sinn, und er brennet von Liebe zum Kaiser. Gallien über mich hat nimmer das mindeste Recht.</p>
+
+               <p>Aber das Andre vertrau ich den Himmlischen, die, wenn verloren</p>
+
+               <p>Alles man giebt schon, oft senden noch Hülfe und Schutz.</p>
+
+               <p>f. An das Jahr 1813 und 1814.<note type="footnote" n="^)" resp="gnd-116890657"><hi>Aus Humboldts Brief an Karoline vom ig. März 1814. — Erster Druck : Wilhelm imd Karoline von Humboldt in ihren Briefen 4, 2'jg (igio).</hi></note> Was irrdisch blüht, reisst fort der Jahre Wallen, und nichts besteht, was gross einst ragt' und hehr. In nächtig Dunkel, ohne Wiederkehr, wie Laub des Herbstes, Völker, Herrscher fallen. 5 Will auch von fern ihr Ruf hertönend schallen, so überbraust, von wilder Stürme Heer gepeitscht, der Zeit allüberwogend Meer mit seiner Flut Getös' ihr dumpfes Hallen. Nur That und Wort durch Ewigkeiten währen, 10 da sich ihr Hauch, verstummt gleich irrdscher Mund, nicht irrdisch selbst, hängt an der Sterne Sphären. Darum vergeht nie dieser Jahre Weihe, da, stark durch sich, und stark durch festen Bund, siegt hoher Fürstensinn und Völkertreue.</p>
+
+               <p>g. Sehnsucht nach den Gestirnen.^) Die Sterne, die am Himmelsbogen blinken, senden dem Menschen süss verwandten Schein.</p>
+
+               <p>Ist es vergangnes, nur vergessnes Seyn, ist es zukünftges, das sie niederwinken? 5 Doch ewig einsam sie den Aether trinken, erreicht von unsrer Sehnsucht Hauch allein, die, unbefriedigt, folgt den goldnen Reihn, wenn auf sie steigen oder niedersinken.</p>
+
+               <p>V Aus Humboldts Brief an Kai'oline vom 16. März 1814. — Erster Druck: Neue Briefe von Karoline von Humboldt S. 64 (igoi). Zugrunde liegt eine Ab- schrift Welckers in dessen Nachlass.</p>
+
+               <p>I „entführt" in der Abschrift. — 2 „war^^ in der Abschrift. — j „nächtlich" in der Abschrift. — 4 „Herrscher, Völker"' in der Abschrift. — 5 „ihr Ruf fernher laut tönend" in der Abschrift. — 6 „es übertäubt" in der Abschriß. — 10 „Glanz" in der Abschrift. — iß zweimal „gross" in der Abschrift. — 14 „F ürstenmuth" in der Abschrift.</p>
+
+               <pb n="9.89" xml:id="pbIX89"/>
+               <p>Nur Ein Weg führt an jene lichten Orte.</p>
+
+               <p>Wem Himmelssehnsucht heiss die Brust verzehrt, muss suchen erst des Todes schwarze Pforte. So steht in schöner Mitte Menschenleben, da, wenn es auf zum Sternenzelt begehrt, süss stillt der Erde kühler Schooss sein Streben.</p>
+
+               <p>h.i)</p>
+
+               <p>Was sich gestaltet, leblos und lebendig, versammelt sich um Einen Bildungskern, da sonst die Stolle blieben stets sich fern, schweifend chaotisch, einzeln, unbeständig. Der Erdball ward geformt so von inwendig, gesellt so seiner Sonne jeder Stern, und vom Krystall bis zu der Schöpfung Herrn herrscht dies Gesetz, fest, ewig und nothwendig. So auch im Menschenglück. Wo Eins verliehen, das fest sich um das Herz des Busens rankt, des Einen Kräfte Alles an sich ziehen. Mir ward dies Eine an dem Tag geboren, dem Dich, Geliebte, mein Geschick verdankt. Jetzt ist des Unglücks Macht an mir verloren.</p>
+
+               <p>i. Erdenfreuden. -) Da, wo des Berges Gipfel sich erhebt, sah Blumen ich in heitrem Glänze stehen.</p>
+
+               <p>Ich wagte nicht zu ihnen hinzugehen, mir war die Stirn von düstrem Gram umbebt. In bittersüsser Sehnsucht Schmerzen lebt die Glut in mir, und neue Flammen wehen, so oft die Augen auf zu'n Blumen sehen im Herz, so sich mit seinem Schmerz begräbt. Da stieg ein holdes Kind zu mir hernieder, ein süsses Lächeln schwebt um seinen Mund, y Aus Humboldts Brief an Karoline vom 28. März 1S14. — Erster Druck : Wilhelm imd Karoline von Humboldt in ihren Briefen 4, 288 figio).</p>
+
+               <p>y Aus Humboldts Brief an Karoline vom 2j. Mai 1814. — Erster Druck : Wilhelm von Humboldts Gesammelte Werke i, 408 (1841). Varianten: 4 „Graun umwebt"; 5 „Glut erbebt"; 6. 7 „die Seele mir, vor ihrer Düfte Wehen, und holder lächeln sie von goldnen Höhen"; 8 „dem herzen zu, das sich in".</p>
+
+               <pb n="9.90" xml:id="pbIX90"/>
+               <p>90 und macht mir leis die ernste Warnung kund: „Brich jene schnell — sie blühen so nicht wieder eh' sie des Todes kalter Hauch berührt, und sie auf ewig deinem Aug' entführt."</p>
+
+               <p>Ich bin ein armer heidnischer Mann, Der die Kirchen nicht leiden kann;</p>
+
+               <p>Ich leb' in der alten vergangenen Zeit, Drum wähle ich mir die Einsamkeit. 5 Die Menschen von jetzt, sie gefallen mir nicht;</p>
+
+               <p>Sie holen vom Himmel ein wundervoll Licht; Die Alten, sie schöpftens aus eigner Brust, Und senktens in Lebens Wehmuth und Lust.</p>
+
+               <p>Ich werde nicht lange auf Erden mehr se3'n; lo Drum nenn' ich den Busen allein nur noch mein; Den Busen, in den ich versammelt die Welt, Wie sie sich lebendig hat um mich gestellt.</p>
+
+               <p>Mit diesem nur wandr' ich den dunkeln Pfad, Zu ackern Gefilde für neue Saat. ^5 Denn was der Mensch in sich beweget und denkt, Wird nimmer und nie in Vernichtung gesenkt.</p>
+
+               <p>April. 1815.</p>
+
+               <p>Ade, Ade, ihr lieben Fluren, o, bleibet mir getreu! Erhaltet meiner Liebe Spuren, in mir ja ist sie ewig neu. 5 Hier hat die Hehre, Holde geliebet mich zum erstenmal.</p>
+
+               <p>V Handschrift (i Oktavseite, ohne Versabsetzung) im Archiv in Tegel. — Erster Druck: Deutsche Rundschau 144, ^^8 ( September heft igio).</p>
+
+               <p>4 nach „ich^^ gestrichen: ,.auch". — 5 „sie gefallen^' verbessert aus .,ge- fallen'^. — 7 „sie schöpftens" verbessert aus „schöpftens'''' .</p>
+
+               <p>"^j Handschrift (i Quanseite) im Archiv in Tegel. 1 „lieben" verbessert aus .,th[euren]". — 4 zuerst: „lasst, wie in mir, an euch sie bleiben neu".</p>
+
+               <pb n="9.91" xml:id="pbIX91"/>
+               <p>die, wie mit Morgensonnengolde, umstralte dies geliebte Thal.</p>
+
+               <p>Darum vor allen auf dem Erdenrunde, 10 vom Morgen bis zum Abendglanz, bleibt theuer bis zur letzten Stunde mir dieser Hügel stiller Kranz.</p>
+
+               <p>Wohl mag die Sonn' ihm dunkler scheinen, und Nebel oftmals sie umziehn, 15 der Mensch auch muss oft menschlich weinen, und Wonn' und Jugend kann nicht ew^ig glühn.</p>
+
+               <p>Es strahlet weit das Herrliche und Schöne, und weckt das staunende Verlangen, doch dass die Brust sich heimisch dran gewöhne, 20 hält gern sie engrer Kreis gefangen.</p>
+
+               <p>Was tief das Herz in Frieden wieget, was Wonne beimischt süssen Sorgen, was ewger Sehnsucht immer neu genüget, lag hier mir, wie ein Schatz, verborgen. 25 O, möcht' auch mir in kühler Erde Bette zu ruhen hier einst seyn vergönnet, da heiliger und süsser keine Stätte seit meiner Jugend Tagen ich genennet.</p>
+
+               <p>Besiegt dann von des Todes Schauern, 30 lieg ich, wie sonst ich oft gestanden, zu schaun vom Berge auf die theuren Mauern, die fest mich hielten in der Liebe Banden.</p>
+
+               <p>Und so kann, wie er hat begonnen, sich meines Daseyns Kreis beschliessen, 35 dass, was zuerst mein Herz gewonnen, sieht seinen letzten Lebensschein vertiiessen.</p>
+
+               <p>14 „umziehn^' verbessert aus ..umziehen''. — 16 ,,glühn'' verbessert aus ,,glü/ieu-\ — 17 „strahlet weit'- verbessert aus „strahlt". — 24 Jag" verbessert aus ,,)var". — 25 „mir" verbessert aus „einst". — 26 „einst" verbessert aus ..mir". — 28 „genennet" verbessert aus „gekennet".</p>
+
+               <pb n="9.92" xml:id="pbIX92"/>
+               <p>m. An die S o n n e. ^) beim ersten Einheizen am 2. Julius, 1820.</p>
+
+               <p>Als, vom erblindeten Seher der Heimkehr Pfade zu spähen,</p>
+
+               <p>Penelopeiens Gemahl schifft' an die Gränzen der Nacht, schaut' er, vom Rauschen umflattert des nichtigen Volkes der Schatten, auch Herakles Kraft, bogen- und köcherbewehrt; 5 doch nicht selber, den Heros; den Uebergewaltigen traget nicht Charontischer Kahn über den stygischen Sumpf. Nur sein Schattengebild irrt dort, schwarzdunkelnder Nacht gleich, spannend das Todesgeschoss, immer zu treffen bereit. Aber er selbst weilt oben im götterumthronten Olympos, 10 Hebe, des Donnerers Zeus herrlicher Tochter gesellt.</p>
+
+               <p>Aehnlich Laertes Erzeugtem, erschaun auch wir, die wir wohnen hier um den traurigen Nord, nimmer, o Sonne, dich selbst» Nur dein Schatten durchwanket den wolkenumfloreten Himmel, scheint zu entsenden den Strahl, aber entsendet ihn nie. 15 Du, das geliebteste Kind des erzeugenden, ewigen Aethers, der er der eigenen Kraft leuchtendste Reinheit verlieh, wählst dir beglücktre Gefilde der menschenumwohneten Erde wo dein siegender Strahl leuchtet in Fülle und Kraft; jenseits, dort wo den Stürmen des eisigen Nordens der Alpen 20 mächtige Felswand setzt wehrend den trennenden Wall, um Albanos Gebirg, um die siebengehügelte, grosse</p>
+
+               <p>Stadt, um Ilissos Gestad', oder Taygetos Höhn, schreitst du vom Morgen zum Abend, und tauchst, heiss löschend, die Glanzflut in des unendlichen Meers funkenumsprüheten Saum, 25 bis in der Kühle der Nacht dich der goldene Becher zurückträgt durch des Okeanos Strom, neu zu erfreuen die \\&gt;lt.</p>
+
+               <p>V Handschrift (2 halbbeschriebene Folioseiten) im Archiv in Tegel. — Erster Druck: An die Sonne, von Wilhelm von Humboldt. (Manuskript für Freunde.) Paris, bei Firmin Didot, königlichem Buchdrucker. 1820. 4 Seiten.</p>
+
+               <p>Titel „beim ersten Einheizen^'' fehlt im Druck. — 2 „schijt' — Nacht" verbessert aus „stieg zu dem Hades (aus ,,AYs") hinab''. — 9 „oben im götterumthronten^'' verbessert aus „hoch in dem göttlichen Sitz des''. — /y „beglücktre Gefilde"' verbessert aus „beglücktere Sphären". — 20 „mächtige — wehrend" verbessert aus „mächtiges Felsengebirg setzet"; „trennenden" verbessert aus „wehrenden". — 22 „Ilissos" verbessert aus „Ilissus". — 26 „des" fehlt im Druck.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

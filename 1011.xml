@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Über geistliche Musik</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif10humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1903">1903</date>
+                  </imprint>
+                  <biblScope unit="page" from="73" to="76"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="10.73" xml:id="pbX73"/>
+            <p>gegeben hat, Ew. Königlichen Majestät ins Gedächtniss zurückzu- rufen und bei Allerhöchstdenselben ehrerbietigst darauf anzutragen, dem Professor Fichte das ihm zugesagte Gehah A'on 800 Thl. für das gegenwärtige Jahr, entweder sogleich ganz, oder für jetzt zur Hälfte allergnädigst auszahlen zu lassen, und ihm die Fortdauer desselben auf so lange zuzusichern, bis er bei der in Berlin zu errichtenden Universität wird in Thätigkeit gesetzt werden können.</p>
+
+            <p>Königsberg, den iQteu May 1809. Humboldt.</p>
+
+            <head>
+               <title type="main">XVI. Über geistliche Musik.</title>
+            </head>
+            <p>14. Mai 1809.</p>
+
+            <p>(Eigenhändiges Konzept in den Akten des Kultusministeriums, Abschrift im Geh. Staatsarchiv, gedruckt Werke V jigff.</p>
+
+            <p>Zelter, der neben seinem Bauhandwerk mit Eifer Musik trieb und seit 1800 die Singakademie in Berlin dirigierte, hatte i8oj bei Hardenberg als Kurator der Kunstakademie eine Denksch-ift eingereicht, in der die Notwendigkeit der staatlichen Förderung des Musikwesens dargelegt war. Sie blieb erfolglos. Als er nun erfuhr, daß Humboldt an die Spitze der Sektion treten werde, wandte er sich an seinen Freutid Goethe mit der Bitte, mit Humboldt zu seinen Gunsten zu spi-echen, zumal er sich in übler materieller Lage befand. Goethe tat dies, als jener sich Ende Dezember 1808 auf der Reise nach Berlin in Weimar aufhielt. In Berlin angekommen, forderte Humboldt Zelter auf, seine Wünsche zu fortnu- lieren, und dieser reichte ihm yieben der früheren Denkschrift noch eine zweite (vom II. März i8og) ein. Auf Grund dieser Vorschläge stellte Humboldt unter Beifügung der Zelterschen Arbeiten seine Anträge beim Könige, und Zelter wurde am i-j. Mai i8orj zum Professor imd Aufseher der Musik bei der Akademie der Künste ernannt.</p>
+
+            <p>Der erste Entwurf der Denkschrift „Über geistliche Musik" in den Akten des Kidtusministeriums trägt das Datum 4. A^pril; die endgültige Ausarbeitung datiert vom 14. Mai 180Q.</p>
+
+            <p>Über geistliche Musik.</p>
+
+            <p>Man hat oft und mit Recht geldagt, dass der Einfluss zu wenig benutzt würde, welchen die Musik auf den Charakter und die Bildung einer Nation ausüben kann, und man muss gestehen, dass dieser Vorwurf bisher auch die Preussischen Staaten traf. Es ist<pb n="10.74" xml:id="pbX74"/> leugbar,<note type="footnote" n="*)" resp="gnd-116890657"><hi>Im ersten Entwurf heißt es liier: „Dass, besonders in iinsern nördlichen Gegenden, wo die bildende Kunst mit so inannigfaltigen Schwierigkeiten zu kämpfen hat, die Musik vorzugsweise vor dieser fähig ist, tief und bildend auf die Empfindung und die Gemütlier selbst der niedern Volksklassen einzuwirken. Da sie sich unmittelbar an das Gefühl wendet, und nicht erst bestimmt gebildete Begriffe oder mühsam erworbene Kenntnisse fordert, um in ihrer Kraft und Fülle empfunden zu werden, sondern das rein Menschliche, das auch die niedrigsten, nur nicht geradezu verbildeten Stände in sich bewahren, ihr von selbst willig ent-</hi></note> dass sie schon darum mehr als jede andere auf die Ge- müther selbst der niedern Volksklassen einzuwürken fähig ist, weil sie einen wesentlichen Theil des öffentlichen Gottes-Dienstes aus- macht.</p>
+
+            <p>Auch hat von der Vernachlässigung der musikalischen Institute der Gottes-Dienst am meisten gelitten. Einsichtsvolle Religionslehrer haben dies öfter bemerkt und nach dem Zeugniss der Tonkünstler muss auch die Musik nach und nach auf Abwege gerathen, wenn sie nicht mit der Zeit wieder mehr zu dem **) ernst- hafteren und feierlicheren Kirchenstile zurückkehrt.</p>
+
+            <p>Ich glaube daher in dem mir anvertrauten Wirkungskreis einen doppelten Beruf zu finden, einen Vorschlag zu machen, wie die Wirksamkeit der Musik auf den öffentlichen Gottesdienst und die National-Bildung erhöht, und dadurch auch sie selbst mit der Zeit noch m.ehr veredelt werden könnte.</p>
+
+            <p>Da hier nicht von theoretischen Verbeßerungen, sondern recht eigentlich von der Veredlung derjenigen Musik die Rede ist, die man, weil sie vor Versammlungen aus allen Ständen und unter der Autorität des Staats ausgeübt wird, die öffentliche nennen kann; so kommt alles allein auf die Bildunp^ einer richtigen Schule gegenkömmt, so ist die Musik ein natürliches Band zwischen den untern und höhern Klassen der Nation, und dies ist es, wodiwch ihr vorzüglich beim Gottesdienst, dessen ganz eigentlicher Zweck es ist, alle Glieder der Nation nur als Menschen, und ohne die zufälligen UnterscJiiede der Gesellschaft zu vereinigen, einen so grossen und mächtigen Einßuss verschafft."</p>
+
+            <p>**j Gestrichen ist die folgende Stelle: „zu dem feierlichen Ernste der Kirche zurückkehrt, sowie es allen Künsten verderblich und wohl der wahre Grund ihres Verfalls in der neueren Zeit ist, wenn sie sich von dem einzigen Gegen- stande entfernen, welcher alle Glieder der ganzen Nation, ohne Ausnahme, tief und ernsthaft beschäftigt, sie regelmässig imd in grösserer Anzahl versainmelt und gleich nahe mit den Gefühlen, welche sie durch Familie und Vaterland an die Welt, als mit denen, welche sie durch ihr Gemüth an etwas Ueberirdisches</p>
+
+            <pb n="10.75" xml:id="pbX75"/>
+            <p>Ew. Königlichen Majestät werden aus der Beilage zu ersehen geruhen, welche ^^orschläge hierzu auf meine Veranlaßung ein schon vortheilhaft bekannter Tonkünstler Zelter macht, und ich bekenne gern, dass ich denselben mit voller Ueberzeugung beitrete.</p>
+
+            <p>Diese Vorschläge bestehen im Wesentlichen darin, dass eine ordentliche musikalische Behörde, deren Einfluss sich jedoch für jetzt nur auf Berlin erstrecken würde, durch die Ernennung eines geschickten Tonkünstlers zum Professor und Aufseher der öffent- lichen Musik bei der Akademie der Künste errichtet werde. Von dieser Behörde müsste die Verbeßerung der öffentlichen Musik nach und nach ausgehen, ihr Geschäft müsste vorzüglich in Auf- sicht, Prüfung und Bildung der im Dienste des Staats und der Gemeinen anzustellenden Musikanten bestehen; könnte aber nach dem Bedürfniss der Umstände mit der Zeit nach und nach ge- nauer bestimmt und mehr erweitert werden.</p>
+
+            <p>Ihr nächster Einfluss würde sich auf die Cantoren und Orga- nisten erstrecken und die Wohlthätigkeit dieses Einflusses leuchtet von selbst ein. Gesang und Orgel m.achen einen wesentlichen Theil des Gottesdienstes aus, aber sie können nur dann gehörig wirken, wenn Cantoren und Organisten ihr Geschäft gehörig ver- stehen und die Gemeinen beßer vorbereitet sind, harmonisch darin einzustimmen. Mit Benutzung des Rathes würdiger*) und erfahrner Geistlichen liesse sich vielleicht hierfür noch weit mehr thun, als man jezt ahnden mag, und da die alten längst vorhandenen Kirchen durch die einmal angestellten Personen und ein- mal eingeführten Gebräuche jeder Verbeßerung mehr Hindernisse entgegensetzen, so liesse sich vielleicht in der Kirche der in Berlin zu errichtenden Universität ein Vorbild einer zweckmässigen Einrichtung in dieser Art geben. Denn dass die Universität ihre eigene Kirche habe, scheint mir unumgänglich nothwendig, da das jugendliche Gemüth am wenigsten in der Zeit, wo die Wissenschaft leicht zu einseitig nur den Verstand ausbildet, ohne religiöse<pb n="10.76" xml:id="pbX76"/> Einwürkung gelaßen werden muss, in diesem Alter auch vorzugsweise für dieselbe empfänglich ist, aber eines eigenen auf den Grad der Cultur und die besondere Lage der Studirenden berechneten ^"ortrags bedarf. Die mit den Stadt-Obrigkeiten verbundene Musik würde hierauf die nächste Sorgfalt der Musikbehörde seyn, und die Ver- beßerung dieser stimmt gewiss gänzlich mit dem wohlthätigen Zweck der neuen Städte-Ordnung überein.</p>
+
+            <p>Eine dritte überaus wichtige Sache endlich ist die Behandlung der Musik auf den Schulen. Einige der grössern haben zwar öffentlichen Musik-Unterricht; allein er ist weder zweckmässig noch hinlänglich, und die Schul-Directionen haben sich der in ihrer bisherigen ^'erfassung vielen Missbräuchen unterworfenen Singchöre zu entledigen gesucht. Die Missbräuche der Singchöre aber lassen sich abstellen, und dass A'orzüglich die öffentliche Erziehung der Musik nicht entbehren*) kann, ist unleugbar. Der Mann, welcher sich meines Erachtens am meisten dazu schickt, eine solche Musikbehörde auszumachen oder, wenn man ihm vielleicht künftig einen oder den andern Gehülfen zuordnete, an ihrer Spitze zu stehen, wäre eben der Zelter, welchen ich zur Anfertigung des inliegenden, freilich nur flüchtig skizzirten Ent- wurfes veranlasst habe, und von dem ich noch eine zweite meinem Urtheile nach sehr gute Arbeit ähnlichen Inhalts beifüge. Er ist ein Mann von unbescholtenem Character und ein geschickter und gründlicher Tonkünstler und hat an der Sing-Akademie**) bewiesen, dass ihm die Gabe zu bilden und zu dirigiren, eigen ist. Er hat sich überdies viel mit dem Studium des ^^olks-Characters und der Mittel auf denselben zu würken beschäftigt. Bei Errichtung einer Universität könnte er auch als theoretischer Lehrer der Musik äusserst nützlich gebraucht werden.</p>
+
+            <p>*J Gestrichen ist: „enthehren kann, theils um der sonst so leicht einreissenden Rohheit entgegen zu arbeiten, noch mehr aber um das Gemüth sich an Wohlklang und RJiythmus zu gewöhnen, das hat die neuere Pädagogik schon oft sehr lebhaft gefühlt. — Man kann es überhaupt nicht genug wiederhden: Kunstgenuss ist einer Nation durcliaus unentbehrlich, wenn sie noch irgend für etwas Höheres empfänglich bleiben soll! Durch welche Kunst aber Hesse derselbe sich bis zu den untersten Volksklassen hin reiner, mächtiger und leichter verbreiten, als durch die Musik?"</p>
+         </div>
+      </body>
+   </text>
+</TEI>

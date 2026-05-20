@@ -1,0 +1,273 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aus den römischen Berichten</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif10humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1903">1903</date>
+                  </imprint>
+                  <biblScope unit="page" from="1" to="15"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="fr">Français</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="10.1" xml:id="pbX1"/>
+            <p>f4t »•/►.i^i</p>
+
+            <p>'^.-'. •?•■</p>
+
+            <head>
+               <title type="main">p3r. VI.-;</title>
+            </head>
+            <p>...■ ■/■ '^51 ^■■jj^Vwwr^^^^^H</p>
+
+            <p>«mite. 5-*-^-</p>
+
+            <div type="section" n="1">
+               <head>
+                  <title type="main">^</title>
+               </head>
+               <pb n="10.2" xml:id="pbX2"/>
+               <pb n="10.3" xml:id="pbX3"/>
+               <pb n="10.4" xml:id="pbX4"/>
+            </div>
+
+            <div type="section" n="2">
+               <head>
+                  <title type="main">Wilhelm von Humboldts</title>
+               </head>
+            </div>
+
+            <div type="section" n="3">
+               <head>
+                  <title type="main">Gesammelte Schriften.</title>
+               </head>
+               <pb n="10.5" xml:id="pbX5"/>
+            </div>
+
+            <div type="section" n="4">
+               <head>
+                  <title type="main">Gesammelte Schriften.</title>
+               </head>
+               <p>Herausgegeben von der</p>
+            </div>
+
+            <div type="section" n="5">
+               <head>
+                  <title type="main">Königlich Preussischen Akademie der Wissenschaften.</title>
+               </head>
+               <p>Band X.</p>
+
+               <p>Zweite Abteilung:</p>
+
+               <p>Politische Denkschriften I.</p>
+
+               <p>•&gt; •♦•»■ —</p>
+            </div>
+
+            <div type="section" n="6">
+               <head>
+                  <title type="main">Berlin</title>
+               </head>
+            </div>
+
+            <div type="section" n="7">
+               <head>
+                  <title type="main">B. Behr's Verlag</title>
+               </head>
+               <p>1903.</p>
+
+               <pb n="10.6" xml:id="pbX6"/>
+            </div>
+
+            <div type="section" n="8">
+               <head>
+                  <title type="main">Wilhelm von Humboldts</title>
+               </head>
+            </div>
+
+            <div type="section" n="9">
+               <head>
+                  <title type="main">Politische Denkschriften.</title>
+               </head>
+               <p>Herausgegeben von</p>
+            </div>
+
+            <div type="section" n="10">
+               <head>
+                  <title type="main">Bruno Qebhardt.</title>
+               </head>
+            </div>
+
+            <div type="section" n="11">
+               <head>
+                  <title type="main">Erster Band.</title>
+               </head>
+               <p>1802 — 1810.</p>
+            </div>
+
+            <div type="section" n="12">
+               <head>
+                  <title type="main">Berlin</title>
+               </head>
+            </div>
+
+            <div type="section" n="13">
+               <head>
+                  <title type="main">B. Behr's Verlag</title>
+               </head>
+               <p>1903.</p>
+            </div>
+
+            <div type="section" n="14">
+               <head>
+                  <title type="main">//^/^/</title>
+               </head>
+            </div>
+
+            <div type="section" n="15">
+               <head>
+                  <title type="main">/j ' ' ' ^</title>
+               </head>
+               <pb n="10.7" xml:id="pbX7"/>
+               <p>Alle Rechte vorbehalten.</p>
+
+               <pb n="10.8" xml:id="pbX8"/>
+            </div>
+
+            <div type="section" n="16">
+               <head>
+                  <title type="main">Inhalt</title>
+               </head>
+               <p>Seite I. Alis den römischen Jahren 1802 — 1808 i</p>
+
+               <p>I. — X. Aus den römischen Berichten i IL An der Spitze der preußischen Unterrichtsverwaltung, i8og u. 1810 . . 16</p>
+
+               <p>/., //. Anträge für F. A. Wolf 16</p>
+
+               <p>III. Über die Medaille der Magistratsmitglieder 22</p>
+
+               <p>IV. Über den Etat der Akademie der Wissenschaften 2^</p>
+
+               <p>V. Über die Akademie der Künste J2</p>
+
+               <p>VI. — XIV. Über das Zensurwesen j6 XV. Antrag für Fichte 72</p>
+
+               <p>XVI. Über geistliche Musik 7^ XVII. Über die Königliche Bibliothek zu Berlin 77</p>
+
+               <p>XVIII. Antrag für Schleiermacher 80</p>
+
+               <p>XIX. Gutachten über die Organisation der Ober - ExaminationsKommission 81</p>
+
+               <p>XX. Über Kadettenhäuser g^ XXI. Über den Entwurf zu einer neuen Konstitution für die Juden 97 XXIL, XXIII. Über städtische Schuldeputationen 7/5 XXIV., XXV. Plan zur Organisierung der Medizinalsektion im</p>
+
+               <p>Ministerium des Innern 722</p>
+
+               <p>XXVI. — XXXII. Zur Gründung der Universität Berlin i^g XXXIII. Über die Liegnitzer Ritterakademie 160 XXXIV. über den Unterricht im Zeichnen 175</p>
+
+               <p>XXXV. über die Patronatsrechte i'jö XXXVI. — XXXIX. Die Errichtung einer wissenschaftlichen Depu<pb n="10.9" xml:id="pbX9"/>XLIII. Antrag auf Berufung Savignys 228 XLIV. Über die Berufung Reils etc 229 XLV. Über die Berufung von Gauss und Oltmanns 2^^ XL VI. Über Aufhebung des Verbots, fremde Universitäten zu besuchen 2^7 XLVII. Über Prüfungen für das höhere Schulfach 2^g XLVIII. Zur Einrichtung eines Museums in Berlin 242 XLIX. Entlassungsgesuch 244 L. Über die innere und äussere Organisation der höheren wissen- .</p>
+
+               <p>schaftlichen Anstalten in Berlin 250 LI. Über die Organisation der Sektion und der Stellimg ihrer Mitglieder 261 LH. — LVIII. Zur Gründung der Universität Berlin 26^ LIX. Vorschläge zur Organisation der Behörden 28g LX. Über Reformen im Unterrichtswesen 2gg</p>
+
+               <pb n="10.10" xml:id="pbX10"/>
+            </div>
+
+            <div type="section" n="17">
+               <head>
+                  <title type="main">I. Aus den römischen Jahren 1802 — 1808.</title>
+               </head>
+               <p>Atn 2^. Mai 1802 wurde Wilhelm von Humboldt zum preußischen Residenten bei der Kurie ernannt, reiste am 14. September 1802 mit seiner Familie von Tegel ab und traf am i'j. Oktober in Mailand, am 25. November in Rom ein. Dort blieb er bis zum 14. Oktober 1808. Die amtlichen Berichte, die er während dieser Jahre in die Heimat sandte, behandeln einerseits kircJienpolitische Angelegenheiten, andererseits die großen politischen Vorgänge mit besonderer Berücksichtigung ihrer Rückwirkung auf die italienischen Staaten. Wir geben im folgenden einige Auszüge daraus, die von allgemeinem, auch heute noch wirksamem Interesse sind.</p>
+            </div>
+
+            <div type="section" n="18">
+               <head>
+                  <title type="main">I. — X. Aus den römischen Berichten.</title>
+               </head>
+               <p>L, IL Italienische Zustände.</p>
+
+               <p>ä Milan, le 20 Octobre, 1802.</p>
+
+               <p>. . . Teile est en general la Situation de ce pays. Si V. M, me permettait de Lui soumettre cette reflexion qu'en considerant son etat actuel on ne sauroit oublier qu'il ne depend presque que du hazard que tout ä coup il ne se trouve dans un autre entierement different. Maintenant il est entierement dependant de la France, mais la destinee de la France elle-meme paroit attachee ä la vie d'un seul homme et la machine de cette vaste Republique est trop compliquee pour qu'on puisse croire qu'un autre moins extraordinaire saura la diriger et la soutenir. C'est alors que la Republique italienne pourroit gagner au moins une<pb n="10.11" xml:id="pbX11"/> exercer tour ä tour la Jalousie de l'Autriche et de la France. Sous ce point de vue son existence est certainement tres-interessante en politique, et si jamais eile pouvoit devenir une verkable Puissance et realiser son nom de republique Italienne, eile le seroit surtout pour les Puissances du Nord. Car on ne sauroit se dissimuler que depuis que les Francois sont devenus maitres absolus de l'Italie et que l'Autriche y a perdu toute son influence, les Puissances du Nord sont privees du double avantage et de voir la France tenue en echec par les craintes qu'elle devoit avoir de la part de ritalie: et de voir l'Autriche contenter ses vues ambitieuses dans des contrees eloignees et dont les interets lui sont etrangers. n est vrai que bien des circonstances, surtout la prudence politique de Bonaparte de s'assurer toutes les clefs de l'Italie et le caractere de cette nation denuee de patriotisme et d'energie s'op- posent ä ce que l'Italie ajoute encore de longtemps un poids assez considerable ä la balance de l'Europe pour influer essentiellement sur son equilibre. Mais il faut avouer neanmoins qu'un pays qui embrasse la plus belle et la plus riche partie de l'Italie dont le terrain est si fertile que la recolte d'une annee suflit ordinairement pour les deux suivantes, dont les habitants sont d'une industrie si infatigable que malgre la derniere guerre ses campagnes sont encore ä peu de differences pres egalement belles et bien cultivees comme auparavant et qui possede des richesses si immenses qu'encore dans ce moment Milan est la ville la plus opulente de ritalie; peut facilement et pour peu qu'on lui laisse un moment de liberte, prendre une attitude si non formidable du moins imposante et qu'on aurait tort de le regarder comme nul pour les autres Puissances de l'Europe, meme pour Celles qui par sa po- sition s'en trouvent eloignees. S'il est possible qu'un Chef de Gouvernement par son activite et ses talents puisse preparer un tel etat des choses, c'est certainement le Sr. Melzi d'Erile*) plus</p>
+
+               <p>*j Melzi d'Erile (lysj — 1S16J stammte aus vornehmer mailändischer Familie, wurde Kammerherr der Kaiserin Maria Theresia, erbte in Spanien die Herrschaß Erile imd führte als Grayide von Spanien den Herzogtitel, wohnte als Gesandter der cisalpinischen Republik dem Kongreß von Rastatt bei, wurde durch Talleyrand für Napoleons italienische Pläne gewonnen und stimmte auf der Consulta von Lyon, nachdem zuerst die Wahl als Präsident der italienischen<pb n="10.12" xml:id="pbX12"/> qu'aucun autre qui en est capable. Laborieux jusqu'ä l'exces, modere et mesure dans tout ce qu'il entreprend, sans passions ou du moins ne trahissant jamais qu'il en cache sous un air toujours froid et reflechi, n'etalant aucun faste, vivant avec la simplicite d'un particulier dans sa propre maison et n'allant au Palais que pour y traiter les affaires de l'Etat. II n'a absolument d'autre idee que de conduire sa patrie au degre de consideration et de bonheur que sous les circonstances actuelles il est possible d'at- teindre. En cedant avec sagesse ä ces memes circonstances, il sait toujours gagner sur elles et obtenir au moins une panie de son but. II doit voir que Tindependance politique ne seroit dans ce moment ni possible ni desirable. II s'attache donc uniquement ä I'administration Interieure et au retablissement des finances. II ne peut empecher que les Francois ne detournent une partie consi- derable des revenus de la Republique ä leur benefice; mais du moins etablit-il l'ordre, empeche le gaspillage et obtient des dimi- nutions: On payoit autrefois 540000 ecus de Prusse pour l'entretien des trouppes francoises dans la Republique dont le nombre se monte ä 20000 hommes. On en paye maintenant pas plus que 320000. II est connu que de cette somme les ^/^ s'employoient ä l'entretien des trouppes et que le reste etoit partage entre les Ge- neraux et les Commissaires ordonnateurs ... Le general Murat meme n'ose point se meler de I'administration Interieure et Melzi d'Erile lui etant incomparablement superieur en connoissances et en moyens sait lui en imposer.</p>
+
+               <p>ä Florence ce 13 Novembre 1802.</p>
+
+               <p>Au surplus la Situation de ce pa3^s malheureux est la plus triste possible et le sage Leopold*) ne paroit avoir vecu que pour</p>
+
+               <p>*yl Auf Leopold (i'jös — ^^790^ folgte, als er die Regierung Österreichs übernahm, sein Sohn Ferdinand III. (i-jgo — gg). Dann trat in Toscana die franzö- sische Okkupation ein. Durch einen Vertrag, der 1801 zwischen Godoi und Lucian Bonaparte in Madrid abgeschlossen wurde, ging Toscana in den Besitz der Bourbons, Parma in den der Franzosen über. Das erstere wurde in das Königreich Etrurien umgewandelt und an Ludwig I., den Sohn Don Ferdinands, Herzogs von Parma, übergeben. Dieser, 177^ in Parma geboren, ging bei Aus<pb n="10.13" xml:id="pbX13"/>inspirer les plus vifs regrets ä tous ceux qui ont encore profite des fruits de son excellente administration. Le regne de son fils ne presenta dejä plus la meme fermete ni la meme sagesse, le Gouvernement provisoire introduisit encore plus d'abus; mais l'administration actuelle acheve de perdre ce qu'il y avoit encore de bon et de precieux. Tous ceux qui approchent de plus pres le Roi se reunissent ä dire que l'etat de sa sante le rendoit in- capable de regner. La maladie malheureuse dont il est si frequem- ment attaque lui permet ä peine de jouir entre dix jours de deux dans les quels il ait assez de force d'esprit pour soutenir une conversation un peu suivie, avec cela il est sujet ä des acces de fureur, dont deux ont ete connus au public et ont excite, selon les sentiments des factions differentes, ou la pitie ou un manque de consideration encore plus dangereux. On dit sa sante beaucoup meilleure dans ce moment, mais bien des personnes doutent de l'authenticite de ces nouvelles. II est inconcevable ä quoi Ton doive attribuer le changement subit qui s'est opere dans la sante et meme dans les facultes intellectuelles de ce Prince. Malgre qu'il souffroit dejä du meme mal en Espagne, il s'y distingua par une conversation aisee et agreable et un amour des sciences dont quelquesunes ne lui furent point etrangeres. Le O^ de Roh de*) aura eu occasion d'en parier quelque fois ä V. M. dans ses rapports, et moi meme je me souviens de l'avoir trouve ainsi ä Madrid. Les uns attribuent ce changement cruel ä l'influence des pretres dont quelques personnes attachees ä l'ancienne Cour, pour venger leur ancien maitre, doivent l'avoir entoure et qui ont rempli son esprit de frayeurs superstitieuses. D'autres pretendent qu'ayant toujours eu une extreme antipathie contre les Francois, leur nom meme l'avoit depuis son voyage ä Paris frappe d'une si grande terreur que dernierement ä Livourne p. e. au seul son du tam- bour des trouppes francoises, il avoit pris des convulsions, en criant qu'on le trahissoit et qu'on alloit le faire perir comme Louis XVL Quoi qu'il en soit, il est difficile de prevoir ce que deviendra ce pays, si on ne poun'oit pas d'une autre maniere ä son administration. On avoit crü d'abord que le voyage de Bar- celone avait eu le but d'eloigner le Roi des arYaires et d'etablir<pb n="10.14" xml:id="pbX14"/> une regence, mais il paroit certain au contraire qu'il va revenir au mois de Decembre sans accompagner son beaupere ä Madrid. On avoit espere au moins qu'on eloigneroit de lui le Chevalier Salvatico son favori, homme venal et intrigant qui est l'auteur de la plupart des abus qui se sont introduits depuis ce regne; mais on dit que le Chevalier Salvatico jouit de la meme faveur aupres de S. M. Cathol. On ne prevoit donc aucun remede au mal qui surtout pour le derangement des finances va toujours en augmentant. Ce derangement est si grand que ce petit Etat compte dejä 35 Millions d'ecus de notre monnaye de dettes, et que le revenu de l'annee 1803 est presque deja depense en entier dans le moment present. Neanmoins les impositions sont si enormes que quelque incroyable que cela paroisse on a fait le calcul que chaque individu en comptant Tun dans l'autre paye annuellement presque 10 ecus de Prusse a l'Etat: mais l'interet toujours croissant de la dette qui n'est point paye, l'entretien des trouppes francoises qui coütent 180000 livres par mois, la desorganisation dans presque toutes les parties de l'administration, et la facilite avec laquelle le Roi cree ä tout moment de nou- veaux postes et qui fait que pour un tres petit nombre de soldats, il a plusieurs Feld Marechaux, et un nombre tout ä fait dispro- portionne de Generaux et de Colonels; toutes ces circonstances prises ensemble sont cause que non seulement le revenu annuel est absorbe en entier, mais qu'il reste encore toujours un deficit tres considerable. L'agriculture, l'industrie et le commerce souf- frent egalement: la premiere surtout par la defense qu'on a faite depuis quelque temps de l'exportation du ble. La police enfin est si peu \'igilante que les grandes routes de la Toscane connues autrefois pour la surete qu'elles oflfroient aux voyageurs sont in- festees de voleurs de grand chemin.</p>
+
+               <p>III. Erste Audienz beim Papste.</p>
+
+               <p>Rom, den 3. December 1802.</p>
+
+               <p>Ich bin am 25. v. M. hier eingetroffen, und gleich am folgenden Tage habe ich, in Gesellschaft meines Vorgängers U h d e n *), meinen Besuch beim Cardinal Staats-Secretaire Consalvi abgestattet, um ihn um eine Audienz beim Pabst zu ersuchen. Diese wurde<pb n="10.15" xml:id="pbX15"/> Königlichen Majestät allergnädigst ertheilte litteras patentes beglaubigt, mein Vorgänger aber seine recredentialien übergeben hatte, verfügten wir uns zum Pabste. Dieser empfing uns allein in seinem Zimmer, und, da mein Vorgänger schon alles sonst übliche Ceremonial der Kniebeugungen u. s. f. abgeschatft hatte, ohne alle weitere Feierlichkeit. Er Hess uns neben sich setzen, unterhielt uns über eine starke halbe Stunde lang über allerlei Gegenstände, und versicherte wiederholt, wie äusserst viel ihm daran gelegen sey, das mit Ew. Königlichen Majestät bestehende gute Vernehmen auch ferner ununterbrochen zu unterhalten. Er ist, wie auch aus dieser Unterredung hen'orleuchtete, ein äusserst leutseliger, wohlmeinender, und für das Beste seiner Unterthanen eifrigst besorgter Fürst, und wenn, wie es freilich der Fall ist, die Verwaltung der Regierung noch bei weitem nicht den Bedürfnissen des Staats angemessen ist, so liegt es wenigstens nicht, wie unter der Regierung Pius des 6. in Fehlern seines Charakters. Denn weit entfernt, sowohl seine Familie zu bereichern, als selbst Aufwand zu machen, lebt er vielmehr mit wahrhaft mönchischer Sparsamkeit. Beim Weggehen nahm er mich bei der Hand, und begleitete uns bis an die Thür.</p>
+
+               <p>IV. Zustände in Rom.</p>
+
+               <p>ä Rome, ce 4 Decembre 1802.</p>
+
+               <p>... La Situation dans laquelle j'ai trouve l'Etat Romain n'est rien moins que consolante. II est sür que le Pape actuel fait son possible pour corriger les abus qui se sont introduits dans presque toutes les panies de l'Administration ; mais on ne choisit peut-etre pas toujours les moyens les plus efficaces, ou ne les execute pas avec assez de vigueur; aussi l'etat dans lequel Pie 7. trouva le pays ä son avenement au Siege Papal fut-il trop deplorable. Apre- sent il est vrai que les revenus de l'etat sont portes ä une somme tres considerable. Mais le peuple gemit aussi sous le fardeau de si enormes contributions qu'il est difücile de prevoir comment cela puisse continuer ainsi. Un malheur paniculier ä l'annee pre- sente est l'enorme cherte du ble. Le pain est ä un prix incroyable,</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

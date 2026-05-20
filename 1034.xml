@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Entlassungsgesuch</title>
+            <author>
+               <persName ref="gnd-118554727">
+                  <surname>Humboldt</surname>
+                  <forename>Wilhelm von</forename>
+               </persName>
+            </author>
+            <respStmt>
+               <resp>TEI encoding</resp>
+               <persName xml:id="ml">
+                  <forename>Marcus</forename>
+                  <surname>Lampert</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <date when="2026-05-20">2026-05-20</date>
+            <availability status="restricted">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <author>
+                     <persName ref="gnd-118554727">
+                        <surname>Humboldt</surname>
+                        <forename>Wilhelm von</forename>
+                     </persName>
+                  </author>
+                  <title>Wilhelm von Humboldts Werke. Zehnter Band</title>
+                  <editor>
+                     <persName ref="gnd-116890657">
+                        <surname>Leitzmann</surname>
+                        <forename>Albert</forename>
+                     </persName>
+                  </editor>
+                  <idno type="URI">https://archive.org/details/gesammelteschrif10humbuoft/page/n5/mode/2up</idno>
+                  <imprint>
+                     <publisher>Königlich Preußische Akademie der Wissenschaften</publisher>
+                     <pubPlace>Berlin</pubPlace>
+                     <date when="1903">1903</date>
+                  </imprint>
+                  <biblScope unit="page" from="244" to="249"/>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p>This digital edition follows the TEI P5 Guidelines.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+
+         <langUsage>
+
+            <language ident="de">Deutsch</language>
+
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="original">
+            <pb n="10.244" xml:id="pbX244"/>
+            <head>
+               <title type="main">XLIX. Entlassungsgesuch.</title>
+            </head>
+            <p>29. April 1810. (Eigenhändig iyn Geh. Staatsarchiv, Abschrift in Tegel.)</p>
+
+            <p>Allerdurchlauchtigster Grossmächtigster König</p>
+
+            <p>Allergnädigster König und Herr.</p>
+
+            <p>Ew. Königlichen Majestät wagte ich im verwichenen Herbst in Königsberg mündlich meinen Wunsch zu äussern, aus meinem jetzigen Geschäftskreise in eine andere Laufbahn versetzt zu werden. Ew. Königliche Majestät geruhten mich damals mit Herablassung anzuhören und mir huldreichst zu versprechen auf mein Gesuch Rücksicht zu nehmen. Die Gründe, welche dasselbe zu jener Zeit veranlassten, haben sich seitdem in steigendem Masse vermehrt und jetzt sind Umstände eingetreten, welche mich zu dem schmerzlichen Schritte nöthigen, Ew. Königliche Majestät ehrfurchtsvoll um die Erlaubniss zu bitten, mein gegenwärtiges Amt als Chef der Sectionen für den Cultus, öffentlichen Unterricht und das Medicinal-Wesen völlig niederlegen zu können.</p>
+
+            <p>Dasselbe ehrerbietige Vertrauen, das mich damals leitete, macht mich auch jetzt so dreist, Ew. Königlichen Majestät die Gründe auseinander zu setzen, welche mich zu einem Entschlüsse bringen, der meinem Herzen, wie ich mit voller Wahrheit ver- sichern kann, unendlich schwer wird.</p>
+
+            <p>In einem mir von Ew. Königlichen Majestät Staats-Ministerio offiziell angekündigten interimistischen Staats-Rathe sollen die Geheimen Staats-Räthe zwar in Angelegenheiten ihres besonderen Ressorts ein volles Votum, übrigens aber (nach den ausdrücklichen Worten der Verfügung) gleich den Staats- und Geheimen Ober- Justiz-Räthen nur ein Votum consultativum haben.<pb n="10.245" xml:id="pbX245"/> das einzige ihm übrig bleibende Mittel, das Zurücktreten aus dem umgeänderten Verhältniss, ergreift, und mein gegenwärtiger Ent- schluss wird, meiner innersten Ueberzeugung nach, durch die triftigsten, mit Ew. Königlichen Majestät Dienst selbst in der nächsten Verbindung stehende Gründe gerechtfertiget.</p>
+
+            <p>Ich kann einen Staats-Rath, wie der beschlossene ist, nicht für denjenigen halten, dessen die allerdings noch sehr mangelhafte Verwaltung des Staats schon seit lange bedurfte, und welcher den Erwanungen der Nation und den Hoffnungen des Bessren, die man noch allgemein auch von Preussens innerer Verwaltung hegt, entsprechen könnte ; ich bin in meinem Innersten überzeugt, dass die veränderte Stellung der Geheimen Staats-Räthe im Staatsrath, auch ihre Wirksamkeit als Sections-Chefs vernichtet ; und ich fühle mich endlich, wie ich freimüthig eingestehe, tief gekränkt, durch die Herabsetzung, mit welcher die Geheimen Staatsräthe auf einmal im Staatsrath denjenigen gleich gesetzt werden, welche, der bisherigen Verfassung gemäss, keine Ansprüche auf eine regelmässige und wirksame Theilnahme an denselben machen konnten, und die in allen andern Hinsichten den Sections-Chefs untergeordnet sind. Der Staatsrath, welchen die Verordnung vom 24. November 1808 festsetzte, und dessen Suspension im Publicando vom 16. Dezember ejusd. gewiss von höchst nachtheiligen Folgen gewesen ist, hatte offenbar zum Zweck, Einheit in die Maschine der Staats- Verwaltung zu bringen und Ew. Königlichen Majestät über diejenigen Angelegenheiten, welche zu Allerhöchstihrer eigenen Ent<pb n="10.246" xml:id="pbX246"/>oder auch den Sectionen, zugezogen werden, alle aber nur be- rathende Stimme haben.</p>
+
+            <p>Der eine Zweck, Ew. Königliche Majestät mit der Meinung aller Administratoren bekannt zu machen, fällt daher von selbst hinweg, der andere der Einheit findet, (auch vorausgesetzt, dass alle wichtige Angelegenheiten wirklich vor den Staatsrath gebracht würden) nur insofern Statt, als freilich alle Administratoren von jeder Sache Kenntniss empfingen, auch über jede, jedoch ohne weitere Wirksamkeit, ihre Meinung sagen könnten, womit sicherlich bei weitem nicht dasjenige erreicht wird, was man unter admi- nistrativer Einheit verstehen muss. Auch kommt noch überdiess hinzu, dass es, ausser dem Staatsrath, über viele Gegenstände der Administration Ministerial-Konferenzen geben soll, bei welchen die Geheimen Staatsräthe nur einzeln und bisweilen zugezogen werden. Dieser Staatsrath kann daher höchstens soviel erreichen, dass bei mehr regelmässiger mündlicher Berathung der Schriftwechsel ver mindert wird und dass Ew. Königlichen Majestät Staats-Ministerium die Vorschläge und Erinnerungen einer grösseren Anzahl von Personen, als jetzt officieller Weise vernimmt. Allein dies letztere wird auch schwerlich völlig erreicht werden, da sich nicht erwarten lässt, dass diejenigen, die mit dem Bewusstsein reden, dass ihre Meinung ebenso gut verworfen als angenommen werden kann, mit Freimüthigkeit und dem wahren lebhaften Interesse sprechen werden, ohne welche nichts recht Gutes zu Stande kommt. Ein solcher Staatsrath kann, meiner Ueberzeugung nach, nicht viel mehr als ein blosser Name seyn, wohl aber dadurch noch schäd- lich werden, dass er den Beschlüssen einiger Weniger scheinbar ein grösseres Gewicht beileget. Ich empfinde es tief wie ^iel ich wage, mich gegen eine Anordnung zu äussern, welche Ew. König- liche Majestät zu sanctioniren einmal geruhet haben. Ich fühle aber auch ebenso lebhaft, dass es nur aus Eifer für Ew. Königlichen Majestät Allerhöchsten Dienst geschieht. Vielleicht reicht auch dieser kaum hin, eine solche Freiheit zu rechtfertigen ; allein gewiss würde ich nichts von allem diesen zu erwähnen wagen, wenn es nicht meinem Herzen zugleich Pflicht und Bedürfniss wäre, mein Entlassungsgesuch in Ew. Königlichen Majestät Augen aus den Gründen zu rechtfertigen, aus welchen es herfliesst.</p>
+
+            <p>Ich habe übrigens die obigen Behauptungen mit um so grösserer Zuversicht gewagt, als auch bei den allgemeinen Vor<pb n="10.247" xml:id="pbX247"/>jenigen seyn, welche, der bisherigen Verfassung nach, jetzt Mitglieder des Staatsraths se3^n sollten, wenn man ihrer Freimüthig- keit nicht die Bescheidenheit und Mässigung zutraute, welche die damaligen Mitglieder bewiesen, und welche in jeder deliberirenden Versammlung gleich anständig und nothvvendig ist.</p>
+
+            <p>Will ich aber auch nur streng auf die Erfüllung meiner Pflichten als Sections-Chef sehen ; so fühle ich mich auch in dieser durch die neue Anordnung gänzlich gehemmt. Denn wenn auch wirkhch geäussert ist, dass die Sectionen in ihren übrigen Verhältnissen wie bisher, verbleiben sollen; so ist dies, wenn man den Geist der Verordnung vom 24. November 1808 erwägt, doch in sich unmöglich; die gemachte Abänderung greift weit tiefer ein, als es beim ersten Anblick scheint; sie vernichtet nicht bloss die Vorrechte der Geheimen Staatsräthe im Staatsrath, sondern sie untergräbt dieselben auch in den Sectionen, und zerstört in der That das Wesen des durch jene Verordnung eingeführten Verwaltungs-Systems. Es ist nämlich eine Eigenthümlichkeit von diesem, dass die Chefs der Sectionen wichtigen Parthien der Administration nicht als blosse Organe der Minister, sondern selbständig und so vorstehen, dass sie nur der Controlle der Minister unterworfen sind, allein nur zu äusserst wenigen Dingen ihrer Zustimmung bedürfen. Diese Selbständigkeit ist mit dem vollen An- theil derselben am Staatsrath in so enger wechselseitiger Verbindung, dass die erstere nicht mehr mit Nutzen ohne den letztern bestehen kann. W^erden dieselben nun im Staatsrath den blossen Staats- räthen gleich gesetzt, so verlieren sie nothwendig und ohne dass man es hindern kann, auch als Sections-Chefs alles Ansehen und alles Gewicht ; die Minister müssen mehr in ihre Verwaltung ein<pb n="10.248" xml:id="pbX248"/>jestät gelegen sein kann, und die unmöglich darin bestehen darf, dass jeder seine einzelnen beschränkten Maassregeln vertritt, sondern darin, dass er für eine mit Freiheit verwaltete Parthie einsteht, fällt von selbst hinweg. Fühlten daher die Sectionen in ihrer Wirksamkeit bisher den Mangel eines Staatsrathes ; so werden sie noch weit nachtheiliger den Einfluss eines solchen empfinden, in welchem ihre Vorsteher eine ihnen gänzlich unangemessene Stelle einnehmen. Die volle Stimme der Geheimen Staatsräthe in ihren eigenen Angelegenheiten kann diesen Schaden nicht aufheben. Denn wenn damit auch eine wirklich entscheidende gemeint seyn sollte; so ist sie immer nur eine einzelne, auch besitzen die Sections-Chefs diese von selbst dadurch, dass ihre Berichte Ew. Königlichen Majestät vor Augen gelegt werden.</p>
+
+            <p>Ich wage noch hinzuzufügen, dass die hier angeführten Xach- theile meine Parthie doppelt treffen, da die Ueberzeugungen von den in sie einschlagenden Gegenständen nur bei anhaltender Beschäftigung mit denselben richtig entstehen, und sich abändern können, da es nicht immer möglich ist. sich mit Personen, die einmal von Grund aus andere Ansichten hegen, darüber durch blosse Gründe zu verständigen, auch die mit auswärtigen Gelehrten anzuknüpfenden Verhältnisse nur dann gelingen können, wenn den Chef der Section das gehörige Gewicht zugetraut werden kann. Ich würde daher durchaus gegen meine Pflicht handeln, wenn ich Ew. Königlichen Majestät nicht freimüthig erklärte, dass ich ausser Stande bin, Geschäften ferner vorzustehen, die nach dieser Abänderung, nur von dem Minister selbst mit Fortgang geleitet werden können.</p>
+
+            <p>Freilich ist die neue Anordnung nur interimistisch ; allein sollte den Geheimen Staatsräthen künftig zugestanden werden, was ihnen jetzt versagt wird? auf jeden Fall würde auch selbst in kurzer Zeit der Nachtheil der Schwächung ihres Ansehens immer fühlbar seyn, und endlich wird die Zurücksetzung durch den interimistischen Zustand um nichts weniger empfindlich und kränkend.</p>
+
+            <p>Denn ich scheue mich nicht, vor Ew. Königlichen Majestät, deren unpartheiische Gerechtigkeits-Liebe eine sichere Zuflucht für jeden Ihrer Unterthanen ist, auch diesen Punkt zu berühren. Er bezieht sich allerdings auf etwas Persönliches. Allein es giebt bei dem Dienste im Staate ein Ehrgefühl, das mit dem Pflicht<pb n="10.249" xml:id="pbX249"/>diejenigen Vorrechte damit verknüpft glauben, welche die Verord- nung vom 24. November 1808 ihm zusichert. Ew. Königliche Majestät hatten diese Verordnung Allerhöchstselbst vollzogen, das Publicandum vom 16. Dezember ejd. war nur ein Auszug daraus; der Staatsrath war freilich suspendirt, allein nirgends verlautete, dass er überhaupt, geschweige denn in seinen wesentlichsten Bestimmungen, geändert werden sollte. Jetzt verliere ich auf einmal das wichtigste Vorrecht meines Amtes; es bleibt nunmehr nichts als der blosse Vorsitz in der Section, den auch Staatsräthe haben können, und wirklich haben, übrig. Ew. Königliche Majestät sind zu gerecht, als dass Sie es ungnädig aufnehmen sollten, wenn ich unter diesen Umständen nicht weiter fondienen kann, sondern um die Erlaubniss bitte, meinen Posten Ew. Königlichen Majestät ehrfurchtsvoll zu Füssen legen zu dürfen.</p>
+
+            <p>Ich kann zwar, da Ew. Königliche Majestät geruhet haben, mich unverdienterweise immer persönlich einer Gnade zu würdigen, für welche meine tiefe Dankbarkeit unauslöschlich bleiben wird, nicht das Gefühl unterdrücken, dass der Ausgang meiner Dienstlaufbahn jetzt überaus traurig für mich ist. Ew. Königliche Ma- jestät geruhen sich zu erinnern, dass ich meinen jetzigen Posten keinesweges suchte, ich wagte vielmehr die Bitte, mich in meinem alten Verhältnisse zu lassen. Die Gewährung dieses Wunsches hätte mir die Collisionen erspart, die mich jetzt gänzlich aus dem Dienst zu treten nöthigen.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
